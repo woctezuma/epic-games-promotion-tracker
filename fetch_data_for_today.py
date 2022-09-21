@@ -11,7 +11,7 @@ def main():
     output_fname = PROMOTION_DATA_FNAME
     Path(output_fname).parent.mkdir(parents=True, exist_ok=True)
 
-    requires_to_download_json = not Path(output_fname).exists()
+    requires_to_download_json = True  # not Path(output_fname).exists()
     requires_to_update_markdown = requires_to_download_json
 
     if requires_to_download_json:
