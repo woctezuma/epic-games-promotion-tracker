@@ -24,9 +24,6 @@ def to_upcoming_promotion(store_element):
         if len(promotional_offers) > 1:
             print(promotional_offers)  # TODO
 
-        # NB: the field name is confusing: this is the ratio between the discounted price and the base price.
-        ratio = first_promotional_offer["discountSetting"]["discountPercentage"]
-
         slug_mappings = store_element["catalogNs"]["mappings"]
         if slug_mappings is not None and len(slug_mappings) > 0:
             slug = slug_mappings[0]["pageSlug"]
@@ -35,13 +32,22 @@ def to_upcoming_promotion(store_element):
         else:
             slug = ""
 
-        promo_element = {
-            "slug": slug,
-            "title": store_element["title"],
-            "startDate": first_promotional_offer["startDate"],
-            "endDate": first_promotional_offer["endDate"],
-            "discountPercentage": 100 - ratio,
-            "isFree": bool(ratio == 0)
-        }
+        promo_element = to_promo_element(slug, store_element["title"], first_promotional_offer)
+
+    return promo_element
+
+
+def to_promo_element(slug, title, promotional_offer):
+    # NB: the field name is confusing: this is the ratio between the discounted price and the base price.
+    ratio = promotional_offer["discountSetting"]["discountPercentage"]
+
+    promo_element = {
+        "slug": slug,
+        "title": title,
+        "startDate": promotional_offer["startDate"],
+        "endDate": promotional_offer["endDate"],
+        "discountPercentage": 100 - ratio,
+        "isFree": bool(ratio == 0)
+    }
 
     return promo_element
