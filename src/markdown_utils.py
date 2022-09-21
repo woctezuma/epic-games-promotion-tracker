@@ -1,6 +1,6 @@
 from src.time_utils import prepare_date_for_display
 
-HEADERS = ["Game Slug", "Name", "Discount (%)", "Starts", "Ends"]
+HEADERS = ["Game Slug", "Game Name", "Discount (%)", "Starts", "Ends"]
 TIME_FIELDS = ["startDate", "endDate"]
 ENTRY_FIELDS = ["slug", "title", "discountPercentage"] + TIME_FIELDS
 
