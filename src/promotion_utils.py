@@ -7,7 +7,7 @@ def get_upcoming_promotional_offers(store_element):
     if len(promotion_list) > 0:
         promotional_offers = promotion_list[0]["promotionalOffers"]
     else:
-        promotional_offers = None
+        promotional_offers = []
 
     return promotional_offers
 
