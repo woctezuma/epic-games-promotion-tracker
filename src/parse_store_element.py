@@ -51,3 +51,8 @@ def to_promo_element(slug, title, promotional_offer):
     }
 
     return promo_element
+
+
+def convert_to_promos(store_elements):
+    promos = [to_upcoming_promotion(e) for e in store_elements]
+    return [p for p in promos if p is not None]
