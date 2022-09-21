@@ -1,6 +1,6 @@
 from datetime import datetime
 
-DATA_FOLDER = 'data'
+from src.data_utils import DATA_FOLDER
 
 
 def get_current_date():
