@@ -15,5 +15,8 @@ def to_upcoming_promotion(store_element):
 
 
 def convert_to_promos(store_elements):
-    promos = [to_upcoming_promotion(e) for e in store_elements]
-    return [p for p in promos if p is not None]
+    promos = []
+    for e in store_elements:
+        promos += to_upcoming_promotion(e)
+
+    return promos
