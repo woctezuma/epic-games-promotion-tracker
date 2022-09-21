@@ -2,7 +2,7 @@ from src.promotion_utils import get_upcoming_promotional_offers, to_promo_elemen
 from src.slug_utils import to_slug
 
 
-def to_upcoming_promotion(store_element):
+def extract_upcoming_promos_from_single_element(store_element):
     slug = to_slug(store_element)
     title = store_element["title"]
     promotional_offers = get_upcoming_promotional_offers(store_element)
@@ -14,9 +14,9 @@ def to_upcoming_promotion(store_element):
     return all_promo_elements
 
 
-def convert_to_promos(store_elements):
+def extract_upcoming_promos_from_several_elements(store_elements):
     promos = []
     for e in store_elements:
-        promos += to_upcoming_promotion(e)
+        promos += extract_upcoming_promos_from_single_element(e)
 
     return promos
