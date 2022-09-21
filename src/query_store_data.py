@@ -3,7 +3,7 @@ from src.api import send_post_request_to_api
 
 def get_params_to_query_store_data(cursor, step):
     query_str = "{Catalog {searchStore" + f'(start: {cursor}, count: {step}, country: "FR")' + " {elements {"
-    slug_str = "productSlug urlSlug offerMappings {pageSlug} title promotions {"
+    slug_str = "title offerMappings {pageSlug} productSlug urlSlug promotions {"
     promo_str = "upcomingPromotionalOffers {promotionalOffers {startDate endDate discountSetting {discountPercentage}}}"
     paging_str = "}} paging {count total} }}}"
 
