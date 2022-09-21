@@ -1,3 +1,6 @@
+from src.slug_utils import to_slug
+
+
 def get_upcoming_promotional_offers(store_element):
     try:
         promotion_list = store_element["promotions"]["upcomingPromotionalOffers"]
@@ -24,13 +27,7 @@ def to_upcoming_promotion(store_element):
         if len(promotional_offers) > 1:
             print(promotional_offers)  # TODO
 
-        slug_mappings = store_element["catalogNs"]["mappings"]
-        if slug_mappings is not None and len(slug_mappings) > 0:
-            slug = slug_mappings[0]["pageSlug"]
-            if len(slug_mappings) > 1:
-                print(slug_mappings)  # TODO
-        else:
-            slug = ""
+        slug = to_slug(store_element)
 
         promo_element = to_promo_element(slug, store_element["title"], first_promotional_offer)
 
