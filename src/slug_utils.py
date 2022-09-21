@@ -1,6 +1,6 @@
 def get_offer_slug(store_element):
     offers = store_element["offerMappings"]
-    if len(offers) > 0:
+    if offers is not None and len(offers) > 0:
         offer_slug = offers[0]["pageSlug"]
     else:
         offer_slug = None
