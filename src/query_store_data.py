@@ -2,12 +2,16 @@ from src.api import send_post_request_to_api
 
 
 def get_params_to_query_store_data(cursor, step):
-    query_str = "{Catalog {searchStore" + f'(start: {cursor}, count: {step}, country: "FR")' + " {elements {"
-    slug_str = "title offerMappings {pageSlug} productSlug urlSlug promotions {"
-    promo_str = "upcomingPromotionalOffers {promotionalOffers {startDate endDate discountSetting {discountPercentage}}}"
-    paging_str = "}} paging {count total} }}}"
+    query_str = "{Catalog {searchStore"
+    query_str += f'(start: {cursor}, count: {step}, country: "FR") '
+    query_str += "{"
+    query_str += "paging {count total} elements {"
+    query_str += "title offerMappings {pageSlug} productSlug urlSlug promotions {upcomingPromotionalOffers {"
+    query_str += "promotionalOffers {startDate endDate discountSetting {discountPercentage} }"
+    query_str += "}}}"
+    query_str += "}}}"
 
-    params = {"query": query_str + slug_str + promo_str + paging_str}
+    params = {"query": query_str}
 
     return params
 
