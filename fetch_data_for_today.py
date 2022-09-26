@@ -16,6 +16,7 @@ def main():
     if requires_to_download_json:
         print('Updating JSON.')
         data = download_upcoming_promotions()
+        data = sorted(data, key=lambda x: (x["title"], x["startDate"]))
         save_json(data, output_fname, prettify=True)
     else:
         data = load_json(output_fname)
