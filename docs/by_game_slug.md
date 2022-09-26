@@ -22,8 +22,8 @@
 |20|fortnite--corrupted-legends|Corrupted Legends Pack|50|2022-10-19 00h|2022-11-03 12h|
 |21|fortnite--dark-reflections-pack|Dark Reflections Pack|50|2022-10-19 00h|2022-11-03 12h|
 |22|fortnite--graveyard-drift-quest-pack|Graveyard Drift Quest Pack|40|2022-10-19 00h|2022-11-03 12h|
-|23|funtasia-furry-road-bd0756|Funtasia|20|2022-10-03 16h|2022-10-10 16h|
-|24|funtasia-furry-road-bd0756|Funtasia|40|2022-09-29 16h|2022-10-06 16h|
+|23|funtasia-furry-road-bd0756|Funtasia|40|2022-09-29 16h|2022-10-06 16h|
+|24|funtasia-furry-road-bd0756|Funtasia|20|2022-10-03 16h|2022-10-10 16h|
 |25|gonner/home|GoNNER|90|2022-09-26 15h|2022-10-06 15h|
 |26|gonner/home|GoNNER|90|2022-09-26 15h|2022-10-06 15h|
 |27|house-party-ae8b27|House Party|10|2022-09-30 17h|2022-10-07 17h|
