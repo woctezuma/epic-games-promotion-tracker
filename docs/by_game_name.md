@@ -21,8 +21,8 @@
 |19|dandara|Dandara: Trials of Fear Edition|80|2022-09-26 15h|2022-10-06 15h|
 |20|dark-light|Dark Light|20|2022-09-28 12h|2022-10-10 12h|
 |21|fortnite--dark-reflections-pack|Dark Reflections Pack|50|2022-10-19 00h|2022-11-03 12h|
-|22|funtasia-furry-road-bd0756|Funtasia|20|2022-10-03 16h|2022-10-10 16h|
-|23|funtasia-furry-road-bd0756|Funtasia|40|2022-09-29 16h|2022-10-06 16h|
+|22|funtasia-furry-road-bd0756|Funtasia|40|2022-09-29 16h|2022-10-06 16h|
+|23|funtasia-furry-road-bd0756|Funtasia|20|2022-10-03 16h|2022-10-10 16h|
 |24|idle-champions-of-the-forgotten-realms--gladiator-briv-skin-feat-pack|Gladiator Briv Skin & Feat Pack|30|2022-09-30 19h|2022-10-03 19h|
 |25|gonner/home|GoNNER|90|2022-09-26 15h|2022-10-06 15h|
 |26|gonner/home|GoNNER|90|2022-09-26 15h|2022-10-06 15h|
