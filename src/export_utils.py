@@ -21,19 +21,19 @@ def write_markdown_files(data):
     sorted_data = sorted(filter_in_free_games(data), key=lambda x: x["title"])
     write_data_to_disk(sorted_data, f"{OUTPUT_FOLDER}/by_free_game.md")
 
-    sorted_data = sorted(data, key=lambda x: x["slug"])
+    sorted_data = sorted(data, key=lambda x: (x["slug"], x["startDate"]))
     write_data_to_disk(sorted_data, f"{OUTPUT_FOLDER}/by_game_slug.md")
 
-    sorted_data = sorted(data, key=lambda x: x["title"])
+    sorted_data = sorted(data, key=lambda x: (x["title"], x["startDate"]))
     write_data_to_disk(sorted_data, f"{OUTPUT_FOLDER}/by_game_name.md")
 
-    sorted_data = sorted(data, key=lambda x: x["startDate"])
+    sorted_data = sorted(data, key=lambda x: (x["startDate"], x["title"]))
     write_data_to_disk(sorted_data, f"{OUTPUT_FOLDER}/by_start_date.md")
 
-    sorted_data = sorted(data, key=lambda x: x["endDate"])
+    sorted_data = sorted(data, key=lambda x: (x["endDate"], x["title"]))
     write_data_to_disk(sorted_data, f"{OUTPUT_FOLDER}/by_end_date.md")
 
-    sorted_data = sorted(data, key=lambda x: x["discountPercentage"], reverse=True)
+    sorted_data = sorted(data, key=lambda x: (-x["discountPercentage"], x["title"], x["startDate"]))
     write_data_to_disk(sorted_data, f"{OUTPUT_FOLDER}/by_discount_percentage.md")
 
     return
