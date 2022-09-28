@@ -18,7 +18,7 @@ def write_data_to_disk(data, fname):
 
 
 def write_markdown_files(data):
-    sorted_data = sorted(filter_in_free_games(data), key=lambda x: x["title"])
+    sorted_data = sorted(filter_in_free_games(data), key=lambda x: (x["startDate"], x["title"]))
     write_data_to_disk(sorted_data, f"{OUTPUT_FOLDER}/by_free_game.md")
 
     sorted_data = sorted(data, key=lambda x: (x["slug"], x["startDate"]))
