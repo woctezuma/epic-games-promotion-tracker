@@ -11,7 +11,6 @@ def main():
     force_update = True
 
     requires_to_download_json = force_update or not Path(PROMOTION_DATA_FNAME).exists()
-    requires_to_update_markdown = requires_to_download_json
 
     if requires_to_download_json:
         print('Updating JSON.')
@@ -21,10 +20,9 @@ def main():
     else:
         data = load_json(PROMOTION_DATA_FNAME)
 
-    if requires_to_update_markdown:
-        print('Updating Markown.')
-        data = unique(data)
-        write_markdown_files(data)
+    print('Updating Markown.')
+    data = unique(data)
+    write_markdown_files(data)
 
     return
 
