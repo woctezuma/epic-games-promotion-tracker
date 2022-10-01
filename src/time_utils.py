@@ -23,13 +23,10 @@ def get_fname_for_today():
 
 
 def formate_dates_for_display(data):
-    formatted_data = []
-
     for entry in data:
         formate_dates_in_dict(entry)
-        formatted_data.append(entry)
 
-    return formatted_data
+    return data
 
 
 def formate_dates_in_dict(entry):
