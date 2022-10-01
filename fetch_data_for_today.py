@@ -1,14 +1,14 @@
 from pathlib import Path
 
+from src.data_utils import PROMOTION_DATA_FNAME
 from src.download_utils import download_upcoming_promotions
 from src.export_utils import write_markdown_files
 from src.json_utils import save_json, load_json
-from src.time_utils import get_fname_for_today
 from src.utils import unique
 
 
 def main():
-    output_fname = get_fname_for_today()
+    output_fname = PROMOTION_DATA_FNAME
     Path(output_fname).parent.mkdir(parents=True, exist_ok=True)
 
     requires_to_download_json = not Path(output_fname).exists()
