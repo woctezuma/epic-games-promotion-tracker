@@ -34,5 +34,9 @@ def formate_dates_for_display(data):
 
 
 def prepare_date_for_display(date_str):
-    s = date_str.replace('T', ' ')
-    return f"{s[:13]}h"
+    if date_str is None:
+        output = 'N/A'
+    else:
+        s = date_str.replace('T', ' ')
+        output = f"{s[:13]}h"
+    return output
