@@ -26,11 +26,16 @@ def formate_dates_for_display(data):
     formatted_data = []
 
     for entry in data:
-        for k in TIME_FIELDS:
-            entry[k] = prepare_date_for_display(entry[k])
+        entry = formate_dates_in_dict(entry)
         formatted_data.append(entry)
 
     return formatted_data
+
+
+def formate_dates_in_dict(entry):
+    for k in TIME_FIELDS:
+        entry[k] = prepare_date_for_display(entry[k])
+    return entry
 
 
 def prepare_date_for_display(date_str):
