@@ -8,7 +8,9 @@ from src.utils import unique
 
 
 def main():
-    requires_to_download_json = True  # not Path(PROMOTION_DATA_FNAME).exists()
+    force_update = True
+
+    requires_to_download_json = force_update or not Path(PROMOTION_DATA_FNAME).exists()
     requires_to_update_markdown = requires_to_download_json
 
     if requires_to_download_json:
