@@ -8,12 +8,20 @@
     "title": "9 Years of Shadows"
   },
   {
-    "discountPercentage": 60,
-    "endDate": "2022-10-15T17:00:00.000Z",
+    "discountPercentage": 50,
+    "endDate": "2022-11-22T14:00:00.000Z",
     "isFree": false,
-    "slug": "away-the-survival-series",
-    "startDate": "2022-10-01T17:00:00.000Z",
-    "title": "AWAY: The Survival Series"
+    "slug": "among-trees/home",
+    "startDate": "2022-11-07T14:00:00.000Z",
+    "title": "Among Trees"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-11-22T14:00:00.000Z",
+    "isFree": false,
+    "slug": "among-trees/home",
+    "startDate": "2022-11-07T14:00:00.000Z",
+    "title": "Among Trees"
   },
   {
     "discountPercentage": 10,
@@ -22,6 +30,22 @@
     "slug": "asterix-and-obelix-slap-them-all-458670",
     "startDate": "2022-10-06T14:00:00.000Z",
     "title": "Asterix and Obelix Slap Them All"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2022-10-12T21:00:00.000Z",
+    "isFree": false,
+    "slug": "bibots-aad4d0",
+    "startDate": "2022-10-05T21:00:00.000Z",
+    "title": "Bibots"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-01-02T15:00:00.000Z",
+    "isFree": false,
+    "slug": "blazing-beaks-3d4864",
+    "startDate": "2022-12-15T15:00:00.000Z",
+    "title": "Blazing Beaks"
   },
   {
     "discountPercentage": 79,
@@ -38,6 +62,14 @@
     "slug": "bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b",
     "startDate": "2022-12-16T04:00:00.000Z",
     "title": "Bud Spencer and Terence Hill - Slaps and Beans"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2022-10-29T13:00:00.000Z",
+    "isFree": false,
+    "slug": "charons-staircase-b2d05f",
+    "startDate": "2022-10-28T13:00:00.000Z",
+    "title": "Charon's Staircase"
   },
   {
     "discountPercentage": 80,
@@ -120,14 +152,6 @@
     "title": "Exclusive Starter Pack"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2022-10-10T16:00:00.000Z",
-    "isFree": false,
-    "slug": "funtasia-furry-road-bd0756",
-    "startDate": "2022-10-03T16:00:00.000Z",
-    "title": "Funtasia"
-  },
-  {
     "discountPercentage": 40,
     "endDate": "2022-11-03T12:00:00.000Z",
     "isFree": false,
@@ -144,20 +168,36 @@
     "title": "It Takes Two"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2022-10-10T16:00:00.000Z",
-    "isFree": false,
-    "slug": "monster-outbreak-2e8c08",
-    "startDate": "2022-10-03T20:00:00.000Z",
-    "title": "Monster Outbreak"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2022-10-24T17:00:00.000Z",
     "isFree": false,
     "slug": "out-of-the-park-baseball-23-09e3fa",
     "startDate": "2022-10-17T17:00:00.000Z",
     "title": "Out of the Park Baseball 23"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2022-12-31T14:00:00.000Z",
+    "isFree": false,
+    "slug": "pc-building-simulator-2",
+    "startDate": "2022-10-05T14:00:00.000Z",
+    "title": "PC Building Simulator 2"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2022-10-09T13:00:00.000Z",
+    "isFree": false,
+    "slug": "idle-champions-of-the-forgotten-realms--polymorphed-jarlaxle-skin-feat-pack",
+    "startDate": "2022-10-06T19:00:00.000Z",
+    "title": "Polymorphed Jarlaxle Skin & Feat Pack"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-10-09T19:00:00.000Z",
+    "isFree": false,
+    "slug": "banedlc028-09-04",
+    "startDate": "2022-10-06T19:00:00.000Z",
+    "title": "Red the Squirrel Familiar Pack"
   },
   {
     "discountPercentage": 100,
@@ -174,6 +214,14 @@
     "slug": "slain-aea303",
     "startDate": "2022-10-06T15:00:00.000Z",
     "title": "Slain: Back From Hell"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2022-10-20T16:00:00.000Z",
+    "isFree": false,
+    "slug": "suchart-genius-artist-simulator",
+    "startDate": "2022-10-13T16:00:00.000Z",
+    "title": "SuchArt: Genius Artist Simulator"
   },
   {
     "discountPercentage": 50,
@@ -227,9 +275,25 @@
     "discountPercentage": 50,
     "endDate": "2022-10-21T15:00:00.000Z",
     "isFree": false,
+    "slug": "world-of-warships--german-ordnung",
+    "startDate": "2022-10-07T15:00:00.000Z",
+    "title": "World of Warships \u2014 German Ordnung"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-10-21T15:00:00.000Z",
+    "isFree": false,
     "slug": "world-of-warships--long-live-the-king",
     "startDate": "2022-10-07T15:00:00.000Z",
     "title": "World of Warships \u2014 Long Live the King"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-10-21T15:00:00.000Z",
+    "isFree": false,
+    "slug": "world-of-warships--way-of-the-warrior",
+    "startDate": "2022-10-07T15:00:00.000Z",
+    "title": "World of Warships \u2014 Way of the Warrior"
   },
   {
     "discountPercentage": 50,
