@@ -8,19 +8,16 @@ from src.utils import unique
 
 
 def main():
-    output_fname = PROMOTION_DATA_FNAME
-    Path(output_fname).parent.mkdir(parents=True, exist_ok=True)
-
-    requires_to_download_json = True  # not Path(output_fname).exists()
+    requires_to_download_json = True  # not Path(PROMOTION_DATA_FNAME).exists()
     requires_to_update_markdown = requires_to_download_json
 
     if requires_to_download_json:
         print('Updating JSON.')
         data = download_upcoming_promotions()
         data = sorted(data, key=lambda x: (x["title"], x["startDate"]))
-        save_json(data, output_fname, prettify=True)
+        save_json(data, PROMOTION_DATA_FNAME, prettify=True)
     else:
-        data = load_json(output_fname)
+        data = load_json(PROMOTION_DATA_FNAME)
 
     if requires_to_update_markdown:
         print('Updating Markown.')
