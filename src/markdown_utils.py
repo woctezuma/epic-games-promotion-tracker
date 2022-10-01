@@ -1,5 +1,3 @@
-from src.time_utils import prepare_date_for_display
-
 HEADERS = ["Game Slug", "Game Name", "Discount (%)", "Starts", "Ends"]
 TIME_FIELDS = ["startDate", "endDate"]
 ENTRY_FIELDS = ["slug", "title", "discountPercentage"] + TIME_FIELDS
@@ -26,9 +24,6 @@ def format_data_as_markdown(data):
     lines = [get_headers_line(), get_separator_line()]
 
     for i, entry in enumerate(data, start=1):
-        for k in TIME_FIELDS:
-            entry[k] = prepare_date_for_display(entry[k])
-
         line = to_table_row(i, [str(entry[k]) for k in ENTRY_FIELDS])
 
         lines.append(line)
