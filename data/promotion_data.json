@@ -480,7 +480,7 @@
     "title": "Out of the Park Baseball 23"
   },
   {
-    "discountPercentage": 15,
+    "discountPercentage": 10,
     "endDate": "2022-12-31T14:00:00.000Z",
     "isFree": false,
     "slug": "pc-building-simulator-2",
@@ -488,7 +488,7 @@
     "title": "PC Building Simulator 2"
   },
   {
-    "discountPercentage": 10,
+    "discountPercentage": 15,
     "endDate": "2022-12-31T14:00:00.000Z",
     "isFree": false,
     "slug": "pc-building-simulator-2",
