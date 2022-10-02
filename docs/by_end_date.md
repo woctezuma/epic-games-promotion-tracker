@@ -88,7 +88,7 @@
 |86|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|35|2022-11-18 18h|2022-11-29 18h|
 |87|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
 |88|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
-|89|pc-building-simulator-2|PC Building Simulator 2|15|2022-10-05 14h|2022-12-31 14h|
-|90|pc-building-simulator-2|PC Building Simulator 2|10|2022-10-05 14h|2022-12-31 14h|
+|89|pc-building-simulator-2|PC Building Simulator 2|10|2022-10-05 14h|2022-12-31 14h|
+|90|pc-building-simulator-2|PC Building Simulator 2|15|2022-10-05 14h|2022-12-31 14h|
 |91|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|80|2022-12-16 04h|2023-01-01 04h|
 |92|destiny-2--the-witch-queen-deluxe-edition|Destiny 2: The Witch Queen Deluxe Edition|50|2022-10-06 14h|N/A|

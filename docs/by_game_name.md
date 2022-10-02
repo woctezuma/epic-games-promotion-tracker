@@ -57,8 +57,8 @@
 |55|monster-jam-steel-titans-2--inverse-truck-pack|Monster Jam Steel Titans 2 – Inverse Truck Pack|67|2022-10-03 15h|2022-10-10 15h|
 |56|monster-outbreak-2e8c08|Monster Outbreak|20|2022-10-03 20h|2022-10-10 16h|
 |57|out-of-the-park-baseball-23-09e3fa|Out of the Park Baseball 23|50|2022-10-17 17h|2022-10-24 17h|
-|58|pc-building-simulator-2|PC Building Simulator 2|15|2022-10-05 14h|2022-12-31 14h|
-|59|pc-building-simulator-2|PC Building Simulator 2|10|2022-10-05 14h|2022-12-31 14h|
+|58|pc-building-simulator-2|PC Building Simulator 2|10|2022-10-05 14h|2022-12-31 14h|
+|59|pc-building-simulator-2|PC Building Simulator 2|15|2022-10-05 14h|2022-12-31 14h|
 |60|rebel-cops|Rebel Cops|75|2022-10-03 15h|2022-10-10 15h|
 |61|rising-hell-253707|Rising Hell|100|2022-10-06 15h|2022-10-13 15h|
 |62|slain-aea303|Slain: Back From Hell|100|2022-10-06 15h|2022-10-13 15h|
