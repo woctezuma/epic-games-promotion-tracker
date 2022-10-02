@@ -62,8 +62,8 @@
 |60|funtasia-furry-road-bd0756|Funtasia|20|2022-10-03 16h|2022-10-10 16h|
 |61|monster-outbreak-2e8c08|Monster Outbreak|20|2022-10-03 20h|2022-10-10 16h|
 |62|it-takes-two|It Takes Two|50|2022-10-04 19h|2022-10-18 19h|
-|63|pc-building-simulator-2|PC Building Simulator 2|10|2022-10-05 14h|2022-12-31 14h|
-|64|pc-building-simulator-2|PC Building Simulator 2|15|2022-10-05 14h|2022-12-31 14h|
+|63|pc-building-simulator-2|PC Building Simulator 2|15|2022-10-05 14h|2022-12-31 14h|
+|64|pc-building-simulator-2|PC Building Simulator 2|10|2022-10-05 14h|2022-12-31 14h|
 |65|asterix-and-obelix-slap-them-all-458670|Asterix and Obelix Slap Them All|10|2022-10-06 14h|2022-10-20 14h|
 |66|destiny-2--the-witch-queen-deluxe-edition|Destiny 2: The Witch Queen Deluxe Edition|50|2022-10-06 14h|N/A|
 |67|rising-hell-253707|Rising Hell|100|2022-10-06 15h|2022-10-13 15h|
