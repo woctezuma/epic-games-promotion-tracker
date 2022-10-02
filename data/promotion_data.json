@@ -8,12 +8,68 @@
     "title": "9 Years of Shadows"
   },
   {
+    "discountPercentage": 67,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "aquanox-deep-descent/home",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Aquanox Deep Descent"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "aquanox-deep-descent--collectors-edition",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Aquanox Deep Descent Collector\u2019s Edition"
+  },
+  {
     "discountPercentage": 10,
     "endDate": "2022-10-20T14:00:00.000Z",
     "isFree": false,
     "slug": "asterix-and-obelix-slap-them-all-458670",
     "startDate": "2022-10-06T14:00:00.000Z",
     "title": "Asterix and Obelix Slap Them All"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "biomutant",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "BIOMUTANT"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "biomutant--mercenary-class",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "BIOMUTANT - Mercenary Class"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "biomutant--soundtrack",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "BIOMUTANT - Soundtrack"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "battle-chasers-nightwar",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Battle Chasers: Nightwar"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "battle-chasers-nightwar--digital-extras",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Battle Chasers: Nightwar Digital Extras"
   },
   {
     "discountPercentage": 79,
@@ -30,6 +86,30 @@
     "slug": "bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b",
     "startDate": "2022-12-16T04:00:00.000Z",
     "title": "Bud Spencer and Terence Hill - Slaps and Beans"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "chronos-before-the-ashes/home",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Chronos: Before the Ashes"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "chronos-before-the-ashes--soundtrack",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Chronos: Before the Ashes Soundtrack"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "comanche",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Comanche"
   },
   {
     "discountPercentage": 80,
@@ -64,12 +144,164 @@
     "title": "Dark Reflections Pack"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "darksiders-genesis/home",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Darksiders Genesis"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "darksiders-genesis--digital-extras",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Darksiders Genesis Digital Extras"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "darksiders2/home",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Darksiders II Deathinitive Edition"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "darksiders2/home",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Darksiders II Deathinitive Edition"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "darksiders3",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Darksiders III"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "darksiders3",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Darksiders III"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "darksiders3--dlc-2",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Darksiders III DLC - Keepers of the Void"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "darksiders3--dlc",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Darksiders III DLC - The Crucible"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "darksiders/home",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Darksiders Warmastered Edition"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "darksiders/home",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Darksiders Warmastered Edition"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "desperados-3",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Desperados III"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "desperados-3--soundtrack",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Desperados III - OST"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "desperados-3--season-pass",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Desperados III - Season Pass"
+  },
+  {
     "discountPercentage": 50,
     "endDate": null,
     "isFree": false,
     "slug": "destiny-2--the-witch-queen-deluxe-edition",
     "startDate": "2022-10-06T14:00:00.000Z",
     "title": "Destiny 2: The Witch Queen Deluxe Edition"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "destroy-all-humans",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Destroy All Humans!"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "destroy-all-humans--destroy-all-humans-skin-pack",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Destroy All Humans! - Skin Pack"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "elex",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "ELEX"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "elex--digital-extras",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "ELEX Digital Extras"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "elex-ii",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "ELEX II"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "elex-ii--soundtrack",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "ELEX II Soundtrack"
   },
   {
     "discountPercentage": 45,
@@ -112,6 +344,54 @@
     "title": "Exclusive Starter Pack"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "expeditions-conquistador",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Expeditions: Conquistador"
+  },
+  {
+    "discountPercentage": 34,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "expeditions-rome",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Expeditions: Rome"
+  },
+  {
+    "discountPercentage": 34,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "expeditions-rome--death-or-glory",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Expeditions: Rome - Death or Glory"
+  },
+  {
+    "discountPercentage": 34,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "expeditions-rome--official-soundtrack",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Expeditions: Rome - Soundtrack"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "expeditions-viking",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Expeditions: Viking"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "expeditions-viking--soundtrack-and-art-book",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Expeditions: Viking - Soundtrack and Art Book"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2022-10-10T16:00:00.000Z",
     "isFree": false,
@@ -136,6 +416,54 @@
     "title": "It Takes Two"
   },
   {
+    "discountPercentage": 67,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "kingdoms-of-amalur-re-reckoning/home",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Kingdoms of Amalur: Re-Reckoning"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "kingdoms-of-amalur-re-reckoning--fatesworn",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Kingdoms of Amalur: Re-Reckoning - Fatesworn"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "kingdoms-of-amalur-re-reckoning--fate-edition",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Kingdoms of Amalur: Re-Reckoning FATE Edition"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "monster-jam-steel-titans-2",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Monster Jam Steel Titans 2"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "monster-jam-steel-titans-2--inverse-higher-education",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Monster Jam Steel Titans 2 - Inverse Higher Education"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "monster-jam-steel-titans-2--inverse-truck-pack",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Monster Jam Steel Titans 2 \u2013 Inverse Truck Pack"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2022-10-10T16:00:00.000Z",
     "isFree": false,
@@ -150,6 +478,30 @@
     "slug": "out-of-the-park-baseball-23-09e3fa",
     "startDate": "2022-10-17T17:00:00.000Z",
     "title": "Out of the Park Baseball 23"
+  },
+  {
+    "discountPercentage": 15,
+    "endDate": "2022-12-31T14:00:00.000Z",
+    "isFree": false,
+    "slug": "pc-building-simulator-2",
+    "startDate": "2022-10-05T14:00:00.000Z",
+    "title": "PC Building Simulator 2"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2022-12-31T14:00:00.000Z",
+    "isFree": false,
+    "slug": "pc-building-simulator-2",
+    "startDate": "2022-10-05T14:00:00.000Z",
+    "title": "PC Building Simulator 2"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "rebel-cops",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Rebel Cops"
   },
   {
     "discountPercentage": 100,
@@ -168,12 +520,100 @@
     "title": "Slain: Back From Hell"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "spellforce-3--digital-extras",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "SpellForce 3 Digital Extras"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "spellforce-3",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "SpellForce 3 Reforced"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "spellforce-3-fallen-god/home",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "SpellForce 3: Fallen God"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "spellforce-3-fallen-god--digital-extras",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "SpellForce 3: Fallen God Digital Extras"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "spellforce-3-fallen-god--soundtrack",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "SpellForce 3: Fallen God Soundtrack"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "spellforce-3-soul-harvest/home",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "SpellForce 3: Soul Harvest"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "spellforce-3-soul-harvest--digital-extras",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "SpellForce 3: Soul Harvest Digital Extras"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "spellforce-3-versus--full-pvp-upgrade",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "SpellForce 3: Versus Edition - Full PvP Upgrade"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2022-10-21T15:00:00.000Z",
     "isFree": false,
     "slug": "world-of-warships--texas",
     "startDate": "2022-10-07T15:00:00.000Z",
     "title": "Texas"
+  },
+  {
+    "discountPercentage": 34,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "the-guild-3",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "The Guild 3"
+  },
+  {
+    "discountPercentage": 34,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "the-guild-3--soundtrack",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "The Guild 3 Soundtrack"
   },
   {
     "discountPercentage": 35,
@@ -208,6 +648,78 @@
     "title": "The Riftbreaker: Metal Terror"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "this-is-the-police",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "This Is The Police"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "this-is-the-police-2",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "This Is The Police 2"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "this-is-the-police-2--official-soundtrack",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "This Is the Police 2 - Soundtrack"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "this-is-the-president",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "This Is the President"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "titan-quest",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Titan Quest Anniversary Edition"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "titan-quest--atlantis",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Titan Quest: Atlantis"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "titan-quest--eternal-embers",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Titan Quest: Eternal Embers"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "titan-quest--ragnarok",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "Titan Quest: Ragnar\u00f6k"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2022-10-10T15:00:00.000Z",
+    "isFree": false,
+    "slug": "we-are-football",
+    "startDate": "2022-10-03T15:00:00.000Z",
+    "title": "WE ARE FOOTBALL"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2022-10-21T15:00:00.000Z",
     "isFree": false,
@@ -219,9 +731,25 @@
     "discountPercentage": 50,
     "endDate": "2022-10-21T15:00:00.000Z",
     "isFree": false,
+    "slug": "world-of-warships--german-ordnung",
+    "startDate": "2022-10-07T15:00:00.000Z",
+    "title": "World of Warships \u2014 German Ordnung"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-10-21T15:00:00.000Z",
+    "isFree": false,
     "slug": "world-of-warships--long-live-the-king",
     "startDate": "2022-10-07T15:00:00.000Z",
     "title": "World of Warships \u2014 Long Live the King"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-10-21T15:00:00.000Z",
+    "isFree": false,
+    "slug": "world-of-warships--way-of-the-warrior",
+    "startDate": "2022-10-07T15:00:00.000Z",
+    "title": "World of Warships \u2014 Way of the Warrior"
   },
   {
     "discountPercentage": 50,
