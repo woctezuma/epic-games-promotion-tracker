@@ -91,4 +91,5 @@
 |89|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
 |90|pc-building-simulator-2|PC Building Simulator 2|15|2022-10-05 14h|2022-12-31 14h|
 |91|asterix-and-obelix-slap-them-all-458670|Asterix and Obelix Slap Them All|10|2022-10-06 14h|2022-10-20 14h|
-|92|pc-building-simulator-2|PC Building Simulator 2|10|2022-10-05 14h|2022-12-31 14h|
+|92|bibots-aad4d0|Bibots|10|2022-10-05 21h|2022-10-12 21h|
+|93|pc-building-simulator-2|PC Building Simulator 2|10|2022-10-05 14h|2022-12-31 14h|
