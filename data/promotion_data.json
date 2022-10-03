@@ -120,14 +120,6 @@
     "title": "Exclusive Starter Pack"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2022-10-10T16:00:00.000Z",
-    "isFree": false,
-    "slug": "funtasia-furry-road-bd0756",
-    "startDate": "2022-10-03T16:00:00.000Z",
-    "title": "Funtasia"
-  },
-  {
     "discountPercentage": 40,
     "endDate": "2022-11-03T12:00:00.000Z",
     "isFree": false,
