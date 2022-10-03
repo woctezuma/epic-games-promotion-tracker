@@ -27,10 +27,9 @@
 |25|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
 |26|eve-online--platinum-starter-pack|EVE Online - Platinum Starter Pack|30|2022-10-07 13h|2022-10-11 13h|
 |27|9-years-of-shadows-a40c92|9 Years of Shadows|20|2022-10-10 19h|2022-10-17 19h|
-|28|funtasia-furry-road-bd0756|Funtasia|20|2022-10-03 16h|2022-10-10 16h|
-|29|monster-outbreak-2e8c08|Monster Outbreak|20|2022-10-03 20h|2022-10-10 16h|
-|30|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
-|31|pc-building-simulator-2|PC Building Simulator 2|15|2022-10-05 14h|2022-12-31 14h|
-|32|asterix-and-obelix-slap-them-all-458670|Asterix and Obelix Slap Them All|10|2022-10-06 14h|2022-10-20 14h|
-|33|bibots-aad4d0|Bibots|10|2022-10-05 21h|2022-10-12 21h|
-|34|pc-building-simulator-2|PC Building Simulator 2|10|2022-10-05 14h|2022-12-31 14h|
+|28|monster-outbreak-2e8c08|Monster Outbreak|20|2022-10-03 20h|2022-10-10 16h|
+|29|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
+|30|pc-building-simulator-2|PC Building Simulator 2|15|2022-10-05 14h|2022-12-31 14h|
+|31|asterix-and-obelix-slap-them-all-458670|Asterix and Obelix Slap Them All|10|2022-10-06 14h|2022-10-20 14h|
+|32|bibots-aad4d0|Bibots|10|2022-10-05 21h|2022-10-12 21h|
+|33|pc-building-simulator-2|PC Building Simulator 2|10|2022-10-05 14h|2022-12-31 14h|

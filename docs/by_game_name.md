@@ -15,22 +15,21 @@
 |13|eve-online--platinum-starter-pack|EVE Online - Platinum Starter Pack|30|2022-10-07 13h|2022-10-11 13h|
 |14|eve-online--silver-starter-pack|EVE Online - Silver Starter Pack|40|2022-10-07 13h|2022-10-11 13h|
 |15|world-of-warships--exclusive-starter-pack|Exclusive Starter Pack|50|2022-10-07 15h|2022-10-21 15h|
-|16|funtasia-furry-road-bd0756|Funtasia|20|2022-10-03 16h|2022-10-10 16h|
-|17|fortnite--graveyard-drift-quest-pack|Graveyard Drift Quest Pack|40|2022-10-19 00h|2022-11-03 12h|
-|18|it-takes-two|It Takes Two|50|2022-10-04 19h|2022-10-18 19h|
-|19|monster-outbreak-2e8c08|Monster Outbreak|20|2022-10-03 20h|2022-10-10 16h|
-|20|out-of-the-park-baseball-23-09e3fa|Out of the Park Baseball 23|50|2022-10-17 17h|2022-10-24 17h|
-|21|pc-building-simulator-2|PC Building Simulator 2|15|2022-10-05 14h|2022-12-31 14h|
-|22|pc-building-simulator-2|PC Building Simulator 2|10|2022-10-05 14h|2022-12-31 14h|
-|23|rising-hell-253707|Rising Hell|100|2022-10-06 15h|2022-10-13 15h|
-|24|slain-aea303|Slain: Back From Hell|100|2022-10-06 15h|2022-10-13 15h|
-|25|world-of-warships--texas|Texas|50|2022-10-07 15h|2022-10-21 15h|
-|26|the-riftbreaker|The Riftbreaker|35|2022-11-18 18h|2022-11-29 18h|
-|27|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|35|2022-11-18 18h|2022-11-29 18h|
-|28|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
-|29|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
-|30|world-of-warships--american-freedom|World of Warships - American Freedom|50|2022-10-07 15h|2022-10-21 15h|
-|31|world-of-warships--german-ordnung|World of Warships — German Ordnung|50|2022-10-07 15h|2022-10-21 15h|
-|32|world-of-warships--long-live-the-king|World of Warships — Long Live the King|50|2022-10-07 15h|2022-10-21 15h|
-|33|world-of-warships--way-of-the-warrior|World of Warships — Way of the Warrior|50|2022-10-07 15h|2022-10-21 15h|
-|34|world-of-warships--yubari|Yūbari|50|2022-10-07 15h|2022-10-21 15h|
+|16|fortnite--graveyard-drift-quest-pack|Graveyard Drift Quest Pack|40|2022-10-19 00h|2022-11-03 12h|
+|17|it-takes-two|It Takes Two|50|2022-10-04 19h|2022-10-18 19h|
+|18|monster-outbreak-2e8c08|Monster Outbreak|20|2022-10-03 20h|2022-10-10 16h|
+|19|out-of-the-park-baseball-23-09e3fa|Out of the Park Baseball 23|50|2022-10-17 17h|2022-10-24 17h|
+|20|pc-building-simulator-2|PC Building Simulator 2|15|2022-10-05 14h|2022-12-31 14h|
+|21|pc-building-simulator-2|PC Building Simulator 2|10|2022-10-05 14h|2022-12-31 14h|
+|22|rising-hell-253707|Rising Hell|100|2022-10-06 15h|2022-10-13 15h|
+|23|slain-aea303|Slain: Back From Hell|100|2022-10-06 15h|2022-10-13 15h|
+|24|world-of-warships--texas|Texas|50|2022-10-07 15h|2022-10-21 15h|
+|25|the-riftbreaker|The Riftbreaker|35|2022-11-18 18h|2022-11-29 18h|
+|26|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|35|2022-11-18 18h|2022-11-29 18h|
+|27|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
+|28|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
+|29|world-of-warships--american-freedom|World of Warships - American Freedom|50|2022-10-07 15h|2022-10-21 15h|
+|30|world-of-warships--german-ordnung|World of Warships — German Ordnung|50|2022-10-07 15h|2022-10-21 15h|
+|31|world-of-warships--long-live-the-king|World of Warships — Long Live the King|50|2022-10-07 15h|2022-10-21 15h|
+|32|world-of-warships--way-of-the-warrior|World of Warships — Way of the Warrior|50|2022-10-07 15h|2022-10-21 15h|
+|33|world-of-warships--yubari|Yūbari|50|2022-10-07 15h|2022-10-21 15h|
