@@ -8,6 +8,22 @@
     "title": "9 Years of Shadows"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2022-11-22T14:00:00.000Z",
+    "isFree": false,
+    "slug": "among-trees/home",
+    "startDate": "2022-11-07T14:00:00.000Z",
+    "title": "Among Trees"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-11-22T14:00:00.000Z",
+    "isFree": false,
+    "slug": "among-trees/home",
+    "startDate": "2022-11-07T14:00:00.000Z",
+    "title": "Among Trees"
+  },
+  {
     "discountPercentage": 10,
     "endDate": "2022-10-20T14:00:00.000Z",
     "isFree": false,
@@ -24,6 +40,14 @@
     "title": "Bibots"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2023-01-02T15:00:00.000Z",
+    "isFree": false,
+    "slug": "blazing-beaks-3d4864",
+    "startDate": "2022-12-15T15:00:00.000Z",
+    "title": "Blazing Beaks"
+  },
+  {
     "discountPercentage": 79,
     "endDate": "2022-11-20T04:00:00.000Z",
     "isFree": false,
@@ -38,6 +62,14 @@
     "slug": "bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b",
     "startDate": "2022-12-16T04:00:00.000Z",
     "title": "Bud Spencer and Terence Hill - Slaps and Beans"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2022-10-29T13:00:00.000Z",
+    "isFree": false,
+    "slug": "charons-staircase-b2d05f",
+    "startDate": "2022-10-28T13:00:00.000Z",
+    "title": "Charon's Staircase"
   },
   {
     "discountPercentage": 80,
@@ -136,14 +168,6 @@
     "title": "It Takes Two"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2022-10-10T16:00:00.000Z",
-    "isFree": false,
-    "slug": "monster-outbreak-2e8c08",
-    "startDate": "2022-10-03T20:00:00.000Z",
-    "title": "Monster Outbreak"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2022-10-24T17:00:00.000Z",
     "isFree": false,
@@ -152,7 +176,7 @@
     "title": "Out of the Park Baseball 23"
   },
   {
-    "discountPercentage": 15,
+    "discountPercentage": 10,
     "endDate": "2022-12-31T14:00:00.000Z",
     "isFree": false,
     "slug": "pc-building-simulator-2",
@@ -160,12 +184,20 @@
     "title": "PC Building Simulator 2"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2022-12-31T14:00:00.000Z",
+    "discountPercentage": 90,
+    "endDate": "2022-10-09T13:00:00.000Z",
     "isFree": false,
-    "slug": "pc-building-simulator-2",
-    "startDate": "2022-10-05T14:00:00.000Z",
-    "title": "PC Building Simulator 2"
+    "slug": "idle-champions-of-the-forgotten-realms--polymorphed-jarlaxle-skin-feat-pack",
+    "startDate": "2022-10-06T19:00:00.000Z",
+    "title": "Polymorphed Jarlaxle Skin & Feat Pack"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-10-09T19:00:00.000Z",
+    "isFree": false,
+    "slug": "banedlc028-09-04",
+    "startDate": "2022-10-06T19:00:00.000Z",
+    "title": "Red the Squirrel Familiar Pack"
   },
   {
     "discountPercentage": 100,
@@ -182,6 +214,14 @@
     "slug": "slain-aea303",
     "startDate": "2022-10-06T15:00:00.000Z",
     "title": "Slain: Back From Hell"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2022-10-20T16:00:00.000Z",
+    "isFree": false,
+    "slug": "suchart-genius-artist-simulator",
+    "startDate": "2022-10-13T16:00:00.000Z",
+    "title": "SuchArt: Genius Artist Simulator"
   },
   {
     "discountPercentage": 50,
