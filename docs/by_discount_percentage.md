@@ -11,40 +11,36 @@
 |9|among-trees/home|Among Trees|50|2022-11-07 14h|2022-11-22 14h|
 |10|fortnite--corrupted-legends|Corrupted Legends Pack|50|2022-10-19 00h|2022-11-03 12h|
 |11|fortnite--dark-reflections-pack|Dark Reflections Pack|50|2022-10-19 00h|2022-11-03 12h|
-|12|destiny-2--the-witch-queen-deluxe-edition|Destiny 2: The Witch Queen Deluxe Edition|50|2022-10-06 14h|N/A|
-|13|world-of-warships--exclusive-starter-pack|Exclusive Starter Pack|50|2022-10-07 15h|2022-10-21 15h|
-|14|out-of-the-park-baseball-23-09e3fa|Out of the Park Baseball 23|50|2022-10-17 17h|2022-10-24 17h|
-|15|world-of-warships--texas|Texas|50|2022-10-07 15h|2022-10-21 15h|
-|16|ultragoodness-a391d4|UltraGoodness|50|2022-10-11 04h|2022-10-18 04h|
-|17|ultragoodness-2-b9f493|UltraGoodness 2|50|2022-10-11 04h|2022-10-18 04h|
-|18|world-of-warships--american-freedom|World of Warships - American Freedom|50|2022-10-07 15h|2022-10-21 15h|
-|19|world-of-warships--german-ordnung|World of Warships — German Ordnung|50|2022-10-07 15h|2022-10-21 15h|
-|20|world-of-warships--long-live-the-king|World of Warships — Long Live the King|50|2022-10-07 15h|2022-10-21 15h|
-|21|world-of-warships--way-of-the-warrior|World of Warships — Way of the Warrior|50|2022-10-07 15h|2022-10-21 15h|
-|22|world-of-warships--yubari|Yūbari|50|2022-10-07 15h|2022-10-21 15h|
-|23|eve-online--bronze-starter-pack|EVE Online - Bronze Starter Pack|45|2022-10-07 13h|2022-10-11 13h|
-|24|idle-champions-of-the-forgotten-realms--archmagi-dungeon-master-theme-pack|Archmagi Dungeon Master Theme Pack|40|2022-10-06 19h|2022-10-09 19h|
-|25|idle-champions-of-the-forgotten-realms--year-4-all-star-pack|Champions of Renown: Year 4 All Star Pack|40|2022-10-06 19h|2022-10-09 19h|
-|26|idle-champions-of-the-forgotten-realms--dottie-the-dandelion-familiar-pack|Dottie the Dandelion Familiar Pack|40|2022-10-06 19h|2022-10-09 19h|
-|27|eve-online--silver-starter-pack|EVE Online - Silver Starter Pack|40|2022-10-07 13h|2022-10-11 13h|
-|28|fortnite--graveyard-drift-quest-pack|Graveyard Drift Quest Pack|40|2022-10-19 00h|2022-11-03 12h|
-|29|idle-champions-of-the-forgotten-realms--polymorphed-celeste-skin-feat-pack|Polymorphed Celeste Skin & Feat Pack|40|2022-10-06 19h|2022-10-09 19h|
-|30|banedlc028-09-04|Red the Squirrel Familiar Pack|40|2022-10-06 19h|2022-10-09 19h|
-|31|idle-champions-of-the-forgotten-realms--shadowfell-desmond-theme-pack|Shadowfell Desmond Theme Pack|40|2022-10-06 19h|2022-10-09 19h|
-|32|eve-online--gold-starter-pack|EVE Online - Gold Starter Pack|35|2022-10-07 13h|2022-10-11 13h|
-|33|the-riftbreaker|The Riftbreaker|35|2022-11-18 18h|2022-11-29 18h|
-|34|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|35|2022-11-18 18h|2022-11-29 18h|
-|35|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
-|36|eve-online--platinum-starter-pack|EVE Online - Platinum Starter Pack|30|2022-10-07 13h|2022-10-11 13h|
-|37|idle-champions-of-the-forgotten-realms--eberron-ellywick-skin-feat-pack|Eberron Ellywick Skin & Feat Pack|30|2022-10-06 19h|2022-10-09 19h|
-|38|idle-champions-of-the-forgotten-realms--gladiator-freely-skin-feat-pack|Gladiator Freely Skin & Feat Pack|30|2022-10-06 19h|2022-10-09 19h|
-|39|idle-champions-of-the-forgotten-realms--gladiator-widdle-skin-feat-pack|Gladiator Widdle Skin & Feat Pack|30|2022-10-06 19h|2022-10-09 19h|
-|40|9-years-of-shadows-a40c92|9 Years of Shadows|20|2022-10-10 19h|2022-10-17 19h|
-|41|achilles-legend-untold|Achilles Legends Untold|20|2022-10-11 17h|2022-11-01 17h|
-|42|my-time-at-sandrock|My Time at Sandrock|20|2022-10-25 17h|2022-11-01 17h|
-|43|suchart-genius-artist-simulator|SuchArt: Genius Artist Simulator|20|2022-10-13 16h|2022-10-20 16h|
-|44|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
-|45|asterix-and-obelix-slap-them-all-458670|Asterix and Obelix Slap Them All|10|2022-10-06 14h|2022-10-20 14h|
-|46|bibots-aad4d0|Bibots|10|2022-10-05 21h|2022-10-12 21h|
-|47|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
-|48|pc-building-simulator-2|PC Building Simulator 2|10|2022-10-05 14h|2022-12-31 14h|
+|12|world-of-warships--exclusive-starter-pack|Exclusive Starter Pack|50|2022-10-07 15h|2022-10-21 15h|
+|13|out-of-the-park-baseball-23-09e3fa|Out of the Park Baseball 23|50|2022-10-17 17h|2022-10-24 17h|
+|14|world-of-warships--texas|Texas|50|2022-10-07 15h|2022-10-21 15h|
+|15|ultragoodness-a391d4|UltraGoodness|50|2022-10-11 04h|2022-10-18 04h|
+|16|ultragoodness-2-b9f493|UltraGoodness 2|50|2022-10-11 04h|2022-10-18 04h|
+|17|world-of-warships--american-freedom|World of Warships - American Freedom|50|2022-10-07 15h|2022-10-21 15h|
+|18|world-of-warships--german-ordnung|World of Warships — German Ordnung|50|2022-10-07 15h|2022-10-21 15h|
+|19|world-of-warships--long-live-the-king|World of Warships — Long Live the King|50|2022-10-07 15h|2022-10-21 15h|
+|20|world-of-warships--way-of-the-warrior|World of Warships — Way of the Warrior|50|2022-10-07 15h|2022-10-21 15h|
+|21|world-of-warships--yubari|Yūbari|50|2022-10-07 15h|2022-10-21 15h|
+|22|eve-online--bronze-starter-pack|EVE Online - Bronze Starter Pack|45|2022-10-07 13h|2022-10-11 13h|
+|23|idle-champions-of-the-forgotten-realms--archmagi-dungeon-master-theme-pack|Archmagi Dungeon Master Theme Pack|40|2022-10-06 19h|2022-10-09 19h|
+|24|idle-champions-of-the-forgotten-realms--year-4-all-star-pack|Champions of Renown: Year 4 All Star Pack|40|2022-10-06 19h|2022-10-09 19h|
+|25|idle-champions-of-the-forgotten-realms--dottie-the-dandelion-familiar-pack|Dottie the Dandelion Familiar Pack|40|2022-10-06 19h|2022-10-09 19h|
+|26|eve-online--silver-starter-pack|EVE Online - Silver Starter Pack|40|2022-10-07 13h|2022-10-11 13h|
+|27|fortnite--graveyard-drift-quest-pack|Graveyard Drift Quest Pack|40|2022-10-19 00h|2022-11-03 12h|
+|28|idle-champions-of-the-forgotten-realms--polymorphed-celeste-skin-feat-pack|Polymorphed Celeste Skin & Feat Pack|40|2022-10-06 19h|2022-10-09 19h|
+|29|banedlc028-09-04|Red the Squirrel Familiar Pack|40|2022-10-06 19h|2022-10-09 19h|
+|30|idle-champions-of-the-forgotten-realms--shadowfell-desmond-theme-pack|Shadowfell Desmond Theme Pack|40|2022-10-06 19h|2022-10-09 19h|
+|31|eve-online--gold-starter-pack|EVE Online - Gold Starter Pack|35|2022-10-07 13h|2022-10-11 13h|
+|32|the-riftbreaker|The Riftbreaker|35|2022-11-18 18h|2022-11-29 18h|
+|33|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|35|2022-11-18 18h|2022-11-29 18h|
+|34|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
+|35|eve-online--platinum-starter-pack|EVE Online - Platinum Starter Pack|30|2022-10-07 13h|2022-10-11 13h|
+|36|idle-champions-of-the-forgotten-realms--eberron-ellywick-skin-feat-pack|Eberron Ellywick Skin & Feat Pack|30|2022-10-06 19h|2022-10-09 19h|
+|37|idle-champions-of-the-forgotten-realms--gladiator-freely-skin-feat-pack|Gladiator Freely Skin & Feat Pack|30|2022-10-06 19h|2022-10-09 19h|
+|38|idle-champions-of-the-forgotten-realms--gladiator-widdle-skin-feat-pack|Gladiator Widdle Skin & Feat Pack|30|2022-10-06 19h|2022-10-09 19h|
+|39|9-years-of-shadows-a40c92|9 Years of Shadows|20|2022-10-10 19h|2022-10-17 19h|
+|40|achilles-legend-untold|Achilles Legends Untold|20|2022-10-11 17h|2022-11-01 17h|
+|41|my-time-at-sandrock|My Time at Sandrock|20|2022-10-25 17h|2022-11-01 17h|
+|42|suchart-genius-artist-simulator|SuchArt: Genius Artist Simulator|20|2022-10-13 16h|2022-10-20 16h|
+|43|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
+|44|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
