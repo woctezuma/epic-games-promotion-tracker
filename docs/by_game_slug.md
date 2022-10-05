@@ -41,11 +41,10 @@
 |39|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
 |40|ultragoodness-2-b9f493|UltraGoodness 2|50|2022-10-11 04h|2022-10-18 04h|
 |41|ultragoodness-a391d4|UltraGoodness|50|2022-10-11 04h|2022-10-18 04h|
-|42|vampire-the-masquerade-swansong--outfits-pack|Alternate Outfits Pack|100|2022-10-05 08h|2022-10-31 09h|
-|43|world-of-warships--american-freedom|World of Warships - American Freedom|50|2022-10-07 15h|2022-10-21 15h|
-|44|world-of-warships--exclusive-starter-pack|Exclusive Starter Pack|50|2022-10-07 15h|2022-10-21 15h|
-|45|world-of-warships--german-ordnung|World of Warships — German Ordnung|50|2022-10-07 15h|2022-10-21 15h|
-|46|world-of-warships--long-live-the-king|World of Warships — Long Live the King|50|2022-10-07 15h|2022-10-21 15h|
-|47|world-of-warships--texas|Texas|50|2022-10-07 15h|2022-10-21 15h|
-|48|world-of-warships--way-of-the-warrior|World of Warships — Way of the Warrior|50|2022-10-07 15h|2022-10-21 15h|
-|49|world-of-warships--yubari|Yūbari|50|2022-10-07 15h|2022-10-21 15h|
+|42|world-of-warships--american-freedom|World of Warships - American Freedom|50|2022-10-07 15h|2022-10-21 15h|
+|43|world-of-warships--exclusive-starter-pack|Exclusive Starter Pack|50|2022-10-07 15h|2022-10-21 15h|
+|44|world-of-warships--german-ordnung|World of Warships — German Ordnung|50|2022-10-07 15h|2022-10-21 15h|
+|45|world-of-warships--long-live-the-king|World of Warships — Long Live the King|50|2022-10-07 15h|2022-10-21 15h|
+|46|world-of-warships--texas|Texas|50|2022-10-07 15h|2022-10-21 15h|
+|47|world-of-warships--way-of-the-warrior|World of Warships — Way of the Warrior|50|2022-10-07 15h|2022-10-21 15h|
+|48|world-of-warships--yubari|Yūbari|50|2022-10-07 15h|2022-10-21 15h|
