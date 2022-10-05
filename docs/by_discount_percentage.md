@@ -47,4 +47,3 @@
 |45|asterix-and-obelix-slap-them-all-458670|Asterix and Obelix Slap Them All|10|2022-10-06 14h|2022-10-20 14h|
 |46|bibots-aad4d0|Bibots|10|2022-10-05 21h|2022-10-12 21h|
 |47|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
-|48|pc-building-simulator-2|PC Building Simulator 2|10|2022-10-05 14h|2022-12-31 14h|
