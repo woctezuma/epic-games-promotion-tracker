@@ -16,14 +16,6 @@
     "title": "Achilles Legends Untold"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2022-10-31T09:00:00.000Z",
-    "isFree": true,
-    "slug": "vampire-the-masquerade-swansong--outfits-pack",
-    "startDate": "2022-10-05T08:00:00.000Z",
-    "title": "Alternate Outfits Pack"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2022-11-22T14:00:00.000Z",
     "isFree": false,
