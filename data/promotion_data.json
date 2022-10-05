@@ -40,22 +40,6 @@
     "title": "Archmagi Dungeon Master Theme Pack"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2022-10-20T14:00:00.000Z",
-    "isFree": false,
-    "slug": "asterix-and-obelix-slap-them-all-458670",
-    "startDate": "2022-10-06T14:00:00.000Z",
-    "title": "Asterix and Obelix Slap Them All"
-  },
-  {
-    "discountPercentage": 10,
-    "endDate": "2022-10-12T21:00:00.000Z",
-    "isFree": false,
-    "slug": "bibots-aad4d0",
-    "startDate": "2022-10-05T21:00:00.000Z",
-    "title": "Bibots"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2023-01-02T15:00:00.000Z",
     "isFree": false,
@@ -126,14 +110,6 @@
     "slug": "fortnite--dark-reflections-pack",
     "startDate": "2022-10-19T00:00:00.000Z",
     "title": "Dark Reflections Pack"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": null,
-    "isFree": false,
-    "slug": "destiny-2--the-witch-queen-deluxe-edition",
-    "startDate": "2022-10-06T14:00:00.000Z",
-    "title": "Destiny 2: The Witch Queen Deluxe Edition"
   },
   {
     "discountPercentage": 40,
@@ -230,14 +206,6 @@
     "slug": "out-of-the-park-baseball-23-09e3fa",
     "startDate": "2022-10-17T17:00:00.000Z",
     "title": "Out of the Park Baseball 23"
-  },
-  {
-    "discountPercentage": 10,
-    "endDate": "2022-12-31T14:00:00.000Z",
-    "isFree": false,
-    "slug": "pc-building-simulator-2",
-    "startDate": "2022-10-05T14:00:00.000Z",
-    "title": "PC Building Simulator 2"
   },
   {
     "discountPercentage": 40,
