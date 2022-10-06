@@ -232,28 +232,12 @@
     "title": "Red the Squirrel Familiar Pack"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2022-10-13T15:00:00.000Z",
-    "isFree": true,
-    "slug": "rising-hell-253707",
-    "startDate": "2022-10-06T15:00:00.000Z",
-    "title": "Rising Hell"
-  },
-  {
     "discountPercentage": 40,
     "endDate": "2022-10-09T19:00:00.000Z",
     "isFree": false,
     "slug": "idle-champions-of-the-forgotten-realms--shadowfell-desmond-theme-pack",
     "startDate": "2022-10-06T19:00:00.000Z",
     "title": "Shadowfell Desmond Theme Pack"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2022-10-13T15:00:00.000Z",
-    "isFree": true,
-    "slug": "slain-aea303",
-    "startDate": "2022-10-06T15:00:00.000Z",
-    "title": "Slain: Back From Hell"
   },
   {
     "discountPercentage": 20,
@@ -302,6 +286,14 @@
     "slug": "the-riftbreaker--metal-terror",
     "startDate": "2022-11-18T18:00:00.000Z",
     "title": "The Riftbreaker: Metal Terror"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2022-10-20T15:00:00.000Z",
+    "isFree": true,
+    "slug": "toejam-and-earl-back-in-the-groove-cddc16",
+    "startDate": "2022-10-13T15:00:00.000Z",
+    "title": "ToeJam & Earl: Back in the Groove!"
   },
   {
     "discountPercentage": 50,
