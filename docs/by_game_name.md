@@ -28,19 +28,18 @@
 |26|idle-champions-of-the-forgotten-realms--polymorphed-celeste-skin-feat-pack|Polymorphed Celeste Skin & Feat Pack|40|2022-10-06 19h|2022-10-09 19h|
 |27|idle-champions-of-the-forgotten-realms--polymorphed-jarlaxle-skin-feat-pack|Polymorphed Jarlaxle Skin & Feat Pack|90|2022-10-06 19h|2022-10-09 13h|
 |28|banedlc028-09-04|Red the Squirrel Familiar Pack|40|2022-10-06 19h|2022-10-09 19h|
-|29|rising-hell-253707|Rising Hell|100|2022-10-06 15h|2022-10-13 15h|
-|30|idle-champions-of-the-forgotten-realms--shadowfell-desmond-theme-pack|Shadowfell Desmond Theme Pack|40|2022-10-06 19h|2022-10-09 19h|
-|31|slain-aea303|Slain: Back From Hell|100|2022-10-06 15h|2022-10-13 15h|
-|32|suchart-genius-artist-simulator|SuchArt: Genius Artist Simulator|20|2022-10-13 16h|2022-10-20 16h|
-|33|world-of-warships--texas|Texas|50|2022-10-07 15h|2022-10-21 15h|
-|34|the-riftbreaker|The Riftbreaker|35|2022-11-18 18h|2022-11-29 18h|
-|35|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|35|2022-11-18 18h|2022-11-29 18h|
-|36|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
-|37|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
-|38|ultragoodness-a391d4|UltraGoodness|50|2022-10-11 04h|2022-10-18 04h|
-|39|ultragoodness-2-b9f493|UltraGoodness 2|50|2022-10-11 04h|2022-10-18 04h|
-|40|world-of-warships--american-freedom|World of Warships - American Freedom|50|2022-10-07 15h|2022-10-21 15h|
-|41|world-of-warships--german-ordnung|World of Warships — German Ordnung|50|2022-10-07 15h|2022-10-21 15h|
-|42|world-of-warships--long-live-the-king|World of Warships — Long Live the King|50|2022-10-07 15h|2022-10-21 15h|
-|43|world-of-warships--way-of-the-warrior|World of Warships — Way of the Warrior|50|2022-10-07 15h|2022-10-21 15h|
-|44|world-of-warships--yubari|Yūbari|50|2022-10-07 15h|2022-10-21 15h|
+|29|idle-champions-of-the-forgotten-realms--shadowfell-desmond-theme-pack|Shadowfell Desmond Theme Pack|40|2022-10-06 19h|2022-10-09 19h|
+|30|suchart-genius-artist-simulator|SuchArt: Genius Artist Simulator|20|2022-10-13 16h|2022-10-20 16h|
+|31|world-of-warships--texas|Texas|50|2022-10-07 15h|2022-10-21 15h|
+|32|the-riftbreaker|The Riftbreaker|35|2022-11-18 18h|2022-11-29 18h|
+|33|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|35|2022-11-18 18h|2022-11-29 18h|
+|34|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
+|35|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
+|36|toejam-and-earl-back-in-the-groove-cddc16|ToeJam & Earl: Back in the Groove!|100|2022-10-13 15h|2022-10-20 15h|
+|37|ultragoodness-a391d4|UltraGoodness|50|2022-10-11 04h|2022-10-18 04h|
+|38|ultragoodness-2-b9f493|UltraGoodness 2|50|2022-10-11 04h|2022-10-18 04h|
+|39|world-of-warships--american-freedom|World of Warships - American Freedom|50|2022-10-07 15h|2022-10-21 15h|
+|40|world-of-warships--german-ordnung|World of Warships — German Ordnung|50|2022-10-07 15h|2022-10-21 15h|
+|41|world-of-warships--long-live-the-king|World of Warships — Long Live the King|50|2022-10-07 15h|2022-10-21 15h|
+|42|world-of-warships--way-of-the-warrior|World of Warships — Way of the Warrior|50|2022-10-07 15h|2022-10-21 15h|
+|43|world-of-warships--yubari|Yūbari|50|2022-10-07 15h|2022-10-21 15h|

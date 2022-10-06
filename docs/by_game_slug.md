@@ -28,19 +28,18 @@
 |26|idle-champions-of-the-forgotten-realms--year-4-all-star-pack|Champions of Renown: Year 4 All Star Pack|40|2022-10-06 19h|2022-10-09 19h|
 |27|my-time-at-sandrock|My Time at Sandrock|20|2022-10-25 17h|2022-11-01 17h|
 |28|out-of-the-park-baseball-23-09e3fa|Out of the Park Baseball 23|50|2022-10-17 17h|2022-10-24 17h|
-|29|rising-hell-253707|Rising Hell|100|2022-10-06 15h|2022-10-13 15h|
-|30|slain-aea303|Slain: Back From Hell|100|2022-10-06 15h|2022-10-13 15h|
-|31|suchart-genius-artist-simulator|SuchArt: Genius Artist Simulator|20|2022-10-13 16h|2022-10-20 16h|
-|32|the-riftbreaker|The Riftbreaker|35|2022-11-18 18h|2022-11-29 18h|
-|33|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|35|2022-11-18 18h|2022-11-29 18h|
-|34|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
-|35|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
-|36|ultragoodness-2-b9f493|UltraGoodness 2|50|2022-10-11 04h|2022-10-18 04h|
-|37|ultragoodness-a391d4|UltraGoodness|50|2022-10-11 04h|2022-10-18 04h|
-|38|world-of-warships--american-freedom|World of Warships - American Freedom|50|2022-10-07 15h|2022-10-21 15h|
-|39|world-of-warships--exclusive-starter-pack|Exclusive Starter Pack|50|2022-10-07 15h|2022-10-21 15h|
-|40|world-of-warships--german-ordnung|World of Warships — German Ordnung|50|2022-10-07 15h|2022-10-21 15h|
-|41|world-of-warships--long-live-the-king|World of Warships — Long Live the King|50|2022-10-07 15h|2022-10-21 15h|
-|42|world-of-warships--texas|Texas|50|2022-10-07 15h|2022-10-21 15h|
-|43|world-of-warships--way-of-the-warrior|World of Warships — Way of the Warrior|50|2022-10-07 15h|2022-10-21 15h|
-|44|world-of-warships--yubari|Yūbari|50|2022-10-07 15h|2022-10-21 15h|
+|29|suchart-genius-artist-simulator|SuchArt: Genius Artist Simulator|20|2022-10-13 16h|2022-10-20 16h|
+|30|the-riftbreaker|The Riftbreaker|35|2022-11-18 18h|2022-11-29 18h|
+|31|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|35|2022-11-18 18h|2022-11-29 18h|
+|32|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
+|33|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
+|34|toejam-and-earl-back-in-the-groove-cddc16|ToeJam & Earl: Back in the Groove!|100|2022-10-13 15h|2022-10-20 15h|
+|35|ultragoodness-2-b9f493|UltraGoodness 2|50|2022-10-11 04h|2022-10-18 04h|
+|36|ultragoodness-a391d4|UltraGoodness|50|2022-10-11 04h|2022-10-18 04h|
+|37|world-of-warships--american-freedom|World of Warships - American Freedom|50|2022-10-07 15h|2022-10-21 15h|
+|38|world-of-warships--exclusive-starter-pack|Exclusive Starter Pack|50|2022-10-07 15h|2022-10-21 15h|
+|39|world-of-warships--german-ordnung|World of Warships — German Ordnung|50|2022-10-07 15h|2022-10-21 15h|
+|40|world-of-warships--long-live-the-king|World of Warships — Long Live the King|50|2022-10-07 15h|2022-10-21 15h|
+|41|world-of-warships--texas|Texas|50|2022-10-07 15h|2022-10-21 15h|
+|42|world-of-warships--way-of-the-warrior|World of Warships — Way of the Warrior|50|2022-10-07 15h|2022-10-21 15h|
+|43|world-of-warships--yubari|Yūbari|50|2022-10-07 15h|2022-10-21 15h|
