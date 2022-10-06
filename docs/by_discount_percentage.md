@@ -45,5 +45,4 @@
 |43|suchart-genius-artist-simulator|SuchArt: Genius Artist Simulator|20|2022-10-13 16h|2022-10-20 16h|
 |44|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
 |45|asterix-and-obelix-slap-them-all-458670|Asterix and Obelix Slap Them All|10|2022-10-06 14h|2022-10-20 14h|
-|46|bibots-aad4d0|Bibots|10|2022-10-05 21h|2022-10-12 21h|
-|47|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
+|46|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
