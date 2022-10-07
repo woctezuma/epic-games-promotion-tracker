@@ -1,21 +1,5 @@
 [
   {
-    "discountPercentage": 20,
-    "endDate": "2022-10-17T19:00:00.000Z",
-    "isFree": false,
-    "slug": "9-years-of-shadows-a40c92",
-    "startDate": "2022-10-10T19:00:00.000Z",
-    "title": "9 Years of Shadows"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2022-11-01T17:00:00.000Z",
-    "isFree": false,
-    "slug": "achilles-legend-untold",
-    "startDate": "2022-10-11T17:00:00.000Z",
-    "title": "Achilles Legends Untold"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2022-11-22T14:00:00.000Z",
     "isFree": false,
@@ -32,12 +16,20 @@
     "title": "Among Trees"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2022-10-09T19:00:00.000Z",
+    "discountPercentage": 75,
+    "endDate": "2022-10-24T04:00:00.000Z",
     "isFree": false,
-    "slug": "idle-champions-of-the-forgotten-realms--archmagi-dungeon-master-theme-pack",
-    "startDate": "2022-10-06T19:00:00.000Z",
-    "title": "Archmagi Dungeon Master Theme Pack"
+    "slug": "avencast-rise-of-the-mage-4668a2",
+    "startDate": "2022-10-17T04:00:00.000Z",
+    "title": "Avencast - Rise Of The Mage"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2022-11-21T18:00:00.000Z",
+    "isFree": false,
+    "slug": "beat-hazard-3-c8ef04",
+    "startDate": "2022-11-14T18:00:00.000Z",
+    "title": "Beat Hazard 3"
   },
   {
     "discountPercentage": 75,
@@ -64,12 +56,12 @@
     "title": "Bud Spencer and Terence Hill - Slaps and Beans"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2022-10-09T19:00:00.000Z",
+    "discountPercentage": 50,
+    "endDate": "2022-11-24T17:00:00.000Z",
     "isFree": false,
-    "slug": "idle-champions-of-the-forgotten-realms--year-4-all-star-pack",
-    "startDate": "2022-10-06T19:00:00.000Z",
-    "title": "Champions of Renown: Year 4 All Star Pack"
+    "slug": "car-tuning-simulator-38ddaf",
+    "startDate": "2022-11-05T17:00:00.000Z",
+    "title": "Car Tuning Simulator"
   },
   {
     "discountPercentage": 10,
@@ -80,20 +72,12 @@
     "title": "Charon's Staircase"
   },
   {
-    "discountPercentage": 80,
-    "endDate": "2022-10-22T17:00:00.000Z",
+    "discountPercentage": 25,
+    "endDate": "2022-11-02T17:00:00.000Z",
     "isFree": false,
-    "slug": "cook-serve-delicious-2-6db46c",
-    "startDate": "2022-10-08T17:00:00.000Z",
-    "title": "Cook Serve Delicious 2"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2022-10-22T17:00:00.000Z",
-    "isFree": false,
-    "slug": "cook-serve-delicious-3-fb9aae",
-    "startDate": "2022-10-08T17:00:00.000Z",
-    "title": "Cook, Serve, Delicious! 3?!"
+    "slug": "citizen-sleeper-944858",
+    "startDate": "2022-10-27T17:00:00.000Z",
+    "title": "Citizen Sleeper"
   },
   {
     "discountPercentage": 50,
@@ -113,83 +97,27 @@
   },
   {
     "discountPercentage": 40,
-    "endDate": "2022-10-09T19:00:00.000Z",
-    "isFree": false,
-    "slug": "idle-champions-of-the-forgotten-realms--dottie-the-dandelion-familiar-pack",
-    "startDate": "2022-10-06T19:00:00.000Z",
-    "title": "Dottie the Dandelion Familiar Pack"
-  },
-  {
-    "discountPercentage": 45,
-    "endDate": "2022-10-11T13:00:00.000Z",
-    "isFree": false,
-    "slug": "eve-online--bronze-starter-pack",
-    "startDate": "2022-10-07T13:00:00.000Z",
-    "title": "EVE Online - Bronze Starter Pack"
-  },
-  {
-    "discountPercentage": 35,
-    "endDate": "2022-10-11T13:00:00.000Z",
-    "isFree": false,
-    "slug": "eve-online--gold-starter-pack",
-    "startDate": "2022-10-07T13:00:00.000Z",
-    "title": "EVE Online - Gold Starter Pack"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2022-10-11T13:00:00.000Z",
-    "isFree": false,
-    "slug": "eve-online--platinum-starter-pack",
-    "startDate": "2022-10-07T13:00:00.000Z",
-    "title": "EVE Online - Platinum Starter Pack"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-10-11T13:00:00.000Z",
-    "isFree": false,
-    "slug": "eve-online--silver-starter-pack",
-    "startDate": "2022-10-07T13:00:00.000Z",
-    "title": "EVE Online - Silver Starter Pack"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2022-10-09T19:00:00.000Z",
-    "isFree": false,
-    "slug": "idle-champions-of-the-forgotten-realms--eberron-ellywick-skin-feat-pack",
-    "startDate": "2022-10-06T19:00:00.000Z",
-    "title": "Eberron Ellywick Skin & Feat Pack"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2022-10-21T15:00:00.000Z",
-    "isFree": false,
-    "slug": "world-of-warships--exclusive-starter-pack",
-    "startDate": "2022-10-07T15:00:00.000Z",
-    "title": "Exclusive Starter Pack"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2022-10-09T19:00:00.000Z",
-    "isFree": false,
-    "slug": "idle-champions-of-the-forgotten-realms--gladiator-freely-skin-feat-pack",
-    "startDate": "2022-10-06T19:00:00.000Z",
-    "title": "Gladiator Freely Skin & Feat Pack"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2022-10-09T19:00:00.000Z",
-    "isFree": false,
-    "slug": "idle-champions-of-the-forgotten-realms--gladiator-widdle-skin-feat-pack",
-    "startDate": "2022-10-06T19:00:00.000Z",
-    "title": "Gladiator Widdle Skin & Feat Pack"
-  },
-  {
-    "discountPercentage": 40,
     "endDate": "2022-11-03T12:00:00.000Z",
     "isFree": false,
     "slug": "fortnite--graveyard-drift-quest-pack",
     "startDate": "2022-10-19T00:00:00.000Z",
     "title": "Graveyard Drift Quest Pack"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2022-10-24T16:00:00.000Z",
+    "isFree": false,
+    "slug": "mars-base-a00ce0",
+    "startDate": "2022-10-17T16:00:00.000Z",
+    "title": "Mars Base"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2022-11-07T05:00:00.000Z",
+    "isFree": false,
+    "slug": "murder-is-game-over-255da8",
+    "startDate": "2022-10-25T04:00:00.000Z",
+    "title": "Murder Is Game Over"
   },
   {
     "discountPercentage": 20,
@@ -200,6 +128,14 @@
     "title": "My Time at Sandrock"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2022-10-31T04:00:00.000Z",
+    "isFree": false,
+    "slug": "nikopol-secrets-of-the-immortals-18adec",
+    "startDate": "2022-10-24T04:00:00.000Z",
+    "title": "Nikopol - Secrets of the Immortals"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2022-10-24T17:00:00.000Z",
     "isFree": false,
@@ -208,40 +144,48 @@
     "title": "Out of the Park Baseball 23"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2022-10-09T19:00:00.000Z",
+    "discountPercentage": 10,
+    "endDate": "2022-11-03T15:00:00.000Z",
     "isFree": false,
-    "slug": "idle-champions-of-the-forgotten-realms--polymorphed-celeste-skin-feat-pack",
-    "startDate": "2022-10-06T19:00:00.000Z",
-    "title": "Polymorphed Celeste Skin & Feat Pack"
+    "slug": "paper-cut-mansion-2c67e2",
+    "startDate": "2022-10-27T15:00:00.000Z",
+    "title": "Paper Cut Mansion"
   },
   {
-    "discountPercentage": 90,
-    "endDate": "2022-10-09T13:00:00.000Z",
+    "discountPercentage": 45,
+    "endDate": "2022-10-24T04:00:00.000Z",
     "isFree": false,
-    "slug": "idle-champions-of-the-forgotten-realms--polymorphed-jarlaxle-skin-feat-pack",
-    "startDate": "2022-10-06T19:00:00.000Z",
-    "title": "Polymorphed Jarlaxle Skin & Feat Pack"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-10-09T19:00:00.000Z",
-    "isFree": false,
-    "slug": "banedlc028-09-04",
-    "startDate": "2022-10-06T19:00:00.000Z",
-    "title": "Red the Squirrel Familiar Pack"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-10-09T19:00:00.000Z",
-    "isFree": false,
-    "slug": "idle-champions-of-the-forgotten-realms--shadowfell-desmond-theme-pack",
-    "startDate": "2022-10-06T19:00:00.000Z",
-    "title": "Shadowfell Desmond Theme Pack"
+    "slug": "project-pastorate-6e8765",
+    "startDate": "2022-10-17T04:00:00.000Z",
+    "title": "Project Pastorate"
   },
   {
     "discountPercentage": 20,
-    "endDate": "2022-10-20T16:00:00.000Z",
+    "endDate": "2022-10-25T04:00:00.000Z",
+    "isFree": false,
+    "slug": "retrowave-rider-18aaf1",
+    "startDate": "2022-10-18T04:00:00.000Z",
+    "title": "Retrowave Rider"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-10-31T04:00:00.000Z",
+    "isFree": false,
+    "slug": "space-hack-02fd17",
+    "startDate": "2022-10-24T04:00:00.000Z",
+    "title": "Space Hack"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-11-07T05:00:00.000Z",
+    "isFree": false,
+    "slug": "space-trader-merchant-marine-0426a8",
+    "startDate": "2022-10-31T04:00:00.000Z",
+    "title": "Space Trader - Merchant Marine"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2022-11-01T16:00:00.000Z",
     "isFree": false,
     "slug": "suchart-genius-artist-simulator",
     "startDate": "2022-10-13T16:00:00.000Z",
@@ -249,11 +193,35 @@
   },
   {
     "discountPercentage": 50,
-    "endDate": "2022-10-21T15:00:00.000Z",
+    "endDate": "2022-11-07T05:00:00.000Z",
     "isFree": false,
-    "slug": "world-of-warships--texas",
-    "startDate": "2022-10-07T15:00:00.000Z",
-    "title": "Texas"
+    "slug": "the-dark-prophecy-2193c4",
+    "startDate": "2022-10-31T04:00:00.000Z",
+    "title": "The Dark Prophecy"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2022-11-01T15:00:00.000Z",
+    "isFree": false,
+    "slug": "the-legend-of-heroes-trails-of-cold-steel-iii",
+    "startDate": "2022-10-17T15:00:00.000Z",
+    "title": "The Legend of Heroes: Trails of Cold Steel III"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-11-01T15:00:00.000Z",
+    "isFree": false,
+    "slug": "the-legend-of-heroes-trails-of-cold-steel-iv",
+    "startDate": "2022-10-17T15:00:00.000Z",
+    "title": "The Legend of Heroes: Trails of Cold Steel IV"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-11-01T15:00:00.000Z",
+    "isFree": false,
+    "slug": "the-legend-of-heroes-trails-of-cold-steel-iv--digital-deluxe-edition",
+    "startDate": "2022-10-17T15:00:00.000Z",
+    "title": "The Legend of Heroes: Trails of Cold Steel IV Digital Deluxe Edition"
   },
   {
     "discountPercentage": 35,
@@ -288,6 +256,14 @@
     "title": "The Riftbreaker: Metal Terror"
   },
   {
+    "discountPercentage": 10,
+    "endDate": "2022-10-26T06:00:00.000Z",
+    "isFree": false,
+    "slug": "the-valiant",
+    "startDate": "2022-10-19T06:00:00.000Z",
+    "title": "The Valiant"
+  },
+  {
     "discountPercentage": 100,
     "endDate": "2022-10-20T15:00:00.000Z",
     "isFree": true,
@@ -296,59 +272,203 @@
     "title": "ToeJam & Earl: Back in the Groove!"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2022-10-18T04:00:00.000Z",
+    "discountPercentage": 60,
+    "endDate": "2022-11-01T15:00:00.000Z",
     "isFree": false,
-    "slug": "ultragoodness-a391d4",
-    "startDate": "2022-10-11T04:00:00.000Z",
-    "title": "UltraGoodness"
+    "slug": "the-legend-of-heroes-trails-of-cold-steel-iii--consumable-starter-set",
+    "startDate": "2022-10-17T15:00:00.000Z",
+    "title": "Trails of Cold Steel III - Consumable Starter Set"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2022-10-18T04:00:00.000Z",
+    "discountPercentage": 60,
+    "endDate": "2022-11-01T15:00:00.000Z",
     "isFree": false,
-    "slug": "ultragoodness-2-b9f493",
-    "startDate": "2022-10-11T04:00:00.000Z",
-    "title": "UltraGoodness 2"
+    "slug": "the-legend-of-heroes-trails-of-cold-steel-iii--consumable-value-set",
+    "startDate": "2022-10-17T15:00:00.000Z",
+    "title": "Trails of Cold Steel III - Consumable Value Set"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2022-10-21T15:00:00.000Z",
+    "discountPercentage": 60,
+    "endDate": "2022-11-01T15:00:00.000Z",
     "isFree": false,
-    "slug": "world-of-warships--american-freedom",
-    "startDate": "2022-10-07T15:00:00.000Z",
-    "title": "World of Warships - American Freedom"
+    "slug": "the-legend-of-heroes-trails-of-cold-steel-iii--premium-cosmetic-set",
+    "startDate": "2022-10-17T15:00:00.000Z",
+    "title": "Trails of Cold Steel III - Premium Cosmetic Set"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2022-10-21T15:00:00.000Z",
+    "discountPercentage": 60,
+    "endDate": "2022-11-01T15:00:00.000Z",
     "isFree": false,
-    "slug": "world-of-warships--german-ordnung",
-    "startDate": "2022-10-07T15:00:00.000Z",
-    "title": "World of Warships \u2014 German Ordnung"
+    "slug": "the-legend-of-heroes-trails-of-cold-steel-iii--standard-cosmetic-set",
+    "startDate": "2022-10-17T15:00:00.000Z",
+    "title": "Trails of Cold Steel III - Standard Cosmetic Set"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2022-10-21T15:00:00.000Z",
+    "discountPercentage": 60,
+    "endDate": "2022-11-01T15:00:00.000Z",
     "isFree": false,
-    "slug": "world-of-warships--long-live-the-king",
-    "startDate": "2022-10-07T15:00:00.000Z",
-    "title": "World of Warships \u2014 Long Live the King"
+    "slug": "the-legend-of-heroes-trails-of-cold-steel-iii--limited-edition",
+    "startDate": "2022-10-17T15:00:00.000Z",
+    "title": "Trails of Cold Steel III Digital Limited Edition"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2022-10-21T15:00:00.000Z",
+    "discountPercentage": 40,
+    "endDate": "2022-11-01T15:00:00.000Z",
     "isFree": false,
-    "slug": "world-of-warships--way-of-the-warrior",
-    "startDate": "2022-10-07T15:00:00.000Z",
-    "title": "World of Warships \u2014 Way of the Warrior"
+    "slug": "the-legend-of-heroes-trails-of-cold-steel-iv--attachment-set",
+    "startDate": "2022-10-17T15:00:00.000Z",
+    "title": "Trails of Cold Steel IV - Attachment Set"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2022-10-21T15:00:00.000Z",
+    "discountPercentage": 40,
+    "endDate": "2022-11-01T15:00:00.000Z",
     "isFree": false,
-    "slug": "world-of-warships--yubari",
-    "startDate": "2022-10-07T15:00:00.000Z",
-    "title": "Y\u016bbari"
+    "slug": "the-legend-of-heroes-trails-of-cold-steel-iv--consumable-starter-set",
+    "startDate": "2022-10-17T15:00:00.000Z",
+    "title": "Trails of Cold Steel IV - Consumable Starter Set"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-11-01T15:00:00.000Z",
+    "isFree": false,
+    "slug": "the-legend-of-heroes-trails-of-cold-steel-iv--consumable-value-set",
+    "startDate": "2022-10-17T15:00:00.000Z",
+    "title": "Trails of Cold Steel IV - Consumable Value Set"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-11-01T15:00:00.000Z",
+    "isFree": false,
+    "slug": "the-legend-of-heroes-trails-of-cold-steel-iv--hair-extension-set",
+    "startDate": "2022-10-17T15:00:00.000Z",
+    "title": "Trails of Cold Steel IV - Hair Extension Set"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-11-01T15:00:00.000Z",
+    "isFree": false,
+    "slug": "the-legend-of-heroes-trails-of-cold-steel-iv--headwear-set",
+    "startDate": "2022-10-17T15:00:00.000Z",
+    "title": "Trails of Cold Steel IV - Headwear Set"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-11-01T15:00:00.000Z",
+    "isFree": false,
+    "slug": "the-legend-of-heroes-trails-of-cold-steel-iv--magical-girl-bundle",
+    "startDate": "2022-10-17T15:00:00.000Z",
+    "title": "Trails of Cold Steel IV - Magical Girl Bundle"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-11-01T15:00:00.000Z",
+    "isFree": false,
+    "slug": "the-legend-of-heroes-trails-of-cold-steel-iv--premium-cosmetic-set",
+    "startDate": "2022-10-17T15:00:00.000Z",
+    "title": "Trails of Cold Steel IV - Premium Cosmetic Set"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-11-01T15:00:00.000Z",
+    "isFree": false,
+    "slug": "the-legend-of-heroes-trails-of-cold-steel-iv--ride-along-set",
+    "startDate": "2022-10-17T15:00:00.000Z",
+    "title": "Trails of Cold Steel IV - Ride-Along Set"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-11-01T15:00:00.000Z",
+    "isFree": false,
+    "slug": "the-legend-of-heroes-trails-of-cold-steel-iv--self-assertion-vol2",
+    "startDate": "2022-10-17T15:00:00.000Z",
+    "title": "Trails of Cold Steel IV - Self-Assertion Panels 2"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-11-01T15:00:00.000Z",
+    "isFree": false,
+    "slug": "the-legend-of-heroes-trails-of-cold-steel-iv--standard-cosmetic-set",
+    "startDate": "2022-10-17T15:00:00.000Z",
+    "title": "Trails of Cold Steel IV - Standard Cosmetic Set"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-11-01T15:00:00.000Z",
+    "isFree": false,
+    "slug": "the-legend-of-heroes-trails-of-cold-steel-iv--standard-costume-bundle",
+    "startDate": "2022-10-17T15:00:00.000Z",
+    "title": "Trails of Cold Steel IV - Standard Costume Bundle"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-11-01T15:00:00.000Z",
+    "isFree": false,
+    "slug": "the-legend-of-heroes-trails-of-cold-steel-iv--swimsuit-bundle",
+    "startDate": "2022-10-17T15:00:00.000Z",
+    "title": "Trails of Cold Steel IV - Swimsuit Bundle"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2022-10-21T17:00:00.000Z",
+    "isFree": false,
+    "slug": "trifox-b361b7",
+    "startDate": "2022-10-14T17:00:00.000Z",
+    "title": "Trifox"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2022-11-28T17:00:00.000Z",
+    "isFree": false,
+    "slug": "true-hate-007027",
+    "startDate": "2022-11-10T17:00:00.000Z",
+    "title": "True Hate"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2022-11-01T15:00:00.000Z",
+    "isFree": false,
+    "slug": "ys-ix-monstrum-nox",
+    "startDate": "2022-10-17T15:00:00.000Z",
+    "title": "Ys IX: Monstrum Nox"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2022-11-01T15:00:00.000Z",
+    "isFree": false,
+    "slug": "ys-ix-monstrum-nox--attachments-bundle",
+    "startDate": "2022-10-17T15:00:00.000Z",
+    "title": "Ys IX: Monstrum Nox - Attachments Bundle"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2022-11-01T15:00:00.000Z",
+    "isFree": false,
+    "slug": "ys-ix-monstrum-nox--consumable-bundle",
+    "startDate": "2022-10-17T15:00:00.000Z",
+    "title": "Ys IX: Monstrum Nox - Consumable Bundle"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2022-11-01T15:00:00.000Z",
+    "isFree": false,
+    "slug": "ys-ix-monstrum-nox--monstrum-troupe-bundle",
+    "startDate": "2022-10-17T15:00:00.000Z",
+    "title": "Ys IX: Monstrum Nox - Monstrum Troupe Bundle"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2022-11-01T15:00:00.000Z",
+    "isFree": false,
+    "slug": "ys-ix-monstrum-nox--deluxe-edition",
+    "startDate": "2022-10-17T15:00:00.000Z",
+    "title": "Ys IX: Monstrum Nox Digital Deluxe Edition"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2022-11-01T15:00:00.000Z",
+    "isFree": false,
+    "slug": "ys-ix-monstrum-nox  ",
+    "startDate": "2022-10-17T15:00:00.000Z",
+    "title": "Ys IX: Monstrum Nox Digital Ultimate Edition"
   }
 ]

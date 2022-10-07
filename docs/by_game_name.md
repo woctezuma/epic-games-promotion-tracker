@@ -1,45 +1,60 @@
 |#|Game Slug|Game Name|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|
-|1|9-years-of-shadows-a40c92|9 Years of Shadows|20|2022-10-10 19h|2022-10-17 19h|
-|2|achilles-legend-untold|Achilles Legends Untold|20|2022-10-11 17h|2022-11-01 17h|
-|3|among-trees/home|Among Trees|50|2022-11-07 14h|2022-11-22 14h|
-|4|idle-champions-of-the-forgotten-realms--archmagi-dungeon-master-theme-pack|Archmagi Dungeon Master Theme Pack|40|2022-10-06 19h|2022-10-09 19h|
-|5|blazing-beaks-3d4864|Blazing Beaks|75|2022-12-15 15h|2023-01-02 15h|
-|6|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|79|2022-11-04 04h|2022-11-20 04h|
-|7|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|80|2022-12-16 04h|2023-01-01 04h|
-|8|idle-champions-of-the-forgotten-realms--year-4-all-star-pack|Champions of Renown: Year 4 All Star Pack|40|2022-10-06 19h|2022-10-09 19h|
-|9|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
-|10|cook-serve-delicious-2-6db46c|Cook Serve Delicious 2|80|2022-10-08 17h|2022-10-22 17h|
-|11|cook-serve-delicious-3-fb9aae|Cook, Serve, Delicious! 3?!|60|2022-10-08 17h|2022-10-22 17h|
-|12|fortnite--corrupted-legends|Corrupted Legends Pack|50|2022-10-19 00h|2022-11-03 12h|
-|13|fortnite--dark-reflections-pack|Dark Reflections Pack|50|2022-10-19 00h|2022-11-03 12h|
-|14|idle-champions-of-the-forgotten-realms--dottie-the-dandelion-familiar-pack|Dottie the Dandelion Familiar Pack|40|2022-10-06 19h|2022-10-09 19h|
-|15|eve-online--bronze-starter-pack|EVE Online - Bronze Starter Pack|45|2022-10-07 13h|2022-10-11 13h|
-|16|eve-online--gold-starter-pack|EVE Online - Gold Starter Pack|35|2022-10-07 13h|2022-10-11 13h|
-|17|eve-online--platinum-starter-pack|EVE Online - Platinum Starter Pack|30|2022-10-07 13h|2022-10-11 13h|
-|18|eve-online--silver-starter-pack|EVE Online - Silver Starter Pack|40|2022-10-07 13h|2022-10-11 13h|
-|19|idle-champions-of-the-forgotten-realms--eberron-ellywick-skin-feat-pack|Eberron Ellywick Skin & Feat Pack|30|2022-10-06 19h|2022-10-09 19h|
-|20|world-of-warships--exclusive-starter-pack|Exclusive Starter Pack|50|2022-10-07 15h|2022-10-21 15h|
-|21|idle-champions-of-the-forgotten-realms--gladiator-freely-skin-feat-pack|Gladiator Freely Skin & Feat Pack|30|2022-10-06 19h|2022-10-09 19h|
-|22|idle-champions-of-the-forgotten-realms--gladiator-widdle-skin-feat-pack|Gladiator Widdle Skin & Feat Pack|30|2022-10-06 19h|2022-10-09 19h|
-|23|fortnite--graveyard-drift-quest-pack|Graveyard Drift Quest Pack|40|2022-10-19 00h|2022-11-03 12h|
-|24|my-time-at-sandrock|My Time at Sandrock|20|2022-10-25 17h|2022-11-01 17h|
-|25|out-of-the-park-baseball-23-09e3fa|Out of the Park Baseball 23|50|2022-10-17 17h|2022-10-24 17h|
-|26|idle-champions-of-the-forgotten-realms--polymorphed-celeste-skin-feat-pack|Polymorphed Celeste Skin & Feat Pack|40|2022-10-06 19h|2022-10-09 19h|
-|27|idle-champions-of-the-forgotten-realms--polymorphed-jarlaxle-skin-feat-pack|Polymorphed Jarlaxle Skin & Feat Pack|90|2022-10-06 19h|2022-10-09 13h|
-|28|banedlc028-09-04|Red the Squirrel Familiar Pack|40|2022-10-06 19h|2022-10-09 19h|
-|29|idle-champions-of-the-forgotten-realms--shadowfell-desmond-theme-pack|Shadowfell Desmond Theme Pack|40|2022-10-06 19h|2022-10-09 19h|
-|30|suchart-genius-artist-simulator|SuchArt: Genius Artist Simulator|20|2022-10-13 16h|2022-10-20 16h|
-|31|world-of-warships--texas|Texas|50|2022-10-07 15h|2022-10-21 15h|
-|32|the-riftbreaker|The Riftbreaker|35|2022-11-18 18h|2022-11-29 18h|
-|33|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|35|2022-11-18 18h|2022-11-29 18h|
-|34|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
-|35|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
-|36|toejam-and-earl-back-in-the-groove-cddc16|ToeJam & Earl: Back in the Groove!|100|2022-10-13 15h|2022-10-20 15h|
-|37|ultragoodness-a391d4|UltraGoodness|50|2022-10-11 04h|2022-10-18 04h|
-|38|ultragoodness-2-b9f493|UltraGoodness 2|50|2022-10-11 04h|2022-10-18 04h|
-|39|world-of-warships--american-freedom|World of Warships - American Freedom|50|2022-10-07 15h|2022-10-21 15h|
-|40|world-of-warships--german-ordnung|World of Warships — German Ordnung|50|2022-10-07 15h|2022-10-21 15h|
-|41|world-of-warships--long-live-the-king|World of Warships — Long Live the King|50|2022-10-07 15h|2022-10-21 15h|
-|42|world-of-warships--way-of-the-warrior|World of Warships — Way of the Warrior|50|2022-10-07 15h|2022-10-21 15h|
-|43|world-of-warships--yubari|Yūbari|50|2022-10-07 15h|2022-10-21 15h|
+|1|among-trees/home|Among Trees|50|2022-11-07 14h|2022-11-22 14h|
+|2|avencast-rise-of-the-mage-4668a2|Avencast - Rise Of The Mage|75|2022-10-17 04h|2022-10-24 04h|
+|3|beat-hazard-3-c8ef04|Beat Hazard 3|10|2022-11-14 18h|2022-11-21 18h|
+|4|blazing-beaks-3d4864|Blazing Beaks|75|2022-12-15 15h|2023-01-02 15h|
+|5|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|79|2022-11-04 04h|2022-11-20 04h|
+|6|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|80|2022-12-16 04h|2023-01-01 04h|
+|7|car-tuning-simulator-38ddaf|Car Tuning Simulator|50|2022-11-05 17h|2022-11-24 17h|
+|8|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
+|9|citizen-sleeper-944858|Citizen Sleeper|25|2022-10-27 17h|2022-11-02 17h|
+|10|fortnite--corrupted-legends|Corrupted Legends Pack|50|2022-10-19 00h|2022-11-03 12h|
+|11|fortnite--dark-reflections-pack|Dark Reflections Pack|50|2022-10-19 00h|2022-11-03 12h|
+|12|fortnite--graveyard-drift-quest-pack|Graveyard Drift Quest Pack|40|2022-10-19 00h|2022-11-03 12h|
+|13|mars-base-a00ce0|Mars Base|20|2022-10-17 16h|2022-10-24 16h|
+|14|murder-is-game-over-255da8|Murder Is Game Over|20|2022-10-25 04h|2022-11-07 05h|
+|15|my-time-at-sandrock|My Time at Sandrock|20|2022-10-25 17h|2022-11-01 17h|
+|16|nikopol-secrets-of-the-immortals-18adec|Nikopol - Secrets of the Immortals|75|2022-10-24 04h|2022-10-31 04h|
+|17|out-of-the-park-baseball-23-09e3fa|Out of the Park Baseball 23|50|2022-10-17 17h|2022-10-24 17h|
+|18|paper-cut-mansion-2c67e2|Paper Cut Mansion|10|2022-10-27 15h|2022-11-03 15h|
+|19|project-pastorate-6e8765|Project Pastorate|45|2022-10-17 04h|2022-10-24 04h|
+|20|retrowave-rider-18aaf1|Retrowave Rider|20|2022-10-18 04h|2022-10-25 04h|
+|21|space-hack-02fd17|Space Hack|75|2022-10-24 04h|2022-10-31 04h|
+|22|space-trader-merchant-marine-0426a8|Space Trader - Merchant Marine|75|2022-10-31 04h|2022-11-07 05h|
+|23|suchart-genius-artist-simulator|SuchArt: Genius Artist Simulator|20|2022-10-13 16h|2022-11-01 16h|
+|24|the-dark-prophecy-2193c4|The Dark Prophecy|50|2022-10-31 04h|2022-11-07 05h|
+|25|the-legend-of-heroes-trails-of-cold-steel-iii|The Legend of Heroes: Trails of Cold Steel III|60|2022-10-17 15h|2022-11-01 15h|
+|26|the-legend-of-heroes-trails-of-cold-steel-iv|The Legend of Heroes: Trails of Cold Steel IV|40|2022-10-17 15h|2022-11-01 15h|
+|27|the-legend-of-heroes-trails-of-cold-steel-iv--digital-deluxe-edition|The Legend of Heroes: Trails of Cold Steel IV Digital Deluxe Edition|40|2022-10-17 15h|2022-11-01 15h|
+|28|the-riftbreaker|The Riftbreaker|35|2022-11-18 18h|2022-11-29 18h|
+|29|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|35|2022-11-18 18h|2022-11-29 18h|
+|30|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
+|31|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
+|32|the-valiant|The Valiant|10|2022-10-19 06h|2022-10-26 06h|
+|33|toejam-and-earl-back-in-the-groove-cddc16|ToeJam & Earl: Back in the Groove!|100|2022-10-13 15h|2022-10-20 15h|
+|34|the-legend-of-heroes-trails-of-cold-steel-iii--consumable-starter-set|Trails of Cold Steel III - Consumable Starter Set|60|2022-10-17 15h|2022-11-01 15h|
+|35|the-legend-of-heroes-trails-of-cold-steel-iii--consumable-value-set|Trails of Cold Steel III - Consumable Value Set|60|2022-10-17 15h|2022-11-01 15h|
+|36|the-legend-of-heroes-trails-of-cold-steel-iii--premium-cosmetic-set|Trails of Cold Steel III - Premium Cosmetic Set|60|2022-10-17 15h|2022-11-01 15h|
+|37|the-legend-of-heroes-trails-of-cold-steel-iii--standard-cosmetic-set|Trails of Cold Steel III - Standard Cosmetic Set|60|2022-10-17 15h|2022-11-01 15h|
+|38|the-legend-of-heroes-trails-of-cold-steel-iii--limited-edition|Trails of Cold Steel III Digital Limited Edition|60|2022-10-17 15h|2022-11-01 15h|
+|39|the-legend-of-heroes-trails-of-cold-steel-iv--attachment-set|Trails of Cold Steel IV - Attachment Set|40|2022-10-17 15h|2022-11-01 15h|
+|40|the-legend-of-heroes-trails-of-cold-steel-iv--consumable-starter-set|Trails of Cold Steel IV - Consumable Starter Set|40|2022-10-17 15h|2022-11-01 15h|
+|41|the-legend-of-heroes-trails-of-cold-steel-iv--consumable-value-set|Trails of Cold Steel IV - Consumable Value Set|40|2022-10-17 15h|2022-11-01 15h|
+|42|the-legend-of-heroes-trails-of-cold-steel-iv--hair-extension-set|Trails of Cold Steel IV - Hair Extension Set|40|2022-10-17 15h|2022-11-01 15h|
+|43|the-legend-of-heroes-trails-of-cold-steel-iv--headwear-set|Trails of Cold Steel IV - Headwear Set|40|2022-10-17 15h|2022-11-01 15h|
+|44|the-legend-of-heroes-trails-of-cold-steel-iv--magical-girl-bundle|Trails of Cold Steel IV - Magical Girl Bundle|40|2022-10-17 15h|2022-11-01 15h|
+|45|the-legend-of-heroes-trails-of-cold-steel-iv--premium-cosmetic-set|Trails of Cold Steel IV - Premium Cosmetic Set|40|2022-10-17 15h|2022-11-01 15h|
+|46|the-legend-of-heroes-trails-of-cold-steel-iv--ride-along-set|Trails of Cold Steel IV - Ride-Along Set|40|2022-10-17 15h|2022-11-01 15h|
+|47|the-legend-of-heroes-trails-of-cold-steel-iv--self-assertion-vol2|Trails of Cold Steel IV - Self-Assertion Panels 2|40|2022-10-17 15h|2022-11-01 15h|
+|48|the-legend-of-heroes-trails-of-cold-steel-iv--standard-cosmetic-set|Trails of Cold Steel IV - Standard Cosmetic Set|40|2022-10-17 15h|2022-11-01 15h|
+|49|the-legend-of-heroes-trails-of-cold-steel-iv--standard-costume-bundle|Trails of Cold Steel IV - Standard Costume Bundle|40|2022-10-17 15h|2022-11-01 15h|
+|50|the-legend-of-heroes-trails-of-cold-steel-iv--swimsuit-bundle|Trails of Cold Steel IV - Swimsuit Bundle|40|2022-10-17 15h|2022-11-01 15h|
+|51|trifox-b361b7|Trifox|10|2022-10-14 17h|2022-10-21 17h|
+|52|true-hate-007027|True Hate|90|2022-11-10 17h|2022-11-28 17h|
+|53|ys-ix-monstrum-nox|Ys IX: Monstrum Nox|30|2022-10-17 15h|2022-11-01 15h|
+|54|ys-ix-monstrum-nox--attachments-bundle|Ys IX: Monstrum Nox - Attachments Bundle|30|2022-10-17 15h|2022-11-01 15h|
+|55|ys-ix-monstrum-nox--consumable-bundle|Ys IX: Monstrum Nox - Consumable Bundle|30|2022-10-17 15h|2022-11-01 15h|
+|56|ys-ix-monstrum-nox--monstrum-troupe-bundle|Ys IX: Monstrum Nox - Monstrum Troupe Bundle|30|2022-10-17 15h|2022-11-01 15h|
+|57|ys-ix-monstrum-nox--deluxe-edition|Ys IX: Monstrum Nox Digital Deluxe Edition|30|2022-10-17 15h|2022-11-01 15h|
+|58|ys-ix-monstrum-nox  |Ys IX: Monstrum Nox Digital Ultimate Edition|30|2022-10-17 15h|2022-11-01 15h|
