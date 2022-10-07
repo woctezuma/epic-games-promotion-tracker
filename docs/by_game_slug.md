@@ -9,27 +9,16 @@
 |7|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
 |8|cook-serve-delicious-2-6db46c|Cook Serve Delicious 2|80|2022-10-08 17h|2022-10-22 17h|
 |9|cook-serve-delicious-3-fb9aae|Cook, Serve, Delicious! 3?!|60|2022-10-08 17h|2022-10-22 17h|
-|10|eve-online--bronze-starter-pack|EVE Online - Bronze Starter Pack|45|2022-10-07 13h|2022-10-11 13h|
-|11|eve-online--gold-starter-pack|EVE Online - Gold Starter Pack|35|2022-10-07 13h|2022-10-11 13h|
-|12|eve-online--platinum-starter-pack|EVE Online - Platinum Starter Pack|30|2022-10-07 13h|2022-10-11 13h|
-|13|eve-online--silver-starter-pack|EVE Online - Silver Starter Pack|40|2022-10-07 13h|2022-10-11 13h|
-|14|fortnite--corrupted-legends|Corrupted Legends Pack|50|2022-10-19 00h|2022-11-03 12h|
-|15|fortnite--dark-reflections-pack|Dark Reflections Pack|50|2022-10-19 00h|2022-11-03 12h|
-|16|fortnite--graveyard-drift-quest-pack|Graveyard Drift Quest Pack|40|2022-10-19 00h|2022-11-03 12h|
-|17|my-time-at-sandrock|My Time at Sandrock|20|2022-10-25 17h|2022-11-01 17h|
-|18|out-of-the-park-baseball-23-09e3fa|Out of the Park Baseball 23|50|2022-10-17 17h|2022-10-24 17h|
-|19|suchart-genius-artist-simulator|SuchArt: Genius Artist Simulator|20|2022-10-13 16h|2022-10-20 16h|
-|20|the-riftbreaker|The Riftbreaker|35|2022-11-18 18h|2022-11-29 18h|
-|21|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|35|2022-11-18 18h|2022-11-29 18h|
-|22|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
-|23|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
-|24|toejam-and-earl-back-in-the-groove-cddc16|ToeJam & Earl: Back in the Groove!|100|2022-10-13 15h|2022-10-20 15h|
-|25|ultragoodness-2-b9f493|UltraGoodness 2|50|2022-10-11 04h|2022-10-18 04h|
-|26|ultragoodness-a391d4|UltraGoodness|50|2022-10-11 04h|2022-10-18 04h|
-|27|world-of-warships--american-freedom|World of Warships - American Freedom|50|2022-10-07 15h|2022-10-21 15h|
-|28|world-of-warships--exclusive-starter-pack|Exclusive Starter Pack|50|2022-10-07 15h|2022-10-21 15h|
-|29|world-of-warships--german-ordnung|World of Warships — German Ordnung|50|2022-10-07 15h|2022-10-21 15h|
-|30|world-of-warships--long-live-the-king|World of Warships — Long Live the King|50|2022-10-07 15h|2022-10-21 15h|
-|31|world-of-warships--texas|Texas|50|2022-10-07 15h|2022-10-21 15h|
-|32|world-of-warships--way-of-the-warrior|World of Warships — Way of the Warrior|50|2022-10-07 15h|2022-10-21 15h|
-|33|world-of-warships--yubari|Yūbari|50|2022-10-07 15h|2022-10-21 15h|
+|10|fortnite--corrupted-legends|Corrupted Legends Pack|50|2022-10-19 00h|2022-11-03 12h|
+|11|fortnite--dark-reflections-pack|Dark Reflections Pack|50|2022-10-19 00h|2022-11-03 12h|
+|12|fortnite--graveyard-drift-quest-pack|Graveyard Drift Quest Pack|40|2022-10-19 00h|2022-11-03 12h|
+|13|my-time-at-sandrock|My Time at Sandrock|20|2022-10-25 17h|2022-11-01 17h|
+|14|out-of-the-park-baseball-23-09e3fa|Out of the Park Baseball 23|50|2022-10-17 17h|2022-10-24 17h|
+|15|suchart-genius-artist-simulator|SuchArt: Genius Artist Simulator|20|2022-10-13 16h|2022-10-20 16h|
+|16|the-riftbreaker|The Riftbreaker|35|2022-11-18 18h|2022-11-29 18h|
+|17|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|35|2022-11-18 18h|2022-11-29 18h|
+|18|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
+|19|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
+|20|toejam-and-earl-back-in-the-groove-cddc16|ToeJam & Earl: Back in the Groove!|100|2022-10-13 15h|2022-10-20 15h|
+|21|ultragoodness-2-b9f493|UltraGoodness 2|50|2022-10-11 04h|2022-10-18 04h|
+|22|ultragoodness-a391d4|UltraGoodness|50|2022-10-11 04h|2022-10-18 04h|
