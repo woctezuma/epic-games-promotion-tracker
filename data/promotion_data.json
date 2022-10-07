@@ -32,14 +32,6 @@
     "title": "Among Trees"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2022-10-09T19:00:00.000Z",
-    "isFree": false,
-    "slug": "idle-champions-of-the-forgotten-realms--archmagi-dungeon-master-theme-pack",
-    "startDate": "2022-10-06T19:00:00.000Z",
-    "title": "Archmagi Dungeon Master Theme Pack"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2023-01-02T15:00:00.000Z",
     "isFree": false,
@@ -62,14 +54,6 @@
     "slug": "bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b",
     "startDate": "2022-12-16T04:00:00.000Z",
     "title": "Bud Spencer and Terence Hill - Slaps and Beans"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-10-09T19:00:00.000Z",
-    "isFree": false,
-    "slug": "idle-champions-of-the-forgotten-realms--year-4-all-star-pack",
-    "startDate": "2022-10-06T19:00:00.000Z",
-    "title": "Champions of Renown: Year 4 All Star Pack"
   },
   {
     "discountPercentage": 10,
@@ -112,14 +96,6 @@
     "title": "Dark Reflections Pack"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2022-10-09T19:00:00.000Z",
-    "isFree": false,
-    "slug": "idle-champions-of-the-forgotten-realms--dottie-the-dandelion-familiar-pack",
-    "startDate": "2022-10-06T19:00:00.000Z",
-    "title": "Dottie the Dandelion Familiar Pack"
-  },
-  {
     "discountPercentage": 45,
     "endDate": "2022-10-11T13:00:00.000Z",
     "isFree": false,
@@ -152,36 +128,12 @@
     "title": "EVE Online - Silver Starter Pack"
   },
   {
-    "discountPercentage": 30,
-    "endDate": "2022-10-09T19:00:00.000Z",
-    "isFree": false,
-    "slug": "idle-champions-of-the-forgotten-realms--eberron-ellywick-skin-feat-pack",
-    "startDate": "2022-10-06T19:00:00.000Z",
-    "title": "Eberron Ellywick Skin & Feat Pack"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2022-10-21T15:00:00.000Z",
     "isFree": false,
     "slug": "world-of-warships--exclusive-starter-pack",
     "startDate": "2022-10-07T15:00:00.000Z",
     "title": "Exclusive Starter Pack"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2022-10-09T19:00:00.000Z",
-    "isFree": false,
-    "slug": "idle-champions-of-the-forgotten-realms--gladiator-freely-skin-feat-pack",
-    "startDate": "2022-10-06T19:00:00.000Z",
-    "title": "Gladiator Freely Skin & Feat Pack"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2022-10-09T19:00:00.000Z",
-    "isFree": false,
-    "slug": "idle-champions-of-the-forgotten-realms--gladiator-widdle-skin-feat-pack",
-    "startDate": "2022-10-06T19:00:00.000Z",
-    "title": "Gladiator Widdle Skin & Feat Pack"
   },
   {
     "discountPercentage": 40,
@@ -206,38 +158,6 @@
     "slug": "out-of-the-park-baseball-23-09e3fa",
     "startDate": "2022-10-17T17:00:00.000Z",
     "title": "Out of the Park Baseball 23"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-10-09T19:00:00.000Z",
-    "isFree": false,
-    "slug": "idle-champions-of-the-forgotten-realms--polymorphed-celeste-skin-feat-pack",
-    "startDate": "2022-10-06T19:00:00.000Z",
-    "title": "Polymorphed Celeste Skin & Feat Pack"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2022-10-09T13:00:00.000Z",
-    "isFree": false,
-    "slug": "idle-champions-of-the-forgotten-realms--polymorphed-jarlaxle-skin-feat-pack",
-    "startDate": "2022-10-06T19:00:00.000Z",
-    "title": "Polymorphed Jarlaxle Skin & Feat Pack"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-10-09T19:00:00.000Z",
-    "isFree": false,
-    "slug": "banedlc028-09-04",
-    "startDate": "2022-10-06T19:00:00.000Z",
-    "title": "Red the Squirrel Familiar Pack"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-10-09T19:00:00.000Z",
-    "isFree": false,
-    "slug": "idle-champions-of-the-forgotten-realms--shadowfell-desmond-theme-pack",
-    "startDate": "2022-10-06T19:00:00.000Z",
-    "title": "Shadowfell Desmond Theme Pack"
   },
   {
     "discountPercentage": 20,
