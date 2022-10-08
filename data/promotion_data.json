@@ -16,6 +16,14 @@
     "title": "Achilles Legends Untold"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2022-10-17T04:00:00.000Z",
+    "isFree": false,
+    "slug": "aftergrinder-96f722",
+    "startDate": "2022-10-10T04:00:00.000Z",
+    "title": "Aftergrinder"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2022-11-22T14:00:00.000Z",
     "isFree": false,
@@ -89,6 +97,14 @@
   },
   {
     "discountPercentage": 50,
+    "endDate": "2022-10-17T04:00:00.000Z",
+    "isFree": false,
+    "slug": "dark-matter-13654b",
+    "startDate": "2022-10-10T04:00:00.000Z",
+    "title": "Dark Matter"
+  },
+  {
+    "discountPercentage": 50,
     "endDate": "2022-11-03T12:00:00.000Z",
     "isFree": false,
     "slug": "fortnite--dark-reflections-pack",
@@ -120,8 +136,16 @@
     "title": "Out of the Park Baseball 23"
   },
   {
+    "discountPercentage": 45,
+    "endDate": "2022-10-24T04:00:00.000Z",
+    "isFree": false,
+    "slug": "project-pastorate-6e8765",
+    "startDate": "2022-10-17T04:00:00.000Z",
+    "title": "Project Pastorate"
+  },
+  {
     "discountPercentage": 20,
-    "endDate": "2022-10-20T16:00:00.000Z",
+    "endDate": "2022-11-01T16:00:00.000Z",
     "isFree": false,
     "slug": "suchart-genius-artist-simulator",
     "startDate": "2022-10-13T16:00:00.000Z",
