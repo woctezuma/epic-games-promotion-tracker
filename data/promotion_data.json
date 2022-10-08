@@ -72,22 +72,6 @@
     "title": "Charon's Staircase"
   },
   {
-    "discountPercentage": 80,
-    "endDate": "2022-10-22T17:00:00.000Z",
-    "isFree": false,
-    "slug": "cook-serve-delicious-2-6db46c",
-    "startDate": "2022-10-08T17:00:00.000Z",
-    "title": "Cook Serve Delicious 2"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2022-10-22T17:00:00.000Z",
-    "isFree": false,
-    "slug": "cook-serve-delicious-3-fb9aae",
-    "startDate": "2022-10-08T17:00:00.000Z",
-    "title": "Cook, Serve, Delicious! 3?!"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2022-11-03T12:00:00.000Z",
     "isFree": false,
