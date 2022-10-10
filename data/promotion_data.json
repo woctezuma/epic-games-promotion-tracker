@@ -1,13 +1,5 @@
 [
   {
-    "discountPercentage": 20,
-    "endDate": "2022-10-17T19:00:00.000Z",
-    "isFree": false,
-    "slug": "9-years-of-shadows-a40c92",
-    "startDate": "2022-10-10T19:00:00.000Z",
-    "title": "9 Years of Shadows"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2022-11-22T14:00:00.000Z",
     "isFree": false,
@@ -22,6 +14,14 @@
     "slug": "among-trees/home",
     "startDate": "2022-11-07T14:00:00.000Z",
     "title": "Among Trees"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-10-24T04:00:00.000Z",
+    "isFree": false,
+    "slug": "avencast-rise-of-the-mage-4668a2",
+    "startDate": "2022-10-17T04:00:00.000Z",
+    "title": "Avencast - Rise Of The Mage"
   },
   {
     "discountPercentage": 75,
@@ -88,6 +88,22 @@
     "title": "My Time at Sandrock"
   },
   {
+    "discountPercentage": 25,
+    "endDate": "2022-10-17T22:00:00.000Z",
+    "isFree": false,
+    "slug": "nero-0011a8",
+    "startDate": "2022-10-10T22:00:00.000Z",
+    "title": "NERO"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-10-31T04:00:00.000Z",
+    "isFree": false,
+    "slug": "nikopol-secrets-of-the-immortals-18adec",
+    "startDate": "2022-10-24T04:00:00.000Z",
+    "title": "Nikopol - Secrets of the Immortals"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2022-10-24T17:00:00.000Z",
     "isFree": false,
@@ -150,6 +166,14 @@
     "slug": "toejam-and-earl-back-in-the-groove-cddc16",
     "startDate": "2022-10-13T15:00:00.000Z",
     "title": "ToeJam & Earl: Back in the Groove!"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2022-10-21T17:00:00.000Z",
+    "isFree": false,
+    "slug": "trifox-b361b7",
+    "startDate": "2022-10-14T17:00:00.000Z",
+    "title": "Trifox"
   },
   {
     "discountPercentage": 50,
