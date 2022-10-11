@@ -56,6 +56,14 @@
     "title": "Charon's Staircase"
   },
   {
+    "discountPercentage": 25,
+    "endDate": "2022-11-02T17:00:00.000Z",
+    "isFree": false,
+    "slug": "citizen-sleeper-944858",
+    "startDate": "2022-10-27T17:00:00.000Z",
+    "title": "Citizen Sleeper"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2022-11-03T12:00:00.000Z",
     "isFree": false,
@@ -89,6 +97,14 @@
   },
   {
     "discountPercentage": 20,
+    "endDate": "2022-11-07T05:00:00.000Z",
+    "isFree": false,
+    "slug": "murder-is-game-over-255da8",
+    "startDate": "2022-10-25T04:00:00.000Z",
+    "title": "Murder Is Game Over"
+  },
+  {
+    "discountPercentage": 20,
     "endDate": "2022-11-01T17:00:00.000Z",
     "isFree": false,
     "slug": "my-time-at-sandrock",
@@ -112,12 +128,28 @@
     "title": "Out of the Park Baseball 23"
   },
   {
+    "discountPercentage": 10,
+    "endDate": "2022-11-03T15:00:00.000Z",
+    "isFree": false,
+    "slug": "paper-cut-mansion-2c67e2",
+    "startDate": "2022-10-27T15:00:00.000Z",
+    "title": "Paper Cut Mansion"
+  },
+  {
     "discountPercentage": 45,
     "endDate": "2022-10-24T04:00:00.000Z",
     "isFree": false,
     "slug": "project-pastorate-6e8765",
     "startDate": "2022-10-17T04:00:00.000Z",
     "title": "Project Pastorate"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2022-10-25T04:00:00.000Z",
+    "isFree": false,
+    "slug": "retrowave-rider-18aaf1",
+    "startDate": "2022-10-18T04:00:00.000Z",
+    "title": "Retrowave Rider"
   },
   {
     "discountPercentage": 75,
@@ -142,6 +174,14 @@
     "slug": "suchart-genius-artist-simulator",
     "startDate": "2022-10-13T16:00:00.000Z",
     "title": "SuchArt: Genius Artist Simulator"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-11-07T05:00:00.000Z",
+    "isFree": false,
+    "slug": "the-dark-prophecy-2193c4",
+    "startDate": "2022-10-31T04:00:00.000Z",
+    "title": "The Dark Prophecy"
   },
   {
     "discountPercentage": 35,
