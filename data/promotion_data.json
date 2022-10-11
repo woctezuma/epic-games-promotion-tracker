@@ -81,6 +81,14 @@
   },
   {
     "discountPercentage": 20,
+    "endDate": "2022-10-24T16:00:00.000Z",
+    "isFree": false,
+    "slug": "mars-base-a00ce0",
+    "startDate": "2022-10-17T16:00:00.000Z",
+    "title": "Mars Base"
+  },
+  {
+    "discountPercentage": 20,
     "endDate": "2022-11-01T17:00:00.000Z",
     "isFree": false,
     "slug": "my-time-at-sandrock",
@@ -110,6 +118,22 @@
     "slug": "project-pastorate-6e8765",
     "startDate": "2022-10-17T04:00:00.000Z",
     "title": "Project Pastorate"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-10-31T04:00:00.000Z",
+    "isFree": false,
+    "slug": "space-hack-02fd17",
+    "startDate": "2022-10-24T04:00:00.000Z",
+    "title": "Space Hack"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-11-07T05:00:00.000Z",
+    "isFree": false,
+    "slug": "space-trader-merchant-marine-0426a8",
+    "startDate": "2022-10-31T04:00:00.000Z",
+    "title": "Space Trader - Merchant Marine"
   },
   {
     "discountPercentage": 20,
