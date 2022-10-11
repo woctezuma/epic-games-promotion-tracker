@@ -10,16 +10,13 @@
 |8|fortnite--corrupted-legends|Corrupted Legends Pack|50|2022-10-19 00h|2022-11-03 12h|
 |9|fortnite--dark-reflections-pack|Dark Reflections Pack|50|2022-10-19 00h|2022-11-03 12h|
 |10|out-of-the-park-baseball-23-09e3fa|Out of the Park Baseball 23|50|2022-10-17 17h|2022-10-24 17h|
-|11|ultragoodness-a391d4|UltraGoodness|50|2022-10-11 04h|2022-10-18 04h|
-|12|ultragoodness-2-b9f493|UltraGoodness 2|50|2022-10-11 04h|2022-10-18 04h|
-|13|project-pastorate-6e8765|Project Pastorate|45|2022-10-17 04h|2022-10-24 04h|
-|14|fortnite--graveyard-drift-quest-pack|Graveyard Drift Quest Pack|40|2022-10-19 00h|2022-11-03 12h|
-|15|the-riftbreaker|The Riftbreaker|35|2022-11-18 18h|2022-11-29 18h|
-|16|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|35|2022-11-18 18h|2022-11-29 18h|
-|17|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
-|18|nero-0011a8|NERO|25|2022-10-10 22h|2022-10-17 22h|
-|19|my-time-at-sandrock|My Time at Sandrock|20|2022-10-25 17h|2022-11-01 17h|
-|20|suchart-genius-artist-simulator|SuchArt: Genius Artist Simulator|20|2022-10-13 16h|2022-11-01 16h|
-|21|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
-|22|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
-|23|trifox-b361b7|Trifox|10|2022-10-14 17h|2022-10-21 17h|
+|11|project-pastorate-6e8765|Project Pastorate|45|2022-10-17 04h|2022-10-24 04h|
+|12|fortnite--graveyard-drift-quest-pack|Graveyard Drift Quest Pack|40|2022-10-19 00h|2022-11-03 12h|
+|13|the-riftbreaker|The Riftbreaker|35|2022-11-18 18h|2022-11-29 18h|
+|14|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|35|2022-11-18 18h|2022-11-29 18h|
+|15|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
+|16|my-time-at-sandrock|My Time at Sandrock|20|2022-10-25 17h|2022-11-01 17h|
+|17|suchart-genius-artist-simulator|SuchArt: Genius Artist Simulator|20|2022-10-13 16h|2022-11-01 16h|
+|18|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
+|19|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
+|20|trifox-b361b7|Trifox|10|2022-10-14 17h|2022-10-21 17h|
