@@ -88,14 +88,6 @@
     "title": "My Time at Sandrock"
   },
   {
-    "discountPercentage": 25,
-    "endDate": "2022-10-17T22:00:00.000Z",
-    "isFree": false,
-    "slug": "nero-0011a8",
-    "startDate": "2022-10-10T22:00:00.000Z",
-    "title": "NERO"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2022-10-31T04:00:00.000Z",
     "isFree": false,
@@ -174,21 +166,5 @@
     "slug": "trifox-b361b7",
     "startDate": "2022-10-14T17:00:00.000Z",
     "title": "Trifox"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2022-10-18T04:00:00.000Z",
-    "isFree": false,
-    "slug": "ultragoodness-a391d4",
-    "startDate": "2022-10-11T04:00:00.000Z",
-    "title": "UltraGoodness"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2022-10-18T04:00:00.000Z",
-    "isFree": false,
-    "slug": "ultragoodness-2-b9f493",
-    "startDate": "2022-10-11T04:00:00.000Z",
-    "title": "UltraGoodness 2"
   }
 ]
