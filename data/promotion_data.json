@@ -96,6 +96,14 @@
     "title": "Dark Reflections Pack"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2022-10-20T15:00:00.000Z",
+    "isFree": true,
+    "slug": "darkwood-fa73bd",
+    "startDate": "2022-10-13T15:00:00.000Z",
+    "title": "Darkwood"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2022-11-03T12:00:00.000Z",
     "isFree": false,
