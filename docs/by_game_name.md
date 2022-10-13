@@ -11,29 +11,29 @@
 |9|citizen-sleeper-944858|Citizen Sleeper|25|2022-10-27 17h|2022-11-02 17h|
 |10|fortnite--corrupted-legends|Corrupted Legends Pack|50|2022-10-19 00h|2022-11-03 12h|
 |11|fortnite--dark-reflections-pack|Dark Reflections Pack|50|2022-10-19 00h|2022-11-03 12h|
-|12|darkwood-fa73bd|Darkwood|100|2022-10-13 15h|2022-10-20 15h|
-|13|fortnite--graveyard-drift-quest-pack|Graveyard Drift Quest Pack|40|2022-10-19 00h|2022-11-03 12h|
-|14|mars-base-a00ce0|Mars Base|20|2022-10-17 16h|2022-10-24 16h|
-|15|murder-is-game-over-255da8|Murder Is Game Over|20|2022-10-25 04h|2022-11-07 05h|
-|16|my-time-at-sandrock|My Time at Sandrock|20|2022-10-25 17h|2022-11-01 17h|
-|17|nikopol-secrets-of-the-immortals-18adec|Nikopol - Secrets of the Immortals|75|2022-10-24 04h|2022-10-31 04h|
-|18|out-of-the-park-baseball-23-09e3fa|Out of the Park Baseball 23|50|2022-10-17 17h|2022-10-24 17h|
-|19|paper-cut-mansion-2c67e2|Paper Cut Mansion|10|2022-10-27 15h|2022-11-03 15h|
-|20|project-pastorate-6e8765|Project Pastorate|45|2022-10-17 04h|2022-10-24 04h|
-|21|retrowave-rider-18aaf1|Retrowave Rider|20|2022-10-18 04h|2022-10-25 04h|
-|22|space-hack-02fd17|Space Hack|75|2022-10-24 04h|2022-10-31 04h|
-|23|space-trader-merchant-marine-0426a8|Space Trader - Merchant Marine|75|2022-10-31 04h|2022-11-07 05h|
-|24|suchart-genius-artist-simulator|SuchArt: Genius Artist Simulator|20|2022-10-13 16h|2022-11-01 16h|
-|25|the-dark-prophecy-2193c4|The Dark Prophecy|50|2022-10-31 04h|2022-11-07 05h|
-|26|the-legend-of-heroes-trails-of-cold-steel-iii|The Legend of Heroes: Trails of Cold Steel III|60|2022-10-17 15h|2022-11-01 15h|
-|27|the-legend-of-heroes-trails-of-cold-steel-iv|The Legend of Heroes: Trails of Cold Steel IV|40|2022-10-17 15h|2022-11-01 15h|
-|28|the-legend-of-heroes-trails-of-cold-steel-iv--digital-deluxe-edition|The Legend of Heroes: Trails of Cold Steel IV Digital Deluxe Edition|40|2022-10-17 15h|2022-11-01 15h|
-|29|the-riftbreaker|The Riftbreaker|35|2022-11-18 18h|2022-11-29 18h|
-|30|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|35|2022-11-18 18h|2022-11-29 18h|
-|31|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
-|32|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
-|33|the-valiant|The Valiant|10|2022-10-19 06h|2022-10-26 06h|
-|34|toejam-and-earl-back-in-the-groove-cddc16|ToeJam & Earl: Back in the Groove!|100|2022-10-13 15h|2022-10-20 15h|
+|12|evoland-legendary-edition-5753ec|Evoland Legendary Edition|100|2022-10-20 15h|2022-10-27 15h|
+|13|fallout-3-game-of-the-year-edition|Fallout 3: Game of the Year Edition|100|2022-10-20 15h|2022-10-27 15h|
+|14|five-dates-60ef51|Five Dates|10|2022-10-14 12h|2022-10-28 12h|
+|15|fortnite--graveyard-drift-quest-pack|Graveyard Drift Quest Pack|40|2022-10-19 00h|2022-11-03 12h|
+|16|mars-base-a00ce0|Mars Base|20|2022-10-17 16h|2022-10-24 16h|
+|17|murder-is-game-over-255da8|Murder Is Game Over|20|2022-10-25 04h|2022-11-07 05h|
+|18|my-time-at-sandrock|My Time at Sandrock|20|2022-10-25 17h|2022-11-01 17h|
+|19|nikopol-secrets-of-the-immortals-18adec|Nikopol - Secrets of the Immortals|75|2022-10-24 04h|2022-10-31 04h|
+|20|out-of-the-park-baseball-23-09e3fa|Out of the Park Baseball 23|50|2022-10-17 17h|2022-10-24 17h|
+|21|paper-cut-mansion-2c67e2|Paper Cut Mansion|10|2022-10-27 15h|2022-11-03 15h|
+|22|project-pastorate-6e8765|Project Pastorate|45|2022-10-17 04h|2022-10-24 04h|
+|23|retrowave-rider-18aaf1|Retrowave Rider|20|2022-10-18 04h|2022-10-25 04h|
+|24|space-hack-02fd17|Space Hack|75|2022-10-24 04h|2022-10-31 04h|
+|25|space-trader-merchant-marine-0426a8|Space Trader - Merchant Marine|75|2022-10-31 04h|2022-11-07 05h|
+|26|the-dark-prophecy-2193c4|The Dark Prophecy|50|2022-10-31 04h|2022-11-07 05h|
+|27|the-legend-of-heroes-trails-of-cold-steel-iii|The Legend of Heroes: Trails of Cold Steel III|60|2022-10-17 15h|2022-11-01 15h|
+|28|the-legend-of-heroes-trails-of-cold-steel-iv|The Legend of Heroes: Trails of Cold Steel IV|40|2022-10-17 15h|2022-11-01 15h|
+|29|the-legend-of-heroes-trails-of-cold-steel-iv--digital-deluxe-edition|The Legend of Heroes: Trails of Cold Steel IV Digital Deluxe Edition|40|2022-10-17 15h|2022-11-01 15h|
+|30|the-riftbreaker|The Riftbreaker|35|2022-11-18 18h|2022-11-29 18h|
+|31|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|35|2022-11-18 18h|2022-11-29 18h|
+|32|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
+|33|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
+|34|the-valiant|The Valiant|10|2022-10-19 06h|2022-10-26 06h|
 |35|the-legend-of-heroes-trails-of-cold-steel-iii--consumable-starter-set|Trails of Cold Steel III - Consumable Starter Set|60|2022-10-17 15h|2022-11-01 15h|
 |36|the-legend-of-heroes-trails-of-cold-steel-iii--consumable-value-set|Trails of Cold Steel III - Consumable Value Set|60|2022-10-17 15h|2022-11-01 15h|
 |37|the-legend-of-heroes-trails-of-cold-steel-iii--premium-cosmetic-set|Trails of Cold Steel III - Premium Cosmetic Set|60|2022-10-17 15h|2022-11-01 15h|
