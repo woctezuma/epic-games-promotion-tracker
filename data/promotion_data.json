@@ -97,11 +97,27 @@
   },
   {
     "discountPercentage": 100,
-    "endDate": "2022-10-20T15:00:00.000Z",
+    "endDate": "2022-10-27T15:00:00.000Z",
     "isFree": true,
-    "slug": "darkwood-fa73bd",
-    "startDate": "2022-10-13T15:00:00.000Z",
-    "title": "Darkwood"
+    "slug": "evoland-legendary-edition-5753ec",
+    "startDate": "2022-10-20T15:00:00.000Z",
+    "title": "Evoland Legendary Edition"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2022-10-27T15:00:00.000Z",
+    "isFree": true,
+    "slug": "fallout-3-game-of-the-year-edition",
+    "startDate": "2022-10-20T15:00:00.000Z",
+    "title": "Fallout 3: Game of the Year Edition"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2022-10-28T12:00:00.000Z",
+    "isFree": false,
+    "slug": "five-dates-60ef51",
+    "startDate": "2022-10-14T12:00:00.000Z",
+    "title": "Five Dates"
   },
   {
     "discountPercentage": 40,
@@ -192,14 +208,6 @@
     "title": "Space Trader - Merchant Marine"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2022-11-01T16:00:00.000Z",
-    "isFree": false,
-    "slug": "suchart-genius-artist-simulator",
-    "startDate": "2022-10-13T16:00:00.000Z",
-    "title": "SuchArt: Genius Artist Simulator"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2022-11-07T05:00:00.000Z",
     "isFree": false,
@@ -270,14 +278,6 @@
     "slug": "the-valiant",
     "startDate": "2022-10-19T06:00:00.000Z",
     "title": "The Valiant"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2022-10-20T15:00:00.000Z",
-    "isFree": true,
-    "slug": "toejam-and-earl-back-in-the-groove-cddc16",
-    "startDate": "2022-10-13T15:00:00.000Z",
-    "title": "ToeJam & Earl: Back in the Groove!"
   },
   {
     "discountPercentage": 60,
