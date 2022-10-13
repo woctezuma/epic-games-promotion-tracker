@@ -1,7 +1,7 @@
 |#|Game Slug|Game Name|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|
-|1|darkwood-fa73bd|Darkwood|100|2022-10-13 15h|2022-10-20 15h|
-|2|toejam-and-earl-back-in-the-groove-cddc16|ToeJam & Earl: Back in the Groove!|100|2022-10-13 15h|2022-10-20 15h|
+|1|evoland-legendary-edition-5753ec|Evoland Legendary Edition|100|2022-10-20 15h|2022-10-27 15h|
+|2|fallout-3-game-of-the-year-edition|Fallout 3: Game of the Year Edition|100|2022-10-20 15h|2022-10-27 15h|
 |3|true-hate-007027|True Hate|90|2022-11-10 17h|2022-11-28 17h|
 |4|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|80|2022-12-16 04h|2023-01-01 04h|
 |5|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|79|2022-11-04 04h|2022-11-20 04h|
@@ -52,10 +52,10 @@
 |50|murder-is-game-over-255da8|Murder Is Game Over|20|2022-10-25 04h|2022-11-07 05h|
 |51|my-time-at-sandrock|My Time at Sandrock|20|2022-10-25 17h|2022-11-01 17h|
 |52|retrowave-rider-18aaf1|Retrowave Rider|20|2022-10-18 04h|2022-10-25 04h|
-|53|suchart-genius-artist-simulator|SuchArt: Genius Artist Simulator|20|2022-10-13 16h|2022-11-01 16h|
-|54|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
-|55|beat-hazard-3-c8ef04|Beat Hazard 3|10|2022-11-14 18h|2022-11-21 18h|
-|56|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
+|53|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
+|54|beat-hazard-3-c8ef04|Beat Hazard 3|10|2022-11-14 18h|2022-11-21 18h|
+|55|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
+|56|five-dates-60ef51|Five Dates|10|2022-10-14 12h|2022-10-28 12h|
 |57|paper-cut-mansion-2c67e2|Paper Cut Mansion|10|2022-10-27 15h|2022-11-03 15h|
 |58|the-valiant|The Valiant|10|2022-10-19 06h|2022-10-26 06h|
 |59|trifox-b361b7|Trifox|10|2022-10-14 17h|2022-10-21 17h|
