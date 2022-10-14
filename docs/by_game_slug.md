@@ -49,8 +49,8 @@
 |47|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|35|2022-11-18 18h|2022-11-29 18h|
 |48|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
 |49|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
-|50|the-valiant|The Valiant|10|2022-10-19 06h|2022-10-26 06h|
-|51|trifox-b361b7|Trifox|10|2022-10-14 17h|2022-10-21 17h|
+|50|the-tenants|The Tenants|20|2022-10-20 16h|2022-10-31 16h|
+|51|the-valiant|The Valiant|10|2022-10-19 06h|2022-10-26 06h|
 |52|true-hate-007027|True Hate|90|2022-11-10 17h|2022-11-28 17h|
 |53|ys-ix-monstrum-nox|Ys IX: Monstrum Nox|30|2022-10-17 15h|2022-11-01 15h|
 |54|ys-ix-monstrum-nox  |Ys IX: Monstrum Nox Digital Ultimate Edition|30|2022-10-17 15h|2022-11-01 15h|

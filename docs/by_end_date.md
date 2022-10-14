@@ -1,17 +1,17 @@
 |#|Game Slug|Game Name|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|
-|1|trifox-b361b7|Trifox|10|2022-10-14 17h|2022-10-21 17h|
-|2|avencast-rise-of-the-mage-4668a2|Avencast - Rise Of The Mage|75|2022-10-17 04h|2022-10-24 04h|
-|3|project-pastorate-6e8765|Project Pastorate|45|2022-10-17 04h|2022-10-24 04h|
-|4|mars-base-a00ce0|Mars Base|20|2022-10-17 16h|2022-10-24 16h|
-|5|out-of-the-park-baseball-23-09e3fa|Out of the Park Baseball 23|50|2022-10-17 17h|2022-10-24 17h|
-|6|retrowave-rider-18aaf1|Retrowave Rider|20|2022-10-18 04h|2022-10-25 04h|
-|7|the-valiant|The Valiant|10|2022-10-19 06h|2022-10-26 06h|
-|8|evoland-legendary-edition-5753ec|Evoland Legendary Edition|100|2022-10-20 15h|2022-10-27 15h|
-|9|fallout-3-game-of-the-year-edition|Fallout 3: Game of the Year Edition|100|2022-10-20 15h|2022-10-27 15h|
-|10|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
-|11|nikopol-secrets-of-the-immortals-18adec|Nikopol - Secrets of the Immortals|75|2022-10-24 04h|2022-10-31 04h|
-|12|space-hack-02fd17|Space Hack|75|2022-10-24 04h|2022-10-31 04h|
+|1|avencast-rise-of-the-mage-4668a2|Avencast - Rise Of The Mage|75|2022-10-17 04h|2022-10-24 04h|
+|2|project-pastorate-6e8765|Project Pastorate|45|2022-10-17 04h|2022-10-24 04h|
+|3|mars-base-a00ce0|Mars Base|20|2022-10-17 16h|2022-10-24 16h|
+|4|out-of-the-park-baseball-23-09e3fa|Out of the Park Baseball 23|50|2022-10-17 17h|2022-10-24 17h|
+|5|retrowave-rider-18aaf1|Retrowave Rider|20|2022-10-18 04h|2022-10-25 04h|
+|6|the-valiant|The Valiant|10|2022-10-19 06h|2022-10-26 06h|
+|7|evoland-legendary-edition-5753ec|Evoland Legendary Edition|100|2022-10-20 15h|2022-10-27 15h|
+|8|fallout-3-game-of-the-year-edition|Fallout 3: Game of the Year Edition|100|2022-10-20 15h|2022-10-27 15h|
+|9|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
+|10|nikopol-secrets-of-the-immortals-18adec|Nikopol - Secrets of the Immortals|75|2022-10-24 04h|2022-10-31 04h|
+|11|space-hack-02fd17|Space Hack|75|2022-10-24 04h|2022-10-31 04h|
+|12|the-tenants|The Tenants|20|2022-10-20 16h|2022-10-31 16h|
 |13|the-legend-of-heroes-trails-of-cold-steel-iii|The Legend of Heroes: Trails of Cold Steel III|60|2022-10-17 15h|2022-11-01 15h|
 |14|the-legend-of-heroes-trails-of-cold-steel-iv|The Legend of Heroes: Trails of Cold Steel IV|40|2022-10-17 15h|2022-11-01 15h|
 |15|the-legend-of-heroes-trails-of-cold-steel-iv--digital-deluxe-edition|The Legend of Heroes: Trails of Cold Steel IV Digital Deluxe Edition|40|2022-10-17 15h|2022-11-01 15h|

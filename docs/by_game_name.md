@@ -32,25 +32,25 @@
 |30|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|35|2022-11-18 18h|2022-11-29 18h|
 |31|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
 |32|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
-|33|the-valiant|The Valiant|10|2022-10-19 06h|2022-10-26 06h|
-|34|the-legend-of-heroes-trails-of-cold-steel-iii--consumable-starter-set|Trails of Cold Steel III - Consumable Starter Set|60|2022-10-17 15h|2022-11-01 15h|
-|35|the-legend-of-heroes-trails-of-cold-steel-iii--consumable-value-set|Trails of Cold Steel III - Consumable Value Set|60|2022-10-17 15h|2022-11-01 15h|
-|36|the-legend-of-heroes-trails-of-cold-steel-iii--premium-cosmetic-set|Trails of Cold Steel III - Premium Cosmetic Set|60|2022-10-17 15h|2022-11-01 15h|
-|37|the-legend-of-heroes-trails-of-cold-steel-iii--standard-cosmetic-set|Trails of Cold Steel III - Standard Cosmetic Set|60|2022-10-17 15h|2022-11-01 15h|
-|38|the-legend-of-heroes-trails-of-cold-steel-iii--limited-edition|Trails of Cold Steel III Digital Limited Edition|60|2022-10-17 15h|2022-11-01 15h|
-|39|the-legend-of-heroes-trails-of-cold-steel-iv--attachment-set|Trails of Cold Steel IV - Attachment Set|40|2022-10-17 15h|2022-11-01 15h|
-|40|the-legend-of-heroes-trails-of-cold-steel-iv--consumable-starter-set|Trails of Cold Steel IV - Consumable Starter Set|40|2022-10-17 15h|2022-11-01 15h|
-|41|the-legend-of-heroes-trails-of-cold-steel-iv--consumable-value-set|Trails of Cold Steel IV - Consumable Value Set|40|2022-10-17 15h|2022-11-01 15h|
-|42|the-legend-of-heroes-trails-of-cold-steel-iv--hair-extension-set|Trails of Cold Steel IV - Hair Extension Set|40|2022-10-17 15h|2022-11-01 15h|
-|43|the-legend-of-heroes-trails-of-cold-steel-iv--headwear-set|Trails of Cold Steel IV - Headwear Set|40|2022-10-17 15h|2022-11-01 15h|
-|44|the-legend-of-heroes-trails-of-cold-steel-iv--magical-girl-bundle|Trails of Cold Steel IV - Magical Girl Bundle|40|2022-10-17 15h|2022-11-01 15h|
-|45|the-legend-of-heroes-trails-of-cold-steel-iv--premium-cosmetic-set|Trails of Cold Steel IV - Premium Cosmetic Set|40|2022-10-17 15h|2022-11-01 15h|
-|46|the-legend-of-heroes-trails-of-cold-steel-iv--ride-along-set|Trails of Cold Steel IV - Ride-Along Set|40|2022-10-17 15h|2022-11-01 15h|
-|47|the-legend-of-heroes-trails-of-cold-steel-iv--self-assertion-vol2|Trails of Cold Steel IV - Self-Assertion Panels 2|40|2022-10-17 15h|2022-11-01 15h|
-|48|the-legend-of-heroes-trails-of-cold-steel-iv--standard-cosmetic-set|Trails of Cold Steel IV - Standard Cosmetic Set|40|2022-10-17 15h|2022-11-01 15h|
-|49|the-legend-of-heroes-trails-of-cold-steel-iv--standard-costume-bundle|Trails of Cold Steel IV - Standard Costume Bundle|40|2022-10-17 15h|2022-11-01 15h|
-|50|the-legend-of-heroes-trails-of-cold-steel-iv--swimsuit-bundle|Trails of Cold Steel IV - Swimsuit Bundle|40|2022-10-17 15h|2022-11-01 15h|
-|51|trifox-b361b7|Trifox|10|2022-10-14 17h|2022-10-21 17h|
+|33|the-tenants|The Tenants|20|2022-10-20 16h|2022-10-31 16h|
+|34|the-valiant|The Valiant|10|2022-10-19 06h|2022-10-26 06h|
+|35|the-legend-of-heroes-trails-of-cold-steel-iii--consumable-starter-set|Trails of Cold Steel III - Consumable Starter Set|60|2022-10-17 15h|2022-11-01 15h|
+|36|the-legend-of-heroes-trails-of-cold-steel-iii--consumable-value-set|Trails of Cold Steel III - Consumable Value Set|60|2022-10-17 15h|2022-11-01 15h|
+|37|the-legend-of-heroes-trails-of-cold-steel-iii--premium-cosmetic-set|Trails of Cold Steel III - Premium Cosmetic Set|60|2022-10-17 15h|2022-11-01 15h|
+|38|the-legend-of-heroes-trails-of-cold-steel-iii--standard-cosmetic-set|Trails of Cold Steel III - Standard Cosmetic Set|60|2022-10-17 15h|2022-11-01 15h|
+|39|the-legend-of-heroes-trails-of-cold-steel-iii--limited-edition|Trails of Cold Steel III Digital Limited Edition|60|2022-10-17 15h|2022-11-01 15h|
+|40|the-legend-of-heroes-trails-of-cold-steel-iv--attachment-set|Trails of Cold Steel IV - Attachment Set|40|2022-10-17 15h|2022-11-01 15h|
+|41|the-legend-of-heroes-trails-of-cold-steel-iv--consumable-starter-set|Trails of Cold Steel IV - Consumable Starter Set|40|2022-10-17 15h|2022-11-01 15h|
+|42|the-legend-of-heroes-trails-of-cold-steel-iv--consumable-value-set|Trails of Cold Steel IV - Consumable Value Set|40|2022-10-17 15h|2022-11-01 15h|
+|43|the-legend-of-heroes-trails-of-cold-steel-iv--hair-extension-set|Trails of Cold Steel IV - Hair Extension Set|40|2022-10-17 15h|2022-11-01 15h|
+|44|the-legend-of-heroes-trails-of-cold-steel-iv--headwear-set|Trails of Cold Steel IV - Headwear Set|40|2022-10-17 15h|2022-11-01 15h|
+|45|the-legend-of-heroes-trails-of-cold-steel-iv--magical-girl-bundle|Trails of Cold Steel IV - Magical Girl Bundle|40|2022-10-17 15h|2022-11-01 15h|
+|46|the-legend-of-heroes-trails-of-cold-steel-iv--premium-cosmetic-set|Trails of Cold Steel IV - Premium Cosmetic Set|40|2022-10-17 15h|2022-11-01 15h|
+|47|the-legend-of-heroes-trails-of-cold-steel-iv--ride-along-set|Trails of Cold Steel IV - Ride-Along Set|40|2022-10-17 15h|2022-11-01 15h|
+|48|the-legend-of-heroes-trails-of-cold-steel-iv--self-assertion-vol2|Trails of Cold Steel IV - Self-Assertion Panels 2|40|2022-10-17 15h|2022-11-01 15h|
+|49|the-legend-of-heroes-trails-of-cold-steel-iv--standard-cosmetic-set|Trails of Cold Steel IV - Standard Cosmetic Set|40|2022-10-17 15h|2022-11-01 15h|
+|50|the-legend-of-heroes-trails-of-cold-steel-iv--standard-costume-bundle|Trails of Cold Steel IV - Standard Costume Bundle|40|2022-10-17 15h|2022-11-01 15h|
+|51|the-legend-of-heroes-trails-of-cold-steel-iv--swimsuit-bundle|Trails of Cold Steel IV - Swimsuit Bundle|40|2022-10-17 15h|2022-11-01 15h|
 |52|true-hate-007027|True Hate|90|2022-11-10 17h|2022-11-28 17h|
 |53|ys-ix-monstrum-nox|Ys IX: Monstrum Nox|30|2022-10-17 15h|2022-11-01 15h|
 |54|ys-ix-monstrum-nox--attachments-bundle|Ys IX: Monstrum Nox - Attachments Bundle|30|2022-10-17 15h|2022-11-01 15h|
