@@ -55,7 +55,6 @@
 |53|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
 |54|beat-hazard-3-c8ef04|Beat Hazard 3|10|2022-11-14 18h|2022-11-21 18h|
 |55|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
-|56|five-dates-60ef51|Five Dates|10|2022-10-14 12h|2022-10-28 12h|
-|57|paper-cut-mansion-2c67e2|Paper Cut Mansion|10|2022-10-27 15h|2022-11-03 15h|
-|58|the-valiant|The Valiant|10|2022-10-19 06h|2022-10-26 06h|
-|59|trifox-b361b7|Trifox|10|2022-10-14 17h|2022-10-21 17h|
+|56|paper-cut-mansion-2c67e2|Paper Cut Mansion|10|2022-10-27 15h|2022-11-03 15h|
+|57|the-valiant|The Valiant|10|2022-10-19 06h|2022-10-26 06h|
+|58|trifox-b361b7|Trifox|10|2022-10-14 17h|2022-10-21 17h|
