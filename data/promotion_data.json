@@ -264,6 +264,14 @@
     "title": "The Riftbreaker: Metal Terror"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2022-10-31T16:00:00.000Z",
+    "isFree": false,
+    "slug": "the-tenants",
+    "startDate": "2022-10-20T16:00:00.000Z",
+    "title": "The Tenants"
+  },
+  {
     "discountPercentage": 10,
     "endDate": "2022-10-26T06:00:00.000Z",
     "isFree": false,
@@ -406,14 +414,6 @@
     "slug": "the-legend-of-heroes-trails-of-cold-steel-iv--swimsuit-bundle",
     "startDate": "2022-10-17T15:00:00.000Z",
     "title": "Trails of Cold Steel IV - Swimsuit Bundle"
-  },
-  {
-    "discountPercentage": 10,
-    "endDate": "2022-10-21T17:00:00.000Z",
-    "isFree": false,
-    "slug": "trifox-b361b7",
-    "startDate": "2022-10-14T17:00:00.000Z",
-    "title": "Trifox"
   },
   {
     "discountPercentage": 90,
