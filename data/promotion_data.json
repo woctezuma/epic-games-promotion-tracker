@@ -80,6 +80,14 @@
     "title": "Corrupted Legends Pack"
   },
   {
+    "discountPercentage": 22,
+    "endDate": "2022-11-22T15:00:00.000Z",
+    "isFree": false,
+    "slug": "dark-light",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Dark Light"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2022-11-03T12:00:00.000Z",
     "isFree": false,
@@ -184,36 +192,20 @@
     "title": "Space Trader - Merchant Marine"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2022-10-24T20:00:00.000Z",
+    "isFree": false,
+    "slug": "terror-of-hemasaurus-a08800",
+    "startDate": "2022-10-17T20:00:00.000Z",
+    "title": "Terror of Hemasaurus"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2022-11-07T05:00:00.000Z",
     "isFree": false,
     "slug": "the-dark-prophecy-2193c4",
     "startDate": "2022-10-31T04:00:00.000Z",
     "title": "The Dark Prophecy"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2022-11-01T15:00:00.000Z",
-    "isFree": false,
-    "slug": "the-legend-of-heroes-trails-of-cold-steel-iii",
-    "startDate": "2022-10-17T15:00:00.000Z",
-    "title": "The Legend of Heroes: Trails of Cold Steel III"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-11-01T15:00:00.000Z",
-    "isFree": false,
-    "slug": "the-legend-of-heroes-trails-of-cold-steel-iv",
-    "startDate": "2022-10-17T15:00:00.000Z",
-    "title": "The Legend of Heroes: Trails of Cold Steel IV"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-11-01T15:00:00.000Z",
-    "isFree": false,
-    "slug": "the-legend-of-heroes-trails-of-cold-steel-iv--digital-deluxe-edition",
-    "startDate": "2022-10-17T15:00:00.000Z",
-    "title": "The Legend of Heroes: Trails of Cold Steel IV Digital Deluxe Edition"
   },
   {
     "discountPercentage": 35,
@@ -264,195 +256,11 @@
     "title": "The Valiant"
   },
   {
-    "discountPercentage": 60,
-    "endDate": "2022-11-01T15:00:00.000Z",
-    "isFree": false,
-    "slug": "the-legend-of-heroes-trails-of-cold-steel-iii--consumable-starter-set",
-    "startDate": "2022-10-17T15:00:00.000Z",
-    "title": "Trails of Cold Steel III - Consumable Starter Set"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2022-11-01T15:00:00.000Z",
-    "isFree": false,
-    "slug": "the-legend-of-heroes-trails-of-cold-steel-iii--consumable-value-set",
-    "startDate": "2022-10-17T15:00:00.000Z",
-    "title": "Trails of Cold Steel III - Consumable Value Set"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2022-11-01T15:00:00.000Z",
-    "isFree": false,
-    "slug": "the-legend-of-heroes-trails-of-cold-steel-iii--premium-cosmetic-set",
-    "startDate": "2022-10-17T15:00:00.000Z",
-    "title": "Trails of Cold Steel III - Premium Cosmetic Set"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2022-11-01T15:00:00.000Z",
-    "isFree": false,
-    "slug": "the-legend-of-heroes-trails-of-cold-steel-iii--standard-cosmetic-set",
-    "startDate": "2022-10-17T15:00:00.000Z",
-    "title": "Trails of Cold Steel III - Standard Cosmetic Set"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2022-11-01T15:00:00.000Z",
-    "isFree": false,
-    "slug": "the-legend-of-heroes-trails-of-cold-steel-iii--limited-edition",
-    "startDate": "2022-10-17T15:00:00.000Z",
-    "title": "Trails of Cold Steel III Digital Limited Edition"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-11-01T15:00:00.000Z",
-    "isFree": false,
-    "slug": "the-legend-of-heroes-trails-of-cold-steel-iv--attachment-set",
-    "startDate": "2022-10-17T15:00:00.000Z",
-    "title": "Trails of Cold Steel IV - Attachment Set"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-11-01T15:00:00.000Z",
-    "isFree": false,
-    "slug": "the-legend-of-heroes-trails-of-cold-steel-iv--consumable-starter-set",
-    "startDate": "2022-10-17T15:00:00.000Z",
-    "title": "Trails of Cold Steel IV - Consumable Starter Set"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-11-01T15:00:00.000Z",
-    "isFree": false,
-    "slug": "the-legend-of-heroes-trails-of-cold-steel-iv--consumable-value-set",
-    "startDate": "2022-10-17T15:00:00.000Z",
-    "title": "Trails of Cold Steel IV - Consumable Value Set"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-11-01T15:00:00.000Z",
-    "isFree": false,
-    "slug": "the-legend-of-heroes-trails-of-cold-steel-iv--hair-extension-set",
-    "startDate": "2022-10-17T15:00:00.000Z",
-    "title": "Trails of Cold Steel IV - Hair Extension Set"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-11-01T15:00:00.000Z",
-    "isFree": false,
-    "slug": "the-legend-of-heroes-trails-of-cold-steel-iv--headwear-set",
-    "startDate": "2022-10-17T15:00:00.000Z",
-    "title": "Trails of Cold Steel IV - Headwear Set"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-11-01T15:00:00.000Z",
-    "isFree": false,
-    "slug": "the-legend-of-heroes-trails-of-cold-steel-iv--magical-girl-bundle",
-    "startDate": "2022-10-17T15:00:00.000Z",
-    "title": "Trails of Cold Steel IV - Magical Girl Bundle"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-11-01T15:00:00.000Z",
-    "isFree": false,
-    "slug": "the-legend-of-heroes-trails-of-cold-steel-iv--premium-cosmetic-set",
-    "startDate": "2022-10-17T15:00:00.000Z",
-    "title": "Trails of Cold Steel IV - Premium Cosmetic Set"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-11-01T15:00:00.000Z",
-    "isFree": false,
-    "slug": "the-legend-of-heroes-trails-of-cold-steel-iv--ride-along-set",
-    "startDate": "2022-10-17T15:00:00.000Z",
-    "title": "Trails of Cold Steel IV - Ride-Along Set"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-11-01T15:00:00.000Z",
-    "isFree": false,
-    "slug": "the-legend-of-heroes-trails-of-cold-steel-iv--self-assertion-vol2",
-    "startDate": "2022-10-17T15:00:00.000Z",
-    "title": "Trails of Cold Steel IV - Self-Assertion Panels 2"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-11-01T15:00:00.000Z",
-    "isFree": false,
-    "slug": "the-legend-of-heroes-trails-of-cold-steel-iv--standard-cosmetic-set",
-    "startDate": "2022-10-17T15:00:00.000Z",
-    "title": "Trails of Cold Steel IV - Standard Cosmetic Set"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-11-01T15:00:00.000Z",
-    "isFree": false,
-    "slug": "the-legend-of-heroes-trails-of-cold-steel-iv--standard-costume-bundle",
-    "startDate": "2022-10-17T15:00:00.000Z",
-    "title": "Trails of Cold Steel IV - Standard Costume Bundle"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-11-01T15:00:00.000Z",
-    "isFree": false,
-    "slug": "the-legend-of-heroes-trails-of-cold-steel-iv--swimsuit-bundle",
-    "startDate": "2022-10-17T15:00:00.000Z",
-    "title": "Trails of Cold Steel IV - Swimsuit Bundle"
-  },
-  {
     "discountPercentage": 90,
     "endDate": "2022-11-28T17:00:00.000Z",
     "isFree": false,
     "slug": "true-hate-007027",
     "startDate": "2022-11-10T17:00:00.000Z",
     "title": "True Hate"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2022-11-01T15:00:00.000Z",
-    "isFree": false,
-    "slug": "ys-ix-monstrum-nox",
-    "startDate": "2022-10-17T15:00:00.000Z",
-    "title": "Ys IX: Monstrum Nox"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2022-11-01T15:00:00.000Z",
-    "isFree": false,
-    "slug": "ys-ix-monstrum-nox--attachments-bundle",
-    "startDate": "2022-10-17T15:00:00.000Z",
-    "title": "Ys IX: Monstrum Nox - Attachments Bundle"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2022-11-01T15:00:00.000Z",
-    "isFree": false,
-    "slug": "ys-ix-monstrum-nox--consumable-bundle",
-    "startDate": "2022-10-17T15:00:00.000Z",
-    "title": "Ys IX: Monstrum Nox - Consumable Bundle"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2022-11-01T15:00:00.000Z",
-    "isFree": false,
-    "slug": "ys-ix-monstrum-nox--monstrum-troupe-bundle",
-    "startDate": "2022-10-17T15:00:00.000Z",
-    "title": "Ys IX: Monstrum Nox - Monstrum Troupe Bundle"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2022-11-01T15:00:00.000Z",
-    "isFree": false,
-    "slug": "ys-ix-monstrum-nox--deluxe-edition",
-    "startDate": "2022-10-17T15:00:00.000Z",
-    "title": "Ys IX: Monstrum Nox Digital Deluxe Edition"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2022-11-01T15:00:00.000Z",
-    "isFree": false,
-    "slug": "ys-ix-monstrum-nox  ",
-    "startDate": "2022-10-17T15:00:00.000Z",
-    "title": "Ys IX: Monstrum Nox Digital Ultimate Edition"
   }
 ]
