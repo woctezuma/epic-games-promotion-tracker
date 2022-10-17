@@ -16,14 +16,6 @@
     "title": "Among Trees"
   },
   {
-    "discountPercentage": 75,
-    "endDate": "2022-10-24T04:00:00.000Z",
-    "isFree": false,
-    "slug": "avencast-rise-of-the-mage-4668a2",
-    "startDate": "2022-10-17T04:00:00.000Z",
-    "title": "Avencast - Rise Of The Mage"
-  },
-  {
     "discountPercentage": 10,
     "endDate": "2022-11-21T18:00:00.000Z",
     "isFree": false,
@@ -166,14 +158,6 @@
     "slug": "paper-cut-mansion-2c67e2",
     "startDate": "2022-10-27T15:00:00.000Z",
     "title": "Paper Cut Mansion"
-  },
-  {
-    "discountPercentage": 45,
-    "endDate": "2022-10-24T04:00:00.000Z",
-    "isFree": false,
-    "slug": "project-pastorate-6e8765",
-    "startDate": "2022-10-17T04:00:00.000Z",
-    "title": "Project Pastorate"
   },
   {
     "discountPercentage": 20,
