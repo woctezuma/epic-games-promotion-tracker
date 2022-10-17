@@ -121,14 +121,6 @@
   },
   {
     "discountPercentage": 20,
-    "endDate": "2022-10-24T16:00:00.000Z",
-    "isFree": false,
-    "slug": "mars-base-a00ce0",
-    "startDate": "2022-10-17T16:00:00.000Z",
-    "title": "Mars Base"
-  },
-  {
-    "discountPercentage": 20,
     "endDate": "2022-11-07T05:00:00.000Z",
     "isFree": false,
     "slug": "murder-is-game-over-255da8",
@@ -150,14 +142,6 @@
     "slug": "nikopol-secrets-of-the-immortals-18adec",
     "startDate": "2022-10-24T04:00:00.000Z",
     "title": "Nikopol - Secrets of the Immortals"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2022-10-24T17:00:00.000Z",
-    "isFree": false,
-    "slug": "out-of-the-park-baseball-23-09e3fa",
-    "startDate": "2022-10-17T17:00:00.000Z",
-    "title": "Out of the Park Baseball 23"
   },
   {
     "discountPercentage": 10,
@@ -190,14 +174,6 @@
     "slug": "space-trader-merchant-marine-0426a8",
     "startDate": "2022-10-31T04:00:00.000Z",
     "title": "Space Trader - Merchant Marine"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2022-10-24T20:00:00.000Z",
-    "isFree": false,
-    "slug": "terror-of-hemasaurus-a08800",
-    "startDate": "2022-10-17T20:00:00.000Z",
-    "title": "Terror of Hemasaurus"
   },
   {
     "discountPercentage": 50,
