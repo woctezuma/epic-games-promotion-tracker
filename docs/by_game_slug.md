@@ -18,14 +18,13 @@
 |16|my-time-at-sandrock|My Time at Sandrock|20|2022-10-25 17h|2022-11-01 17h|
 |17|nikopol-secrets-of-the-immortals-18adec|Nikopol - Secrets of the Immortals|75|2022-10-24 04h|2022-10-31 04h|
 |18|paper-cut-mansion-2c67e2|Paper Cut Mansion|10|2022-10-27 15h|2022-11-03 15h|
-|19|retrowave-rider-18aaf1|Retrowave Rider|20|2022-10-18 04h|2022-10-25 04h|
-|20|space-hack-02fd17|Space Hack|75|2022-10-24 04h|2022-10-31 04h|
-|21|space-trader-merchant-marine-0426a8|Space Trader - Merchant Marine|75|2022-10-31 04h|2022-11-07 05h|
-|22|the-dark-prophecy-2193c4|The Dark Prophecy|50|2022-10-31 04h|2022-11-07 05h|
-|23|the-riftbreaker|The Riftbreaker|35|2022-11-18 18h|2022-11-29 18h|
-|24|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|35|2022-11-18 18h|2022-11-29 18h|
-|25|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
-|26|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
-|27|the-tenants|The Tenants|20|2022-10-20 16h|2022-10-31 16h|
-|28|the-valiant|The Valiant|10|2022-10-19 06h|2022-10-26 06h|
-|29|true-hate-007027|True Hate|90|2022-11-10 17h|2022-11-28 17h|
+|19|space-hack-02fd17|Space Hack|75|2022-10-24 04h|2022-10-31 04h|
+|20|space-trader-merchant-marine-0426a8|Space Trader - Merchant Marine|75|2022-10-31 04h|2022-11-07 05h|
+|21|the-dark-prophecy-2193c4|The Dark Prophecy|50|2022-10-31 04h|2022-11-07 05h|
+|22|the-riftbreaker|The Riftbreaker|35|2022-11-18 18h|2022-11-29 18h|
+|23|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|35|2022-11-18 18h|2022-11-29 18h|
+|24|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
+|25|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
+|26|the-tenants|The Tenants|20|2022-10-20 16h|2022-10-31 16h|
+|27|the-valiant|The Valiant|10|2022-10-19 06h|2022-10-26 06h|
+|28|true-hate-007027|True Hate|90|2022-11-10 17h|2022-11-28 17h|

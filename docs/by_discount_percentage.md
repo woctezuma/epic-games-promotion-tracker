@@ -22,10 +22,9 @@
 |20|dark-light|Dark Light|22|2022-11-10 15h|2022-11-22 15h|
 |21|murder-is-game-over-255da8|Murder Is Game Over|20|2022-10-25 04h|2022-11-07 05h|
 |22|my-time-at-sandrock|My Time at Sandrock|20|2022-10-25 17h|2022-11-01 17h|
-|23|retrowave-rider-18aaf1|Retrowave Rider|20|2022-10-18 04h|2022-10-25 04h|
-|24|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
-|25|the-tenants|The Tenants|20|2022-10-20 16h|2022-10-31 16h|
-|26|beat-hazard-3-c8ef04|Beat Hazard 3|10|2022-11-14 18h|2022-11-21 18h|
-|27|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
-|28|paper-cut-mansion-2c67e2|Paper Cut Mansion|10|2022-10-27 15h|2022-11-03 15h|
-|29|the-valiant|The Valiant|10|2022-10-19 06h|2022-10-26 06h|
+|23|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
+|24|the-tenants|The Tenants|20|2022-10-20 16h|2022-10-31 16h|
+|25|beat-hazard-3-c8ef04|Beat Hazard 3|10|2022-11-14 18h|2022-11-21 18h|
+|26|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
+|27|paper-cut-mansion-2c67e2|Paper Cut Mansion|10|2022-10-27 15h|2022-11-03 15h|
+|28|the-valiant|The Valiant|10|2022-10-19 06h|2022-10-26 06h|
