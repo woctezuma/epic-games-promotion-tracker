@@ -11,9 +11,9 @@
 |9|dark-light|Dark Light|22|2022-11-10 15h|2022-11-22 15h|
 |10|evoland-legendary-edition-5753ec|Evoland Legendary Edition|100|2022-10-20 15h|2022-10-27 15h|
 |11|fallout-3-game-of-the-year-edition|Fallout 3: Game of the Year Edition|100|2022-10-20 15h|2022-10-27 15h|
-|12|fortnite--corrupted-legends|Corrupted Legends Pack|50|2022-10-19 00h|2022-11-03 12h|
-|13|fortnite--dark-reflections-pack|Dark Reflections Pack|50|2022-10-19 00h|2022-11-03 12h|
-|14|fortnite--graveyard-drift-quest-pack|Graveyard Drift Quest Pack|40|2022-10-19 00h|2022-11-03 12h|
+|12|fortnite--minty-legends-pack|Minty Legends Pack|40|2022-11-18 00h|2022-11-29 12h|
+|13|fortnite--shadows-rising-pack|Shadows Rising Pack|50|2022-11-18 15h|2022-11-29 12h|
+|14|fortnite--tech-future-pack|Tech Future Pack|50|2022-11-18 15h|2022-11-29 12h|
 |15|murder-is-game-over-255da8|Murder Is Game Over|20|2022-10-25 04h|2022-11-07 05h|
 |16|my-time-at-sandrock|My Time at Sandrock|20|2022-10-25 17h|2022-11-01 17h|
 |17|nikopol-secrets-of-the-immortals-18adec|Nikopol - Secrets of the Immortals|75|2022-10-24 04h|2022-10-31 04h|
@@ -26,5 +26,5 @@
 |24|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
 |25|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
 |26|the-tenants|The Tenants|20|2022-10-20 16h|2022-10-31 16h|
-|27|the-valiant|The Valiant|10|2022-10-19 06h|2022-10-26 06h|
-|28|true-hate-007027|True Hate|90|2022-11-10 17h|2022-11-28 17h|
+|27|true-hate-007027|True Hate|90|2022-11-10 17h|2022-11-28 17h|
+|28|urbek-city-builder-17cf7d|Urbek City Builder|20|2022-10-20 11h|2022-10-30 11h|

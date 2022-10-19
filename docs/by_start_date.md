@@ -1,27 +1,27 @@
 |#|Game Slug|Game Name|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|
-|1|fortnite--corrupted-legends|Corrupted Legends Pack|50|2022-10-19 00h|2022-11-03 12h|
-|2|fortnite--dark-reflections-pack|Dark Reflections Pack|50|2022-10-19 00h|2022-11-03 12h|
-|3|fortnite--graveyard-drift-quest-pack|Graveyard Drift Quest Pack|40|2022-10-19 00h|2022-11-03 12h|
-|4|the-valiant|The Valiant|10|2022-10-19 06h|2022-10-26 06h|
-|5|evoland-legendary-edition-5753ec|Evoland Legendary Edition|100|2022-10-20 15h|2022-10-27 15h|
-|6|fallout-3-game-of-the-year-edition|Fallout 3: Game of the Year Edition|100|2022-10-20 15h|2022-10-27 15h|
-|7|the-tenants|The Tenants|20|2022-10-20 16h|2022-10-31 16h|
-|8|nikopol-secrets-of-the-immortals-18adec|Nikopol - Secrets of the Immortals|75|2022-10-24 04h|2022-10-31 04h|
-|9|space-hack-02fd17|Space Hack|75|2022-10-24 04h|2022-10-31 04h|
-|10|murder-is-game-over-255da8|Murder Is Game Over|20|2022-10-25 04h|2022-11-07 05h|
-|11|my-time-at-sandrock|My Time at Sandrock|20|2022-10-25 17h|2022-11-01 17h|
-|12|paper-cut-mansion-2c67e2|Paper Cut Mansion|10|2022-10-27 15h|2022-11-03 15h|
-|13|citizen-sleeper-944858|Citizen Sleeper|25|2022-10-27 17h|2022-11-02 17h|
-|14|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
-|15|space-trader-merchant-marine-0426a8|Space Trader - Merchant Marine|75|2022-10-31 04h|2022-11-07 05h|
-|16|the-dark-prophecy-2193c4|The Dark Prophecy|50|2022-10-31 04h|2022-11-07 05h|
-|17|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|79|2022-11-04 04h|2022-11-20 04h|
-|18|car-tuning-simulator-38ddaf|Car Tuning Simulator|50|2022-11-05 17h|2022-11-24 17h|
-|19|among-trees/home|Among Trees|50|2022-11-07 14h|2022-11-22 14h|
-|20|dark-light|Dark Light|22|2022-11-10 15h|2022-11-22 15h|
-|21|true-hate-007027|True Hate|90|2022-11-10 17h|2022-11-28 17h|
-|22|beat-hazard-3-c8ef04|Beat Hazard 3|10|2022-11-14 18h|2022-11-21 18h|
+|1|urbek-city-builder-17cf7d|Urbek City Builder|20|2022-10-20 11h|2022-10-30 11h|
+|2|evoland-legendary-edition-5753ec|Evoland Legendary Edition|100|2022-10-20 15h|2022-10-27 15h|
+|3|fallout-3-game-of-the-year-edition|Fallout 3: Game of the Year Edition|100|2022-10-20 15h|2022-10-27 15h|
+|4|the-tenants|The Tenants|20|2022-10-20 16h|2022-10-31 16h|
+|5|nikopol-secrets-of-the-immortals-18adec|Nikopol - Secrets of the Immortals|75|2022-10-24 04h|2022-10-31 04h|
+|6|space-hack-02fd17|Space Hack|75|2022-10-24 04h|2022-10-31 04h|
+|7|murder-is-game-over-255da8|Murder Is Game Over|20|2022-10-25 04h|2022-11-07 05h|
+|8|my-time-at-sandrock|My Time at Sandrock|20|2022-10-25 17h|2022-11-01 17h|
+|9|paper-cut-mansion-2c67e2|Paper Cut Mansion|10|2022-10-27 15h|2022-11-03 15h|
+|10|citizen-sleeper-944858|Citizen Sleeper|25|2022-10-27 17h|2022-11-02 17h|
+|11|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
+|12|space-trader-merchant-marine-0426a8|Space Trader - Merchant Marine|75|2022-10-31 04h|2022-11-07 05h|
+|13|the-dark-prophecy-2193c4|The Dark Prophecy|50|2022-10-31 04h|2022-11-07 05h|
+|14|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|79|2022-11-04 04h|2022-11-20 04h|
+|15|car-tuning-simulator-38ddaf|Car Tuning Simulator|50|2022-11-05 17h|2022-11-24 17h|
+|16|among-trees/home|Among Trees|50|2022-11-07 14h|2022-11-22 14h|
+|17|dark-light|Dark Light|22|2022-11-10 15h|2022-11-22 15h|
+|18|true-hate-007027|True Hate|90|2022-11-10 17h|2022-11-28 17h|
+|19|beat-hazard-3-c8ef04|Beat Hazard 3|10|2022-11-14 18h|2022-11-21 18h|
+|20|fortnite--minty-legends-pack|Minty Legends Pack|40|2022-11-18 00h|2022-11-29 12h|
+|21|fortnite--shadows-rising-pack|Shadows Rising Pack|50|2022-11-18 15h|2022-11-29 12h|
+|22|fortnite--tech-future-pack|Tech Future Pack|50|2022-11-18 15h|2022-11-29 12h|
 |23|the-riftbreaker|The Riftbreaker|35|2022-11-18 18h|2022-11-29 18h|
 |24|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|35|2022-11-18 18h|2022-11-29 18h|
 |25|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|

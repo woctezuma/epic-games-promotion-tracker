@@ -11,10 +11,10 @@
 |9|space-trader-merchant-marine-0426a8|Space Trader - Merchant Marine|75|2022-10-31 04h|2022-11-07 05h|
 |10|among-trees/home|Among Trees|50|2022-11-07 14h|2022-11-22 14h|
 |11|car-tuning-simulator-38ddaf|Car Tuning Simulator|50|2022-11-05 17h|2022-11-24 17h|
-|12|fortnite--corrupted-legends|Corrupted Legends Pack|50|2022-10-19 00h|2022-11-03 12h|
-|13|fortnite--dark-reflections-pack|Dark Reflections Pack|50|2022-10-19 00h|2022-11-03 12h|
+|12|fortnite--shadows-rising-pack|Shadows Rising Pack|50|2022-11-18 15h|2022-11-29 12h|
+|13|fortnite--tech-future-pack|Tech Future Pack|50|2022-11-18 15h|2022-11-29 12h|
 |14|the-dark-prophecy-2193c4|The Dark Prophecy|50|2022-10-31 04h|2022-11-07 05h|
-|15|fortnite--graveyard-drift-quest-pack|Graveyard Drift Quest Pack|40|2022-10-19 00h|2022-11-03 12h|
+|15|fortnite--minty-legends-pack|Minty Legends Pack|40|2022-11-18 00h|2022-11-29 12h|
 |16|the-riftbreaker|The Riftbreaker|35|2022-11-18 18h|2022-11-29 18h|
 |17|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|35|2022-11-18 18h|2022-11-29 18h|
 |18|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
@@ -24,7 +24,7 @@
 |22|my-time-at-sandrock|My Time at Sandrock|20|2022-10-25 17h|2022-11-01 17h|
 |23|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
 |24|the-tenants|The Tenants|20|2022-10-20 16h|2022-10-31 16h|
-|25|beat-hazard-3-c8ef04|Beat Hazard 3|10|2022-11-14 18h|2022-11-21 18h|
-|26|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
-|27|paper-cut-mansion-2c67e2|Paper Cut Mansion|10|2022-10-27 15h|2022-11-03 15h|
-|28|the-valiant|The Valiant|10|2022-10-19 06h|2022-10-26 06h|
+|25|urbek-city-builder-17cf7d|Urbek City Builder|20|2022-10-20 11h|2022-10-30 11h|
+|26|beat-hazard-3-c8ef04|Beat Hazard 3|10|2022-11-14 18h|2022-11-21 18h|
+|27|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
+|28|paper-cut-mansion-2c67e2|Paper Cut Mansion|10|2022-10-27 15h|2022-11-03 15h|
