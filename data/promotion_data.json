@@ -72,28 +72,12 @@
     "title": "Citizen Sleeper"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2022-11-03T12:00:00.000Z",
-    "isFree": false,
-    "slug": "fortnite--corrupted-legends",
-    "startDate": "2022-10-19T00:00:00.000Z",
-    "title": "Corrupted Legends Pack"
-  },
-  {
     "discountPercentage": 22,
     "endDate": "2022-11-22T15:00:00.000Z",
     "isFree": false,
     "slug": "dark-light",
     "startDate": "2022-11-10T15:00:00.000Z",
     "title": "Dark Light"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2022-11-03T12:00:00.000Z",
-    "isFree": false,
-    "slug": "fortnite--dark-reflections-pack",
-    "startDate": "2022-10-19T00:00:00.000Z",
-    "title": "Dark Reflections Pack"
   },
   {
     "discountPercentage": 100,
@@ -113,11 +97,11 @@
   },
   {
     "discountPercentage": 40,
-    "endDate": "2022-11-03T12:00:00.000Z",
+    "endDate": "2022-11-29T12:00:00.000Z",
     "isFree": false,
-    "slug": "fortnite--graveyard-drift-quest-pack",
-    "startDate": "2022-10-19T00:00:00.000Z",
-    "title": "Graveyard Drift Quest Pack"
+    "slug": "fortnite--minty-legends-pack",
+    "startDate": "2022-11-18T00:00:00.000Z",
+    "title": "Minty Legends Pack"
   },
   {
     "discountPercentage": 20,
@@ -152,6 +136,14 @@
     "title": "Paper Cut Mansion"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2022-11-29T12:00:00.000Z",
+    "isFree": false,
+    "slug": "fortnite--shadows-rising-pack",
+    "startDate": "2022-11-18T15:51:00.000Z",
+    "title": "Shadows Rising Pack"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2022-10-31T04:00:00.000Z",
     "isFree": false,
@@ -166,6 +158,14 @@
     "slug": "space-trader-merchant-marine-0426a8",
     "startDate": "2022-10-31T04:00:00.000Z",
     "title": "Space Trader - Merchant Marine"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-11-29T12:00:00.000Z",
+    "isFree": false,
+    "slug": "fortnite--tech-future-pack",
+    "startDate": "2022-11-18T15:51:00.000Z",
+    "title": "Tech Future Pack"
   },
   {
     "discountPercentage": 50,
@@ -216,19 +216,19 @@
     "title": "The Tenants"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2022-10-26T06:00:00.000Z",
-    "isFree": false,
-    "slug": "the-valiant",
-    "startDate": "2022-10-19T06:00:00.000Z",
-    "title": "The Valiant"
-  },
-  {
     "discountPercentage": 90,
     "endDate": "2022-11-28T17:00:00.000Z",
     "isFree": false,
     "slug": "true-hate-007027",
     "startDate": "2022-11-10T17:00:00.000Z",
     "title": "True Hate"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2022-10-30T11:00:00.000Z",
+    "isFree": false,
+    "slug": "urbek-city-builder-17cf7d",
+    "startDate": "2022-10-20T11:00:00.000Z",
+    "title": "Urbek City Builder"
   }
 ]
