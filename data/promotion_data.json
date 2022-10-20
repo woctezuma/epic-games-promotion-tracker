@@ -272,14 +272,6 @@
     "title": "True Hate"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2022-10-30T11:00:00.000Z",
-    "isFree": false,
-    "slug": "urbek-city-builder-17cf7d",
-    "startDate": "2022-10-20T11:00:00.000Z",
-    "title": "Urbek City Builder"
-  },
-  {
     "discountPercentage": 100,
     "endDate": "2022-11-03T15:00:00.000Z",
     "isFree": true,
