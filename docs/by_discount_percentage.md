@@ -29,9 +29,8 @@
 |27|terracotta-72cc62|TERRACOTTA|20|2022-11-07 17h|2023-11-14 17h|
 |28|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
 |29|the-tenants|The Tenants|20|2022-10-20 16h|2022-10-31 16h|
-|30|urbek-city-builder-17cf7d|Urbek City Builder|20|2022-10-20 11h|2022-10-30 11h|
-|31|beat-hazard-3-c8ef04|Beat Hazard 3|10|2022-11-14 18h|2022-11-21 18h|
-|32|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
-|33|paper-cut-mansion-2c67e2|Paper Cut Mansion|10|2022-10-27 15h|2022-11-03 15h|
-|34|rimworld/home|RimWorld|10|2022-10-21 07h|2022-10-28 07h|
-|35|rimworld--royalty-dlc|RimWorld Royalty DLC|10|2022-10-21 07h|2022-10-28 07h|
+|30|beat-hazard-3-c8ef04|Beat Hazard 3|10|2022-11-14 18h|2022-11-21 18h|
+|31|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
+|32|paper-cut-mansion-2c67e2|Paper Cut Mansion|10|2022-10-27 15h|2022-11-03 15h|
+|33|rimworld/home|RimWorld|10|2022-10-21 07h|2022-10-28 07h|
+|34|rimworld--royalty-dlc|RimWorld Royalty DLC|10|2022-10-21 07h|2022-10-28 07h|
