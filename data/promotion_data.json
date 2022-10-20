@@ -80,6 +80,14 @@
     "title": "Dark Light"
   },
   {
+    "discountPercentage": 67,
+    "endDate": "2022-11-01T15:00:00.000Z",
+    "isFree": false,
+    "slug": "fallout-3-game-of-the-year-edition",
+    "startDate": "2022-10-27T15:00:00.000Z",
+    "title": "Fallout 3: Game of the Year Edition"
+  },
+  {
     "discountPercentage": 10,
     "endDate": "2022-10-28T04:00:00.000Z",
     "isFree": false,
