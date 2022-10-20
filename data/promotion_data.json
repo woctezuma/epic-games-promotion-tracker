@@ -80,20 +80,12 @@
     "title": "Dark Light"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2022-10-27T15:00:00.000Z",
-    "isFree": true,
-    "slug": "evoland-legendary-edition-5753ec",
-    "startDate": "2022-10-20T15:00:00.000Z",
-    "title": "Evoland Legendary Edition"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2022-10-27T15:00:00.000Z",
-    "isFree": true,
-    "slug": "fallout-3-game-of-the-year-edition",
-    "startDate": "2022-10-20T15:00:00.000Z",
-    "title": "Fallout 3: Game of the Year Edition"
+    "discountPercentage": 10,
+    "endDate": "2022-10-28T04:00:00.000Z",
+    "isFree": false,
+    "slug": "late-shift-8b0634",
+    "startDate": "2022-10-21T04:00:00.000Z",
+    "title": "Late Shift"
   },
   {
     "discountPercentage": 20,
@@ -216,6 +208,14 @@
     "title": "Tech Future Pack"
   },
   {
+    "discountPercentage": 10,
+    "endDate": "2022-10-28T04:00:00.000Z",
+    "isFree": false,
+    "slug": "the-bunker-03b712",
+    "startDate": "2022-10-21T04:00:00.000Z",
+    "title": "The Bunker"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2022-11-07T05:00:00.000Z",
     "isFree": false,
@@ -254,14 +254,6 @@
     "slug": "the-riftbreaker--metal-terror",
     "startDate": "2022-11-18T18:00:00.000Z",
     "title": "The Riftbreaker: Metal Terror"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2022-10-31T16:00:00.000Z",
-    "isFree": false,
-    "slug": "the-tenants",
-    "startDate": "2022-10-20T16:00:00.000Z",
-    "title": "The Tenants"
   },
   {
     "discountPercentage": 90,
