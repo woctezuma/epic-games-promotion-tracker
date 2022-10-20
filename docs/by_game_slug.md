@@ -33,5 +33,4 @@
 |31|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
 |32|the-tenants|The Tenants|20|2022-10-20 16h|2022-10-31 16h|
 |33|true-hate-007027|True Hate|90|2022-11-10 17h|2022-11-28 17h|
-|34|urbek-city-builder-17cf7d|Urbek City Builder|20|2022-10-20 11h|2022-10-30 11h|
-|35|warhammer-mechanicus-0e4b71|Warhammer 40,000: Mechanicus - Standard Edition|100|2022-10-27 15h|2022-11-03 15h|
+|34|warhammer-mechanicus-0e4b71|Warhammer 40,000: Mechanicus - Standard Edition|100|2022-10-27 15h|2022-11-03 15h|
