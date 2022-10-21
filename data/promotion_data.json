@@ -17,6 +17,14 @@
   },
   {
     "discountPercentage": 10,
+    "endDate": "2022-11-02T04:00:00.000Z",
+    "isFree": false,
+    "slug": "arkanoid-eternal-battle-e1b089",
+    "startDate": "2022-10-27T04:00:00.000Z",
+    "title": "Arkanoid - Eternal Battle"
+  },
+  {
+    "discountPercentage": 10,
     "endDate": "2022-11-21T18:00:00.000Z",
     "isFree": false,
     "slug": "beat-hazard-3-c8ef04",
@@ -86,6 +94,14 @@
     "slug": "fallout-3-game-of-the-year-edition",
     "startDate": "2022-10-27T15:00:00.000Z",
     "title": "Fallout 3: Game of the Year Edition"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2022-11-03T15:00:00.000Z",
+    "isFree": false,
+    "slug": "maid-of-sker-2ae24e",
+    "startDate": "2022-10-27T15:00:00.000Z",
+    "title": "Maid of Sker"
   },
   {
     "discountPercentage": 20,
