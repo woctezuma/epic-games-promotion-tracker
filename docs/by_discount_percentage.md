@@ -22,11 +22,13 @@
 |20|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
 |21|citizen-sleeper-944858|Citizen Sleeper|25|2022-10-27 17h|2022-11-02 17h|
 |22|dark-light|Dark Light|22|2022-11-10 15h|2022-11-22 15h|
-|23|marvels-spider-man-remastered|Marvel's Spider-Man Remastered|20|2022-10-25 07h|2022-10-31 07h|
-|24|murder-is-game-over-255da8|Murder Is Game Over|20|2022-10-25 04h|2022-11-07 05h|
-|25|my-time-at-sandrock|My Time at Sandrock|20|2022-10-25 17h|2022-11-01 17h|
-|26|terracotta-72cc62|TERRACOTTA|20|2022-11-07 17h|2023-11-14 17h|
-|27|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
-|28|beat-hazard-3-c8ef04|Beat Hazard 3|10|2022-11-14 18h|2022-11-21 18h|
-|29|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
-|30|paper-cut-mansion-2c67e2|Paper Cut Mansion|10|2022-10-27 15h|2022-11-03 15h|
+|23|maid-of-sker-2ae24e|Maid of Sker|20|2022-10-27 15h|2022-11-03 15h|
+|24|marvels-spider-man-remastered|Marvel's Spider-Man Remastered|20|2022-10-25 07h|2022-10-31 07h|
+|25|murder-is-game-over-255da8|Murder Is Game Over|20|2022-10-25 04h|2022-11-07 05h|
+|26|my-time-at-sandrock|My Time at Sandrock|20|2022-10-25 17h|2022-11-01 17h|
+|27|terracotta-72cc62|TERRACOTTA|20|2022-11-07 17h|2023-11-14 17h|
+|28|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
+|29|arkanoid-eternal-battle-e1b089|Arkanoid - Eternal Battle|10|2022-10-27 04h|2022-11-02 04h|
+|30|beat-hazard-3-c8ef04|Beat Hazard 3|10|2022-11-14 18h|2022-11-21 18h|
+|31|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
+|32|paper-cut-mansion-2c67e2|Paper Cut Mansion|10|2022-10-27 15h|2022-11-03 15h|
