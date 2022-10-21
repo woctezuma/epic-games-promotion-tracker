@@ -30,5 +30,3 @@
 |28|beat-hazard-3-c8ef04|Beat Hazard 3|10|2022-11-14 18h|2022-11-21 18h|
 |29|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
 |30|paper-cut-mansion-2c67e2|Paper Cut Mansion|10|2022-10-27 15h|2022-11-03 15h|
-|31|rimworld/home|RimWorld|10|2022-10-21 07h|2022-10-28 07h|
-|32|rimworld--royalty-dlc|RimWorld Royalty DLC|10|2022-10-21 07h|2022-10-28 07h|
