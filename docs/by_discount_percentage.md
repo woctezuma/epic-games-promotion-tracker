@@ -29,8 +29,6 @@
 |27|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
 |28|beat-hazard-3-c8ef04|Beat Hazard 3|10|2022-11-14 18h|2022-11-21 18h|
 |29|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
-|30|late-shift-8b0634|Late Shift|10|2022-10-21 04h|2022-10-28 04h|
-|31|paper-cut-mansion-2c67e2|Paper Cut Mansion|10|2022-10-27 15h|2022-11-03 15h|
-|32|rimworld/home|RimWorld|10|2022-10-21 07h|2022-10-28 07h|
-|33|rimworld--royalty-dlc|RimWorld Royalty DLC|10|2022-10-21 07h|2022-10-28 07h|
-|34|the-bunker-03b712|The Bunker|10|2022-10-21 04h|2022-10-28 04h|
+|30|paper-cut-mansion-2c67e2|Paper Cut Mansion|10|2022-10-27 15h|2022-11-03 15h|
+|31|rimworld/home|RimWorld|10|2022-10-21 07h|2022-10-28 07h|
+|32|rimworld--royalty-dlc|RimWorld Royalty DLC|10|2022-10-21 07h|2022-10-28 07h|
