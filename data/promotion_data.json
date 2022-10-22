@@ -256,6 +256,30 @@
     "title": "True Hate"
   },
   {
+    "discountPercentage": 10,
+    "endDate": "2022-11-01T17:00:00.000Z",
+    "isFree": false,
+    "slug": "video-horror-society--mega-fan-founders-pack",
+    "startDate": "2022-10-25T17:00:00.000Z",
+    "title": "Video Horror Society - MEGAFAN Founder's Pack"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2022-11-01T17:00:00.000Z",
+    "isFree": false,
+    "slug": "video-horror-society--super-fan-founders-pack",
+    "startDate": "2022-10-25T17:00:00.000Z",
+    "title": "Video Horror Society - SUPERFAN Founder's Pack"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2022-11-01T17:00:00.000Z",
+    "isFree": false,
+    "slug": "video-horror-society--ultra-fan-founders-pack",
+    "startDate": "2022-10-25T17:00:00.000Z",
+    "title": "Video Horror Society - ULTRAFAN Founder's Pack"
+  },
+  {
     "discountPercentage": 100,
     "endDate": "2022-11-03T15:00:00.000Z",
     "isFree": true,
