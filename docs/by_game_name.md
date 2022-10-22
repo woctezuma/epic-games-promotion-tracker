@@ -31,4 +31,7 @@
 |29|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
 |30|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
 |31|true-hate-007027|True Hate|90|2022-11-10 17h|2022-11-28 17h|
-|32|warhammer-mechanicus-0e4b71|Warhammer 40,000: Mechanicus - Standard Edition|100|2022-10-27 15h|2022-11-03 15h|
+|32|video-horror-society--mega-fan-founders-pack|Video Horror Society - MEGAFAN Founder's Pack|10|2022-10-25 17h|2022-11-01 17h|
+|33|video-horror-society--super-fan-founders-pack|Video Horror Society - SUPERFAN Founder's Pack|10|2022-10-25 17h|2022-11-01 17h|
+|34|video-horror-society--ultra-fan-founders-pack|Video Horror Society - ULTRAFAN Founder's Pack|10|2022-10-25 17h|2022-11-01 17h|
+|35|warhammer-mechanicus-0e4b71|Warhammer 40,000: Mechanicus - Standard Edition|100|2022-10-27 15h|2022-11-03 15h|
