@@ -1,6 +1,6 @@
 |#|Game Slug|Game Name|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|
-|1|among-trees/home|Among Trees|50|2022-11-07 14h|2022-11-22 14h|
+|1|among-trees|Among Trees|50|2022-11-07 14h|2022-11-22 14h|
 |2|arkanoid-eternal-battle-e1b089|Arkanoid - Eternal Battle|10|2022-10-27 04h|2022-11-02 04h|
 |3|beat-hazard-3-c8ef04|Beat Hazard 3|10|2022-11-14 18h|2022-11-21 18h|
 |4|blazing-beaks-3d4864|Blazing Beaks|75|2022-12-15 15h|2023-01-02 15h|
@@ -21,17 +21,16 @@
 |19|nikopol-secrets-of-the-immortals-18adec|Nikopol - Secrets of the Immortals|75|2022-10-24 04h|2022-10-31 04h|
 |20|paper-cut-mansion-2c67e2|Paper Cut Mansion|10|2022-10-27 15h|2022-11-03 15h|
 |21|saturnalia|Saturnalia|100|2022-10-27 15h|2022-11-03 15h|
-|22|saturnalia/home|Saturnalia|100|2022-10-27 15h|2022-11-03 15h|
-|23|space-hack-02fd17|Space Hack|75|2022-10-24 04h|2022-10-31 04h|
-|24|space-trader-merchant-marine-0426a8|Space Trader - Merchant Marine|75|2022-10-31 04h|2022-11-07 05h|
-|25|terracotta-72cc62|TERRACOTTA|20|2022-11-07 17h|2023-11-14 17h|
-|26|the-dark-prophecy-2193c4|The Dark Prophecy|50|2022-10-31 04h|2022-11-07 05h|
-|27|the-riftbreaker|The Riftbreaker|35|2022-11-18 18h|2022-11-29 18h|
-|28|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|35|2022-11-18 18h|2022-11-29 18h|
-|29|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
-|30|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
-|31|true-hate-007027|True Hate|90|2022-11-10 17h|2022-11-28 17h|
-|32|video-horror-society--mega-fan-founders-pack|Video Horror Society - MEGAFAN Founder's Pack|10|2022-10-25 17h|2022-11-01 17h|
-|33|video-horror-society--super-fan-founders-pack|Video Horror Society - SUPERFAN Founder's Pack|10|2022-10-25 17h|2022-11-01 17h|
-|34|video-horror-society--ultra-fan-founders-pack|Video Horror Society - ULTRAFAN Founder's Pack|10|2022-10-25 17h|2022-11-01 17h|
-|35|warhammer-mechanicus-0e4b71|Warhammer 40,000: Mechanicus - Standard Edition|100|2022-10-27 15h|2022-11-03 15h|
+|22|space-hack-02fd17|Space Hack|75|2022-10-24 04h|2022-10-31 04h|
+|23|space-trader-merchant-marine-0426a8|Space Trader - Merchant Marine|75|2022-10-31 04h|2022-11-07 05h|
+|24|terracotta-72cc62|TERRACOTTA|20|2022-11-07 17h|2023-11-14 17h|
+|25|the-dark-prophecy-2193c4|The Dark Prophecy|50|2022-10-31 04h|2022-11-07 05h|
+|26|the-riftbreaker|The Riftbreaker|35|2022-11-18 18h|2022-11-29 18h|
+|27|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|35|2022-11-18 18h|2022-11-29 18h|
+|28|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
+|29|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
+|30|true-hate-007027|True Hate|90|2022-11-10 17h|2022-11-28 17h|
+|31|video-horror-society--mega-fan-founders-pack|Video Horror Society - MEGAFAN Founder's Pack|10|2022-10-25 17h|2022-11-01 17h|
+|32|video-horror-society--super-fan-founders-pack|Video Horror Society - SUPERFAN Founder's Pack|10|2022-10-25 17h|2022-11-01 17h|
+|33|video-horror-society--ultra-fan-founders-pack|Video Horror Society - ULTRAFAN Founder's Pack|10|2022-10-25 17h|2022-11-01 17h|
+|34|warhammer-mechanicus-0e4b71|Warhammer 40,000: Mechanicus - Standard Edition|100|2022-10-27 15h|2022-11-03 15h|
