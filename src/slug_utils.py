@@ -1,3 +1,6 @@
+DUMMY_SUFFIX = '/home'
+
+
 def get_offer_slug(store_element):
     offers = store_element["offerMappings"]
     if offers is not None and len(offers) > 0:
@@ -9,7 +12,10 @@ def get_offer_slug(store_element):
 
 
 def get_product_slug(store_element):
-    return store_element["productSlug"]
+    product_slug = store_element["productSlug"]
+    if product_slug is not None:
+        product_slug = product_slug.removesuffix(DUMMY_SUFFIX)
+    return product_slug
 
 
 def get_url_slug(store_element):
