@@ -136,14 +136,6 @@
     "title": "My Time at Sandrock"
   },
   {
-    "discountPercentage": 75,
-    "endDate": "2022-10-31T04:00:00.000Z",
-    "isFree": false,
-    "slug": "nikopol-secrets-of-the-immortals-18adec",
-    "startDate": "2022-10-24T04:00:00.000Z",
-    "title": "Nikopol - Secrets of the Immortals"
-  },
-  {
     "discountPercentage": 10,
     "endDate": "2022-11-03T15:00:00.000Z",
     "isFree": false,
@@ -174,14 +166,6 @@
     "slug": "fortnite--shadows-rising-pack",
     "startDate": "2022-11-18T15:51:00.000Z",
     "title": "Shadows Rising Pack"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2022-10-31T04:00:00.000Z",
-    "isFree": false,
-    "slug": "space-hack-02fd17",
-    "startDate": "2022-10-24T04:00:00.000Z",
-    "title": "Space Hack"
   },
   {
     "discountPercentage": 75,
