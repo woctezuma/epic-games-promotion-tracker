@@ -88,6 +88,14 @@
     "title": "Dark Light"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2022-11-17T16:18:00.000Z",
+    "isFree": false,
+    "slug": "rising-storm-2-vietnam--digital-deluxe-edition-upgrade",
+    "startDate": "2022-11-03T15:00:00.000Z",
+    "title": "Digital Deluxe Edition Upgrade"
+  },
+  {
     "discountPercentage": 67,
     "endDate": "2022-11-01T15:00:00.000Z",
     "isFree": false,
