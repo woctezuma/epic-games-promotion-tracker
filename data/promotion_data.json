@@ -1,5 +1,21 @@
 [
   {
+    "discountPercentage": 60,
+    "endDate": "2022-12-05T17:00:00.000Z",
+    "isFree": false,
+    "slug": "away-the-survival-series",
+    "startDate": "2022-11-21T17:00:00.000Z",
+    "title": "AWAY: The Survival Series"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-11-21T20:00:00.000Z",
+    "isFree": false,
+    "slug": "idle-champions-of-the-forgotten-realms--amani-the-songbird-familiar-pack",
+    "startDate": "2022-11-17T20:00:00.000Z",
+    "title": "Amani the Songbird Familiar Pack"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2022-11-22T14:00:00.000Z",
     "isFree": false,
@@ -24,6 +40,38 @@
     "title": "Arkanoid - Eternal Battle"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2022-11-07T20:00:00.000Z",
+    "isFree": false,
+    "slug": "idle-champions-of-the-forgotten-realms--ascendant-evelyn-skin-and-feat-pack",
+    "startDate": "2022-11-04T19:00:00.000Z",
+    "title": "Ascendant Evelyn Skin & Feat Pack"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-11-07T20:00:00.000Z",
+    "isFree": false,
+    "slug": "idle-champions-of-the-forgotten-realms--ascendant-melf-skin-and-feat-pack",
+    "startDate": "2022-11-04T19:00:00.000Z",
+    "title": "Ascendant Melf Skin & Feat Pack"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-11-07T20:00:00.000Z",
+    "isFree": false,
+    "slug": "idle-champions-of-the-forgotten-realms--ascendant-strix-skin-and-feat-pack",
+    "startDate": "2022-11-04T19:00:00.000Z",
+    "title": "Ascendant Strix Skin & Feat Pack"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-11-07T20:00:00.000Z",
+    "isFree": false,
+    "slug": "idle-champions-of-the-forgotten-realms--ascendant-walnut-skin-and-feat-pack",
+    "startDate": "2022-11-04T19:00:00.000Z",
+    "title": "Ascendant Walnut Skin & Feat Pack"
+  },
+  {
     "discountPercentage": 10,
     "endDate": "2022-11-21T18:00:00.000Z",
     "isFree": false,
@@ -32,12 +80,52 @@
     "title": "Beat Hazard 3"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2022-11-21T20:00:00.000Z",
+    "isFree": false,
+    "slug": "idle-champions-of-the-forgotten-realms--beeples-corazn-skin-feat-pack",
+    "startDate": "2022-11-17T20:00:00.000Z",
+    "title": "Beeples Coraz\u00f3n Skin & Feat Pack"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2022-11-21T20:00:00.000Z",
+    "isFree": false,
+    "slug": "idle-champions-of-the-forgotten-realms--beeples-dob-skin-feat-pack",
+    "startDate": "2022-11-17T20:00:00.000Z",
+    "title": "Beeples Dob Skin & Feat Pack"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2023-01-02T15:00:00.000Z",
     "isFree": false,
     "slug": "blazing-beaks-3d4864",
     "startDate": "2022-12-15T15:00:00.000Z",
     "title": "Blazing Beaks"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2022-11-21T20:00:00.000Z",
+    "isFree": false,
+    "slug": "idle-champions-of-the-forgotten-realms--blight-druid-voronika-theme-pack",
+    "startDate": "2022-11-17T20:00:00.000Z",
+    "title": "Blight Druid Voronika Theme Pack"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2022-11-29T16:00:00.000Z",
+    "isFree": false,
+    "slug": "blossom-tales-ii-the-minotaur-prince-e74c95",
+    "startDate": "2022-11-22T16:00:00.000Z",
+    "title": "Blossom Tales II The Minotaur Prince"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-11-07T20:00:00.000Z",
+    "isFree": false,
+    "slug": "idle-champions-of-the-forgotten-realms--brimstone-angels-shadowfell-bundle-pack",
+    "startDate": "2022-11-04T19:00:00.000Z",
+    "title": "Brimstone Angels Shadowfell Bundle Pack"
   },
   {
     "discountPercentage": 79,
@@ -64,6 +152,22 @@
     "title": "Car Tuning Simulator"
   },
   {
+    "discountPercentage": 90,
+    "endDate": "2022-11-21T20:00:00.000Z",
+    "isFree": false,
+    "slug": "banedlc028-02",
+    "startDate": "2022-11-17T20:00:00.000Z",
+    "title": "Celeste's Starter Pack"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-11-21T20:00:00.000Z",
+    "isFree": false,
+    "slug": "banedlc028-22",
+    "startDate": "2022-11-17T20:00:00.000Z",
+    "title": "Champions of Renown: Year 2 All-Star Pack"
+  },
+  {
     "discountPercentage": 10,
     "endDate": "2022-10-29T13:00:00.000Z",
     "isFree": false,
@@ -80,12 +184,28 @@
     "title": "Citizen Sleeper"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2022-11-15T20:00:00.000Z",
+    "isFree": false,
+    "slug": "idle-champions-of-the-forgotten-realms--colonel-pest-the-pest-mascot-familiar-pack",
+    "startDate": "2022-11-11T20:00:00.000Z",
+    "title": "Colonel Pest the Pest Mascot Familiar Pack"
+  },
+  {
     "discountPercentage": 22,
     "endDate": "2022-11-22T15:00:00.000Z",
     "isFree": false,
     "slug": "dark-light",
     "startDate": "2022-11-10T15:00:00.000Z",
     "title": "Dark Light"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-11-17T16:18:00.000Z",
+    "isFree": false,
+    "slug": "rising-storm-2-vietnam--digital-deluxe-edition-upgrade",
+    "startDate": "2022-11-03T15:00:00.000Z",
+    "title": "Digital Deluxe Edition Upgrade"
   },
   {
     "discountPercentage": 67,
@@ -96,6 +216,38 @@
     "title": "Fallout 3: Game of the Year Edition"
   },
   {
+    "discountPercentage": 25,
+    "endDate": "2022-11-29T18:00:00.000Z",
+    "isFree": false,
+    "slug": "gigabash",
+    "startDate": "2022-11-22T18:00:00.000Z",
+    "title": "GigaBash"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-11-07T20:00:00.000Z",
+    "isFree": false,
+    "slug": "idle-champions-of-the-forgotten-realms--gladiator-havilar-theme-pack",
+    "startDate": "2022-11-04T19:00:00.000Z",
+    "title": "Gladiator Havilar Theme Pack"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-11-21T20:00:00.000Z",
+    "isFree": false,
+    "slug": "idle-champions-of-the-forgotten-realms--landlubber-rust-skin-feat-pack",
+    "startDate": "2022-11-17T20:00:00.000Z",
+    "title": "Landlubber Rust Skin & Feat Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-11-18T05:00:00.000Z",
+    "isFree": false,
+    "slug": "liberated-f13008",
+    "startDate": "2022-11-11T05:00:00.000Z",
+    "title": "Liberated"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2022-11-03T15:00:00.000Z",
     "isFree": false,
@@ -104,12 +256,12 @@
     "title": "Maid of Sker"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2022-10-31T07:00:00.000Z",
+    "discountPercentage": 30,
+    "endDate": "2022-11-07T20:00:00.000Z",
     "isFree": false,
-    "slug": "marvels-spider-man-remastered",
-    "startDate": "2022-10-25T07:00:00.000Z",
-    "title": "Marvel's Spider-Man Remastered"
+    "slug": "idle-champions-of-the-forgotten-realms--marmadark-the-pup-of-ill-omens-familiar-pack",
+    "startDate": "2022-11-04T19:00:00.000Z",
+    "title": "Marmadark the Pup of Ill Omens Familiar Pack"
   },
   {
     "discountPercentage": 40,
@@ -120,28 +272,12 @@
     "title": "Minty Legends Pack"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2022-11-07T05:00:00.000Z",
+    "discountPercentage": 50,
+    "endDate": "2022-11-11T05:00:00.000Z",
     "isFree": false,
-    "slug": "murder-is-game-over-255da8",
-    "startDate": "2022-10-25T04:00:00.000Z",
-    "title": "Murder Is Game Over"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2022-11-01T17:00:00.000Z",
-    "isFree": false,
-    "slug": "my-time-at-sandrock",
-    "startDate": "2022-10-25T17:00:00.000Z",
-    "title": "My Time at Sandrock"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2022-10-31T04:00:00.000Z",
-    "isFree": false,
-    "slug": "nikopol-secrets-of-the-immortals-18adec",
-    "startDate": "2022-10-24T04:00:00.000Z",
-    "title": "Nikopol - Secrets of the Immortals"
+    "slug": "necroworm-5784e5",
+    "startDate": "2022-11-04T04:00:00.000Z",
+    "title": "NecroWorm"
   },
   {
     "discountPercentage": 10,
@@ -152,6 +288,54 @@
     "title": "Paper Cut Mansion"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2022-11-15T20:00:00.000Z",
+    "isFree": false,
+    "slug": "idle-champions-of-the-forgotten-realms--polymorphed-baeloth-skin-feat-pack",
+    "startDate": "2022-11-11T20:00:00.000Z",
+    "title": "Polymorphed Baeloth Skin & Feat Pack"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-11-15T20:00:00.000Z",
+    "isFree": false,
+    "slug": "idle-champions-of-the-forgotten-realms--polymorphed-desmond-skin-feat-pack",
+    "startDate": "2022-11-11T20:00:00.000Z",
+    "title": "Polymorphed Desmond Skin & Feat Pack"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-11-15T20:00:00.000Z",
+    "isFree": false,
+    "slug": "idle-champions-of-the-forgotten-realms--polymorphed-farideh-skin-feat-pack",
+    "startDate": "2022-11-11T20:00:00.000Z",
+    "title": "Polymorphed Farideh Skin & Feat Pack"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-11-21T20:00:00.000Z",
+    "isFree": false,
+    "slug": "idle-champions-of-the-forgotten-realms--polymorphed-jarlaxle-skin-feat-pack",
+    "startDate": "2022-11-17T20:00:00.000Z",
+    "title": "Polymorphed Jarlaxle Skin & Feat Pack"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-11-15T20:00:00.000Z",
+    "isFree": false,
+    "slug": "idle-champions-of-the-forgotten-realms--polymorphed-shaka-skin-feat-pack",
+    "startDate": "2022-11-11T20:00:00.000Z",
+    "title": "Polymorphed Shaka Skin & Feat Pack"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-11-15T20:00:00.000Z",
+    "isFree": false,
+    "slug": "idle-champions-of-the-forgotten-realms--polymorphed-tatyana-skin-feat-pack",
+    "startDate": "2022-11-11T20:00:00.000Z",
+    "title": "Polymorphed Tatyana Skin & Feat Pack"
+  },
+  {
     "discountPercentage": 100,
     "endDate": "2022-11-03T15:00:00.000Z",
     "isFree": true,
@@ -166,6 +350,30 @@
     "slug": "saturnalia",
     "startDate": "2022-10-27T15:00:00.000Z",
     "title": "Saturnalia"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-11-07T20:00:00.000Z",
+    "isFree": false,
+    "slug": "idle-champions-of-the-forgotten-realms--shadowfell-farideh-skin-feat-pack",
+    "startDate": "2022-11-04T19:00:00.000Z",
+    "title": "Shadowfell Farideh Skin & Feat Pack"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-11-07T20:00:00.000Z",
+    "isFree": false,
+    "slug": "idle-champions-of-the-forgotten-realms--shadowfell-havilar-skin-feat-pack",
+    "startDate": "2022-11-04T19:00:00.000Z",
+    "title": "Shadowfell Havilar Skin & Feat Pack"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-11-07T20:00:00.000Z",
+    "isFree": false,
+    "slug": "idle-champions-of-the-forgotten-realms--shadowfell-mehen-skin-feat-pack",
+    "startDate": "2022-11-04T19:00:00.000Z",
+    "title": "Shadowfell Mehen Skin & Feat Pack"
   },
   {
     "discountPercentage": 50,
@@ -176,12 +384,12 @@
     "title": "Shadows Rising Pack"
   },
   {
-    "discountPercentage": 75,
-    "endDate": "2022-10-31T04:00:00.000Z",
+    "discountPercentage": 10,
+    "endDate": "2022-11-22T00:00:00.000Z",
     "isFree": false,
-    "slug": "space-hack-02fd17",
-    "startDate": "2022-10-24T04:00:00.000Z",
-    "title": "Space Hack"
+    "slug": "somerville-229529",
+    "startDate": "2022-11-14T00:00:00.000Z",
+    "title": "Somerville"
   },
   {
     "discountPercentage": 75,
@@ -256,28 +464,12 @@
     "title": "True Hate"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2022-11-01T17:00:00.000Z",
+    "discountPercentage": 50,
+    "endDate": "2022-11-09T04:00:00.000Z",
     "isFree": false,
-    "slug": "video-horror-society--mega-fan-founders-pack",
-    "startDate": "2022-10-25T17:00:00.000Z",
-    "title": "Video Horror Society - MEGAFAN Founder's Pack"
-  },
-  {
-    "discountPercentage": 10,
-    "endDate": "2022-11-01T17:00:00.000Z",
-    "isFree": false,
-    "slug": "video-horror-society--super-fan-founders-pack",
-    "startDate": "2022-10-25T17:00:00.000Z",
-    "title": "Video Horror Society - SUPERFAN Founder's Pack"
-  },
-  {
-    "discountPercentage": 10,
-    "endDate": "2022-11-01T17:00:00.000Z",
-    "isFree": false,
-    "slug": "video-horror-society--ultra-fan-founders-pack",
-    "startDate": "2022-10-25T17:00:00.000Z",
-    "title": "Video Horror Society - ULTRAFAN Founder's Pack"
+    "slug": "wanderlust-travel-stories-a81f0f",
+    "startDate": "2022-11-02T04:00:00.000Z",
+    "title": "Wanderlust: Travel Stories"
   },
   {
     "discountPercentage": 100,
