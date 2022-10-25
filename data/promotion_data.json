@@ -80,6 +80,14 @@
     "title": "Citizen Sleeper"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2022-10-30T17:00:00.000Z",
+    "isFree": false,
+    "slug": "cyberpunk-2077",
+    "startDate": "2022-10-26T17:00:00.000Z",
+    "title": "Cyberpunk 2077"
+  },
+  {
     "discountPercentage": 22,
     "endDate": "2022-11-22T15:00:00.000Z",
     "isFree": false,
@@ -222,6 +230,14 @@
     "slug": "the-riftbreaker--metal-terror",
     "startDate": "2022-11-18T18:00:00.000Z",
     "title": "The Riftbreaker: Metal Terror"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2022-10-30T17:00:00.000Z",
+    "isFree": false,
+    "slug": "the-witcher-3-wild-hunt",
+    "startDate": "2022-10-26T17:00:00.000Z",
+    "title": "The Witcher 3: Wild Hunt - Game of the Year Edition"
   },
   {
     "discountPercentage": 90,
