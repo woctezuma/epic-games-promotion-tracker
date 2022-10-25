@@ -112,28 +112,12 @@
     "title": "Maid of Sker"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2022-10-31T07:00:00.000Z",
-    "isFree": false,
-    "slug": "marvels-spider-man-remastered",
-    "startDate": "2022-10-25T07:00:00.000Z",
-    "title": "Marvel's Spider-Man Remastered"
-  },
-  {
     "discountPercentage": 40,
     "endDate": "2022-11-29T12:00:00.000Z",
     "isFree": false,
     "slug": "fortnite--minty-legends-pack",
     "startDate": "2022-11-18T00:00:00.000Z",
     "title": "Minty Legends Pack"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2022-11-07T05:00:00.000Z",
-    "isFree": false,
-    "slug": "murder-is-game-over-255da8",
-    "startDate": "2022-10-25T04:00:00.000Z",
-    "title": "Murder Is Game Over"
   },
   {
     "discountPercentage": 20,
