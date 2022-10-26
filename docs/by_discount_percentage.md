@@ -51,12 +51,11 @@
 |49|gigabash|GigaBash|25|2022-11-22 18h|2022-11-29 18h|
 |50|dark-light|Dark Light|22|2022-11-10 15h|2022-11-22 15h|
 |51|blossom-tales-ii-the-minotaur-prince-e74c95|Blossom Tales II The Minotaur Prince|20|2022-11-22 16h|2022-11-29 16h|
-|52|gigabash|GigaBash|20|2022-10-26 15h|2022-11-07 16h|
-|53|maid-of-sker-2ae24e|Maid of Sker|20|2022-10-27 15h|2022-11-03 15h|
-|54|terracotta-72cc62|TERRACOTTA|20|2022-11-07 17h|2023-11-14 17h|
-|55|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
-|56|arkanoid-eternal-battle-e1b089|Arkanoid - Eternal Battle|10|2022-10-27 04h|2022-11-02 04h|
-|57|beat-hazard-3-c8ef04|Beat Hazard 3|10|2022-11-14 18h|2022-11-21 18h|
-|58|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
-|59|paper-cut-mansion-2c67e2|Paper Cut Mansion|10|2022-10-27 15h|2022-11-03 15h|
-|60|somerville-229529|Somerville|10|2022-11-14 00h|2022-11-22 00h|
+|52|maid-of-sker-2ae24e|Maid of Sker|20|2022-10-27 15h|2022-11-03 15h|
+|53|terracotta-72cc62|TERRACOTTA|20|2022-11-07 17h|2023-11-14 17h|
+|54|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
+|55|arkanoid-eternal-battle-e1b089|Arkanoid - Eternal Battle|10|2022-10-27 04h|2022-11-02 04h|
+|56|beat-hazard-3-c8ef04|Beat Hazard 3|10|2022-11-14 18h|2022-11-21 18h|
+|57|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
+|58|paper-cut-mansion-2c67e2|Paper Cut Mansion|10|2022-10-27 15h|2022-11-03 15h|
+|59|somerville-229529|Somerville|10|2022-11-14 00h|2022-11-22 00h|
