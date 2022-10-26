@@ -1,5 +1,7 @@
 python fetch_data_for_today.py
 
+python post_to_discord.py
+
 :: https://stackoverflow.com/a/72000317/376454
 chcp 65001>nul
 
