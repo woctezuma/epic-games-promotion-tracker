@@ -1,9 +1,9 @@
 import subprocess
 
 LINE_SEPARATOR = '\n'
-ADDITION_PREFIX = '+ '
-DELETION_PREFIX = '- '
-FIELD_SEPARATOR = '"'
+ADDITION_PREFIX = '+|'
+DELETION_PREFIX = '-|'
+FIELD_SEPARATOR = '|'
 GAME_INDEX = 2
 
 
