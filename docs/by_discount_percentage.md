@@ -24,36 +24,37 @@
 |22|idle-champions-of-the-forgotten-realms--ascendant-melf-skin-and-feat-pack|Ascendant Melf Skin & Feat Pack|40|2022-11-04 19h|2022-11-07 20h|
 |23|idle-champions-of-the-forgotten-realms--ascendant-strix-skin-and-feat-pack|Ascendant Strix Skin & Feat Pack|40|2022-11-04 19h|2022-11-07 20h|
 |24|idle-champions-of-the-forgotten-realms--ascendant-walnut-skin-and-feat-pack|Ascendant Walnut Skin & Feat Pack|40|2022-11-04 19h|2022-11-07 20h|
-|25|banedlc028-22|Champions of Renown: Year 2 All-Star Pack|40|2022-11-17 20h|2022-11-21 20h|
-|26|idle-champions-of-the-forgotten-realms--colonel-pest-the-pest-mascot-familiar-pack|Colonel Pest the Pest Mascot Familiar Pack|40|2022-11-11 20h|2022-11-15 20h|
-|27|idle-champions-of-the-forgotten-realms--gladiator-havilar-theme-pack|Gladiator Havilar Theme Pack|40|2022-11-04 19h|2022-11-07 20h|
-|28|idle-champions-of-the-forgotten-realms--landlubber-rust-skin-feat-pack|Landlubber Rust Skin & Feat Pack|40|2022-11-17 20h|2022-11-21 20h|
-|29|fortnite--minty-legends-pack|Minty Legends Pack|40|2022-11-18 00h|2022-11-29 12h|
-|30|idle-champions-of-the-forgotten-realms--polymorphed-baeloth-skin-feat-pack|Polymorphed Baeloth Skin & Feat Pack|40|2022-11-11 20h|2022-11-15 20h|
-|31|idle-champions-of-the-forgotten-realms--polymorphed-desmond-skin-feat-pack|Polymorphed Desmond Skin & Feat Pack|40|2022-11-11 20h|2022-11-15 20h|
-|32|idle-champions-of-the-forgotten-realms--polymorphed-farideh-skin-feat-pack|Polymorphed Farideh Skin & Feat Pack|40|2022-11-11 20h|2022-11-15 20h|
-|33|idle-champions-of-the-forgotten-realms--polymorphed-jarlaxle-skin-feat-pack|Polymorphed Jarlaxle Skin & Feat Pack|40|2022-11-17 20h|2022-11-21 20h|
-|34|idle-champions-of-the-forgotten-realms--polymorphed-shaka-skin-feat-pack|Polymorphed Shaka Skin & Feat Pack|40|2022-11-11 20h|2022-11-15 20h|
-|35|idle-champions-of-the-forgotten-realms--polymorphed-tatyana-skin-feat-pack|Polymorphed Tatyana Skin & Feat Pack|40|2022-11-11 20h|2022-11-15 20h|
-|36|idle-champions-of-the-forgotten-realms--shadowfell-farideh-skin-feat-pack|Shadowfell Farideh Skin & Feat Pack|40|2022-11-04 19h|2022-11-07 20h|
-|37|idle-champions-of-the-forgotten-realms--shadowfell-havilar-skin-feat-pack|Shadowfell Havilar Skin & Feat Pack|40|2022-11-04 19h|2022-11-07 20h|
-|38|idle-champions-of-the-forgotten-realms--shadowfell-mehen-skin-feat-pack|Shadowfell Mehen Skin & Feat Pack|40|2022-11-04 19h|2022-11-07 20h|
-|39|the-riftbreaker|The Riftbreaker|35|2022-11-18 18h|2022-11-29 18h|
-|40|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|35|2022-11-18 18h|2022-11-29 18h|
-|41|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
-|42|idle-champions-of-the-forgotten-realms--beeples-corazn-skin-feat-pack|Beeples Corazón Skin & Feat Pack|30|2022-11-17 20h|2022-11-21 20h|
-|43|idle-champions-of-the-forgotten-realms--beeples-dob-skin-feat-pack|Beeples Dob Skin & Feat Pack|30|2022-11-17 20h|2022-11-21 20h|
-|44|idle-champions-of-the-forgotten-realms--blight-druid-voronika-theme-pack|Blight Druid Voronika Theme Pack|30|2022-11-17 20h|2022-11-21 20h|
-|45|idle-champions-of-the-forgotten-realms--marmadark-the-pup-of-ill-omens-familiar-pack|Marmadark the Pup of Ill Omens Familiar Pack|30|2022-11-04 19h|2022-11-07 20h|
-|46|citizen-sleeper-944858|Citizen Sleeper|25|2022-10-27 17h|2022-11-02 17h|
-|47|gigabash|GigaBash|25|2022-11-22 18h|2022-11-29 18h|
-|48|dark-light|Dark Light|22|2022-11-10 15h|2022-11-22 15h|
-|49|blossom-tales-ii-the-minotaur-prince-e74c95|Blossom Tales II The Minotaur Prince|20|2022-11-22 16h|2022-11-29 16h|
-|50|maid-of-sker-2ae24e|Maid of Sker|20|2022-10-27 15h|2022-11-03 15h|
-|51|terracotta-72cc62|TERRACOTTA|20|2022-11-07 17h|2023-11-14 17h|
-|52|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
-|53|arkanoid-eternal-battle-e1b089|Arkanoid - Eternal Battle|10|2022-10-27 04h|2022-11-02 04h|
-|54|beat-hazard-3-c8ef04|Beat Hazard 3|10|2022-11-14 18h|2022-11-21 18h|
-|55|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
-|56|paper-cut-mansion-2c67e2|Paper Cut Mansion|10|2022-10-27 15h|2022-11-03 15h|
-|57|somerville-229529|Somerville|10|2022-11-14 00h|2022-11-22 00h|
+|25|idle-champions-of-the-forgotten-realms--brimstone-angels-shadowfell-bundle-pack|Brimstone Angels Shadowfell Bundle Pack|40|2022-11-04 19h|2022-11-07 20h|
+|26|banedlc028-22|Champions of Renown: Year 2 All-Star Pack|40|2022-11-17 20h|2022-11-21 20h|
+|27|idle-champions-of-the-forgotten-realms--colonel-pest-the-pest-mascot-familiar-pack|Colonel Pest the Pest Mascot Familiar Pack|40|2022-11-11 20h|2022-11-15 20h|
+|28|idle-champions-of-the-forgotten-realms--gladiator-havilar-theme-pack|Gladiator Havilar Theme Pack|40|2022-11-04 19h|2022-11-07 20h|
+|29|idle-champions-of-the-forgotten-realms--landlubber-rust-skin-feat-pack|Landlubber Rust Skin & Feat Pack|40|2022-11-17 20h|2022-11-21 20h|
+|30|fortnite--minty-legends-pack|Minty Legends Pack|40|2022-11-18 00h|2022-11-29 12h|
+|31|idle-champions-of-the-forgotten-realms--polymorphed-baeloth-skin-feat-pack|Polymorphed Baeloth Skin & Feat Pack|40|2022-11-11 20h|2022-11-15 20h|
+|32|idle-champions-of-the-forgotten-realms--polymorphed-desmond-skin-feat-pack|Polymorphed Desmond Skin & Feat Pack|40|2022-11-11 20h|2022-11-15 20h|
+|33|idle-champions-of-the-forgotten-realms--polymorphed-farideh-skin-feat-pack|Polymorphed Farideh Skin & Feat Pack|40|2022-11-11 20h|2022-11-15 20h|
+|34|idle-champions-of-the-forgotten-realms--polymorphed-jarlaxle-skin-feat-pack|Polymorphed Jarlaxle Skin & Feat Pack|40|2022-11-17 20h|2022-11-21 20h|
+|35|idle-champions-of-the-forgotten-realms--polymorphed-shaka-skin-feat-pack|Polymorphed Shaka Skin & Feat Pack|40|2022-11-11 20h|2022-11-15 20h|
+|36|idle-champions-of-the-forgotten-realms--polymorphed-tatyana-skin-feat-pack|Polymorphed Tatyana Skin & Feat Pack|40|2022-11-11 20h|2022-11-15 20h|
+|37|idle-champions-of-the-forgotten-realms--shadowfell-farideh-skin-feat-pack|Shadowfell Farideh Skin & Feat Pack|40|2022-11-04 19h|2022-11-07 20h|
+|38|idle-champions-of-the-forgotten-realms--shadowfell-havilar-skin-feat-pack|Shadowfell Havilar Skin & Feat Pack|40|2022-11-04 19h|2022-11-07 20h|
+|39|idle-champions-of-the-forgotten-realms--shadowfell-mehen-skin-feat-pack|Shadowfell Mehen Skin & Feat Pack|40|2022-11-04 19h|2022-11-07 20h|
+|40|the-riftbreaker|The Riftbreaker|35|2022-11-18 18h|2022-11-29 18h|
+|41|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|35|2022-11-18 18h|2022-11-29 18h|
+|42|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
+|43|idle-champions-of-the-forgotten-realms--beeples-corazn-skin-feat-pack|Beeples Corazón Skin & Feat Pack|30|2022-11-17 20h|2022-11-21 20h|
+|44|idle-champions-of-the-forgotten-realms--beeples-dob-skin-feat-pack|Beeples Dob Skin & Feat Pack|30|2022-11-17 20h|2022-11-21 20h|
+|45|idle-champions-of-the-forgotten-realms--blight-druid-voronika-theme-pack|Blight Druid Voronika Theme Pack|30|2022-11-17 20h|2022-11-21 20h|
+|46|idle-champions-of-the-forgotten-realms--marmadark-the-pup-of-ill-omens-familiar-pack|Marmadark the Pup of Ill Omens Familiar Pack|30|2022-11-04 19h|2022-11-07 20h|
+|47|citizen-sleeper-944858|Citizen Sleeper|25|2022-10-27 17h|2022-11-02 17h|
+|48|gigabash|GigaBash|25|2022-11-22 18h|2022-11-29 18h|
+|49|dark-light|Dark Light|22|2022-11-10 15h|2022-11-22 15h|
+|50|blossom-tales-ii-the-minotaur-prince-e74c95|Blossom Tales II The Minotaur Prince|20|2022-11-22 16h|2022-11-29 16h|
+|51|maid-of-sker-2ae24e|Maid of Sker|20|2022-10-27 15h|2022-11-03 15h|
+|52|terracotta-72cc62|TERRACOTTA|20|2022-11-07 17h|2023-11-14 17h|
+|53|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
+|54|arkanoid-eternal-battle-e1b089|Arkanoid - Eternal Battle|10|2022-10-27 04h|2022-11-02 04h|
+|55|beat-hazard-3-c8ef04|Beat Hazard 3|10|2022-11-14 18h|2022-11-21 18h|
+|56|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
+|57|paper-cut-mansion-2c67e2|Paper Cut Mansion|10|2022-10-27 15h|2022-11-03 15h|
+|58|somerville-229529|Somerville|10|2022-11-14 00h|2022-11-22 00h|
