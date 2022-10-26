@@ -4,6 +4,7 @@ LINE_SEPARATOR = '\n'
 ADDITION_PREFIX = '+ '
 DELETION_PREFIX = '- '
 FIELD_SEPARATOR = '"'
+GAME_INDEX = 1
 
 
 def bytes_to_str(data_as_bytes):
@@ -33,8 +34,8 @@ def extract_games(lines):
     games = []
     for line in lines:
         elements = line.split(FIELD_SEPARATOR)
-        if len(elements) > 1:
-            game_name = elements[1]
+        if len(elements) > GAME_INDEX:
+            game_name = elements[GAME_INDEX]
             games.append(game_name)
 
     return games
