@@ -35,7 +35,7 @@ def post_message_to_discord(message, webhook_id):
 
 def format_discord_message(games, header=""):
     if len(games) > 0:
-        lines = [header] + games
+        lines = [header] + sorted(games)
         message = BULLET_POINT_SEPARATOR.join(lines)
     else:
         message = ''
