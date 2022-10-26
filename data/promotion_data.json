@@ -216,6 +216,14 @@
     "title": "Fallout 3: Game of the Year Edition"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2022-11-10T16:00:00.000Z",
+    "isFree": true,
+    "slug": "filament-332a92",
+    "startDate": "2022-11-03T15:00:00.000Z",
+    "title": "Filament"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2022-11-29T18:00:00.000Z",
     "isFree": false,
@@ -334,6 +342,14 @@
     "slug": "idle-champions-of-the-forgotten-realms--polymorphed-tatyana-skin-feat-pack",
     "startDate": "2022-11-11T20:00:00.000Z",
     "title": "Polymorphed Tatyana Skin & Feat Pack"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2022-11-10T16:00:00.000Z",
+    "isFree": true,
+    "slug": "rising-storm-2-vietnam",
+    "startDate": "2022-11-03T15:00:00.000Z",
+    "title": "Rising Storm 2: Vietnam"
   },
   {
     "discountPercentage": 100,
