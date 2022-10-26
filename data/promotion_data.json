@@ -120,6 +120,14 @@
     "title": "Blossom Tales II The Minotaur Prince"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2022-11-07T20:00:00.000Z",
+    "isFree": false,
+    "slug": "idle-champions-of-the-forgotten-realms--brimstone-angels-shadowfell-bundle-pack",
+    "startDate": "2022-11-04T19:00:00.000Z",
+    "title": "Brimstone Angels Shadowfell Bundle Pack"
+  },
+  {
     "discountPercentage": 79,
     "endDate": "2022-11-20T04:00:00.000Z",
     "isFree": false,
