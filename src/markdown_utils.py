@@ -1,6 +1,7 @@
 HEADERS = ["Game Slug", "Game Name", "Discount (%)", "Starts", "Ends"]
 TIME_FIELDS = ["startDate", "endDate"]
 ENTRY_FIELDS = ["slug", "title", "discountPercentage"] + TIME_FIELDS
+PLACE_HOLDER = '---'
 
 
 def to_table_row(row_no, str_elements):
@@ -15,7 +16,7 @@ def get_headers_line():
 
 
 def get_separator_line():
-    place_holder = '---'
+    place_holder = PLACE_HOLDER
     num_headers = len(HEADERS)
     return to_table_row(place_holder, [place_holder] * num_headers)
 
