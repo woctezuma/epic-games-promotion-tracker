@@ -8,6 +8,14 @@ def load_json(fname):
     return data
 
 
+def load_json_failsafe(fname):
+    try:
+        data = load_json(fname)
+    except FileNotFoundError:
+        data = {}
+    return data
+
+
 def save_json(data, fname, prettify=False):
     Path(fname).parent.mkdir(parents=True, exist_ok=True)
 
