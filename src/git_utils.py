@@ -1,10 +1,13 @@
 import subprocess
 
+from src.markdown_utils import HEADERS, PLACE_HOLDER
+
 LINE_SEPARATOR = '\n'
 ADDITION_PREFIX = '+|'
 DELETION_PREFIX = '-|'
 FIELD_SEPARATOR = '|'
 GAME_INDEX = 2
+DUMMY_GAMES = [HEADERS[0], PLACE_HOLDER]
 
 
 def bytes_to_str(data_as_bytes):
@@ -45,4 +48,5 @@ def extract_new_games(stdout):
     added_games = extract_games(filter_additions(stdout))
     deleted_games = extract_games(filter_deletions(stdout))
     games = set(added_games).difference(deleted_games)
+    games = set(games).difference(DUMMY_GAMES)
     return list(games)
