@@ -22,40 +22,38 @@
 |20|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
 |21|citizen-sleeper-944858|Citizen Sleeper|25|2022-10-27 17h|2022-11-02 17h|
 |22|idle-champions-of-the-forgotten-realms--colonel-pest-the-pest-mascot-familiar-pack|Colonel Pest the Pest Mascot Familiar Pack|40|2022-11-11 20h|2022-11-15 20h|
-|23|cyberpunk-2077|Cyberpunk 2077|50|2022-10-26 17h|2022-10-30 17h|
-|24|dark-light|Dark Light|22|2022-11-10 15h|2022-11-22 15h|
-|25|rising-storm-2-vietnam--digital-deluxe-edition-upgrade|Digital Deluxe Edition Upgrade|75|2022-11-03 15h|2022-11-17 16h|
-|26|fallout-3-game-of-the-year-edition|Fallout 3: Game of the Year Edition|67|2022-10-27 15h|2022-11-01 15h|
-|27|gigabash|GigaBash|25|2022-11-22 18h|2022-11-29 18h|
-|28|idle-champions-of-the-forgotten-realms--gladiator-havilar-theme-pack|Gladiator Havilar Theme Pack|40|2022-11-04 19h|2022-11-07 20h|
-|29|idle-champions-of-the-forgotten-realms--landlubber-rust-skin-feat-pack|Landlubber Rust Skin & Feat Pack|40|2022-11-17 20h|2022-11-21 20h|
-|30|liberated-f13008|Liberated|50|2022-11-11 05h|2022-11-18 05h|
-|31|maid-of-sker-2ae24e|Maid of Sker|20|2022-10-27 15h|2022-11-03 15h|
-|32|idle-champions-of-the-forgotten-realms--marmadark-the-pup-of-ill-omens-familiar-pack|Marmadark the Pup of Ill Omens Familiar Pack|30|2022-11-04 19h|2022-11-07 20h|
-|33|fortnite--minty-legends-pack|Minty Legends Pack|40|2022-11-18 00h|2022-11-29 12h|
-|34|necroworm-5784e5|NecroWorm|50|2022-11-04 04h|2022-11-11 05h|
-|35|paper-cut-mansion-2c67e2|Paper Cut Mansion|10|2022-10-27 15h|2022-11-03 15h|
-|36|idle-champions-of-the-forgotten-realms--polymorphed-baeloth-skin-feat-pack|Polymorphed Baeloth Skin & Feat Pack|40|2022-11-11 20h|2022-11-15 20h|
-|37|idle-champions-of-the-forgotten-realms--polymorphed-desmond-skin-feat-pack|Polymorphed Desmond Skin & Feat Pack|40|2022-11-11 20h|2022-11-15 20h|
-|38|idle-champions-of-the-forgotten-realms--polymorphed-farideh-skin-feat-pack|Polymorphed Farideh Skin & Feat Pack|40|2022-11-11 20h|2022-11-15 20h|
-|39|idle-champions-of-the-forgotten-realms--polymorphed-jarlaxle-skin-feat-pack|Polymorphed Jarlaxle Skin & Feat Pack|40|2022-11-17 20h|2022-11-21 20h|
-|40|idle-champions-of-the-forgotten-realms--polymorphed-shaka-skin-feat-pack|Polymorphed Shaka Skin & Feat Pack|40|2022-11-11 20h|2022-11-15 20h|
-|41|idle-champions-of-the-forgotten-realms--polymorphed-tatyana-skin-feat-pack|Polymorphed Tatyana Skin & Feat Pack|40|2022-11-11 20h|2022-11-15 20h|
-|42|saturnalia|Saturnalia|100|2022-10-27 15h|2022-11-03 15h|
-|43|idle-champions-of-the-forgotten-realms--shadowfell-farideh-skin-feat-pack|Shadowfell Farideh Skin & Feat Pack|40|2022-11-04 19h|2022-11-07 20h|
-|44|idle-champions-of-the-forgotten-realms--shadowfell-havilar-skin-feat-pack|Shadowfell Havilar Skin & Feat Pack|40|2022-11-04 19h|2022-11-07 20h|
-|45|idle-champions-of-the-forgotten-realms--shadowfell-mehen-skin-feat-pack|Shadowfell Mehen Skin & Feat Pack|40|2022-11-04 19h|2022-11-07 20h|
-|46|fortnite--shadows-rising-pack|Shadows Rising Pack|50|2022-11-18 15h|2022-11-29 12h|
-|47|somerville-229529|Somerville|10|2022-11-14 00h|2022-11-22 00h|
-|48|space-trader-merchant-marine-0426a8|Space Trader - Merchant Marine|75|2022-10-31 04h|2022-11-07 05h|
-|49|terracotta-72cc62|TERRACOTTA|20|2022-11-07 17h|2023-11-14 17h|
-|50|fortnite--tech-future-pack|Tech Future Pack|50|2022-11-18 15h|2022-11-29 12h|
-|51|the-dark-prophecy-2193c4|The Dark Prophecy|50|2022-10-31 04h|2022-11-07 05h|
-|52|the-riftbreaker|The Riftbreaker|35|2022-11-18 18h|2022-11-29 18h|
-|53|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|35|2022-11-18 18h|2022-11-29 18h|
-|54|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
-|55|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
-|56|the-witcher-3-wild-hunt|The Witcher 3: Wild Hunt - Game of the Year Edition|80|2022-10-26 17h|2022-10-30 17h|
-|57|true-hate-007027|True Hate|90|2022-11-10 17h|2022-11-28 17h|
-|58|wanderlust-travel-stories-a81f0f|Wanderlust: Travel Stories|50|2022-11-02 04h|2022-11-09 04h|
-|59|warhammer-mechanicus-0e4b71|Warhammer 40,000: Mechanicus - Standard Edition|100|2022-10-27 15h|2022-11-03 15h|
+|23|dark-light|Dark Light|22|2022-11-10 15h|2022-11-22 15h|
+|24|rising-storm-2-vietnam--digital-deluxe-edition-upgrade|Digital Deluxe Edition Upgrade|75|2022-11-03 15h|2022-11-17 16h|
+|25|fallout-3-game-of-the-year-edition|Fallout 3: Game of the Year Edition|67|2022-10-27 15h|2022-11-01 15h|
+|26|gigabash|GigaBash|25|2022-11-22 18h|2022-11-29 18h|
+|27|idle-champions-of-the-forgotten-realms--gladiator-havilar-theme-pack|Gladiator Havilar Theme Pack|40|2022-11-04 19h|2022-11-07 20h|
+|28|idle-champions-of-the-forgotten-realms--landlubber-rust-skin-feat-pack|Landlubber Rust Skin & Feat Pack|40|2022-11-17 20h|2022-11-21 20h|
+|29|liberated-f13008|Liberated|50|2022-11-11 05h|2022-11-18 05h|
+|30|maid-of-sker-2ae24e|Maid of Sker|20|2022-10-27 15h|2022-11-03 15h|
+|31|idle-champions-of-the-forgotten-realms--marmadark-the-pup-of-ill-omens-familiar-pack|Marmadark the Pup of Ill Omens Familiar Pack|30|2022-11-04 19h|2022-11-07 20h|
+|32|fortnite--minty-legends-pack|Minty Legends Pack|40|2022-11-18 00h|2022-11-29 12h|
+|33|necroworm-5784e5|NecroWorm|50|2022-11-04 04h|2022-11-11 05h|
+|34|paper-cut-mansion-2c67e2|Paper Cut Mansion|10|2022-10-27 15h|2022-11-03 15h|
+|35|idle-champions-of-the-forgotten-realms--polymorphed-baeloth-skin-feat-pack|Polymorphed Baeloth Skin & Feat Pack|40|2022-11-11 20h|2022-11-15 20h|
+|36|idle-champions-of-the-forgotten-realms--polymorphed-desmond-skin-feat-pack|Polymorphed Desmond Skin & Feat Pack|40|2022-11-11 20h|2022-11-15 20h|
+|37|idle-champions-of-the-forgotten-realms--polymorphed-farideh-skin-feat-pack|Polymorphed Farideh Skin & Feat Pack|40|2022-11-11 20h|2022-11-15 20h|
+|38|idle-champions-of-the-forgotten-realms--polymorphed-jarlaxle-skin-feat-pack|Polymorphed Jarlaxle Skin & Feat Pack|40|2022-11-17 20h|2022-11-21 20h|
+|39|idle-champions-of-the-forgotten-realms--polymorphed-shaka-skin-feat-pack|Polymorphed Shaka Skin & Feat Pack|40|2022-11-11 20h|2022-11-15 20h|
+|40|idle-champions-of-the-forgotten-realms--polymorphed-tatyana-skin-feat-pack|Polymorphed Tatyana Skin & Feat Pack|40|2022-11-11 20h|2022-11-15 20h|
+|41|saturnalia|Saturnalia|100|2022-10-27 15h|2022-11-03 15h|
+|42|idle-champions-of-the-forgotten-realms--shadowfell-farideh-skin-feat-pack|Shadowfell Farideh Skin & Feat Pack|40|2022-11-04 19h|2022-11-07 20h|
+|43|idle-champions-of-the-forgotten-realms--shadowfell-havilar-skin-feat-pack|Shadowfell Havilar Skin & Feat Pack|40|2022-11-04 19h|2022-11-07 20h|
+|44|idle-champions-of-the-forgotten-realms--shadowfell-mehen-skin-feat-pack|Shadowfell Mehen Skin & Feat Pack|40|2022-11-04 19h|2022-11-07 20h|
+|45|fortnite--shadows-rising-pack|Shadows Rising Pack|50|2022-11-18 15h|2022-11-29 12h|
+|46|somerville-229529|Somerville|10|2022-11-14 00h|2022-11-22 00h|
+|47|space-trader-merchant-marine-0426a8|Space Trader - Merchant Marine|75|2022-10-31 04h|2022-11-07 05h|
+|48|terracotta-72cc62|TERRACOTTA|20|2022-11-07 17h|2023-11-14 17h|
+|49|fortnite--tech-future-pack|Tech Future Pack|50|2022-11-18 15h|2022-11-29 12h|
+|50|the-dark-prophecy-2193c4|The Dark Prophecy|50|2022-10-31 04h|2022-11-07 05h|
+|51|the-riftbreaker|The Riftbreaker|35|2022-11-18 18h|2022-11-29 18h|
+|52|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|35|2022-11-18 18h|2022-11-29 18h|
+|53|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
+|54|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
+|55|true-hate-007027|True Hate|90|2022-11-10 17h|2022-11-28 17h|
+|56|wanderlust-travel-stories-a81f0f|Wanderlust: Travel Stories|50|2022-11-02 04h|2022-11-09 04h|
+|57|warhammer-mechanicus-0e4b71|Warhammer 40,000: Mechanicus - Standard Edition|100|2022-10-27 15h|2022-11-03 15h|
