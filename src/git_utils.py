@@ -4,7 +4,7 @@ LINE_SEPARATOR = '\n'
 ADDITION_PREFIX = '+ '
 DELETION_PREFIX = '- '
 FIELD_SEPARATOR = '"'
-GAME_INDEX = 1
+GAME_INDEX = 2
 
 
 def bytes_to_str(data_as_bytes):
