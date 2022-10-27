@@ -3,9 +3,6 @@ import requests
 from src.data_utils import load_discord_webhook
 from src.git_utils import git_diff, extract_new_games
 
-DISCORD_NEW_HEADER = "🆕👀"
-DISCORD_FREE_HEADER = "🆓👀"
-DISCORD_TROPHY_HEADER = "🏆👀"
 BULLET_POINT_SEPARATOR = f"\n- "
 
 
