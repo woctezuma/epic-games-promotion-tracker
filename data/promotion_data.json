@@ -152,6 +152,14 @@
     "title": "Celeste's Starter Pack"
   },
   {
+    "discountPercentage": 45,
+    "endDate": "2022-12-05T05:00:00.000Z",
+    "isFree": false,
+    "slug": "chains-8ac580",
+    "startDate": "2022-11-28T05:00:00.000Z",
+    "title": "Chains"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2022-11-21T20:00:00.000Z",
     "isFree": false,
@@ -166,14 +174,6 @@
     "slug": "charons-staircase-b2d05f",
     "startDate": "2022-10-28T13:00:00.000Z",
     "title": "Charon's Staircase"
-  },
-  {
-    "discountPercentage": 25,
-    "endDate": "2022-11-02T17:00:00.000Z",
-    "isFree": false,
-    "slug": "citizen-sleeper-944858",
-    "startDate": "2022-10-27T17:00:00.000Z",
-    "title": "Citizen Sleeper"
   },
   {
     "discountPercentage": 40,
@@ -208,14 +208,6 @@
     "title": "Digital Deluxe Edition Upgrade"
   },
   {
-    "discountPercentage": 67,
-    "endDate": "2022-11-01T15:00:00.000Z",
-    "isFree": false,
-    "slug": "fallout-3-game-of-the-year-edition",
-    "startDate": "2022-10-27T15:00:00.000Z",
-    "title": "Fallout 3: Game of the Year Edition"
-  },
-  {
     "discountPercentage": 100,
     "endDate": "2022-11-10T16:00:00.000Z",
     "isFree": true,
@@ -240,6 +232,22 @@
     "title": "Gladiator Havilar Theme Pack"
   },
   {
+    "discountPercentage": 45,
+    "endDate": "2022-11-14T05:00:00.000Z",
+    "isFree": false,
+    "slug": "hirilun-d92aa3",
+    "startDate": "2022-11-07T05:00:00.000Z",
+    "title": "Hirilun"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-11-16T05:00:00.000Z",
+    "isFree": false,
+    "slug": "hunter-girls-96020a",
+    "startDate": "2022-11-09T05:00:00.000Z",
+    "title": "Hunter Girls"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2022-11-21T20:00:00.000Z",
     "isFree": false,
@@ -256,12 +264,12 @@
     "title": "Liberated"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2022-11-03T15:00:00.000Z",
+    "discountPercentage": 45,
+    "endDate": "2022-12-05T05:00:00.000Z",
     "isFree": false,
-    "slug": "maid-of-sker-2ae24e",
-    "startDate": "2022-10-27T15:00:00.000Z",
-    "title": "Maid of Sker"
+    "slug": "maritime-calling-636728",
+    "startDate": "2022-11-28T05:00:00.000Z",
+    "title": "Maritime Calling"
   },
   {
     "discountPercentage": 30,
@@ -304,12 +312,12 @@
     "title": "Paladin Dream"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2022-11-03T15:00:00.000Z",
+    "discountPercentage": 50,
+    "endDate": "2022-11-16T05:00:00.000Z",
     "isFree": false,
-    "slug": "paper-cut-mansion-2c67e2",
-    "startDate": "2022-10-27T15:00:00.000Z",
-    "title": "Paper Cut Mansion"
+    "slug": "paramnesia-a49100",
+    "startDate": "2022-11-09T05:00:00.000Z",
+    "title": "Paramnesia"
   },
   {
     "discountPercentage": 40,
@@ -368,20 +376,12 @@
     "title": "Rising Storm 2: Vietnam"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2022-11-03T15:00:00.000Z",
-    "isFree": true,
-    "slug": "saturnalia",
-    "startDate": "2022-10-27T15:00:00.000Z",
-    "title": "Saturnalia"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2022-11-03T15:00:00.000Z",
-    "isFree": true,
-    "slug": "saturnalia",
-    "startDate": "2022-10-27T15:00:00.000Z",
-    "title": "Saturnalia"
+    "discountPercentage": 75,
+    "endDate": "2022-11-21T05:00:00.000Z",
+    "isFree": false,
+    "slug": "schein-77f039",
+    "startDate": "2022-11-14T05:00:00.000Z",
+    "title": "Schein"
   },
   {
     "discountPercentage": 40,
@@ -430,6 +430,14 @@
     "slug": "space-trader-merchant-marine-0426a8",
     "startDate": "2022-10-31T04:00:00.000Z",
     "title": "Space Trader - Merchant Marine"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2022-12-01T16:00:00.000Z",
+    "isFree": false,
+    "slug": "system-purge-9ab7b7",
+    "startDate": "2022-10-28T15:00:00.000Z",
+    "title": "System Purge"
   },
   {
     "discountPercentage": 20,
@@ -488,6 +496,22 @@
     "title": "The Riftbreaker: Metal Terror"
   },
   {
+    "discountPercentage": 10,
+    "endDate": "2022-11-04T05:00:00.000Z",
+    "isFree": false,
+    "slug": "the-shapeshifting-detective-ef0f21",
+    "startDate": "2022-10-28T05:00:00.000Z",
+    "title": "The Shapeshifting Detective"
+  },
+  {
+    "discountPercentage": 55,
+    "endDate": "2022-11-21T05:00:00.000Z",
+    "isFree": false,
+    "slug": "the-wizard-and-the-slug-482a09",
+    "startDate": "2022-11-14T05:00:00.000Z",
+    "title": "The Wizard and The Slug"
+  },
+  {
     "discountPercentage": 90,
     "endDate": "2022-11-28T17:00:00.000Z",
     "isFree": false,
@@ -504,11 +528,11 @@
     "title": "Wanderlust: Travel Stories"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2022-11-03T15:00:00.000Z",
-    "isFree": true,
-    "slug": "warhammer-mechanicus-0e4b71",
-    "startDate": "2022-10-27T15:00:00.000Z",
-    "title": "Warhammer 40,000: Mechanicus - Standard Edition"
+    "discountPercentage": 60,
+    "endDate": "2022-11-07T17:00:00.000Z",
+    "isFree": false,
+    "slug": "shapez-0929c9",
+    "startDate": "2022-10-31T16:00:00.000Z",
+    "title": "shapez"
   }
 ]
