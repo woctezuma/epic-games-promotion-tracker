@@ -2,6 +2,7 @@ import requests
 
 from src.data_utils import load_discord_webhook
 from src.git_utils import git_diff, extract_new_games
+from src.webhook_utils import to_discord_header
 
 BULLET_POINT_SEPARATOR = f"\n- "
 
@@ -50,3 +51,9 @@ def post_git_diff_to_discord(fname, header, webhook_id=None):
     response = post_message_to_discord(message, webhook_id)
 
     return response
+
+
+def post_git_diff_to_discord_using_keyword(fname, webhook_keyword):
+    header = to_discord_header(webhook_keyword)
+    webhook_id = get_webhook_id(webhook_keyword)
+    return post_git_diff_to_discord(fname, header, webhook_id=webhook_id)
