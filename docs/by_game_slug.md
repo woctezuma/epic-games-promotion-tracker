@@ -1,18 +1,18 @@
 |#|Game Slug|Game Name|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|
 |1|among-trees|Among Trees|50|2022-11-07 14h|2022-11-22 14h|
-|2|arkanoid-eternal-battle-e1b089|Arkanoid - Eternal Battle|10|2022-10-27 04h|2022-11-02 04h|
-|3|away-the-survival-series|AWAY: The Survival Series|60|2022-11-21 17h|2022-12-05 17h|
-|4|banedlc028-02|Celeste's Starter Pack|90|2022-11-17 20h|2022-11-21 20h|
-|5|banedlc028-22|Champions of Renown: Year 2 All-Star Pack|40|2022-11-17 20h|2022-11-21 20h|
-|6|beat-hazard-3-c8ef04|Beat Hazard 3|10|2022-11-14 18h|2022-11-21 18h|
-|7|blazing-beaks-3d4864|Blazing Beaks|75|2022-12-15 15h|2023-01-02 15h|
-|8|blossom-tales-ii-the-minotaur-prince-e74c95|Blossom Tales II The Minotaur Prince|20|2022-11-22 16h|2022-11-29 16h|
-|9|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|79|2022-11-04 04h|2022-11-20 04h|
-|10|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|80|2022-12-16 04h|2023-01-01 04h|
-|11|car-tuning-simulator-38ddaf|Car Tuning Simulator|50|2022-11-05 17h|2022-11-24 17h|
-|12|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
-|13|citizen-sleeper-944858|Citizen Sleeper|25|2022-10-27 17h|2022-11-02 17h|
+|2|away-the-survival-series|AWAY: The Survival Series|60|2022-11-21 17h|2022-12-05 17h|
+|3|banedlc028-02|Celeste's Starter Pack|90|2022-11-17 20h|2022-11-21 20h|
+|4|banedlc028-22|Champions of Renown: Year 2 All-Star Pack|40|2022-11-17 20h|2022-11-21 20h|
+|5|beat-hazard-3-c8ef04|Beat Hazard 3|10|2022-11-14 18h|2022-11-21 18h|
+|6|blazing-beaks-3d4864|Blazing Beaks|75|2022-12-15 15h|2023-01-02 15h|
+|7|blossom-tales-ii-the-minotaur-prince-e74c95|Blossom Tales II The Minotaur Prince|20|2022-11-22 16h|2022-11-29 16h|
+|8|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|79|2022-11-04 04h|2022-11-20 04h|
+|9|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|80|2022-12-16 04h|2023-01-01 04h|
+|10|car-tuning-simulator-38ddaf|Car Tuning Simulator|50|2022-11-05 17h|2022-11-24 17h|
+|11|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
+|12|citizen-sleeper-944858|Citizen Sleeper|25|2022-10-27 17h|2022-11-02 17h|
+|13|danger-forever-a10e7e|Danger Forever|20|2022-11-01 04h|2022-11-08 04h|
 |14|dark-light|Dark Light|22|2022-11-10 15h|2022-11-22 15h|
 |15|fallout-3-game-of-the-year-edition|Fallout 3: Game of the Year Edition|67|2022-10-27 15h|2022-11-01 15h|
 |16|filament-332a92|Filament|100|2022-11-03 15h|2022-11-10 16h|
@@ -44,19 +44,21 @@
 |42|idle-champions-of-the-forgotten-realms--shadowfell-mehen-skin-feat-pack|Shadowfell Mehen Skin & Feat Pack|40|2022-11-04 19h|2022-11-07 20h|
 |43|liberated-f13008|Liberated|50|2022-11-11 05h|2022-11-18 05h|
 |44|maid-of-sker-2ae24e|Maid of Sker|20|2022-10-27 15h|2022-11-03 15h|
-|45|necroworm-5784e5|NecroWorm|50|2022-11-04 04h|2022-11-11 05h|
-|46|paper-cut-mansion-2c67e2|Paper Cut Mansion|10|2022-10-27 15h|2022-11-03 15h|
-|47|rising-storm-2-vietnam|Rising Storm 2: Vietnam|100|2022-11-03 15h|2022-11-10 16h|
-|48|rising-storm-2-vietnam--digital-deluxe-edition-upgrade|Digital Deluxe Edition Upgrade|75|2022-11-03 15h|2022-11-17 16h|
-|49|saturnalia|Saturnalia|100|2022-10-27 15h|2022-11-03 15h|
-|50|somerville-229529|Somerville|10|2022-11-14 00h|2022-11-22 00h|
-|51|space-trader-merchant-marine-0426a8|Space Trader - Merchant Marine|75|2022-10-31 04h|2022-11-07 05h|
-|52|terracotta-72cc62|TERRACOTTA|20|2022-11-07 17h|2023-11-14 17h|
-|53|the-dark-prophecy-2193c4|The Dark Prophecy|50|2022-10-31 04h|2022-11-07 05h|
-|54|the-riftbreaker|The Riftbreaker|35|2022-11-18 18h|2022-11-29 18h|
-|55|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|35|2022-11-18 18h|2022-11-29 18h|
-|56|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
-|57|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
-|58|true-hate-007027|True Hate|90|2022-11-10 17h|2022-11-28 17h|
-|59|wanderlust-travel-stories-a81f0f|Wanderlust: Travel Stories|50|2022-11-02 04h|2022-11-09 04h|
-|60|warhammer-mechanicus-0e4b71|Warhammer 40,000: Mechanicus - Standard Edition|100|2022-10-27 15h|2022-11-03 15h|
+|45|monster-harvest-75f018|Monster Harvest|40|2022-10-31 13h|2023-10-15 13h|
+|46|necroworm-5784e5|NecroWorm|50|2022-11-04 04h|2022-11-11 05h|
+|47|paladin-dream-5d04e2|Paladin Dream|55|2022-11-07 05h|2022-11-14 05h|
+|48|paper-cut-mansion-2c67e2|Paper Cut Mansion|10|2022-10-27 15h|2022-11-03 15h|
+|49|rising-storm-2-vietnam|Rising Storm 2: Vietnam|100|2022-11-03 15h|2022-11-10 16h|
+|50|rising-storm-2-vietnam--digital-deluxe-edition-upgrade|Digital Deluxe Edition Upgrade|75|2022-11-03 15h|2022-11-17 16h|
+|51|saturnalia|Saturnalia|100|2022-10-27 15h|2022-11-03 15h|
+|52|somerville-229529|Somerville|10|2022-11-14 00h|2022-11-22 00h|
+|53|space-trader-merchant-marine-0426a8|Space Trader - Merchant Marine|75|2022-10-31 04h|2022-11-07 05h|
+|54|terracotta-72cc62|TERRACOTTA|20|2022-11-07 17h|2023-11-14 17h|
+|55|the-dark-prophecy-2193c4|The Dark Prophecy|50|2022-10-31 04h|2022-11-07 05h|
+|56|the-riftbreaker|The Riftbreaker|35|2022-11-18 18h|2022-11-29 18h|
+|57|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|35|2022-11-18 18h|2022-11-29 18h|
+|58|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
+|59|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
+|60|true-hate-007027|True Hate|90|2022-11-10 17h|2022-11-28 17h|
+|61|wanderlust-travel-stories-a81f0f|Wanderlust: Travel Stories|50|2022-11-02 04h|2022-11-09 04h|
+|62|warhammer-mechanicus-0e4b71|Warhammer 40,000: Mechanicus - Standard Edition|100|2022-10-27 15h|2022-11-03 15h|
