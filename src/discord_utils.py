@@ -9,10 +9,10 @@ DISCORD_TROPHY_HEADER = "🏆👀"
 BULLET_POINT_SEPARATOR = f"\n- "
 
 
-def get_webhook_id():
+def get_webhook_id(webhook_keyword='id'):
     webhook = load_discord_webhook()
     try:
-        webhook_id = webhook['id']
+        webhook_id = webhook[webhook_keyword]
     except KeyError:
         webhook_id = None
     return webhook_id
