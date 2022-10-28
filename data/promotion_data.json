@@ -168,14 +168,6 @@
     "title": "Champions of Renown: Year 2 All-Star Pack"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2022-10-29T13:00:00.000Z",
-    "isFree": false,
-    "slug": "charons-staircase-b2d05f",
-    "startDate": "2022-10-28T13:00:00.000Z",
-    "title": "Charon's Staircase"
-  },
-  {
     "discountPercentage": 40,
     "endDate": "2022-11-15T20:00:00.000Z",
     "isFree": false,
@@ -438,14 +430,6 @@
     "slug": "space-trader-merchant-marine-0426a8",
     "startDate": "2022-10-31T04:00:00.000Z",
     "title": "Space Trader - Merchant Marine"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2022-12-01T16:00:00.000Z",
-    "isFree": false,
-    "slug": "system-purge-9ab7b7",
-    "startDate": "2022-10-28T15:00:00.000Z",
-    "title": "System Purge"
   },
   {
     "discountPercentage": 20,
