@@ -60,9 +60,7 @@
 |58|dark-light|Dark Light|22|2022-11-10 15h|2022-11-22 15h|
 |59|blossom-tales-ii-the-minotaur-prince-e74c95|Blossom Tales II The Minotaur Prince|20|2022-11-22 16h|2022-11-29 16h|
 |60|danger-forever-a10e7e|Danger Forever|20|2022-11-01 04h|2022-11-08 04h|
-|61|system-purge-9ab7b7|System Purge|20|2022-10-28 15h|2022-12-01 16h|
-|62|terracotta-72cc62|TERRACOTTA|20|2022-11-07 17h|2023-11-14 17h|
-|63|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
-|64|beat-hazard-3-c8ef04|Beat Hazard 3|10|2022-11-14 18h|2022-11-21 18h|
-|65|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
-|66|somerville-229529|Somerville|10|2022-11-14 00h|2022-11-22 00h|
+|61|terracotta-72cc62|TERRACOTTA|20|2022-11-07 17h|2023-11-14 17h|
+|62|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
+|63|beat-hazard-3-c8ef04|Beat Hazard 3|10|2022-11-14 18h|2022-11-21 18h|
+|64|somerville-229529|Somerville|10|2022-11-14 00h|2022-11-22 00h|
