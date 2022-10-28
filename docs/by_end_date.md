@@ -1,27 +1,27 @@
 |#|Game Slug|Game Name|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|
 |1|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
-|2|the-shapeshifting-detective-ef0f21|The Shapeshifting Detective|10|2022-10-28 05h|2022-11-04 05h|
-|3|space-trader-merchant-marine-0426a8|Space Trader - Merchant Marine|75|2022-10-31 04h|2022-11-07 05h|
-|4|the-dark-prophecy-2193c4|The Dark Prophecy|50|2022-10-31 04h|2022-11-07 05h|
-|5|shapez-0929c9|shapez|60|2022-10-31 16h|2022-11-07 17h|
-|6|idle-champions-of-the-forgotten-realms--ascendant-evelyn-skin-and-feat-pack|Ascendant Evelyn Skin & Feat Pack|40|2022-11-04 19h|2022-11-07 20h|
-|7|idle-champions-of-the-forgotten-realms--ascendant-melf-skin-and-feat-pack|Ascendant Melf Skin & Feat Pack|40|2022-11-04 19h|2022-11-07 20h|
-|8|idle-champions-of-the-forgotten-realms--ascendant-strix-skin-and-feat-pack|Ascendant Strix Skin & Feat Pack|40|2022-11-04 19h|2022-11-07 20h|
-|9|idle-champions-of-the-forgotten-realms--ascendant-walnut-skin-and-feat-pack|Ascendant Walnut Skin & Feat Pack|40|2022-11-04 19h|2022-11-07 20h|
-|10|idle-champions-of-the-forgotten-realms--brimstone-angels-shadowfell-bundle-pack|Brimstone Angels Shadowfell Bundle Pack|40|2022-11-04 19h|2022-11-07 20h|
-|11|idle-champions-of-the-forgotten-realms--gladiator-havilar-theme-pack|Gladiator Havilar Theme Pack|40|2022-11-04 19h|2022-11-07 20h|
-|12|idle-champions-of-the-forgotten-realms--marmadark-the-pup-of-ill-omens-familiar-pack|Marmadark the Pup of Ill Omens Familiar Pack|30|2022-11-04 19h|2022-11-07 20h|
-|13|idle-champions-of-the-forgotten-realms--shadowfell-farideh-skin-feat-pack|Shadowfell Farideh Skin & Feat Pack|40|2022-11-04 19h|2022-11-07 20h|
-|14|idle-champions-of-the-forgotten-realms--shadowfell-havilar-skin-feat-pack|Shadowfell Havilar Skin & Feat Pack|40|2022-11-04 19h|2022-11-07 20h|
-|15|idle-champions-of-the-forgotten-realms--shadowfell-mehen-skin-feat-pack|Shadowfell Mehen Skin & Feat Pack|40|2022-11-04 19h|2022-11-07 20h|
-|16|danger-forever-a10e7e|Danger Forever|20|2022-11-01 04h|2022-11-08 04h|
-|17|wanderlust-travel-stories-a81f0f|Wanderlust: Travel Stories|50|2022-11-02 04h|2022-11-09 04h|
-|18|filament-332a92|Filament|100|2022-11-03 15h|2022-11-10 16h|
-|19|rising-storm-2-vietnam|Rising Storm 2: Vietnam|100|2022-11-03 15h|2022-11-10 16h|
-|20|necroworm-5784e5|NecroWorm|50|2022-11-04 04h|2022-11-11 05h|
-|21|hirilun-d92aa3|Hirilun|45|2022-11-07 05h|2022-11-14 05h|
-|22|paladin-dream-5d04e2|Paladin Dream|55|2022-11-07 05h|2022-11-14 05h|
+|2|space-trader-merchant-marine-0426a8|Space Trader - Merchant Marine|75|2022-10-31 04h|2022-11-07 05h|
+|3|the-dark-prophecy-2193c4|The Dark Prophecy|50|2022-10-31 04h|2022-11-07 05h|
+|4|shapez-0929c9|shapez|60|2022-10-31 16h|2022-11-07 17h|
+|5|idle-champions-of-the-forgotten-realms--ascendant-evelyn-skin-and-feat-pack|Ascendant Evelyn Skin & Feat Pack|40|2022-11-04 19h|2022-11-07 20h|
+|6|idle-champions-of-the-forgotten-realms--ascendant-melf-skin-and-feat-pack|Ascendant Melf Skin & Feat Pack|40|2022-11-04 19h|2022-11-07 20h|
+|7|idle-champions-of-the-forgotten-realms--ascendant-strix-skin-and-feat-pack|Ascendant Strix Skin & Feat Pack|40|2022-11-04 19h|2022-11-07 20h|
+|8|idle-champions-of-the-forgotten-realms--ascendant-walnut-skin-and-feat-pack|Ascendant Walnut Skin & Feat Pack|40|2022-11-04 19h|2022-11-07 20h|
+|9|idle-champions-of-the-forgotten-realms--brimstone-angels-shadowfell-bundle-pack|Brimstone Angels Shadowfell Bundle Pack|40|2022-11-04 19h|2022-11-07 20h|
+|10|idle-champions-of-the-forgotten-realms--gladiator-havilar-theme-pack|Gladiator Havilar Theme Pack|40|2022-11-04 19h|2022-11-07 20h|
+|11|idle-champions-of-the-forgotten-realms--marmadark-the-pup-of-ill-omens-familiar-pack|Marmadark the Pup of Ill Omens Familiar Pack|30|2022-11-04 19h|2022-11-07 20h|
+|12|idle-champions-of-the-forgotten-realms--shadowfell-farideh-skin-feat-pack|Shadowfell Farideh Skin & Feat Pack|40|2022-11-04 19h|2022-11-07 20h|
+|13|idle-champions-of-the-forgotten-realms--shadowfell-havilar-skin-feat-pack|Shadowfell Havilar Skin & Feat Pack|40|2022-11-04 19h|2022-11-07 20h|
+|14|idle-champions-of-the-forgotten-realms--shadowfell-mehen-skin-feat-pack|Shadowfell Mehen Skin & Feat Pack|40|2022-11-04 19h|2022-11-07 20h|
+|15|danger-forever-a10e7e|Danger Forever|20|2022-11-01 04h|2022-11-08 04h|
+|16|wanderlust-travel-stories-a81f0f|Wanderlust: Travel Stories|50|2022-11-02 04h|2022-11-09 04h|
+|17|filament-332a92|Filament|100|2022-11-03 15h|2022-11-10 16h|
+|18|rising-storm-2-vietnam|Rising Storm 2: Vietnam|100|2022-11-03 15h|2022-11-10 16h|
+|19|necroworm-5784e5|NecroWorm|50|2022-11-04 04h|2022-11-11 05h|
+|20|hirilun-d92aa3|Hirilun|45|2022-11-07 05h|2022-11-14 05h|
+|21|paladin-dream-5d04e2|Paladin Dream|55|2022-11-07 05h|2022-11-14 05h|
+|22|cyber-hook-064d2c|Cyber Hook|25|2022-11-01 15h|2022-11-15 16h|
 |23|idle-champions-of-the-forgotten-realms--colonel-pest-the-pest-mascot-familiar-pack|Colonel Pest the Pest Mascot Familiar Pack|40|2022-11-11 20h|2022-11-15 20h|
 |24|idle-champions-of-the-forgotten-realms--polymorphed-baeloth-skin-feat-pack|Polymorphed Baeloth Skin & Feat Pack|40|2022-11-11 20h|2022-11-15 20h|
 |25|idle-champions-of-the-forgotten-realms--polymorphed-desmond-skin-feat-pack|Polymorphed Desmond Skin & Feat Pack|40|2022-11-11 20h|2022-11-15 20h|

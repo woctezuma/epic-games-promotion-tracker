@@ -1,13 +1,13 @@
 |#|Game Slug|Game Name|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|
-|1|the-shapeshifting-detective-ef0f21|The Shapeshifting Detective|10|2022-10-28 05h|2022-11-04 05h|
-|2|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
-|3|system-purge-9ab7b7|System Purge|20|2022-10-28 15h|2022-12-01 16h|
-|4|space-trader-merchant-marine-0426a8|Space Trader - Merchant Marine|75|2022-10-31 04h|2022-11-07 05h|
-|5|the-dark-prophecy-2193c4|The Dark Prophecy|50|2022-10-31 04h|2022-11-07 05h|
-|6|monster-harvest-75f018|Monster Harvest|40|2022-10-31 13h|2023-10-15 13h|
-|7|shapez-0929c9|shapez|60|2022-10-31 16h|2022-11-07 17h|
-|8|danger-forever-a10e7e|Danger Forever|20|2022-11-01 04h|2022-11-08 04h|
+|1|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
+|2|system-purge-9ab7b7|System Purge|20|2022-10-28 15h|2022-12-01 16h|
+|3|space-trader-merchant-marine-0426a8|Space Trader - Merchant Marine|75|2022-10-31 04h|2022-11-07 05h|
+|4|the-dark-prophecy-2193c4|The Dark Prophecy|50|2022-10-31 04h|2022-11-07 05h|
+|5|monster-harvest-75f018|Monster Harvest|40|2022-10-31 13h|2023-10-15 13h|
+|6|shapez-0929c9|shapez|60|2022-10-31 16h|2022-11-07 17h|
+|7|danger-forever-a10e7e|Danger Forever|20|2022-11-01 04h|2022-11-08 04h|
+|8|cyber-hook-064d2c|Cyber Hook|25|2022-11-01 15h|2022-11-15 16h|
 |9|wanderlust-travel-stories-a81f0f|Wanderlust: Travel Stories|50|2022-11-02 04h|2022-11-09 04h|
 |10|rising-storm-2-vietnam--digital-deluxe-edition-upgrade|Digital Deluxe Edition Upgrade|75|2022-11-03 15h|2022-11-17 16h|
 |11|filament-332a92|Filament|100|2022-11-03 15h|2022-11-10 16h|

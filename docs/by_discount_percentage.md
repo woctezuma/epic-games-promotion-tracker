@@ -55,14 +55,14 @@
 |53|idle-champions-of-the-forgotten-realms--beeples-dob-skin-feat-pack|Beeples Dob Skin & Feat Pack|30|2022-11-17 20h|2022-11-21 20h|
 |54|idle-champions-of-the-forgotten-realms--blight-druid-voronika-theme-pack|Blight Druid Voronika Theme Pack|30|2022-11-17 20h|2022-11-21 20h|
 |55|idle-champions-of-the-forgotten-realms--marmadark-the-pup-of-ill-omens-familiar-pack|Marmadark the Pup of Ill Omens Familiar Pack|30|2022-11-04 19h|2022-11-07 20h|
-|56|gigabash|GigaBash|25|2022-11-22 18h|2022-11-29 18h|
-|57|dark-light|Dark Light|22|2022-11-10 15h|2022-11-22 15h|
-|58|blossom-tales-ii-the-minotaur-prince-e74c95|Blossom Tales II The Minotaur Prince|20|2022-11-22 16h|2022-11-29 16h|
-|59|danger-forever-a10e7e|Danger Forever|20|2022-11-01 04h|2022-11-08 04h|
-|60|system-purge-9ab7b7|System Purge|20|2022-10-28 15h|2022-12-01 16h|
-|61|terracotta-72cc62|TERRACOTTA|20|2022-11-07 17h|2023-11-14 17h|
-|62|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
-|63|beat-hazard-3-c8ef04|Beat Hazard 3|10|2022-11-14 18h|2022-11-21 18h|
-|64|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
-|65|somerville-229529|Somerville|10|2022-11-14 00h|2022-11-22 00h|
-|66|the-shapeshifting-detective-ef0f21|The Shapeshifting Detective|10|2022-10-28 05h|2022-11-04 05h|
+|56|cyber-hook-064d2c|Cyber Hook|25|2022-11-01 15h|2022-11-15 16h|
+|57|gigabash|GigaBash|25|2022-11-22 18h|2022-11-29 18h|
+|58|dark-light|Dark Light|22|2022-11-10 15h|2022-11-22 15h|
+|59|blossom-tales-ii-the-minotaur-prince-e74c95|Blossom Tales II The Minotaur Prince|20|2022-11-22 16h|2022-11-29 16h|
+|60|danger-forever-a10e7e|Danger Forever|20|2022-11-01 04h|2022-11-08 04h|
+|61|system-purge-9ab7b7|System Purge|20|2022-10-28 15h|2022-12-01 16h|
+|62|terracotta-72cc62|TERRACOTTA|20|2022-11-07 17h|2023-11-14 17h|
+|63|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
+|64|beat-hazard-3-c8ef04|Beat Hazard 3|10|2022-11-14 18h|2022-11-21 18h|
+|65|charons-staircase-b2d05f|Charon's Staircase|10|2022-10-28 13h|2022-10-29 13h|
+|66|somerville-229529|Somerville|10|2022-11-14 00h|2022-11-22 00h|
