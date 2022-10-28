@@ -184,6 +184,14 @@
     "title": "Colonel Pest the Pest Mascot Familiar Pack"
   },
   {
+    "discountPercentage": 25,
+    "endDate": "2022-11-15T16:00:00.000Z",
+    "isFree": false,
+    "slug": "cyber-hook-064d2c",
+    "startDate": "2022-11-01T15:00:00.000Z",
+    "title": "Cyber Hook"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2022-11-08T04:00:00.000Z",
     "isFree": false,
@@ -494,14 +502,6 @@
     "slug": "the-riftbreaker--metal-terror",
     "startDate": "2022-11-18T18:00:00.000Z",
     "title": "The Riftbreaker: Metal Terror"
-  },
-  {
-    "discountPercentage": 10,
-    "endDate": "2022-11-04T05:00:00.000Z",
-    "isFree": false,
-    "slug": "the-shapeshifting-detective-ef0f21",
-    "startDate": "2022-10-28T05:00:00.000Z",
-    "title": "The Shapeshifting Detective"
   },
   {
     "discountPercentage": 55,
