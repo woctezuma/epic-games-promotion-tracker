@@ -424,14 +424,6 @@
     "title": "Somerville"
   },
   {
-    "discountPercentage": 75,
-    "endDate": "2022-11-07T05:00:00.000Z",
-    "isFree": false,
-    "slug": "space-trader-merchant-marine-0426a8",
-    "startDate": "2022-10-31T04:00:00.000Z",
-    "title": "Space Trader - Merchant Marine"
-  },
-  {
     "discountPercentage": 20,
     "endDate": "2023-11-14T17:00:00.000Z",
     "isFree": false,
@@ -446,14 +438,6 @@
     "slug": "fortnite--tech-future-pack",
     "startDate": "2022-11-18T15:51:00.000Z",
     "title": "Tech Future Pack"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2022-11-07T05:00:00.000Z",
-    "isFree": false,
-    "slug": "the-dark-prophecy-2193c4",
-    "startDate": "2022-10-31T04:00:00.000Z",
-    "title": "The Dark Prophecy"
   },
   {
     "discountPercentage": 35,
