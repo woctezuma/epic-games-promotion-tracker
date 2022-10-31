@@ -1,6 +1,6 @@
 |#|Game Slug|Game Name|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|
-|1|monster-harvest-75f018|Monster Harvest|40|2022-10-31 13h|2023-10-15 13h|
+|1|tormented-souls|Tormented Souls|20|2022-10-31 14h|2022-11-07 15h|
 |2|shapez-0929c9|shapez|60|2022-10-31 16h|2022-11-07 17h|
 |3|danger-forever-a10e7e|Danger Forever|20|2022-11-01 04h|2022-11-08 04h|
 |4|cyber-hook-064d2c|Cyber Hook|25|2022-11-01 15h|2022-11-15 16h|
