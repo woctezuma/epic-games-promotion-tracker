@@ -58,7 +58,5 @@
 |56|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
 |57|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
 |58|the-wizard-and-the-slug-482a09|The Wizard and The Slug|55|2022-11-14 05h|2022-11-21 05h|
-|59|tormented-souls|Tormented Souls|20|2022-10-31 14h|2022-11-07 15h|
-|60|true-hate-007027|True Hate|90|2022-11-10 17h|2022-11-28 17h|
-|61|wanderlust-travel-stories-a81f0f|Wanderlust: Travel Stories|50|2022-11-02 04h|2022-11-09 04h|
-|62|shapez-0929c9|shapez|60|2022-10-31 16h|2022-11-07 17h|
+|59|true-hate-007027|True Hate|90|2022-11-10 17h|2022-11-28 17h|
+|60|wanderlust-travel-stories-a81f0f|Wanderlust: Travel Stories|50|2022-11-02 04h|2022-11-09 04h|
