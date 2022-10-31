@@ -54,13 +54,11 @@
 |52|schein-77f039|Schein|75|2022-11-14 05h|2022-11-21 05h|
 |53|shapez-0929c9|shapez|60|2022-10-31 16h|2022-11-07 17h|
 |54|somerville-229529|Somerville|10|2022-11-14 00h|2022-11-22 00h|
-|55|space-trader-merchant-marine-0426a8|Space Trader - Merchant Marine|75|2022-10-31 04h|2022-11-07 05h|
-|56|terracotta-72cc62|TERRACOTTA|20|2022-11-07 17h|2023-11-14 17h|
-|57|the-dark-prophecy-2193c4|The Dark Prophecy|50|2022-10-31 04h|2022-11-07 05h|
-|58|the-riftbreaker|The Riftbreaker|35|2022-11-18 18h|2022-11-29 18h|
-|59|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|35|2022-11-18 18h|2022-11-29 18h|
-|60|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
-|61|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
-|62|the-wizard-and-the-slug-482a09|The Wizard and The Slug|55|2022-11-14 05h|2022-11-21 05h|
-|63|true-hate-007027|True Hate|90|2022-11-10 17h|2022-11-28 17h|
-|64|wanderlust-travel-stories-a81f0f|Wanderlust: Travel Stories|50|2022-11-02 04h|2022-11-09 04h|
+|55|terracotta-72cc62|TERRACOTTA|20|2022-11-07 17h|2023-11-14 17h|
+|56|the-riftbreaker|The Riftbreaker|35|2022-11-18 18h|2022-11-29 18h|
+|57|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|35|2022-11-18 18h|2022-11-29 18h|
+|58|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
+|59|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
+|60|the-wizard-and-the-slug-482a09|The Wizard and The Slug|55|2022-11-14 05h|2022-11-21 05h|
+|61|true-hate-007027|True Hate|90|2022-11-10 17h|2022-11-28 17h|
+|62|wanderlust-travel-stories-a81f0f|Wanderlust: Travel Stories|50|2022-11-02 04h|2022-11-09 04h|

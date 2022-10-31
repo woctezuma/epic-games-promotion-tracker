@@ -52,15 +52,13 @@
 |50|idle-champions-of-the-forgotten-realms--shadowfell-mehen-skin-feat-pack|Shadowfell Mehen Skin & Feat Pack|40|2022-11-04 19h|2022-11-07 20h|
 |51|fortnite--shadows-rising-pack|Shadows Rising Pack|50|2022-11-18 15h|2022-11-29 12h|
 |52|somerville-229529|Somerville|10|2022-11-14 00h|2022-11-22 00h|
-|53|space-trader-merchant-marine-0426a8|Space Trader - Merchant Marine|75|2022-10-31 04h|2022-11-07 05h|
-|54|terracotta-72cc62|TERRACOTTA|20|2022-11-07 17h|2023-11-14 17h|
-|55|fortnite--tech-future-pack|Tech Future Pack|50|2022-11-18 15h|2022-11-29 12h|
-|56|the-dark-prophecy-2193c4|The Dark Prophecy|50|2022-10-31 04h|2022-11-07 05h|
-|57|the-riftbreaker|The Riftbreaker|35|2022-11-18 18h|2022-11-29 18h|
-|58|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|35|2022-11-18 18h|2022-11-29 18h|
-|59|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
-|60|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
-|61|the-wizard-and-the-slug-482a09|The Wizard and The Slug|55|2022-11-14 05h|2022-11-21 05h|
-|62|true-hate-007027|True Hate|90|2022-11-10 17h|2022-11-28 17h|
-|63|wanderlust-travel-stories-a81f0f|Wanderlust: Travel Stories|50|2022-11-02 04h|2022-11-09 04h|
-|64|shapez-0929c9|shapez|60|2022-10-31 16h|2022-11-07 17h|
+|53|terracotta-72cc62|TERRACOTTA|20|2022-11-07 17h|2023-11-14 17h|
+|54|fortnite--tech-future-pack|Tech Future Pack|50|2022-11-18 15h|2022-11-29 12h|
+|55|the-riftbreaker|The Riftbreaker|35|2022-11-18 18h|2022-11-29 18h|
+|56|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|35|2022-11-18 18h|2022-11-29 18h|
+|57|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|35|2022-11-18 18h|2022-11-29 18h|
+|58|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|20|2022-11-18 18h|2022-11-29 18h|
+|59|the-wizard-and-the-slug-482a09|The Wizard and The Slug|55|2022-11-14 05h|2022-11-21 05h|
+|60|true-hate-007027|True Hate|90|2022-11-10 17h|2022-11-28 17h|
+|61|wanderlust-travel-stories-a81f0f|Wanderlust: Travel Stories|50|2022-11-02 04h|2022-11-09 04h|
+|62|shapez-0929c9|shapez|60|2022-10-31 16h|2022-11-07 17h|
