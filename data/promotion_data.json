@@ -288,14 +288,6 @@
     "title": "Minty Legends Pack"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2023-10-15T13:00:00.000Z",
-    "isFree": false,
-    "slug": "monster-harvest-75f018",
-    "startDate": "2022-10-31T13:00:00.000Z",
-    "title": "Monster Harvest"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2022-11-11T05:00:00.000Z",
     "isFree": false,
@@ -478,6 +470,14 @@
     "slug": "the-wizard-and-the-slug-482a09",
     "startDate": "2022-11-14T05:00:00.000Z",
     "title": "The Wizard and The Slug"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2022-11-07T15:00:00.000Z",
+    "isFree": false,
+    "slug": "tormented-souls",
+    "startDate": "2022-10-31T14:00:00.000Z",
+    "title": "Tormented Souls"
   },
   {
     "discountPercentage": 90,
