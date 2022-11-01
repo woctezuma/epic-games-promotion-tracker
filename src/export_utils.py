@@ -40,4 +40,7 @@ def write_markdown_files(data):
     sorted_data = sorted(data, key=lambda x: (-x["discountPercentage"], x["title"], x["startDate"]))
     write_data_to_disk(sorted_data, f"{OUTPUT_FOLDER}/by_discount_percentage.md")
 
+    sorted_data = sorted(data, key=lambda x: (-x["originalPrice"], x["title"], x["startDate"]))
+    write_data_to_disk(sorted_data, f"{OUTPUT_FOLDER}/by_base_price.md")
+
     return
