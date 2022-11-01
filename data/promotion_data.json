@@ -1,5 +1,13 @@
 [
   {
+    "discountPercentage": 90,
+    "endDate": "2022-11-08T15:00:00.000Z",
+    "isFree": false,
+    "slug": "aer-memories-of-old",
+    "startDate": "2022-11-01T15:00:00.000Z",
+    "title": "AER Memories of Old"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2022-12-05T17:00:00.000Z",
     "isFree": false,
@@ -176,6 +184,14 @@
     "title": "Colonel Pest the Pest Mascot Familiar Pack"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2022-11-08T15:00:00.000Z",
+    "isFree": false,
+    "slug": "cryofall-331358",
+    "startDate": "2022-11-01T15:00:00.000Z",
+    "title": "CryoFall"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2022-11-15T16:00:00.000Z",
     "isFree": false,
@@ -184,20 +200,20 @@
     "title": "Cyber Hook"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2022-11-08T04:00:00.000Z",
-    "isFree": false,
-    "slug": "danger-forever-a10e7e",
-    "startDate": "2022-11-01T04:00:00.000Z",
-    "title": "Danger Forever"
-  },
-  {
     "discountPercentage": 22,
     "endDate": "2022-11-22T15:00:00.000Z",
     "isFree": false,
     "slug": "dark-light",
     "startDate": "2022-11-10T15:00:00.000Z",
     "title": "Dark Light"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2022-11-08T15:00:00.000Z",
+    "isFree": false,
+    "slug": "deponia-the-complete-journey",
+    "startDate": "2022-11-01T15:00:00.000Z",
+    "title": "Deponia: The Complete Journey"
   },
   {
     "discountPercentage": 75,
@@ -246,6 +262,54 @@
     "slug": "hunter-girls-96020a",
     "startDate": "2022-11-09T05:00:00.000Z",
     "title": "Hunter Girls"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2022-11-08T15:00:00.000Z",
+    "isFree": false,
+    "slug": "insurmountable-b02c31",
+    "startDate": "2022-11-01T15:00:00.000Z",
+    "title": "Insurmountable"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-11-08T15:00:00.000Z",
+    "isFree": false,
+    "slug": "insurmountable-official-soundtrack-13ef00",
+    "startDate": "2022-11-01T15:00:00.000Z",
+    "title": "Insurmountable - Supporter Pack"
+  },
+  {
+    "discountPercentage": 59,
+    "endDate": "2022-11-08T15:00:00.000Z",
+    "isFree": false,
+    "slug": "insurmountable-supporter-pack-edition",
+    "startDate": "2022-11-01T15:00:00.000Z",
+    "title": "Insurmountable Supporter Bundle"
+  },
+  {
+    "discountPercentage": 85,
+    "endDate": "2022-11-08T15:00:00.000Z",
+    "isFree": false,
+    "slug": "iron-danger-b4320c",
+    "startDate": "2022-11-01T15:00:00.000Z",
+    "title": "Iron Danger"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2022-11-08T15:00:00.000Z",
+    "isFree": false,
+    "slug": "jars-e39063",
+    "startDate": "2022-11-01T15:00:00.000Z",
+    "title": "JARS"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2022-11-08T15:00:00.000Z",
+    "isFree": false,
+    "slug": "ken-follets-the-pillars-of-the-earth",
+    "startDate": "2022-11-01T15:00:00.000Z",
+    "title": "Ken Follett's The Pillars of the Earth"
   },
   {
     "discountPercentage": 40,
@@ -312,6 +376,14 @@
     "title": "Paramnesia"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2022-11-08T15:00:00.000Z",
+    "isFree": false,
+    "slug": "partisans-1941",
+    "startDate": "2022-11-01T15:00:00.000Z",
+    "title": "Partisans 1941"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2022-11-15T20:00:00.000Z",
     "isFree": false,
@@ -374,6 +446,54 @@
     "slug": "schein-77f039",
     "startDate": "2022-11-14T05:00:00.000Z",
     "title": "Schein"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2022-11-08T15:00:00.000Z",
+    "isFree": false,
+    "slug": "shadow-tactics",
+    "startDate": "2022-11-01T15:00:00.000Z",
+    "title": "Shadow Tactics"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2022-11-08T15:00:00.000Z",
+    "isFree": false,
+    "slug": "shadow-tactics-aikos-choice-5678c1",
+    "startDate": "2022-11-01T15:00:00.000Z",
+    "title": "Shadow Tactics - Aiko's Choice"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-11-08T15:00:00.000Z",
+    "isFree": false,
+    "slug": "shadow-tactics-aikos-choice-shadow-tactics-aikos-choice-soundtrack-51ab32",
+    "startDate": "2022-11-01T15:00:00.000Z",
+    "title": "Shadow Tactics: Aiko's Choice - Soundtrack"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2022-11-08T15:00:00.000Z",
+    "isFree": false,
+    "slug": "shadow-tactics",
+    "startDate": "2022-11-01T15:00:00.000Z",
+    "title": "Shadow Tactics: Blades of the Shogun"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2022-11-08T15:00:00.000Z",
+    "isFree": false,
+    "slug": "shadow-tactics--artbook-and-guide",
+    "startDate": "2022-11-01T15:00:00.000Z",
+    "title": "Shadow Tactics: Blades of the Shogun - Artbook & Strategy Guide"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2022-11-08T15:00:00.000Z",
+    "isFree": false,
+    "slug": "shadow-tactics--soundtrack",
+    "startDate": "2022-11-01T15:00:00.000Z",
+    "title": "Shadow Tactics: Blades of the Shogun - Soundtrack"
   },
   {
     "discountPercentage": 40,
@@ -464,6 +584,14 @@
     "title": "The Riftbreaker: Metal Terror"
   },
   {
+    "discountPercentage": 85,
+    "endDate": "2022-11-08T15:00:00.000Z",
+    "isFree": false,
+    "slug": "the-suicide-of-rachel-foster-1dc01b",
+    "startDate": "2022-11-01T15:00:00.000Z",
+    "title": "The Suicide of Rachel Foster"
+  },
+  {
     "discountPercentage": 55,
     "endDate": "2022-11-21T05:00:00.000Z",
     "isFree": false,
@@ -480,11 +608,91 @@
     "title": "True Hate"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2022-11-08T15:00:00.000Z",
+    "isFree": false,
+    "slug": "unrailed-e19729",
+    "startDate": "2022-11-01T15:00:00.000Z",
+    "title": "Unrailed!"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-11-08T15:00:00.000Z",
+    "isFree": false,
+    "slug": "unrailed-supporter-bundle",
+    "startDate": "2022-11-01T15:00:00.000Z",
+    "title": "Unrailed! - Supporter Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-11-08T15:00:00.000Z",
+    "isFree": false,
+    "slug": "velone-3c0487",
+    "startDate": "2022-11-01T15:00:00.000Z",
+    "title": "VELONE"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2022-11-08T15:00:00.000Z",
+    "isFree": false,
+    "slug": "velone-velone-supporter-pack-f675b9",
+    "startDate": "2022-11-01T15:00:00.000Z",
+    "title": "VELONE - Supporter Pack"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2022-11-09T04:00:00.000Z",
     "isFree": false,
     "slug": "wanderlust-travel-stories-a81f0f",
     "startDate": "2022-11-02T04:00:00.000Z",
     "title": "Wanderlust: Travel Stories"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2022-11-08T15:00:00.000Z",
+    "isFree": false,
+    "slug": "warpips-57e2c4",
+    "startDate": "2022-11-01T15:00:00.000Z",
+    "title": "Warpips"
+  },
+  {
+    "discountPercentage": 58,
+    "endDate": "2022-11-08T15:00:00.000Z",
+    "isFree": false,
+    "slug": "warpips-supporter-bundle",
+    "startDate": "2022-11-01T15:00:00.000Z",
+    "title": "Warpips - Supporter Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-11-08T15:00:00.000Z",
+    "isFree": false,
+    "slug": "warpips-warpips-supporter-pack-3f1bbf",
+    "startDate": "2022-11-01T15:00:00.000Z",
+    "title": "Warpips - Supporter Pack"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-11-08T15:00:00.000Z",
+    "isFree": false,
+    "slug": "wildcat-gun-machine-c66c4e",
+    "startDate": "2022-11-01T15:00:00.000Z",
+    "title": "Wildcat Gun Machine"
+  },
+  {
+    "discountPercentage": 33,
+    "endDate": "2022-11-08T15:00:00.000Z",
+    "isFree": false,
+    "slug": "wildcat-gun-machine-supporter-bundle",
+    "startDate": "2022-11-01T15:00:00.000Z",
+    "title": "Wildcat Gun Machine - Supporter Bundle"
+  },
+  {
+    "discountPercentage": 38,
+    "endDate": "2022-11-08T15:00:00.000Z",
+    "isFree": false,
+    "slug": "wildcat-gun-machine-wildcat-gun-machine-supporter-pack-640e9d",
+    "startDate": "2022-11-01T15:00:00.000Z",
+    "title": "Wildcat Gun Machine - Supporter Pack"
   }
 ]
