@@ -12,13 +12,14 @@ def get_upcoming_promotional_offers(store_element):
     return promotional_offers
 
 
-def to_promo_element(slug, title, promotional_offer):
+def to_promo_element(slug, title, price, promotional_offer):
     # NB: the field name is confusing: this is the ratio between the discounted price and the base price.
     ratio = promotional_offer["discountSetting"]["discountPercentage"]
 
     promo_element = {
         "slug": slug,
         "title": title,
+        "originalPrice": price,
         "startDate": promotional_offer["startDate"],
         "endDate": promotional_offer["endDate"],
         "discountPercentage": 100 - ratio,
