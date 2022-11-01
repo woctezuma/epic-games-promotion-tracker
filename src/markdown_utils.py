@@ -1,6 +1,6 @@
-HEADERS = ["Game Slug", "Game Name", "Discount (%)", "Starts", "Ends"]
+HEADERS = ["Game Slug", "Game Name", "Base Price (cents)", "Discount (%)", "Starts", "Ends"]
 TIME_FIELDS = ["startDate", "endDate"]
-ENTRY_FIELDS = ["slug", "title", "discountPercentage"] + TIME_FIELDS
+ENTRY_FIELDS = ["slug", "title", "originalPrice", "discountPercentage"] + TIME_FIELDS
 PLACE_HOLDER = '---'
 
 
