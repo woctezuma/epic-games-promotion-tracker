@@ -1,6 +1,7 @@
 - [Upcoming free games](by_free_game.md)
 - [Sorted by Game Slug](by_game_slug.md)
 - [Sorted by Game Name](by_game_name.md)
+- [Sorted by Base Price](by_base_price.md)
 - [Sorted by Discount Percentage](by_discount_percentage.md)
 - [Sorted by Start Date](by_start_date.md)
 - [Sorted by End Date](by_end_date.md)
