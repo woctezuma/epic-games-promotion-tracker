@@ -8,7 +8,9 @@ def get_params_to_query_store_data(cursor, step):
     query_str += "paging {count total} elements {"
     query_str += "title offerMappings {pageSlug} productSlug urlSlug promotions {upcomingPromotionalOffers {"
     query_str += "promotionalOffers {startDate endDate discountSetting {discountPercentage} }"
-    query_str += "}}}"
+    query_str += "}} "
+    query_str += 'price(country: "FR") {totalPrice {originalPrice} }'
+    query_str += "}"
     query_str += "}}}"
 
     params = {"query": query_str}
