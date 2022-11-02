@@ -36,3 +36,9 @@ def prepare_price_for_display(price_in_cents, currency=CURRENCY_SYMBOL):
 
 def to_units(price_in_cents):
     return price_in_cents / 100
+
+
+def to_price_int(price_str, currency=CURRENCY_SYMBOL):
+    price_in_euros = price_str.replace(currency, '')
+    price_in_cents = price_in_euros.replace('.', '').replace(',', '')
+    return int(price_in_cents)
