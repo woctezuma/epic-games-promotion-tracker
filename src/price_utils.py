@@ -41,4 +41,8 @@ def to_units(price_in_cents):
 def to_price_int(price_str, currency=CURRENCY_SYMBOL):
     price_in_euros = price_str.replace(currency, '')
     price_in_cents = price_in_euros.replace('.', '').replace(',', '')
-    return int(price_in_cents)
+    try:
+        price_as_int = int(price_in_cents)
+    except ValueError:
+        price_as_int = -1
+    return price_as_int
