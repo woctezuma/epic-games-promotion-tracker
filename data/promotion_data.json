@@ -36,42 +36,6 @@
     "title": "Among Trees"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2022-11-07T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--ascendant-evelyn-skin-and-feat-pack",
-    "startDate": "2022-11-04T19:00:00.000Z",
-    "title": "Ascendant Evelyn Skin & Feat Pack"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-11-07T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--ascendant-melf-skin-and-feat-pack",
-    "startDate": "2022-11-04T19:00:00.000Z",
-    "title": "Ascendant Melf Skin & Feat Pack"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-11-07T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--ascendant-strix-skin-and-feat-pack",
-    "startDate": "2022-11-04T19:00:00.000Z",
-    "title": "Ascendant Strix Skin & Feat Pack"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-11-07T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--ascendant-walnut-skin-and-feat-pack",
-    "startDate": "2022-11-04T19:00:00.000Z",
-    "title": "Ascendant Walnut Skin & Feat Pack"
-  },
-  {
     "discountPercentage": 10,
     "endDate": "2022-11-21T18:00:00.000Z",
     "isFree": false,
@@ -135,15 +99,6 @@
     "title": "Born in the USA Cosmetic DLC"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2022-11-07T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "idle-champions-of-the-forgotten-realms--brimstone-angels-shadowfell-bundle-pack",
-    "startDate": "2022-11-04T19:00:00.000Z",
-    "title": "Brimstone Angels Shadowfell Bundle Pack"
-  },
-  {
     "discountPercentage": 79,
     "endDate": "2022-11-20T04:00:00.000Z",
     "isFree": false,
@@ -196,15 +151,6 @@
     "slug": "banedlc028-22",
     "startDate": "2022-11-17T20:00:00.000Z",
     "title": "Champions of Renown: Year 2 All-Star Pack"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-11-15T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--colonel-pest-the-pest-mascot-familiar-pack",
-    "startDate": "2022-11-11T20:00:00.000Z",
-    "title": "Colonel Pest the Pest Mascot Familiar Pack"
   },
   {
     "discountPercentage": 22,
@@ -484,33 +430,6 @@
     "slug": "shadow-tactics",
     "startDate": "2022-11-10T16:00:00.000Z",
     "title": "Shadow Tactics: Blades of the Shogun"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-11-07T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--shadowfell-farideh-skin-feat-pack",
-    "startDate": "2022-11-04T19:00:00.000Z",
-    "title": "Shadowfell Farideh Skin & Feat Pack"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-11-07T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--shadowfell-havilar-skin-feat-pack",
-    "startDate": "2022-11-04T19:00:00.000Z",
-    "title": "Shadowfell Havilar Skin & Feat Pack"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-11-07T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--shadowfell-mehen-skin-feat-pack",
-    "startDate": "2022-11-04T19:00:00.000Z",
-    "title": "Shadowfell Mehen Skin & Feat Pack"
   },
   {
     "discountPercentage": 50,
