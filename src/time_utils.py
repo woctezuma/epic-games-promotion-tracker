@@ -36,7 +36,7 @@ def format_dates_in_dict(entry):
 
 
 def prepare_date_for_display(date_str: str | None) -> str:
-    if date_str is None:
+    if date_str is None or date_str == MISSING_DATA:
         output = MISSING_DATA
     else:
         s = date_str.replace('T', ' ')
