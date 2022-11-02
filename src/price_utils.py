@@ -1,5 +1,7 @@
 from src.markdown_utils import PRICE_FIELDS
 
+CURRENCY_SYMBOL = '€'
+
 
 def to_price(store_element):
     try:
@@ -23,7 +25,7 @@ def format_prices_in_dict(entry):
     return
 
 
-def prepare_price_for_display(price_in_cents, currency='€'):
+def prepare_price_for_display(price_in_cents, currency=CURRENCY_SYMBOL):
     if price_in_cents is None:
         output = 'N/A'
     else:
