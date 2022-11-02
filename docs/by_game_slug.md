@@ -29,43 +29,34 @@
 |27|hirilun-d92aa3|Hirilun|7,99€|45|2022-11-07 05h|2022-11-14 05h|
 |28|hunter-girls-96020a|Hunter Girls|7,99€|50|2022-11-09 05h|2022-11-16 05h|
 |29|idle-champions-of-the-forgotten-realms--amani-the-songbird-familiar-pack|Amani the Songbird Familiar Pack|7,99€|40|2022-11-17 20h|2022-11-21 20h|
-|30|idle-champions-of-the-forgotten-realms--ascendant-evelyn-skin-and-feat-pack|Ascendant Evelyn Skin & Feat Pack|7,99€|40|2022-11-04 19h|2022-11-07 20h|
-|31|idle-champions-of-the-forgotten-realms--ascendant-melf-skin-and-feat-pack|Ascendant Melf Skin & Feat Pack|7,99€|40|2022-11-04 19h|2022-11-07 20h|
-|32|idle-champions-of-the-forgotten-realms--ascendant-strix-skin-and-feat-pack|Ascendant Strix Skin & Feat Pack|7,99€|40|2022-11-04 19h|2022-11-07 20h|
-|33|idle-champions-of-the-forgotten-realms--ascendant-walnut-skin-and-feat-pack|Ascendant Walnut Skin & Feat Pack|7,99€|40|2022-11-04 19h|2022-11-07 20h|
-|34|idle-champions-of-the-forgotten-realms--beeples-corazn-skin-feat-pack|Beeples Corazón Skin & Feat Pack|7,99€|30|2022-11-17 20h|2022-11-21 20h|
-|35|idle-champions-of-the-forgotten-realms--beeples-dob-skin-feat-pack|Beeples Dob Skin & Feat Pack|7,99€|30|2022-11-17 20h|2022-11-21 20h|
-|36|idle-champions-of-the-forgotten-realms--blight-druid-voronika-theme-pack|Blight Druid Voronika Theme Pack|19,99€|30|2022-11-17 20h|2022-11-21 20h|
-|37|idle-champions-of-the-forgotten-realms--brimstone-angels-shadowfell-bundle-pack|Brimstone Angels Shadowfell Bundle Pack|19,99€|40|2022-11-04 19h|2022-11-07 20h|
-|38|idle-champions-of-the-forgotten-realms--colonel-pest-the-pest-mascot-familiar-pack|Colonel Pest the Pest Mascot Familiar Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
-|39|idle-champions-of-the-forgotten-realms--gladiator-havilar-theme-pack|Gladiator Havilar Theme Pack|19,99€|40|2022-11-04 19h|2022-11-07 20h|
-|40|idle-champions-of-the-forgotten-realms--landlubber-rust-skin-feat-pack|Landlubber Rust Skin & Feat Pack|7,99€|40|2022-11-17 20h|2022-11-21 20h|
-|41|idle-champions-of-the-forgotten-realms--marmadark-the-pup-of-ill-omens-familiar-pack|Marmadark the Pup of Ill Omens Familiar Pack|11,99€|30|2022-11-04 19h|2022-11-07 20h|
-|42|idle-champions-of-the-forgotten-realms--polymorphed-baeloth-skin-feat-pack|Polymorphed Baeloth Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
-|43|idle-champions-of-the-forgotten-realms--polymorphed-desmond-skin-feat-pack|Polymorphed Desmond Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
-|44|idle-champions-of-the-forgotten-realms--polymorphed-farideh-skin-feat-pack|Polymorphed Farideh Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
-|45|idle-champions-of-the-forgotten-realms--polymorphed-jarlaxle-skin-feat-pack|Polymorphed Jarlaxle Skin & Feat Pack|7,99€|40|2022-11-17 20h|2022-11-21 20h|
-|46|idle-champions-of-the-forgotten-realms--polymorphed-shaka-skin-feat-pack|Polymorphed Shaka Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
-|47|idle-champions-of-the-forgotten-realms--polymorphed-tatyana-skin-feat-pack|Polymorphed Tatyana Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
-|48|idle-champions-of-the-forgotten-realms--shadowfell-farideh-skin-feat-pack|Shadowfell Farideh Skin & Feat Pack|7,99€|40|2022-11-04 19h|2022-11-07 20h|
-|49|idle-champions-of-the-forgotten-realms--shadowfell-havilar-skin-feat-pack|Shadowfell Havilar Skin & Feat Pack|7,99€|40|2022-11-04 19h|2022-11-07 20h|
-|50|idle-champions-of-the-forgotten-realms--shadowfell-mehen-skin-feat-pack|Shadowfell Mehen Skin & Feat Pack|7,99€|40|2022-11-04 19h|2022-11-07 20h|
-|51|liberated-f13008|Liberated|15,99€|50|2022-11-11 05h|2022-11-18 05h|
-|52|maritime-calling-636728|Maritime Calling|11,99€|45|2022-11-28 05h|2022-12-05 05h|
-|53|necroworm-5784e5|NecroWorm|3,99€|50|2022-11-04 04h|2022-11-11 05h|
-|54|paladin-dream-5d04e2|Paladin Dream|3,99€|55|2022-11-07 05h|2022-11-14 05h|
-|55|paramnesia-a49100|Paramnesia|2,39€|50|2022-11-09 05h|2022-11-16 05h|
-|56|rising-storm-2-vietnam|Rising Storm 2: Vietnam|21,99€|100|2022-11-03 15h|2022-11-10 16h|
-|57|rising-storm-2-vietnam--digital-deluxe-edition-upgrade|Digital Deluxe Edition Upgrade|5,00€|75|2022-11-03 15h|2022-11-17 16h|
-|58|schein-77f039|Schein|3,99€|75|2022-11-14 05h|2022-11-21 05h|
-|59|shadow-tactics|Shadow Tactics|39,99€|100|2022-11-10 16h|2022-11-17 16h|
-|60|shadow-tactics|Shadow Tactics: Blades of the Shogun|39,99€|100|2022-11-10 16h|2022-11-17 16h|
-|61|somerville-229529|Somerville|19,99€|10|2022-11-14 00h|2022-11-22 00h|
-|62|specialist-pack-dlc|Specialist Pack DLC|7,99€|67|2022-11-03 15h|2022-11-17 16h|
-|63|terracotta-72cc62|TERRACOTTA|19,99€|20|2022-11-07 17h|2023-11-14 17h|
-|64|the-riftbreaker|The Riftbreaker|29,99€|35|2022-11-18 18h|2022-11-29 18h|
-|65|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|44,99€|35|2022-11-18 18h|2022-11-29 18h|
-|66|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|9,99€|20|2022-11-18 18h|2022-11-29 18h|
-|67|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|9,99€|35|2022-11-18 18h|2022-11-29 18h|
-|68|the-wizard-and-the-slug-482a09|The Wizard and The Slug|3,99€|55|2022-11-14 05h|2022-11-21 05h|
-|69|true-hate-007027|True Hate|5,99€|90|2022-11-10 17h|2022-11-28 17h|
+|30|idle-champions-of-the-forgotten-realms--beeples-corazn-skin-feat-pack|Beeples Corazón Skin & Feat Pack|7,99€|30|2022-11-17 20h|2022-11-21 20h|
+|31|idle-champions-of-the-forgotten-realms--beeples-dob-skin-feat-pack|Beeples Dob Skin & Feat Pack|7,99€|30|2022-11-17 20h|2022-11-21 20h|
+|32|idle-champions-of-the-forgotten-realms--blight-druid-voronika-theme-pack|Blight Druid Voronika Theme Pack|19,99€|30|2022-11-17 20h|2022-11-21 20h|
+|33|idle-champions-of-the-forgotten-realms--gladiator-havilar-theme-pack|Gladiator Havilar Theme Pack|19,99€|40|2022-11-04 19h|2022-11-07 20h|
+|34|idle-champions-of-the-forgotten-realms--landlubber-rust-skin-feat-pack|Landlubber Rust Skin & Feat Pack|7,99€|40|2022-11-17 20h|2022-11-21 20h|
+|35|idle-champions-of-the-forgotten-realms--marmadark-the-pup-of-ill-omens-familiar-pack|Marmadark the Pup of Ill Omens Familiar Pack|11,99€|30|2022-11-04 19h|2022-11-07 20h|
+|36|idle-champions-of-the-forgotten-realms--polymorphed-baeloth-skin-feat-pack|Polymorphed Baeloth Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
+|37|idle-champions-of-the-forgotten-realms--polymorphed-desmond-skin-feat-pack|Polymorphed Desmond Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
+|38|idle-champions-of-the-forgotten-realms--polymorphed-farideh-skin-feat-pack|Polymorphed Farideh Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
+|39|idle-champions-of-the-forgotten-realms--polymorphed-jarlaxle-skin-feat-pack|Polymorphed Jarlaxle Skin & Feat Pack|7,99€|40|2022-11-17 20h|2022-11-21 20h|
+|40|idle-champions-of-the-forgotten-realms--polymorphed-shaka-skin-feat-pack|Polymorphed Shaka Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
+|41|idle-champions-of-the-forgotten-realms--polymorphed-tatyana-skin-feat-pack|Polymorphed Tatyana Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
+|42|liberated-f13008|Liberated|15,99€|50|2022-11-11 05h|2022-11-18 05h|
+|43|maritime-calling-636728|Maritime Calling|11,99€|45|2022-11-28 05h|2022-12-05 05h|
+|44|necroworm-5784e5|NecroWorm|3,99€|50|2022-11-04 04h|2022-11-11 05h|
+|45|paladin-dream-5d04e2|Paladin Dream|3,99€|55|2022-11-07 05h|2022-11-14 05h|
+|46|paramnesia-a49100|Paramnesia|2,39€|50|2022-11-09 05h|2022-11-16 05h|
+|47|rising-storm-2-vietnam|Rising Storm 2: Vietnam|21,99€|100|2022-11-03 15h|2022-11-10 16h|
+|48|rising-storm-2-vietnam--digital-deluxe-edition-upgrade|Digital Deluxe Edition Upgrade|5,00€|75|2022-11-03 15h|2022-11-17 16h|
+|49|schein-77f039|Schein|3,99€|75|2022-11-14 05h|2022-11-21 05h|
+|50|shadow-tactics|Shadow Tactics|39,99€|100|2022-11-10 16h|2022-11-17 16h|
+|51|shadow-tactics|Shadow Tactics: Blades of the Shogun|39,99€|100|2022-11-10 16h|2022-11-17 16h|
+|52|somerville-229529|Somerville|19,99€|10|2022-11-14 00h|2022-11-22 00h|
+|53|specialist-pack-dlc|Specialist Pack DLC|7,99€|67|2022-11-03 15h|2022-11-17 16h|
+|54|terracotta-72cc62|TERRACOTTA|19,99€|20|2022-11-07 17h|2023-11-14 17h|
+|55|the-riftbreaker|The Riftbreaker|29,99€|35|2022-11-18 18h|2022-11-29 18h|
+|56|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|44,99€|35|2022-11-18 18h|2022-11-29 18h|
+|57|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|9,99€|20|2022-11-18 18h|2022-11-29 18h|
+|58|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|9,99€|35|2022-11-18 18h|2022-11-29 18h|
+|59|the-wizard-and-the-slug-482a09|The Wizard and The Slug|3,99€|55|2022-11-14 05h|2022-11-21 05h|
+|60|true-hate-007027|True Hate|5,99€|90|2022-11-10 17h|2022-11-28 17h|
