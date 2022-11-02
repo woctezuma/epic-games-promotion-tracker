@@ -26,7 +26,7 @@ def format_prices_in_dict(entry):
 
 
 def prepare_price_for_display(price_in_cents: int | None, currency: str = CURRENCY_SYMBOL) -> str:
-    if price_in_cents is None:
+    if price_in_cents is None or price_in_cents < 0:
         output = MISSING_DATA
     else:
         price_in_euros = to_units(price_in_cents)
