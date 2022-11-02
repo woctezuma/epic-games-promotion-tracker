@@ -549,6 +549,15 @@
     "title": "Rising Storm 2: Vietnam"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2022-11-16T19:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "rogue-legacy-2",
+    "startDate": "2022-11-09T19:00:00.000Z",
+    "title": "Rogue Legacy 2"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2022-11-21T05:00:00.000Z",
     "isFree": false,
