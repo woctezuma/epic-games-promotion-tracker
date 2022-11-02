@@ -468,6 +468,24 @@
     "title": "Sgt Joe's Support Bundle Cosmetic DLC Audience"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2022-11-17T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 3999,
+    "slug": "shadow-tactics",
+    "startDate": "2022-11-10T16:00:00.000Z",
+    "title": "Shadow Tactics"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2022-11-17T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 3999,
+    "slug": "shadow-tactics",
+    "startDate": "2022-11-10T16:00:00.000Z",
+    "title": "Shadow Tactics: Blades of the Shogun"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2022-11-07T20:00:00.000Z",
     "isFree": false,
