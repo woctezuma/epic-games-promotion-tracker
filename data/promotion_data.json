@@ -126,6 +126,15 @@
     "title": "Blossom Tales II The Minotaur Prince"
   },
   {
+    "discountPercentage": 67,
+    "endDate": "2022-11-17T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc6",
+    "startDate": "2022-11-03T15:00:00.000Z",
+    "title": "Born in the USA Cosmetic DLC"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2022-11-07T20:00:00.000Z",
     "isFree": false,
@@ -252,6 +261,15 @@
     "title": "Hirilun"
   },
   {
+    "discountPercentage": 67,
+    "endDate": "2022-11-17T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc3",
+    "startDate": "2022-11-03T15:00:00.000Z",
+    "title": "Homeland Security Cosmetic DLC"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2022-11-16T05:00:00.000Z",
     "isFree": false,
@@ -277,6 +295,15 @@
     "slug": "liberated-f13008",
     "startDate": "2022-11-11T05:00:00.000Z",
     "title": "Liberated"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2022-11-17T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc7",
+    "startDate": "2022-11-03T15:00:00.000Z",
+    "title": "Man Down Under Cosmetic DLC"
   },
   {
     "discountPercentage": 45,
@@ -333,6 +360,15 @@
     "title": "Paramnesia"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2022-11-17T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "dlc9",
+    "startDate": "2022-11-03T15:00:00.000Z",
+    "title": "Personalized Touch Cosmetic DLC"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2022-11-15T20:00:00.000Z",
     "isFree": false,
@@ -387,6 +423,24 @@
     "title": "Polymorphed Tatyana Skin & Feat Pack"
   },
   {
+    "discountPercentage": 67,
+    "endDate": "2022-11-17T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc10",
+    "startDate": "2022-11-03T15:00:00.000Z",
+    "title": "Pulling Rank Cosmetic DLC"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2022-11-17T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc4",
+    "startDate": "2022-11-03T15:00:00.000Z",
+    "title": "Rear Echelon Cosmetic DLC"
+  },
+  {
     "discountPercentage": 100,
     "endDate": "2022-11-10T16:00:00.000Z",
     "isFree": true,
@@ -403,6 +457,15 @@
     "slug": "schein-77f039",
     "startDate": "2022-11-14T05:00:00.000Z",
     "title": "Schein"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-11-17T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "dlc2",
+    "startDate": "2022-11-17T15:00:00.000Z",
+    "title": "Sgt Joe's Support Bundle Cosmetic DLC Audience"
   },
   {
     "discountPercentage": 40,
@@ -448,6 +511,24 @@
     "slug": "somerville-229529",
     "startDate": "2022-11-14T00:00:00.000Z",
     "title": "Somerville"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2022-11-17T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc5",
+    "startDate": "2022-11-03T15:00:00.000Z",
+    "title": "Southern Style Cosmetic DLC"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2022-11-17T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "specialist-pack-dlc",
+    "startDate": "2022-11-03T15:00:00.000Z",
+    "title": "Specialist Pack DLC"
   },
   {
     "discountPercentage": 20,
@@ -522,12 +603,12 @@
     "title": "True Hate"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2022-11-09T04:00:00.000Z",
+    "discountPercentage": 67,
+    "endDate": "2022-11-17T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": 1199,
-    "slug": "wanderlust-travel-stories-a81f0f",
-    "startDate": "2022-11-02T04:00:00.000Z",
-    "title": "Wanderlust: Travel Stories"
+    "originalPrice": 799,
+    "slug": "dlc8",
+    "startDate": "2022-11-03T15:00:00.000Z",
+    "title": "Uncle Ho's Heroes Cosmetic DLC"
   }
 ]
