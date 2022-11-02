@@ -1,6 +1,6 @@
 from src.filter_utils import filter_in_free_games
 from src.markdown_utils import format_data_as_markdown
-from src.price_utils import format_prices_for_display
+from src.price_utils import format_prices_for_display, to_price_int
 from src.time_utils import format_dates_for_display
 
 OUTPUT_FOLDER = 'docs'
@@ -42,7 +42,7 @@ def write_markdown_files(data):
     sorted_data = sorted(data, key=lambda x: (-x["discountPercentage"], x["title"], x["startDate"]))
     write_data_to_disk(sorted_data, f"{OUTPUT_FOLDER}/by_discount_percentage.md")
 
-    sorted_data = sorted(data, key=lambda x: (-x["originalPrice"], x["title"], x["startDate"]))
+    sorted_data = sorted(data, key=lambda x: (-to_price_int(x["originalPrice"]), x["title"], x["startDate"]))
     write_data_to_disk(sorted_data, f"{OUTPUT_FOLDER}/by_base_price.md")
 
     return
