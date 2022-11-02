@@ -1,5 +1,6 @@
 from src.filter_utils import filter_in_free_games
 from src.markdown_utils import format_data_as_markdown
+from src.price_utils import format_prices_for_display
 from src.time_utils import format_dates_for_display
 
 OUTPUT_FOLDER = 'docs'
@@ -20,6 +21,7 @@ def write_data_to_disk(data, fname):
 
 
 def write_markdown_files(data):
+    data = format_prices_for_display(data)
     data = format_dates_for_display(data)
 
     sorted_data = sorted(filter_in_free_games(data), key=lambda x: (x["startDate"], x["title"]))
