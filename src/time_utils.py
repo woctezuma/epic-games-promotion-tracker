@@ -35,7 +35,7 @@ def format_dates_in_dict(entry):
     return
 
 
-def prepare_date_for_display(date_str):
+def prepare_date_for_display(date_str: str | None) -> str:
     if date_str is None:
         output = MISSING_DATA
     else:

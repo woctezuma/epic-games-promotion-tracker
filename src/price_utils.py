@@ -25,7 +25,7 @@ def format_prices_in_dict(entry):
     return
 
 
-def prepare_price_for_display(price_in_cents, currency=CURRENCY_SYMBOL):
+def prepare_price_for_display(price_in_cents: int | None, currency: str = CURRENCY_SYMBOL) -> str:
     if price_in_cents is None:
         output = MISSING_DATA
     else:
@@ -34,11 +34,11 @@ def prepare_price_for_display(price_in_cents, currency=CURRENCY_SYMBOL):
     return output
 
 
-def to_units(price_in_cents):
+def to_units(price_in_cents: int) -> float:
     return price_in_cents / 100
 
 
-def to_price_int(price_str, currency=CURRENCY_SYMBOL):
+def to_price_int(price_str: str, currency: str = CURRENCY_SYMBOL) -> int:
     price_in_euros = price_str.replace(currency, '')
     price_in_cents = price_in_euros.replace('.', '').replace(',', '')
     try:
