@@ -22,14 +22,14 @@ def get_fname_for_today():
     return get_fname_for_specific_day(date)
 
 
-def formate_dates_for_display(data):
+def format_dates_for_display(data):
     for entry in data:
-        formate_dates_in_dict(entry)
+        format_dates_in_dict(entry)
 
     return data
 
 
-def formate_dates_in_dict(entry):
+def format_dates_in_dict(entry):
     for k in TIME_FIELDS:
         entry[k] = prepare_date_for_display(entry[k])
     return
