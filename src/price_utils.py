@@ -1,4 +1,4 @@
-from src.markdown_utils import PRICE_FIELDS
+from src.markdown_utils import MISSING_DATA, PRICE_FIELDS
 
 CURRENCY_SYMBOL = '€'
 
@@ -27,7 +27,7 @@ def format_prices_in_dict(entry):
 
 def prepare_price_for_display(price_in_cents, currency=CURRENCY_SYMBOL):
     if price_in_cents is None:
-        output = 'N/A'
+        output = MISSING_DATA
     else:
         price_in_euros = to_units(price_in_cents)
         output = f"{price_in_euros:.2f}{currency}".replace('.', ',')

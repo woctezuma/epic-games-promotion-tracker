@@ -1,7 +1,7 @@
 from datetime import datetime
 
 from src.data_utils import DATA_FOLDER
-from src.markdown_utils import TIME_FIELDS
+from src.markdown_utils import MISSING_DATA, TIME_FIELDS
 
 
 def get_current_date():
@@ -37,7 +37,7 @@ def format_dates_in_dict(entry):
 
 def prepare_date_for_display(date_str):
     if date_str is None:
-        output = 'N/A'
+        output = MISSING_DATA
     else:
         s = date_str.replace('T', ' ')
         output = f"{s[:13]}h"

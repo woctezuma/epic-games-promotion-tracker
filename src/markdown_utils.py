@@ -3,6 +3,7 @@ TIME_FIELDS = ["startDate", "endDate"]
 PRICE_FIELDS = ["originalPrice"]
 ENTRY_FIELDS = ["slug", "title"] + PRICE_FIELDS + ["discountPercentage"] + TIME_FIELDS
 PLACE_HOLDER = '---'
+MISSING_DATA = 'N/A'
 
 
 def to_table_row(row_no, str_elements):
