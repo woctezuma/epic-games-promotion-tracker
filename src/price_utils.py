@@ -30,7 +30,7 @@ def prepare_price_for_display(price_in_cents, currency=CURRENCY_SYMBOL):
         output = 'N/A'
     else:
         price_in_euros = to_units(price_in_cents)
-        output = f"{price_in_euros:.2f} {currency}".replace('.', ',')
+        output = f"{price_in_euros:.2f}{currency}".replace('.', ',')
     return output
 
 
