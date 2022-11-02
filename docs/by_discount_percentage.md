@@ -98,7 +98,8 @@
 |96|gigabash|GigaBash|31,99€|25|2022-11-22 18h|2022-11-29 18h|
 |97|dark-light|Dark Light|13,99€|22|2022-11-10 15h|2022-11-22 15h|
 |98|blossom-tales-ii-the-minotaur-prince-e74c95|Blossom Tales II The Minotaur Prince|12,49€|20|2022-11-22 16h|2022-11-29 16h|
-|99|terracotta-72cc62|TERRACOTTA|19,99€|20|2022-11-07 17h|2023-11-14 17h|
-|100|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|9,99€|20|2022-11-18 18h|2022-11-29 18h|
-|101|beat-hazard-3-c8ef04|Beat Hazard 3|14,49€|10|2022-11-14 18h|2022-11-21 18h|
-|102|somerville-229529|Somerville|19,99€|10|2022-11-14 00h|2022-11-22 00h|
+|99|rogue-legacy-2|Rogue Legacy 2|19,99€|20|2022-11-09 19h|2022-11-16 19h|
+|100|terracotta-72cc62|TERRACOTTA|19,99€|20|2022-11-07 17h|2023-11-14 17h|
+|101|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|9,99€|20|2022-11-18 18h|2022-11-29 18h|
+|102|beat-hazard-3-c8ef04|Beat Hazard 3|14,49€|10|2022-11-14 18h|2022-11-21 18h|
+|103|somerville-229529|Somerville|19,99€|10|2022-11-14 00h|2022-11-22 00h|

@@ -56,49 +56,50 @@
 |54|idle-champions-of-the-forgotten-realms--polymorphed-tatyana-skin-feat-pack|Polymorphed Tatyana Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
 |55|hunter-girls-96020a|Hunter Girls|7,99€|50|2022-11-09 05h|2022-11-16 05h|
 |56|paramnesia-a49100|Paramnesia|2,39€|50|2022-11-09 05h|2022-11-16 05h|
-|57|dlc6|Born in the USA Cosmetic DLC|7,99€|67|2022-11-03 15h|2022-11-17 16h|
-|58|rising-storm-2-vietnam--digital-deluxe-edition-upgrade|Digital Deluxe Edition Upgrade|5,00€|75|2022-11-03 15h|2022-11-17 16h|
-|59|dlc3|Homeland Security Cosmetic DLC|7,99€|67|2022-11-03 15h|2022-11-17 16h|
-|60|dlc7|Man Down Under Cosmetic DLC|7,99€|67|2022-11-03 15h|2022-11-17 16h|
-|61|dlc9|Personalized Touch Cosmetic DLC|14,99€|75|2022-11-03 15h|2022-11-17 16h|
-|62|dlc10|Pulling Rank Cosmetic DLC|7,99€|67|2022-11-03 15h|2022-11-17 16h|
-|63|dlc4|Rear Echelon Cosmetic DLC|7,99€|67|2022-11-03 15h|2022-11-17 16h|
-|64|dlc2|Sgt Joe's Support Bundle Cosmetic DLC Audience|14,99€|75|2022-11-17 15h|2022-11-17 16h|
-|65|shadow-tactics|Shadow Tactics|39,99€|100|2022-11-10 16h|2022-11-17 16h|
-|66|shadow-tactics|Shadow Tactics: Blades of the Shogun|39,99€|100|2022-11-10 16h|2022-11-17 16h|
-|67|dlc5|Southern Style Cosmetic DLC|7,99€|67|2022-11-03 15h|2022-11-17 16h|
-|68|specialist-pack-dlc|Specialist Pack DLC|7,99€|67|2022-11-03 15h|2022-11-17 16h|
-|69|dlc8|Uncle Ho's Heroes Cosmetic DLC|7,99€|67|2022-11-03 15h|2022-11-17 16h|
-|70|liberated-f13008|Liberated|15,99€|50|2022-11-11 05h|2022-11-18 05h|
-|71|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|79|2022-11-04 04h|2022-11-20 04h|
-|72|schein-77f039|Schein|3,99€|75|2022-11-14 05h|2022-11-21 05h|
-|73|the-wizard-and-the-slug-482a09|The Wizard and The Slug|3,99€|55|2022-11-14 05h|2022-11-21 05h|
-|74|beat-hazard-3-c8ef04|Beat Hazard 3|14,49€|10|2022-11-14 18h|2022-11-21 18h|
-|75|idle-champions-of-the-forgotten-realms--amani-the-songbird-familiar-pack|Amani the Songbird Familiar Pack|7,99€|40|2022-11-17 20h|2022-11-21 20h|
-|76|idle-champions-of-the-forgotten-realms--beeples-corazn-skin-feat-pack|Beeples Corazón Skin & Feat Pack|7,99€|30|2022-11-17 20h|2022-11-21 20h|
-|77|idle-champions-of-the-forgotten-realms--beeples-dob-skin-feat-pack|Beeples Dob Skin & Feat Pack|7,99€|30|2022-11-17 20h|2022-11-21 20h|
-|78|idle-champions-of-the-forgotten-realms--blight-druid-voronika-theme-pack|Blight Druid Voronika Theme Pack|19,99€|30|2022-11-17 20h|2022-11-21 20h|
-|79|banedlc028-02|Celeste's Starter Pack|15,99€|90|2022-11-17 20h|2022-11-21 20h|
-|80|banedlc028-22|Champions of Renown: Year 2 All-Star Pack|43,99€|40|2022-11-17 20h|2022-11-21 20h|
-|81|idle-champions-of-the-forgotten-realms--landlubber-rust-skin-feat-pack|Landlubber Rust Skin & Feat Pack|7,99€|40|2022-11-17 20h|2022-11-21 20h|
-|82|idle-champions-of-the-forgotten-realms--polymorphed-jarlaxle-skin-feat-pack|Polymorphed Jarlaxle Skin & Feat Pack|7,99€|40|2022-11-17 20h|2022-11-21 20h|
-|83|somerville-229529|Somerville|19,99€|10|2022-11-14 00h|2022-11-22 00h|
-|84|among-trees|Among Trees|14,99€|50|2022-11-07 14h|2022-11-22 14h|
-|85|dark-light|Dark Light|13,99€|22|2022-11-10 15h|2022-11-22 15h|
-|86|car-tuning-simulator-38ddaf|Car Tuning Simulator|0,79€|50|2022-11-05 17h|2022-11-24 17h|
-|87|true-hate-007027|True Hate|5,99€|90|2022-11-10 17h|2022-11-28 17h|
-|88|fortnite--minty-legends-pack|Minty Legends Pack|19,99€|40|2022-11-18 00h|2022-11-29 12h|
-|89|fortnite--shadows-rising-pack|Shadows Rising Pack|15,99€|50|2022-11-18 15h|2022-11-29 12h|
-|90|fortnite--tech-future-pack|Tech Future Pack|17,99€|50|2022-11-18 15h|2022-11-29 12h|
-|91|blossom-tales-ii-the-minotaur-prince-e74c95|Blossom Tales II The Minotaur Prince|12,49€|20|2022-11-22 16h|2022-11-29 16h|
-|92|gigabash|GigaBash|31,99€|25|2022-11-22 18h|2022-11-29 18h|
-|93|the-riftbreaker|The Riftbreaker|29,99€|35|2022-11-18 18h|2022-11-29 18h|
-|94|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|44,99€|35|2022-11-18 18h|2022-11-29 18h|
-|95|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|9,99€|35|2022-11-18 18h|2022-11-29 18h|
-|96|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|9,99€|20|2022-11-18 18h|2022-11-29 18h|
-|97|chains-8ac580|Chains|1,59€|45|2022-11-28 05h|2022-12-05 05h|
-|98|maritime-calling-636728|Maritime Calling|11,99€|45|2022-11-28 05h|2022-12-05 05h|
-|99|away-the-survival-series|AWAY: The Survival Series|15,99€|60|2022-11-21 17h|2022-12-05 17h|
-|100|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|80|2022-12-16 04h|2023-01-01 04h|
-|101|blazing-beaks-3d4864|Blazing Beaks|11,99€|75|2022-12-15 15h|2023-01-02 15h|
-|102|terracotta-72cc62|TERRACOTTA|19,99€|20|2022-11-07 17h|2023-11-14 17h|
+|57|rogue-legacy-2|Rogue Legacy 2|19,99€|20|2022-11-09 19h|2022-11-16 19h|
+|58|dlc6|Born in the USA Cosmetic DLC|7,99€|67|2022-11-03 15h|2022-11-17 16h|
+|59|rising-storm-2-vietnam--digital-deluxe-edition-upgrade|Digital Deluxe Edition Upgrade|5,00€|75|2022-11-03 15h|2022-11-17 16h|
+|60|dlc3|Homeland Security Cosmetic DLC|7,99€|67|2022-11-03 15h|2022-11-17 16h|
+|61|dlc7|Man Down Under Cosmetic DLC|7,99€|67|2022-11-03 15h|2022-11-17 16h|
+|62|dlc9|Personalized Touch Cosmetic DLC|14,99€|75|2022-11-03 15h|2022-11-17 16h|
+|63|dlc10|Pulling Rank Cosmetic DLC|7,99€|67|2022-11-03 15h|2022-11-17 16h|
+|64|dlc4|Rear Echelon Cosmetic DLC|7,99€|67|2022-11-03 15h|2022-11-17 16h|
+|65|dlc2|Sgt Joe's Support Bundle Cosmetic DLC Audience|14,99€|75|2022-11-17 15h|2022-11-17 16h|
+|66|shadow-tactics|Shadow Tactics|39,99€|100|2022-11-10 16h|2022-11-17 16h|
+|67|shadow-tactics|Shadow Tactics: Blades of the Shogun|39,99€|100|2022-11-10 16h|2022-11-17 16h|
+|68|dlc5|Southern Style Cosmetic DLC|7,99€|67|2022-11-03 15h|2022-11-17 16h|
+|69|specialist-pack-dlc|Specialist Pack DLC|7,99€|67|2022-11-03 15h|2022-11-17 16h|
+|70|dlc8|Uncle Ho's Heroes Cosmetic DLC|7,99€|67|2022-11-03 15h|2022-11-17 16h|
+|71|liberated-f13008|Liberated|15,99€|50|2022-11-11 05h|2022-11-18 05h|
+|72|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|79|2022-11-04 04h|2022-11-20 04h|
+|73|schein-77f039|Schein|3,99€|75|2022-11-14 05h|2022-11-21 05h|
+|74|the-wizard-and-the-slug-482a09|The Wizard and The Slug|3,99€|55|2022-11-14 05h|2022-11-21 05h|
+|75|beat-hazard-3-c8ef04|Beat Hazard 3|14,49€|10|2022-11-14 18h|2022-11-21 18h|
+|76|idle-champions-of-the-forgotten-realms--amani-the-songbird-familiar-pack|Amani the Songbird Familiar Pack|7,99€|40|2022-11-17 20h|2022-11-21 20h|
+|77|idle-champions-of-the-forgotten-realms--beeples-corazn-skin-feat-pack|Beeples Corazón Skin & Feat Pack|7,99€|30|2022-11-17 20h|2022-11-21 20h|
+|78|idle-champions-of-the-forgotten-realms--beeples-dob-skin-feat-pack|Beeples Dob Skin & Feat Pack|7,99€|30|2022-11-17 20h|2022-11-21 20h|
+|79|idle-champions-of-the-forgotten-realms--blight-druid-voronika-theme-pack|Blight Druid Voronika Theme Pack|19,99€|30|2022-11-17 20h|2022-11-21 20h|
+|80|banedlc028-02|Celeste's Starter Pack|15,99€|90|2022-11-17 20h|2022-11-21 20h|
+|81|banedlc028-22|Champions of Renown: Year 2 All-Star Pack|43,99€|40|2022-11-17 20h|2022-11-21 20h|
+|82|idle-champions-of-the-forgotten-realms--landlubber-rust-skin-feat-pack|Landlubber Rust Skin & Feat Pack|7,99€|40|2022-11-17 20h|2022-11-21 20h|
+|83|idle-champions-of-the-forgotten-realms--polymorphed-jarlaxle-skin-feat-pack|Polymorphed Jarlaxle Skin & Feat Pack|7,99€|40|2022-11-17 20h|2022-11-21 20h|
+|84|somerville-229529|Somerville|19,99€|10|2022-11-14 00h|2022-11-22 00h|
+|85|among-trees|Among Trees|14,99€|50|2022-11-07 14h|2022-11-22 14h|
+|86|dark-light|Dark Light|13,99€|22|2022-11-10 15h|2022-11-22 15h|
+|87|car-tuning-simulator-38ddaf|Car Tuning Simulator|0,79€|50|2022-11-05 17h|2022-11-24 17h|
+|88|true-hate-007027|True Hate|5,99€|90|2022-11-10 17h|2022-11-28 17h|
+|89|fortnite--minty-legends-pack|Minty Legends Pack|19,99€|40|2022-11-18 00h|2022-11-29 12h|
+|90|fortnite--shadows-rising-pack|Shadows Rising Pack|15,99€|50|2022-11-18 15h|2022-11-29 12h|
+|91|fortnite--tech-future-pack|Tech Future Pack|17,99€|50|2022-11-18 15h|2022-11-29 12h|
+|92|blossom-tales-ii-the-minotaur-prince-e74c95|Blossom Tales II The Minotaur Prince|12,49€|20|2022-11-22 16h|2022-11-29 16h|
+|93|gigabash|GigaBash|31,99€|25|2022-11-22 18h|2022-11-29 18h|
+|94|the-riftbreaker|The Riftbreaker|29,99€|35|2022-11-18 18h|2022-11-29 18h|
+|95|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|44,99€|35|2022-11-18 18h|2022-11-29 18h|
+|96|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|9,99€|35|2022-11-18 18h|2022-11-29 18h|
+|97|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|9,99€|20|2022-11-18 18h|2022-11-29 18h|
+|98|chains-8ac580|Chains|1,59€|45|2022-11-28 05h|2022-12-05 05h|
+|99|maritime-calling-636728|Maritime Calling|11,99€|45|2022-11-28 05h|2022-12-05 05h|
+|100|away-the-survival-series|AWAY: The Survival Series|15,99€|60|2022-11-21 17h|2022-12-05 17h|
+|101|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|80|2022-12-16 04h|2023-01-01 04h|
+|102|blazing-beaks-3d4864|Blazing Beaks|11,99€|75|2022-12-15 15h|2023-01-02 15h|
+|103|terracotta-72cc62|TERRACOTTA|19,99€|20|2022-11-07 17h|2023-11-14 17h|

@@ -79,26 +79,27 @@
 |77|rainbow-six-siege--ultimate-year-7-edition|Rainbow Six Siege Ultimate Edition Y7|89,99€|55|2022-11-03 15h|2022-11-10 15h|
 |78|rising-storm-2-vietnam|Rising Storm 2: Vietnam|21,99€|100|2022-11-03 15h|2022-11-10 16h|
 |79|rising-storm-2-vietnam--digital-deluxe-edition-upgrade|Digital Deluxe Edition Upgrade|5,00€|75|2022-11-03 15h|2022-11-17 16h|
-|80|schein-77f039|Schein|3,99€|75|2022-11-14 05h|2022-11-21 05h|
-|81|shadow-tactics|Shadow Tactics|39,99€|100|2022-11-10 16h|2022-11-17 16h|
-|82|shadow-tactics|Shadow Tactics: Blades of the Shogun|39,99€|100|2022-11-10 16h|2022-11-17 16h|
-|83|somerville-229529|Somerville|19,99€|10|2022-11-14 00h|2022-11-22 00h|
-|84|specialist-pack-dlc|Specialist Pack DLC|7,99€|67|2022-11-03 15h|2022-11-17 16h|
-|85|splinter-cell|Tom Clancy's Splinter Cell|4,99€|75|2022-11-03 15h|2022-11-10 15h|
-|86|splinter-cell-chaos-theory|Splinter Cell Chaos Theory|9,99€|75|2022-11-03 15h|2022-11-10 15h|
-|87|splinter-cell-double-agent|Tom Clancy’s Splinter Cell Double Agent|4,99€|75|2022-11-03 15h|2022-11-10 15h|
-|88|terracotta-72cc62|TERRACOTTA|19,99€|20|2022-11-07 17h|2023-11-14 17h|
-|89|the-division|Tom Clancy's The Division|29,99€|67|2022-11-03 15h|2022-11-10 15h|
-|90|the-division--gold-edition|Tom Clancy's The Division Gold Edition|49,99€|67|2022-11-03 15h|2022-11-10 15h|
-|91|the-division--season-pass|Tom Clancy's The Division Season Pass|19,99€|75|2022-11-03 15h|2022-11-10 15h|
-|92|the-division-2|The Division 2|29,99€|70|2022-11-03 15h|2022-11-10 15h|
-|93|the-division-2|The Division 2 Standard Edition|29,99€|70|2022-11-03 15h|2022-11-10 15h|
-|94|the-division-2--warlords-of-new-york-edition|The Division 2 Warlords of New York Edition|59,99€|70|2022-11-03 15h|2022-11-10 15h|
-|95|the-division-2--warlords-of-new-york-expansion|Tom Clancy's The Division 2 Warlords Of New York Year 2 Pass|29,99€|70|2022-11-03 15h|2022-11-10 15h|
-|96|the-division-2--warlords-of-new-york-ultimate-edition|The Division 2 Warlords of New York Ultimate Edition|79,99€|70|2022-11-03 15h|2022-11-10 15h|
-|97|the-riftbreaker|The Riftbreaker|29,99€|35|2022-11-18 18h|2022-11-29 18h|
-|98|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|44,99€|35|2022-11-18 18h|2022-11-29 18h|
-|99|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|9,99€|20|2022-11-18 18h|2022-11-29 18h|
-|100|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|9,99€|35|2022-11-18 18h|2022-11-29 18h|
-|101|the-wizard-and-the-slug-482a09|The Wizard and The Slug|3,99€|55|2022-11-14 05h|2022-11-21 05h|
-|102|true-hate-007027|True Hate|5,99€|90|2022-11-10 17h|2022-11-28 17h|
+|80|rogue-legacy-2|Rogue Legacy 2|19,99€|20|2022-11-09 19h|2022-11-16 19h|
+|81|schein-77f039|Schein|3,99€|75|2022-11-14 05h|2022-11-21 05h|
+|82|shadow-tactics|Shadow Tactics|39,99€|100|2022-11-10 16h|2022-11-17 16h|
+|83|shadow-tactics|Shadow Tactics: Blades of the Shogun|39,99€|100|2022-11-10 16h|2022-11-17 16h|
+|84|somerville-229529|Somerville|19,99€|10|2022-11-14 00h|2022-11-22 00h|
+|85|specialist-pack-dlc|Specialist Pack DLC|7,99€|67|2022-11-03 15h|2022-11-17 16h|
+|86|splinter-cell|Tom Clancy's Splinter Cell|4,99€|75|2022-11-03 15h|2022-11-10 15h|
+|87|splinter-cell-chaos-theory|Splinter Cell Chaos Theory|9,99€|75|2022-11-03 15h|2022-11-10 15h|
+|88|splinter-cell-double-agent|Tom Clancy’s Splinter Cell Double Agent|4,99€|75|2022-11-03 15h|2022-11-10 15h|
+|89|terracotta-72cc62|TERRACOTTA|19,99€|20|2022-11-07 17h|2023-11-14 17h|
+|90|the-division|Tom Clancy's The Division|29,99€|67|2022-11-03 15h|2022-11-10 15h|
+|91|the-division--gold-edition|Tom Clancy's The Division Gold Edition|49,99€|67|2022-11-03 15h|2022-11-10 15h|
+|92|the-division--season-pass|Tom Clancy's The Division Season Pass|19,99€|75|2022-11-03 15h|2022-11-10 15h|
+|93|the-division-2|The Division 2|29,99€|70|2022-11-03 15h|2022-11-10 15h|
+|94|the-division-2|The Division 2 Standard Edition|29,99€|70|2022-11-03 15h|2022-11-10 15h|
+|95|the-division-2--warlords-of-new-york-edition|The Division 2 Warlords of New York Edition|59,99€|70|2022-11-03 15h|2022-11-10 15h|
+|96|the-division-2--warlords-of-new-york-expansion|Tom Clancy's The Division 2 Warlords Of New York Year 2 Pass|29,99€|70|2022-11-03 15h|2022-11-10 15h|
+|97|the-division-2--warlords-of-new-york-ultimate-edition|The Division 2 Warlords of New York Ultimate Edition|79,99€|70|2022-11-03 15h|2022-11-10 15h|
+|98|the-riftbreaker|The Riftbreaker|29,99€|35|2022-11-18 18h|2022-11-29 18h|
+|99|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|44,99€|35|2022-11-18 18h|2022-11-29 18h|
+|100|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|9,99€|20|2022-11-18 18h|2022-11-29 18h|
+|101|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|9,99€|35|2022-11-18 18h|2022-11-29 18h|
+|102|the-wizard-and-the-slug-482a09|The Wizard and The Slug|3,99€|55|2022-11-14 05h|2022-11-21 05h|
+|103|true-hate-007027|True Hate|5,99€|90|2022-11-10 17h|2022-11-28 17h|

@@ -60,45 +60,46 @@
 |58|rainbow-six-siege--ultimate-year-7-edition|Rainbow Six Siege Ultimate Edition Y7|89,99€|55|2022-11-03 15h|2022-11-10 15h|
 |59|dlc4|Rear Echelon Cosmetic DLC|7,99€|67|2022-11-03 15h|2022-11-17 16h|
 |60|rising-storm-2-vietnam|Rising Storm 2: Vietnam|21,99€|100|2022-11-03 15h|2022-11-10 16h|
-|61|schein-77f039|Schein|3,99€|75|2022-11-14 05h|2022-11-21 05h|
-|62|dlc2|Sgt Joe's Support Bundle Cosmetic DLC Audience|14,99€|75|2022-11-17 15h|2022-11-17 16h|
-|63|shadow-tactics|Shadow Tactics|39,99€|100|2022-11-10 16h|2022-11-17 16h|
-|64|shadow-tactics|Shadow Tactics: Blades of the Shogun|39,99€|100|2022-11-10 16h|2022-11-17 16h|
-|65|idle-champions-of-the-forgotten-realms--shadowfell-farideh-skin-feat-pack|Shadowfell Farideh Skin & Feat Pack|7,99€|40|2022-11-04 19h|2022-11-07 20h|
-|66|idle-champions-of-the-forgotten-realms--shadowfell-havilar-skin-feat-pack|Shadowfell Havilar Skin & Feat Pack|7,99€|40|2022-11-04 19h|2022-11-07 20h|
-|67|idle-champions-of-the-forgotten-realms--shadowfell-mehen-skin-feat-pack|Shadowfell Mehen Skin & Feat Pack|7,99€|40|2022-11-04 19h|2022-11-07 20h|
-|68|fortnite--shadows-rising-pack|Shadows Rising Pack|15,99€|50|2022-11-18 15h|2022-11-29 12h|
-|69|somerville-229529|Somerville|19,99€|10|2022-11-14 00h|2022-11-22 00h|
-|70|dlc5|Southern Style Cosmetic DLC|7,99€|67|2022-11-03 15h|2022-11-17 16h|
-|71|specialist-pack-dlc|Specialist Pack DLC|7,99€|67|2022-11-03 15h|2022-11-17 16h|
-|72|splinter-cell-chaos-theory|Splinter Cell Chaos Theory|9,99€|75|2022-11-03 15h|2022-11-10 15h|
-|73|terracotta-72cc62|TERRACOTTA|19,99€|20|2022-11-07 17h|2023-11-14 17h|
-|74|fortnite--tech-future-pack|Tech Future Pack|17,99€|50|2022-11-18 15h|2022-11-29 12h|
-|75|the-division-2|The Division 2|29,99€|70|2022-11-03 15h|2022-11-10 15h|
-|76|the-division-2|The Division 2 Standard Edition|29,99€|70|2022-11-03 15h|2022-11-10 15h|
-|77|the-division-2--warlords-of-new-york-edition|The Division 2 Warlords of New York Edition|59,99€|70|2022-11-03 15h|2022-11-10 15h|
-|78|the-division-2--warlords-of-new-york-ultimate-edition|The Division 2 Warlords of New York Ultimate Edition|79,99€|70|2022-11-03 15h|2022-11-10 15h|
-|79|the-riftbreaker|The Riftbreaker|29,99€|35|2022-11-18 18h|2022-11-29 18h|
-|80|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|44,99€|35|2022-11-18 18h|2022-11-29 18h|
-|81|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|9,99€|35|2022-11-18 18h|2022-11-29 18h|
-|82|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|9,99€|20|2022-11-18 18h|2022-11-29 18h|
-|83|the-wizard-and-the-slug-482a09|The Wizard and The Slug|3,99€|55|2022-11-14 05h|2022-11-21 05h|
-|84|ghost-recon-breakpoint|Tom Clancy's Ghost Recon Breakpoint|59,99€|75|2022-11-03 15h|2022-11-10 15h|
-|85|ghost-recon-wildlands|Tom Clancy's Ghost Recon Wildlands|49,99€|75|2022-11-03 15h|2022-11-10 15h|
-|86|ghost-recon-wildlands--gold-edition|Tom Clancy's Ghost Recon Wildlands Gold Edition|69,99€|75|2022-11-03 15h|2022-11-10 15h|
-|87|ghost-recon-wildlands|Tom Clancy's Ghost Recon Wildlands Standard Edition|49,99€|75|2022-11-03 15h|2022-11-10 15h|
-|88|ghost-recon-wildlands--ultimate-edition|Tom Clancy's Ghost Recon Wildlands Ultimate Edition|99,99€|75|2022-11-03 15h|2022-11-10 15h|
-|89|rainbow-six-extraction|Tom Clancy's Rainbow Six Extraction|39,99€|60|2022-11-03 15h|2022-11-10 15h|
-|90|rainbow-six-extraction--deluxe-edition|Tom Clancy's Rainbow Six Extraction Deluxe Edition|49,99€|60|2022-11-03 15h|2022-11-10 15h|
-|91|rainbow-six-quarantine|Tom Clancy's Rainbow Six Quarantine|39,99€|60|2022-11-03 15h|2022-11-10 15h|
-|92|splinter-cell|Tom Clancy's Splinter Cell|4,99€|75|2022-11-03 15h|2022-11-10 15h|
-|93|the-division|Tom Clancy's The Division|29,99€|67|2022-11-03 15h|2022-11-10 15h|
-|94|the-division-2--warlords-of-new-york-expansion|Tom Clancy's The Division 2 Warlords Of New York Year 2 Pass|29,99€|70|2022-11-03 15h|2022-11-10 15h|
-|95|the-division--gold-edition|Tom Clancy's The Division Gold Edition|49,99€|67|2022-11-03 15h|2022-11-10 15h|
-|96|the-division--season-pass|Tom Clancy's The Division Season Pass|19,99€|75|2022-11-03 15h|2022-11-10 15h|
-|97|ghost-recon-wildlands--fallen-ghosts-dlc|Tom Clancy’s Ghost Recon® Wildlands - Fallen Ghosts|14,99€|70|2022-11-03 15h|2022-11-10 15h|
-|98|ghost-recon-wildlands--year-1-pass|Tom Clancy’s Ghost Recon® Wildlands Season Pass Year 1|39,99€|70|2022-11-03 15h|2022-11-10 15h|
-|99|ghost-recon-wildlands--year-2-pass|Tom Clancy’s Ghost Recon® Wildlands Year 2 Pass|29,99€|70|2022-11-03 15h|2022-11-10 15h|
-|100|splinter-cell-double-agent|Tom Clancy’s Splinter Cell Double Agent|4,99€|75|2022-11-03 15h|2022-11-10 15h|
-|101|true-hate-007027|True Hate|5,99€|90|2022-11-10 17h|2022-11-28 17h|
-|102|dlc8|Uncle Ho's Heroes Cosmetic DLC|7,99€|67|2022-11-03 15h|2022-11-17 16h|
+|61|rogue-legacy-2|Rogue Legacy 2|19,99€|20|2022-11-09 19h|2022-11-16 19h|
+|62|schein-77f039|Schein|3,99€|75|2022-11-14 05h|2022-11-21 05h|
+|63|dlc2|Sgt Joe's Support Bundle Cosmetic DLC Audience|14,99€|75|2022-11-17 15h|2022-11-17 16h|
+|64|shadow-tactics|Shadow Tactics|39,99€|100|2022-11-10 16h|2022-11-17 16h|
+|65|shadow-tactics|Shadow Tactics: Blades of the Shogun|39,99€|100|2022-11-10 16h|2022-11-17 16h|
+|66|idle-champions-of-the-forgotten-realms--shadowfell-farideh-skin-feat-pack|Shadowfell Farideh Skin & Feat Pack|7,99€|40|2022-11-04 19h|2022-11-07 20h|
+|67|idle-champions-of-the-forgotten-realms--shadowfell-havilar-skin-feat-pack|Shadowfell Havilar Skin & Feat Pack|7,99€|40|2022-11-04 19h|2022-11-07 20h|
+|68|idle-champions-of-the-forgotten-realms--shadowfell-mehen-skin-feat-pack|Shadowfell Mehen Skin & Feat Pack|7,99€|40|2022-11-04 19h|2022-11-07 20h|
+|69|fortnite--shadows-rising-pack|Shadows Rising Pack|15,99€|50|2022-11-18 15h|2022-11-29 12h|
+|70|somerville-229529|Somerville|19,99€|10|2022-11-14 00h|2022-11-22 00h|
+|71|dlc5|Southern Style Cosmetic DLC|7,99€|67|2022-11-03 15h|2022-11-17 16h|
+|72|specialist-pack-dlc|Specialist Pack DLC|7,99€|67|2022-11-03 15h|2022-11-17 16h|
+|73|splinter-cell-chaos-theory|Splinter Cell Chaos Theory|9,99€|75|2022-11-03 15h|2022-11-10 15h|
+|74|terracotta-72cc62|TERRACOTTA|19,99€|20|2022-11-07 17h|2023-11-14 17h|
+|75|fortnite--tech-future-pack|Tech Future Pack|17,99€|50|2022-11-18 15h|2022-11-29 12h|
+|76|the-division-2|The Division 2|29,99€|70|2022-11-03 15h|2022-11-10 15h|
+|77|the-division-2|The Division 2 Standard Edition|29,99€|70|2022-11-03 15h|2022-11-10 15h|
+|78|the-division-2--warlords-of-new-york-edition|The Division 2 Warlords of New York Edition|59,99€|70|2022-11-03 15h|2022-11-10 15h|
+|79|the-division-2--warlords-of-new-york-ultimate-edition|The Division 2 Warlords of New York Ultimate Edition|79,99€|70|2022-11-03 15h|2022-11-10 15h|
+|80|the-riftbreaker|The Riftbreaker|29,99€|35|2022-11-18 18h|2022-11-29 18h|
+|81|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|44,99€|35|2022-11-18 18h|2022-11-29 18h|
+|82|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|9,99€|35|2022-11-18 18h|2022-11-29 18h|
+|83|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|9,99€|20|2022-11-18 18h|2022-11-29 18h|
+|84|the-wizard-and-the-slug-482a09|The Wizard and The Slug|3,99€|55|2022-11-14 05h|2022-11-21 05h|
+|85|ghost-recon-breakpoint|Tom Clancy's Ghost Recon Breakpoint|59,99€|75|2022-11-03 15h|2022-11-10 15h|
+|86|ghost-recon-wildlands|Tom Clancy's Ghost Recon Wildlands|49,99€|75|2022-11-03 15h|2022-11-10 15h|
+|87|ghost-recon-wildlands--gold-edition|Tom Clancy's Ghost Recon Wildlands Gold Edition|69,99€|75|2022-11-03 15h|2022-11-10 15h|
+|88|ghost-recon-wildlands|Tom Clancy's Ghost Recon Wildlands Standard Edition|49,99€|75|2022-11-03 15h|2022-11-10 15h|
+|89|ghost-recon-wildlands--ultimate-edition|Tom Clancy's Ghost Recon Wildlands Ultimate Edition|99,99€|75|2022-11-03 15h|2022-11-10 15h|
+|90|rainbow-six-extraction|Tom Clancy's Rainbow Six Extraction|39,99€|60|2022-11-03 15h|2022-11-10 15h|
+|91|rainbow-six-extraction--deluxe-edition|Tom Clancy's Rainbow Six Extraction Deluxe Edition|49,99€|60|2022-11-03 15h|2022-11-10 15h|
+|92|rainbow-six-quarantine|Tom Clancy's Rainbow Six Quarantine|39,99€|60|2022-11-03 15h|2022-11-10 15h|
+|93|splinter-cell|Tom Clancy's Splinter Cell|4,99€|75|2022-11-03 15h|2022-11-10 15h|
+|94|the-division|Tom Clancy's The Division|29,99€|67|2022-11-03 15h|2022-11-10 15h|
+|95|the-division-2--warlords-of-new-york-expansion|Tom Clancy's The Division 2 Warlords Of New York Year 2 Pass|29,99€|70|2022-11-03 15h|2022-11-10 15h|
+|96|the-division--gold-edition|Tom Clancy's The Division Gold Edition|49,99€|67|2022-11-03 15h|2022-11-10 15h|
+|97|the-division--season-pass|Tom Clancy's The Division Season Pass|19,99€|75|2022-11-03 15h|2022-11-10 15h|
+|98|ghost-recon-wildlands--fallen-ghosts-dlc|Tom Clancy’s Ghost Recon® Wildlands - Fallen Ghosts|14,99€|70|2022-11-03 15h|2022-11-10 15h|
+|99|ghost-recon-wildlands--year-1-pass|Tom Clancy’s Ghost Recon® Wildlands Season Pass Year 1|39,99€|70|2022-11-03 15h|2022-11-10 15h|
+|100|ghost-recon-wildlands--year-2-pass|Tom Clancy’s Ghost Recon® Wildlands Year 2 Pass|29,99€|70|2022-11-03 15h|2022-11-10 15h|
+|101|splinter-cell-double-agent|Tom Clancy’s Splinter Cell Double Agent|4,99€|75|2022-11-03 15h|2022-11-10 15h|
+|102|true-hate-007027|True Hate|5,99€|90|2022-11-10 17h|2022-11-28 17h|
+|103|dlc8|Uncle Ho's Heroes Cosmetic DLC|7,99€|67|2022-11-03 15h|2022-11-17 16h|
