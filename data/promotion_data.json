@@ -28,57 +28,606 @@
   },
   {
     "discountPercentage": 50,
-    "endDate": "2022-11-22T14:00:00.000Z",
+    "endDate": "2022-11-17T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1499,
-    "slug": "among-trees",
-    "startDate": "2022-11-07T14:00:00.000Z",
-    "title": "Among Trees"
+    "slug": "anno-1404",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Anno 1404 History Edition"
   },
   {
     "discountPercentage": 50,
-    "endDate": "2022-11-22T14:00:00.000Z",
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "anno-1701",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Anno 1701 History Edition"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "anno-1800",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Anno 1800"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "anno-1800--deluxe-pack",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Anno 1800 Deluxe Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "anno-1800--season-pass",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Anno 1800 Season Pass"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "anno-1800--season-pass-2",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Anno 1800 Season Pass 2"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "anno-1800",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Anno 1800 Standard Edition"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 499,
+    "slug": "anno-1800--amusements-pack",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Anno 1800: Amusements DLC"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 499,
+    "slug": "anno-1800--city-lights",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Anno 1800\u2122 - City Lights Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 11999,
+    "slug": "anno-1800--complete-edition-year-4",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Anno 1800\u2122 Complete Edition Year 4"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "anno-1800--empire-of-the-skies",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Anno 1800\u2122 DLC 11 Empire of the Skies"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 699,
+    "slug": "anno-1800--docklands",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Anno 1800\u2122 Docklands"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 7999,
+    "slug": "anno-1800--gold-edition-year-4",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Anno 1800\u2122 Gold Edition Year 4"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 499,
+    "slug": "anno-1800--industrial-zone-pack",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Anno 1800\u2122 Industrial Zone Pack"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "anno-1800--season-pass-3",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Anno 1800\u2122 Season 3 Pass"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "anno-1800--season-4-pass",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Anno 1800\u2122 Season 4 Pass"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "anno-1800--the-high-life",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Anno 1800\u2122 The High Life"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "anno-1800--tourist-season",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Anno 1800\u2122 Tourist Season"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 499,
+    "slug": "anno-1800--vehicle-liveries-pack",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Anno 1800\u2122 Vehicle Liveries Pack"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 499,
+    "slug": "anno-1800--vibrant-cities-pack",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Anno 1800\u2122 Vibrant Cities Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "anno-1800--holiday-pack",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Anno 1800\u2122: Holiday Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "anno-1800--land-of-lions",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Anno 1800\u2122: Land of Lions"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 499,
+    "slug": "anno-1800--pedestrian-zone-pack",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Anno 1800\u2122: Pedestrian Zone Pack"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "anno-2070",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Anno 2070"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "anno-2205",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Anno 2205"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "anno-2205",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Anno 2205 - Standard Edition"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "anno-2205--ultimate-edition",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Anno 2205 - Ultimate Edition"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "anno-2205--frontiers",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Anno 2205 Frontiers DLC"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "anno-2205--orbit",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Anno 2205 Orbit DLC"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "anno-2205--season-pass",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Anno 2205 Season Pass"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "anno-2205--tundra",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Anno 2205 Tundra DLC"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "assassins-creed-3",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Assassin's Creed III Remastered"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "assassins-creed-odyssey",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Assassin's Creed Odyssey"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "assassins-creed-odyssey--season-pass",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Assassin's Creed Odyssey - Season Pass"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "assassins-creed-origins",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Assassin's Creed Origins"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 6999,
+    "slug": "assassins-creed-origins--deluxe-edition",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Assassin's Creed Origins Deluxe Edition"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 8999,
+    "slug": "assassins-creed-origins--gold-edition",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Assassin's Creed Origins Gold Edition"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "assassins-creed-origins--season-pass",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Assassin's Creed Origins Season Pass"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "assassins-creed-origins",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Assassin's Creed Origins Standard Edition"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "assassins-creed-rogue",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Assassin's Creed Rogue"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "assassins-creed-rogue--deluxe-edition",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Assassin's Creed Rogue Deluxe Edition"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "assassins-creed-rogue",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Assassin's Creed Rogue Standard Edition"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "assassins-creed-syndicate",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Assassin's Creed Syndicate"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 6999,
+    "slug": "assassins-creed-syndicate--gold-edition",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Assassin's Creed Syndicate Gold Edition"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "assassins-creed-syndicate",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Assassin's Creed Syndicate Standard Edition"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "assassins-creed-unity",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Assassin's Creed Unity"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "assassins-creed-unity",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Assassin's Creed Unity"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "assassins-creed-valhalla--season-pass",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Assassin's Creed: Valhalla Season Pass"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "assassins-creed-1",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Assassin's Creed\u00ae I: Director's Cut"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "assassins-creed-3",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Assassin's Creed\u00ae III: Remastered"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "assassins-creed-valhalla--the-siege-of-paris",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Assassin's Creed\u00ae Valhalla - The Siege of Paris"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "assassins-creed-valhalla--wrath-of-the-druids",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Assassin's Creed\u00ae Valhalla - Wrath of the Druids"
+  },
+  {
+    "discountPercentage": 65,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 13999,
+    "slug": "assassins-creed-valhalla--complete-edition",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Assassin's Creed\u00ae Valhalla Complete Edition"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 7999,
+    "slug": "assassins-creed-valhalla--deluxe-edition",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Assassin's Creed\u00ae Valhalla Deluxe Edition"
+  },
+  {
+    "discountPercentage": 65,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 9999,
+    "slug": "assassins-creed-valhalla--ragnarok-edition",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Assassin's Creed\u00ae Valhalla Ragnar\u00f6k Edition"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "assassins-creed-valhalla",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Assassin's Creed\u00ae Valhalla Standard Edition"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "assassins-creed-valhalla--dawn-of-ragnarok",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Assassin's Creed\u00ae Valhalla: Dawn of Ragnar\u00f6k"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 7999,
+    "slug": "assassins-creed-odyssey--deluxe-edition",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Assassins Creed Odyssey Deluxe Edition"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 9999,
+    "slug": "assassins-creed-odyssey--gold-edition",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Assassins Creed Odyssey Gold Edition"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "assassins-creed-odyssey",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Assassins Creed Odyssey Standard Edition"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 11499,
+    "slug": "assassins-creed-odyssey--ultimate-edition",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Assassins Creed Odyssey Ultimate Edition"
+  },
+  {
+    "discountPercentage": 66,
+    "endDate": "2022-11-17T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1499,
-    "slug": "among-trees",
-    "startDate": "2022-11-07T14:00:00.000Z",
-    "title": "Among Trees"
+    "slug": "assassins-creed-syndicate--jack-the-ripper",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Assassins Creed Syndicate Jack the Ripper"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2022-11-07T20:00:00.000Z",
+    "discountPercentage": 75,
+    "endDate": "2022-11-17T15:00:00.000Z",
     "isFree": false,
-    "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--ascendant-evelyn-skin-and-feat-pack",
-    "startDate": "2022-11-04T19:00:00.000Z",
-    "title": "Ascendant Evelyn Skin & Feat Pack"
+    "originalPrice": 2999,
+    "slug": "assassins-creed-syndicate--season-pass",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Assassins Creed Syndicate Season Pass"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2022-11-07T20:00:00.000Z",
+    "discountPercentage": 66,
+    "endDate": "2022-11-17T15:00:00.000Z",
     "isFree": false,
-    "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--ascendant-melf-skin-and-feat-pack",
-    "startDate": "2022-11-04T19:00:00.000Z",
-    "title": "Ascendant Melf Skin & Feat Pack"
+    "originalPrice": 499,
+    "slug": "assassins-creed-syndicate--the-dreadful-crimes",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Assassins Creed Syndicate The Dreadful Crimes"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2022-11-07T20:00:00.000Z",
+    "discountPercentage": 66,
+    "endDate": "2022-11-17T15:00:00.000Z",
     "isFree": false,
-    "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--ascendant-strix-skin-and-feat-pack",
-    "startDate": "2022-11-04T19:00:00.000Z",
-    "title": "Ascendant Strix Skin & Feat Pack"
+    "originalPrice": 699,
+    "slug": "assassins-creed-syndicate--the-last-maharaja",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Assassins Creed Syndicate The Last Maharaja"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2022-11-07T20:00:00.000Z",
+    "discountPercentage": 70,
+    "endDate": "2022-11-17T15:00:00.000Z",
     "isFree": false,
-    "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--ascendant-walnut-skin-and-feat-pack",
-    "startDate": "2022-11-04T19:00:00.000Z",
-    "title": "Ascendant Walnut Skin & Feat Pack"
+    "originalPrice": 10999,
+    "slug": "assassins-creed-valhalla-watch-dogs-legion-bundle",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Assassin\u2019s Creed Valhalla + Watch Dogs: Legion Bundle"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 10999,
+    "slug": "assassins-creed-valhalla-immortals-fenyx-rising-bundle",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Assassin\u2019s Creed\u00ae Valhalla + Immortals Fenyx Rising\u2122 Bundle"
   },
   {
     "discountPercentage": 10,
@@ -135,22 +684,22 @@
     "title": "Blossom Tales II The Minotaur Prince"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2022-11-07T20:00:00.000Z",
+    "discountPercentage": 50,
+    "endDate": "2022-11-17T15:00:00.000Z",
     "isFree": false,
-    "originalPrice": 1999,
-    "slug": "idle-champions-of-the-forgotten-realms--brimstone-angels-shadowfell-bundle-pack",
-    "startDate": "2022-11-04T19:00:00.000Z",
-    "title": "Brimstone Angels Shadowfell Bundle Pack"
+    "originalPrice": 799,
+    "slug": "anno-1800--botanica",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Botanica - DLC"
   },
   {
-    "discountPercentage": 79,
-    "endDate": "2022-11-20T04:00:00.000Z",
+    "discountPercentage": 50,
+    "endDate": "2022-11-17T15:00:00.000Z",
     "isFree": false,
-    "originalPrice": 1998,
-    "slug": "bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b",
-    "startDate": "2022-11-04T04:00:00.000Z",
-    "title": "Bud Spencer and Terence Hill - Slaps and Beans"
+    "originalPrice": 699,
+    "slug": "anno-1800--bright-harvest",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Bright Harvest - DLC"
   },
   {
     "discountPercentage": 80,
@@ -160,15 +709,6 @@
     "slug": "bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b",
     "startDate": "2022-12-16T04:00:00.000Z",
     "title": "Bud Spencer and Terence Hill - Slaps and Beans"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2022-11-24T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 79,
-    "slug": "car-tuning-simulator-38ddaf",
-    "startDate": "2022-11-05T17:00:00.000Z",
-    "title": "Car Tuning Simulator"
   },
   {
     "discountPercentage": 90,
@@ -216,6 +756,24 @@
     "title": "Dark Light"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "discovery-tour-viking-age",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Discovery Tour: Viking Age"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2022-11-17T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "fabular-once-upon-a-spacetime-b73ba1",
+    "startDate": "2022-11-10T17:00:00.000Z",
+    "title": "Fabular: Once Upon a Spacetime"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2022-11-29T18:00:00.000Z",
     "isFree": false,
@@ -223,33 +781,6 @@
     "slug": "gigabash",
     "startDate": "2022-11-22T18:00:00.000Z",
     "title": "GigaBash"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-11-07T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "idle-champions-of-the-forgotten-realms--gladiator-havilar-theme-pack",
-    "startDate": "2022-11-04T19:00:00.000Z",
-    "title": "Gladiator Havilar Theme Pack"
-  },
-  {
-    "discountPercentage": 45,
-    "endDate": "2022-11-14T05:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "hirilun-d92aa3",
-    "startDate": "2022-11-07T05:00:00.000Z",
-    "title": "Hirilun"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2022-11-16T05:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "hunter-girls-96020a",
-    "startDate": "2022-11-09T05:00:00.000Z",
-    "title": "Hunter Girls"
   },
   {
     "discountPercentage": 40,
@@ -261,6 +792,15 @@
     "title": "Landlubber Rust Skin & Feat Pack"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "assassins-creed-odyssey--dlc-1",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Legacy of the First Blade - DLC"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2022-11-18T05:00:00.000Z",
     "isFree": false,
@@ -268,6 +808,24 @@
     "slug": "liberated-f13008",
     "startDate": "2022-11-11T05:00:00.000Z",
     "title": "Liberated"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2022-11-21T18:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "little-inferno",
+    "startDate": "2022-11-18T18:00:00.000Z",
+    "title": "Little Inferno"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2022-11-21T18:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "little-inferno",
+    "startDate": "2022-11-18T18:00:00.000Z",
+    "title": "Little Inferno"
   },
   {
     "discountPercentage": 45,
@@ -279,15 +837,6 @@
     "title": "Maritime Calling"
   },
   {
-    "discountPercentage": 30,
-    "endDate": "2022-11-07T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1199,
-    "slug": "idle-champions-of-the-forgotten-realms--marmadark-the-pup-of-ill-omens-familiar-pack",
-    "startDate": "2022-11-04T19:00:00.000Z",
-    "title": "Marmadark the Pup of Ill Omens Familiar Pack"
-  },
-  {
     "discountPercentage": 40,
     "endDate": "2022-11-29T12:00:00.000Z",
     "isFree": false,
@@ -297,31 +846,49 @@
     "title": "Minty Legends Pack"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2022-11-11T05:00:00.000Z",
+    "discountPercentage": 20,
+    "endDate": "2022-11-29T17:00:00.000Z",
     "isFree": false,
-    "originalPrice": 399,
-    "slug": "necroworm-5784e5",
-    "startDate": "2022-11-04T04:00:00.000Z",
-    "title": "NecroWorm"
-  },
-  {
-    "discountPercentage": 55,
-    "endDate": "2022-11-14T05:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 399,
-    "slug": "paladin-dream-5d04e2",
-    "startDate": "2022-11-07T05:00:00.000Z",
-    "title": "Paladin Dream"
+    "originalPrice": 2099,
+    "slug": "my-time-at-sandrock",
+    "startDate": "2022-11-22T17:00:00.000Z",
+    "title": "My Time at Sandrock"
   },
   {
     "discountPercentage": 50,
-    "endDate": "2022-11-16T05:00:00.000Z",
+    "endDate": "2022-11-22T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": 239,
-    "slug": "paramnesia-a49100",
-    "startDate": "2022-11-09T05:00:00.000Z",
-    "title": "Paramnesia"
+    "originalPrice": 1999,
+    "slug": "naraka-bladepoint",
+    "startDate": "2022-11-17T16:00:00.000Z",
+    "title": "NARAKA: BLADEPOINT"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-11-22T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5099,
+    "slug": "naraka-bladepoint--ultimate-edition",
+    "startDate": "2022-11-17T16:00:00.000Z",
+    "title": "NARAKA: BLADEPOINT  Ultimate Edition"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-11-22T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3499,
+    "slug": "naraka-bladepoint--deluxe-edition",
+    "startDate": "2022-11-17T16:00:00.000Z",
+    "title": "NARAKA: BLADEPOINT Deluxe Edition"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2022-11-18T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1399,
+    "slug": "nero-0011a8",
+    "startDate": "2022-11-11T16:00:00.000Z",
+    "title": "NERO"
   },
   {
     "discountPercentage": 40,
@@ -396,6 +963,15 @@
     "title": "Schein"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "anno-1800--seat-of-power",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Seat of Power - DLC"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2022-11-17T16:00:00.000Z",
     "isFree": false,
@@ -423,33 +999,6 @@
     "title": "Shadow Tactics: Blades of the Shogun"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2022-11-07T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--shadowfell-farideh-skin-feat-pack",
-    "startDate": "2022-11-04T19:00:00.000Z",
-    "title": "Shadowfell Farideh Skin & Feat Pack"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-11-07T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--shadowfell-havilar-skin-feat-pack",
-    "startDate": "2022-11-04T19:00:00.000Z",
-    "title": "Shadowfell Havilar Skin & Feat Pack"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-11-07T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--shadowfell-mehen-skin-feat-pack",
-    "startDate": "2022-11-04T19:00:00.000Z",
-    "title": "Shadowfell Mehen Skin & Feat Pack"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2022-11-29T12:00:00.000Z",
     "isFree": false,
@@ -468,12 +1017,21 @@
     "title": "Somerville"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "anno-1800--sunken-treasures",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "Sunken Treasures - DLC"
+  },
+  {
     "discountPercentage": 20,
-    "endDate": "2023-11-14T17:00:00.000Z",
+    "endDate": "2022-11-21T17:00:00.000Z",
     "isFree": false,
     "originalPrice": 1999,
     "slug": "terracotta-72cc62",
-    "startDate": "2022-11-07T17:00:00.000Z",
+    "startDate": "2022-11-14T17:00:00.000Z",
     "title": "TERRACOTTA"
   },
   {
@@ -484,6 +1042,42 @@
     "slug": "fortnite--tech-future-pack",
     "startDate": "2022-11-18T15:51:00.000Z",
     "title": "Tech Future Pack"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "assassins-creed-origins--the-curse-of-the-pharaohs",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "The Curse of the Pharaohs - DLC"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "assassins-creed-odyssey--dlc-2",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "The Fate of Atlantis - DLC"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "assassins-creed-origins--the-hidden-ones",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "The Hidden Ones - DLC"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-11-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "anno-1800--the-passage",
+    "startDate": "2022-11-10T15:00:00.000Z",
+    "title": "The Passage - DLC"
   },
   {
     "discountPercentage": 35,
