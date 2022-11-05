@@ -36,19 +36,18 @@
 |34|naraka-bladepoint|NARAKA: BLADEPOINT|19,99€|50|2022-11-17 16h|2022-11-22 16h|
 |35|naraka-bladepoint--ultimate-edition|NARAKA: BLADEPOINT  Ultimate Edition|50,99€|50|2022-11-17 16h|2022-11-22 16h|
 |36|naraka-bladepoint--deluxe-edition|NARAKA: BLADEPOINT Deluxe Edition|34,99€|50|2022-11-17 16h|2022-11-22 16h|
-|37|car-tuning-simulator-38ddaf|Car Tuning Simulator|0,79€|50|2022-11-05 17h|2022-11-24 17h|
-|38|true-hate-007027|True Hate|5,99€|90|2022-11-10 17h|2022-11-28 17h|
-|39|fortnite--minty-legends-pack|Minty Legends Pack|19,99€|40|2022-11-18 00h|2022-11-29 12h|
-|40|fortnite--shadows-rising-pack|Shadows Rising Pack|15,99€|50|2022-11-18 15h|2022-11-29 12h|
-|41|fortnite--tech-future-pack|Tech Future Pack|17,99€|50|2022-11-18 15h|2022-11-29 12h|
-|42|blossom-tales-ii-the-minotaur-prince-e74c95|Blossom Tales II The Minotaur Prince|12,49€|20|2022-11-22 16h|2022-11-29 16h|
-|43|gigabash|GigaBash|31,99€|25|2022-11-22 18h|2022-11-29 18h|
-|44|the-riftbreaker|The Riftbreaker|29,99€|35|2022-11-18 18h|2022-11-29 18h|
-|45|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|44,99€|35|2022-11-18 18h|2022-11-29 18h|
-|46|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|9,99€|35|2022-11-18 18h|2022-11-29 18h|
-|47|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|9,99€|20|2022-11-18 18h|2022-11-29 18h|
-|48|chains-8ac580|Chains|1,59€|45|2022-11-28 05h|2022-12-05 05h|
-|49|maritime-calling-636728|Maritime Calling|11,99€|45|2022-11-28 05h|2022-12-05 05h|
-|50|away-the-survival-series|AWAY: The Survival Series|15,99€|60|2022-11-21 17h|2022-12-05 17h|
-|51|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|80|2022-12-16 04h|2023-01-01 04h|
-|52|blazing-beaks-3d4864|Blazing Beaks|11,99€|75|2022-12-15 15h|2023-01-02 15h|
+|37|true-hate-007027|True Hate|5,99€|90|2022-11-10 17h|2022-11-28 17h|
+|38|fortnite--minty-legends-pack|Minty Legends Pack|19,99€|40|2022-11-18 00h|2022-11-29 12h|
+|39|fortnite--shadows-rising-pack|Shadows Rising Pack|15,99€|50|2022-11-18 15h|2022-11-29 12h|
+|40|fortnite--tech-future-pack|Tech Future Pack|17,99€|50|2022-11-18 15h|2022-11-29 12h|
+|41|blossom-tales-ii-the-minotaur-prince-e74c95|Blossom Tales II The Minotaur Prince|12,49€|20|2022-11-22 16h|2022-11-29 16h|
+|42|gigabash|GigaBash|31,99€|25|2022-11-22 18h|2022-11-29 18h|
+|43|the-riftbreaker|The Riftbreaker|29,99€|35|2022-11-18 18h|2022-11-29 18h|
+|44|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|44,99€|35|2022-11-18 18h|2022-11-29 18h|
+|45|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|9,99€|35|2022-11-18 18h|2022-11-29 18h|
+|46|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|9,99€|20|2022-11-18 18h|2022-11-29 18h|
+|47|chains-8ac580|Chains|1,59€|45|2022-11-28 05h|2022-12-05 05h|
+|48|maritime-calling-636728|Maritime Calling|11,99€|45|2022-11-28 05h|2022-12-05 05h|
+|49|away-the-survival-series|AWAY: The Survival Series|15,99€|60|2022-11-21 17h|2022-12-05 17h|
+|50|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|80|2022-12-16 04h|2023-01-01 04h|
+|51|blazing-beaks-3d4864|Blazing Beaks|11,99€|75|2022-12-15 15h|2023-01-02 15h|

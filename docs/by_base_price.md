@@ -51,4 +51,3 @@
 |49|the-wizard-and-the-slug-482a09|The Wizard and The Slug|3,99€|55|2022-11-14 05h|2022-11-21 05h|
 |50|paramnesia-a49100|Paramnesia|2,39€|50|2022-11-09 05h|2022-11-16 05h|
 |51|chains-8ac580|Chains|1,59€|45|2022-11-28 05h|2022-12-05 05h|
-|52|car-tuning-simulator-38ddaf|Car Tuning Simulator|0,79€|50|2022-11-05 17h|2022-11-24 17h|
