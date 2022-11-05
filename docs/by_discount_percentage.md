@@ -47,7 +47,7 @@
 |45|dark-light|Dark Light|13,99€|22|2022-11-10 15h|2022-11-22 15h|
 |46|blossom-tales-ii-the-minotaur-prince-e74c95|Blossom Tales II The Minotaur Prince|12,49€|20|2022-11-22 16h|2022-11-29 16h|
 |47|rogue-legacy-2|Rogue Legacy 2|19,99€|20|2022-11-09 19h|2022-11-16 19h|
-|48|terracotta-72cc62|TERRACOTTA|19,99€|20|2022-11-07 17h|2023-11-14 17h|
+|48|terracotta-72cc62|TERRACOTTA|19,99€|20|2022-11-14 17h|2022-11-21 17h|
 |49|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|9,99€|20|2022-11-18 18h|2022-11-29 18h|
 |50|beat-hazard-3-c8ef04|Beat Hazard 3|14,49€|10|2022-11-14 18h|2022-11-21 18h|
 |51|fabular-once-upon-a-spacetime-b73ba1|Fabular: Once Upon a Spacetime|11,99€|10|2022-11-10 17h|2022-11-17 17h|

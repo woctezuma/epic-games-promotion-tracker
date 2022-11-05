@@ -4,26 +4,26 @@
 |2|hirilun-d92aa3|Hirilun|7,99€|45|2022-11-07 05h|2022-11-14 05h|
 |3|paladin-dream-5d04e2|Paladin Dream|3,99€|55|2022-11-07 05h|2022-11-14 05h|
 |4|among-trees|Among Trees|14,99€|50|2022-11-07 14h|2022-11-22 14h|
-|5|terracotta-72cc62|TERRACOTTA|19,99€|20|2022-11-07 17h|2023-11-14 17h|
-|6|hunter-girls-96020a|Hunter Girls|7,99€|50|2022-11-09 05h|2022-11-16 05h|
-|7|paramnesia-a49100|Paramnesia|2,39€|50|2022-11-09 05h|2022-11-16 05h|
-|8|rogue-legacy-2|Rogue Legacy 2|19,99€|20|2022-11-09 19h|2022-11-16 19h|
-|9|dark-light|Dark Light|13,99€|22|2022-11-10 15h|2022-11-22 15h|
-|10|alba-a-wildlife-adventure-93736a|Alba - A Wildlife Adventure|16,99€|100|2022-11-10 16h|2022-11-17 16h|
-|11|shadow-tactics|Shadow Tactics|39,99€|100|2022-11-10 16h|2022-11-17 16h|
-|12|shadow-tactics|Shadow Tactics: Blades of the Shogun|39,99€|100|2022-11-10 16h|2022-11-17 16h|
-|13|fabular-once-upon-a-spacetime-b73ba1|Fabular: Once Upon a Spacetime|11,99€|10|2022-11-10 17h|2022-11-17 17h|
-|14|true-hate-007027|True Hate|5,99€|90|2022-11-10 17h|2022-11-28 17h|
-|15|liberated-f13008|Liberated|15,99€|50|2022-11-11 05h|2022-11-18 05h|
-|16|idle-champions-of-the-forgotten-realms--colonel-pest-the-pest-mascot-familiar-pack|Colonel Pest the Pest Mascot Familiar Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
-|17|idle-champions-of-the-forgotten-realms--polymorphed-baeloth-skin-feat-pack|Polymorphed Baeloth Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
-|18|idle-champions-of-the-forgotten-realms--polymorphed-desmond-skin-feat-pack|Polymorphed Desmond Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
-|19|idle-champions-of-the-forgotten-realms--polymorphed-farideh-skin-feat-pack|Polymorphed Farideh Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
-|20|idle-champions-of-the-forgotten-realms--polymorphed-shaka-skin-feat-pack|Polymorphed Shaka Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
-|21|idle-champions-of-the-forgotten-realms--polymorphed-tatyana-skin-feat-pack|Polymorphed Tatyana Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
-|22|somerville-229529|Somerville|19,99€|10|2022-11-14 00h|2022-11-22 00h|
-|23|schein-77f039|Schein|3,99€|75|2022-11-14 05h|2022-11-21 05h|
-|24|the-wizard-and-the-slug-482a09|The Wizard and The Slug|3,99€|55|2022-11-14 05h|2022-11-21 05h|
+|5|hunter-girls-96020a|Hunter Girls|7,99€|50|2022-11-09 05h|2022-11-16 05h|
+|6|paramnesia-a49100|Paramnesia|2,39€|50|2022-11-09 05h|2022-11-16 05h|
+|7|rogue-legacy-2|Rogue Legacy 2|19,99€|20|2022-11-09 19h|2022-11-16 19h|
+|8|dark-light|Dark Light|13,99€|22|2022-11-10 15h|2022-11-22 15h|
+|9|alba-a-wildlife-adventure-93736a|Alba - A Wildlife Adventure|16,99€|100|2022-11-10 16h|2022-11-17 16h|
+|10|shadow-tactics|Shadow Tactics|39,99€|100|2022-11-10 16h|2022-11-17 16h|
+|11|shadow-tactics|Shadow Tactics: Blades of the Shogun|39,99€|100|2022-11-10 16h|2022-11-17 16h|
+|12|fabular-once-upon-a-spacetime-b73ba1|Fabular: Once Upon a Spacetime|11,99€|10|2022-11-10 17h|2022-11-17 17h|
+|13|true-hate-007027|True Hate|5,99€|90|2022-11-10 17h|2022-11-28 17h|
+|14|liberated-f13008|Liberated|15,99€|50|2022-11-11 05h|2022-11-18 05h|
+|15|idle-champions-of-the-forgotten-realms--colonel-pest-the-pest-mascot-familiar-pack|Colonel Pest the Pest Mascot Familiar Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
+|16|idle-champions-of-the-forgotten-realms--polymorphed-baeloth-skin-feat-pack|Polymorphed Baeloth Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
+|17|idle-champions-of-the-forgotten-realms--polymorphed-desmond-skin-feat-pack|Polymorphed Desmond Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
+|18|idle-champions-of-the-forgotten-realms--polymorphed-farideh-skin-feat-pack|Polymorphed Farideh Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
+|19|idle-champions-of-the-forgotten-realms--polymorphed-shaka-skin-feat-pack|Polymorphed Shaka Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
+|20|idle-champions-of-the-forgotten-realms--polymorphed-tatyana-skin-feat-pack|Polymorphed Tatyana Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
+|21|somerville-229529|Somerville|19,99€|10|2022-11-14 00h|2022-11-22 00h|
+|22|schein-77f039|Schein|3,99€|75|2022-11-14 05h|2022-11-21 05h|
+|23|the-wizard-and-the-slug-482a09|The Wizard and The Slug|3,99€|55|2022-11-14 05h|2022-11-21 05h|
+|24|terracotta-72cc62|TERRACOTTA|19,99€|20|2022-11-14 17h|2022-11-21 17h|
 |25|beat-hazard-3-c8ef04|Beat Hazard 3|14,49€|10|2022-11-14 18h|2022-11-21 18h|
 |26|dlc2|Sgt Joe's Support Bundle Cosmetic DLC Audience|14,99€|75|2022-11-17 15h|2022-11-17 16h|
 |27|naraka-bladepoint|NARAKA: BLADEPOINT|19,99€|50|2022-11-17 16h|2022-11-22 16h|
