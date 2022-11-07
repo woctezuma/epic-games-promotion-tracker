@@ -171,15 +171,6 @@
     "title": "GigaBash"
   },
   {
-    "discountPercentage": 45,
-    "endDate": "2022-11-14T05:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "hirilun-d92aa3",
-    "startDate": "2022-11-07T05:00:00.000Z",
-    "title": "Hirilun"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2022-11-16T05:00:00.000Z",
     "isFree": false,
@@ -268,15 +259,6 @@
     "slug": "naraka-bladepoint--deluxe-edition",
     "startDate": "2022-11-17T16:00:00.000Z",
     "title": "NARAKA: BLADEPOINT Deluxe Edition"
-  },
-  {
-    "discountPercentage": 55,
-    "endDate": "2022-11-14T05:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 399,
-    "slug": "paladin-dream-5d04e2",
-    "startDate": "2022-11-07T05:00:00.000Z",
-    "title": "Paladin Dream"
   },
   {
     "discountPercentage": 50,
