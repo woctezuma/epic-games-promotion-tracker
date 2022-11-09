@@ -85,42 +85,43 @@
 |83|dark-deity-0b08d1|Dark Deity|21,99€|100|2022-11-17 16h|2022-11-24 16h|
 |84|dark-light|Dark Light|13,99€|22|2022-11-10 15h|2022-11-22 15h|
 |85|discovery-tour-viking-age|Discovery Tour: Viking Age|19,99€|60|2022-11-10 15h|2022-11-17 15h|
-|86|fabular-once-upon-a-spacetime-b73ba1|Fabular: Once Upon a Spacetime|11,99€|10|2022-11-10 17h|2022-11-17 17h|
-|87|gigabash|GigaBash|31,99€|25|2022-11-22 18h|2022-11-29 18h|
-|88|idle-champions-of-the-forgotten-realms--landlubber-rust-skin-feat-pack|Landlubber Rust Skin & Feat Pack|7,99€|40|2022-11-17 20h|2022-11-21 20h|
-|89|assassins-creed-odyssey--dlc-1|Legacy of the First Blade - DLC|24,99€|75|2022-11-10 15h|2022-11-17 15h|
-|90|liberated-f13008|Liberated|15,99€|50|2022-11-11 05h|2022-11-18 05h|
-|91|little-inferno|Little Inferno|11,99€|80|2022-11-18 18h|2022-11-21 18h|
-|92|maritime-calling-636728|Maritime Calling|11,99€|45|2022-11-28 05h|2022-12-05 05h|
-|93|fortnite--minty-legends-pack|Minty Legends Pack|19,99€|40|2022-11-18 00h|2022-11-29 12h|
-|94|my-time-at-sandrock|My Time at Sandrock|20,99€|20|2022-11-22 17h|2022-11-29 17h|
-|95|naraka-bladepoint|NARAKA: BLADEPOINT|19,99€|50|2022-11-17 16h|2022-11-22 16h|
-|96|naraka-bladepoint--ultimate-edition|NARAKA: BLADEPOINT  Ultimate Edition|50,99€|50|2022-11-17 16h|2022-11-22 16h|
-|97|naraka-bladepoint--deluxe-edition|NARAKA: BLADEPOINT Deluxe Edition|34,99€|50|2022-11-17 16h|2022-11-22 16h|
-|98|nero-0011a8|NERO|13,99€|25|2022-11-11 16h|2022-11-18 16h|
-|99|idle-champions-of-the-forgotten-realms--polymorphed-baeloth-skin-feat-pack|Polymorphed Baeloth Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
-|100|idle-champions-of-the-forgotten-realms--polymorphed-desmond-skin-feat-pack|Polymorphed Desmond Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
-|101|idle-champions-of-the-forgotten-realms--polymorphed-farideh-skin-feat-pack|Polymorphed Farideh Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
-|102|idle-champions-of-the-forgotten-realms--polymorphed-jarlaxle-skin-feat-pack|Polymorphed Jarlaxle Skin & Feat Pack|7,99€|40|2022-11-17 20h|2022-11-21 20h|
-|103|idle-champions-of-the-forgotten-realms--polymorphed-shaka-skin-feat-pack|Polymorphed Shaka Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
-|104|idle-champions-of-the-forgotten-realms--polymorphed-tatyana-skin-feat-pack|Polymorphed Tatyana Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
-|105|schein-77f039|Schein|3,99€|75|2022-11-14 05h|2022-11-21 05h|
-|106|anno-1800--seat-of-power|Seat of Power - DLC|9,99€|50|2022-11-10 15h|2022-11-17 15h|
-|107|dlc2|Sgt Joe's Support Bundle Cosmetic DLC Audience|14,99€|75|2022-11-17 15h|2022-11-17 16h|
-|108|shadow-tactics|Shadow Tactics|39,99€|100|2022-11-10 16h|2022-11-17 16h|
-|109|shadow-tactics|Shadow Tactics: Blades of the Shogun|39,99€|100|2022-11-10 16h|2022-11-17 16h|
-|110|fortnite--shadows-rising-pack|Shadows Rising Pack|15,99€|50|2022-11-18 15h|2022-11-29 12h|
-|111|somerville-229529|Somerville|19,99€|10|2022-11-14 00h|2022-11-22 00h|
-|112|anno-1800--sunken-treasures|Sunken Treasures - DLC|11,99€|50|2022-11-10 15h|2022-11-17 15h|
-|113|terracotta-72cc62|TERRACOTTA|19,99€|20|2022-11-14 17h|2022-11-21 17h|
-|114|fortnite--tech-future-pack|Tech Future Pack|17,99€|50|2022-11-18 15h|2022-11-29 12h|
-|115|assassins-creed-origins--the-curse-of-the-pharaohs|The Curse of the Pharaohs - DLC|19,99€|60|2022-11-10 15h|2022-11-17 15h|
-|116|assassins-creed-odyssey--dlc-2|The Fate of Atlantis - DLC|24,99€|75|2022-11-10 15h|2022-11-17 15h|
-|117|assassins-creed-origins--the-hidden-ones|The Hidden Ones - DLC|9,99€|60|2022-11-10 15h|2022-11-17 15h|
-|118|anno-1800--the-passage|The Passage - DLC|14,99€|50|2022-11-10 15h|2022-11-17 15h|
-|119|the-riftbreaker|The Riftbreaker|29,99€|35|2022-11-18 18h|2022-11-29 18h|
-|120|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|44,99€|35|2022-11-18 18h|2022-11-29 18h|
-|121|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|9,99€|35|2022-11-18 18h|2022-11-29 18h|
-|122|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|9,99€|20|2022-11-18 18h|2022-11-29 18h|
-|123|the-wizard-and-the-slug-482a09|The Wizard and The Slug|3,99€|55|2022-11-14 05h|2022-11-21 05h|
-|124|true-hate-007027|True Hate|5,99€|90|2022-11-10 17h|2022-11-28 17h|
+|86|evil-dead-the-game|Evil Dead: The Game|39,99€|100|2022-11-17 16h|2022-11-24 16h|
+|87|fabular-once-upon-a-spacetime-b73ba1|Fabular: Once Upon a Spacetime|11,99€|10|2022-11-10 17h|2022-11-17 17h|
+|88|gigabash|GigaBash|31,99€|25|2022-11-22 18h|2022-11-29 18h|
+|89|idle-champions-of-the-forgotten-realms--landlubber-rust-skin-feat-pack|Landlubber Rust Skin & Feat Pack|7,99€|40|2022-11-17 20h|2022-11-21 20h|
+|90|assassins-creed-odyssey--dlc-1|Legacy of the First Blade - DLC|24,99€|75|2022-11-10 15h|2022-11-17 15h|
+|91|liberated-f13008|Liberated|15,99€|50|2022-11-11 05h|2022-11-18 05h|
+|92|little-inferno|Little Inferno|11,99€|80|2022-11-18 18h|2022-11-21 18h|
+|93|maritime-calling-636728|Maritime Calling|11,99€|45|2022-11-28 05h|2022-12-05 05h|
+|94|fortnite--minty-legends-pack|Minty Legends Pack|19,99€|40|2022-11-18 00h|2022-11-29 12h|
+|95|my-time-at-sandrock|My Time at Sandrock|20,99€|20|2022-11-22 17h|2022-11-29 17h|
+|96|naraka-bladepoint|NARAKA: BLADEPOINT|19,99€|50|2022-11-17 16h|2022-11-22 16h|
+|97|naraka-bladepoint--ultimate-edition|NARAKA: BLADEPOINT  Ultimate Edition|50,99€|50|2022-11-17 16h|2022-11-22 16h|
+|98|naraka-bladepoint--deluxe-edition|NARAKA: BLADEPOINT Deluxe Edition|34,99€|50|2022-11-17 16h|2022-11-22 16h|
+|99|nero-0011a8|NERO|13,99€|25|2022-11-11 16h|2022-11-18 16h|
+|100|idle-champions-of-the-forgotten-realms--polymorphed-baeloth-skin-feat-pack|Polymorphed Baeloth Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
+|101|idle-champions-of-the-forgotten-realms--polymorphed-desmond-skin-feat-pack|Polymorphed Desmond Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
+|102|idle-champions-of-the-forgotten-realms--polymorphed-farideh-skin-feat-pack|Polymorphed Farideh Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
+|103|idle-champions-of-the-forgotten-realms--polymorphed-jarlaxle-skin-feat-pack|Polymorphed Jarlaxle Skin & Feat Pack|7,99€|40|2022-11-17 20h|2022-11-21 20h|
+|104|idle-champions-of-the-forgotten-realms--polymorphed-shaka-skin-feat-pack|Polymorphed Shaka Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
+|105|idle-champions-of-the-forgotten-realms--polymorphed-tatyana-skin-feat-pack|Polymorphed Tatyana Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
+|106|schein-77f039|Schein|3,99€|75|2022-11-14 05h|2022-11-21 05h|
+|107|anno-1800--seat-of-power|Seat of Power - DLC|9,99€|50|2022-11-10 15h|2022-11-17 15h|
+|108|dlc2|Sgt Joe's Support Bundle Cosmetic DLC Audience|14,99€|75|2022-11-17 15h|2022-11-17 16h|
+|109|shadow-tactics|Shadow Tactics|39,99€|100|2022-11-10 16h|2022-11-17 16h|
+|110|shadow-tactics|Shadow Tactics: Blades of the Shogun|39,99€|100|2022-11-10 16h|2022-11-17 16h|
+|111|fortnite--shadows-rising-pack|Shadows Rising Pack|15,99€|50|2022-11-18 15h|2022-11-29 12h|
+|112|somerville-229529|Somerville|19,99€|10|2022-11-14 00h|2022-11-22 00h|
+|113|anno-1800--sunken-treasures|Sunken Treasures - DLC|11,99€|50|2022-11-10 15h|2022-11-17 15h|
+|114|terracotta-72cc62|TERRACOTTA|19,99€|20|2022-11-14 17h|2022-11-21 17h|
+|115|fortnite--tech-future-pack|Tech Future Pack|17,99€|50|2022-11-18 15h|2022-11-29 12h|
+|116|assassins-creed-origins--the-curse-of-the-pharaohs|The Curse of the Pharaohs - DLC|19,99€|60|2022-11-10 15h|2022-11-17 15h|
+|117|assassins-creed-odyssey--dlc-2|The Fate of Atlantis - DLC|24,99€|75|2022-11-10 15h|2022-11-17 15h|
+|118|assassins-creed-origins--the-hidden-ones|The Hidden Ones - DLC|9,99€|60|2022-11-10 15h|2022-11-17 15h|
+|119|anno-1800--the-passage|The Passage - DLC|14,99€|50|2022-11-10 15h|2022-11-17 15h|
+|120|the-riftbreaker|The Riftbreaker|29,99€|35|2022-11-18 18h|2022-11-29 18h|
+|121|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|44,99€|35|2022-11-18 18h|2022-11-29 18h|
+|122|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|9,99€|35|2022-11-18 18h|2022-11-29 18h|
+|123|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|9,99€|20|2022-11-18 18h|2022-11-29 18h|
+|124|the-wizard-and-the-slug-482a09|The Wizard and The Slug|3,99€|55|2022-11-14 05h|2022-11-21 05h|
+|125|true-hate-007027|True Hate|5,99€|90|2022-11-10 17h|2022-11-28 17h|
