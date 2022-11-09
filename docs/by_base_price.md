@@ -50,16 +50,16 @@
 |48|assassins-creed-valhalla--wrath-of-the-druids|Assassin's Creed® Valhalla - Wrath of the Druids|24,99€|50|2022-11-10 15h|2022-11-17 15h|
 |49|assassins-creed-odyssey--dlc-1|Legacy of the First Blade - DLC|24,99€|75|2022-11-10 15h|2022-11-17 15h|
 |50|assassins-creed-odyssey--dlc-2|The Fate of Atlantis - DLC|24,99€|75|2022-11-10 15h|2022-11-17 15h|
-|51|my-time-at-sandrock|My Time at Sandrock|20,99€|20|2022-11-22 17h|2022-11-29 17h|
-|52|anno-1800--season-pass-3|Anno 1800™ Season 3 Pass|19,99€|35|2022-11-10 15h|2022-11-17 15h|
-|53|anno-2205--season-pass|Anno 2205 Season Pass|19,99€|75|2022-11-10 15h|2022-11-17 15h|
-|54|assassins-creed-rogue|Assassin's Creed Rogue|19,99€|67|2022-11-10 15h|2022-11-17 15h|
-|55|assassins-creed-rogue|Assassin's Creed Rogue Standard Edition|19,99€|67|2022-11-10 15h|2022-11-17 15h|
-|56|idle-champions-of-the-forgotten-realms--blight-druid-voronika-theme-pack|Blight Druid Voronika Theme Pack|19,99€|30|2022-11-17 20h|2022-11-21 20h|
-|57|discovery-tour-viking-age|Discovery Tour: Viking Age|19,99€|60|2022-11-10 15h|2022-11-17 15h|
-|58|fortnite--minty-legends-pack|Minty Legends Pack|19,99€|40|2022-11-18 00h|2022-11-29 12h|
-|59|naraka-bladepoint|NARAKA: BLADEPOINT|19,99€|50|2022-11-17 16h|2022-11-22 16h|
-|60|rogue-legacy-2|Rogue Legacy 2|19,99€|20|2022-11-09 19h|2022-11-16 19h|
+|51|dark-deity-0b08d1|Dark Deity|21,99€|100|2022-11-17 16h|2022-11-24 16h|
+|52|my-time-at-sandrock|My Time at Sandrock|20,99€|20|2022-11-22 17h|2022-11-29 17h|
+|53|anno-1800--season-pass-3|Anno 1800™ Season 3 Pass|19,99€|35|2022-11-10 15h|2022-11-17 15h|
+|54|anno-2205--season-pass|Anno 2205 Season Pass|19,99€|75|2022-11-10 15h|2022-11-17 15h|
+|55|assassins-creed-rogue|Assassin's Creed Rogue|19,99€|67|2022-11-10 15h|2022-11-17 15h|
+|56|assassins-creed-rogue|Assassin's Creed Rogue Standard Edition|19,99€|67|2022-11-10 15h|2022-11-17 15h|
+|57|idle-champions-of-the-forgotten-realms--blight-druid-voronika-theme-pack|Blight Druid Voronika Theme Pack|19,99€|30|2022-11-17 20h|2022-11-21 20h|
+|58|discovery-tour-viking-age|Discovery Tour: Viking Age|19,99€|60|2022-11-10 15h|2022-11-17 15h|
+|59|fortnite--minty-legends-pack|Minty Legends Pack|19,99€|40|2022-11-18 00h|2022-11-29 12h|
+|60|naraka-bladepoint|NARAKA: BLADEPOINT|19,99€|50|2022-11-17 16h|2022-11-22 16h|
 |61|somerville-229529|Somerville|19,99€|10|2022-11-14 00h|2022-11-22 00h|
 |62|terracotta-72cc62|TERRACOTTA|19,99€|20|2022-11-14 17h|2022-11-21 17h|
 |63|assassins-creed-origins--the-curse-of-the-pharaohs|The Curse of the Pharaohs - DLC|19,99€|60|2022-11-10 15h|2022-11-17 15h|
