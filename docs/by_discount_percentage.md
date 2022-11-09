@@ -73,56 +73,54 @@
 |71|assassins-creed-valhalla--dawn-of-ragnarok|Assassin's Creed® Valhalla: Dawn of Ragnarök|39,99€|50|2022-11-10 15h|2022-11-17 15h|
 |72|anno-1800--botanica|Botanica - DLC|7,99€|50|2022-11-10 15h|2022-11-17 15h|
 |73|anno-1800--bright-harvest|Bright Harvest - DLC|6,99€|50|2022-11-10 15h|2022-11-17 15h|
-|74|hunter-girls-96020a|Hunter Girls|7,99€|50|2022-11-09 05h|2022-11-16 05h|
-|75|liberated-f13008|Liberated|15,99€|50|2022-11-11 05h|2022-11-18 05h|
-|76|naraka-bladepoint|NARAKA: BLADEPOINT|19,99€|50|2022-11-17 16h|2022-11-22 16h|
-|77|naraka-bladepoint--ultimate-edition|NARAKA: BLADEPOINT  Ultimate Edition|50,99€|50|2022-11-17 16h|2022-11-22 16h|
-|78|naraka-bladepoint--deluxe-edition|NARAKA: BLADEPOINT Deluxe Edition|34,99€|50|2022-11-17 16h|2022-11-22 16h|
-|79|paramnesia-a49100|Paramnesia|2,39€|50|2022-11-09 05h|2022-11-16 05h|
-|80|anno-1800--seat-of-power|Seat of Power - DLC|9,99€|50|2022-11-10 15h|2022-11-17 15h|
-|81|fortnite--shadows-rising-pack|Shadows Rising Pack|15,99€|50|2022-11-18 15h|2022-11-29 12h|
-|82|anno-1800--sunken-treasures|Sunken Treasures - DLC|11,99€|50|2022-11-10 15h|2022-11-17 15h|
-|83|fortnite--tech-future-pack|Tech Future Pack|17,99€|50|2022-11-18 15h|2022-11-29 12h|
-|84|anno-1800--the-passage|The Passage - DLC|14,99€|50|2022-11-10 15h|2022-11-17 15h|
-|85|chains-8ac580|Chains|1,59€|45|2022-11-28 05h|2022-12-05 05h|
-|86|maritime-calling-636728|Maritime Calling|11,99€|45|2022-11-28 05h|2022-12-05 05h|
-|87|idle-champions-of-the-forgotten-realms--amani-the-songbird-familiar-pack|Amani the Songbird Familiar Pack|7,99€|40|2022-11-17 20h|2022-11-21 20h|
-|88|banedlc028-22|Champions of Renown: Year 2 All-Star Pack|43,99€|40|2022-11-17 20h|2022-11-21 20h|
-|89|idle-champions-of-the-forgotten-realms--colonel-pest-the-pest-mascot-familiar-pack|Colonel Pest the Pest Mascot Familiar Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
-|90|idle-champions-of-the-forgotten-realms--landlubber-rust-skin-feat-pack|Landlubber Rust Skin & Feat Pack|7,99€|40|2022-11-17 20h|2022-11-21 20h|
-|91|fortnite--minty-legends-pack|Minty Legends Pack|19,99€|40|2022-11-18 00h|2022-11-29 12h|
-|92|idle-champions-of-the-forgotten-realms--polymorphed-baeloth-skin-feat-pack|Polymorphed Baeloth Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
-|93|idle-champions-of-the-forgotten-realms--polymorphed-desmond-skin-feat-pack|Polymorphed Desmond Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
-|94|idle-champions-of-the-forgotten-realms--polymorphed-farideh-skin-feat-pack|Polymorphed Farideh Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
-|95|idle-champions-of-the-forgotten-realms--polymorphed-jarlaxle-skin-feat-pack|Polymorphed Jarlaxle Skin & Feat Pack|7,99€|40|2022-11-17 20h|2022-11-21 20h|
-|96|idle-champions-of-the-forgotten-realms--polymorphed-shaka-skin-feat-pack|Polymorphed Shaka Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
-|97|idle-champions-of-the-forgotten-realms--polymorphed-tatyana-skin-feat-pack|Polymorphed Tatyana Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
-|98|anno-1800--docklands|Anno 1800™ Docklands|6,99€|35|2022-11-10 15h|2022-11-17 15h|
-|99|anno-1800--season-pass-3|Anno 1800™ Season 3 Pass|19,99€|35|2022-11-10 15h|2022-11-17 15h|
-|100|anno-1800--the-high-life|Anno 1800™ The High Life|8,99€|35|2022-11-10 15h|2022-11-17 15h|
-|101|anno-1800--tourist-season|Anno 1800™ Tourist Season|8,99€|35|2022-11-10 15h|2022-11-17 15h|
-|102|the-riftbreaker|The Riftbreaker|29,99€|35|2022-11-18 18h|2022-11-29 18h|
-|103|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|44,99€|35|2022-11-18 18h|2022-11-29 18h|
-|104|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|9,99€|35|2022-11-18 18h|2022-11-29 18h|
-|105|idle-champions-of-the-forgotten-realms--beeples-corazn-skin-feat-pack|Beeples Corazón Skin & Feat Pack|7,99€|30|2022-11-17 20h|2022-11-21 20h|
-|106|idle-champions-of-the-forgotten-realms--beeples-dob-skin-feat-pack|Beeples Dob Skin & Feat Pack|7,99€|30|2022-11-17 20h|2022-11-21 20h|
-|107|idle-champions-of-the-forgotten-realms--blight-druid-voronika-theme-pack|Blight Druid Voronika Theme Pack|19,99€|30|2022-11-17 20h|2022-11-21 20h|
-|108|gigabash|GigaBash|31,99€|25|2022-11-22 18h|2022-11-29 18h|
-|109|nero-0011a8|NERO|13,99€|25|2022-11-11 16h|2022-11-18 16h|
-|110|dark-light|Dark Light|13,99€|22|2022-11-10 15h|2022-11-22 15h|
-|111|anno-1800--amusements-pack|Anno 1800: Amusements DLC|4,99€|20|2022-11-10 15h|2022-11-17 15h|
-|112|anno-1800--city-lights|Anno 1800™ - City Lights Pack|4,99€|20|2022-11-10 15h|2022-11-17 15h|
-|113|anno-1800--empire-of-the-skies|Anno 1800™ DLC 11 Empire of the Skies|11,99€|20|2022-11-10 15h|2022-11-17 15h|
-|114|anno-1800--industrial-zone-pack|Anno 1800™ Industrial Zone Pack|4,99€|20|2022-11-10 15h|2022-11-17 15h|
-|115|anno-1800--season-4-pass|Anno 1800™ Season 4 Pass|24,99€|20|2022-11-10 15h|2022-11-17 15h|
-|116|anno-1800--vehicle-liveries-pack|Anno 1800™ Vehicle Liveries Pack|4,99€|20|2022-11-10 15h|2022-11-17 15h|
-|117|anno-1800--vibrant-cities-pack|Anno 1800™ Vibrant Cities Pack|4,99€|20|2022-11-10 15h|2022-11-17 15h|
-|118|anno-1800--pedestrian-zone-pack|Anno 1800™: Pedestrian Zone Pack|4,99€|20|2022-11-10 15h|2022-11-17 15h|
-|119|blossom-tales-ii-the-minotaur-prince-e74c95|Blossom Tales II The Minotaur Prince|12,49€|20|2022-11-22 16h|2022-11-29 16h|
-|120|my-time-at-sandrock|My Time at Sandrock|20,99€|20|2022-11-22 17h|2022-11-29 17h|
-|121|rogue-legacy-2|Rogue Legacy 2|19,99€|20|2022-11-09 19h|2022-11-16 19h|
-|122|terracotta-72cc62|TERRACOTTA|19,99€|20|2022-11-14 17h|2022-11-21 17h|
-|123|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|9,99€|20|2022-11-18 18h|2022-11-29 18h|
-|124|beat-hazard-3-c8ef04|Beat Hazard 3|14,49€|10|2022-11-14 18h|2022-11-21 18h|
-|125|fabular-once-upon-a-spacetime-b73ba1|Fabular: Once Upon a Spacetime|11,99€|10|2022-11-10 17h|2022-11-17 17h|
-|126|somerville-229529|Somerville|19,99€|10|2022-11-14 00h|2022-11-22 00h|
+|74|liberated-f13008|Liberated|15,99€|50|2022-11-11 05h|2022-11-18 05h|
+|75|naraka-bladepoint|NARAKA: BLADEPOINT|19,99€|50|2022-11-17 16h|2022-11-22 16h|
+|76|naraka-bladepoint--ultimate-edition|NARAKA: BLADEPOINT  Ultimate Edition|50,99€|50|2022-11-17 16h|2022-11-22 16h|
+|77|naraka-bladepoint--deluxe-edition|NARAKA: BLADEPOINT Deluxe Edition|34,99€|50|2022-11-17 16h|2022-11-22 16h|
+|78|anno-1800--seat-of-power|Seat of Power - DLC|9,99€|50|2022-11-10 15h|2022-11-17 15h|
+|79|fortnite--shadows-rising-pack|Shadows Rising Pack|15,99€|50|2022-11-18 15h|2022-11-29 12h|
+|80|anno-1800--sunken-treasures|Sunken Treasures - DLC|11,99€|50|2022-11-10 15h|2022-11-17 15h|
+|81|fortnite--tech-future-pack|Tech Future Pack|17,99€|50|2022-11-18 15h|2022-11-29 12h|
+|82|anno-1800--the-passage|The Passage - DLC|14,99€|50|2022-11-10 15h|2022-11-17 15h|
+|83|chains-8ac580|Chains|1,59€|45|2022-11-28 05h|2022-12-05 05h|
+|84|maritime-calling-636728|Maritime Calling|11,99€|45|2022-11-28 05h|2022-12-05 05h|
+|85|idle-champions-of-the-forgotten-realms--amani-the-songbird-familiar-pack|Amani the Songbird Familiar Pack|7,99€|40|2022-11-17 20h|2022-11-21 20h|
+|86|banedlc028-22|Champions of Renown: Year 2 All-Star Pack|43,99€|40|2022-11-17 20h|2022-11-21 20h|
+|87|idle-champions-of-the-forgotten-realms--colonel-pest-the-pest-mascot-familiar-pack|Colonel Pest the Pest Mascot Familiar Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
+|88|idle-champions-of-the-forgotten-realms--landlubber-rust-skin-feat-pack|Landlubber Rust Skin & Feat Pack|7,99€|40|2022-11-17 20h|2022-11-21 20h|
+|89|fortnite--minty-legends-pack|Minty Legends Pack|19,99€|40|2022-11-18 00h|2022-11-29 12h|
+|90|idle-champions-of-the-forgotten-realms--polymorphed-baeloth-skin-feat-pack|Polymorphed Baeloth Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
+|91|idle-champions-of-the-forgotten-realms--polymorphed-desmond-skin-feat-pack|Polymorphed Desmond Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
+|92|idle-champions-of-the-forgotten-realms--polymorphed-farideh-skin-feat-pack|Polymorphed Farideh Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
+|93|idle-champions-of-the-forgotten-realms--polymorphed-jarlaxle-skin-feat-pack|Polymorphed Jarlaxle Skin & Feat Pack|7,99€|40|2022-11-17 20h|2022-11-21 20h|
+|94|idle-champions-of-the-forgotten-realms--polymorphed-shaka-skin-feat-pack|Polymorphed Shaka Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
+|95|idle-champions-of-the-forgotten-realms--polymorphed-tatyana-skin-feat-pack|Polymorphed Tatyana Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
+|96|anno-1800--docklands|Anno 1800™ Docklands|6,99€|35|2022-11-10 15h|2022-11-17 15h|
+|97|anno-1800--season-pass-3|Anno 1800™ Season 3 Pass|19,99€|35|2022-11-10 15h|2022-11-17 15h|
+|98|anno-1800--the-high-life|Anno 1800™ The High Life|8,99€|35|2022-11-10 15h|2022-11-17 15h|
+|99|anno-1800--tourist-season|Anno 1800™ Tourist Season|8,99€|35|2022-11-10 15h|2022-11-17 15h|
+|100|the-riftbreaker|The Riftbreaker|29,99€|35|2022-11-18 18h|2022-11-29 18h|
+|101|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|44,99€|35|2022-11-18 18h|2022-11-29 18h|
+|102|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|9,99€|35|2022-11-18 18h|2022-11-29 18h|
+|103|idle-champions-of-the-forgotten-realms--beeples-corazn-skin-feat-pack|Beeples Corazón Skin & Feat Pack|7,99€|30|2022-11-17 20h|2022-11-21 20h|
+|104|idle-champions-of-the-forgotten-realms--beeples-dob-skin-feat-pack|Beeples Dob Skin & Feat Pack|7,99€|30|2022-11-17 20h|2022-11-21 20h|
+|105|idle-champions-of-the-forgotten-realms--blight-druid-voronika-theme-pack|Blight Druid Voronika Theme Pack|19,99€|30|2022-11-17 20h|2022-11-21 20h|
+|106|gigabash|GigaBash|31,99€|25|2022-11-22 18h|2022-11-29 18h|
+|107|nero-0011a8|NERO|13,99€|25|2022-11-11 16h|2022-11-18 16h|
+|108|dark-light|Dark Light|13,99€|22|2022-11-10 15h|2022-11-22 15h|
+|109|anno-1800--amusements-pack|Anno 1800: Amusements DLC|4,99€|20|2022-11-10 15h|2022-11-17 15h|
+|110|anno-1800--city-lights|Anno 1800™ - City Lights Pack|4,99€|20|2022-11-10 15h|2022-11-17 15h|
+|111|anno-1800--empire-of-the-skies|Anno 1800™ DLC 11 Empire of the Skies|11,99€|20|2022-11-10 15h|2022-11-17 15h|
+|112|anno-1800--industrial-zone-pack|Anno 1800™ Industrial Zone Pack|4,99€|20|2022-11-10 15h|2022-11-17 15h|
+|113|anno-1800--season-4-pass|Anno 1800™ Season 4 Pass|24,99€|20|2022-11-10 15h|2022-11-17 15h|
+|114|anno-1800--vehicle-liveries-pack|Anno 1800™ Vehicle Liveries Pack|4,99€|20|2022-11-10 15h|2022-11-17 15h|
+|115|anno-1800--vibrant-cities-pack|Anno 1800™ Vibrant Cities Pack|4,99€|20|2022-11-10 15h|2022-11-17 15h|
+|116|anno-1800--pedestrian-zone-pack|Anno 1800™: Pedestrian Zone Pack|4,99€|20|2022-11-10 15h|2022-11-17 15h|
+|117|blossom-tales-ii-the-minotaur-prince-e74c95|Blossom Tales II The Minotaur Prince|12,49€|20|2022-11-22 16h|2022-11-29 16h|
+|118|my-time-at-sandrock|My Time at Sandrock|20,99€|20|2022-11-22 17h|2022-11-29 17h|
+|119|rogue-legacy-2|Rogue Legacy 2|19,99€|20|2022-11-09 19h|2022-11-16 19h|
+|120|terracotta-72cc62|TERRACOTTA|19,99€|20|2022-11-14 17h|2022-11-21 17h|
+|121|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|9,99€|20|2022-11-18 18h|2022-11-29 18h|
+|122|beat-hazard-3-c8ef04|Beat Hazard 3|14,49€|10|2022-11-14 18h|2022-11-21 18h|
+|123|fabular-once-upon-a-spacetime-b73ba1|Fabular: Once Upon a Spacetime|11,99€|10|2022-11-10 17h|2022-11-17 17h|
+|124|somerville-229529|Somerville|19,99€|10|2022-11-14 00h|2022-11-22 00h|
