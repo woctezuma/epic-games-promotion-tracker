@@ -783,15 +783,6 @@
     "title": "GigaBash"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2022-11-16T05:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "hunter-girls-96020a",
-    "startDate": "2022-11-09T05:00:00.000Z",
-    "title": "Hunter Girls"
-  },
-  {
     "discountPercentage": 40,
     "endDate": "2022-11-21T20:00:00.000Z",
     "isFree": false,
@@ -898,15 +889,6 @@
     "slug": "nero-0011a8",
     "startDate": "2022-11-11T16:00:00.000Z",
     "title": "NERO"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2022-11-16T05:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 239,
-    "slug": "paramnesia-a49100",
-    "startDate": "2022-11-09T05:00:00.000Z",
-    "title": "Paramnesia"
   },
   {
     "discountPercentage": 40,
