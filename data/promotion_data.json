@@ -774,6 +774,15 @@
     "title": "Discovery Tour: Viking Age"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2022-11-24T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 3999,
+    "slug": "evil-dead-the-game",
+    "startDate": "2022-11-17T16:00:00.000Z",
+    "title": "Evil Dead: The Game"
+  },
+  {
     "discountPercentage": 10,
     "endDate": "2022-11-17T17:00:00.000Z",
     "isFree": false,
