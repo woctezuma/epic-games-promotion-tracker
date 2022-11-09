@@ -747,6 +747,15 @@
     "title": "Colonel Pest the Pest Mascot Familiar Pack"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2022-11-24T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 2199,
+    "slug": "dark-deity-0b08d1",
+    "startDate": "2022-11-17T16:00:00.000Z",
+    "title": "Dark Deity"
+  },
+  {
     "discountPercentage": 22,
     "endDate": "2022-11-22T15:00:00.000Z",
     "isFree": false,
@@ -943,15 +952,6 @@
     "slug": "idle-champions-of-the-forgotten-realms--polymorphed-tatyana-skin-feat-pack",
     "startDate": "2022-11-11T20:00:00.000Z",
     "title": "Polymorphed Tatyana Skin & Feat Pack"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2022-11-16T19:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "rogue-legacy-2",
-    "startDate": "2022-11-09T19:00:00.000Z",
-    "title": "Rogue Legacy 2"
   },
   {
     "discountPercentage": 75,
