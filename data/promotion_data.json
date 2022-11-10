@@ -144,15 +144,6 @@
     "title": "Evil Dead: The Game"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2022-11-17T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1199,
-    "slug": "fabular-once-upon-a-spacetime-b73ba1",
-    "startDate": "2022-11-10T17:00:00.000Z",
-    "title": "Fabular: Once Upon a Spacetime"
-  },
-  {
     "discountPercentage": 25,
     "endDate": "2022-11-29T18:00:00.000Z",
     "isFree": false,
@@ -412,14 +403,5 @@
     "slug": "the-wizard-and-the-slug-482a09",
     "startDate": "2022-11-14T05:00:00.000Z",
     "title": "The Wizard and The Slug"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2022-11-28T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 599,
-    "slug": "true-hate-007027",
-    "startDate": "2022-11-10T17:00:00.000Z",
-    "title": "True Hate"
   }
 ]
