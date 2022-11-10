@@ -9,15 +9,6 @@
     "title": "AWAY: The Survival Series"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2022-11-17T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 1699,
-    "slug": "alba-a-wildlife-adventure-93736a",
-    "startDate": "2022-11-10T16:00:00.000Z",
-    "title": "Alba - A Wildlife Adventure"
-  },
-  {
     "discountPercentage": 40,
     "endDate": "2022-11-21T20:00:00.000Z",
     "isFree": false,
@@ -133,6 +124,15 @@
     "slug": "dark-deity-0b08d1",
     "startDate": "2022-11-17T16:00:00.000Z",
     "title": "Dark Deity"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2022-11-24T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 0,
+    "slug": "rumbleverse--epic-cheerleader-pack",
+    "startDate": "2022-11-15T16:00:00.000Z",
+    "title": "Epic Cheerleader Pack"
   },
   {
     "discountPercentage": 100,
@@ -331,24 +331,6 @@
     "slug": "dlc2",
     "startDate": "2022-11-17T15:00:00.000Z",
     "title": "Sgt Joe's Support Bundle Cosmetic DLC Audience"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2022-11-17T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 3999,
-    "slug": "shadow-tactics",
-    "startDate": "2022-11-10T16:00:00.000Z",
-    "title": "Shadow Tactics"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2022-11-17T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 3999,
-    "slug": "shadow-tactics",
-    "startDate": "2022-11-10T16:00:00.000Z",
-    "title": "Shadow Tactics: Blades of the Shogun"
   },
   {
     "discountPercentage": 50,
