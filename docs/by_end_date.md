@@ -24,9 +24,9 @@
 |22|idle-champions-of-the-forgotten-realms--landlubber-rust-skin-feat-pack|Landlubber Rust Skin & Feat Pack|7,99€|40|2022-11-17 20h|2022-11-21 20h|
 |23|idle-champions-of-the-forgotten-realms--polymorphed-jarlaxle-skin-feat-pack|Polymorphed Jarlaxle Skin & Feat Pack|7,99€|40|2022-11-17 20h|2022-11-21 20h|
 |24|somerville-229529|Somerville|19,99€|10|2022-11-14 00h|2022-11-22 00h|
-|25|naraka-bladepoint|NARAKA: BLADEPOINT|19,99€|50|2022-11-17 16h|2022-11-22 16h|
-|26|naraka-bladepoint--ultimate-edition|NARAKA: BLADEPOINT  Ultimate Edition|50,99€|50|2022-11-17 16h|2022-11-22 16h|
-|27|naraka-bladepoint--deluxe-edition|NARAKA: BLADEPOINT Deluxe Edition|34,99€|50|2022-11-17 16h|2022-11-22 16h|
+|25|naraka-bladepoint|NARAKA: BLADEPOINT|19,99€|50|2022-11-16 16h|2022-11-22 16h|
+|26|naraka-bladepoint--ultimate-edition|NARAKA: BLADEPOINT  Ultimate Edition|50,99€|50|2022-11-16 16h|2022-11-22 16h|
+|27|naraka-bladepoint--deluxe-edition|NARAKA: BLADEPOINT Deluxe Edition|34,99€|50|2022-11-16 16h|2022-11-22 16h|
 |28|dark-deity-0b08d1|Dark Deity|21,99€|100|2022-11-17 16h|2022-11-24 16h|
 |29|rumbleverse--epic-cheerleader-pack|Epic Cheerleader Pack|0,00€|100|2022-11-15 16h|2022-11-24 16h|
 |30|evil-dead-the-game|Evil Dead: The Game|39,99€|100|2022-11-17 16h|2022-11-24 16h|

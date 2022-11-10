@@ -1,17 +1,17 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|1|naraka-bladepoint--ultimate-edition|NARAKA: BLADEPOINT  Ultimate Edition|50,99€|50|2022-11-17 16h|2022-11-22 16h|
+|1|naraka-bladepoint--ultimate-edition|NARAKA: BLADEPOINT  Ultimate Edition|50,99€|50|2022-11-16 16h|2022-11-22 16h|
 |2|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|44,99€|35|2022-11-18 18h|2022-11-29 18h|
 |3|banedlc028-22|Champions of Renown: Year 2 All-Star Pack|43,99€|40|2022-11-17 20h|2022-11-21 20h|
 |4|evil-dead-the-game|Evil Dead: The Game|39,99€|100|2022-11-17 16h|2022-11-24 16h|
-|5|naraka-bladepoint--deluxe-edition|NARAKA: BLADEPOINT Deluxe Edition|34,99€|50|2022-11-17 16h|2022-11-22 16h|
+|5|naraka-bladepoint--deluxe-edition|NARAKA: BLADEPOINT Deluxe Edition|34,99€|50|2022-11-16 16h|2022-11-22 16h|
 |6|gigabash|GigaBash|31,99€|25|2022-11-22 18h|2022-11-29 18h|
 |7|the-riftbreaker|The Riftbreaker|29,99€|35|2022-11-18 18h|2022-11-29 18h|
 |8|dark-deity-0b08d1|Dark Deity|21,99€|100|2022-11-17 16h|2022-11-24 16h|
 |9|my-time-at-sandrock|My Time at Sandrock|20,99€|20|2022-11-22 17h|2022-11-29 17h|
 |10|idle-champions-of-the-forgotten-realms--blight-druid-voronika-theme-pack|Blight Druid Voronika Theme Pack|19,99€|30|2022-11-17 20h|2022-11-21 20h|
 |11|fortnite--minty-legends-pack|Minty Legends Pack|19,99€|40|2022-11-18 00h|2022-11-29 12h|
-|12|naraka-bladepoint|NARAKA: BLADEPOINT|19,99€|50|2022-11-17 16h|2022-11-22 16h|
+|12|naraka-bladepoint|NARAKA: BLADEPOINT|19,99€|50|2022-11-16 16h|2022-11-22 16h|
 |13|somerville-229529|Somerville|19,99€|10|2022-11-14 00h|2022-11-22 00h|
 |14|terracotta-72cc62|TERRACOTTA|19,99€|20|2022-11-14 17h|2022-11-21 17h|
 |15|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|80|2022-12-16 04h|2023-01-01 04h|

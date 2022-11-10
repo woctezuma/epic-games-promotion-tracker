@@ -32,9 +32,9 @@
 |30|little-inferno|Little Inferno|11,99€|80|2022-11-18 18h|2022-11-21 18h|
 |31|maritime-calling-636728|Maritime Calling|11,99€|45|2022-11-28 05h|2022-12-05 05h|
 |32|my-time-at-sandrock|My Time at Sandrock|20,99€|20|2022-11-22 17h|2022-11-29 17h|
-|33|naraka-bladepoint|NARAKA: BLADEPOINT|19,99€|50|2022-11-17 16h|2022-11-22 16h|
-|34|naraka-bladepoint--deluxe-edition|NARAKA: BLADEPOINT Deluxe Edition|34,99€|50|2022-11-17 16h|2022-11-22 16h|
-|35|naraka-bladepoint--ultimate-edition|NARAKA: BLADEPOINT  Ultimate Edition|50,99€|50|2022-11-17 16h|2022-11-22 16h|
+|33|naraka-bladepoint|NARAKA: BLADEPOINT|19,99€|50|2022-11-16 16h|2022-11-22 16h|
+|34|naraka-bladepoint--deluxe-edition|NARAKA: BLADEPOINT Deluxe Edition|34,99€|50|2022-11-16 16h|2022-11-22 16h|
+|35|naraka-bladepoint--ultimate-edition|NARAKA: BLADEPOINT  Ultimate Edition|50,99€|50|2022-11-16 16h|2022-11-22 16h|
 |36|nero-0011a8|NERO|13,99€|25|2022-11-11 16h|2022-11-18 16h|
 |37|rumbleverse--epic-cheerleader-pack|Epic Cheerleader Pack|0,00€|100|2022-11-15 16h|2022-11-24 16h|
 |38|schein-77f039|Schein|3,99€|75|2022-11-14 05h|2022-11-21 05h|

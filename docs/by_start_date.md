@@ -16,12 +16,12 @@
 |14|terracotta-72cc62|TERRACOTTA|19,99€|20|2022-11-14 17h|2022-11-21 17h|
 |15|beat-hazard-3-c8ef04|Beat Hazard 3|14,49€|10|2022-11-14 18h|2022-11-21 18h|
 |16|rumbleverse--epic-cheerleader-pack|Epic Cheerleader Pack|0,00€|100|2022-11-15 16h|2022-11-24 16h|
-|17|dlc2|Sgt Joe's Support Bundle Cosmetic DLC Audience|14,99€|75|2022-11-17 15h|2022-11-17 16h|
-|18|dark-deity-0b08d1|Dark Deity|21,99€|100|2022-11-17 16h|2022-11-24 16h|
-|19|evil-dead-the-game|Evil Dead: The Game|39,99€|100|2022-11-17 16h|2022-11-24 16h|
-|20|naraka-bladepoint|NARAKA: BLADEPOINT|19,99€|50|2022-11-17 16h|2022-11-22 16h|
-|21|naraka-bladepoint--ultimate-edition|NARAKA: BLADEPOINT  Ultimate Edition|50,99€|50|2022-11-17 16h|2022-11-22 16h|
-|22|naraka-bladepoint--deluxe-edition|NARAKA: BLADEPOINT Deluxe Edition|34,99€|50|2022-11-17 16h|2022-11-22 16h|
+|17|naraka-bladepoint|NARAKA: BLADEPOINT|19,99€|50|2022-11-16 16h|2022-11-22 16h|
+|18|naraka-bladepoint--ultimate-edition|NARAKA: BLADEPOINT  Ultimate Edition|50,99€|50|2022-11-16 16h|2022-11-22 16h|
+|19|naraka-bladepoint--deluxe-edition|NARAKA: BLADEPOINT Deluxe Edition|34,99€|50|2022-11-16 16h|2022-11-22 16h|
+|20|dlc2|Sgt Joe's Support Bundle Cosmetic DLC Audience|14,99€|75|2022-11-17 15h|2022-11-17 16h|
+|21|dark-deity-0b08d1|Dark Deity|21,99€|100|2022-11-17 16h|2022-11-24 16h|
+|22|evil-dead-the-game|Evil Dead: The Game|39,99€|100|2022-11-17 16h|2022-11-24 16h|
 |23|idle-champions-of-the-forgotten-realms--amani-the-songbird-familiar-pack|Amani the Songbird Familiar Pack|7,99€|40|2022-11-17 20h|2022-11-21 20h|
 |24|idle-champions-of-the-forgotten-realms--beeples-corazn-skin-feat-pack|Beeples Corazón Skin & Feat Pack|7,99€|30|2022-11-17 20h|2022-11-21 20h|
 |25|idle-champions-of-the-forgotten-realms--beeples-dob-skin-feat-pack|Beeples Dob Skin & Feat Pack|7,99€|30|2022-11-17 20h|2022-11-21 20h|

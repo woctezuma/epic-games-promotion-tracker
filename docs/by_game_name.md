@@ -24,9 +24,9 @@
 |22|maritime-calling-636728|Maritime Calling|11,99€|45|2022-11-28 05h|2022-12-05 05h|
 |23|fortnite--minty-legends-pack|Minty Legends Pack|19,99€|40|2022-11-18 00h|2022-11-29 12h|
 |24|my-time-at-sandrock|My Time at Sandrock|20,99€|20|2022-11-22 17h|2022-11-29 17h|
-|25|naraka-bladepoint|NARAKA: BLADEPOINT|19,99€|50|2022-11-17 16h|2022-11-22 16h|
-|26|naraka-bladepoint--ultimate-edition|NARAKA: BLADEPOINT  Ultimate Edition|50,99€|50|2022-11-17 16h|2022-11-22 16h|
-|27|naraka-bladepoint--deluxe-edition|NARAKA: BLADEPOINT Deluxe Edition|34,99€|50|2022-11-17 16h|2022-11-22 16h|
+|25|naraka-bladepoint|NARAKA: BLADEPOINT|19,99€|50|2022-11-16 16h|2022-11-22 16h|
+|26|naraka-bladepoint--ultimate-edition|NARAKA: BLADEPOINT  Ultimate Edition|50,99€|50|2022-11-16 16h|2022-11-22 16h|
+|27|naraka-bladepoint--deluxe-edition|NARAKA: BLADEPOINT Deluxe Edition|34,99€|50|2022-11-16 16h|2022-11-22 16h|
 |28|nero-0011a8|NERO|13,99€|25|2022-11-11 16h|2022-11-18 16h|
 |29|idle-champions-of-the-forgotten-realms--polymorphed-baeloth-skin-feat-pack|Polymorphed Baeloth Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|
 |30|idle-champions-of-the-forgotten-realms--polymorphed-desmond-skin-feat-pack|Polymorphed Desmond Skin & Feat Pack|7,99€|40|2022-11-11 20h|2022-11-15 20h|

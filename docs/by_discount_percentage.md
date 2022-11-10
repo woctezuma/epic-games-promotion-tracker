@@ -13,9 +13,9 @@
 |11|away-the-survival-series|AWAY: The Survival Series|15,99€|60|2022-11-21 17h|2022-12-05 17h|
 |12|the-wizard-and-the-slug-482a09|The Wizard and The Slug|3,99€|55|2022-11-14 05h|2022-11-21 05h|
 |13|liberated-f13008|Liberated|15,99€|50|2022-11-11 05h|2022-11-18 05h|
-|14|naraka-bladepoint|NARAKA: BLADEPOINT|19,99€|50|2022-11-17 16h|2022-11-22 16h|
-|15|naraka-bladepoint--ultimate-edition|NARAKA: BLADEPOINT  Ultimate Edition|50,99€|50|2022-11-17 16h|2022-11-22 16h|
-|16|naraka-bladepoint--deluxe-edition|NARAKA: BLADEPOINT Deluxe Edition|34,99€|50|2022-11-17 16h|2022-11-22 16h|
+|14|naraka-bladepoint|NARAKA: BLADEPOINT|19,99€|50|2022-11-16 16h|2022-11-22 16h|
+|15|naraka-bladepoint--ultimate-edition|NARAKA: BLADEPOINT  Ultimate Edition|50,99€|50|2022-11-16 16h|2022-11-22 16h|
+|16|naraka-bladepoint--deluxe-edition|NARAKA: BLADEPOINT Deluxe Edition|34,99€|50|2022-11-16 16h|2022-11-22 16h|
 |17|fortnite--shadows-rising-pack|Shadows Rising Pack|15,99€|50|2022-11-18 15h|2022-11-29 12h|
 |18|fortnite--tech-future-pack|Tech Future Pack|17,99€|50|2022-11-18 15h|2022-11-29 12h|
 |19|chains-8ac580|Chains|1,59€|45|2022-11-28 05h|2022-12-05 05h|
