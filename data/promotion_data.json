@@ -108,15 +108,6 @@
     "title": "Champions of Renown: Year 2 All-Star Pack"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2022-11-15T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--colonel-pest-the-pest-mascot-familiar-pack",
-    "startDate": "2022-11-11T20:00:00.000Z",
-    "title": "Colonel Pest the Pest Mascot Familiar Pack"
-  },
-  {
     "discountPercentage": 100,
     "endDate": "2022-11-24T16:00:00.000Z",
     "isFree": true,
@@ -199,11 +190,11 @@
   },
   {
     "discountPercentage": 20,
-    "endDate": "2022-11-29T17:00:00.000Z",
+    "endDate": "2022-11-29T18:00:00.000Z",
     "isFree": false,
     "originalPrice": 2099,
     "slug": "my-time-at-sandrock",
-    "startDate": "2022-11-22T17:00:00.000Z",
+    "startDate": "2022-11-22T18:00:00.000Z",
     "title": "My Time at Sandrock"
   },
   {
@@ -235,57 +226,12 @@
   },
   {
     "discountPercentage": 40,
-    "endDate": "2022-11-15T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--polymorphed-baeloth-skin-feat-pack",
-    "startDate": "2022-11-11T20:00:00.000Z",
-    "title": "Polymorphed Baeloth Skin & Feat Pack"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-11-15T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--polymorphed-desmond-skin-feat-pack",
-    "startDate": "2022-11-11T20:00:00.000Z",
-    "title": "Polymorphed Desmond Skin & Feat Pack"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-11-15T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--polymorphed-farideh-skin-feat-pack",
-    "startDate": "2022-11-11T20:00:00.000Z",
-    "title": "Polymorphed Farideh Skin & Feat Pack"
-  },
-  {
-    "discountPercentage": 40,
     "endDate": "2022-11-21T20:00:00.000Z",
     "isFree": false,
     "originalPrice": 799,
     "slug": "idle-champions-of-the-forgotten-realms--polymorphed-jarlaxle-skin-feat-pack",
     "startDate": "2022-11-17T20:00:00.000Z",
     "title": "Polymorphed Jarlaxle Skin & Feat Pack"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-11-15T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--polymorphed-shaka-skin-feat-pack",
-    "startDate": "2022-11-11T20:00:00.000Z",
-    "title": "Polymorphed Shaka Skin & Feat Pack"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-11-15T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--polymorphed-tatyana-skin-feat-pack",
-    "startDate": "2022-11-11T20:00:00.000Z",
-    "title": "Polymorphed Tatyana Skin & Feat Pack"
   },
   {
     "discountPercentage": 75,
