@@ -235,15 +235,6 @@
   },
   {
     "discountPercentage": 75,
-    "endDate": "2022-11-21T05:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 399,
-    "slug": "schein-77f039",
-    "startDate": "2022-11-14T05:00:00.000Z",
-    "title": "Schein"
-  },
-  {
-    "discountPercentage": 75,
     "endDate": "2022-11-17T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1499,
@@ -259,15 +250,6 @@
     "slug": "fortnite--shadows-rising-pack",
     "startDate": "2022-11-18T15:51:00.000Z",
     "title": "Shadows Rising Pack"
-  },
-  {
-    "discountPercentage": 10,
-    "endDate": "2022-11-22T00:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "somerville-229529",
-    "startDate": "2022-11-14T00:00:00.000Z",
-    "title": "Somerville"
   },
   {
     "discountPercentage": 20,
@@ -322,14 +304,5 @@
     "slug": "the-riftbreaker--metal-terror",
     "startDate": "2022-11-18T18:00:00.000Z",
     "title": "The Riftbreaker: Metal Terror"
-  },
-  {
-    "discountPercentage": 55,
-    "endDate": "2022-11-21T05:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 399,
-    "slug": "the-wizard-and-the-slug-482a09",
-    "startDate": "2022-11-14T05:00:00.000Z",
-    "title": "The Wizard and The Slug"
   }
 ]
