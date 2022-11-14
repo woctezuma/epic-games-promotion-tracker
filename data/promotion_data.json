@@ -18,15 +18,6 @@
     "title": "Amani the Songbird Familiar Pack"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2022-11-21T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1449,
-    "slug": "beat-hazard-3-c8ef04",
-    "startDate": "2022-11-14T18:00:00.000Z",
-    "title": "Beat Hazard 3"
-  },
-  {
     "discountPercentage": 30,
     "endDate": "2022-11-21T20:00:00.000Z",
     "isFree": false,
@@ -225,6 +216,15 @@
     "title": "NARAKA: BLADEPOINT Deluxe Edition"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2022-12-18T05:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "pirates-outlaws-a8cc60",
+    "startDate": "2022-12-12T05:00:00.000Z",
+    "title": "Pirates Outlaws"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2022-11-21T20:00:00.000Z",
     "isFree": false,
@@ -250,15 +250,6 @@
     "slug": "fortnite--shadows-rising-pack",
     "startDate": "2022-11-18T15:51:00.000Z",
     "title": "Shadows Rising Pack"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2022-11-21T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "terracotta-72cc62",
-    "startDate": "2022-11-14T17:00:00.000Z",
-    "title": "TERRACOTTA"
   },
   {
     "discountPercentage": 50,
