@@ -1,39 +1,59 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|1|aspire-inas-tale-f77a17|Aspire Inas Tale|9,99€|80|2022-11-18 17h|2022-12-02 17h|
-|2|away-the-survival-series|AWAY: The Survival Series|15,99€|60|2022-11-21 17h|2022-12-05 17h|
-|3|banedlc028-02|Celeste's Starter Pack|15,99€|90|2022-11-17 20h|2022-11-21 20h|
-|4|banedlc028-22|Champions of Renown: Year 2 All-Star Pack|43,99€|40|2022-11-17 20h|2022-11-21 20h|
-|5|blazing-beaks-3d4864|Blazing Beaks|11,99€|75|2022-12-15 15h|2023-01-02 15h|
-|6|blossom-tales-ii-the-minotaur-prince-e74c95|Blossom Tales II The Minotaur Prince|12,49€|20|2022-11-22 16h|2022-11-29 16h|
-|7|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|80|2022-12-16 04h|2023-01-01 04h|
-|8|chains-8ac580|Chains|1,59€|45|2022-11-28 05h|2022-12-05 05h|
-|9|dark-deity-0b08d1|Dark Deity|21,99€|100|2022-11-17 16h|2022-11-24 16h|
-|10|dlc2|Sgt Joe's Support Bundle Cosmetic DLC Audience|14,99€|75|2022-11-17 15h|2022-11-17 16h|
-|11|evil-dead-the-game|Evil Dead: The Game|39,99€|100|2022-11-17 16h|2022-11-24 16h|
-|12|flat-heroes-fec628|Flat Heroes|9,99€|45|2022-12-07 15h|2022-12-14 15h|
-|13|fortnite--minty-legends-pack|Minty Legends Pack|19,99€|40|2022-11-18 00h|2022-11-29 12h|
-|14|fortnite--shadows-rising-pack|Shadows Rising Pack|15,99€|50|2022-11-18 00h|2022-11-29 12h|
-|15|fortnite--tech-future-pack|Tech Future Pack|17,99€|50|2022-11-18 00h|2022-11-29 12h|
-|16|gigabash|GigaBash|31,99€|25|2022-11-22 18h|2022-11-29 18h|
-|17|golf-club-wasteland-f6771e|Golf Club Wasteland|9,99€|80|2022-11-18 17h|2022-12-02 17h|
-|18|he-will-shoot-46efff|He Will Shoot|1,59€|50|2022-11-25 17h|2022-12-08 17h|
-|19|idle-champions-of-the-forgotten-realms--amani-the-songbird-familiar-pack|Amani the Songbird Familiar Pack|7,99€|40|2022-11-17 20h|2022-11-21 20h|
-|20|idle-champions-of-the-forgotten-realms--beeples-corazn-skin-feat-pack|Beeples Corazón Skin & Feat Pack|7,99€|30|2022-11-17 20h|2022-11-21 20h|
-|21|idle-champions-of-the-forgotten-realms--beeples-dob-skin-feat-pack|Beeples Dob Skin & Feat Pack|7,99€|30|2022-11-17 20h|2022-11-21 20h|
-|22|idle-champions-of-the-forgotten-realms--blight-druid-voronika-theme-pack|Blight Druid Voronika Theme Pack|19,99€|30|2022-11-17 20h|2022-11-21 20h|
-|23|idle-champions-of-the-forgotten-realms--landlubber-rust-skin-feat-pack|Landlubber Rust Skin & Feat Pack|7,99€|40|2022-11-17 20h|2022-11-21 20h|
-|24|idle-champions-of-the-forgotten-realms--polymorphed-jarlaxle-skin-feat-pack|Polymorphed Jarlaxle Skin & Feat Pack|7,99€|40|2022-11-17 20h|2022-11-21 20h|
-|25|it-follows-you-b11f3e|It follows you|1,59€|50|2022-11-24 17h|2022-12-08 17h|
-|26|little-inferno|Little Inferno|11,99€|80|2022-11-18 18h|2022-11-21 18h|
-|27|maritime-calling-636728|Maritime Calling|11,99€|45|2022-11-28 05h|2022-12-05 05h|
-|28|my-time-at-sandrock|My Time at Sandrock|20,99€|20|2022-11-22 18h|2022-11-29 18h|
-|29|naraka-bladepoint|NARAKA: BLADEPOINT|19,99€|50|2022-11-16 16h|2022-11-22 16h|
-|30|naraka-bladepoint--deluxe-edition|NARAKA: BLADEPOINT Deluxe Edition|34,99€|50|2022-11-16 16h|2022-11-22 16h|
-|31|naraka-bladepoint--ultimate-edition|NARAKA: BLADEPOINT  Ultimate Edition|50,99€|50|2022-11-16 16h|2022-11-22 16h|
-|32|pirates-outlaws-a8cc60|Pirates Outlaws|15,99€|60|2022-12-12 05h|2022-12-18 05h|
-|33|the-riftbreaker|The Riftbreaker|29,99€|35|2022-11-18 18h|2022-11-29 18h|
-|34|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|44,99€|35|2022-11-18 18h|2022-11-29 18h|
-|35|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|9,99€|20|2022-11-18 18h|2022-11-29 18h|
-|36|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|9,99€|35|2022-11-18 18h|2022-11-29 18h|
-|37|what-lies-in-the-multiverse-f604fa|What Lies in the Multiverse|11,99€|75|2022-11-18 17h|2022-12-02 17h|
+|1|achilles-legends-untold-bb77ad|Achilles Legends Untold|18,99€|25|2022-11-21 13h|2022-11-29 13h|
+|2|achilles-legends-untold-bb77ad|Achilles Legends Untold|18,99€|25|2022-12-05 13h|2022-12-31 13h|
+|3|aspire-inas-tale-f77a17|Aspire Inas Tale|9,99€|80|2022-11-18 17h|2022-12-02 17h|
+|4|away-the-survival-series|AWAY: The Survival Series|15,99€|60|2022-11-21 17h|2022-12-05 17h|
+|5|banedlc028-02|Celeste's Starter Pack|15,99€|90|2022-11-17 20h|2022-11-21 20h|
+|6|banedlc028-22|Champions of Renown: Year 2 All-Star Pack|43,99€|40|2022-11-17 20h|2022-11-21 20h|
+|7|blazing-beaks-3d4864|Blazing Beaks|11,99€|75|2022-12-15 15h|2023-01-02 15h|
+|8|blossom-tales-ii-the-minotaur-prince-e74c95|Blossom Tales II The Minotaur Prince|12,49€|20|2022-11-22 16h|2022-11-29 16h|
+|9|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|80|2022-12-16 04h|2023-01-01 04h|
+|10|chains-8ac580|Chains|1,59€|45|2022-11-28 05h|2022-12-05 05h|
+|11|dark-deity-0b08d1|Dark Deity|21,99€|100|2022-11-17 16h|2022-11-24 16h|
+|12|dlc2|Sgt Joe's Support Bundle Cosmetic DLC Audience|14,99€|75|2022-11-17 15h|2022-11-17 16h|
+|13|edge-of-galaxy-092087|Edge Of Galaxy|6,99€|25|2023-01-10 05h|2023-01-17 05h|
+|14|evil-dead-the-game|Evil Dead: The Game|39,99€|100|2022-11-17 16h|2022-11-24 16h|
+|15|family-man-bbc679|Family Man|15,99€|75|2022-11-22 14h|2022-12-18 14h|
+|16|fashion-police-squad|Fashion Police Squad|15,99€|20|2022-11-22 14h|2022-12-18 14h|
+|17|flat-heroes-fec628|Flat Heroes|9,99€|45|2022-12-07 15h|2022-12-14 15h|
+|18|fortnite--minty-legends-pack|Minty Legends Pack|19,99€|40|2022-11-18 00h|2022-11-29 12h|
+|19|fortnite--shadows-rising-pack|Shadows Rising Pack|15,99€|50|2022-11-18 00h|2022-11-29 12h|
+|20|fortnite--tech-future-pack|Tech Future Pack|17,99€|50|2022-11-18 00h|2022-11-29 12h|
+|21|gigabash|GigaBash|31,99€|25|2022-11-22 18h|2022-11-29 18h|
+|22|golf-club-wasteland-f6771e|Golf Club Wasteland|9,99€|80|2022-11-18 17h|2022-12-02 17h|
+|23|he-will-shoot-46efff|He Will Shoot|1,59€|50|2022-11-25 17h|2022-12-08 17h|
+|24|hypnospace-outlaw|Hypnospace Outlaw|16,79€|55|2022-11-22 14h|2022-12-18 14h|
+|25|idle-champions-of-the-forgotten-realms--amani-the-songbird-familiar-pack|Amani the Songbird Familiar Pack|7,99€|40|2022-11-17 20h|2022-11-21 20h|
+|26|idle-champions-of-the-forgotten-realms--archmagi-dungeon-master-theme-pack|Archmagi Dungeon Master Theme Pack|19,99€|40|2022-12-02 20h|2022-12-05 20h|
+|27|idle-champions-of-the-forgotten-realms--beeples-corazn-skin-feat-pack|Beeples Corazón Skin & Feat Pack|7,99€|30|2022-11-17 20h|2022-11-21 20h|
+|28|idle-champions-of-the-forgotten-realms--beeples-dob-skin-feat-pack|Beeples Dob Skin & Feat Pack|7,99€|30|2022-11-17 20h|2022-11-21 20h|
+|29|idle-champions-of-the-forgotten-realms--blight-druid-voronika-theme-pack|Blight Druid Voronika Theme Pack|19,99€|30|2022-11-17 20h|2022-11-21 20h|
+|30|idle-champions-of-the-forgotten-realms--eberron-ellywick-skin-feat-pack|Eberron Ellywick Skin & Feat Pack|7,99€|40|2022-12-02 20h|2022-12-05 20h|
+|31|idle-champions-of-the-forgotten-realms--elf-hazard-merilwen-skin-feat-pack|Elf Hazard Merilwen Skin & Feat Pack|7,99€|30|2022-12-02 20h|2022-12-05 20h|
+|32|idle-champions-of-the-forgotten-realms--gladiator-freely-skin-feat-pack|Gladiator Freely Skin & Feat Pack|7,99€|40|2022-12-02 20h|2022-12-05 20h|
+|33|idle-champions-of-the-forgotten-realms--gladiator-widdle-skin-feat-pack|Gladiator Widdle Skin & Feat Pack|7,99€|40|2022-12-02 20h|2022-12-05 20h|
+|34|idle-champions-of-the-forgotten-realms--high-society-egbert-skin-feat-pack|High Society Egbert Skin & Feat Pack|7,99€|30|2022-12-02 20h|2022-12-05 20h|
+|35|idle-champions-of-the-forgotten-realms--landlubber-rust-skin-feat-pack|Landlubber Rust Skin & Feat Pack|7,99€|40|2022-11-17 20h|2022-11-21 20h|
+|36|idle-champions-of-the-forgotten-realms--polymorphed-jarlaxle-skin-feat-pack|Polymorphed Jarlaxle Skin & Feat Pack|7,99€|40|2022-11-17 20h|2022-11-21 20h|
+|37|idle-champions-of-the-forgotten-realms--vertex-donaar-theme-pack|Vertex Donaar Theme Pack|19,99€|30|2022-12-02 20h|2022-12-05 20h|
+|38|it-follows-you-b11f3e|It follows you|1,59€|50|2022-11-24 17h|2022-12-08 17h|
+|39|lets-build-a-zoo|Let's Build A Zoo|15,99€|35|2022-11-22 14h|2022-12-18 14h|
+|40|lets-build-a-zoo--dinosaur-island|Let's Build a Zoo: Dinosaur Island|7,99€|25|2022-11-22 14h|2022-12-18 14h|
+|41|little-inferno|Little Inferno|11,99€|80|2022-11-18 18h|2022-11-21 18h|
+|42|maritime-calling-636728|Maritime Calling|11,99€|45|2022-11-28 05h|2022-12-05 05h|
+|43|my-time-at-sandrock|My Time at Sandrock|20,99€|20|2022-11-22 18h|2022-11-29 18h|
+|44|naraka-bladepoint|NARAKA: BLADEPOINT|19,99€|50|2022-11-16 16h|2022-11-22 16h|
+|45|naraka-bladepoint--deluxe-edition|NARAKA: BLADEPOINT Deluxe Edition|34,99€|50|2022-11-16 16h|2022-11-22 16h|
+|46|naraka-bladepoint--ultimate-edition|NARAKA: BLADEPOINT  Ultimate Edition|50,99€|50|2022-11-16 16h|2022-11-22 16h|
+|47|not-tonight-2|Not Tonight 2|15,99€|30|2022-11-22 14h|2022-12-18 14h|
+|48|nowhere-prophet-4790db|Nowhere Prophet|19,99€|20|2022-11-22 14h|2022-12-18 14h|
+|49|out-of-the-park-baseball-23-09e3fa|Out of the Park Baseball 23|31,99€|75|2022-11-22 18h|2022-11-29 18h|
+|50|pirates-outlaws-a8cc60|Pirates Outlaws|15,99€|60|2022-12-12 05h|2022-12-18 05h|
+|51|the-riftbreaker|The Riftbreaker|29,99€|35|2022-11-18 18h|2022-11-29 18h|
+|52|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|44,99€|35|2022-11-18 18h|2022-11-29 18h|
+|53|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|9,99€|20|2022-11-18 18h|2022-11-29 18h|
+|54|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|9,99€|35|2022-11-18 18h|2022-11-29 18h|
+|55|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
+|56|what-lies-in-the-multiverse-f604fa|What Lies in the Multiverse|11,99€|75|2022-11-18 17h|2022-12-02 17h|
+|57|yes-your-grace|Yes, Your Grace|16,79€|60|2022-11-22 14h|2022-12-18 14h|
