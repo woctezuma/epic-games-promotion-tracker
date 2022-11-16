@@ -144,6 +144,15 @@
     "title": "Dark Deity"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2023-01-10T00:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "fortnite--deep-freeze-bundle",
+    "startDate": "2022-12-21T00:00:00.000Z",
+    "title": "Deep Freeze Bundle"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2022-12-05T20:00:00.000Z",
     "isFree": false,
@@ -205,6 +214,15 @@
     "slug": "flat-heroes-fec628",
     "startDate": "2022-12-07T15:00:00.000Z",
     "title": "Flat Heroes"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-01-10T00:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "fortnite--frozen-legends-pack",
+    "startDate": "2022-12-21T00:00:00.000Z",
+    "title": "Frozen Legends Pack"
   },
   {
     "discountPercentage": 25,
@@ -351,33 +369,6 @@
     "title": "My Time at Sandrock"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2022-11-22T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "naraka-bladepoint",
-    "startDate": "2022-11-16T16:00:00.000Z",
-    "title": "NARAKA: BLADEPOINT"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2022-11-22T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5099,
-    "slug": "naraka-bladepoint--ultimate-edition",
-    "startDate": "2022-11-16T16:00:00.000Z",
-    "title": "NARAKA: BLADEPOINT  Ultimate Edition"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2022-11-22T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3499,
-    "slug": "naraka-bladepoint--deluxe-edition",
-    "startDate": "2022-11-16T16:00:00.000Z",
-    "title": "NARAKA: BLADEPOINT Deluxe Edition"
-  },
-  {
     "discountPercentage": 30,
     "endDate": "2022-12-18T14:00:00.000Z",
     "isFree": false,
@@ -412,6 +403,15 @@
     "slug": "pirates-outlaws-a8cc60",
     "startDate": "2022-12-12T05:00:00.000Z",
     "title": "Pirates Outlaws"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-01-10T00:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "fortnite--polar-legends-pack",
+    "startDate": "2022-12-21T00:00:00.000Z",
+    "title": "Polar Legends Pack"
   },
   {
     "discountPercentage": 40,
