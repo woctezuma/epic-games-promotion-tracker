@@ -423,6 +423,15 @@
     "title": "Polymorphed Jarlaxle Skin & Feat Pack"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2022-12-01T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 3999,
+    "slug": "star-wars-squadrons",
+    "startDate": "2022-11-24T16:00:00.000Z",
+    "title": "STAR WARS\u2122: Squadrons"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2022-11-17T16:00:00.000Z",
     "isFree": false,
