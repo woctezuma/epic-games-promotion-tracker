@@ -9,6 +9,24 @@
     "title": "AWAY: The Survival Series"
   },
   {
+    "discountPercentage": 25,
+    "endDate": "2022-11-29T13:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1899,
+    "slug": "achilles-legends-untold-bb77ad",
+    "startDate": "2022-11-21T13:00:00.000Z",
+    "title": "Achilles Legends Untold"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2022-12-31T13:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1899,
+    "slug": "achilles-legends-untold-bb77ad",
+    "startDate": "2022-12-05T13:00:00.000Z",
+    "title": "Achilles Legends Untold"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2022-11-21T20:00:00.000Z",
     "isFree": false,
@@ -16,6 +34,15 @@
     "slug": "idle-champions-of-the-forgotten-realms--amani-the-songbird-familiar-pack",
     "startDate": "2022-11-17T20:00:00.000Z",
     "title": "Amani the Songbird Familiar Pack"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-12-05T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "idle-champions-of-the-forgotten-realms--archmagi-dungeon-master-theme-pack",
+    "startDate": "2022-12-02T20:00:00.000Z",
+    "title": "Archmagi Dungeon Master Theme Pack"
   },
   {
     "discountPercentage": 80,
@@ -117,6 +144,42 @@
     "title": "Dark Deity"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2023-01-10T00:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "fortnite--deep-freeze-bundle",
+    "startDate": "2022-12-21T00:00:00.000Z",
+    "title": "Deep Freeze Bundle"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-12-05T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "idle-champions-of-the-forgotten-realms--eberron-ellywick-skin-feat-pack",
+    "startDate": "2022-12-02T20:00:00.000Z",
+    "title": "Eberron Ellywick Skin & Feat Pack"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2023-01-17T05:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 699,
+    "slug": "edge-of-galaxy-092087",
+    "startDate": "2023-01-10T05:00:00.000Z",
+    "title": "Edge Of Galaxy"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2022-12-05T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "idle-champions-of-the-forgotten-realms--elf-hazard-merilwen-skin-feat-pack",
+    "startDate": "2022-12-02T20:00:00.000Z",
+    "title": "Elf Hazard Merilwen Skin & Feat Pack"
+  },
+  {
     "discountPercentage": 100,
     "endDate": "2022-11-24T16:00:00.000Z",
     "isFree": true,
@@ -124,6 +187,24 @@
     "slug": "evil-dead-the-game",
     "startDate": "2022-11-17T16:00:00.000Z",
     "title": "Evil Dead: The Game"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2022-12-18T14:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "family-man-bbc679",
+    "startDate": "2022-11-22T14:00:00.000Z",
+    "title": "Family Man"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2022-12-18T14:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "fashion-police-squad",
+    "startDate": "2022-11-22T14:00:00.000Z",
+    "title": "Fashion Police Squad"
   },
   {
     "discountPercentage": 45,
@@ -135,6 +216,15 @@
     "title": "Flat Heroes"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2023-01-10T00:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "fortnite--frozen-legends-pack",
+    "startDate": "2022-12-21T00:00:00.000Z",
+    "title": "Frozen Legends Pack"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2022-11-29T18:00:00.000Z",
     "isFree": false,
@@ -142,6 +232,24 @@
     "slug": "gigabash",
     "startDate": "2022-11-22T18:00:00.000Z",
     "title": "GigaBash"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-12-05T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "idle-champions-of-the-forgotten-realms--gladiator-freely-skin-feat-pack",
+    "startDate": "2022-12-02T20:00:00.000Z",
+    "title": "Gladiator Freely Skin & Feat Pack"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2022-12-05T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "idle-champions-of-the-forgotten-realms--gladiator-widdle-skin-feat-pack",
+    "startDate": "2022-12-02T20:00:00.000Z",
+    "title": "Gladiator Widdle Skin & Feat Pack"
   },
   {
     "discountPercentage": 80,
@@ -162,6 +270,24 @@
     "title": "He Will Shoot"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2022-12-05T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "idle-champions-of-the-forgotten-realms--high-society-egbert-skin-feat-pack",
+    "startDate": "2022-12-02T20:00:00.000Z",
+    "title": "High Society Egbert Skin & Feat Pack"
+  },
+  {
+    "discountPercentage": 55,
+    "endDate": "2022-12-18T14:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1679,
+    "slug": "hypnospace-outlaw",
+    "startDate": "2022-11-22T14:00:00.000Z",
+    "title": "Hypnospace Outlaw"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2022-12-08T17:00:00.000Z",
     "isFree": false,
@@ -178,6 +304,24 @@
     "slug": "idle-champions-of-the-forgotten-realms--landlubber-rust-skin-feat-pack",
     "startDate": "2022-11-17T20:00:00.000Z",
     "title": "Landlubber Rust Skin & Feat Pack"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2022-12-18T14:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "lets-build-a-zoo",
+    "startDate": "2022-11-22T14:00:00.000Z",
+    "title": "Let's Build A Zoo"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2022-12-18T14:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "lets-build-a-zoo--dinosaur-island",
+    "startDate": "2022-11-22T14:00:00.000Z",
+    "title": "Let's Build a Zoo: Dinosaur Island"
   },
   {
     "discountPercentage": 80,
@@ -225,31 +369,31 @@
     "title": "My Time at Sandrock"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2022-11-22T16:00:00.000Z",
+    "discountPercentage": 30,
+    "endDate": "2022-12-18T14:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "not-tonight-2",
+    "startDate": "2022-11-22T14:00:00.000Z",
+    "title": "Not Tonight 2"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2022-12-18T14:00:00.000Z",
     "isFree": false,
     "originalPrice": 1999,
-    "slug": "naraka-bladepoint",
-    "startDate": "2022-11-16T16:00:00.000Z",
-    "title": "NARAKA: BLADEPOINT"
+    "slug": "nowhere-prophet-4790db",
+    "startDate": "2022-11-22T14:00:00.000Z",
+    "title": "Nowhere Prophet"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2022-11-22T16:00:00.000Z",
+    "discountPercentage": 75,
+    "endDate": "2022-11-29T18:00:00.000Z",
     "isFree": false,
-    "originalPrice": 5099,
-    "slug": "naraka-bladepoint--ultimate-edition",
-    "startDate": "2022-11-16T16:00:00.000Z",
-    "title": "NARAKA: BLADEPOINT  Ultimate Edition"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2022-11-22T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3499,
-    "slug": "naraka-bladepoint--deluxe-edition",
-    "startDate": "2022-11-16T16:00:00.000Z",
-    "title": "NARAKA: BLADEPOINT Deluxe Edition"
+    "originalPrice": 3199,
+    "slug": "out-of-the-park-baseball-23-09e3fa",
+    "startDate": "2022-11-22T18:00:00.000Z",
+    "title": "Out of the Park Baseball 23"
   },
   {
     "discountPercentage": 60,
@@ -259,6 +403,15 @@
     "slug": "pirates-outlaws-a8cc60",
     "startDate": "2022-12-12T05:00:00.000Z",
     "title": "Pirates Outlaws"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-01-10T00:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "fortnite--polar-legends-pack",
+    "startDate": "2022-12-21T00:00:00.000Z",
+    "title": "Polar Legends Pack"
   },
   {
     "discountPercentage": 40,
@@ -286,6 +439,15 @@
     "slug": "fortnite--shadows-rising-pack",
     "startDate": "2022-11-18T00:00:00.000Z",
     "title": "Shadows Rising Pack"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2022-12-01T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "dark-deity-suns-out-swords-out-dlc-f710e6",
+    "startDate": "2022-11-18T16:00:00.000Z",
+    "title": "Suns Out, Swords Out DLC"
   },
   {
     "discountPercentage": 50,
@@ -333,6 +495,24 @@
     "title": "The Riftbreaker: Metal Terror"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2022-12-05T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "idle-champions-of-the-forgotten-realms--vertex-donaar-theme-pack",
+    "startDate": "2022-12-02T20:00:00.000Z",
+    "title": "Vertex Donaar Theme Pack"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2023-01-31T05:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "warforwards-fd05ed",
+    "startDate": "2023-01-24T05:00:00.000Z",
+    "title": "WarForwards"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2022-12-02T17:00:00.000Z",
     "isFree": false,
@@ -340,5 +520,14 @@
     "slug": "what-lies-in-the-multiverse-f604fa",
     "startDate": "2022-11-18T17:00:00.000Z",
     "title": "What Lies in the Multiverse"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2022-12-18T14:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1679,
+    "slug": "yes-your-grace",
+    "startDate": "2022-11-22T14:00:00.000Z",
+    "title": "Yes, Your Grace"
   }
 ]
