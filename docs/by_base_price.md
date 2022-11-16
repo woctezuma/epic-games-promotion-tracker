@@ -1,38 +1,38 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|1|naraka-bladepoint--ultimate-edition|NARAKA: BLADEPOINT  Ultimate Edition|50,99€|50|2022-11-16 16h|2022-11-22 16h|
-|2|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|44,99€|35|2022-11-18 18h|2022-11-29 18h|
-|3|banedlc028-22|Champions of Renown: Year 2 All-Star Pack|43,99€|40|2022-11-17 20h|2022-11-21 20h|
-|4|evil-dead-the-game|Evil Dead: The Game|39,99€|100|2022-11-17 16h|2022-11-24 16h|
-|5|naraka-bladepoint--deluxe-edition|NARAKA: BLADEPOINT Deluxe Edition|34,99€|50|2022-11-16 16h|2022-11-22 16h|
-|6|gigabash|GigaBash|31,99€|25|2022-11-22 18h|2022-11-29 18h|
-|7|out-of-the-park-baseball-23-09e3fa|Out of the Park Baseball 23|31,99€|75|2022-11-22 18h|2022-11-29 18h|
-|8|the-riftbreaker|The Riftbreaker|29,99€|35|2022-11-18 18h|2022-11-29 18h|
-|9|dark-deity-0b08d1|Dark Deity|21,99€|100|2022-11-17 16h|2022-11-24 16h|
-|10|my-time-at-sandrock|My Time at Sandrock|20,99€|20|2022-11-22 18h|2022-11-29 18h|
-|11|idle-champions-of-the-forgotten-realms--archmagi-dungeon-master-theme-pack|Archmagi Dungeon Master Theme Pack|19,99€|40|2022-12-02 20h|2022-12-05 20h|
-|12|idle-champions-of-the-forgotten-realms--blight-druid-voronika-theme-pack|Blight Druid Voronika Theme Pack|19,99€|30|2022-11-17 20h|2022-11-21 20h|
-|13|fortnite--minty-legends-pack|Minty Legends Pack|19,99€|40|2022-11-18 00h|2022-11-29 12h|
-|14|naraka-bladepoint|NARAKA: BLADEPOINT|19,99€|50|2022-11-16 16h|2022-11-22 16h|
-|15|nowhere-prophet-4790db|Nowhere Prophet|19,99€|20|2022-11-22 14h|2022-12-18 14h|
-|16|idle-champions-of-the-forgotten-realms--vertex-donaar-theme-pack|Vertex Donaar Theme Pack|19,99€|30|2022-12-02 20h|2022-12-05 20h|
-|17|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|80|2022-12-16 04h|2023-01-01 04h|
-|18|achilles-legends-untold-bb77ad|Achilles Legends Untold|18,99€|25|2022-11-21 13h|2022-11-29 13h|
-|19|achilles-legends-untold-bb77ad|Achilles Legends Untold|18,99€|25|2022-12-05 13h|2022-12-31 13h|
-|20|fortnite--tech-future-pack|Tech Future Pack|17,99€|50|2022-11-18 00h|2022-11-29 12h|
-|21|hypnospace-outlaw|Hypnospace Outlaw|16,79€|55|2022-11-22 14h|2022-12-18 14h|
-|22|yes-your-grace|Yes, Your Grace|16,79€|60|2022-11-22 14h|2022-12-18 14h|
-|23|away-the-survival-series|AWAY: The Survival Series|15,99€|60|2022-11-21 17h|2022-12-05 17h|
-|24|banedlc028-02|Celeste's Starter Pack|15,99€|90|2022-11-17 20h|2022-11-21 20h|
-|25|family-man-bbc679|Family Man|15,99€|75|2022-11-22 14h|2022-12-18 14h|
-|26|fashion-police-squad|Fashion Police Squad|15,99€|20|2022-11-22 14h|2022-12-18 14h|
-|27|lets-build-a-zoo|Let's Build A Zoo|15,99€|35|2022-11-22 14h|2022-12-18 14h|
-|28|not-tonight-2|Not Tonight 2|15,99€|30|2022-11-22 14h|2022-12-18 14h|
-|29|pirates-outlaws-a8cc60|Pirates Outlaws|15,99€|60|2022-12-12 05h|2022-12-18 05h|
-|30|fortnite--shadows-rising-pack|Shadows Rising Pack|15,99€|50|2022-11-18 00h|2022-11-29 12h|
-|31|dlc2|Sgt Joe's Support Bundle Cosmetic DLC Audience|14,99€|75|2022-11-17 15h|2022-11-17 16h|
-|32|blossom-tales-ii-the-minotaur-prince-e74c95|Blossom Tales II The Minotaur Prince|12,49€|20|2022-11-22 16h|2022-11-29 16h|
-|33|blazing-beaks-3d4864|Blazing Beaks|11,99€|75|2022-12-15 15h|2023-01-02 15h|
+|1|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|44,99€|35|2022-11-18 18h|2022-11-29 18h|
+|2|banedlc028-22|Champions of Renown: Year 2 All-Star Pack|43,99€|40|2022-11-17 20h|2022-11-21 20h|
+|3|evil-dead-the-game|Evil Dead: The Game|39,99€|100|2022-11-17 16h|2022-11-24 16h|
+|4|gigabash|GigaBash|31,99€|25|2022-11-22 18h|2022-11-29 18h|
+|5|out-of-the-park-baseball-23-09e3fa|Out of the Park Baseball 23|31,99€|75|2022-11-22 18h|2022-11-29 18h|
+|6|the-riftbreaker|The Riftbreaker|29,99€|35|2022-11-18 18h|2022-11-29 18h|
+|7|dark-deity-0b08d1|Dark Deity|21,99€|100|2022-11-17 16h|2022-11-24 16h|
+|8|my-time-at-sandrock|My Time at Sandrock|20,99€|20|2022-11-22 18h|2022-11-29 18h|
+|9|idle-champions-of-the-forgotten-realms--archmagi-dungeon-master-theme-pack|Archmagi Dungeon Master Theme Pack|19,99€|40|2022-12-02 20h|2022-12-05 20h|
+|10|idle-champions-of-the-forgotten-realms--blight-druid-voronika-theme-pack|Blight Druid Voronika Theme Pack|19,99€|30|2022-11-17 20h|2022-11-21 20h|
+|11|fortnite--minty-legends-pack|Minty Legends Pack|19,99€|40|2022-11-18 00h|2022-11-29 12h|
+|12|nowhere-prophet-4790db|Nowhere Prophet|19,99€|20|2022-11-22 14h|2022-12-18 14h|
+|13|fortnite--polar-legends-pack|Polar Legends Pack|19,99€|40|2022-12-21 00h|2023-01-10 00h|
+|14|idle-champions-of-the-forgotten-realms--vertex-donaar-theme-pack|Vertex Donaar Theme Pack|19,99€|30|2022-12-02 20h|2022-12-05 20h|
+|15|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|80|2022-12-16 04h|2023-01-01 04h|
+|16|achilles-legends-untold-bb77ad|Achilles Legends Untold|18,99€|25|2022-11-21 13h|2022-11-29 13h|
+|17|achilles-legends-untold-bb77ad|Achilles Legends Untold|18,99€|25|2022-12-05 13h|2022-12-31 13h|
+|18|fortnite--tech-future-pack|Tech Future Pack|17,99€|50|2022-11-18 00h|2022-11-29 12h|
+|19|hypnospace-outlaw|Hypnospace Outlaw|16,79€|55|2022-11-22 14h|2022-12-18 14h|
+|20|yes-your-grace|Yes, Your Grace|16,79€|60|2022-11-22 14h|2022-12-18 14h|
+|21|away-the-survival-series|AWAY: The Survival Series|15,99€|60|2022-11-21 17h|2022-12-05 17h|
+|22|banedlc028-02|Celeste's Starter Pack|15,99€|90|2022-11-17 20h|2022-11-21 20h|
+|23|family-man-bbc679|Family Man|15,99€|75|2022-11-22 14h|2022-12-18 14h|
+|24|fashion-police-squad|Fashion Police Squad|15,99€|20|2022-11-22 14h|2022-12-18 14h|
+|25|lets-build-a-zoo|Let's Build A Zoo|15,99€|35|2022-11-22 14h|2022-12-18 14h|
+|26|not-tonight-2|Not Tonight 2|15,99€|30|2022-11-22 14h|2022-12-18 14h|
+|27|pirates-outlaws-a8cc60|Pirates Outlaws|15,99€|60|2022-12-12 05h|2022-12-18 05h|
+|28|fortnite--shadows-rising-pack|Shadows Rising Pack|15,99€|50|2022-11-18 00h|2022-11-29 12h|
+|29|fortnite--frozen-legends-pack|Frozen Legends Pack|14,99€|40|2022-12-21 00h|2023-01-10 00h|
+|30|dlc2|Sgt Joe's Support Bundle Cosmetic DLC Audience|14,99€|75|2022-11-17 15h|2022-11-17 16h|
+|31|blossom-tales-ii-the-minotaur-prince-e74c95|Blossom Tales II The Minotaur Prince|12,49€|20|2022-11-22 16h|2022-11-29 16h|
+|32|blazing-beaks-3d4864|Blazing Beaks|11,99€|75|2022-12-15 15h|2023-01-02 15h|
+|33|fortnite--deep-freeze-bundle|Deep Freeze Bundle|11,99€|30|2022-12-21 00h|2023-01-10 00h|
 |34|little-inferno|Little Inferno|11,99€|80|2022-11-18 18h|2022-11-21 18h|
 |35|maritime-calling-636728|Maritime Calling|11,99€|45|2022-11-28 05h|2022-12-05 05h|
 |36|what-lies-in-the-multiverse-f604fa|What Lies in the Multiverse|11,99€|75|2022-11-18 17h|2022-12-02 17h|
