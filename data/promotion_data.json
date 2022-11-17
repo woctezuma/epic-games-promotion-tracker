@@ -288,6 +288,15 @@
     "title": "Hypnospace Outlaw"
   },
   {
+    "discountPercentage": 10,
+    "endDate": "2022-12-02T05:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "i-saw-black-clouds-67008d",
+    "startDate": "2022-11-18T05:00:00.000Z",
+    "title": "I Saw Black Clouds"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2022-12-08T17:00:00.000Z",
     "isFree": false,
@@ -367,6 +376,15 @@
     "slug": "my-time-at-sandrock",
     "startDate": "2022-11-22T18:00:00.000Z",
     "title": "My Time at Sandrock"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2022-12-12T05:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "night-book-77f2c7",
+    "startDate": "2022-11-18T05:00:00.000Z",
+    "title": "Night Book"
   },
   {
     "discountPercentage": 30,
