@@ -135,15 +135,6 @@
     "title": "Champions of Renown: Year 2 All-Star Pack"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2022-11-24T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 2199,
-    "slug": "dark-deity-0b08d1",
-    "startDate": "2022-11-17T16:00:00.000Z",
-    "title": "Dark Deity"
-  },
-  {
     "discountPercentage": 30,
     "endDate": "2023-01-10T00:00:00.000Z",
     "isFree": false,
@@ -178,15 +169,6 @@
     "slug": "idle-champions-of-the-forgotten-realms--elf-hazard-merilwen-skin-feat-pack",
     "startDate": "2022-12-02T20:00:00.000Z",
     "title": "Elf Hazard Merilwen Skin & Feat Pack"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2022-11-24T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 3999,
-    "slug": "evil-dead-the-game",
-    "startDate": "2022-11-17T16:00:00.000Z",
-    "title": "Evil Dead: The Game"
   },
   {
     "discountPercentage": 75,
@@ -355,7 +337,7 @@
     "endDate": "2022-12-05T05:00:00.000Z",
     "isFree": false,
     "originalPrice": 1199,
-    "slug": "maritime-calling-636728",
+    "slug": "29ddcac7aadb4d3ebee42a5d7d76e127",
     "startDate": "2022-11-28T05:00:00.000Z",
     "title": "Maritime Calling"
   },
