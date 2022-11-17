@@ -36,6 +36,15 @@
     "title": "Amani the Songbird Familiar Pack"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2022-12-05T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "idle-champions-of-the-forgotten-realms--archmagi-dungeon-master-theme-pack",
+    "startDate": "2022-12-02T20:00:00.000Z",
+    "title": "Archmagi Dungeon Master Theme Pack"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2022-12-02T17:00:00.000Z",
     "isFree": false,
