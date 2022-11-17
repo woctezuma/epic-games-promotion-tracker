@@ -28,15 +28,6 @@
   },
   {
     "discountPercentage": 40,
-    "endDate": "2022-11-21T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--amani-the-songbird-familiar-pack",
-    "startDate": "2022-11-17T20:00:00.000Z",
-    "title": "Amani the Songbird Familiar Pack"
-  },
-  {
-    "discountPercentage": 40,
     "endDate": "2022-12-05T20:00:00.000Z",
     "isFree": false,
     "originalPrice": 1999,
@@ -54,24 +45,6 @@
     "title": "Aspire Inas Tale"
   },
   {
-    "discountPercentage": 30,
-    "endDate": "2022-11-21T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--beeples-corazn-skin-feat-pack",
-    "startDate": "2022-11-17T20:00:00.000Z",
-    "title": "Beeples Coraz\u00f3n Skin & Feat Pack"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2022-11-21T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--beeples-dob-skin-feat-pack",
-    "startDate": "2022-11-17T20:00:00.000Z",
-    "title": "Beeples Dob Skin & Feat Pack"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2023-01-02T15:00:00.000Z",
     "isFree": false,
@@ -79,15 +52,6 @@
     "slug": "blazing-beaks-3d4864",
     "startDate": "2022-12-15T15:00:00.000Z",
     "title": "Blazing Beaks"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2022-11-21T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "idle-champions-of-the-forgotten-realms--blight-druid-voronika-theme-pack",
-    "startDate": "2022-11-17T20:00:00.000Z",
-    "title": "Blight Druid Voronika Theme Pack"
   },
   {
     "discountPercentage": 20,
@@ -108,15 +72,6 @@
     "title": "Bud Spencer and Terence Hill - Slaps and Beans"
   },
   {
-    "discountPercentage": 90,
-    "endDate": "2022-11-21T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1599,
-    "slug": "banedlc028-02",
-    "startDate": "2022-11-17T20:00:00.000Z",
-    "title": "Celeste's Starter Pack"
-  },
-  {
     "discountPercentage": 45,
     "endDate": "2022-12-05T05:00:00.000Z",
     "isFree": false,
@@ -124,15 +79,6 @@
     "slug": "chains-8ac580",
     "startDate": "2022-11-28T05:00:00.000Z",
     "title": "Chains"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-11-21T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 4399,
-    "slug": "banedlc028-22",
-    "startDate": "2022-11-17T20:00:00.000Z",
-    "title": "Champions of Renown: Year 2 All-Star Pack"
   },
   {
     "discountPercentage": 30,
@@ -288,15 +234,6 @@
     "title": "It follows you"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2022-11-21T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--landlubber-rust-skin-feat-pack",
-    "startDate": "2022-11-17T20:00:00.000Z",
-    "title": "Landlubber Rust Skin & Feat Pack"
-  },
-  {
     "discountPercentage": 35,
     "endDate": "2022-12-18T14:00:00.000Z",
     "isFree": false,
@@ -412,15 +349,6 @@
     "slug": "fortnite--polar-legends-pack",
     "startDate": "2022-12-21T00:00:00.000Z",
     "title": "Polar Legends Pack"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-11-21T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--polymorphed-jarlaxle-skin-feat-pack",
-    "startDate": "2022-11-17T20:00:00.000Z",
-    "title": "Polymorphed Jarlaxle Skin & Feat Pack"
   },
   {
     "discountPercentage": 100,
