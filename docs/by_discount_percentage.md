@@ -59,3 +59,5 @@
 |57|my-time-at-sandrock|My Time at Sandrock|20,99€|20|2022-11-22 18h|2022-11-29 18h|
 |58|nowhere-prophet-4790db|Nowhere Prophet|19,99€|20|2022-11-22 14h|2022-12-18 14h|
 |59|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|9,99€|20|2022-11-18 18h|2022-11-29 18h|
+|60|i-saw-black-clouds-67008d|I Saw Black Clouds|9,99€|10|2022-11-18 05h|2022-12-02 05h|
+|61|night-book-77f2c7|Night Book|9,99€|10|2022-11-18 05h|2022-12-12 05h|
