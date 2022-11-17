@@ -288,6 +288,15 @@
     "title": "Hypnospace Outlaw"
   },
   {
+    "discountPercentage": 10,
+    "endDate": "2022-12-02T05:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "i-saw-black-clouds-67008d",
+    "startDate": "2022-11-18T05:00:00.000Z",
+    "title": "I Saw Black Clouds"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2022-12-08T17:00:00.000Z",
     "isFree": false,
@@ -369,6 +378,15 @@
     "title": "My Time at Sandrock"
   },
   {
+    "discountPercentage": 10,
+    "endDate": "2022-12-12T05:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "night-book-77f2c7",
+    "startDate": "2022-11-18T05:00:00.000Z",
+    "title": "Night Book"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2022-12-18T14:00:00.000Z",
     "isFree": false,
@@ -430,15 +448,6 @@
     "slug": "star-wars-squadrons",
     "startDate": "2022-11-24T16:00:00.000Z",
     "title": "STAR WARS\u2122: Squadrons"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2022-11-17T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "dlc2",
-    "startDate": "2022-11-17T15:00:00.000Z",
-    "title": "Sgt Joe's Support Bundle Cosmetic DLC Audience"
   },
   {
     "discountPercentage": 50,
