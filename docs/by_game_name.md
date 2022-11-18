@@ -30,23 +30,20 @@
 |28|lets-build-a-zoo--dinosaur-island|Let's Build a Zoo: Dinosaur Island|7,99€|25|2022-11-22 14h|2022-12-18 14h|
 |29|little-inferno|Little Inferno|11,99€|80|2022-11-18 18h|2022-11-21 18h|
 |30|maritime-calling-636728|Maritime Calling|11,99€|45|2022-11-28 05h|2022-12-05 05h|
-|31|fortnite--minty-legends-pack|Minty Legends Pack|19,99€|40|2022-11-18 00h|2022-11-29 12h|
-|32|my-time-at-sandrock|My Time at Sandrock|20,99€|20|2022-11-22 18h|2022-11-29 18h|
-|33|night-book-77f2c7|Night Book|9,99€|10|2022-11-18 05h|2022-12-12 05h|
-|34|not-tonight-2|Not Tonight 2|15,99€|30|2022-11-22 14h|2022-12-18 14h|
-|35|nowhere-prophet-4790db|Nowhere Prophet|19,99€|20|2022-11-22 14h|2022-12-18 14h|
-|36|out-of-the-park-baseball-23-09e3fa|Out of the Park Baseball 23|31,99€|75|2022-11-22 18h|2022-11-29 18h|
-|37|pirates-outlaws-a8cc60|Pirates Outlaws|15,99€|60|2022-12-12 05h|2022-12-18 05h|
-|38|fortnite--polar-legends-pack|Polar Legends Pack|19,99€|40|2022-12-21 00h|2023-01-10 00h|
-|39|star-wars-squadrons|STAR WARS™: Squadrons|39,99€|100|2022-11-24 16h|2022-12-01 16h|
-|40|fortnite--shadows-rising-pack|Shadows Rising Pack|15,99€|50|2022-11-18 00h|2022-11-29 12h|
-|41|dark-deity-suns-out-swords-out-dlc-f710e6|Suns Out, Swords Out DLC|9,99€|30|2022-11-18 16h|2022-12-01 16h|
-|42|fortnite--tech-future-pack|Tech Future Pack|17,99€|50|2022-11-18 00h|2022-11-29 12h|
-|43|the-riftbreaker|The Riftbreaker|29,99€|35|2022-11-18 18h|2022-11-29 18h|
-|44|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|44,99€|35|2022-11-18 18h|2022-11-29 18h|
-|45|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|9,99€|35|2022-11-18 18h|2022-11-29 18h|
-|46|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|9,99€|20|2022-11-18 18h|2022-11-29 18h|
-|47|idle-champions-of-the-forgotten-realms--vertex-donaar-theme-pack|Vertex Donaar Theme Pack|19,99€|30|2022-12-02 20h|2022-12-05 20h|
-|48|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
-|49|what-lies-in-the-multiverse-f604fa|What Lies in the Multiverse|11,99€|75|2022-11-18 17h|2022-12-02 17h|
-|50|yes-your-grace|Yes, Your Grace|16,79€|60|2022-11-22 14h|2022-12-18 14h|
+|31|my-time-at-sandrock|My Time at Sandrock|20,99€|20|2022-11-22 18h|2022-11-29 18h|
+|32|night-book-77f2c7|Night Book|9,99€|10|2022-11-18 05h|2022-12-12 05h|
+|33|not-tonight-2|Not Tonight 2|15,99€|30|2022-11-22 14h|2022-12-18 14h|
+|34|nowhere-prophet-4790db|Nowhere Prophet|19,99€|20|2022-11-22 14h|2022-12-18 14h|
+|35|out-of-the-park-baseball-23-09e3fa|Out of the Park Baseball 23|31,99€|75|2022-11-22 18h|2022-11-29 18h|
+|36|pirates-outlaws-a8cc60|Pirates Outlaws|15,99€|60|2022-12-12 05h|2022-12-18 05h|
+|37|fortnite--polar-legends-pack|Polar Legends Pack|19,99€|40|2022-12-21 00h|2023-01-10 00h|
+|38|star-wars-squadrons|STAR WARS™: Squadrons|39,99€|100|2022-11-24 16h|2022-12-01 16h|
+|39|dark-deity-suns-out-swords-out-dlc-f710e6|Suns Out, Swords Out DLC|9,99€|30|2022-11-18 16h|2022-12-01 16h|
+|40|the-riftbreaker|The Riftbreaker|29,99€|35|2022-11-18 18h|2022-11-29 18h|
+|41|the-riftbreaker--deluxe-edition|The Riftbreaker Deluxe Edition|44,99€|35|2022-11-18 18h|2022-11-29 18h|
+|42|the-riftbreaker--soundtrack|The Riftbreaker Soundtrack|9,99€|35|2022-11-18 18h|2022-11-29 18h|
+|43|the-riftbreaker--metal-terror|The Riftbreaker: Metal Terror|9,99€|20|2022-11-18 18h|2022-11-29 18h|
+|44|idle-champions-of-the-forgotten-realms--vertex-donaar-theme-pack|Vertex Donaar Theme Pack|19,99€|30|2022-12-02 20h|2022-12-05 20h|
+|45|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
+|46|what-lies-in-the-multiverse-f604fa|What Lies in the Multiverse|11,99€|75|2022-11-18 17h|2022-12-02 17h|
+|47|yes-your-grace|Yes, Your Grace|16,79€|60|2022-11-22 14h|2022-12-18 14h|
