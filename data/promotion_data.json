@@ -36,15 +36,6 @@
     "title": "Archmagi Dungeon Master Theme Pack"
   },
   {
-    "discountPercentage": 80,
-    "endDate": "2022-12-02T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "aspire-inas-tale-f77a17",
-    "startDate": "2022-11-18T17:00:00.000Z",
-    "title": "Aspire Inas Tale"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2023-01-02T15:00:00.000Z",
     "isFree": false,
@@ -180,15 +171,6 @@
     "title": "Gladiator Widdle Skin & Feat Pack"
   },
   {
-    "discountPercentage": 80,
-    "endDate": "2022-12-02T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "golf-club-wasteland-f6771e",
-    "startDate": "2022-11-18T17:00:00.000Z",
-    "title": "Golf Club Wasteland"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2022-12-08T17:00:00.000Z",
     "isFree": false,
@@ -241,24 +223,6 @@
     "slug": "lets-build-a-zoo--dinosaur-island",
     "startDate": "2022-11-22T14:00:00.000Z",
     "title": "Let's Build a Zoo: Dinosaur Island"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2022-11-21T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1199,
-    "slug": "little-inferno",
-    "startDate": "2022-11-18T18:00:00.000Z",
-    "title": "Little Inferno"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2022-11-21T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1199,
-    "slug": "little-inferno",
-    "startDate": "2022-11-18T18:00:00.000Z",
-    "title": "Little Inferno"
   },
   {
     "discountPercentage": 45,
@@ -334,51 +298,6 @@
   },
   {
     "discountPercentage": 30,
-    "endDate": "2022-12-01T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "dark-deity-suns-out-swords-out-dlc-f710e6",
-    "startDate": "2022-11-18T16:00:00.000Z",
-    "title": "Suns Out, Swords Out DLC"
-  },
-  {
-    "discountPercentage": 35,
-    "endDate": "2022-11-29T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "the-riftbreaker",
-    "startDate": "2022-11-18T18:00:00.000Z",
-    "title": "The Riftbreaker"
-  },
-  {
-    "discountPercentage": 35,
-    "endDate": "2022-11-29T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 4499,
-    "slug": "the-riftbreaker--deluxe-edition",
-    "startDate": "2022-11-18T18:00:00.000Z",
-    "title": "The Riftbreaker Deluxe Edition"
-  },
-  {
-    "discountPercentage": 35,
-    "endDate": "2022-11-29T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "the-riftbreaker--soundtrack",
-    "startDate": "2022-11-18T18:00:00.000Z",
-    "title": "The Riftbreaker Soundtrack"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2022-11-29T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "the-riftbreaker--metal-terror",
-    "startDate": "2022-11-18T18:00:00.000Z",
-    "title": "The Riftbreaker: Metal Terror"
-  },
-  {
-    "discountPercentage": 30,
     "endDate": "2022-12-05T20:00:00.000Z",
     "isFree": false,
     "originalPrice": 1999,
@@ -394,15 +313,6 @@
     "slug": "warforwards-fd05ed",
     "startDate": "2023-01-24T05:00:00.000Z",
     "title": "WarForwards"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2022-12-02T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1199,
-    "slug": "what-lies-in-the-multiverse-f604fa",
-    "startDate": "2022-11-18T17:00:00.000Z",
-    "title": "What Lies in the Multiverse"
   },
   {
     "discountPercentage": 60,
