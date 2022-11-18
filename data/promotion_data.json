@@ -279,15 +279,6 @@
     "title": "Maritime Calling"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2022-11-29T12:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "fortnite--minty-legends-pack",
-    "startDate": "2022-11-18T00:00:00.000Z",
-    "title": "Minty Legends Pack"
-  },
-  {
     "discountPercentage": 20,
     "endDate": "2022-11-29T18:00:00.000Z",
     "isFree": false,
@@ -360,15 +351,6 @@
     "title": "STAR WARS\u2122: Squadrons"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2022-11-29T12:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1599,
-    "slug": "fortnite--shadows-rising-pack",
-    "startDate": "2022-11-18T00:00:00.000Z",
-    "title": "Shadows Rising Pack"
-  },
-  {
     "discountPercentage": 30,
     "endDate": "2022-12-01T16:00:00.000Z",
     "isFree": false,
@@ -376,15 +358,6 @@
     "slug": "dark-deity-suns-out-swords-out-dlc-f710e6",
     "startDate": "2022-11-18T16:00:00.000Z",
     "title": "Suns Out, Swords Out DLC"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2022-11-29T12:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1799,
-    "slug": "fortnite--tech-future-pack",
-    "startDate": "2022-11-18T00:00:00.000Z",
-    "title": "Tech Future Pack"
   },
   {
     "discountPercentage": 35,
