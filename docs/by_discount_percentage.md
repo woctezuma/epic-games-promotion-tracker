@@ -10,29 +10,52 @@
 |8|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
 |9|yes-your-grace|Yes, Your Grace|16,79€|60|2022-11-22 14h|2022-12-18 14h|
 |10|hypnospace-outlaw|Hypnospace Outlaw|16,79€|55|2022-11-22 14h|2022-12-18 14h|
-|11|he-will-shoot-46efff|He Will Shoot|1,59€|50|2022-11-25 17h|2022-12-08 17h|
-|12|it-follows-you-b11f3e|It follows you|1,59€|50|2022-11-24 17h|2022-12-08 17h|
-|13|chains-8ac580|Chains|1,59€|45|2022-11-28 05h|2022-12-05 05h|
-|14|flat-heroes-fec628|Flat Heroes|9,99€|45|2022-12-07 15h|2022-12-14 15h|
-|15|maritime-calling-636728|Maritime Calling|11,99€|45|2022-11-28 05h|2022-12-05 05h|
-|16|idle-champions-of-the-forgotten-realms--archmagi-dungeon-master-theme-pack|Archmagi Dungeon Master Theme Pack|19,99€|40|2022-12-02 20h|2022-12-05 20h|
-|17|idle-champions-of-the-forgotten-realms--eberron-ellywick-skin-feat-pack|Eberron Ellywick Skin & Feat Pack|7,99€|40|2022-12-02 20h|2022-12-05 20h|
-|18|fortnite--frozen-legends-pack|Frozen Legends Pack|14,99€|40|2022-12-21 00h|2023-01-10 00h|
-|19|idle-champions-of-the-forgotten-realms--gladiator-freely-skin-feat-pack|Gladiator Freely Skin & Feat Pack|7,99€|40|2022-12-02 20h|2022-12-05 20h|
-|20|idle-champions-of-the-forgotten-realms--gladiator-widdle-skin-feat-pack|Gladiator Widdle Skin & Feat Pack|7,99€|40|2022-12-02 20h|2022-12-05 20h|
-|21|fortnite--polar-legends-pack|Polar Legends Pack|19,99€|40|2022-12-21 00h|2023-01-10 00h|
-|22|lets-build-a-zoo|Let's Build A Zoo|15,99€|35|2022-11-22 14h|2022-12-18 14h|
-|23|fortnite--deep-freeze-bundle|Deep Freeze Bundle|11,99€|30|2022-12-21 00h|2023-01-10 00h|
-|24|idle-champions-of-the-forgotten-realms--elf-hazard-merilwen-skin-feat-pack|Elf Hazard Merilwen Skin & Feat Pack|7,99€|30|2022-12-02 20h|2022-12-05 20h|
-|25|idle-champions-of-the-forgotten-realms--high-society-egbert-skin-feat-pack|High Society Egbert Skin & Feat Pack|7,99€|30|2022-12-02 20h|2022-12-05 20h|
-|26|not-tonight-2|Not Tonight 2|15,99€|30|2022-11-22 14h|2022-12-18 14h|
-|27|idle-champions-of-the-forgotten-realms--vertex-donaar-theme-pack|Vertex Donaar Theme Pack|19,99€|30|2022-12-02 20h|2022-12-05 20h|
-|28|achilles-legends-untold-bb77ad|Achilles Legends Untold|18,99€|25|2022-11-21 13h|2022-11-29 13h|
-|29|achilles-legends-untold-bb77ad|Achilles Legends Untold|18,99€|25|2022-12-05 13h|2022-12-31 13h|
-|30|edge-of-galaxy-092087|Edge Of Galaxy|6,99€|25|2023-01-10 05h|2023-01-17 05h|
-|31|gigabash|GigaBash|31,99€|25|2022-11-22 18h|2022-11-29 18h|
-|32|lets-build-a-zoo--dinosaur-island|Let's Build a Zoo: Dinosaur Island|7,99€|25|2022-11-22 14h|2022-12-18 14h|
-|33|blossom-tales-ii-the-minotaur-prince-e74c95|Blossom Tales II The Minotaur Prince|12,49€|20|2022-11-22 16h|2022-11-29 16h|
-|34|fashion-police-squad|Fashion Police Squad|15,99€|20|2022-11-22 14h|2022-12-18 14h|
-|35|my-time-at-sandrock|My Time at Sandrock|20,99€|20|2022-11-22 18h|2022-11-29 18h|
-|36|nowhere-prophet-4790db|Nowhere Prophet|19,99€|20|2022-11-22 14h|2022-12-18 14h|
+|11|crsed-f-o-a-d--age-of-nagual-pack|CRSED: F.O.A.D. - Age of Nagual Pack|16,99€|50|2022-11-22 18h|2022-11-29 18h|
+|12|crsed-f-o-a-d--biker-queen-pack|CRSED: F.O.A.D. - Biker Queen Pack|19,99€|50|2022-11-22 18h|2022-11-29 18h|
+|13|crsed-f-o-a-d--fire-dragon-pack|CRSED: F.O.A.D. - Fire Dragon Pack|19,99€|50|2022-11-22 18h|2022-11-29 18h|
+|14|crsed-f-o-a-d--god-of-thunder-pack|CRSED: F.O.A.D. - God of Thunder Pack|19,99€|50|2022-11-22 18h|2022-11-29 18h|
+|15|crsed-f-o-a-d--holy-maiden-pack|CRSED: F.O.A.D. - Holy Maiden Pack|9,99€|50|2022-11-22 18h|2022-11-29 18h|
+|16|crsed-f-o-a-d--metal-zombie-pack|CRSED: F.O.A.D. - Metal Zombie Pack|19,99€|50|2022-11-22 18h|2022-11-29 18h|
+|17|he-will-shoot-46efff|He Will Shoot|1,59€|50|2022-11-25 17h|2022-12-08 17h|
+|18|it-follows-you-b11f3e|It follows you|1,59€|50|2022-11-24 17h|2022-12-08 17h|
+|19|scrapnaut|Scrapnaut|10,99€|50|2022-11-22 20h|2022-12-03 20h|
+|20|chains-8ac580|Chains|1,59€|45|2022-11-28 05h|2022-12-05 05h|
+|21|flat-heroes-fec628|Flat Heroes|9,99€|45|2022-12-07 15h|2022-12-14 15h|
+|22|maritime-calling-636728|Maritime Calling|11,99€|45|2022-11-28 05h|2022-12-05 05h|
+|23|idle-champions-of-the-forgotten-realms--archmagi-dungeon-master-theme-pack|Archmagi Dungeon Master Theme Pack|19,99€|40|2022-12-02 20h|2022-12-05 20h|
+|24|idle-champions-of-the-forgotten-realms--eberron-ellywick-skin-feat-pack|Eberron Ellywick Skin & Feat Pack|7,99€|40|2022-12-02 20h|2022-12-05 20h|
+|25|fortnite--frozen-legends-pack|Frozen Legends Pack|14,99€|40|2022-12-21 00h|2023-01-10 00h|
+|26|idle-champions-of-the-forgotten-realms--gladiator-freely-skin-feat-pack|Gladiator Freely Skin & Feat Pack|7,99€|40|2022-12-02 20h|2022-12-05 20h|
+|27|idle-champions-of-the-forgotten-realms--gladiator-widdle-skin-feat-pack|Gladiator Widdle Skin & Feat Pack|7,99€|40|2022-12-02 20h|2022-12-05 20h|
+|28|fortnite--polar-legends-pack|Polar Legends Pack|19,99€|40|2022-12-21 00h|2023-01-10 00h|
+|29|lets-build-a-zoo|Let's Build A Zoo|15,99€|35|2022-11-22 14h|2022-12-18 14h|
+|30|fortnite--deep-freeze-bundle|Deep Freeze Bundle|11,99€|30|2022-12-21 00h|2023-01-10 00h|
+|31|idle-champions-of-the-forgotten-realms--elf-hazard-merilwen-skin-feat-pack|Elf Hazard Merilwen Skin & Feat Pack|7,99€|30|2022-12-02 20h|2022-12-05 20h|
+|32|idle-champions-of-the-forgotten-realms--high-society-egbert-skin-feat-pack|High Society Egbert Skin & Feat Pack|7,99€|30|2022-12-02 20h|2022-12-05 20h|
+|33|not-tonight-2|Not Tonight 2|15,99€|30|2022-11-22 14h|2022-12-18 14h|
+|34|idle-champions-of-the-forgotten-realms--vertex-donaar-theme-pack|Vertex Donaar Theme Pack|19,99€|30|2022-12-02 20h|2022-12-05 20h|
+|35|achilles-legends-untold-bb77ad|Achilles Legends Untold|18,99€|25|2022-11-21 13h|2022-11-29 13h|
+|36|achilles-legends-untold-bb77ad|Achilles Legends Untold|18,99€|25|2022-12-05 13h|2022-12-31 13h|
+|37|edge-of-galaxy-092087|Edge Of Galaxy|6,99€|25|2023-01-10 05h|2023-01-17 05h|
+|38|gigabash|GigaBash|31,99€|25|2022-11-22 18h|2022-11-29 18h|
+|39|lets-build-a-zoo--dinosaur-island|Let's Build a Zoo: Dinosaur Island|7,99€|25|2022-11-22 14h|2022-12-18 14h|
+|40|neverwinter--1000-zen-bundle|1000 Neverwinter ZEN Bundle|8,99€|20|2022-12-21 16h|2023-01-06 16h|
+|41|star-trek-online--1000-zen-bundle|1000 ZEN Bundle|8,99€|20|2022-11-22 16h|2022-11-28 16h|
+|42|star-trek-online--1000-zen-bundle|1000 ZEN Bundle|8,99€|20|2022-12-22 16h|2023-01-02 16h|
+|43|neverwinter--10000-zen-1000-bonus-bundle|10000 Neverwinter ZEN +1000 Bonus Bundle|89,99€|20|2022-12-21 16h|2023-01-06 16h|
+|44|star-trek-online--10000-zen-1000-bonus-bundle|10000 ZEN +1000 Bonus Bundle|89,99€|20|2022-11-22 16h|2022-11-28 16h|
+|45|star-trek-online--10000-zen-1000-bonus-bundle|10000 ZEN +1000 Bonus Bundle|89,99€|20|2022-12-22 16h|2023-01-02 16h|
+|46|neverwinter--2000-zen-bundle|2000 Neverwinter ZEN Bundle|17,99€|20|2022-12-21 16h|2023-01-06 16h|
+|47|star-trek-online--2000-zen-bundle|2000 ZEN Bundle|17,99€|20|2022-11-22 16h|2022-11-28 16h|
+|48|star-trek-online--2000-zen-bundle|2000 ZEN Bundle|17,99€|20|2022-12-22 16h|2023-01-02 16h|
+|49|neverwinter--20000-zen-3000-bonus-bundle|20000 Neverwinter ZEN + 3000 Bonus Bundle|179,99€|20|2022-12-21 16h|2023-01-06 16h|
+|50|star-trek-online--20000-zen-3000-bonus-bundle|20000 ZEN + 3000 Bonus Bundle|179,99€|20|2022-11-22 16h|2022-11-28 16h|
+|51|star-trek-online--20000-zen-3000-bonus-bundle|20000 ZEN + 3000 Bonus Bundle|179,99€|20|2022-12-22 16h|2023-01-02 16h|
+|52|neverwinter--5000-zen-300-bonus-bundle|5000 Neverwinter ZEN + 300 Bonus Bundle|44,99€|20|2022-12-21 16h|2023-01-06 16h|
+|53|star-trek-online--5000-zen-300-bonus-bundle|5000 ZEN + 300 Bonus Bundle|44,99€|20|2022-11-22 16h|2022-11-28 16h|
+|54|star-trek-online--5000-zen-300-bonus-bundle|5000 ZEN + 300 Bonus Bundle|44,99€|20|2022-12-22 16h|2023-01-02 16h|
+|55|blossom-tales-ii-the-minotaur-prince-e74c95|Blossom Tales II The Minotaur Prince|12,49€|20|2022-11-22 16h|2022-11-29 16h|
+|56|fashion-police-squad|Fashion Police Squad|15,99€|20|2022-11-22 14h|2022-12-18 14h|
+|57|my-time-at-sandrock|My Time at Sandrock|20,99€|20|2022-11-22 18h|2022-11-29 18h|
+|58|nowhere-prophet-4790db|Nowhere Prophet|19,99€|20|2022-11-22 14h|2022-12-18 14h|
+|59|urbek-city-builder-17cf7d|Urbek City Builder|14,49€|20|2022-11-22 20h|2022-12-03 20h|
