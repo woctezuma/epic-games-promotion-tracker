@@ -32,7 +32,6 @@ def format_dates_for_display(data):
 def format_dates_in_dict(entry):
     for k in TIME_FIELDS:
         entry[k] = prepare_date_for_display(entry[k])
-    return
 
 
 def prepare_date_for_display(date_str: str | None) -> str:

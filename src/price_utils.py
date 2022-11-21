@@ -22,7 +22,6 @@ def format_prices_for_display(data):
 def format_prices_in_dict(entry):
     for k in PRICE_FIELDS:
         entry[k] = prepare_price_for_display(entry[k])
-    return
 
 
 def prepare_price_for_display(price_in_cents: int | None, currency: str = CURRENCY_SYMBOL) -> str:

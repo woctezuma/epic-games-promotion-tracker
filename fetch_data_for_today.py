@@ -22,7 +22,6 @@ def main():
     data = unique(data)
     write_markdown_files(data)
 
-    return
 
 
 if __name__ == '__main__':
