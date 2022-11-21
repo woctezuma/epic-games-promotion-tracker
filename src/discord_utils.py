@@ -4,7 +4,7 @@ from src.data_utils import load_discord_webhook
 from src.git_utils import extract_new_games, git_diff
 from src.webhook_utils import to_discord_header
 
-BULLET_POINT_SEPARATOR = f"\n- "
+BULLET_POINT_SEPARATOR = "\n- "
 
 
 def get_webhook_id(webhook_keyword='id'):
