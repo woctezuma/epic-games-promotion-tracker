@@ -379,15 +379,6 @@
   },
   {
     "discountPercentage": 60,
-    "endDate": "2022-12-05T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1599,
-    "slug": "away-the-survival-series",
-    "startDate": "2022-11-21T17:00:00.000Z",
-    "title": "AWAY: The Survival Series"
-  },
-  {
-    "discountPercentage": 60,
     "endDate": "2022-11-29T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 999,
@@ -538,15 +529,6 @@
     "slug": "aground",
     "startDate": "2022-11-22T16:00:00.000Z",
     "title": "Aground"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2022-11-28T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1599,
-    "slug": "air-missions-hind",
-    "startDate": "2022-11-21T16:00:00.000Z",
-    "title": "Air Missions: HIND"
   },
   {
     "discountPercentage": 30,
@@ -1516,7 +1498,7 @@
     "endDate": "2022-11-29T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 11499,
-    "slug": "assassins-creed-odyssey/ultimate-edition",
+    "slug": "assassins-creed-odyssey--ultimate-edition",
     "startDate": "2022-11-22T16:00:00.000Z",
     "title": "Assassins Creed Odyssey Ultimate Edition"
   },
@@ -2043,15 +2025,6 @@
     "title": "Black Skylands"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2022-11-28T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1599,
-    "slug": "blade-strangers",
-    "startDate": "2022-11-21T16:00:00.000Z",
-    "title": "Blade Strangers"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2022-11-29T16:00:00.000Z",
     "isFree": false,
@@ -2509,15 +2482,6 @@
     "slug": "cat-cafe-manager-68bd0d",
     "startDate": "2022-11-22T16:00:00.000Z",
     "title": "Cat Cafe Manager"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2022-11-28T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1199,
-    "slug": "cave-story-plus",
-    "startDate": "2022-11-21T16:00:00.000Z",
-    "title": "Cave Story+"
   },
   {
     "discountPercentage": 75,
@@ -3172,7 +3136,7 @@
     "endDate": "2022-11-29T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 3999,
-    "slug": "control/ultimate-edition",
+    "slug": "control--ultimate-edition",
     "startDate": "2022-11-22T16:00:00.000Z",
     "title": "Control Ultimate Edition"
   },
@@ -3202,15 +3166,6 @@
     "slug": "idle-champions-of-the-forgotten-realms--cranium-rat-avren-skin-feat-pack",
     "startDate": "2022-11-22T16:00:00.000Z",
     "title": "Cranium Rat Avren Skin & Feat Pack"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2022-11-28T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1599,
-    "slug": "critadel",
-    "startDate": "2022-11-21T16:00:00.000Z",
-    "title": "Critadel"
   },
   {
     "discountPercentage": 25,
@@ -3247,15 +3202,6 @@
     "slug": "crysis-remastered-trilogy",
     "startDate": "2022-11-22T16:00:00.000Z",
     "title": "Crysis Remastered Trilogy"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2022-11-28T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1599,
-    "slug": "crystal-crisis",
-    "startDate": "2022-11-21T16:00:00.000Z",
-    "title": "Crystal Crisis"
   },
   {
     "discountPercentage": 45,
@@ -8163,15 +8109,6 @@
     "title": "Hunter Girls"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2022-11-28T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1199,
-    "slug": "hyperparasite",
-    "startDate": "2022-11-21T16:00:00.000Z",
-    "title": "HyperParasite"
-  },
-  {
     "discountPercentage": 55,
     "endDate": "2022-12-18T14:00:00.000Z",
     "isFree": false,
@@ -8224,15 +8161,6 @@
     "slug": "icewind-dale-enhanced-edition",
     "startDate": "2022-11-22T16:00:00.000Z",
     "title": "Icewind Dale: Enhanced Edition"
-  },
-  {
-    "discountPercentage": 25,
-    "endDate": "2022-11-28T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "ikaruga-a200be",
-    "startDate": "2022-11-21T16:00:00.000Z",
-    "title": "Ikaruga"
   },
   {
     "discountPercentage": 50,
@@ -9387,15 +9315,6 @@
     "title": "Legend Bowl"
   },
   {
-    "discountPercentage": 25,
-    "endDate": "2022-11-28T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1199,
-    "slug": "legend-of-bum-bo-da8afd",
-    "startDate": "2022-11-21T16:00:00.000Z",
-    "title": "Legend of Bum bo"
-  },
-  {
     "discountPercentage": 70,
     "endDate": "2022-11-29T16:00:00.000Z",
     "isFree": false,
@@ -10483,15 +10402,6 @@
     "slug": "banedlc028-03",
     "startDate": "2022-11-22T16:00:00.000Z",
     "title": "Nayeli's Starter Pack"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2022-11-28T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "necroland-undead-corps",
-    "startDate": "2022-11-21T16:00:00.000Z",
-    "title": "NecroLand: Undead Corps"
   },
   {
     "discountPercentage": 50,
@@ -12303,15 +12213,6 @@
     "title": "Relicta"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2022-11-28T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1599,
-    "slug": "remilore-lost-girl-in-the-lands-of-lore",
-    "startDate": "2022-11-21T16:00:00.000Z",
-    "title": "RemiLore: Lost Girl in the Lands of Lore"
-  },
-  {
     "discountPercentage": 60,
     "endDate": "2022-11-29T16:00:00.000Z",
     "isFree": false,
@@ -14067,15 +13968,6 @@
     "title": "Spacebase Startopia - Standard Edition"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2022-11-28T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1199,
-    "slug": "spectacular-sparky",
-    "startDate": "2022-11-21T16:00:00.000Z",
-    "title": "Spectacular Sparky"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2022-11-29T16:00:00.000Z",
     "isFree": false,
@@ -14866,15 +14758,6 @@
     "slug": "the-big-con",
     "startDate": "2022-11-22T16:00:00.000Z",
     "title": "The Big Con"
-  },
-  {
-    "discountPercentage": 25,
-    "endDate": "2022-11-28T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "the-binding-of-isaac-repentance",
-    "startDate": "2022-11-21T16:00:00.000Z",
-    "title": "The Binding of Isaac: Repentance"
   },
   {
     "discountPercentage": 86,
@@ -18070,15 +17953,6 @@
     "slug": "ww1-game-series-bundle",
     "startDate": "2022-11-22T16:00:00.000Z",
     "title": "WW1 Game Series Bundle"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2022-11-28T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1199,
-    "slug": "wanna-survive",
-    "startDate": "2022-11-21T16:00:00.000Z",
-    "title": "Wanna Survive"
   },
   {
     "discountPercentage": 60,
