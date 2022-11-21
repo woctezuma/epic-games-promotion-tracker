@@ -15,7 +15,7 @@ def bytes_to_str(data_as_bytes):
 
 
 def git_diff(file_path):
-    output = subprocess.run(["git", "diff", file_path], capture_output=True)
+    output = subprocess.run(["git", "diff", file_path], capture_output=True, check=True)
     stdout = bytes_to_str(output.stdout)
     stderr = bytes_to_str(output.stderr)
     return stdout, stderr
