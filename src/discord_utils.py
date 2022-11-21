@@ -7,7 +7,7 @@ from src.webhook_utils import to_discord_header
 BULLET_POINT_SEPARATOR = "\n- "
 
 
-def get_webhook_id(webhook_keyword='id'):
+def get_webhook_id(webhook_keyword="id"):
     webhook = load_discord_webhook()
     try:
         webhook_id = webhook[webhook_keyword]
@@ -36,7 +36,7 @@ def format_discord_message(games, header=""):
         lines = [header] + sorted(games)
         message = BULLET_POINT_SEPARATOR.join(lines)
     else:
-        message = ''
+        message = ""
     return message
 
 

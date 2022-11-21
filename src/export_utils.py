@@ -3,12 +3,12 @@ from src.markdown_utils import format_data_as_markdown
 from src.price_utils import format_prices_for_display, to_price_int
 from src.time_utils import format_dates_for_display
 
-OUTPUT_FOLDER = 'docs'
+OUTPUT_FOLDER = "docs"
 FREE_GAME_FNAME = f"{OUTPUT_FOLDER}/by_free_game.md"
 
 
 def write_lines_to_disk(lines, fname):
-    with open(fname, 'w', encoding='utf8') as f:
+    with open(fname, "w", encoding="utf8") as f:
         for line in lines:
             f.write(f"{line}\n")
 

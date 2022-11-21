@@ -7,6 +7,5 @@ def main():
     post_git_diff_to_discord_using_keyword(fname=FREE_GAME_FNAME, webhook_keyword=WEBHOOK_KEYWORD_FREE)
 
 
-
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

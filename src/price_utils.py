@@ -1,6 +1,6 @@
 from src.markdown_utils import MISSING_DATA, PRICE_FIELDS
 
-CURRENCY_SYMBOL = '€'
+CURRENCY_SYMBOL = "€"
 
 
 def to_price(store_element):
@@ -29,7 +29,7 @@ def prepare_price_for_display(price_in_cents: int | None, currency: str = CURREN
         output = MISSING_DATA
     else:
         price_in_euros = to_units(price_in_cents)
-        output = f"{price_in_euros:.2f}{currency}".replace('.', ',')
+        output = f"{price_in_euros:.2f}{currency}".replace(".", ",")
     return output
 
 
@@ -38,8 +38,8 @@ def to_units(price_in_cents: int) -> float:
 
 
 def to_price_int(price_str: str, currency: str = CURRENCY_SYMBOL) -> int:
-    price_in_euros = price_str.replace(currency, '')
-    price_in_cents = price_in_euros.replace('.', '').replace(',', '')
+    price_in_euros = price_str.replace(currency, "")
+    price_in_cents = price_in_euros.replace(".", "").replace(",", "")
     try:
         price_as_int = int(price_in_cents)
     except ValueError:

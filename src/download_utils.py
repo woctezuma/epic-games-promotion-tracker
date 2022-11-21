@@ -14,7 +14,7 @@ def download_store_elements(save_store_data_to_disk=True):
     all_store_elements = []
 
     for cursor in range(0, num_elements, MAX_STEP_SIZE):
-        print(f'Cursor = {cursor}')
+        print(f"Cursor = {cursor}")
         store_data = to_store_data(cursor=cursor, step=MAX_STEP_SIZE)
         store_elements = get_store_elements(store_data)
 

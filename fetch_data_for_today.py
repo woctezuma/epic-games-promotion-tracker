@@ -11,18 +11,17 @@ def main():
     force_update = True
 
     if force_update or not Path(PROMOTION_DATA_FNAME).exists():
-        print('Updating JSON.')
+        print("Updating JSON.")
         data = download_upcoming_promotions()
         data = sorted(data, key=lambda x: (x["title"], x["startDate"], -x["discountPercentage"]))
         save_json(data, PROMOTION_DATA_FNAME, prettify=True)
     else:
         data = load_json(PROMOTION_DATA_FNAME)
 
-    print('Updating Markown.')
+    print("Updating Markown.")
     data = unique(data)
     write_markdown_files(data)
 
 
-
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

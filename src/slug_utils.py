@@ -1,4 +1,4 @@
-DUMMY_SUFFIX = '/home'
+DUMMY_SUFFIX = "/home"
 
 
 def get_offer_slug(store_element):
