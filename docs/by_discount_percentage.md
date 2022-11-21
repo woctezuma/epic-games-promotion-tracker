@@ -20,7 +20,7 @@
 |18|steel-rats-445306|Steel Rats|9,99€|90|2022-11-22 16h|2022-11-29 16h|
 |19|urban-trial-freestyle-b30b3e|Urban Trial Freestyle|6,99€|90|2022-11-22 16h|2022-11-29 16h|
 |20|sid-meiers-civilization-vi--gathering-storm|Civilization VI : Gathering Storm|39,99€|88|2022-11-22 16h|2022-11-29 16h|
-|21|xcom-2--collection-upgrade|XCOM® 2  Collection Upgrade|44,99€|88|2022-11-22 16h|2022-11-29 16h|
+|21|xcom-2--collection-upgrade|XCOM® 2 Collection Upgrade|44,99€|88|2022-11-22 16h|2022-11-29 16h|
 |22|the-bridge|The Bridge|9,99€|86|2022-11-22 16h|2022-11-29 16h|
 |23|borderlands-3|Borderlands 3|59,99€|85|2022-11-22 16h|2022-11-29 16h|
 |24|conglomerate-451-6570f5|Conglomerate 451|19,99€|85|2022-11-22 16h|2022-11-29 16h|
@@ -166,9 +166,9 @@
 |164|wrc-8|WRC 8 FIA World Rally Championship|29,99€|80|2022-11-22 16h|2022-11-29 16h|
 |165|wargame-red-dragon|Wargame: Red Dragon|29,99€|80|2022-11-22 16h|2022-11-29 16h|
 |166|watch-dogs-2|Watch Dogs 2|59,99€|80|2022-11-22 16h|2022-11-29 16h|
-|167|watch-dogs-2--gold-edition|Watch Dogs 2  Gold Edition|99,99€|80|2022-11-22 16h|2022-11-29 16h|
-|168|watch-dogs-2--season-pass|Watch Dogs 2 - Season Pass|39,99€|80|2022-11-22 16h|2022-11-29 16h|
-|169|watch-dogs-2--deluxe-edition|Watch Dogs 2 Deluxe Edition|69,99€|80|2022-11-22 16h|2022-11-29 16h|
+|167|watch-dogs-2--season-pass|Watch Dogs 2 - Season Pass|39,99€|80|2022-11-22 16h|2022-11-29 16h|
+|168|watch-dogs-2--deluxe-edition|Watch Dogs 2 Deluxe Edition|69,99€|80|2022-11-22 16h|2022-11-29 16h|
+|169|watch-dogs-2--gold-edition|Watch Dogs 2 Gold Edition|99,99€|80|2022-11-22 16h|2022-11-29 16h|
 |170|watch-dogs-2|Watch Dogs 2 Standard Edition|59,99€|80|2022-11-22 16h|2022-11-29 16h|
 |171|whispering-willows-bde110|Whispering Willows|7,99€|80|2022-11-22 16h|2022-11-29 16h|
 |172|worms-rumble|Worms Rumble|14,99€|80|2022-11-22 16h|2022-11-29 16h|
@@ -401,7 +401,7 @@
 |399|rising-storm-2-vietnam|Rising Storm 2: Vietnam|21,99€|75|2022-11-22 16h|2022-11-29 16h|
 |400|smite--ultimate-god-pack|SMITE Ultimate God Pack|23,99€|75|2022-11-22 16h|2022-11-29 16h|
 |401|star-wars-battlefront|STAR WARS™ Battlefront™ Ultimate Edition|19,99€|75|2022-11-22 16h|2022-11-29 16h|
-|402|saints-row-the-third-remastered|Saints Row®: The Third™  Remastered|39,99€|75|2022-11-22 16h|2022-11-29 16h|
+|402|saints-row-the-third-remastered|Saints Row®: The Third™ Remastered|39,99€|75|2022-11-22 16h|2022-11-29 16h|
 |403|predator-hunting-grounds--samurai-predator-dlc-pack|Samurai Predator DLC Pack|4,99€|75|2022-11-22 16h|2022-11-29 16h|
 |404|secret-government|Secret Government|24,99€|75|2022-11-22 16h|2022-11-29 16h|
 |405|shadowhand|Shadowhand|11,99€|75|2022-11-22 16h|2022-11-29 16h|
@@ -578,7 +578,7 @@
 |576|planescape-torment-enhanced-edition--soundtrack|Planescape: Torment: Enhanced Edition Soundtrack|7,99€|70|2022-11-22 16h|2022-11-29 16h|
 |577|railway-empire|Railway Empire|29,99€|70|2022-11-22 16h|2022-11-29 16h|
 |578|rayman-origins|Rayman Origins|9,99€|70|2022-11-22 16h|2022-11-29 16h|
-|579|red-dead-redemption-2--ultimate-edition|Red Dead Redemption 2:  Ultimate Edition|89,99€|70|2022-11-22 16h|2022-11-29 16h|
+|579|red-dead-redemption-2--ultimate-edition|Red Dead Redemption 2: Ultimate Edition|89,99€|70|2022-11-22 16h|2022-11-29 16h|
 |580|redout-enhanced-edition|Redout: Enhanced Edition|15,99€|70|2022-11-22 16h|2022-11-29 16h|
 |581|shadow-of-the-tomb-raider|Shadow of the Tomb Raider: Definitive Edition|39,99€|70|2022-11-22 16h|2022-11-29 16h|
 |582|shenmue-3--battle-rally|Shenmue III - Battle Rally|5,99€|70|2022-11-22 16h|2022-11-29 16h|
@@ -906,15 +906,15 @@
 |904|pathfinder-wrath-of-the-righteous--commander-edition|Pathfinder: Wrath of the Righteous Commander Edition|69,99€|58|2022-11-22 16h|2022-11-29 16h|
 |905|pathfinder-wrath-of-the-righteous--commander-edition|Pathfinder: Wrath of the Righteous Commander Edition|69,99€|57|2022-11-22 16h|2022-11-29 16h|
 |906|pathfinder-wrath-of-the-righteous--mythic-edition|Pathfinder: Wrath of the Righteous Mythic Edition|98,99€|57|2022-11-22 16h|2022-11-29 16h|
-|907|the-falconeer--edge-of-the-world| Edge of the World|7,99€|55|2022-11-22 16h|2022-11-29 16h|
-|908|scarlet-hood-and-the-wicked-wood--artbook|Artbook|3,99€|55|2022-11-22 16h|2022-11-29 16h|
-|909|back-4-blood--annual-pass|Back 4 Blood Annual Pass|39,99€|55|2022-11-22 16h|2022-11-29 16h|
-|910|bassmaster-fishing-2022-deluxe-edition|Bassmaster®  Fishing 2022: Deluxe Edition|29,99€|55|2022-11-22 16h|2022-11-29 16h|
-|911|battlefield-2042--ultimate-edition|Battlefield™ 2042 Ultimate Edition|109,99€|55|2022-11-22 16h|2022-11-29 16h|
-|912|conan-exiles--isle-of-siptah-edition|Conan Exiles - Isle of Siptah Edition|53,98€|55|2022-11-22 16h|2022-11-29 16h|
-|913|scarlet-hood-and-the-wicked-wood--deluxe-edition|Deluxe Edition|19,52€|55|2022-11-22 16h|2022-11-29 16h|
-|914|democracy-4|Democracy 4|21,99€|55|2022-11-22 16h|2022-11-29 16h|
-|915|drawful-2|Drawful 2|9,99€|55|2022-11-22 16h|2022-11-29 16h|
+|907|scarlet-hood-and-the-wicked-wood--artbook|Artbook|3,99€|55|2022-11-22 16h|2022-11-29 16h|
+|908|back-4-blood--annual-pass|Back 4 Blood Annual Pass|39,99€|55|2022-11-22 16h|2022-11-29 16h|
+|909|bassmaster-fishing-2022-deluxe-edition|Bassmaster® Fishing 2022: Deluxe Edition|29,99€|55|2022-11-22 16h|2022-11-29 16h|
+|910|battlefield-2042--ultimate-edition|Battlefield™ 2042 Ultimate Edition|109,99€|55|2022-11-22 16h|2022-11-29 16h|
+|911|conan-exiles--isle-of-siptah-edition|Conan Exiles - Isle of Siptah Edition|53,98€|55|2022-11-22 16h|2022-11-29 16h|
+|912|scarlet-hood-and-the-wicked-wood--deluxe-edition|Deluxe Edition|19,52€|55|2022-11-22 16h|2022-11-29 16h|
+|913|democracy-4|Democracy 4|21,99€|55|2022-11-22 16h|2022-11-29 16h|
+|914|drawful-2|Drawful 2|9,99€|55|2022-11-22 16h|2022-11-29 16h|
+|915|the-falconeer--edge-of-the-world|Edge of the World|7,99€|55|2022-11-22 16h|2022-11-29 16h|
 |916|train-sim-world-2--harlem-line|Harlem Line: Grand Central Terminal - North White Plains|29,99€|55|2022-11-22 16h|2022-11-29 16h|
 |917|hypnospace-outlaw|Hypnospace Outlaw|16,79€|55|2022-11-22 14h|2022-12-18 14h|
 |918|kings-bounty-ii--lords-edition-upgrade|King's Bounty II - Lord's Edition Upgrade|5,99€|55|2022-11-22 16h|2022-11-29 16h|
@@ -1075,9 +1075,9 @@
 |1073|pc-building-simulator--esports-expansion|Esports Expansion|9,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1074|heroes-and-generals-wwii--essential-ribbon-booster-pack|Essential Ribbon Booster Pack|4,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1075|evil-dead-the-game|Evil Dead: The Game|39,99€|50|2022-11-22 16h|2022-11-29 16h|
-|1076|evil-dead-the-game--ash-williams-gallant-knight-outfit|Evil Dead: The Game -  Ash Williams Gallant Knight Outfit|2,39€|50|2022-11-22 16h|2022-11-29 16h|
-|1077|evil-dead-the-game--2013-bundle|Evil Dead: The Game - 2013 bundle|7,99€|50|2022-11-22 16h|2022-11-29 16h|
-|1078|evil-dead-the-game--army-of-darkness-bundle|Evil Dead: The Game - Army of Darkness Bundle|5,99€|50|2022-11-22 16h|2022-11-29 16h|
+|1076|evil-dead-the-game--2013-bundle|Evil Dead: The Game - 2013 bundle|7,99€|50|2022-11-22 16h|2022-11-29 16h|
+|1077|evil-dead-the-game--army-of-darkness-bundle|Evil Dead: The Game - Army of Darkness Bundle|5,99€|50|2022-11-22 16h|2022-11-29 16h|
+|1078|evil-dead-the-game--ash-williams-gallant-knight-outfit|Evil Dead: The Game - Ash Williams Gallant Knight Outfit|2,39€|50|2022-11-22 16h|2022-11-29 16h|
 |1079|evil-dead-the-game--ash-williams-s-mart-employee-outfit|Evil Dead: The Game - Ash Williams S-Mart Employee Outfit|2,39€|50|2022-11-22 16h|2022-11-29 16h|
 |1080|evil-dead-the-game--classics-bundle|Evil Dead: The Game - Classics Bundle|7,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1081|evil-dead-the-game--deluxe-edition|Evil Dead: The Game - Deluxe Edition|59,99€|50|2022-11-22 16h|2022-11-29 16h|
@@ -1196,7 +1196,7 @@
 |1194|jurassic-world-evolution--cretaceous-pack|Jurassic World Evolution: Cretaceous Dinosaur Pack|4,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1195|jurassic-world-evolution--herbivore-pack|Jurassic World Evolution: Herbivore Dinosaur Pack|4,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1196|jurassic-world-evolution--raptor-squad|Jurassic World Evolution: Raptor Squad Collection|1,99€|50|2022-11-22 16h|2022-11-29 16h|
-|1197|just-cause-4--reloaded-content-pack|Just Cause 4 Reloaded  Content Pack|7,99€|50|2022-11-22 16h|2022-11-29 16h|
+|1197|just-cause-4--reloaded-content-pack|Just Cause 4 Reloaded Content Pack|7,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1198|kao-the-kangaroo-round-2-5d4d25|Kao the Kangaroo - Round 2|1,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1199|kapital-sparks-of-revolution-70f07b|Kapital: Sparks of Revolution|19,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1200|kapital-sparks-of-revolution-kapital-soundtrack-f23b83|Kapital: Sparks of Revolution Soundtrack|1,99€|50|2022-11-22 16h|2022-11-29 16h|
@@ -1231,8 +1231,8 @@
 |1229|dungeons-3--a-multitude-of-maps|Multitude of Maps|4,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1230|mutazione|Mutazione|17,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1231|naraka-bladepoint|NARAKA: BLADEPOINT|19,99€|50|2022-11-22 16h|2022-11-29 16h|
-|1232|naraka-bladepoint--ultimate-edition|NARAKA: BLADEPOINT  Ultimate Edition|50,99€|50|2022-11-22 16h|2022-11-29 16h|
-|1233|naraka-bladepoint--deluxe-edition|NARAKA: BLADEPOINT Deluxe Edition|34,99€|50|2022-11-22 16h|2022-11-29 16h|
+|1232|naraka-bladepoint--deluxe-edition|NARAKA: BLADEPOINT Deluxe Edition|34,99€|50|2022-11-22 16h|2022-11-29 16h|
+|1233|naraka-bladepoint--ultimate-edition|NARAKA: BLADEPOINT Ultimate Edition|50,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1234|narita-boy|Narita Boy|24,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1235|necroland-undead-corps|NecroLand: Undead Corps|7,99€|50|2022-11-21 16h|2022-11-28 16h|
 |1236|neighbours-back-from-hell|Neighbours back From Hell|14,99€|50|2022-11-22 16h|2022-11-29 16h|
@@ -1251,7 +1251,7 @@
 |1249|paramnesia-a49100|Paramnesia|2,39€|50|2022-11-22 16h|2022-11-29 16h|
 |1250|project-pastorate-6e8765|Project Pastorate|1,59€|50|2022-11-22 16h|2022-11-29 16h|
 |1251|railway-empire--crossing-the-andes|Railway Empire - Crossing the Andes|7,99€|50|2022-11-22 16h|2022-11-29 16h|
-|1252|railway-empire--down-under|Railway Empire - Down Under |7,99€|50|2022-11-22 16h|2022-11-29 16h|
+|1252|railway-empire--down-under|Railway Empire - Down Under|7,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1253|railway-empire--france|Railway Empire - France|9,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1254|railway-empire--germany|Railway Empire - Germany|9,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1255|railway-empire--great-britain-and-ireland|Railway Empire - Great Britain & Ireland|9,99€|50|2022-11-22 16h|2022-11-29 16h|
@@ -1351,13 +1351,13 @@
 |1349|total-war-warhammer--realm-of-the-wood-elves|Total War: WARHAMMER - Realm of the Wood Elves|18,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1350|total-war-warhammer--grim-and-grave|Total War: WARHAMMER - The Grim & The Grave|9,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1351|total-war-warhammer--king-and-warlord|Total War: WARHAMMER - The King & The Warlord|9,99€|50|2022-11-22 16h|2022-11-29 16h|
-|1352|total-war-warhammer-ii--twisted-and-twilight|Total War: WARHAMMER II -  The Twisted & The Twilight|9,99€|50|2022-11-22 16h|2022-11-29 16h|
-|1353|total-war-warhammer-ii--curse-of-vampire-coast|Total War: WARHAMMER II - Curse of the Vampire Coast|18,99€|50|2022-11-22 16h|2022-11-29 16h|
-|1354|total-war-warhammer-ii--rise-of-tomb-kings|Total War: WARHAMMER II - Rise of the Tomb Kings|18,99€|50|2022-11-22 16h|2022-11-29 16h|
-|1355|total-war-warhammer-ii--hunter-and-beast|Total War: WARHAMMER II - The Hunter & The Beast|9,99€|50|2022-11-22 16h|2022-11-29 16h|
-|1356|total-war-warhammer-ii--prophet-and-warlock|Total War: WARHAMMER II - The Prophet & The Warlock|9,99€|50|2022-11-22 16h|2022-11-29 16h|
-|1357|total-war-warhammer-ii--queen-and-crone|Total War: WARHAMMER II - The Queen & The Crone|9,99€|50|2022-11-22 16h|2022-11-29 16h|
-|1358|total-war-warhammer-ii--shadow-and-blade|Total War: WARHAMMER II - The Shadow & The Blade|9,99€|50|2022-11-22 16h|2022-11-29 16h|
+|1352|total-war-warhammer-ii--curse-of-vampire-coast|Total War: WARHAMMER II - Curse of the Vampire Coast|18,99€|50|2022-11-22 16h|2022-11-29 16h|
+|1353|total-war-warhammer-ii--rise-of-tomb-kings|Total War: WARHAMMER II - Rise of the Tomb Kings|18,99€|50|2022-11-22 16h|2022-11-29 16h|
+|1354|total-war-warhammer-ii--hunter-and-beast|Total War: WARHAMMER II - The Hunter & The Beast|9,99€|50|2022-11-22 16h|2022-11-29 16h|
+|1355|total-war-warhammer-ii--prophet-and-warlock|Total War: WARHAMMER II - The Prophet & The Warlock|9,99€|50|2022-11-22 16h|2022-11-29 16h|
+|1356|total-war-warhammer-ii--queen-and-crone|Total War: WARHAMMER II - The Queen & The Crone|9,99€|50|2022-11-22 16h|2022-11-29 16h|
+|1357|total-war-warhammer-ii--shadow-and-blade|Total War: WARHAMMER II - The Shadow & The Blade|9,99€|50|2022-11-22 16h|2022-11-29 16h|
+|1358|total-war-warhammer-ii--twisted-and-twilight|Total War: WARHAMMER II - The Twisted & The Twilight|9,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1359|total-war-warhammer-ii--warden-and-paunch|Total War: WARHAMMER II - The Warden & The Paunch|9,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1360|tour-de-france-2022-8bb5fb|Tour de France 2022|39,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1361|trackmania-turbo|Trackmania Turbo|39,99€|50|2022-11-22 16h|2022-11-29 16h|
@@ -1406,8 +1406,8 @@
 |1404|zorya-the-celestial-sisters--soundtrack-and-digital-artbook|Zorya Soundtrack and Digital Artbook|7,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1405|zorya-the-celestial-sisters|Zorya: The Celestial Sisters|19,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1406|zorya-the-celestial-sisters--stellar-edition|Zorya: The Celestial Sisters Stellar Edition|23,99€|50|2022-11-22 16h|2022-11-29 16h|
-|1407|thehunter-call-of-the-wild--smoking-barrels-weapon-pack|theHunter: Call of the Wild™ - Smoking Barrels Weapon Pack|3,99€|50|2022-11-22 16h|2022-11-29 16h|
-|1408|thehunter-call-of-the-wild--atv-saber-4x4|theHunter: Call of the Wild™ - ATV Saber 4x4|3,99€|50|2022-11-22 16h|2022-11-29 16h|
+|1407|thehunter-call-of-the-wild--atv-saber-4x4|theHunter: Call of the Wild™ - ATV Saber 4x4|3,99€|50|2022-11-22 16h|2022-11-29 16h|
+|1408|thehunter-call-of-the-wild--smoking-barrels-weapon-pack|theHunter: Call of the Wild™ - Smoking Barrels Weapon Pack|3,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1409|humankind--collection|HUMANKIND™ Heritage Collection|71,00€|49|2022-11-22 16h|2022-11-29 16h|
 |1410|road-96--hitchhiker-bundle|Road 96 - Hitchhiker Bundle|29,91€|48|2022-11-22 16h|2022-11-29 16h|
 |1411|ww1-game-series-bundle|WW1 Game Series Bundle|59,99€|47|2022-11-22 16h|2022-11-29 16h|
@@ -1468,7 +1468,7 @@
 |1466|destiny-2--bungie-30th-anniversary-pack|Destiny 2: Bungie 30th Anniversary Pack|24,99€|40|2022-11-22 16h|2022-11-29 16h|
 |1467|dice-legacy--soundtrack|Dice Legacy Soundtrack|5,99€|40|2022-11-22 16h|2022-11-29 16h|
 |1468|fifa-23|EA SPORTS™ FIFA 23 Standard Edition|69,99€|40|2022-11-22 16h|2022-11-29 16h|
-|1469|fifa-23--ultimate-edition|EA SPORTS™ FIFA 23 Ultimate Edition	|89,99€|40|2022-11-22 16h|2022-11-29 16h|
+|1469|fifa-23--ultimate-edition|EA SPORTS™ FIFA 23 Ultimate Edition|89,99€|40|2022-11-22 16h|2022-11-29 16h|
 |1470|idle-champions-of-the-forgotten-realms--eberron-ellywick-skin-feat-pack|Eberron Ellywick Skin & Feat Pack|7,99€|40|2022-12-02 20h|2022-12-05 20h|
 |1471|bassmaster-fishing-2022-bassmaster-fishing-2022-champions-equipment-pack-3525b8|Elite Fishing Equipment Pack|6,99€|40|2022-11-22 16h|2022-11-29 16h|
 |1472|expeditions-rome|Expeditions: Rome|44,99€|40|2022-11-22 16h|2022-11-29 16h|
@@ -1712,7 +1712,7 @@
 |1710|pathfinder-wrath-of-the-righteous--inevitable-excess|Pathfinder: Wrath of the Righteous - Inevitable Excess|12,99€|30|2022-11-22 16h|2022-11-29 16h|
 |1711|pathfinder-wrath-of-the-righteous--through-the-ashes|Pathfinder: Wrath of the Righteous - Through the Ashes|12,99€|30|2022-11-22 16h|2022-11-29 16h|
 |1712|princess-farmer-bd4c4e|Princess Farmer|11,99€|30|2022-11-22 16h|2022-11-29 16h|
-|1713|rogue-lords--supporter-pack|Rogue Lords -  Supporter Pack|9,99€|30|2022-11-22 16h|2022-11-29 16h|
+|1713|rogue-lords--supporter-pack|Rogue Lords - Supporter Pack|9,99€|30|2022-11-22 16h|2022-11-29 16h|
 |1714|idle-champions-of-the-forgotten-realms--ruqiah-catti-brie-skin-feat-pack|Ruqiah Catti-Brie Skin & Feat Pack|7,99€|30|2022-11-22 16h|2022-11-29 16h|
 |1715|sherlock-holmes-chapter-one--saints-and-sinners|Saints and Sinners|4,99€|30|2022-11-22 16h|2022-11-29 16h|
 |1716|sands-of-aura|Sands of Aura|21,99€|30|2022-11-22 16h|2022-11-29 16h|
@@ -1873,9 +1873,9 @@
 |1871|werewolf-the-apocalypse-earthblood--gaia-pack|Werewolf: The Apocalypse - Earthblood Gaia Pack|12,99€|25|2022-11-22 16h|2022-11-29 16h|
 |1872|pc-building-simulator--workshops-mega-pack|Workshops Mega Pack|27,99€|25|2022-11-22 16h|2022-11-29 16h|
 |1873|snowrunner--year-1-pass|Year 1 Pass|24,99€|25|2022-11-22 16h|2022-11-29 16h|
-|1874|thehunter-call-of-the-wild--modern-rifle-pack|theHunter: Call of the Wild™  - Modern Rifle Pack|3,99€|25|2022-11-22 16h|2022-11-29 16h|
-|1875|thehunter-call-of-the-wild--revontuli-coast|theHunter: Call of the Wild™  - Revontuli coast|7,99€|25|2022-11-22 16h|2022-11-29 16h|
-|1876|thehunter-call-of-the-wild--bloodhound|theHunter: Call of the Wild™ - Bloodhound|3,99€|25|2022-11-22 16h|2022-11-29 16h|
+|1874|thehunter-call-of-the-wild--bloodhound|theHunter: Call of the Wild™ - Bloodhound|3,99€|25|2022-11-22 16h|2022-11-29 16h|
+|1875|thehunter-call-of-the-wild--modern-rifle-pack|theHunter: Call of the Wild™ - Modern Rifle Pack|3,99€|25|2022-11-22 16h|2022-11-29 16h|
+|1876|thehunter-call-of-the-wild--revontuli-coast|theHunter: Call of the Wild™ - Revontuli coast|7,99€|25|2022-11-22 16h|2022-11-29 16h|
 |1877|crayta--1000-crayta-credits|1,000 Crayta Credits|8,99€|20|2022-11-22 16h|2022-11-29 16h|
 |1878|neverwinter--1000-zen-bundle|1000 Neverwinter ZEN Bundle|8,99€|20|2022-12-21 16h|2023-01-06 16h|
 |1879|star-trek-online--1000-zen-bundle|1000 ZEN Bundle|8,99€|20|2022-11-22 16h|2022-11-28 16h|

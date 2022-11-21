@@ -1,540 +1,540 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|1|the-falconeer--edge-of-the-world| Edge of the World|7,99€|55|2022-11-22 16h|2022-11-29 16h|
-|2|saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited--official-soundtrack|"Dungeons and Refrains" Official Soundtrack|7,99€|50|2022-11-22 16h|2022-11-29 16h|
-|3|saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited--art-book|"Journey from Savior to Stranger" Art Book|7,99€|50|2022-11-22 16h|2022-11-29 16h|
-|4|crayta--1000-crayta-credits|1,000 Crayta Credits|8,99€|20|2022-11-22 16h|2022-11-29 16h|
-|5|neverwinter--1000-zen-bundle|1000 Neverwinter ZEN Bundle|8,99€|20|2022-12-21 16h|2023-01-06 16h|
-|6|star-trek-online--1000-zen-bundle|1000 ZEN Bundle|8,99€|20|2022-11-22 16h|2022-11-28 16h|
-|7|star-trek-online--1000-zen-bundle|1000 ZEN Bundle|8,99€|20|2022-12-22 16h|2023-01-02 16h|
-|8|neverwinter--10000-zen-1000-bonus-bundle|10000 Neverwinter ZEN +1000 Bonus Bundle|89,99€|20|2022-12-21 16h|2023-01-06 16h|
-|9|star-trek-online--10000-zen-1000-bonus-bundle|10000 ZEN +1000 Bonus Bundle|89,99€|20|2022-11-22 16h|2022-11-28 16h|
-|10|star-trek-online--10000-zen-1000-bonus-bundle|10000 ZEN +1000 Bonus Bundle|89,99€|20|2022-12-22 16h|2023-01-02 16h|
-|11|crayta--15000-crayta-credits|15,000 Crayta Credits|79,99€|50|2022-11-22 16h|2022-11-29 16h|
-|12|crayta--2500-crayta-credits|2,500 Crayta Credits|19,99€|30|2022-11-22 16h|2022-11-29 16h|
-|13|neverwinter--2000-zen-bundle|2000 Neverwinter ZEN Bundle|17,99€|20|2022-12-21 16h|2023-01-06 16h|
-|14|star-trek-online--2000-zen-bundle|2000 ZEN Bundle|17,99€|20|2022-11-22 16h|2022-11-28 16h|
-|15|star-trek-online--2000-zen-bundle|2000 ZEN Bundle|17,99€|20|2022-12-22 16h|2023-01-02 16h|
-|16|neverwinter--20000-zen-3000-bonus-bundle|20000 Neverwinter ZEN + 3000 Bonus Bundle|179,99€|20|2022-12-21 16h|2023-01-06 16h|
-|17|star-trek-online--20000-zen-3000-bonus-bundle|20000 ZEN + 3000 Bonus Bundle|179,99€|20|2022-11-22 16h|2022-11-28 16h|
-|18|star-trek-online--20000-zen-3000-bonus-bundle|20000 ZEN + 3000 Bonus Bundle|179,99€|20|2022-12-22 16h|2023-01-02 16h|
-|19|crayta--5000-crayta-credits|5,000 Crayta Credits|31,99€|40|2022-11-22 16h|2022-11-29 16h|
-|20|crayta--500-crayta-credits|500 Crayta Credits|4,99€|10|2022-11-22 16h|2022-11-29 16h|
-|21|neverwinter--5000-zen-300-bonus-bundle|5000 Neverwinter ZEN + 300 Bonus Bundle|44,99€|20|2022-12-21 16h|2023-01-06 16h|
-|22|star-trek-online--5000-zen-300-bonus-bundle|5000 ZEN + 300 Bonus Bundle|44,99€|20|2022-11-22 16h|2022-11-28 16h|
-|23|star-trek-online--5000-zen-300-bonus-bundle|5000 ZEN + 300 Bonus Bundle|44,99€|20|2022-12-22 16h|2023-01-02 16h|
-|24|7-billion-humans|7 Billion Humans|11,99€|66|2022-11-22 16h|2022-11-29 16h|
-|25|8doors-arums-afterlife-adventure|8Doors: Arum's Afterlife Adventure|15,99€|80|2022-11-22 16h|2022-11-29 16h|
-|26|a-good-snowman-is-hard-to-build|A Good Snowman is Hard to Build|7,99€|70|2022-11-22 16h|2022-11-29 16h|
-|27|a-heros-rest-67f117|A Hero's Rest|19,99€|15|2022-11-22 16h|2022-11-29 16h|
-|28|a-monsters-expedition|A Monster's Expedition|15,99€|40|2022-11-22 16h|2022-11-29 16h|
-|29|a-plague-tale-innocence|A Plague Tale: Innocence|39,99€|60|2022-11-22 16h|2022-11-29 16h|
-|30|a-plague-tale-requiem|A Plague Tale: Requiem|49,99€|20|2022-11-22 16h|2022-11-29 16h|
-|31|a-total-war-saga-troy|A Total War Saga: TROY|49,99€|33|2022-11-22 16h|2022-11-29 16h|
-|32|a-total-war-saga-troy--mythos|A Total War Saga: TROY - MYTHOS|24,99€|25|2022-11-22 16h|2022-11-29 16h|
-|33|a-total-war-saga-troy--ajax-and-diomedes|A Total War Saga: TROY – AJAX & DIOMEDES|9,99€|25|2022-11-22 16h|2022-11-29 16h|
-|34|kingdom-come-deliverance--a-womans-lot|A Woman's Lot|7,99€|60|2022-11-22 16h|2022-11-29 16h|
-|35|abzu|ABZU|15,99€|65|2022-11-22 16h|2022-11-29 16h|
-|36|anno-mutationem-ef8b9e|ANNO Mutationem|20,99€|35|2022-11-22 16h|2022-11-29 16h|
-|37|pc-building-simulator--aorus-workshop|AORUS Workshop|4,99€|25|2022-11-22 16h|2022-11-29 16h|
-|38|ape-out|APE OUT|14,99€|75|2022-11-22 16h|2022-11-29 16h|
-|39|apico-f6e18b|APICO|15,99€|25|2022-11-22 16h|2022-11-29 16h|
-|40|atom-rpg-3adb54|ATOM RPG|14,99€|40|2022-11-22 16h|2022-11-29 16h|
-|41|away-the-survival-series|AWAY: The Survival Series|15,99€|60|2022-11-21 17h|2022-12-05 17h|
-|42|control--awe|AWE: Expansion 2|9,99€|60|2022-11-22 16h|2022-11-29 16h|
-|43|axiom-verge|AXIOM VERGE|17,99€|60|2022-11-22 16h|2022-11-29 16h|
-|44|absolute-drift|Absolute Drift|9,99€|60|2022-11-22 16h|2022-11-29 16h|
-|45|absolute-tactics-ca91e4|Absolute Tactics|19,99€|15|2022-11-22 16h|2022-11-29 16h|
-|46|aces-of-the-luftwaffe-squadron-97086d|Aces of the Luftwaffe - Squadron Extended Edition|24,99€|75|2022-11-22 16h|2022-11-29 16h|
-|47|achilles-legends-untold-bb77ad|Achilles Legends Untold|18,99€|25|2022-11-21 13h|2022-11-29 13h|
-|48|achilles-legends-untold-bb77ad|Achilles Legends Untold|18,99€|25|2022-12-05 13h|2022-12-31 13h|
-|49|adios-b378b4|Adios|13,99€|45|2022-11-22 16h|2022-11-29 16h|
-|50|adventures-of-chris-64c13b|Adventures of Chris|11,99€|75|2022-11-22 16h|2022-11-29 16h|
-|51|aegis-descent-a1f5a0|Aegis Descent|15,99€|50|2022-11-22 16h|2022-11-29 16h|
-|52|aerial-knights-never-yield|Aerial_Knight's Never Yield|11,99€|40|2022-11-22 16h|2022-11-29 16h|
-|53|aerial-knights-never-yield--deluxe-edition|Aerial_Knight's Never Yield - Deluxe Edition|15,99€|40|2022-11-22 16h|2022-11-29 16h|
-|54|aerial-knights-never-yield--soundtrack|Aerial_Knight's Never Yield - Soundtrack|4,99€|40|2022-11-22 16h|2022-11-29 16h|
-|55|aeterna-noctis|Aeterna Noctis|29,99€|40|2022-11-22 16h|2022-11-29 16h|
-|56|aftergrinder-96f722|Aftergrinder|2,39€|67|2022-11-22 16h|2022-11-29 16h|
-|57|against-the-storm|Against the Storm|19,99€|15|2022-11-22 16h|2022-11-29 16h|
-|58|ageless|Ageless|14,99€|75|2022-11-22 16h|2022-11-29 16h|
-|59|aground|Aground|11,99€|35|2022-11-22 16h|2022-11-29 16h|
-|60|air-missions-hind|Air Missions: HIND|15,99€|50|2022-11-21 16h|2022-11-28 16h|
-|61|airborne-kingdom|Airborne Kingdom|20,99€|30|2022-11-22 16h|2022-11-29 16h|
-|62|alan-wake|Alan Wake|12,49€|70|2022-11-22 16h|2022-11-29 16h|
-|63|alan-wake-remastered|Alan Wake Remastered|29,99€|50|2022-11-22 16h|2022-11-29 16h|
-|64|alan-wake-american-nightmare|Alan Wake's American Nightmare|6,99€|70|2022-11-22 16h|2022-11-29 16h|
-|65|alan-wake-american-nightmare|Alan Wake’s American Nightmare|6,99€|70|2022-11-22 16h|2022-11-29 16h|
-|66|alchemist-adventure-fa9fca|Alchemist Adventure|11,99€|50|2022-11-22 16h|2022-11-29 16h|
-|67|alex-kidd-in-miracle-world-dx|Alex Kidd in Miracle World DX|19,99€|66|2022-11-22 16h|2022-11-29 16h|
-|68|alien-isolation|Alien: Isolation|39,99€|80|2022-11-22 16h|2022-11-29 16h|
-|69|alien-isolation--corporate-lockdown|Alien: Isolation - Corporate Lockdown|7,99€|80|2022-11-22 16h|2022-11-29 16h|
-|70|alien-isolation--crew-expendable|Alien: Isolation - Crew Expendable|3,99€|80|2022-11-22 16h|2022-11-29 16h|
-|71|alien-isolation--last-survivor|Alien: Isolation - Last Survivor|3,99€|80|2022-11-22 16h|2022-11-29 16h|
-|72|alien-isolation--lost-contact|Alien: Isolation - Lost Contact|7,99€|80|2022-11-22 16h|2022-11-29 16h|
-|73|alien-isolation--safe-haven|Alien: Isolation - Safe Haven|7,99€|80|2022-11-22 16h|2022-11-29 16h|
-|74|alien-isolation--the-trigger|Alien: Isolation - The Trigger|7,99€|80|2022-11-22 16h|2022-11-29 16h|
-|75|alien-isolation--trauma|Alien: Isolation - Trauma|7,99€|80|2022-11-22 16h|2022-11-29 16h|
-|76|faeria--all-dlc-bundle|All DLC Bundle|75,99€|75|2022-11-22 16h|2022-11-29 16h|
-|77|vampire-the-masquerade-swansong--outfits-pack|Alternate Outfits Pack|2,99€|15|2022-11-22 16h|2022-11-29 16h|
-|78|among-trees|Among Trees|14,99€|50|2022-11-22 16h|2022-11-29 16h|
-|79|genesis-noir--an-act-of-creation|An Act of Creation|5,99€|60|2022-11-22 16h|2022-11-29 16h|
-|80|dungeons-3--an-unexpected-dlc|An Unexpected DLC|4,99€|50|2022-11-22 16h|2022-11-29 16h|
-|81|ancestors|Ancestors The Humankind Odyssey|39,99€|75|2022-11-22 16h|2022-11-29 16h|
-|82|ancestors|Ancestors: The Humankind Odyssey|39,99€|75|2022-11-22 16h|2022-11-29 16h|
-|83|ancient-enemy|Ancient Enemy|11,99€|75|2022-11-22 16h|2022-11-29 16h|
-|84|angry-video-game-nerd-1-and-2-deluxe-1eea79|Angry Video Game Nerd 1 and 2 Deluxe|11,99€|60|2022-11-22 16h|2022-11-29 16h|
-|85|anno-1404|Anno 1404 History Edition|14,99€|50|2022-11-22 16h|2022-11-29 16h|
-|86|anno-1701|Anno 1701 History Edition|9,99€|50|2022-11-22 16h|2022-11-29 16h|
-|87|anno-1800|Anno 1800|59,99€|67|2022-11-22 16h|2022-11-29 16h|
-|88|anno-1800--deluxe-pack|Anno 1800 Deluxe Pack|9,99€|50|2022-11-22 16h|2022-11-29 16h|
-|89|anno-1800--season-pass|Anno 1800 Season Pass|24,99€|50|2022-11-22 16h|2022-11-29 16h|
-|90|anno-1800--season-pass-2|Anno 1800 Season Pass 2|24,99€|50|2022-11-22 16h|2022-11-29 16h|
-|91|anno-1800|Anno 1800 Standard Edition|59,99€|67|2022-11-22 16h|2022-11-29 16h|
-|92|anno-1800--amusements-pack|Anno 1800: Amusements DLC|4,99€|20|2022-11-22 16h|2022-11-29 16h|
-|93|anno-1800--city-lights|Anno 1800™ - City Lights Pack|4,99€|20|2022-11-22 16h|2022-11-29 16h|
-|94|anno-1800--complete-edition-year-4|Anno 1800™ Complete Edition Year 4|119,99€|50|2022-11-22 16h|2022-11-29 16h|
-|95|anno-1800--empire-of-the-skies|Anno 1800™ DLC 11 Empire of the Skies|11,99€|20|2022-11-22 16h|2022-11-29 16h|
-|96|anno-1800--docklands|Anno 1800™ Docklands|6,99€|35|2022-11-22 16h|2022-11-29 16h|
-|97|anno-1800--gold-edition-year-4|Anno 1800™ Gold Edition Year 4|79,99€|50|2022-11-22 16h|2022-11-29 16h|
-|98|anno-1800--industrial-zone-pack|Anno 1800™ Industrial Zone Pack|4,99€|20|2022-11-22 16h|2022-11-29 16h|
-|99|anno-1800--season-pass-3|Anno 1800™ Season 3 Pass|19,99€|35|2022-11-22 16h|2022-11-29 16h|
-|100|anno-1800--season-4-pass|Anno 1800™ Season 4 Pass|24,99€|20|2022-11-22 16h|2022-11-29 16h|
-|101|anno-1800--the-high-life|Anno 1800™ The High Life|8,99€|35|2022-11-22 16h|2022-11-29 16h|
-|102|anno-1800--tourist-season|Anno 1800™ Tourist Season|8,99€|35|2022-11-22 16h|2022-11-29 16h|
-|103|anno-1800--vehicle-liveries-pack|Anno 1800™ Vehicle Liveries Pack|4,99€|20|2022-11-22 16h|2022-11-29 16h|
-|104|anno-1800--vibrant-cities-pack|Anno 1800™ Vibrant Cities Pack|4,99€|20|2022-11-22 16h|2022-11-29 16h|
-|105|anno-1800--holiday-pack|Anno 1800™: Holiday Pack|3,99€|50|2022-11-22 16h|2022-11-29 16h|
-|106|anno-1800--land-of-lions|Anno 1800™: Land of Lions|17,99€|50|2022-11-22 16h|2022-11-29 16h|
-|107|anno-1800--pedestrian-zone-pack|Anno 1800™: Pedestrian Zone Pack|4,99€|20|2022-11-22 16h|2022-11-29 16h|
-|108|anno-2070|Anno 2070|29,99€|75|2022-11-22 16h|2022-11-29 16h|
-|109|anno-2205|Anno 2205|39,99€|75|2022-11-22 16h|2022-11-29 16h|
-|110|anno-2205|Anno 2205 - Standard Edition|39,99€|75|2022-11-22 16h|2022-11-29 16h|
-|111|anno-2205--ultimate-edition|Anno 2205 - Ultimate Edition|49,99€|75|2022-11-22 16h|2022-11-29 16h|
-|112|anno-2205--frontiers|Anno 2205 Frontiers DLC|9,99€|75|2022-11-22 16h|2022-11-29 16h|
-|113|anno-2205--orbit|Anno 2205 Orbit DLC|9,99€|75|2022-11-22 16h|2022-11-29 16h|
-|114|anno-2205--season-pass|Anno 2205 Season Pass|19,99€|75|2022-11-22 16h|2022-11-29 16h|
-|115|anno-2205--tundra|Anno 2205 Tundra DLC|9,99€|75|2022-11-22 16h|2022-11-29 16h|
-|116|anodyne-2-return-to-dust|Anodyne 2: Return To Dust|16,79€|50|2022-11-22 16h|2022-11-29 16h|
-|117|anodyne-2-return-to-dust|Anodyne 2: Return to Dust|16,79€|50|2022-11-22 16h|2022-11-29 16h|
-|118|another-world-20th-anniversary-edition-64660d|Another World - 20th Anniversary|7,99€|20|2022-11-22 16h|2022-11-29 16h|
-|119|anuchard-08179d|Anuchard|14,99€|30|2022-11-22 16h|2022-11-29 16h|
-|120|ape-out|Ape Out|14,99€|75|2022-11-22 16h|2022-11-29 16h|
-|121|aquanox-deep-descent|Aquanox Deep Descent|29,99€|75|2022-11-22 16h|2022-11-29 16h|
-|122|aquanox-deep-descent--collectors-edition|Aquanox Deep Descent Collector’s Edition|39,99€|75|2022-11-22 16h|2022-11-29 16h|
-|123|arcade-paradise|Arcade Paradise|19,99€|20|2022-11-22 16h|2022-11-29 16h|
-|124|idle-champions-of-the-forgotten-realms--archmagi-dungeon-master-theme-pack|Archmagi Dungeon Master Theme Pack|19,99€|40|2022-12-02 20h|2022-12-05 20h|
-|125|are-you-smarter-than-a-5th-grader-bc328a|Are You Smarter Than A 5th Grader|29,99€|20|2022-11-22 16h|2022-11-29 16h|
-|126|killing-floor-2--armory-season-pass-2|Armory Season Pass 2|16,79€|33|2022-11-22 16h|2022-11-29 16h|
-|127|kingdom-come-deliverance--art-book|Art Book|3,99€|80|2022-11-22 16h|2022-11-29 16h|
-|128|while-true-learn--art-pack|Art Pack|2,39€|12|2022-11-22 16h|2022-11-29 16h|
-|129|art-of-rally|Art of Rally|19,99€|35|2022-11-22 16h|2022-11-29 16h|
-|130|scarlet-hood-and-the-wicked-wood--artbook|Artbook|3,99€|55|2022-11-22 16h|2022-11-29 16h|
-|131|ashen|Ashen|33,99€|75|2022-11-22 16h|2022-11-29 16h|
-|132|assassins-creed-chronicles-trilogy|Assassin's Creed Chronicles – Trilogy|24,99€|70|2022-11-22 16h|2022-11-29 16h|
-|133|assassins-creed-chronicles-china|Assassin's Creed Chronicles: China|9,99€|70|2022-11-22 16h|2022-11-29 16h|
-|134|assassins-creed-chronicles-india|Assassin's Creed Chronicles: India|9,99€|70|2022-11-22 16h|2022-11-29 16h|
-|135|assassins-creed-chronicles-russia|Assassin's Creed Chronicles: Russia|9,99€|70|2022-11-22 16h|2022-11-29 16h|
-|136|assassins-creed-3|Assassin's Creed III Remastered|39,99€|50|2022-11-22 16h|2022-11-29 16h|
-|137|assassins-creed-odyssey|Assassin's Creed Odyssey|59,99€|75|2022-11-22 16h|2022-11-29 16h|
-|138|assassins-creed-odyssey--season-pass|Assassin's Creed Odyssey - Season Pass|39,99€|60|2022-11-22 16h|2022-11-29 16h|
-|139|assassins-creed-origins|Assassin's Creed Origins|59,99€|80|2022-11-22 16h|2022-11-29 16h|
-|140|assassins-creed-origins--deluxe-edition|Assassin's Creed Origins Deluxe Edition|69,99€|80|2022-11-22 16h|2022-11-29 16h|
-|141|assassins-creed-origins--gold-edition|Assassin's Creed Origins Gold Edition|89,99€|80|2022-11-22 16h|2022-11-29 16h|
-|142|assassins-creed-origins--season-pass|Assassin's Creed Origins Season Pass|39,99€|60|2022-11-22 16h|2022-11-29 16h|
-|143|assassins-creed-origins|Assassin's Creed Origins Standard Edition|59,99€|80|2022-11-22 16h|2022-11-29 16h|
-|144|assassins-creed-rogue|Assassin's Creed Rogue|19,99€|67|2022-11-22 16h|2022-11-29 16h|
-|145|assassins-creed-rogue--deluxe-edition|Assassin's Creed Rogue Deluxe Edition|29,99€|67|2022-11-22 16h|2022-11-29 16h|
-|146|assassins-creed-rogue|Assassin's Creed Rogue Standard Edition|19,99€|67|2022-11-22 16h|2022-11-29 16h|
-|147|assassins-creed-syndicate|Assassin's Creed Syndicate|39,99€|75|2022-11-22 16h|2022-11-29 16h|
-|148|assassins-creed-syndicate--gold-edition|Assassin's Creed Syndicate Gold Edition|69,99€|75|2022-11-22 16h|2022-11-29 16h|
-|149|assassins-creed-syndicate|Assassin's Creed Syndicate Standard Edition|39,99€|75|2022-11-22 16h|2022-11-29 16h|
-|150|assassins-creed-unity|Assassin's Creed Unity|29,99€|75|2022-11-22 16h|2022-11-29 16h|
-|151|assassins-creed-valhalla--season-pass|Assassin's Creed: Valhalla Season Pass|39,99€|50|2022-11-22 16h|2022-11-29 16h|
-|152|assassins-creed-1|Assassin's Creed® I: Director's Cut|9,99€|70|2022-11-22 16h|2022-11-29 16h|
-|153|assassins-creed-3|Assassin's Creed® III: Remastered|39,99€|50|2022-11-22 16h|2022-11-29 16h|
-|154|assassins-creed-valhalla--the-siege-of-paris|Assassin's Creed® Valhalla - The Siege of Paris|24,99€|50|2022-11-22 16h|2022-11-29 16h|
-|155|assassins-creed-valhalla--wrath-of-the-druids|Assassin's Creed® Valhalla - Wrath of the Druids|24,99€|50|2022-11-22 16h|2022-11-29 16h|
-|156|assassins-creed-valhalla--complete-edition|Assassin's Creed® Valhalla Complete Edition|139,99€|65|2022-11-22 16h|2022-11-29 16h|
-|157|assassins-creed-valhalla--deluxe-edition|Assassin's Creed® Valhalla Deluxe Edition|79,99€|67|2022-11-22 16h|2022-11-29 16h|
-|158|assassins-creed-valhalla--ragnarok-edition|Assassin's Creed® Valhalla Ragnarök Edition|99,99€|65|2022-11-22 16h|2022-11-29 16h|
-|159|assassins-creed-valhalla|Assassin's Creed® Valhalla Standard Edition|59,99€|67|2022-11-22 16h|2022-11-29 16h|
-|160|assassins-creed-valhalla--dawn-of-ragnarok|Assassin's Creed® Valhalla: Dawn of Ragnarök|39,99€|50|2022-11-22 16h|2022-11-29 16h|
-|161|assassins-creed-odyssey--deluxe-edition|Assassins Creed Odyssey Deluxe Edition|79,99€|75|2022-11-22 16h|2022-11-29 16h|
-|162|assassins-creed-odyssey--gold-edition|Assassins Creed Odyssey Gold Edition|99,99€|75|2022-11-22 16h|2022-11-29 16h|
-|163|assassins-creed-odyssey|Assassins Creed Odyssey Standard Edition|59,99€|75|2022-11-22 16h|2022-11-29 16h|
-|164|assassins-creed-odyssey--ultimate-edition|Assassins Creed Odyssey Ultimate Edition|114,99€|75|2022-11-22 16h|2022-11-29 16h|
-|165|assassins-creed-syndicate--jack-the-ripper|Assassins Creed Syndicate Jack the Ripper|14,99€|66|2022-11-22 16h|2022-11-29 16h|
-|166|assassins-creed-syndicate--season-pass|Assassins Creed Syndicate Season Pass|29,99€|75|2022-11-22 16h|2022-11-29 16h|
-|167|assassins-creed-syndicate--the-dreadful-crimes|Assassins Creed Syndicate The Dreadful Crimes|4,99€|66|2022-11-22 16h|2022-11-29 16h|
-|168|assassins-creed-syndicate--the-last-maharaja|Assassins Creed Syndicate The Last Maharaja|6,99€|66|2022-11-22 16h|2022-11-29 16h|
-|169|assassins-creed-valhalla-watch-dogs-legion-bundle|Assassin’s Creed Valhalla + Watch Dogs: Legion Bundle|109,99€|70|2022-11-22 16h|2022-11-29 16h|
-|170|assassins-creed-valhalla-immortals-fenyx-rising-bundle|Assassin’s Creed® Valhalla + Immortals Fenyx Rising™ Bundle|109,99€|70|2022-11-22 16h|2022-11-29 16h|
-|171|automachef|Automachef|14,99€|75|2022-11-22 16h|2022-11-29 16h|
-|172|faeria--avatars-pack|Avatars Pack|9,99€|75|2022-11-22 16h|2022-11-29 16h|
-|173|aven-colony|Aven Colony|29,99€|75|2022-11-22 16h|2022-11-29 16h|
-|174|avencast-rise-of-the-mage-4668a2|Avencast - Rise Of The Mage|3,99€|80|2022-11-22 16h|2022-11-29 16h|
-|175|axiom-verge|Axiom Verge|17,99€|60|2022-11-22 16h|2022-11-29 16h|
-|176|axiom-verge-2|Axiom Verge 2|17,99€|20|2022-11-22 16h|2022-11-29 16h|
-|177|biomutant|BIOMUTANT|39,99€|50|2022-11-22 16h|2022-11-29 16h|
-|178|biomutant--mercenary-class|BIOMUTANT - Mercenary Class|2,99€|50|2022-11-22 16h|2022-11-29 16h|
-|179|biomutant--soundtrack|BIOMUTANT - Soundtrack|4,99€|50|2022-11-22 16h|2022-11-29 16h|
-|180|back-4-blood--tunnels-of-terror|Back 4 Blood - Expansion 1: Tunnels of Terror|14,99€|60|2022-11-22 16h|2022-11-29 16h|
-|181|back-4-blood--children-of-the-worm|Back 4 Blood - Expansion 2: Children of the Worm|14,99€|40|2022-11-22 16h|2022-11-29 16h|
-|182|back-4-blood--annual-pass|Back 4 Blood Annual Pass|39,99€|55|2022-11-22 16h|2022-11-29 16h|
-|183|back-4-blood--deluxe-edition|Back 4 Blood: Deluxe Edition|89,99€|67|2022-11-22 16h|2022-11-29 16h|
-|184|back-4-blood|Back 4 Blood: Standard Edition|59,99€|67|2022-11-22 16h|2022-11-29 16h|
-|185|back-4-blood--ultimate-edition|Back 4 Blood: Ultimate Edition|99,99€|67|2022-11-22 16h|2022-11-29 16h|
-|186|baldurs-gate-2-enhanced-edition|Baldur's Gate II: Enhanced Edition|15,99€|70|2022-11-22 16h|2022-11-29 16h|
-|187|baldurs-gate-enhanced-edition|Baldur's Gate: Enhanced Edition|15,99€|70|2022-11-22 16h|2022-11-29 16h|
-|188|kingdom-come-deliverance--band-of-bastards|Band of Bastards|5,99€|60|2022-11-22 16h|2022-11-29 16h|
-|189|bassmaster-fishing-2022-deluxe-edition|Bassmaster®  Fishing 2022: Deluxe Edition|29,99€|55|2022-11-22 16h|2022-11-29 16h|
-|190|bassmaster-fishing-2022-bassmaster-fishing-2022-lake-hartwell-476e82|Bassmaster® Fishing 2022: Lake Hartwell|12,99€|40|2022-11-22 16h|2022-11-29 16h|
-|191|bassmaster-fishing-2022-bassmaster-fishing-2022-predator-equipment-pack-e7bf6b|Bassmaster® Fishing 2022: Predator Equipment Pack|6,99€|40|2022-11-22 16h|2022-11-29 16h|
-|192|batman-arkham-asylum|Batman Arkham Asylum Game of the Year Edition|19,99€|75|2022-11-22 16h|2022-11-29 16h|
-|193|batman-arkham-city|Batman Arkham City Game of the Year Edition|19,99€|75|2022-11-22 16h|2022-11-29 16h|
-|194|batman-arkham-knight|Batman Arkham Knight|19,99€|80|2022-11-22 16h|2022-11-29 16h|
-|195|batman-arkham-asylum|Batman™ Arkham Asylum Game of the Year Edition|19,99€|75|2022-11-22 16h|2022-11-29 16h|
-|196|batman-arkham-city|Batman™: Arkham City - Game of the Year Edition|19,99€|75|2022-11-22 16h|2022-11-29 16h|
-|197|batman-arkham-knight|Batman™: Arkham Knight|19,99€|80|2022-11-22 16h|2022-11-29 16h|
-|198|battle-chasers-nightwar|Battle Chasers: Nightwar|29,99€|75|2022-11-22 16h|2022-11-29 16h|
-|199|battle-chasers-nightwar--digital-extras|Battle Chasers: Nightwar Digital Extras|6,99€|75|2022-11-22 16h|2022-11-29 16h|
-|200|battlefield-2042|Battlefield™ 2042|59,99€|67|2022-11-22 16h|2022-11-29 16h|
-|201|battlefield-2042--gold-edition|Battlefield™ 2042 Gold Edition|89,99€|90|2022-11-22 16h|2022-11-29 16h|
-|202|battlefield-2042--ultimate-edition|Battlefield™ 2042 Ultimate Edition|109,99€|55|2022-11-22 16h|2022-11-29 16h|
-|203|beacon-pines-629fc3|Beacon Pines|15,99€|20|2022-11-22 16h|2022-11-29 16h|
-|204|bee-simulator|Bee Simulator|19,99€|70|2022-11-22 16h|2022-11-29 16h|
-|205|idle-champions-of-the-forgotten-realms--beekeeper-spurt-skin-feat-pack|Beekeeper Spurt Skin & Feat Pack|7,99€|40|2022-11-22 16h|2022-11-29 16h|
-|206|before-we-leave|Before We Leave|17,99€|50|2022-11-22 16h|2022-11-29 16h|
-|207|before-your-eyes|Before Your Eyes|8,99€|66|2022-11-22 16h|2022-11-29 16h|
-|208|behind-the-frame-the-finest-scenery|Behind the Frame: The Finest Scenery|10,79€|30|2022-11-22 16h|2022-11-29 16h|
-|209|beyond-good-and-evil|Beyond Good & Evil|4,99€|70|2022-11-22 16h|2022-11-29 16h|
-|210|beyond-two-souls|Beyond Two Souls|19,90€|50|2022-11-22 16h|2022-11-29 16h|
-|211|sherlock-holmes-chapter-one--beyond-a-joke|Beyond a Joke DLC|4,99€|30|2022-11-22 16h|2022-11-29 16h|
-|212|beyond-two-souls|Beyond: Two Souls|19,90€|50|2022-11-22 16h|2022-11-29 16h|
-|213|big-pharma|Big Pharma|19,99€|75|2022-11-22 16h|2022-11-29 16h|
-|214|bioshock-2-remastered|BioShock 2 Remastered|19,99€|75|2022-11-22 16h|2022-11-29 16h|
-|215|bioshock-infinite-complete-edition|BioShock Infinite: Complete Edition|54,97€|80|2022-11-22 16h|2022-11-29 16h|
-|216|bioshock-remastered|BioShock Remastered|19,99€|75|2022-11-22 16h|2022-11-29 16h|
-|217|bioshock-the-collection|BioShock: The Collection|59,99€|80|2022-11-22 16h|2022-11-29 16h|
-|218|bite-the-bullet-22fa1f|Bite the Bullet|11,99€|25|2022-11-22 16h|2022-11-29 16h|
-|219|black-book|Black Book|24,99€|50|2022-11-22 16h|2022-11-29 16h|
-|220|black-skylands|Black Skylands|15,99€|30|2022-11-22 16h|2022-11-29 16h|
-|221|blade-strangers|Blade Strangers|15,99€|50|2022-11-21 16h|2022-11-28 16h|
-|222|blair-witch|Blair Witch|29,99€|75|2022-11-22 16h|2022-11-29 16h|
-|223|blasphemous|Blasphemous|24,99€|75|2022-11-22 16h|2022-11-29 16h|
-|224|blazing-beaks-3d4864|Blazing Beaks|11,99€|70|2022-11-22 16h|2022-11-29 16h|
-|225|blazing-beaks-3d4864|Blazing Beaks|11,99€|75|2022-12-15 15h|2023-01-02 15h|
-|226|rogue-lords--blood-moon-edition|Blood Moon Edition|29,73€|50|2022-11-22 16h|2022-11-29 16h|
-|227|blood-and-zombies-4273b6|Blood and Zombies|14,99€|50|2022-11-22 16h|2022-11-29 16h|
-|228|bloons-td-6-bf95a0|Bloons TD 6|10,99€|70|2022-11-22 16h|2022-11-29 16h|
-|229|blossom-tales-ii-the-minotaur-prince-e74c95|Blossom Tales II The Minotaur Prince|12,49€|20|2022-11-22 16h|2022-11-29 16h|
-|230|blue-fire-9c1dac|Blue Fire|15,99€|60|2022-11-22 16h|2022-11-29 16h|
-|231|bonfire-peaks|Bonfire Peaks|15,99€|35|2022-11-22 16h|2022-11-29 16h|
-|232|boomerang-x|Boomerang X|19,99€|50|2022-11-22 16h|2022-11-29 16h|
-|233|borderlands-3|Borderlands 3|59,99€|85|2022-11-22 16h|2022-11-29 16h|
-|234|borderlands-3--season-pass|Borderlands 3 Season Pass|49,99€|70|2022-11-22 16h|2022-11-29 16h|
-|235|borderlands-3--season-pass-bundle|Borderlands 3 Season Pass Bundle|69,99€|60|2022-11-22 16h|2022-11-29 16h|
-|236|borderlands-3--super-deluxe-edition|Borderlands 3 Super Deluxe Edition|79,99€|67|2022-11-22 16h|2022-11-29 16h|
-|237|borderlands-3--season-pass-02|Borderlands 3: Season Pass 2|29,99€|40|2022-11-22 16h|2022-11-29 16h|
-|238|borderlands-3--ultimate-edition|Borderlands 3: Ultimate Edition|99,99€|67|2022-11-22 16h|2022-11-29 16h|
-|239|borderlands-the-handsome-collection|Borderlands: The Handsome Collection|59,99€|75|2022-11-22 16h|2022-11-29 16h|
-|240|anno-1800--botanica|Botanica - DLC|7,99€|50|2022-11-22 16h|2022-11-29 16h|
-|241|breathedge|Breathedge|24,99€|50|2022-11-22 16h|2022-11-29 16h|
-|242|bridge-constructor-the-walking-dead|Bridge Constructor: The Walking Dead|9,99€|80|2022-11-22 16h|2022-11-29 16h|
-|243|anno-1800--bright-harvest|Bright Harvest - DLC|6,99€|50|2022-11-22 16h|2022-11-29 16h|
-|244|south-park-the-fractured-but-whole--bring-the-crunch|Bring The Crunch - DLC|11,99€|75|2022-11-22 16h|2022-11-29 16h|
-|245|brothers-a-tale-of-two-sons|Brothers - A Tale of Two Sons|14,99€|60|2022-11-22 16h|2022-11-29 16h|
-|246|idle-champions-of-the-forgotten-realms--bruenor-starter-pack|Bruenor's Starter Pack|7,99€|90|2022-11-22 16h|2022-11-29 16h|
-|247|port-royale-4--buccaneers|Buccaneers DLC|3,99€|25|2022-11-22 16h|2022-11-29 16h|
-|248|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|80|2022-12-16 04h|2023-01-01 04h|
-|249|bugsnax|Bugsnax|19,99€|60|2022-11-22 16h|2022-11-29 16h|
-|250|carrion|CARRION|19,99€|50|2022-11-22 16h|2022-11-29 16h|
-|251|crsed-f-o-a-d--age-of-nagual-pack|CRSED: F.O.A.D. - Age of Nagual Pack|16,99€|50|2022-11-22 18h|2022-11-29 18h|
-|252|crsed-f-o-a-d--biker-queen-pack|CRSED: F.O.A.D. - Biker Queen Pack|19,99€|50|2022-11-22 18h|2022-11-29 18h|
-|253|crsed-f-o-a-d--fire-dragon-pack|CRSED: F.O.A.D. - Fire Dragon Pack|19,99€|50|2022-11-22 18h|2022-11-29 18h|
-|254|crsed-f-o-a-d--god-of-thunder-pack|CRSED: F.O.A.D. - God of Thunder Pack|19,99€|50|2022-11-22 18h|2022-11-29 18h|
-|255|crsed-f-o-a-d--holy-maiden-pack|CRSED: F.O.A.D. - Holy Maiden Pack|9,99€|50|2022-11-22 18h|2022-11-29 18h|
-|256|crsed-f-o-a-d--metal-zombie-pack|CRSED: F.O.A.D. - Metal Zombie Pack|19,99€|50|2022-11-22 18h|2022-11-29 18h|
-|257|calico|Calico|9,99€|35|2022-11-22 16h|2022-11-29 16h|
-|258|call-of-the-wild-the-angler|Call of the Wild: The Angler™|29,99€|20|2022-11-22 16h|2022-11-29 16h|
-|259|card-shark-8f95f0|Card Shark|19,99€|25|2022-11-22 16h|2022-11-29 16h|
-|260|faeria--cardbacks-pack|Cardbacks Pack|9,99€|75|2022-11-22 16h|2022-11-29 16h|
-|261|cardpocalypse|Cardpocalypse|23,99€|75|2022-11-22 16h|2022-11-29 16h|
-|262|cardpocalypse--soundtrack|Cardpocalypse Soundtrack|7,99€|75|2022-11-22 16h|2022-11-29 16h|
-|263|cardpocalypse|Cardpocalypse Standard Edition|23,99€|75|2022-11-22 16h|2022-11-29 16h|
-|264|cardpocalypse--time-warp-edition|Cardpocalypse: Time Warp Edition|31,99€|75|2022-11-22 16h|2022-11-29 16h|
-|265|pc-building-simulator--career-power-pack|Career Power Pack|19,99€|60|2022-11-22 16h|2022-11-29 16h|
-|266|tropico-6--caribbean-skies|Caribbean Skies|14,99€|40|2022-11-22 16h|2022-11-29 16h|
-|267|carnival-games|Carnival Games|39,99€|80|2022-11-22 16h|2022-11-29 16h|
-|268|carto|Carto|19,99€|50|2022-11-22 16h|2022-11-29 16h|
-|269|warhammer-40000-chaos-gate-daemonhunters--castellan-upgrade-pack|Castellan Champion Upgrade Pack|14,99€|33|2022-11-22 16h|2022-11-29 16h|
-|270|castlestorm2|CastleStorm 2|15,99€|70|2022-11-22 16h|2022-11-29 16h|
-|271|cat-cafe-manager-68bd0d|Cat Cafe Manager|19,99€|25|2022-11-22 16h|2022-11-29 16h|
-|272|cave-story-plus|Cave Story+|11,99€|75|2022-11-21 16h|2022-11-28 16h|
-|273|celeste|Celeste|15,99€|75|2022-11-22 16h|2022-11-29 16h|
-|274|chains-8ac580|Chains|1,59€|50|2022-11-22 16h|2022-11-29 16h|
-|275|chains-8ac580|Chains|1,59€|45|2022-11-28 05h|2022-12-05 05h|
-|276|idle-champions-of-the-forgotten-realms--champions-of-renown-y1-pack|Champions of Renown: Year 1 All-Star Pack|43,99€|50|2022-11-22 16h|2022-11-29 16h|
-|277|chernobylite|Chernobylite|29,99€|40|2022-11-22 16h|2022-11-29 16h|
-|278|chernobylite--autumn-dread-pack|Chernobylite Autumn Dread Pack|3,29€|40|2022-11-22 16h|2022-11-29 16h|
-|279|chernobylite--blue-flames|Chernobylite Blue Flames|3,29€|40|2022-11-22 16h|2022-11-29 16h|
-|280|chernobylite--deadly-frost-pack|Chernobylite Deadly Frost Pack|3,29€|40|2022-11-22 16h|2022-11-29 16h|
-|281|chernobylite--red-trees-pack|Chernobylite Red Trees Pack|3,29€|40|2022-11-22 16h|2022-11-29 16h|
-|282|chernobylite--chernobylite-soundtrack|Chernobylite Soundtrack|3,99€|40|2022-11-22 16h|2022-11-29 16h|
-|283|chernobylite--the-art-of-chernobylite|Chernobylite The Art of Chernobylite|4,99€|40|2022-11-22 16h|2022-11-29 16h|
-|284|chernobylite--white-rose-pack|Chernobylite White Rose Pack|3,29€|40|2022-11-22 16h|2022-11-29 16h|
-|285|chernobylite--zone-bard-pack|Chernobylite Zone Bard Pack|3,29€|40|2022-11-22 16h|2022-11-29 16h|
-|286|chicken-assassin-reloaded-279863|Chicken Assassin Reloaded|3,99€|69|2022-11-22 16h|2022-11-29 16h|
-|287|chicken-police-paint-it-red|Chicken Police - Paint it Red!|19,99€|40|2022-11-22 16h|2022-11-29 16h|
-|288|while-true-learn--chief-technology-officer-edition|Chief Technology Officer Edition|23,99€|27|2022-11-22 16h|2022-11-29 16h|
-|289|child-of-light|Child of Light: Ultimate Edition|19,99€|70|2022-11-22 16h|2022-11-29 16h|
-|290|chivalry-2|Chivalry 2|35,99€|50|2022-11-22 16h|2022-11-29 16h|
-|291|chivalry-2--kings-edition|Chivalry 2 King's Edition|47,99€|50|2022-11-22 16h|2022-11-29 16h|
-|292|chivalry-2--kings-edition-content|Chivalry 2 King's Edition Content|7,99€|50|2022-11-22 16h|2022-11-29 16h|
-|293|chivalry-2--special-edition|Chivalry 2 Special Edition|43,99€|50|2022-11-22 16h|2022-11-29 16h|
-|294|chivalry-2--special-edition-content|Chivalry 2 Special Edition Content|7,99€|50|2022-11-22 16h|2022-11-29 16h|
-|295|chorus|Chorus|39,99€|50|2022-11-22 16h|2022-11-29 16h|
-|296|chorus--the-elder-armor-skin-set|Chorus - The Elder Armor Skin Set|3,99€|50|2022-11-22 16h|2022-11-29 16h|
-|297|faeria--chronicles-of-gagana|Chronicles of Gagana DLC|9,99€|75|2022-11-22 16h|2022-11-29 16h|
-|298|chronos-before-the-ashes|Chronos: Before the Ashes|29,99€|75|2022-11-22 16h|2022-11-29 16h|
-|299|chronos-before-the-ashes--soundtrack|Chronos: Before the Ashes Soundtrack|2,99€|75|2022-11-22 16h|2022-11-29 16h|
-|300|circus-electrique|Circus Electrique|19,99€|30|2022-11-22 16h|2022-11-29 16h|
-|301|citizen-sleeper-944858|Citizen Sleeper|15,99€|25|2022-11-22 16h|2022-11-29 16h|
-|302|predator-hunting-grounds--city-hunter-predator-pack|City Hunter Predator Pack|4,99€|75|2022-11-22 16h|2022-11-29 16h|
-|303|city-of-gangsters-6c2974|City of Gangsters|29,99€|50|2022-11-22 16h|2022-11-29 16h|
-|304|sid-meiers-civilization-vi--civilization-and-scenario-pack-bundle|Civilization VI : Civilization & Scenario Pack|29,99€|83|2022-11-22 16h|2022-11-29 16h|
-|305|sid-meiers-civilization-vi--gathering-storm|Civilization VI : Gathering Storm|39,99€|88|2022-11-22 16h|2022-11-29 16h|
-|306|sid-meiers-civilization-vi--new-frontier-pass|Civilization VI : New Frontier Pack|39,99€|63|2022-11-22 16h|2022-11-29 16h|
-|307|sid-meiers-civilization-vi--rise-and-fall|Civilization VI : Rise and Fall|29,99€|83|2022-11-22 16h|2022-11-29 16h|
-|308|claire-de-lune|Claire de Lune|31,99€|60|2022-11-22 16h|2022-11-29 16h|
-|309|dungeons-3--clash-of-gods|Clash of Gods|9,99€|50|2022-11-22 16h|2022-11-29 16h|
-|310|predator-hunting-grounds--cleopatra-predator-pack|Cleopatra Predator Pack|4,99€|75|2022-11-22 16h|2022-11-29 16h|
-|311|clid-the-snail|Clid The Snail|19,99€|67|2022-11-22 16h|2022-11-29 16h|
-|312|close-to-the-sun|Close To The Sun|19,99€|70|2022-11-22 16h|2022-11-29 16h|
-|313|close-to-the-sun|Close to the Sun|19,99€|70|2022-11-22 16h|2022-11-29 16h|
-|314|clouzy-c67f4b|Clouzy|11,99€|35|2022-11-22 16h|2022-11-29 16h|
-|315|cobra-kai-the-karate-kid-saga-continues-6ee85d|Cobra Kai - The Karate Kid Saga Continues|15,99€|75|2022-11-22 16h|2022-11-29 16h|
-|316|colt-canyon|Colt Canyon|14,99€|70|2022-11-22 16h|2022-11-29 16h|
-|317|comanche|Comanche|19,99€|67|2022-11-22 16h|2022-11-29 16h|
-|318|borderlands-2--commander-lilith|Commander Lilith DLC|14,99€|67|2022-11-22 16h|2022-11-29 16h|
-|319|commandos-3-ba41db|Commandos 3 - HD Remaster|19,99€|10|2022-11-22 16h|2022-11-29 16h|
-|320|company-of-crime-a5af43|Company of Crime|19,99€|75|2022-11-22 16h|2022-11-29 16h|
-|321|company-of-crime-company-of-crime-soundtrack-62ef8c|Company of Crime: Official Soundtrack|3,99€|75|2022-11-22 16h|2022-11-29 16h|
-|322|banedlc028-10|Complete Force Grey Pack|35,99€|38|2022-11-22 16h|2022-11-29 16h|
-|323|conan-exiles|Conan Exiles|39,99€|70|2022-11-22 16h|2022-11-29 16h|
-|324|conan-exiles--architects-of-argos-pack|Conan Exiles - Architects of Argos Pack|9,99€|25|2022-11-22 16h|2022-11-29 16h|
-|325|conan-exiles--blood-and-sand-pack|Conan Exiles - Blood and Sand Pack|9,99€|25|2022-11-22 16h|2022-11-29 16h|
-|326|conan-exiles--complete-edition-october-2021|Conan Exiles - Complete Edition|150,18€|36|2022-11-22 16h|2022-11-29 16h|
-|327|conan-exiles--debaucheries-of-derketo-pack|Conan Exiles - Debaucheries of Derketo Pack|9,99€|25|2022-11-22 16h|2022-11-29 16h|
-|328|conan-exiles--isle-of-siptah-edition|Conan Exiles - Isle of Siptah Edition|53,98€|55|2022-11-22 16h|2022-11-29 16h|
-|329|conan-exiles--jewel-of-the-west-pack|Conan Exiles - Jewel of the West Pack|9,99€|25|2022-11-22 16h|2022-11-29 16h|
-|330|conan-exiles--people-of-the-dragon-pack|Conan Exiles - People of the Dragon Pack|9,99€|25|2022-11-22 16h|2022-11-29 16h|
-|331|conan-exiles--riders-of-hyboria-pack|Conan Exiles - Riders of Hyboria Pack|9,99€|25|2022-11-22 16h|2022-11-29 16h|
-|332|conan-exiles--seekers-of-the-dawn-pack|Conan Exiles - Seekers of the Dawn Pack|9,99€|25|2022-11-22 16h|2022-11-29 16h|
-|333|conan-exiles--the-imperial-east-pack|Conan Exiles - The Imperial East Pack|9,99€|25|2022-11-22 16h|2022-11-29 16h|
-|334|conan-exiles--riddle-of-steel|Conan Exiles - The Riddle of Steel|6,99€|25|2022-11-22 16h|2022-11-29 16h|
-|335|conan-exiles--the-savage-frontier-pack|Conan Exiles - The Savage Frontier Pack|9,99€|25|2022-11-22 16h|2022-11-29 16h|
-|336|conan-exiles--treasures-of-turan-pack|Conan Exiles - Treasures of Turan Pack|9,99€|25|2022-11-22 16h|2022-11-29 16h|
-|337|conan-exiles--year-1-dlc-bundle|Conan Exiles - Year 1 DLC Bundle|29,99€|25|2022-11-22 16h|2022-11-29 16h|
-|338|conan-exiles--year-2-dlc-bundle|Conan Exiles - Year 2 DLC Bundle|29,99€|25|2022-11-22 16h|2022-11-29 16h|
-|339|conan-exiles--isle-of-siptah|Conan Exiles: Isle of Siptah|19,99€|25|2022-11-22 16h|2022-11-29 16h|
-|340|conglomerate-451-6570f5|Conglomerate 451|19,99€|85|2022-11-22 16h|2022-11-29 16h|
-|341|control|Control|31,99€|75|2022-11-22 16h|2022-11-29 16h|
-|342|control--season-pass|Control Season Pass|14,49€|60|2022-11-22 16h|2022-11-29 16h|
-|343|control--ultimate-edition|Control Ultimate Edition|39,99€|75|2022-11-22 16h|2022-11-29 16h|
-|344|coromon-d4ef84|Coromon|15,99€|25|2022-11-22 16h|2022-11-29 16h|
-|345|cosmic-express|Cosmic Express|7,99€|70|2022-11-22 16h|2022-11-29 16h|
-|346|idle-champions-of-the-forgotten-realms--cranium-rat-avren-skin-feat-pack|Cranium Rat Avren Skin & Feat Pack|7,99€|30|2022-11-22 16h|2022-11-29 16h|
-|347|critadel|Critadel|15,99€|30|2022-11-21 16h|2022-11-28 16h|
-|348|crowns-and-pawns-kingdom-of-deceit-51b045|Crowns and Pawns: Kingdom of Deceit|19,99€|25|2022-11-22 16h|2022-11-29 16h|
-|349|crying-suns|Crying Suns|21,99€|65|2022-11-22 16h|2022-11-29 16h|
-|350|crysis-remastered|Crysis Remastered|29,99€|65|2022-11-22 16h|2022-11-29 16h|
-|351|crysis-remastered-trilogy|Crysis Remastered Trilogy|49,99€|40|2022-11-22 16h|2022-11-29 16h|
-|352|crystal-crisis|Crystal Crisis|15,99€|50|2022-11-21 16h|2022-11-28 16h|
-|353|curious-expedition-2-8cb901|Curious Expedition 2|19,99€|45|2022-11-22 16h|2022-11-29 16h|
-|354|curious-expedition-2-highlands-of-avalon-005353|Curious Expedition 2: Highlands of Avalon|5,99€|20|2022-11-22 16h|2022-11-29 16h|
-|355|curious-expedition-2-curious-expedition-2-robots-of-lux-bb74ee|Curious Expedition 2: Robots of Lux|5,99€|10|2022-11-22 16h|2022-11-29 16h|
-|356|curious-expedition-2-curious-expedition-2-shores-of-taishi-b23f99|Curious Expedition 2: Shores of Taishi|5,99€|15|2022-11-22 16h|2022-11-29 16h|
-|357|cursed-to-golf-a6bc22|Cursed to Golf|19,99€|25|2022-11-22 16h|2022-11-29 16h|
-|358|cyanide-happiness-freakpocalypse|Cyanide & Happiness - Freakpocalypse (Episode 1)|15,99€|50|2022-11-22 16h|2022-11-29 16h|
-|359|cyberpunk-2077|Cyberpunk 2077|59,99€|50|2022-11-22 16h|2022-11-29 16h|
-|360|death-stranding-directors-cut|DEATH STRANDING DIRECTOR'S CUT|39,99€|40|2022-11-22 16h|2022-11-29 16h|
-|361|death-stranding-directors-cut--upgrade|DEATH STRANDING DIRECTOR'S CUT Upgrade|9,99€|40|2022-11-22 16h|2022-11-29 16h|
-|362|deathloop|DEATHLOOP|59,99€|67|2022-11-22 16h|2022-11-29 16h|
-|363|deathloop--deluxe-edition|DEATHLOOP Deluxe Edition|79,99€|67|2022-11-22 16h|2022-11-29 16h|
-|364|deathloop--deluxe-pack|DEATHLOOP Deluxe Pack|19,99€|25|2022-11-22 16h|2022-11-29 16h|
-|365|deathrun-tv-db074f|DEATHRUN TV|11,99€|50|2022-11-22 16h|2022-11-29 16h|
-|366|disc-room|DISC ROOM|14,99€|50|2022-11-22 16h|2022-11-29 16h|
-|367|doom-1993|DOOM (1993)|4,99€|60|2022-11-22 16h|2022-11-29 16h|
-|368|doom-3|DOOM 3|9,99€|60|2022-11-22 16h|2022-11-29 16h|
-|369|doom-64|DOOM 64|4,99€|67|2022-11-22 16h|2022-11-29 16h|
-|370|doom-ii|DOOM II|4,99€|60|2022-11-22 16h|2022-11-29 16h|
-|371|daily-deal-token|Daily Deal Ticket|7,99€|25|2022-11-22 16h|2022-11-29 16h|
-|372|south-park-the-fractured-but-whole--danger-deck|Danger Deck - DLC|5,99€|75|2022-11-22 16h|2022-11-29 16h|
-|373|danger-forever-a10e7e|Danger Forever|11,99€|20|2022-11-22 16h|2022-11-29 16h|
-|374|predator-hunting-grounds--dante-beast-mode-jefferson-pack|Dante “Beast Mode” Jefferson Pack|6,99€|75|2022-11-22 16h|2022-11-29 16h|
-|375|dark-deity-0b08d1|Dark Deity|21,99€|40|2022-11-22 16h|2022-11-29 16h|
-|376|dark-matter-13654b|Dark Matter|1,59€|50|2022-11-22 16h|2022-11-29 16h|
-|377|darkest-dungeon-2|Darkest Dungeon II|23,99€|10|2022-11-22 16h|2022-11-29 16h|
-|378|darksiders-genesis|Darksiders Genesis|29,99€|75|2022-11-22 16h|2022-11-29 16h|
-|379|darksiders-genesis--digital-extras|Darksiders Genesis Digital Extras|7,99€|75|2022-11-22 16h|2022-11-29 16h|
-|380|darksiders2|Darksiders II Deathinitive Edition|29,99€|75|2022-11-22 16h|2022-11-29 16h|
-|381|darksiders3|Darksiders III|39,99€|75|2022-11-22 16h|2022-11-29 16h|
-|382|darksiders3--dlc-2|Darksiders III DLC - Keepers of the Void|12,99€|75|2022-11-22 16h|2022-11-29 16h|
-|383|darksiders3--dlc|Darksiders III DLC - The Crucible|6,99€|75|2022-11-22 16h|2022-11-29 16h|
-|384|darksiders|Darksiders Warmastered Edition|19,99€|75|2022-11-22 16h|2022-11-29 16h|
-|385|while-true-learn--data-scientist-edition|Data Scientist Edition|13,99€|27|2022-11-22 16h|2022-11-29 16h|
-|386|days-gone|Days Gone|49,99€|60|2022-11-22 16h|2022-11-29 16h|
-|387|dead-age-f46c67|Dead Age|14,99€|85|2022-11-22 16h|2022-11-29 16h|
-|388|dead-age-2|Dead Age 2|17,99€|77|2022-11-22 16h|2022-11-29 16h|
-|389|dead-by-daylight--silent-hill-chapter|Dead By Daylight - Silent Hill Chapter|6,99€|50|2022-11-22 16h|2022-11-29 16h|
-|390|far-cry-5--dead-living-zombies-dlc|Dead Living Zombies DLC|7,99€|70|2022-11-22 16h|2022-11-29 16h|
-|391|dead-by-daylight|Dead by Daylight|19,99€|60|2022-11-22 16h|2022-11-29 16h|
-|392|dead-by-daylight--a-binding-of-kin-chapter|Dead by Daylight - A Binding of Kin Chapter|6,99€|50|2022-11-22 16h|2022-11-29 16h|
-|393|dead-by-daylight--a-nightmare-on-elm-street|Dead by Daylight - A Nightmare on Elm Street™|6,99€|50|2022-11-22 16h|2022-11-29 16h|
-|394|dead-by-daylight--all--kill-chapter|Dead by Daylight - All-Kill Chapter|6,99€|50|2022-11-22 16h|2022-11-29 16h|
-|395|dead-by-daylight--ash-vs-evil-dead|Dead by Daylight - Ash vs Evil Dead|4,99€|50|2022-11-22 16h|2022-11-29 16h|
-|396|dead-by-daylight--chains-of-hate-chapter|Dead by Daylight - Chains of Hate Chapter|6,99€|50|2022-11-22 16h|2022-11-29 16h|
-|397|dead-by-daylight--cursed-legacy-chapter|Dead by Daylight - Cursed Legacy Chapter|6,99€|50|2022-11-22 16h|2022-11-29 16h|
-|398|dead-by-daylight--curtain-call-chapter|Dead by Daylight - Curtain Call Chapter|6,99€|50|2022-11-22 16h|2022-11-29 16h|
-|399|dead-by-daylight--darkness-among-us-chapter|Dead by Daylight - Darkness Among Us Chapter|6,99€|50|2022-11-22 16h|2022-11-29 16h|
-|400|dead-by-daylight--demise-of-the-faithful-chapter|Dead by Daylight - Demise of the Faithful Chapter|6,99€|50|2022-11-22 16h|2022-11-29 16h|
-|401|dead-by-daylight--descend-beyond-chapter|Dead by Daylight - Descend Beyond Chapter|6,99€|50|2022-11-22 16h|2022-11-29 16h|
-|402|dead-by-daylight--ghost-face|Dead by Daylight - Ghost Face®|4,99€|50|2022-11-22 16h|2022-11-29 16h|
-|403|dead-by-daylight--headcase|Dead by Daylight - Headcase|2,99€|50|2022-11-22 16h|2022-11-29 16h|
-|404|dead-by-daylight--hellraiser-chapter|Dead by Daylight - Hellraiser Chapter|4,99€|40|2022-11-22 16h|2022-11-29 16h|
-|405|dead-by-daylight--hour-of-the-witch-chapter|Dead by Daylight - Hour of the Witch Chapter|4,99€|50|2022-11-22 16h|2022-11-29 16h|
-|406|dead-by-daylight--killer-expansion-pack|Dead by Daylight - Killer Expansion Pack|29,99€|40|2022-11-22 16h|2022-11-29 16h|
-|407|dead-by-daylight--leatherface|Dead by Daylight - Leatherface™|4,99€|50|2022-11-22 16h|2022-11-29 16h|
-|408|dead-by-daylight--of-flesh-and-mud-chapter|Dead by Daylight - Of Flesh and Mud Chapter|6,99€|50|2022-11-22 16h|2022-11-29 16h|
-|409|dead-by-daylight--portrait-of-a-murder|Dead by Daylight - Portrait of a Murder|6,99€|50|2022-11-22 16h|2022-11-29 16h|
-|410|dead-by-daylight--resident-evil-chapter|Dead by Daylight - Resident Evil Chapter|11,99€|50|2022-11-22 16h|2022-11-29 16h|
-|411|dead-by-daylight--roots-of-dread|Dead by Daylight - Roots of Dread|6,99€|30|2022-11-22 16h|2022-11-29 16h|
-|412|dead-by-daylight--sadako-rising|Dead by Daylight - Sadako Rising|6,99€|20|2022-11-22 16h|2022-11-29 16h|
-|413|dead-by-daylight--shattered-bloodline-chapter|Dead by Daylight - Shattered Bloodline Chapter|6,99€|50|2022-11-22 16h|2022-11-29 16h|
-|414|dead-by-daylight--silent-hill-edition|Dead by Daylight - Silent Hill Edition|49,99€|40|2022-11-22 16h|2022-11-29 16h|
-|415|dead-by-daylight--spark-of-madness-chapter|Dead by Daylight - Spark of Madness Chapter|6,99€|50|2022-11-22 16h|2022-11-29 16h|
-|416|dead-by-daylight--survivor-expansion-pack|Dead by Daylight - Survivor Expansion Pack|29,99€|40|2022-11-22 16h|2022-11-29 16h|
-|417|dead-by-daylight--the-80s-suitcase|Dead by Daylight - The 80's Suitcase|2,99€|50|2022-11-22 16h|2022-11-29 16h|
-|418|dead-by-daylight--the-bloodstained-sack|Dead by Daylight - The Bloodstained Sack|2,99€|50|2022-11-22 16h|2022-11-29 16h|
-|419|dead-by-daylight--the-halloween-chapter|Dead by Daylight - The Halloween® Chapter|6,99€|50|2022-11-22 16h|2022-11-29 16h|
-|420|dead-by-daylight--the-saw-chapter|Dead by Daylight - The SAW® Chapter|6,99€|50|2022-11-22 16h|2022-11-29 16h|
-|421|dead-by-daylight--ultimate-edition|Dead by Daylight: Ultimate Edition|69,99€|40|2022-11-22 16h|2022-11-29 16h|
-|422|death-trash|Death Trash|19,99€|20|2022-11-22 16h|2022-11-29 16h|
-|423|deaths-door|Death's Door|19,99€|50|2022-11-22 16h|2022-11-29 16h|
-|424|while-true-learn--deep-edition|Deep Edition|15,99€|27|2022-11-22 16h|2022-11-29 16h|
-|425|fortnite--deep-freeze-bundle|Deep Freeze Bundle|11,99€|30|2022-12-21 00h|2023-01-10 00h|
-|426|deep-sky-derelicts|Deep Sky Derelicts|19,99€|85|2022-11-22 16h|2022-11-29 16h|
-|427|deep-sky-derelicts--new-prospects|Deep Sky Derelicts - New Prospects|6,99€|85|2022-11-22 16h|2022-11-29 16h|
-|428|deep-sky-derelicts--station-life|Deep Sky Derelicts - Station Life|6,99€|85|2022-11-22 16h|2022-11-29 16h|
-|429|deep-sky-derelicts--definitive-edition|Deep Sky Derelicts: Definitive Edition|24,80€|85|2022-11-22 16h|2022-11-29 16h|
-|430|deepest-chamber-f7085f|Deepest Chamber|12,99€|25|2022-11-22 16h|2022-11-29 16h|
-|431|deflector-fedbe0|Deflector|11,99€|15|2022-11-22 16h|2022-11-29 16h|
-|432|deliver-us-the-moon|Deliver Us The Moon|24,99€|65|2022-11-22 16h|2022-11-29 16h|
-|433|deliver-us-the-moon--official-soundtrack|Deliver Us The Moon - Official Soundtrack|7,99€|65|2022-11-22 16h|2022-11-29 16h|
-|434|deliver-us-the-moon--deluxe-edition|Deliver Us The Moon: Digital Deluxe|29,99€|65|2022-11-22 16h|2022-11-29 16h|
-|435|kingdom-come-deliverance--deliverance-making-of|Deliverance: The Making of Kingdom Come|3,99€|80|2022-11-22 16h|2022-11-29 16h|
-|436|riders-republic--deluxe-edition|Deluxe Edition|79,99€|67|2022-11-22 16h|2022-11-29 16h|
-|437|scarlet-hood-and-the-wicked-wood--deluxe-edition|Deluxe Edition|19,52€|55|2022-11-22 16h|2022-11-29 16h|
-|438|deluxe-edition|Deluxe Edition|15,99€|50|2022-11-22 16h|2022-11-29 16h|
-|439|democracy-4|Democracy 4|21,99€|55|2022-11-22 16h|2022-11-29 16h|
-|440|demon-turf|Demon Turf|21,99€|35|2022-11-22 16h|2022-11-29 16h|
-|441|desert-child-be4072|Desert Child|9,99€|70|2022-11-22 16h|2022-11-29 16h|
-|442|desperados-3|Desperados III|29,99€|50|2022-11-22 16h|2022-11-29 16h|
-|443|desperados-3--soundtrack|Desperados III - OST|9,99€|50|2022-11-22 16h|2022-11-29 16h|
-|444|desperados-3--season-pass|Desperados III - Season Pass|12,99€|50|2022-11-22 16h|2022-11-29 16h|
-|445|destiny-2--beyond-light|Destiny 2: Beyond Light|29,99€|60|2022-11-22 16h|2022-11-29 16h|
-|446|destiny-2--bungie-30th-anniversary-pack|Destiny 2: Bungie 30th Anniversary Pack|24,99€|40|2022-11-22 16h|2022-11-29 16h|
-|447|destiny-2--forsaken|Destiny 2: Forsaken Pack|19,99€|67|2022-11-22 16h|2022-11-29 16h|
-|448|destiny-2--legacy-collection|Destiny 2: Legacy Collection|59,99€|67|2022-11-22 16h|2022-11-29 16h|
-|449|destiny-2--shadowkeep|Destiny 2: Shadowkeep|24,99€|67|2022-11-22 16h|2022-11-29 16h|
-|450|destiny-2--the-witch-queen|Destiny 2: The Witch Queen|39,99€|50|2022-11-22 16h|2022-11-29 16h|
-|451|destiny-2--the-witch-queen-deluxe-edition|Destiny 2: The Witch Queen Deluxe Edition|79,99€|50|2022-11-22 16h|2022-11-29 16h|
-|452|destroy-all-humans|Destroy All Humans!|29,99€|75|2022-11-22 16h|2022-11-29 16h|
-|453|destroy-all-humans--destroy-all-humans-skin-pack|Destroy All Humans! - Skin Pack|9,99€|75|2022-11-22 16h|2022-11-29 16h|
-|454|destroy-all-humans-2-reprobed--challenge-accepted-dlc|Destroy All Humans! 2 - Reprobed: Challenge Accepted DLC|9,99€|25|2022-11-22 16h|2022-11-29 16h|
-|455|destroy-all-humans-2-reprobed--dressed-to-skill-edition|Destroy All Humans! 2 - Reprobed: Dressed to Skill|54,99€|25|2022-11-22 16h|2022-11-29 16h|
-|456|destroy-all-humans-2-reprobed--official-orchestral-score|Destroy All Humans! 2 - Reprobed: Official Orchestral Score|4,99€|25|2022-11-22 16h|2022-11-29 16h|
-|457|destroy-all-humans-2-reprobed--skin-pack|Destroy All Humans! 2 - Reprobed: Skin Pack|9,99€|25|2022-11-22 16h|2022-11-29 16h|
-|458|detroit-become-human|Detroit: Become Human|39,90€|50|2022-11-22 16h|2022-11-29 16h|
-|459|dice-legacy|Dice Legacy|19,99€|70|2022-11-22 16h|2022-11-29 16h|
-|460|dice-legacy--deluxe-edition|Dice Legacy Deluxe Edition|22,99€|66|2022-11-22 16h|2022-11-29 16h|
-|461|dice-legacy--soundtrack|Dice Legacy Soundtrack|5,99€|40|2022-11-22 16h|2022-11-29 16h|
-|462|dice-legacy--corrupted-fates|Dice Legacy: Corrupted Fates|7,99€|50|2022-11-22 16h|2022-11-29 16h|
-|463|vampire-the-masquerade-swansong--artbook|Digital Artbook - Boston By Night|3,99€|15|2022-11-22 16h|2022-11-29 16h|
-|464|vampire-the-masquerade-swansong--soundtrack|Digital Soundtrack|7,99€|15|2022-11-22 16h|2022-11-29 16h|
-|465|diplomacy-is-not-an-option-9c6bea|Diplomacy is Not an Option|20,99€|20|2022-11-22 16h|2022-11-29 16h|
-|466|disaster-report-4-summer-memories|Disaster Report 4: Soundtrack|3,99€|60|2022-11-22 16h|2022-11-29 16h|
-|467|disaster-report-4-summer-memories|Disaster Report 4: Summer Memories|47,99€|60|2022-11-22 16h|2022-11-29 16h|
-|468|disciples-liberation|Disciples: Liberation|39,99€|50|2022-11-22 16h|2022-11-29 16h|
-|469|disciples-liberation--paths-to-madness|Disciples: Liberation - Paths to Madness|14,99€|50|2022-11-22 16h|2022-11-29 16h|
-|470|disciples-liberation--digital-deluxe-edition|Disciples: Liberation Deluxe Edition|49,99€|50|2022-11-22 16h|2022-11-29 16h|
-|471|idle-champions-of-the-forgotten-realms--disco-the-baby-moonstone-dragon-familiar-pack|Disco the Baby Moonstone Dragon Familiar Pack|7,99€|50|2022-11-22 16h|2022-11-29 16h|
-|472|discovery-tour-viking-age|Discovery Tour: Viking Age|19,99€|60|2022-11-22 16h|2022-11-29 16h|
-|473|disgaea-6-complete|Disgaea 6 Complete|69,99€|30|2022-11-22 16h|2022-11-29 16h|
-|474|disgaea-6-complete--digital-art-book|Disgaea 6 Complete - Digital Art Book|5,99€|30|2022-11-22 16h|2022-11-29 16h|
-|475|disgaea-6-complete--digital-dood-edition|Disgaea 6 Complete Digital Dood Edition|72,18€|30|2022-11-22 16h|2022-11-29 16h|
-|476|dishonored-2|Dishonored 2|29,99€|80|2022-11-22 16h|2022-11-29 16h|
-|477|disney-dreamlight-valley|Disney Dreamlight Valley|29,99€|20|2022-11-22 16h|2022-11-29 16h|
-|478|disney-dreamlight-valley--ultimate-edition|Disney Dreamlight Valley — Ultimate Edition|69,99€|25|2022-11-22 16h|2022-11-29 16h|
-|479|doki-doki-literature-club-plus|Doki Doki Literature Club Plus!|12,49€|20|2022-11-22 16h|2022-11-29 16h|
-|480|donut-county|Donut County|11,49€|70|2022-11-22 16h|2022-11-29 16h|
-|481|doodle-devil-8e65af|Doodle Devil|7,99€|20|2022-11-22 16h|2022-11-29 16h|
-|482|doodle-god-f6a7b6|Doodle God|11,99€|20|2022-11-22 16h|2022-11-29 16h|
-|483|double-cross-08a736|Double Cross|15,99€|75|2022-11-22 16h|2022-11-29 16h|
-|484|drawful-2|Drawful 2|9,99€|55|2022-11-22 16h|2022-11-29 16h|
-|485|dread-nautical|Dread Nautical|15,99€|75|2022-11-22 16h|2022-11-29 16h|
-|486|dread-templar-d8e8fa|Dread Templar|19,99€|20|2022-11-22 16h|2022-11-29 16h|
-|487|dreamscaper|Dreamscaper|19,99€|50|2022-11-22 16h|2022-11-29 16h|
-|488|druidstone-0697f7|Druidstone: The Secret of the Menhir Forest|19,99€|75|2022-11-22 16h|2022-11-29 16h|
-|489|dumpy-and-bumpy-86c9d7|Dumpy and Bumpy|3,99€|60|2022-11-22 16h|2022-11-29 16h|
-|490|dungeons-3|Dungeons 3|29,99€|75|2022-11-22 16h|2022-11-29 16h|
-|491|dungeons-3--dlc-bundle|Dungeons 3 - DLC Bundle|19,99€|50|2022-11-22 16h|2022-11-29 16h|
-|492|predator-hunting-grounds--dutch-87-dlc-pack|Dutch '87 DLC Pack|6,99€|75|2022-11-22 16h|2022-11-29 16h|
-|493|predator-hunting-grounds--dutch-2025-dlc-pack|Dutch 2025 DLC Pack|6,99€|75|2022-11-22 16h|2022-11-29 16h|
-|494|dying-light--5th-anniversary-bundle|Dying Light - 5th Anniversary Bundle|2,99€|50|2022-11-22 16h|2022-11-29 16h|
-|495|dying-light--astronaut-bundle|Dying Light - Astronaut Bundle|2,99€|50|2022-11-22 16h|2022-11-29 16h|
-|496|dying-light--classified-operation-bundle|Dying Light - Classified Operation Bundle|2,99€|50|2022-11-22 16h|2022-11-29 16h|
-|497|dying-light--godfather-bundle|Dying Light - Godfather Bundle|2,99€|50|2022-11-22 16h|2022-11-29 16h|
-|498|dying-light--gun-psycho-bundle|Dying Light - Gun Psycho Bundle|2,99€|50|2022-11-22 16h|2022-11-29 16h|
-|499|dying-light--harran-inmate-bundle|Dying Light - Harran Inmate Bundle|2,99€|50|2022-11-22 16h|2022-11-29 16h|
-|500|dying-light--harran-ranger-bundle|Dying Light - Harran Ranger Bundle|2,99€|50|2022-11-22 16h|2022-11-29 16h|
-|501|dying-light--harran-tactical-unit-bundle|Dying Light - Harran Tactical Unit Bundle|2,99€|50|2022-11-22 16h|2022-11-29 16h|
-|502|dying-light--hellraid|Dying Light - Hellraid|9,99€|66|2022-11-22 16h|2022-11-29 16h|
-|503|dying-light--rais-elite-bundle|Dying Light - Rais Elite Bundle|2,99€|50|2022-11-22 16h|2022-11-29 16h|
-|504|dying-light--retrowave-bundle|Dying Light - Retrowave Bundle|2,99€|50|2022-11-22 16h|2022-11-29 16h|
-|505|dying-light--savvy-gamer-bundle|Dying Light - Savvy Gamer Bundle|2,99€|50|2022-11-22 16h|2022-11-29 16h|
-|506|dying-light--shu-warrior-bundle|Dying Light - Shu Warrior Bundle|2,99€|50|2022-11-22 16h|2022-11-29 16h|
-|507|dying-light--snow-ops-bundle|Dying Light - Snow Ops Bundle|1,99€|50|2022-11-22 16h|2022-11-29 16h|
-|508|dying-light--van-crane-bundle|Dying Light - Van Crane Bundle|2,99€|50|2022-11-22 16h|2022-11-29 16h|
-|509|dying-light--viking-raiders-of-harran-bundle|Dying Light - Viking: Raiders of Harran Bundle|3,99€|50|2022-11-22 16h|2022-11-29 16h|
-|510|dying-light--vintage-gunslinger-bundle|Dying Light - Vintage Gunslinger Bundle|2,99€|50|2022-11-22 16h|2022-11-29 16h|
-|511|dying-light--volatile-hunter-bundle|Dying Light - Volatile Hunter Bundle|2,99€|50|2022-11-22 16h|2022-11-29 16h|
-|512|dying-light--volkan-combat-armor-bundle|Dying Light - Volkan Combat Armor Bundle|2,99€|50|2022-11-22 16h|2022-11-29 16h|
-|513|dying-light--white-death-bundle|Dying Light - White Death Bundle|2,99€|50|2022-11-22 16h|2022-11-29 16h|
-|514|dying-light-2-stay-human  |Dying Light 2 Stay Human|59,99€|50|2022-11-22 16h|2022-11-29 16h|
-|515|dying-light-2-stay-human--deluxe-edition|Dying Light 2 Stay Human - Deluxe Edition|79,99€|45|2022-11-22 16h|2022-11-29 16h|
-|516|dying-light-2-stay-human--ultimate-edition|Dying Light 2 Stay Human - Ultimate Edition|99,99€|30|2022-11-22 16h|2022-11-29 16h|
-|517|dying-light--definitive-edition|Dying Light Definitive Edition|49,99€|80|2022-11-22 16h|2022-11-29 16h|
-|518|dying-light|Dying Light Enhanced Edition|29,99€|70|2022-11-22 16h|2022-11-29 16h|
-|519|fifa-23|EA SPORTS™ FIFA 23 Standard Edition|69,99€|40|2022-11-22 16h|2022-11-29 16h|
-|520|fifa-23--ultimate-edition|EA SPORTS™ FIFA 23 Ultimate Edition	|89,99€|40|2022-11-22 16h|2022-11-29 16h|
-|521|ea-star-wars-triple-bundle|EA STAR WARS™ TRIPLE BUNDLE|89,99€|75|2022-11-22 16h|2022-11-29 16h|
-|522|elex|ELEX|29,99€|75|2022-11-22 16h|2022-11-29 16h|
-|523|elex--digital-extras|ELEX Digital Extras|9,99€|75|2022-11-22 16h|2022-11-29 16h|
-|524|elex-ii|ELEX II|49,99€|50|2022-11-22 16h|2022-11-29 16h|
-|525|elex-ii--soundtrack|ELEX II Soundtrack|4,99€|50|2022-11-22 16h|2022-11-29 16h|
-|526|eve-online--1-month-omega|EVE Online - 1 Month Omega|19,99€|20|2022-11-22 16h|2022-11-29 16h|
-|527|eve-online--12-months-omega|EVE Online - 12 Months Omega|149,90€|20|2022-11-22 16h|2022-11-29 16h|
-|528|eve-online--24-months-omega|EVE Online - 24 Months Omega|270,99€|20|2022-11-22 16h|2022-11-29 16h|
-|529|eve-online--3-months-omega|EVE Online - 3 Months Omega|47,98€|20|2022-11-22 16h|2022-11-29 16h|
-|530|eve-online--6-months-omega|EVE Online - 6 Months Omega|86,95€|20|2022-11-22 16h|2022-11-29 16h|
-|531|pc-building-simulator--evga-workshop|EVGA Workshop|4,99€|25|2022-11-22 16h|2022-11-29 16h|
-|532|eastward|Eastward|24,99€|20|2022-11-22 16h|2022-11-29 16h|
-|533|idle-champions-of-the-forgotten-realms--eberron-ellywick-skin-feat-pack|Eberron Ellywick Skin & Feat Pack|7,99€|40|2022-12-02 20h|2022-12-05 20h|
-|534|idle-champions-of-the-forgotten-realms--eberron-inventor-vi-theme-pack|Eberron Inventor Vi Theme Pack|19,99€|50|2022-11-22 16h|2022-11-29 16h|
-|535|edge-of-galaxy-092087|Edge Of Galaxy|6,99€|25|2023-01-10 05h|2023-01-17 05h|
+|1|saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited--official-soundtrack|"Dungeons and Refrains" Official Soundtrack|7,99€|50|2022-11-22 16h|2022-11-29 16h|
+|2|saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited--art-book|"Journey from Savior to Stranger" Art Book|7,99€|50|2022-11-22 16h|2022-11-29 16h|
+|3|crayta--1000-crayta-credits|1,000 Crayta Credits|8,99€|20|2022-11-22 16h|2022-11-29 16h|
+|4|neverwinter--1000-zen-bundle|1000 Neverwinter ZEN Bundle|8,99€|20|2022-12-21 16h|2023-01-06 16h|
+|5|star-trek-online--1000-zen-bundle|1000 ZEN Bundle|8,99€|20|2022-11-22 16h|2022-11-28 16h|
+|6|star-trek-online--1000-zen-bundle|1000 ZEN Bundle|8,99€|20|2022-12-22 16h|2023-01-02 16h|
+|7|neverwinter--10000-zen-1000-bonus-bundle|10000 Neverwinter ZEN +1000 Bonus Bundle|89,99€|20|2022-12-21 16h|2023-01-06 16h|
+|8|star-trek-online--10000-zen-1000-bonus-bundle|10000 ZEN +1000 Bonus Bundle|89,99€|20|2022-11-22 16h|2022-11-28 16h|
+|9|star-trek-online--10000-zen-1000-bonus-bundle|10000 ZEN +1000 Bonus Bundle|89,99€|20|2022-12-22 16h|2023-01-02 16h|
+|10|crayta--15000-crayta-credits|15,000 Crayta Credits|79,99€|50|2022-11-22 16h|2022-11-29 16h|
+|11|crayta--2500-crayta-credits|2,500 Crayta Credits|19,99€|30|2022-11-22 16h|2022-11-29 16h|
+|12|neverwinter--2000-zen-bundle|2000 Neverwinter ZEN Bundle|17,99€|20|2022-12-21 16h|2023-01-06 16h|
+|13|star-trek-online--2000-zen-bundle|2000 ZEN Bundle|17,99€|20|2022-11-22 16h|2022-11-28 16h|
+|14|star-trek-online--2000-zen-bundle|2000 ZEN Bundle|17,99€|20|2022-12-22 16h|2023-01-02 16h|
+|15|neverwinter--20000-zen-3000-bonus-bundle|20000 Neverwinter ZEN + 3000 Bonus Bundle|179,99€|20|2022-12-21 16h|2023-01-06 16h|
+|16|star-trek-online--20000-zen-3000-bonus-bundle|20000 ZEN + 3000 Bonus Bundle|179,99€|20|2022-11-22 16h|2022-11-28 16h|
+|17|star-trek-online--20000-zen-3000-bonus-bundle|20000 ZEN + 3000 Bonus Bundle|179,99€|20|2022-12-22 16h|2023-01-02 16h|
+|18|crayta--5000-crayta-credits|5,000 Crayta Credits|31,99€|40|2022-11-22 16h|2022-11-29 16h|
+|19|crayta--500-crayta-credits|500 Crayta Credits|4,99€|10|2022-11-22 16h|2022-11-29 16h|
+|20|neverwinter--5000-zen-300-bonus-bundle|5000 Neverwinter ZEN + 300 Bonus Bundle|44,99€|20|2022-12-21 16h|2023-01-06 16h|
+|21|star-trek-online--5000-zen-300-bonus-bundle|5000 ZEN + 300 Bonus Bundle|44,99€|20|2022-11-22 16h|2022-11-28 16h|
+|22|star-trek-online--5000-zen-300-bonus-bundle|5000 ZEN + 300 Bonus Bundle|44,99€|20|2022-12-22 16h|2023-01-02 16h|
+|23|7-billion-humans|7 Billion Humans|11,99€|66|2022-11-22 16h|2022-11-29 16h|
+|24|8doors-arums-afterlife-adventure|8Doors: Arum's Afterlife Adventure|15,99€|80|2022-11-22 16h|2022-11-29 16h|
+|25|a-good-snowman-is-hard-to-build|A Good Snowman is Hard to Build|7,99€|70|2022-11-22 16h|2022-11-29 16h|
+|26|a-heros-rest-67f117|A Hero's Rest|19,99€|15|2022-11-22 16h|2022-11-29 16h|
+|27|a-monsters-expedition|A Monster's Expedition|15,99€|40|2022-11-22 16h|2022-11-29 16h|
+|28|a-plague-tale-innocence|A Plague Tale: Innocence|39,99€|60|2022-11-22 16h|2022-11-29 16h|
+|29|a-plague-tale-requiem|A Plague Tale: Requiem|49,99€|20|2022-11-22 16h|2022-11-29 16h|
+|30|a-total-war-saga-troy|A Total War Saga: TROY|49,99€|33|2022-11-22 16h|2022-11-29 16h|
+|31|a-total-war-saga-troy--mythos|A Total War Saga: TROY - MYTHOS|24,99€|25|2022-11-22 16h|2022-11-29 16h|
+|32|a-total-war-saga-troy--ajax-and-diomedes|A Total War Saga: TROY – AJAX & DIOMEDES|9,99€|25|2022-11-22 16h|2022-11-29 16h|
+|33|kingdom-come-deliverance--a-womans-lot|A Woman's Lot|7,99€|60|2022-11-22 16h|2022-11-29 16h|
+|34|abzu|ABZU|15,99€|65|2022-11-22 16h|2022-11-29 16h|
+|35|anno-mutationem-ef8b9e|ANNO Mutationem|20,99€|35|2022-11-22 16h|2022-11-29 16h|
+|36|pc-building-simulator--aorus-workshop|AORUS Workshop|4,99€|25|2022-11-22 16h|2022-11-29 16h|
+|37|ape-out|APE OUT|14,99€|75|2022-11-22 16h|2022-11-29 16h|
+|38|apico-f6e18b|APICO|15,99€|25|2022-11-22 16h|2022-11-29 16h|
+|39|atom-rpg-3adb54|ATOM RPG|14,99€|40|2022-11-22 16h|2022-11-29 16h|
+|40|away-the-survival-series|AWAY: The Survival Series|15,99€|60|2022-11-21 17h|2022-12-05 17h|
+|41|control--awe|AWE: Expansion 2|9,99€|60|2022-11-22 16h|2022-11-29 16h|
+|42|axiom-verge|AXIOM VERGE|17,99€|60|2022-11-22 16h|2022-11-29 16h|
+|43|absolute-drift|Absolute Drift|9,99€|60|2022-11-22 16h|2022-11-29 16h|
+|44|absolute-tactics-ca91e4|Absolute Tactics|19,99€|15|2022-11-22 16h|2022-11-29 16h|
+|45|aces-of-the-luftwaffe-squadron-97086d|Aces of the Luftwaffe - Squadron Extended Edition|24,99€|75|2022-11-22 16h|2022-11-29 16h|
+|46|achilles-legends-untold-bb77ad|Achilles Legends Untold|18,99€|25|2022-11-21 13h|2022-11-29 13h|
+|47|achilles-legends-untold-bb77ad|Achilles Legends Untold|18,99€|25|2022-12-05 13h|2022-12-31 13h|
+|48|adios-b378b4|Adios|13,99€|45|2022-11-22 16h|2022-11-29 16h|
+|49|adventures-of-chris-64c13b|Adventures of Chris|11,99€|75|2022-11-22 16h|2022-11-29 16h|
+|50|aegis-descent-a1f5a0|Aegis Descent|15,99€|50|2022-11-22 16h|2022-11-29 16h|
+|51|aerial-knights-never-yield|Aerial_Knight's Never Yield|11,99€|40|2022-11-22 16h|2022-11-29 16h|
+|52|aerial-knights-never-yield--deluxe-edition|Aerial_Knight's Never Yield - Deluxe Edition|15,99€|40|2022-11-22 16h|2022-11-29 16h|
+|53|aerial-knights-never-yield--soundtrack|Aerial_Knight's Never Yield - Soundtrack|4,99€|40|2022-11-22 16h|2022-11-29 16h|
+|54|aeterna-noctis|Aeterna Noctis|29,99€|40|2022-11-22 16h|2022-11-29 16h|
+|55|aftergrinder-96f722|Aftergrinder|2,39€|67|2022-11-22 16h|2022-11-29 16h|
+|56|against-the-storm|Against the Storm|19,99€|15|2022-11-22 16h|2022-11-29 16h|
+|57|ageless|Ageless|14,99€|75|2022-11-22 16h|2022-11-29 16h|
+|58|aground|Aground|11,99€|35|2022-11-22 16h|2022-11-29 16h|
+|59|air-missions-hind|Air Missions: HIND|15,99€|50|2022-11-21 16h|2022-11-28 16h|
+|60|airborne-kingdom|Airborne Kingdom|20,99€|30|2022-11-22 16h|2022-11-29 16h|
+|61|alan-wake|Alan Wake|12,49€|70|2022-11-22 16h|2022-11-29 16h|
+|62|alan-wake-remastered|Alan Wake Remastered|29,99€|50|2022-11-22 16h|2022-11-29 16h|
+|63|alan-wake-american-nightmare|Alan Wake's American Nightmare|6,99€|70|2022-11-22 16h|2022-11-29 16h|
+|64|alan-wake-american-nightmare|Alan Wake’s American Nightmare|6,99€|70|2022-11-22 16h|2022-11-29 16h|
+|65|alchemist-adventure-fa9fca|Alchemist Adventure|11,99€|50|2022-11-22 16h|2022-11-29 16h|
+|66|alex-kidd-in-miracle-world-dx|Alex Kidd in Miracle World DX|19,99€|66|2022-11-22 16h|2022-11-29 16h|
+|67|alien-isolation|Alien: Isolation|39,99€|80|2022-11-22 16h|2022-11-29 16h|
+|68|alien-isolation--corporate-lockdown|Alien: Isolation - Corporate Lockdown|7,99€|80|2022-11-22 16h|2022-11-29 16h|
+|69|alien-isolation--crew-expendable|Alien: Isolation - Crew Expendable|3,99€|80|2022-11-22 16h|2022-11-29 16h|
+|70|alien-isolation--last-survivor|Alien: Isolation - Last Survivor|3,99€|80|2022-11-22 16h|2022-11-29 16h|
+|71|alien-isolation--lost-contact|Alien: Isolation - Lost Contact|7,99€|80|2022-11-22 16h|2022-11-29 16h|
+|72|alien-isolation--safe-haven|Alien: Isolation - Safe Haven|7,99€|80|2022-11-22 16h|2022-11-29 16h|
+|73|alien-isolation--the-trigger|Alien: Isolation - The Trigger|7,99€|80|2022-11-22 16h|2022-11-29 16h|
+|74|alien-isolation--trauma|Alien: Isolation - Trauma|7,99€|80|2022-11-22 16h|2022-11-29 16h|
+|75|faeria--all-dlc-bundle|All DLC Bundle|75,99€|75|2022-11-22 16h|2022-11-29 16h|
+|76|vampire-the-masquerade-swansong--outfits-pack|Alternate Outfits Pack|2,99€|15|2022-11-22 16h|2022-11-29 16h|
+|77|among-trees|Among Trees|14,99€|50|2022-11-22 16h|2022-11-29 16h|
+|78|genesis-noir--an-act-of-creation|An Act of Creation|5,99€|60|2022-11-22 16h|2022-11-29 16h|
+|79|dungeons-3--an-unexpected-dlc|An Unexpected DLC|4,99€|50|2022-11-22 16h|2022-11-29 16h|
+|80|ancestors|Ancestors The Humankind Odyssey|39,99€|75|2022-11-22 16h|2022-11-29 16h|
+|81|ancestors|Ancestors: The Humankind Odyssey|39,99€|75|2022-11-22 16h|2022-11-29 16h|
+|82|ancient-enemy|Ancient Enemy|11,99€|75|2022-11-22 16h|2022-11-29 16h|
+|83|angry-video-game-nerd-1-and-2-deluxe-1eea79|Angry Video Game Nerd 1 and 2 Deluxe|11,99€|60|2022-11-22 16h|2022-11-29 16h|
+|84|anno-1404|Anno 1404 History Edition|14,99€|50|2022-11-22 16h|2022-11-29 16h|
+|85|anno-1701|Anno 1701 History Edition|9,99€|50|2022-11-22 16h|2022-11-29 16h|
+|86|anno-1800|Anno 1800|59,99€|67|2022-11-22 16h|2022-11-29 16h|
+|87|anno-1800--deluxe-pack|Anno 1800 Deluxe Pack|9,99€|50|2022-11-22 16h|2022-11-29 16h|
+|88|anno-1800--season-pass|Anno 1800 Season Pass|24,99€|50|2022-11-22 16h|2022-11-29 16h|
+|89|anno-1800--season-pass-2|Anno 1800 Season Pass 2|24,99€|50|2022-11-22 16h|2022-11-29 16h|
+|90|anno-1800|Anno 1800 Standard Edition|59,99€|67|2022-11-22 16h|2022-11-29 16h|
+|91|anno-1800--amusements-pack|Anno 1800: Amusements DLC|4,99€|20|2022-11-22 16h|2022-11-29 16h|
+|92|anno-1800--city-lights|Anno 1800™ - City Lights Pack|4,99€|20|2022-11-22 16h|2022-11-29 16h|
+|93|anno-1800--complete-edition-year-4|Anno 1800™ Complete Edition Year 4|119,99€|50|2022-11-22 16h|2022-11-29 16h|
+|94|anno-1800--empire-of-the-skies|Anno 1800™ DLC 11 Empire of the Skies|11,99€|20|2022-11-22 16h|2022-11-29 16h|
+|95|anno-1800--docklands|Anno 1800™ Docklands|6,99€|35|2022-11-22 16h|2022-11-29 16h|
+|96|anno-1800--gold-edition-year-4|Anno 1800™ Gold Edition Year 4|79,99€|50|2022-11-22 16h|2022-11-29 16h|
+|97|anno-1800--industrial-zone-pack|Anno 1800™ Industrial Zone Pack|4,99€|20|2022-11-22 16h|2022-11-29 16h|
+|98|anno-1800--season-pass-3|Anno 1800™ Season 3 Pass|19,99€|35|2022-11-22 16h|2022-11-29 16h|
+|99|anno-1800--season-4-pass|Anno 1800™ Season 4 Pass|24,99€|20|2022-11-22 16h|2022-11-29 16h|
+|100|anno-1800--the-high-life|Anno 1800™ The High Life|8,99€|35|2022-11-22 16h|2022-11-29 16h|
+|101|anno-1800--tourist-season|Anno 1800™ Tourist Season|8,99€|35|2022-11-22 16h|2022-11-29 16h|
+|102|anno-1800--vehicle-liveries-pack|Anno 1800™ Vehicle Liveries Pack|4,99€|20|2022-11-22 16h|2022-11-29 16h|
+|103|anno-1800--vibrant-cities-pack|Anno 1800™ Vibrant Cities Pack|4,99€|20|2022-11-22 16h|2022-11-29 16h|
+|104|anno-1800--holiday-pack|Anno 1800™: Holiday Pack|3,99€|50|2022-11-22 16h|2022-11-29 16h|
+|105|anno-1800--land-of-lions|Anno 1800™: Land of Lions|17,99€|50|2022-11-22 16h|2022-11-29 16h|
+|106|anno-1800--pedestrian-zone-pack|Anno 1800™: Pedestrian Zone Pack|4,99€|20|2022-11-22 16h|2022-11-29 16h|
+|107|anno-2070|Anno 2070|29,99€|75|2022-11-22 16h|2022-11-29 16h|
+|108|anno-2205|Anno 2205|39,99€|75|2022-11-22 16h|2022-11-29 16h|
+|109|anno-2205|Anno 2205 - Standard Edition|39,99€|75|2022-11-22 16h|2022-11-29 16h|
+|110|anno-2205--ultimate-edition|Anno 2205 - Ultimate Edition|49,99€|75|2022-11-22 16h|2022-11-29 16h|
+|111|anno-2205--frontiers|Anno 2205 Frontiers DLC|9,99€|75|2022-11-22 16h|2022-11-29 16h|
+|112|anno-2205--orbit|Anno 2205 Orbit DLC|9,99€|75|2022-11-22 16h|2022-11-29 16h|
+|113|anno-2205--season-pass|Anno 2205 Season Pass|19,99€|75|2022-11-22 16h|2022-11-29 16h|
+|114|anno-2205--tundra|Anno 2205 Tundra DLC|9,99€|75|2022-11-22 16h|2022-11-29 16h|
+|115|anodyne-2-return-to-dust|Anodyne 2: Return To Dust|16,79€|50|2022-11-22 16h|2022-11-29 16h|
+|116|anodyne-2-return-to-dust|Anodyne 2: Return to Dust|16,79€|50|2022-11-22 16h|2022-11-29 16h|
+|117|another-world-20th-anniversary-edition-64660d|Another World - 20th Anniversary|7,99€|20|2022-11-22 16h|2022-11-29 16h|
+|118|anuchard-08179d|Anuchard|14,99€|30|2022-11-22 16h|2022-11-29 16h|
+|119|ape-out|Ape Out|14,99€|75|2022-11-22 16h|2022-11-29 16h|
+|120|aquanox-deep-descent|Aquanox Deep Descent|29,99€|75|2022-11-22 16h|2022-11-29 16h|
+|121|aquanox-deep-descent--collectors-edition|Aquanox Deep Descent Collector’s Edition|39,99€|75|2022-11-22 16h|2022-11-29 16h|
+|122|arcade-paradise|Arcade Paradise|19,99€|20|2022-11-22 16h|2022-11-29 16h|
+|123|idle-champions-of-the-forgotten-realms--archmagi-dungeon-master-theme-pack|Archmagi Dungeon Master Theme Pack|19,99€|40|2022-12-02 20h|2022-12-05 20h|
+|124|are-you-smarter-than-a-5th-grader-bc328a|Are You Smarter Than A 5th Grader|29,99€|20|2022-11-22 16h|2022-11-29 16h|
+|125|killing-floor-2--armory-season-pass-2|Armory Season Pass 2|16,79€|33|2022-11-22 16h|2022-11-29 16h|
+|126|kingdom-come-deliverance--art-book|Art Book|3,99€|80|2022-11-22 16h|2022-11-29 16h|
+|127|while-true-learn--art-pack|Art Pack|2,39€|12|2022-11-22 16h|2022-11-29 16h|
+|128|art-of-rally|Art of Rally|19,99€|35|2022-11-22 16h|2022-11-29 16h|
+|129|scarlet-hood-and-the-wicked-wood--artbook|Artbook|3,99€|55|2022-11-22 16h|2022-11-29 16h|
+|130|ashen|Ashen|33,99€|75|2022-11-22 16h|2022-11-29 16h|
+|131|assassins-creed-chronicles-trilogy|Assassin's Creed Chronicles – Trilogy|24,99€|70|2022-11-22 16h|2022-11-29 16h|
+|132|assassins-creed-chronicles-china|Assassin's Creed Chronicles: China|9,99€|70|2022-11-22 16h|2022-11-29 16h|
+|133|assassins-creed-chronicles-india|Assassin's Creed Chronicles: India|9,99€|70|2022-11-22 16h|2022-11-29 16h|
+|134|assassins-creed-chronicles-russia|Assassin's Creed Chronicles: Russia|9,99€|70|2022-11-22 16h|2022-11-29 16h|
+|135|assassins-creed-3|Assassin's Creed III Remastered|39,99€|50|2022-11-22 16h|2022-11-29 16h|
+|136|assassins-creed-odyssey|Assassin's Creed Odyssey|59,99€|75|2022-11-22 16h|2022-11-29 16h|
+|137|assassins-creed-odyssey--season-pass|Assassin's Creed Odyssey - Season Pass|39,99€|60|2022-11-22 16h|2022-11-29 16h|
+|138|assassins-creed-origins|Assassin's Creed Origins|59,99€|80|2022-11-22 16h|2022-11-29 16h|
+|139|assassins-creed-origins--deluxe-edition|Assassin's Creed Origins Deluxe Edition|69,99€|80|2022-11-22 16h|2022-11-29 16h|
+|140|assassins-creed-origins--gold-edition|Assassin's Creed Origins Gold Edition|89,99€|80|2022-11-22 16h|2022-11-29 16h|
+|141|assassins-creed-origins--season-pass|Assassin's Creed Origins Season Pass|39,99€|60|2022-11-22 16h|2022-11-29 16h|
+|142|assassins-creed-origins|Assassin's Creed Origins Standard Edition|59,99€|80|2022-11-22 16h|2022-11-29 16h|
+|143|assassins-creed-rogue|Assassin's Creed Rogue|19,99€|67|2022-11-22 16h|2022-11-29 16h|
+|144|assassins-creed-rogue--deluxe-edition|Assassin's Creed Rogue Deluxe Edition|29,99€|67|2022-11-22 16h|2022-11-29 16h|
+|145|assassins-creed-rogue|Assassin's Creed Rogue Standard Edition|19,99€|67|2022-11-22 16h|2022-11-29 16h|
+|146|assassins-creed-syndicate|Assassin's Creed Syndicate|39,99€|75|2022-11-22 16h|2022-11-29 16h|
+|147|assassins-creed-syndicate--gold-edition|Assassin's Creed Syndicate Gold Edition|69,99€|75|2022-11-22 16h|2022-11-29 16h|
+|148|assassins-creed-syndicate|Assassin's Creed Syndicate Standard Edition|39,99€|75|2022-11-22 16h|2022-11-29 16h|
+|149|assassins-creed-unity|Assassin's Creed Unity|29,99€|75|2022-11-22 16h|2022-11-29 16h|
+|150|assassins-creed-valhalla--season-pass|Assassin's Creed: Valhalla Season Pass|39,99€|50|2022-11-22 16h|2022-11-29 16h|
+|151|assassins-creed-1|Assassin's Creed® I: Director's Cut|9,99€|70|2022-11-22 16h|2022-11-29 16h|
+|152|assassins-creed-3|Assassin's Creed® III: Remastered|39,99€|50|2022-11-22 16h|2022-11-29 16h|
+|153|assassins-creed-valhalla--the-siege-of-paris|Assassin's Creed® Valhalla - The Siege of Paris|24,99€|50|2022-11-22 16h|2022-11-29 16h|
+|154|assassins-creed-valhalla--wrath-of-the-druids|Assassin's Creed® Valhalla - Wrath of the Druids|24,99€|50|2022-11-22 16h|2022-11-29 16h|
+|155|assassins-creed-valhalla--complete-edition|Assassin's Creed® Valhalla Complete Edition|139,99€|65|2022-11-22 16h|2022-11-29 16h|
+|156|assassins-creed-valhalla--deluxe-edition|Assassin's Creed® Valhalla Deluxe Edition|79,99€|67|2022-11-22 16h|2022-11-29 16h|
+|157|assassins-creed-valhalla--ragnarok-edition|Assassin's Creed® Valhalla Ragnarök Edition|99,99€|65|2022-11-22 16h|2022-11-29 16h|
+|158|assassins-creed-valhalla|Assassin's Creed® Valhalla Standard Edition|59,99€|67|2022-11-22 16h|2022-11-29 16h|
+|159|assassins-creed-valhalla--dawn-of-ragnarok|Assassin's Creed® Valhalla: Dawn of Ragnarök|39,99€|50|2022-11-22 16h|2022-11-29 16h|
+|160|assassins-creed-odyssey--deluxe-edition|Assassins Creed Odyssey Deluxe Edition|79,99€|75|2022-11-22 16h|2022-11-29 16h|
+|161|assassins-creed-odyssey--gold-edition|Assassins Creed Odyssey Gold Edition|99,99€|75|2022-11-22 16h|2022-11-29 16h|
+|162|assassins-creed-odyssey|Assassins Creed Odyssey Standard Edition|59,99€|75|2022-11-22 16h|2022-11-29 16h|
+|163|assassins-creed-odyssey--ultimate-edition|Assassins Creed Odyssey Ultimate Edition|114,99€|75|2022-11-22 16h|2022-11-29 16h|
+|164|assassins-creed-syndicate--jack-the-ripper|Assassins Creed Syndicate Jack the Ripper|14,99€|66|2022-11-22 16h|2022-11-29 16h|
+|165|assassins-creed-syndicate--season-pass|Assassins Creed Syndicate Season Pass|29,99€|75|2022-11-22 16h|2022-11-29 16h|
+|166|assassins-creed-syndicate--the-dreadful-crimes|Assassins Creed Syndicate The Dreadful Crimes|4,99€|66|2022-11-22 16h|2022-11-29 16h|
+|167|assassins-creed-syndicate--the-last-maharaja|Assassins Creed Syndicate The Last Maharaja|6,99€|66|2022-11-22 16h|2022-11-29 16h|
+|168|assassins-creed-valhalla-watch-dogs-legion-bundle|Assassin’s Creed Valhalla + Watch Dogs: Legion Bundle|109,99€|70|2022-11-22 16h|2022-11-29 16h|
+|169|assassins-creed-valhalla-immortals-fenyx-rising-bundle|Assassin’s Creed® Valhalla + Immortals Fenyx Rising™ Bundle|109,99€|70|2022-11-22 16h|2022-11-29 16h|
+|170|automachef|Automachef|14,99€|75|2022-11-22 16h|2022-11-29 16h|
+|171|faeria--avatars-pack|Avatars Pack|9,99€|75|2022-11-22 16h|2022-11-29 16h|
+|172|aven-colony|Aven Colony|29,99€|75|2022-11-22 16h|2022-11-29 16h|
+|173|avencast-rise-of-the-mage-4668a2|Avencast - Rise Of The Mage|3,99€|80|2022-11-22 16h|2022-11-29 16h|
+|174|axiom-verge|Axiom Verge|17,99€|60|2022-11-22 16h|2022-11-29 16h|
+|175|axiom-verge-2|Axiom Verge 2|17,99€|20|2022-11-22 16h|2022-11-29 16h|
+|176|biomutant|BIOMUTANT|39,99€|50|2022-11-22 16h|2022-11-29 16h|
+|177|biomutant--mercenary-class|BIOMUTANT - Mercenary Class|2,99€|50|2022-11-22 16h|2022-11-29 16h|
+|178|biomutant--soundtrack|BIOMUTANT - Soundtrack|4,99€|50|2022-11-22 16h|2022-11-29 16h|
+|179|back-4-blood--tunnels-of-terror|Back 4 Blood - Expansion 1: Tunnels of Terror|14,99€|60|2022-11-22 16h|2022-11-29 16h|
+|180|back-4-blood--children-of-the-worm|Back 4 Blood - Expansion 2: Children of the Worm|14,99€|40|2022-11-22 16h|2022-11-29 16h|
+|181|back-4-blood--annual-pass|Back 4 Blood Annual Pass|39,99€|55|2022-11-22 16h|2022-11-29 16h|
+|182|back-4-blood--deluxe-edition|Back 4 Blood: Deluxe Edition|89,99€|67|2022-11-22 16h|2022-11-29 16h|
+|183|back-4-blood|Back 4 Blood: Standard Edition|59,99€|67|2022-11-22 16h|2022-11-29 16h|
+|184|back-4-blood--ultimate-edition|Back 4 Blood: Ultimate Edition|99,99€|67|2022-11-22 16h|2022-11-29 16h|
+|185|baldurs-gate-2-enhanced-edition|Baldur's Gate II: Enhanced Edition|15,99€|70|2022-11-22 16h|2022-11-29 16h|
+|186|baldurs-gate-enhanced-edition|Baldur's Gate: Enhanced Edition|15,99€|70|2022-11-22 16h|2022-11-29 16h|
+|187|kingdom-come-deliverance--band-of-bastards|Band of Bastards|5,99€|60|2022-11-22 16h|2022-11-29 16h|
+|188|bassmaster-fishing-2022-deluxe-edition|Bassmaster® Fishing 2022: Deluxe Edition|29,99€|55|2022-11-22 16h|2022-11-29 16h|
+|189|bassmaster-fishing-2022-bassmaster-fishing-2022-lake-hartwell-476e82|Bassmaster® Fishing 2022: Lake Hartwell|12,99€|40|2022-11-22 16h|2022-11-29 16h|
+|190|bassmaster-fishing-2022-bassmaster-fishing-2022-predator-equipment-pack-e7bf6b|Bassmaster® Fishing 2022: Predator Equipment Pack|6,99€|40|2022-11-22 16h|2022-11-29 16h|
+|191|batman-arkham-asylum|Batman Arkham Asylum Game of the Year Edition|19,99€|75|2022-11-22 16h|2022-11-29 16h|
+|192|batman-arkham-city|Batman Arkham City Game of the Year Edition|19,99€|75|2022-11-22 16h|2022-11-29 16h|
+|193|batman-arkham-knight|Batman Arkham Knight|19,99€|80|2022-11-22 16h|2022-11-29 16h|
+|194|batman-arkham-asylum|Batman™ Arkham Asylum Game of the Year Edition|19,99€|75|2022-11-22 16h|2022-11-29 16h|
+|195|batman-arkham-city|Batman™: Arkham City - Game of the Year Edition|19,99€|75|2022-11-22 16h|2022-11-29 16h|
+|196|batman-arkham-knight|Batman™: Arkham Knight|19,99€|80|2022-11-22 16h|2022-11-29 16h|
+|197|battle-chasers-nightwar|Battle Chasers: Nightwar|29,99€|75|2022-11-22 16h|2022-11-29 16h|
+|198|battle-chasers-nightwar--digital-extras|Battle Chasers: Nightwar Digital Extras|6,99€|75|2022-11-22 16h|2022-11-29 16h|
+|199|battlefield-2042|Battlefield™ 2042|59,99€|67|2022-11-22 16h|2022-11-29 16h|
+|200|battlefield-2042--gold-edition|Battlefield™ 2042 Gold Edition|89,99€|90|2022-11-22 16h|2022-11-29 16h|
+|201|battlefield-2042--ultimate-edition|Battlefield™ 2042 Ultimate Edition|109,99€|55|2022-11-22 16h|2022-11-29 16h|
+|202|beacon-pines-629fc3|Beacon Pines|15,99€|20|2022-11-22 16h|2022-11-29 16h|
+|203|bee-simulator|Bee Simulator|19,99€|70|2022-11-22 16h|2022-11-29 16h|
+|204|idle-champions-of-the-forgotten-realms--beekeeper-spurt-skin-feat-pack|Beekeeper Spurt Skin & Feat Pack|7,99€|40|2022-11-22 16h|2022-11-29 16h|
+|205|before-we-leave|Before We Leave|17,99€|50|2022-11-22 16h|2022-11-29 16h|
+|206|before-your-eyes|Before Your Eyes|8,99€|66|2022-11-22 16h|2022-11-29 16h|
+|207|behind-the-frame-the-finest-scenery|Behind the Frame: The Finest Scenery|10,79€|30|2022-11-22 16h|2022-11-29 16h|
+|208|beyond-good-and-evil|Beyond Good & Evil|4,99€|70|2022-11-22 16h|2022-11-29 16h|
+|209|beyond-two-souls|Beyond Two Souls|19,90€|50|2022-11-22 16h|2022-11-29 16h|
+|210|sherlock-holmes-chapter-one--beyond-a-joke|Beyond a Joke DLC|4,99€|30|2022-11-22 16h|2022-11-29 16h|
+|211|beyond-two-souls|Beyond: Two Souls|19,90€|50|2022-11-22 16h|2022-11-29 16h|
+|212|big-pharma|Big Pharma|19,99€|75|2022-11-22 16h|2022-11-29 16h|
+|213|bioshock-2-remastered|BioShock 2 Remastered|19,99€|75|2022-11-22 16h|2022-11-29 16h|
+|214|bioshock-infinite-complete-edition|BioShock Infinite: Complete Edition|54,97€|80|2022-11-22 16h|2022-11-29 16h|
+|215|bioshock-remastered|BioShock Remastered|19,99€|75|2022-11-22 16h|2022-11-29 16h|
+|216|bioshock-the-collection|BioShock: The Collection|59,99€|80|2022-11-22 16h|2022-11-29 16h|
+|217|bite-the-bullet-22fa1f|Bite the Bullet|11,99€|25|2022-11-22 16h|2022-11-29 16h|
+|218|black-book|Black Book|24,99€|50|2022-11-22 16h|2022-11-29 16h|
+|219|black-skylands|Black Skylands|15,99€|30|2022-11-22 16h|2022-11-29 16h|
+|220|blade-strangers|Blade Strangers|15,99€|50|2022-11-21 16h|2022-11-28 16h|
+|221|blair-witch|Blair Witch|29,99€|75|2022-11-22 16h|2022-11-29 16h|
+|222|blasphemous|Blasphemous|24,99€|75|2022-11-22 16h|2022-11-29 16h|
+|223|blazing-beaks-3d4864|Blazing Beaks|11,99€|70|2022-11-22 16h|2022-11-29 16h|
+|224|blazing-beaks-3d4864|Blazing Beaks|11,99€|75|2022-12-15 15h|2023-01-02 15h|
+|225|rogue-lords--blood-moon-edition|Blood Moon Edition|29,73€|50|2022-11-22 16h|2022-11-29 16h|
+|226|blood-and-zombies-4273b6|Blood and Zombies|14,99€|50|2022-11-22 16h|2022-11-29 16h|
+|227|bloons-td-6-bf95a0|Bloons TD 6|10,99€|70|2022-11-22 16h|2022-11-29 16h|
+|228|blossom-tales-ii-the-minotaur-prince-e74c95|Blossom Tales II The Minotaur Prince|12,49€|20|2022-11-22 16h|2022-11-29 16h|
+|229|blue-fire-9c1dac|Blue Fire|15,99€|60|2022-11-22 16h|2022-11-29 16h|
+|230|bonfire-peaks|Bonfire Peaks|15,99€|35|2022-11-22 16h|2022-11-29 16h|
+|231|boomerang-x|Boomerang X|19,99€|50|2022-11-22 16h|2022-11-29 16h|
+|232|borderlands-3|Borderlands 3|59,99€|85|2022-11-22 16h|2022-11-29 16h|
+|233|borderlands-3--season-pass|Borderlands 3 Season Pass|49,99€|70|2022-11-22 16h|2022-11-29 16h|
+|234|borderlands-3--season-pass-bundle|Borderlands 3 Season Pass Bundle|69,99€|60|2022-11-22 16h|2022-11-29 16h|
+|235|borderlands-3--super-deluxe-edition|Borderlands 3 Super Deluxe Edition|79,99€|67|2022-11-22 16h|2022-11-29 16h|
+|236|borderlands-3--season-pass-02|Borderlands 3: Season Pass 2|29,99€|40|2022-11-22 16h|2022-11-29 16h|
+|237|borderlands-3--ultimate-edition|Borderlands 3: Ultimate Edition|99,99€|67|2022-11-22 16h|2022-11-29 16h|
+|238|borderlands-the-handsome-collection|Borderlands: The Handsome Collection|59,99€|75|2022-11-22 16h|2022-11-29 16h|
+|239|anno-1800--botanica|Botanica - DLC|7,99€|50|2022-11-22 16h|2022-11-29 16h|
+|240|breathedge|Breathedge|24,99€|50|2022-11-22 16h|2022-11-29 16h|
+|241|bridge-constructor-the-walking-dead|Bridge Constructor: The Walking Dead|9,99€|80|2022-11-22 16h|2022-11-29 16h|
+|242|anno-1800--bright-harvest|Bright Harvest - DLC|6,99€|50|2022-11-22 16h|2022-11-29 16h|
+|243|south-park-the-fractured-but-whole--bring-the-crunch|Bring The Crunch - DLC|11,99€|75|2022-11-22 16h|2022-11-29 16h|
+|244|brothers-a-tale-of-two-sons|Brothers - A Tale of Two Sons|14,99€|60|2022-11-22 16h|2022-11-29 16h|
+|245|idle-champions-of-the-forgotten-realms--bruenor-starter-pack|Bruenor's Starter Pack|7,99€|90|2022-11-22 16h|2022-11-29 16h|
+|246|port-royale-4--buccaneers|Buccaneers DLC|3,99€|25|2022-11-22 16h|2022-11-29 16h|
+|247|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|80|2022-12-16 04h|2023-01-01 04h|
+|248|bugsnax|Bugsnax|19,99€|60|2022-11-22 16h|2022-11-29 16h|
+|249|carrion|CARRION|19,99€|50|2022-11-22 16h|2022-11-29 16h|
+|250|crsed-f-o-a-d--age-of-nagual-pack|CRSED: F.O.A.D. - Age of Nagual Pack|16,99€|50|2022-11-22 18h|2022-11-29 18h|
+|251|crsed-f-o-a-d--biker-queen-pack|CRSED: F.O.A.D. - Biker Queen Pack|19,99€|50|2022-11-22 18h|2022-11-29 18h|
+|252|crsed-f-o-a-d--fire-dragon-pack|CRSED: F.O.A.D. - Fire Dragon Pack|19,99€|50|2022-11-22 18h|2022-11-29 18h|
+|253|crsed-f-o-a-d--god-of-thunder-pack|CRSED: F.O.A.D. - God of Thunder Pack|19,99€|50|2022-11-22 18h|2022-11-29 18h|
+|254|crsed-f-o-a-d--holy-maiden-pack|CRSED: F.O.A.D. - Holy Maiden Pack|9,99€|50|2022-11-22 18h|2022-11-29 18h|
+|255|crsed-f-o-a-d--metal-zombie-pack|CRSED: F.O.A.D. - Metal Zombie Pack|19,99€|50|2022-11-22 18h|2022-11-29 18h|
+|256|calico|Calico|9,99€|35|2022-11-22 16h|2022-11-29 16h|
+|257|call-of-the-wild-the-angler|Call of the Wild: The Angler™|29,99€|20|2022-11-22 16h|2022-11-29 16h|
+|258|card-shark-8f95f0|Card Shark|19,99€|25|2022-11-22 16h|2022-11-29 16h|
+|259|faeria--cardbacks-pack|Cardbacks Pack|9,99€|75|2022-11-22 16h|2022-11-29 16h|
+|260|cardpocalypse|Cardpocalypse|23,99€|75|2022-11-22 16h|2022-11-29 16h|
+|261|cardpocalypse--soundtrack|Cardpocalypse Soundtrack|7,99€|75|2022-11-22 16h|2022-11-29 16h|
+|262|cardpocalypse|Cardpocalypse Standard Edition|23,99€|75|2022-11-22 16h|2022-11-29 16h|
+|263|cardpocalypse--time-warp-edition|Cardpocalypse: Time Warp Edition|31,99€|75|2022-11-22 16h|2022-11-29 16h|
+|264|pc-building-simulator--career-power-pack|Career Power Pack|19,99€|60|2022-11-22 16h|2022-11-29 16h|
+|265|tropico-6--caribbean-skies|Caribbean Skies|14,99€|40|2022-11-22 16h|2022-11-29 16h|
+|266|carnival-games|Carnival Games|39,99€|80|2022-11-22 16h|2022-11-29 16h|
+|267|carto|Carto|19,99€|50|2022-11-22 16h|2022-11-29 16h|
+|268|warhammer-40000-chaos-gate-daemonhunters--castellan-upgrade-pack|Castellan Champion Upgrade Pack|14,99€|33|2022-11-22 16h|2022-11-29 16h|
+|269|castlestorm2|CastleStorm 2|15,99€|70|2022-11-22 16h|2022-11-29 16h|
+|270|cat-cafe-manager-68bd0d|Cat Cafe Manager|19,99€|25|2022-11-22 16h|2022-11-29 16h|
+|271|cave-story-plus|Cave Story+|11,99€|75|2022-11-21 16h|2022-11-28 16h|
+|272|celeste|Celeste|15,99€|75|2022-11-22 16h|2022-11-29 16h|
+|273|chains-8ac580|Chains|1,59€|50|2022-11-22 16h|2022-11-29 16h|
+|274|chains-8ac580|Chains|1,59€|45|2022-11-28 05h|2022-12-05 05h|
+|275|idle-champions-of-the-forgotten-realms--champions-of-renown-y1-pack|Champions of Renown: Year 1 All-Star Pack|43,99€|50|2022-11-22 16h|2022-11-29 16h|
+|276|chernobylite|Chernobylite|29,99€|40|2022-11-22 16h|2022-11-29 16h|
+|277|chernobylite--autumn-dread-pack|Chernobylite Autumn Dread Pack|3,29€|40|2022-11-22 16h|2022-11-29 16h|
+|278|chernobylite--blue-flames|Chernobylite Blue Flames|3,29€|40|2022-11-22 16h|2022-11-29 16h|
+|279|chernobylite--deadly-frost-pack|Chernobylite Deadly Frost Pack|3,29€|40|2022-11-22 16h|2022-11-29 16h|
+|280|chernobylite--red-trees-pack|Chernobylite Red Trees Pack|3,29€|40|2022-11-22 16h|2022-11-29 16h|
+|281|chernobylite--chernobylite-soundtrack|Chernobylite Soundtrack|3,99€|40|2022-11-22 16h|2022-11-29 16h|
+|282|chernobylite--the-art-of-chernobylite|Chernobylite The Art of Chernobylite|4,99€|40|2022-11-22 16h|2022-11-29 16h|
+|283|chernobylite--white-rose-pack|Chernobylite White Rose Pack|3,29€|40|2022-11-22 16h|2022-11-29 16h|
+|284|chernobylite--zone-bard-pack|Chernobylite Zone Bard Pack|3,29€|40|2022-11-22 16h|2022-11-29 16h|
+|285|chicken-assassin-reloaded-279863|Chicken Assassin Reloaded|3,99€|69|2022-11-22 16h|2022-11-29 16h|
+|286|chicken-police-paint-it-red|Chicken Police - Paint it Red!|19,99€|40|2022-11-22 16h|2022-11-29 16h|
+|287|while-true-learn--chief-technology-officer-edition|Chief Technology Officer Edition|23,99€|27|2022-11-22 16h|2022-11-29 16h|
+|288|child-of-light|Child of Light: Ultimate Edition|19,99€|70|2022-11-22 16h|2022-11-29 16h|
+|289|chivalry-2|Chivalry 2|35,99€|50|2022-11-22 16h|2022-11-29 16h|
+|290|chivalry-2--kings-edition|Chivalry 2 King's Edition|47,99€|50|2022-11-22 16h|2022-11-29 16h|
+|291|chivalry-2--kings-edition-content|Chivalry 2 King's Edition Content|7,99€|50|2022-11-22 16h|2022-11-29 16h|
+|292|chivalry-2--special-edition|Chivalry 2 Special Edition|43,99€|50|2022-11-22 16h|2022-11-29 16h|
+|293|chivalry-2--special-edition-content|Chivalry 2 Special Edition Content|7,99€|50|2022-11-22 16h|2022-11-29 16h|
+|294|chorus|Chorus|39,99€|50|2022-11-22 16h|2022-11-29 16h|
+|295|chorus--the-elder-armor-skin-set|Chorus - The Elder Armor Skin Set|3,99€|50|2022-11-22 16h|2022-11-29 16h|
+|296|faeria--chronicles-of-gagana|Chronicles of Gagana DLC|9,99€|75|2022-11-22 16h|2022-11-29 16h|
+|297|chronos-before-the-ashes|Chronos: Before the Ashes|29,99€|75|2022-11-22 16h|2022-11-29 16h|
+|298|chronos-before-the-ashes--soundtrack|Chronos: Before the Ashes Soundtrack|2,99€|75|2022-11-22 16h|2022-11-29 16h|
+|299|circus-electrique|Circus Electrique|19,99€|30|2022-11-22 16h|2022-11-29 16h|
+|300|citizen-sleeper-944858|Citizen Sleeper|15,99€|25|2022-11-22 16h|2022-11-29 16h|
+|301|predator-hunting-grounds--city-hunter-predator-pack|City Hunter Predator Pack|4,99€|75|2022-11-22 16h|2022-11-29 16h|
+|302|city-of-gangsters-6c2974|City of Gangsters|29,99€|50|2022-11-22 16h|2022-11-29 16h|
+|303|sid-meiers-civilization-vi--civilization-and-scenario-pack-bundle|Civilization VI : Civilization & Scenario Pack|29,99€|83|2022-11-22 16h|2022-11-29 16h|
+|304|sid-meiers-civilization-vi--gathering-storm|Civilization VI : Gathering Storm|39,99€|88|2022-11-22 16h|2022-11-29 16h|
+|305|sid-meiers-civilization-vi--new-frontier-pass|Civilization VI : New Frontier Pack|39,99€|63|2022-11-22 16h|2022-11-29 16h|
+|306|sid-meiers-civilization-vi--rise-and-fall|Civilization VI : Rise and Fall|29,99€|83|2022-11-22 16h|2022-11-29 16h|
+|307|claire-de-lune|Claire de Lune|31,99€|60|2022-11-22 16h|2022-11-29 16h|
+|308|dungeons-3--clash-of-gods|Clash of Gods|9,99€|50|2022-11-22 16h|2022-11-29 16h|
+|309|predator-hunting-grounds--cleopatra-predator-pack|Cleopatra Predator Pack|4,99€|75|2022-11-22 16h|2022-11-29 16h|
+|310|clid-the-snail|Clid The Snail|19,99€|67|2022-11-22 16h|2022-11-29 16h|
+|311|close-to-the-sun|Close To The Sun|19,99€|70|2022-11-22 16h|2022-11-29 16h|
+|312|close-to-the-sun|Close to the Sun|19,99€|70|2022-11-22 16h|2022-11-29 16h|
+|313|clouzy-c67f4b|Clouzy|11,99€|35|2022-11-22 16h|2022-11-29 16h|
+|314|cobra-kai-the-karate-kid-saga-continues-6ee85d|Cobra Kai - The Karate Kid Saga Continues|15,99€|75|2022-11-22 16h|2022-11-29 16h|
+|315|colt-canyon|Colt Canyon|14,99€|70|2022-11-22 16h|2022-11-29 16h|
+|316|comanche|Comanche|19,99€|67|2022-11-22 16h|2022-11-29 16h|
+|317|borderlands-2--commander-lilith|Commander Lilith DLC|14,99€|67|2022-11-22 16h|2022-11-29 16h|
+|318|commandos-3-ba41db|Commandos 3 - HD Remaster|19,99€|10|2022-11-22 16h|2022-11-29 16h|
+|319|company-of-crime-a5af43|Company of Crime|19,99€|75|2022-11-22 16h|2022-11-29 16h|
+|320|company-of-crime-company-of-crime-soundtrack-62ef8c|Company of Crime: Official Soundtrack|3,99€|75|2022-11-22 16h|2022-11-29 16h|
+|321|banedlc028-10|Complete Force Grey Pack|35,99€|38|2022-11-22 16h|2022-11-29 16h|
+|322|conan-exiles|Conan Exiles|39,99€|70|2022-11-22 16h|2022-11-29 16h|
+|323|conan-exiles--architects-of-argos-pack|Conan Exiles - Architects of Argos Pack|9,99€|25|2022-11-22 16h|2022-11-29 16h|
+|324|conan-exiles--blood-and-sand-pack|Conan Exiles - Blood and Sand Pack|9,99€|25|2022-11-22 16h|2022-11-29 16h|
+|325|conan-exiles--complete-edition-october-2021|Conan Exiles - Complete Edition|150,18€|36|2022-11-22 16h|2022-11-29 16h|
+|326|conan-exiles--debaucheries-of-derketo-pack|Conan Exiles - Debaucheries of Derketo Pack|9,99€|25|2022-11-22 16h|2022-11-29 16h|
+|327|conan-exiles--isle-of-siptah-edition|Conan Exiles - Isle of Siptah Edition|53,98€|55|2022-11-22 16h|2022-11-29 16h|
+|328|conan-exiles--jewel-of-the-west-pack|Conan Exiles - Jewel of the West Pack|9,99€|25|2022-11-22 16h|2022-11-29 16h|
+|329|conan-exiles--people-of-the-dragon-pack|Conan Exiles - People of the Dragon Pack|9,99€|25|2022-11-22 16h|2022-11-29 16h|
+|330|conan-exiles--riders-of-hyboria-pack|Conan Exiles - Riders of Hyboria Pack|9,99€|25|2022-11-22 16h|2022-11-29 16h|
+|331|conan-exiles--seekers-of-the-dawn-pack|Conan Exiles - Seekers of the Dawn Pack|9,99€|25|2022-11-22 16h|2022-11-29 16h|
+|332|conan-exiles--the-imperial-east-pack|Conan Exiles - The Imperial East Pack|9,99€|25|2022-11-22 16h|2022-11-29 16h|
+|333|conan-exiles--riddle-of-steel|Conan Exiles - The Riddle of Steel|6,99€|25|2022-11-22 16h|2022-11-29 16h|
+|334|conan-exiles--the-savage-frontier-pack|Conan Exiles - The Savage Frontier Pack|9,99€|25|2022-11-22 16h|2022-11-29 16h|
+|335|conan-exiles--treasures-of-turan-pack|Conan Exiles - Treasures of Turan Pack|9,99€|25|2022-11-22 16h|2022-11-29 16h|
+|336|conan-exiles--year-1-dlc-bundle|Conan Exiles - Year 1 DLC Bundle|29,99€|25|2022-11-22 16h|2022-11-29 16h|
+|337|conan-exiles--year-2-dlc-bundle|Conan Exiles - Year 2 DLC Bundle|29,99€|25|2022-11-22 16h|2022-11-29 16h|
+|338|conan-exiles--isle-of-siptah|Conan Exiles: Isle of Siptah|19,99€|25|2022-11-22 16h|2022-11-29 16h|
+|339|conglomerate-451-6570f5|Conglomerate 451|19,99€|85|2022-11-22 16h|2022-11-29 16h|
+|340|control|Control|31,99€|75|2022-11-22 16h|2022-11-29 16h|
+|341|control--season-pass|Control Season Pass|14,49€|60|2022-11-22 16h|2022-11-29 16h|
+|342|control--ultimate-edition|Control Ultimate Edition|39,99€|75|2022-11-22 16h|2022-11-29 16h|
+|343|coromon-d4ef84|Coromon|15,99€|25|2022-11-22 16h|2022-11-29 16h|
+|344|cosmic-express|Cosmic Express|7,99€|70|2022-11-22 16h|2022-11-29 16h|
+|345|idle-champions-of-the-forgotten-realms--cranium-rat-avren-skin-feat-pack|Cranium Rat Avren Skin & Feat Pack|7,99€|30|2022-11-22 16h|2022-11-29 16h|
+|346|critadel|Critadel|15,99€|30|2022-11-21 16h|2022-11-28 16h|
+|347|crowns-and-pawns-kingdom-of-deceit-51b045|Crowns and Pawns: Kingdom of Deceit|19,99€|25|2022-11-22 16h|2022-11-29 16h|
+|348|crying-suns|Crying Suns|21,99€|65|2022-11-22 16h|2022-11-29 16h|
+|349|crysis-remastered|Crysis Remastered|29,99€|65|2022-11-22 16h|2022-11-29 16h|
+|350|crysis-remastered-trilogy|Crysis Remastered Trilogy|49,99€|40|2022-11-22 16h|2022-11-29 16h|
+|351|crystal-crisis|Crystal Crisis|15,99€|50|2022-11-21 16h|2022-11-28 16h|
+|352|curious-expedition-2-8cb901|Curious Expedition 2|19,99€|45|2022-11-22 16h|2022-11-29 16h|
+|353|curious-expedition-2-highlands-of-avalon-005353|Curious Expedition 2: Highlands of Avalon|5,99€|20|2022-11-22 16h|2022-11-29 16h|
+|354|curious-expedition-2-curious-expedition-2-robots-of-lux-bb74ee|Curious Expedition 2: Robots of Lux|5,99€|10|2022-11-22 16h|2022-11-29 16h|
+|355|curious-expedition-2-curious-expedition-2-shores-of-taishi-b23f99|Curious Expedition 2: Shores of Taishi|5,99€|15|2022-11-22 16h|2022-11-29 16h|
+|356|cursed-to-golf-a6bc22|Cursed to Golf|19,99€|25|2022-11-22 16h|2022-11-29 16h|
+|357|cyanide-happiness-freakpocalypse|Cyanide & Happiness - Freakpocalypse (Episode 1)|15,99€|50|2022-11-22 16h|2022-11-29 16h|
+|358|cyberpunk-2077|Cyberpunk 2077|59,99€|50|2022-11-22 16h|2022-11-29 16h|
+|359|death-stranding-directors-cut|DEATH STRANDING DIRECTOR'S CUT|39,99€|40|2022-11-22 16h|2022-11-29 16h|
+|360|death-stranding-directors-cut--upgrade|DEATH STRANDING DIRECTOR'S CUT Upgrade|9,99€|40|2022-11-22 16h|2022-11-29 16h|
+|361|deathloop|DEATHLOOP|59,99€|67|2022-11-22 16h|2022-11-29 16h|
+|362|deathloop--deluxe-edition|DEATHLOOP Deluxe Edition|79,99€|67|2022-11-22 16h|2022-11-29 16h|
+|363|deathloop--deluxe-pack|DEATHLOOP Deluxe Pack|19,99€|25|2022-11-22 16h|2022-11-29 16h|
+|364|deathrun-tv-db074f|DEATHRUN TV|11,99€|50|2022-11-22 16h|2022-11-29 16h|
+|365|disc-room|DISC ROOM|14,99€|50|2022-11-22 16h|2022-11-29 16h|
+|366|doom-1993|DOOM (1993)|4,99€|60|2022-11-22 16h|2022-11-29 16h|
+|367|doom-3|DOOM 3|9,99€|60|2022-11-22 16h|2022-11-29 16h|
+|368|doom-64|DOOM 64|4,99€|67|2022-11-22 16h|2022-11-29 16h|
+|369|doom-ii|DOOM II|4,99€|60|2022-11-22 16h|2022-11-29 16h|
+|370|daily-deal-token|Daily Deal Ticket|7,99€|25|2022-11-22 16h|2022-11-29 16h|
+|371|south-park-the-fractured-but-whole--danger-deck|Danger Deck - DLC|5,99€|75|2022-11-22 16h|2022-11-29 16h|
+|372|danger-forever-a10e7e|Danger Forever|11,99€|20|2022-11-22 16h|2022-11-29 16h|
+|373|predator-hunting-grounds--dante-beast-mode-jefferson-pack|Dante “Beast Mode” Jefferson Pack|6,99€|75|2022-11-22 16h|2022-11-29 16h|
+|374|dark-deity-0b08d1|Dark Deity|21,99€|40|2022-11-22 16h|2022-11-29 16h|
+|375|dark-matter-13654b|Dark Matter|1,59€|50|2022-11-22 16h|2022-11-29 16h|
+|376|darkest-dungeon-2|Darkest Dungeon II|23,99€|10|2022-11-22 16h|2022-11-29 16h|
+|377|darksiders-genesis|Darksiders Genesis|29,99€|75|2022-11-22 16h|2022-11-29 16h|
+|378|darksiders-genesis--digital-extras|Darksiders Genesis Digital Extras|7,99€|75|2022-11-22 16h|2022-11-29 16h|
+|379|darksiders2|Darksiders II Deathinitive Edition|29,99€|75|2022-11-22 16h|2022-11-29 16h|
+|380|darksiders3|Darksiders III|39,99€|75|2022-11-22 16h|2022-11-29 16h|
+|381|darksiders3--dlc-2|Darksiders III DLC - Keepers of the Void|12,99€|75|2022-11-22 16h|2022-11-29 16h|
+|382|darksiders3--dlc|Darksiders III DLC - The Crucible|6,99€|75|2022-11-22 16h|2022-11-29 16h|
+|383|darksiders|Darksiders Warmastered Edition|19,99€|75|2022-11-22 16h|2022-11-29 16h|
+|384|while-true-learn--data-scientist-edition|Data Scientist Edition|13,99€|27|2022-11-22 16h|2022-11-29 16h|
+|385|days-gone|Days Gone|49,99€|60|2022-11-22 16h|2022-11-29 16h|
+|386|dead-age-f46c67|Dead Age|14,99€|85|2022-11-22 16h|2022-11-29 16h|
+|387|dead-age-2|Dead Age 2|17,99€|77|2022-11-22 16h|2022-11-29 16h|
+|388|dead-by-daylight--silent-hill-chapter|Dead By Daylight - Silent Hill Chapter|6,99€|50|2022-11-22 16h|2022-11-29 16h|
+|389|far-cry-5--dead-living-zombies-dlc|Dead Living Zombies DLC|7,99€|70|2022-11-22 16h|2022-11-29 16h|
+|390|dead-by-daylight|Dead by Daylight|19,99€|60|2022-11-22 16h|2022-11-29 16h|
+|391|dead-by-daylight--a-binding-of-kin-chapter|Dead by Daylight - A Binding of Kin Chapter|6,99€|50|2022-11-22 16h|2022-11-29 16h|
+|392|dead-by-daylight--a-nightmare-on-elm-street|Dead by Daylight - A Nightmare on Elm Street™|6,99€|50|2022-11-22 16h|2022-11-29 16h|
+|393|dead-by-daylight--all--kill-chapter|Dead by Daylight - All-Kill Chapter|6,99€|50|2022-11-22 16h|2022-11-29 16h|
+|394|dead-by-daylight--ash-vs-evil-dead|Dead by Daylight - Ash vs Evil Dead|4,99€|50|2022-11-22 16h|2022-11-29 16h|
+|395|dead-by-daylight--chains-of-hate-chapter|Dead by Daylight - Chains of Hate Chapter|6,99€|50|2022-11-22 16h|2022-11-29 16h|
+|396|dead-by-daylight--cursed-legacy-chapter|Dead by Daylight - Cursed Legacy Chapter|6,99€|50|2022-11-22 16h|2022-11-29 16h|
+|397|dead-by-daylight--curtain-call-chapter|Dead by Daylight - Curtain Call Chapter|6,99€|50|2022-11-22 16h|2022-11-29 16h|
+|398|dead-by-daylight--darkness-among-us-chapter|Dead by Daylight - Darkness Among Us Chapter|6,99€|50|2022-11-22 16h|2022-11-29 16h|
+|399|dead-by-daylight--demise-of-the-faithful-chapter|Dead by Daylight - Demise of the Faithful Chapter|6,99€|50|2022-11-22 16h|2022-11-29 16h|
+|400|dead-by-daylight--descend-beyond-chapter|Dead by Daylight - Descend Beyond Chapter|6,99€|50|2022-11-22 16h|2022-11-29 16h|
+|401|dead-by-daylight--ghost-face|Dead by Daylight - Ghost Face®|4,99€|50|2022-11-22 16h|2022-11-29 16h|
+|402|dead-by-daylight--headcase|Dead by Daylight - Headcase|2,99€|50|2022-11-22 16h|2022-11-29 16h|
+|403|dead-by-daylight--hellraiser-chapter|Dead by Daylight - Hellraiser Chapter|4,99€|40|2022-11-22 16h|2022-11-29 16h|
+|404|dead-by-daylight--hour-of-the-witch-chapter|Dead by Daylight - Hour of the Witch Chapter|4,99€|50|2022-11-22 16h|2022-11-29 16h|
+|405|dead-by-daylight--killer-expansion-pack|Dead by Daylight - Killer Expansion Pack|29,99€|40|2022-11-22 16h|2022-11-29 16h|
+|406|dead-by-daylight--leatherface|Dead by Daylight - Leatherface™|4,99€|50|2022-11-22 16h|2022-11-29 16h|
+|407|dead-by-daylight--of-flesh-and-mud-chapter|Dead by Daylight - Of Flesh and Mud Chapter|6,99€|50|2022-11-22 16h|2022-11-29 16h|
+|408|dead-by-daylight--portrait-of-a-murder|Dead by Daylight - Portrait of a Murder|6,99€|50|2022-11-22 16h|2022-11-29 16h|
+|409|dead-by-daylight--resident-evil-chapter|Dead by Daylight - Resident Evil Chapter|11,99€|50|2022-11-22 16h|2022-11-29 16h|
+|410|dead-by-daylight--roots-of-dread|Dead by Daylight - Roots of Dread|6,99€|30|2022-11-22 16h|2022-11-29 16h|
+|411|dead-by-daylight--sadako-rising|Dead by Daylight - Sadako Rising|6,99€|20|2022-11-22 16h|2022-11-29 16h|
+|412|dead-by-daylight--shattered-bloodline-chapter|Dead by Daylight - Shattered Bloodline Chapter|6,99€|50|2022-11-22 16h|2022-11-29 16h|
+|413|dead-by-daylight--silent-hill-edition|Dead by Daylight - Silent Hill Edition|49,99€|40|2022-11-22 16h|2022-11-29 16h|
+|414|dead-by-daylight--spark-of-madness-chapter|Dead by Daylight - Spark of Madness Chapter|6,99€|50|2022-11-22 16h|2022-11-29 16h|
+|415|dead-by-daylight--survivor-expansion-pack|Dead by Daylight - Survivor Expansion Pack|29,99€|40|2022-11-22 16h|2022-11-29 16h|
+|416|dead-by-daylight--the-80s-suitcase|Dead by Daylight - The 80's Suitcase|2,99€|50|2022-11-22 16h|2022-11-29 16h|
+|417|dead-by-daylight--the-bloodstained-sack|Dead by Daylight - The Bloodstained Sack|2,99€|50|2022-11-22 16h|2022-11-29 16h|
+|418|dead-by-daylight--the-halloween-chapter|Dead by Daylight - The Halloween® Chapter|6,99€|50|2022-11-22 16h|2022-11-29 16h|
+|419|dead-by-daylight--the-saw-chapter|Dead by Daylight - The SAW® Chapter|6,99€|50|2022-11-22 16h|2022-11-29 16h|
+|420|dead-by-daylight--ultimate-edition|Dead by Daylight: Ultimate Edition|69,99€|40|2022-11-22 16h|2022-11-29 16h|
+|421|death-trash|Death Trash|19,99€|20|2022-11-22 16h|2022-11-29 16h|
+|422|deaths-door|Death's Door|19,99€|50|2022-11-22 16h|2022-11-29 16h|
+|423|while-true-learn--deep-edition|Deep Edition|15,99€|27|2022-11-22 16h|2022-11-29 16h|
+|424|fortnite--deep-freeze-bundle|Deep Freeze Bundle|11,99€|30|2022-12-21 00h|2023-01-10 00h|
+|425|deep-sky-derelicts|Deep Sky Derelicts|19,99€|85|2022-11-22 16h|2022-11-29 16h|
+|426|deep-sky-derelicts--new-prospects|Deep Sky Derelicts - New Prospects|6,99€|85|2022-11-22 16h|2022-11-29 16h|
+|427|deep-sky-derelicts--station-life|Deep Sky Derelicts - Station Life|6,99€|85|2022-11-22 16h|2022-11-29 16h|
+|428|deep-sky-derelicts--definitive-edition|Deep Sky Derelicts: Definitive Edition|24,80€|85|2022-11-22 16h|2022-11-29 16h|
+|429|deepest-chamber-f7085f|Deepest Chamber|12,99€|25|2022-11-22 16h|2022-11-29 16h|
+|430|deflector-fedbe0|Deflector|11,99€|15|2022-11-22 16h|2022-11-29 16h|
+|431|deliver-us-the-moon|Deliver Us The Moon|24,99€|65|2022-11-22 16h|2022-11-29 16h|
+|432|deliver-us-the-moon--official-soundtrack|Deliver Us The Moon - Official Soundtrack|7,99€|65|2022-11-22 16h|2022-11-29 16h|
+|433|deliver-us-the-moon--deluxe-edition|Deliver Us The Moon: Digital Deluxe|29,99€|65|2022-11-22 16h|2022-11-29 16h|
+|434|kingdom-come-deliverance--deliverance-making-of|Deliverance: The Making of Kingdom Come|3,99€|80|2022-11-22 16h|2022-11-29 16h|
+|435|riders-republic--deluxe-edition|Deluxe Edition|79,99€|67|2022-11-22 16h|2022-11-29 16h|
+|436|scarlet-hood-and-the-wicked-wood--deluxe-edition|Deluxe Edition|19,52€|55|2022-11-22 16h|2022-11-29 16h|
+|437|deluxe-edition|Deluxe Edition|15,99€|50|2022-11-22 16h|2022-11-29 16h|
+|438|democracy-4|Democracy 4|21,99€|55|2022-11-22 16h|2022-11-29 16h|
+|439|demon-turf|Demon Turf|21,99€|35|2022-11-22 16h|2022-11-29 16h|
+|440|desert-child-be4072|Desert Child|9,99€|70|2022-11-22 16h|2022-11-29 16h|
+|441|desperados-3|Desperados III|29,99€|50|2022-11-22 16h|2022-11-29 16h|
+|442|desperados-3--soundtrack|Desperados III - OST|9,99€|50|2022-11-22 16h|2022-11-29 16h|
+|443|desperados-3--season-pass|Desperados III - Season Pass|12,99€|50|2022-11-22 16h|2022-11-29 16h|
+|444|destiny-2--beyond-light|Destiny 2: Beyond Light|29,99€|60|2022-11-22 16h|2022-11-29 16h|
+|445|destiny-2--bungie-30th-anniversary-pack|Destiny 2: Bungie 30th Anniversary Pack|24,99€|40|2022-11-22 16h|2022-11-29 16h|
+|446|destiny-2--forsaken|Destiny 2: Forsaken Pack|19,99€|67|2022-11-22 16h|2022-11-29 16h|
+|447|destiny-2--legacy-collection|Destiny 2: Legacy Collection|59,99€|67|2022-11-22 16h|2022-11-29 16h|
+|448|destiny-2--shadowkeep|Destiny 2: Shadowkeep|24,99€|67|2022-11-22 16h|2022-11-29 16h|
+|449|destiny-2--the-witch-queen|Destiny 2: The Witch Queen|39,99€|50|2022-11-22 16h|2022-11-29 16h|
+|450|destiny-2--the-witch-queen-deluxe-edition|Destiny 2: The Witch Queen Deluxe Edition|79,99€|50|2022-11-22 16h|2022-11-29 16h|
+|451|destroy-all-humans|Destroy All Humans!|29,99€|75|2022-11-22 16h|2022-11-29 16h|
+|452|destroy-all-humans--destroy-all-humans-skin-pack|Destroy All Humans! - Skin Pack|9,99€|75|2022-11-22 16h|2022-11-29 16h|
+|453|destroy-all-humans-2-reprobed--challenge-accepted-dlc|Destroy All Humans! 2 - Reprobed: Challenge Accepted DLC|9,99€|25|2022-11-22 16h|2022-11-29 16h|
+|454|destroy-all-humans-2-reprobed--dressed-to-skill-edition|Destroy All Humans! 2 - Reprobed: Dressed to Skill|54,99€|25|2022-11-22 16h|2022-11-29 16h|
+|455|destroy-all-humans-2-reprobed--official-orchestral-score|Destroy All Humans! 2 - Reprobed: Official Orchestral Score|4,99€|25|2022-11-22 16h|2022-11-29 16h|
+|456|destroy-all-humans-2-reprobed--skin-pack|Destroy All Humans! 2 - Reprobed: Skin Pack|9,99€|25|2022-11-22 16h|2022-11-29 16h|
+|457|detroit-become-human|Detroit: Become Human|39,90€|50|2022-11-22 16h|2022-11-29 16h|
+|458|dice-legacy|Dice Legacy|19,99€|70|2022-11-22 16h|2022-11-29 16h|
+|459|dice-legacy--deluxe-edition|Dice Legacy Deluxe Edition|22,99€|66|2022-11-22 16h|2022-11-29 16h|
+|460|dice-legacy--soundtrack|Dice Legacy Soundtrack|5,99€|40|2022-11-22 16h|2022-11-29 16h|
+|461|dice-legacy--corrupted-fates|Dice Legacy: Corrupted Fates|7,99€|50|2022-11-22 16h|2022-11-29 16h|
+|462|vampire-the-masquerade-swansong--artbook|Digital Artbook - Boston By Night|3,99€|15|2022-11-22 16h|2022-11-29 16h|
+|463|vampire-the-masquerade-swansong--soundtrack|Digital Soundtrack|7,99€|15|2022-11-22 16h|2022-11-29 16h|
+|464|diplomacy-is-not-an-option-9c6bea|Diplomacy is Not an Option|20,99€|20|2022-11-22 16h|2022-11-29 16h|
+|465|disaster-report-4-summer-memories|Disaster Report 4: Soundtrack|3,99€|60|2022-11-22 16h|2022-11-29 16h|
+|466|disaster-report-4-summer-memories|Disaster Report 4: Summer Memories|47,99€|60|2022-11-22 16h|2022-11-29 16h|
+|467|disciples-liberation|Disciples: Liberation|39,99€|50|2022-11-22 16h|2022-11-29 16h|
+|468|disciples-liberation--paths-to-madness|Disciples: Liberation - Paths to Madness|14,99€|50|2022-11-22 16h|2022-11-29 16h|
+|469|disciples-liberation--digital-deluxe-edition|Disciples: Liberation Deluxe Edition|49,99€|50|2022-11-22 16h|2022-11-29 16h|
+|470|idle-champions-of-the-forgotten-realms--disco-the-baby-moonstone-dragon-familiar-pack|Disco the Baby Moonstone Dragon Familiar Pack|7,99€|50|2022-11-22 16h|2022-11-29 16h|
+|471|discovery-tour-viking-age|Discovery Tour: Viking Age|19,99€|60|2022-11-22 16h|2022-11-29 16h|
+|472|disgaea-6-complete|Disgaea 6 Complete|69,99€|30|2022-11-22 16h|2022-11-29 16h|
+|473|disgaea-6-complete--digital-art-book|Disgaea 6 Complete - Digital Art Book|5,99€|30|2022-11-22 16h|2022-11-29 16h|
+|474|disgaea-6-complete--digital-dood-edition|Disgaea 6 Complete Digital Dood Edition|72,18€|30|2022-11-22 16h|2022-11-29 16h|
+|475|dishonored-2|Dishonored 2|29,99€|80|2022-11-22 16h|2022-11-29 16h|
+|476|disney-dreamlight-valley|Disney Dreamlight Valley|29,99€|20|2022-11-22 16h|2022-11-29 16h|
+|477|disney-dreamlight-valley--ultimate-edition|Disney Dreamlight Valley — Ultimate Edition|69,99€|25|2022-11-22 16h|2022-11-29 16h|
+|478|doki-doki-literature-club-plus|Doki Doki Literature Club Plus!|12,49€|20|2022-11-22 16h|2022-11-29 16h|
+|479|donut-county|Donut County|11,49€|70|2022-11-22 16h|2022-11-29 16h|
+|480|doodle-devil-8e65af|Doodle Devil|7,99€|20|2022-11-22 16h|2022-11-29 16h|
+|481|doodle-god-f6a7b6|Doodle God|11,99€|20|2022-11-22 16h|2022-11-29 16h|
+|482|double-cross-08a736|Double Cross|15,99€|75|2022-11-22 16h|2022-11-29 16h|
+|483|drawful-2|Drawful 2|9,99€|55|2022-11-22 16h|2022-11-29 16h|
+|484|dread-nautical|Dread Nautical|15,99€|75|2022-11-22 16h|2022-11-29 16h|
+|485|dread-templar-d8e8fa|Dread Templar|19,99€|20|2022-11-22 16h|2022-11-29 16h|
+|486|dreamscaper|Dreamscaper|19,99€|50|2022-11-22 16h|2022-11-29 16h|
+|487|druidstone-0697f7|Druidstone: The Secret of the Menhir Forest|19,99€|75|2022-11-22 16h|2022-11-29 16h|
+|488|dumpy-and-bumpy-86c9d7|Dumpy and Bumpy|3,99€|60|2022-11-22 16h|2022-11-29 16h|
+|489|dungeons-3|Dungeons 3|29,99€|75|2022-11-22 16h|2022-11-29 16h|
+|490|dungeons-3--dlc-bundle|Dungeons 3 - DLC Bundle|19,99€|50|2022-11-22 16h|2022-11-29 16h|
+|491|predator-hunting-grounds--dutch-87-dlc-pack|Dutch '87 DLC Pack|6,99€|75|2022-11-22 16h|2022-11-29 16h|
+|492|predator-hunting-grounds--dutch-2025-dlc-pack|Dutch 2025 DLC Pack|6,99€|75|2022-11-22 16h|2022-11-29 16h|
+|493|dying-light--5th-anniversary-bundle|Dying Light - 5th Anniversary Bundle|2,99€|50|2022-11-22 16h|2022-11-29 16h|
+|494|dying-light--astronaut-bundle|Dying Light - Astronaut Bundle|2,99€|50|2022-11-22 16h|2022-11-29 16h|
+|495|dying-light--classified-operation-bundle|Dying Light - Classified Operation Bundle|2,99€|50|2022-11-22 16h|2022-11-29 16h|
+|496|dying-light--godfather-bundle|Dying Light - Godfather Bundle|2,99€|50|2022-11-22 16h|2022-11-29 16h|
+|497|dying-light--gun-psycho-bundle|Dying Light - Gun Psycho Bundle|2,99€|50|2022-11-22 16h|2022-11-29 16h|
+|498|dying-light--harran-inmate-bundle|Dying Light - Harran Inmate Bundle|2,99€|50|2022-11-22 16h|2022-11-29 16h|
+|499|dying-light--harran-ranger-bundle|Dying Light - Harran Ranger Bundle|2,99€|50|2022-11-22 16h|2022-11-29 16h|
+|500|dying-light--harran-tactical-unit-bundle|Dying Light - Harran Tactical Unit Bundle|2,99€|50|2022-11-22 16h|2022-11-29 16h|
+|501|dying-light--hellraid|Dying Light - Hellraid|9,99€|66|2022-11-22 16h|2022-11-29 16h|
+|502|dying-light--rais-elite-bundle|Dying Light - Rais Elite Bundle|2,99€|50|2022-11-22 16h|2022-11-29 16h|
+|503|dying-light--retrowave-bundle|Dying Light - Retrowave Bundle|2,99€|50|2022-11-22 16h|2022-11-29 16h|
+|504|dying-light--savvy-gamer-bundle|Dying Light - Savvy Gamer Bundle|2,99€|50|2022-11-22 16h|2022-11-29 16h|
+|505|dying-light--shu-warrior-bundle|Dying Light - Shu Warrior Bundle|2,99€|50|2022-11-22 16h|2022-11-29 16h|
+|506|dying-light--snow-ops-bundle|Dying Light - Snow Ops Bundle|1,99€|50|2022-11-22 16h|2022-11-29 16h|
+|507|dying-light--van-crane-bundle|Dying Light - Van Crane Bundle|2,99€|50|2022-11-22 16h|2022-11-29 16h|
+|508|dying-light--viking-raiders-of-harran-bundle|Dying Light - Viking: Raiders of Harran Bundle|3,99€|50|2022-11-22 16h|2022-11-29 16h|
+|509|dying-light--vintage-gunslinger-bundle|Dying Light - Vintage Gunslinger Bundle|2,99€|50|2022-11-22 16h|2022-11-29 16h|
+|510|dying-light--volatile-hunter-bundle|Dying Light - Volatile Hunter Bundle|2,99€|50|2022-11-22 16h|2022-11-29 16h|
+|511|dying-light--volkan-combat-armor-bundle|Dying Light - Volkan Combat Armor Bundle|2,99€|50|2022-11-22 16h|2022-11-29 16h|
+|512|dying-light--white-death-bundle|Dying Light - White Death Bundle|2,99€|50|2022-11-22 16h|2022-11-29 16h|
+|513|dying-light-2-stay-human  |Dying Light 2 Stay Human|59,99€|50|2022-11-22 16h|2022-11-29 16h|
+|514|dying-light-2-stay-human--deluxe-edition|Dying Light 2 Stay Human - Deluxe Edition|79,99€|45|2022-11-22 16h|2022-11-29 16h|
+|515|dying-light-2-stay-human--ultimate-edition|Dying Light 2 Stay Human - Ultimate Edition|99,99€|30|2022-11-22 16h|2022-11-29 16h|
+|516|dying-light--definitive-edition|Dying Light Definitive Edition|49,99€|80|2022-11-22 16h|2022-11-29 16h|
+|517|dying-light|Dying Light Enhanced Edition|29,99€|70|2022-11-22 16h|2022-11-29 16h|
+|518|fifa-23|EA SPORTS™ FIFA 23 Standard Edition|69,99€|40|2022-11-22 16h|2022-11-29 16h|
+|519|fifa-23--ultimate-edition|EA SPORTS™ FIFA 23 Ultimate Edition|89,99€|40|2022-11-22 16h|2022-11-29 16h|
+|520|ea-star-wars-triple-bundle|EA STAR WARS™ TRIPLE BUNDLE|89,99€|75|2022-11-22 16h|2022-11-29 16h|
+|521|elex|ELEX|29,99€|75|2022-11-22 16h|2022-11-29 16h|
+|522|elex--digital-extras|ELEX Digital Extras|9,99€|75|2022-11-22 16h|2022-11-29 16h|
+|523|elex-ii|ELEX II|49,99€|50|2022-11-22 16h|2022-11-29 16h|
+|524|elex-ii--soundtrack|ELEX II Soundtrack|4,99€|50|2022-11-22 16h|2022-11-29 16h|
+|525|eve-online--1-month-omega|EVE Online - 1 Month Omega|19,99€|20|2022-11-22 16h|2022-11-29 16h|
+|526|eve-online--12-months-omega|EVE Online - 12 Months Omega|149,90€|20|2022-11-22 16h|2022-11-29 16h|
+|527|eve-online--24-months-omega|EVE Online - 24 Months Omega|270,99€|20|2022-11-22 16h|2022-11-29 16h|
+|528|eve-online--3-months-omega|EVE Online - 3 Months Omega|47,98€|20|2022-11-22 16h|2022-11-29 16h|
+|529|eve-online--6-months-omega|EVE Online - 6 Months Omega|86,95€|20|2022-11-22 16h|2022-11-29 16h|
+|530|pc-building-simulator--evga-workshop|EVGA Workshop|4,99€|25|2022-11-22 16h|2022-11-29 16h|
+|531|eastward|Eastward|24,99€|20|2022-11-22 16h|2022-11-29 16h|
+|532|idle-champions-of-the-forgotten-realms--eberron-ellywick-skin-feat-pack|Eberron Ellywick Skin & Feat Pack|7,99€|40|2022-12-02 20h|2022-12-05 20h|
+|533|idle-champions-of-the-forgotten-realms--eberron-inventor-vi-theme-pack|Eberron Inventor Vi Theme Pack|19,99€|50|2022-11-22 16h|2022-11-29 16h|
+|534|edge-of-galaxy-092087|Edge Of Galaxy|6,99€|25|2023-01-10 05h|2023-01-17 05h|
+|535|the-falconeer--edge-of-the-world|Edge of the World|7,99€|55|2022-11-22 16h|2022-11-29 16h|
 |536|eiyuden-chronicle-rising|Eiyuden Chronicle: Rising|14,99€|33|2022-11-22 16h|2022-11-29 16h|
 |537|el-hijo-6b63c5|El Hijo – A Wild West Tale|19,99€|50|2022-11-22 16h|2022-11-29 16h|
 |538|faeria--elements|Elements DLC|6,99€|75|2022-11-22 16h|2022-11-29 16h|
@@ -559,9 +559,9 @@
 |557|etherborn-00f378|Etherborn|13,99€|65|2022-11-22 16h|2022-11-29 16h|
 |558|everything|Everything|12,99€|80|2022-11-22 16h|2022-11-29 16h|
 |559|evil-dead-the-game|Evil Dead: The Game|39,99€|50|2022-11-22 16h|2022-11-29 16h|
-|560|evil-dead-the-game--ash-williams-gallant-knight-outfit|Evil Dead: The Game -  Ash Williams Gallant Knight Outfit|2,39€|50|2022-11-22 16h|2022-11-29 16h|
-|561|evil-dead-the-game--2013-bundle|Evil Dead: The Game - 2013 bundle|7,99€|50|2022-11-22 16h|2022-11-29 16h|
-|562|evil-dead-the-game--army-of-darkness-bundle|Evil Dead: The Game - Army of Darkness Bundle|5,99€|50|2022-11-22 16h|2022-11-29 16h|
+|560|evil-dead-the-game--2013-bundle|Evil Dead: The Game - 2013 bundle|7,99€|50|2022-11-22 16h|2022-11-29 16h|
+|561|evil-dead-the-game--army-of-darkness-bundle|Evil Dead: The Game - Army of Darkness Bundle|5,99€|50|2022-11-22 16h|2022-11-29 16h|
+|562|evil-dead-the-game--ash-williams-gallant-knight-outfit|Evil Dead: The Game - Ash Williams Gallant Knight Outfit|2,39€|50|2022-11-22 16h|2022-11-29 16h|
 |563|evil-dead-the-game--ash-williams-s-mart-employee-outfit|Evil Dead: The Game - Ash Williams S-Mart Employee Outfit|2,39€|50|2022-11-22 16h|2022-11-29 16h|
 |564|evil-dead-the-game--classics-bundle|Evil Dead: The Game - Classics Bundle|7,99€|50|2022-11-22 16h|2022-11-29 16h|
 |565|evil-dead-the-game--deluxe-edition|Evil Dead: The Game - Deluxe Edition|59,99€|50|2022-11-22 16h|2022-11-29 16h|
@@ -935,7 +935,7 @@
 |933|just-cause-4--gold-edition|Just Cause 4 Gold Edition|48,99€|80|2022-11-22 16h|2022-11-29 16h|
 |934|just-cause-4--golden-gear-pack|Just Cause 4 Gold Gear Pack|4,99€|70|2022-11-22 16h|2022-11-29 16h|
 |935|just-cause-4|Just Cause 4 Reloaded|32,99€|80|2022-11-22 16h|2022-11-29 16h|
-|936|just-cause-4--reloaded-content-pack|Just Cause 4 Reloaded  Content Pack|7,99€|50|2022-11-22 16h|2022-11-29 16h|
+|936|just-cause-4--reloaded-content-pack|Just Cause 4 Reloaded Content Pack|7,99€|50|2022-11-22 16h|2022-11-29 16h|
 |937|kards-the-world-war-ii-card-game--starter-pack|KARDS - Starter Pack|8,19€|95|2022-11-22 16h|2022-11-29 16h|
 |938|kaichu-the-kaiju-dating-sim-531fb7|Kaichu - The Kaiju Dating Sim|7,99€|30|2022-11-22 16h|2022-11-29 16h|
 |939|kao-the-kangaroo-62abe3|Kao the Kangaroo|29,99€|30|2022-11-22 16h|2022-11-29 16h|
@@ -1108,8 +1108,8 @@
 |1106|my-time-at-sandrock|My Time at Sandrock|20,99€|20|2022-11-22 18h|2022-11-29 18h|
 |1107|sherlock-holmes-chapter-one--mycrofts-pride|Mycroft's Pride DLC|9,99€|30|2022-11-22 16h|2022-11-29 16h|
 |1108|naraka-bladepoint|NARAKA: BLADEPOINT|19,99€|50|2022-11-22 16h|2022-11-29 16h|
-|1109|naraka-bladepoint--ultimate-edition|NARAKA: BLADEPOINT  Ultimate Edition|50,99€|50|2022-11-22 16h|2022-11-29 16h|
-|1110|naraka-bladepoint--deluxe-edition|NARAKA: BLADEPOINT Deluxe Edition|34,99€|50|2022-11-22 16h|2022-11-29 16h|
+|1109|naraka-bladepoint--deluxe-edition|NARAKA: BLADEPOINT Deluxe Edition|34,99€|50|2022-11-22 16h|2022-11-29 16h|
+|1110|naraka-bladepoint--ultimate-edition|NARAKA: BLADEPOINT Ultimate Edition|50,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1111|pc-building-simulator--nzxt-workshop|NZXT Workshop|4,99€|25|2022-11-22 16h|2022-11-29 16h|
 |1112|narita-boy|Narita Boy|24,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1113|idle-champions-of-the-forgotten-realms--nature-warden-skin-feat-pack|Nature Warden Skin & Feat Pack|7,99€|40|2022-11-22 16h|2022-11-29 16h|
@@ -1260,7 +1260,7 @@
 |1258|railway-empire|Railway Empire|29,99€|70|2022-11-22 16h|2022-11-29 16h|
 |1259|railway-empire--crossing-the-andes|Railway Empire - Crossing the Andes|7,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1260|railway-empire--dlc-bundle|Railway Empire - DLC Bundle|29,99€|60|2022-11-22 16h|2022-11-29 16h|
-|1261|railway-empire--down-under|Railway Empire - Down Under |7,99€|50|2022-11-22 16h|2022-11-29 16h|
+|1261|railway-empire--down-under|Railway Empire - Down Under|7,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1262|railway-empire--france|Railway Empire - France|9,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1263|railway-empire--germany|Railway Empire - Germany|9,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1264|railway-empire--great-britain-and-ireland|Railway Empire - Great Britain & Ireland|9,99€|50|2022-11-22 16h|2022-11-29 16h|
@@ -1293,7 +1293,7 @@
 |1291|recipe-for-disaster-83726f|Recipe for Disaster|16,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1292|red-dead-redemption-2--red-dead-online|Red Dead Online|19,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1293|red-dead-redemption-2|Red Dead Redemption 2|59,99€|67|2022-11-22 16h|2022-11-29 16h|
-|1294|red-dead-redemption-2--ultimate-edition|Red Dead Redemption 2:  Ultimate Edition|89,99€|70|2022-11-22 16h|2022-11-29 16h|
+|1294|red-dead-redemption-2--ultimate-edition|Red Dead Redemption 2: Ultimate Edition|89,99€|70|2022-11-22 16h|2022-11-29 16h|
 |1295|red-ronin-d2678c|Red Ronin|5,99€|60|2022-11-22 16h|2022-11-29 16h|
 |1296|redout-2|Redout 2|29,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1297|redout-2--deluxe-edition|Redout 2 - Deluxe Edition|44,99€|35|2022-11-22 16h|2022-11-29 16h|
@@ -1355,7 +1355,7 @@
 |1353|rogue-legacy|Rogue Legacy|11,99€|80|2022-11-22 16h|2022-11-29 16h|
 |1354|rogue-legacy-2|Rogue Legacy 2|19,99€|25|2022-11-22 16h|2022-11-29 16h|
 |1355|rogue-lords|Rogue Lords|24,99€|50|2022-11-22 16h|2022-11-29 16h|
-|1356|rogue-lords--supporter-pack|Rogue Lords -  Supporter Pack|9,99€|30|2022-11-22 16h|2022-11-29 16h|
+|1356|rogue-lords--supporter-pack|Rogue Lords - Supporter Pack|9,99€|30|2022-11-22 16h|2022-11-29 16h|
 |1357|rougebook|Roguebook|24,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1358|roguebook--original-soundtrack|Roguebook - Original Soundtrack|7,99€|25|2022-11-22 16h|2022-11-29 16h|
 |1359|roguebook--art-of-roguebook|Roguebook - The Art of Roguebook|4,99€|25|2022-11-22 16h|2022-11-29 16h|
@@ -1393,7 +1393,7 @@
 |1391|saints-row|Saints Row|59,99€|33|2022-11-22 16h|2022-11-29 16h|
 |1392|saints-row--gold-edition|Saints Row Gold Edition|89,99€|33|2022-11-22 16h|2022-11-29 16h|
 |1393|saints-row--platinum-edition|Saints Row Platinum Edition|99,99€|33|2022-11-22 16h|2022-11-29 16h|
-|1394|saints-row-the-third-remastered|Saints Row®: The Third™  Remastered|39,99€|75|2022-11-22 16h|2022-11-29 16h|
+|1394|saints-row-the-third-remastered|Saints Row®: The Third™ Remastered|39,99€|75|2022-11-22 16h|2022-11-29 16h|
 |1395|sherlock-holmes-chapter-one--saints-and-sinners|Saints and Sinners|4,99€|30|2022-11-22 16h|2022-11-29 16h|
 |1396|predator-hunting-grounds--samurai-predator-dlc-pack|Samurai Predator DLC Pack|4,99€|75|2022-11-22 16h|2022-11-29 16h|
 |1397|sands-of-aura|Sands of Aura|21,99€|30|2022-11-22 16h|2022-11-29 16h|
@@ -1746,14 +1746,14 @@
 |1744|total-war-warhammer--grim-and-grave|Total War: WARHAMMER - The Grim & The Grave|9,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1745|total-war-warhammer--king-and-warlord|Total War: WARHAMMER - The King & The Warlord|9,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1746|total-war-warhammer-ii|Total War: WARHAMMER II|59,99€|66|2022-11-22 16h|2022-11-29 16h|
-|1747|total-war-warhammer-ii--twisted-and-twilight|Total War: WARHAMMER II -  The Twisted & The Twilight|9,99€|50|2022-11-22 16h|2022-11-29 16h|
-|1748|total-war-warhammer-ii--curse-of-vampire-coast|Total War: WARHAMMER II - Curse of the Vampire Coast|18,99€|50|2022-11-22 16h|2022-11-29 16h|
-|1749|total-war-warhammer-ii--rise-of-tomb-kings|Total War: WARHAMMER II - Rise of the Tomb Kings|18,99€|50|2022-11-22 16h|2022-11-29 16h|
-|1750|total-war-warhammer-ii--hunter-and-beast|Total War: WARHAMMER II - The Hunter & The Beast|9,99€|50|2022-11-22 16h|2022-11-29 16h|
-|1751|total-war-warhammer-ii--prophet-and-warlock|Total War: WARHAMMER II - The Prophet & The Warlock|9,99€|50|2022-11-22 16h|2022-11-29 16h|
-|1752|total-war-warhammer-ii--queen-and-crone|Total War: WARHAMMER II - The Queen & The Crone|9,99€|50|2022-11-22 16h|2022-11-29 16h|
-|1753|total-war-warhammer-ii--shadow-and-blade|Total War: WARHAMMER II - The Shadow & The Blade|9,99€|50|2022-11-22 16h|2022-11-29 16h|
-|1754|total-war-warhammer-ii--silence-and-fury|Total War: WARHAMMER II - The Silence & The Fury|9,99€|33|2022-11-22 16h|2022-11-29 16h|
+|1747|total-war-warhammer-ii--curse-of-vampire-coast|Total War: WARHAMMER II - Curse of the Vampire Coast|18,99€|50|2022-11-22 16h|2022-11-29 16h|
+|1748|total-war-warhammer-ii--rise-of-tomb-kings|Total War: WARHAMMER II - Rise of the Tomb Kings|18,99€|50|2022-11-22 16h|2022-11-29 16h|
+|1749|total-war-warhammer-ii--hunter-and-beast|Total War: WARHAMMER II - The Hunter & The Beast|9,99€|50|2022-11-22 16h|2022-11-29 16h|
+|1750|total-war-warhammer-ii--prophet-and-warlock|Total War: WARHAMMER II - The Prophet & The Warlock|9,99€|50|2022-11-22 16h|2022-11-29 16h|
+|1751|total-war-warhammer-ii--queen-and-crone|Total War: WARHAMMER II - The Queen & The Crone|9,99€|50|2022-11-22 16h|2022-11-29 16h|
+|1752|total-war-warhammer-ii--shadow-and-blade|Total War: WARHAMMER II - The Shadow & The Blade|9,99€|50|2022-11-22 16h|2022-11-29 16h|
+|1753|total-war-warhammer-ii--silence-and-fury|Total War: WARHAMMER II - The Silence & The Fury|9,99€|33|2022-11-22 16h|2022-11-29 16h|
+|1754|total-war-warhammer-ii--twisted-and-twilight|Total War: WARHAMMER II - The Twisted & The Twilight|9,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1755|total-war-warhammer-ii--warden-and-paunch|Total War: WARHAMMER II - The Warden & The Paunch|9,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1756|total-war-warhammer-3|Total War: WARHAMMER III|59,99€|20|2022-11-22 16h|2022-11-29 16h|
 |1757|total-war-warhammer-3--champions-of-chaos|Total War: WARHAMMER III - Champions of Chaos|15,99€|10|2022-11-22 16h|2022-11-29 16h|
@@ -1930,9 +1930,9 @@
 |1928|warhammer-age-of-sigmar-storm-ground|Warhammer Age of Sigmar: Storm Ground|19,99€|60|2022-11-22 16h|2022-11-29 16h|
 |1929|watch-dogs|Watch Dogs|29,99€|75|2022-11-22 16h|2022-11-29 16h|
 |1930|watch-dogs-2|Watch Dogs 2|59,99€|80|2022-11-22 16h|2022-11-29 16h|
-|1931|watch-dogs-2--gold-edition|Watch Dogs 2  Gold Edition|99,99€|80|2022-11-22 16h|2022-11-29 16h|
-|1932|watch-dogs-2--season-pass|Watch Dogs 2 - Season Pass|39,99€|80|2022-11-22 16h|2022-11-29 16h|
-|1933|watch-dogs-2--deluxe-edition|Watch Dogs 2 Deluxe Edition|69,99€|80|2022-11-22 16h|2022-11-29 16h|
+|1931|watch-dogs-2--season-pass|Watch Dogs 2 - Season Pass|39,99€|80|2022-11-22 16h|2022-11-29 16h|
+|1932|watch-dogs-2--deluxe-edition|Watch Dogs 2 Deluxe Edition|69,99€|80|2022-11-22 16h|2022-11-29 16h|
+|1933|watch-dogs-2--gold-edition|Watch Dogs 2 Gold Edition|99,99€|80|2022-11-22 16h|2022-11-29 16h|
 |1934|watch-dogs-2|Watch Dogs 2 Standard Edition|59,99€|80|2022-11-22 16h|2022-11-29 16h|
 |1935|watch-dogs--bad-blood-dlc|Watch Dogs Bad Blood DLC|14,99€|75|2022-11-22 16h|2022-11-29 16h|
 |1936|watch-dogs--complete-edition|Watch Dogs Complete Edition|49,99€|75|2022-11-22 16h|2022-11-29 16h|
@@ -1976,8 +1976,8 @@
 |1974|wrath-aeon-of-ruin|Wrath: Aeon of Ruin|20,99€|20|2022-11-22 16h|2022-11-29 16h|
 |1975|wytchwood|Wytchwood|17,49€|35|2022-11-22 16h|2022-11-29 16h|
 |1976|xcom-2|XCOM® 2|49,99€|95|2022-11-22 16h|2022-11-29 16h|
-|1977|xcom-2--collection-upgrade|XCOM® 2  Collection Upgrade|44,99€|88|2022-11-22 16h|2022-11-29 16h|
-|1978|xcom-2--collection|XCOM® 2 Collection|92,20€|92|2022-11-22 16h|2022-11-29 16h|
+|1977|xcom-2--collection|XCOM® 2 Collection|92,20€|92|2022-11-22 16h|2022-11-29 16h|
+|1978|xcom-2--collection-upgrade|XCOM® 2 Collection Upgrade|44,99€|88|2022-11-22 16h|2022-11-29 16h|
 |1979|yaga|Yaga|19,99€|75|2022-11-22 16h|2022-11-29 16h|
 |1980|yaga--roots-of-evil|Yaga - Roots of Evil|8,49€|75|2022-11-22 16h|2022-11-29 16h|
 |1981|yaga--armful-edition|Yaga Bundle - Armful Edition|26,99€|75|2022-11-22 16h|2022-11-29 16h|
@@ -2001,36 +2001,36 @@
 |1999|zorya-the-celestial-sisters|Zorya: The Celestial Sisters|19,99€|50|2022-11-22 16h|2022-11-29 16h|
 |2000|zorya-the-celestial-sisters--stellar-edition|Zorya: The Celestial Sisters Stellar Edition|23,99€|50|2022-11-22 16h|2022-11-29 16h|
 |2001|thehunter-call-of-the-wild|theHunter: Call of the Wild™|19,99€|75|2022-11-22 16h|2022-11-29 16h|
-|2002|thehunter-call-of-the-wild--modern-rifle-pack|theHunter: Call of the Wild™  - Modern Rifle Pack|3,99€|25|2022-11-22 16h|2022-11-29 16h|
-|2003|thehunter-call-of-the-wild--revontuli-coast|theHunter: Call of the Wild™  - Revontuli coast|7,99€|25|2022-11-22 16h|2022-11-29 16h|
-|2004|thehunter-call-of-the-wild--bloodhound|theHunter: Call of the Wild™ - Bloodhound|3,99€|25|2022-11-22 16h|2022-11-29 16h|
-|2005|thehunter-call-of-the-wild--cuatro-colinas-game-reserve|theHunter: Call of the Wild™ - Cuatro Colinas Game Reserve|7,99€|60|2022-11-22 16h|2022-11-29 16h|
-|2006|thehunter-call-of-the-wild--diamond-bundle|theHunter: Call of the Wild™ - Diamond Bundle|59,99€|80|2022-11-22 16h|2022-11-29 16h|
-|2007|thehunter-call-of-the-wild--diamond-bundle|theHunter: Call of the Wild™ - Diamond Bundle|59,99€|40|2022-11-22 16h|2022-11-29 16h|
-|2008|thehunter-call-of-the-wild--duck-and-cover-pack|theHunter: Call of the Wild™ - Duck and Cover Pack|3,99€|60|2022-11-22 16h|2022-11-29 16h|
-|2009|thehunter-call-of-the-wild--gold-bundle|theHunter: Call of the Wild™ - Gold Bundle|49,99€|85|2022-11-22 16h|2022-11-29 16h|
-|2010|thehunter-call-of-the-wild--gold-bundle|theHunter: Call of the Wild™ - Gold Bundle|49,99€|35|2022-11-22 16h|2022-11-29 16h|
-|2011|thehunter-call-of-the-wild--high-tech-hunting-pack|theHunter: Call of the Wild™ - High-Tech Hunting Pack|3,99€|60|2022-11-22 16h|2022-11-29 16h|
-|2012|thehunter-call-of-the-wild--medved-taiga|theHunter: Call of the Wild™ - Medved-Taiga|7,99€|60|2022-11-22 16h|2022-11-29 16h|
-|2013|thehunter-call-of-the-wild--mississippi-acres-preserve|theHunter: Call of the Wild™ - Mississippi Acres Preserve|7,99€|30|2022-11-22 16h|2022-11-29 16h|
+|2002|thehunter-call-of-the-wild--atv-saber-4x4|theHunter: Call of the Wild™ - ATV Saber 4x4|3,99€|50|2022-11-22 16h|2022-11-29 16h|
+|2003|thehunter-call-of-the-wild--bloodhound|theHunter: Call of the Wild™ - Bloodhound|3,99€|25|2022-11-22 16h|2022-11-29 16h|
+|2004|thehunter-call-of-the-wild--cuatro-colinas-game-reserve|theHunter: Call of the Wild™ - Cuatro Colinas Game Reserve|7,99€|60|2022-11-22 16h|2022-11-29 16h|
+|2005|thehunter-call-of-the-wild--diamond-bundle|theHunter: Call of the Wild™ - Diamond Bundle|59,99€|80|2022-11-22 16h|2022-11-29 16h|
+|2006|thehunter-call-of-the-wild--diamond-bundle|theHunter: Call of the Wild™ - Diamond Bundle|59,99€|40|2022-11-22 16h|2022-11-29 16h|
+|2007|thehunter-call-of-the-wild--duck-and-cover-pack|theHunter: Call of the Wild™ - Duck and Cover Pack|3,99€|60|2022-11-22 16h|2022-11-29 16h|
+|2008|thehunter-call-of-the-wild--gold-bundle|theHunter: Call of the Wild™ - Gold Bundle|49,99€|85|2022-11-22 16h|2022-11-29 16h|
+|2009|thehunter-call-of-the-wild--gold-bundle|theHunter: Call of the Wild™ - Gold Bundle|49,99€|35|2022-11-22 16h|2022-11-29 16h|
+|2010|thehunter-call-of-the-wild--high-tech-hunting-pack|theHunter: Call of the Wild™ - High-Tech Hunting Pack|3,99€|60|2022-11-22 16h|2022-11-29 16h|
+|2011|thehunter-call-of-the-wild--medved-taiga|theHunter: Call of the Wild™ - Medved-Taiga|7,99€|60|2022-11-22 16h|2022-11-29 16h|
+|2012|thehunter-call-of-the-wild--mississippi-acres-preserve|theHunter: Call of the Wild™ - Mississippi Acres Preserve|7,99€|30|2022-11-22 16h|2022-11-29 16h|
+|2013|thehunter-call-of-the-wild--modern-rifle-pack|theHunter: Call of the Wild™ - Modern Rifle Pack|3,99€|25|2022-11-22 16h|2022-11-29 16h|
 |2014|thehunter-call-of-the-wild--parque-fernando|theHunter: Call of the Wild™ - Parque Fernando|7,99€|60|2022-11-22 16h|2022-11-29 16h|
 |2015|thehunter-call-of-the-wild--rancho-del-arroyo|theHunter: Call of the Wild™ - Rancho Del Arroyo|7,99€|35|2022-11-22 16h|2022-11-29 16h|
-|2016|thehunter-call-of-the-wild--saseka-safari-trophy-lodge|theHunter: Call of the Wild™ - Saseka Safari Trophy Lodge|3,99€|60|2022-11-22 16h|2022-11-29 16h|
-|2017|thehunter-call-of-the-wild--2019-edition|theHunter: Call of the Wild™ - Silver Bundle|39,99€|80|2022-11-22 16h|2022-11-29 16h|
-|2018|thehunter-call-of-the-wild--2019-edition|theHunter: Call of the Wild™ - Silver Bundle|39,99€|45|2022-11-22 16h|2022-11-29 16h|
-|2019|thehunter-call-of-the-wild--silver-ridge-peaks|theHunter: Call of the Wild™ - Silver Ridge Peaks|7,99€|45|2022-11-22 16h|2022-11-29 16h|
-|2020|thehunter-call-of-the-wild--smoking-barrels-weapon-pack|theHunter: Call of the Wild™ - Smoking Barrels Weapon Pack|3,99€|50|2022-11-22 16h|2022-11-29 16h|
-|2021|thehunter-call-of-the-wild--starter-bundle|theHunter: Call of the Wild™ - Starter Bundle|29,99€|40|2022-11-22 16h|2022-11-29 16h|
-|2022|thehunter-call-of-the-wild--starter-bundle|theHunter: Call of the Wild™ - Starter Bundle|29,99€|20|2022-11-22 16h|2022-11-29 16h|
-|2023|thehunter-call-of-the-wild--te-awaroa-national-park|theHunter: Call of the Wild™ - Te Awaroa National Park|7,99€|45|2022-11-22 16h|2022-11-29 16h|
-|2024|thehunter-call-of-the-wild--tents-and-ground-blinds|theHunter: Call of the Wild™ - Tents & Ground Blinds|3,99€|60|2022-11-22 16h|2022-11-29 16h|
-|2025|thehunter-call-of-the-wild--treestand-and-tripod-pack|theHunter: Call of the Wild™ - Treestand & Tripod Pack|3,99€|60|2022-11-22 16h|2022-11-29 16h|
-|2026|thehunter-call-of-the-wild--vurhonga-savanna|theHunter: Call of the Wild™ - Vurhonga Savanna|7,99€|60|2022-11-22 16h|2022-11-29 16h|
-|2027|thehunter-call-of-the-wild--weapon-pack1|theHunter: Call of the Wild™ - Weapon Pack 1|3,99€|60|2022-11-22 16h|2022-11-29 16h|
-|2028|thehunter-call-of-the-wild--weapon-pack2|theHunter: Call of the Wild™ - Weapon Pack 2|3,99€|60|2022-11-22 16h|2022-11-29 16h|
-|2029|thehunter-call-of-the-wild--weapon-pack3|theHunter: Call of the Wild™ - Weapon Pack 3|3,99€|60|2022-11-22 16h|2022-11-29 16h|
-|2030|thehunter-call-of-the-wild--wild-goose-chase-gear|theHunter: Call of the Wild™ - Wild Goose Chase Gear|3,99€|60|2022-11-22 16h|2022-11-29 16h|
-|2031|thehunter-call-of-the-wild--yukon-valley|theHunter: Call of the Wild™ - Yukon Valley|7,99€|60|2022-11-22 16h|2022-11-29 16h|
-|2032|thehunter-call-of-the-wild--atv-saber-4x4|theHunter: Call of the Wild™ - ATV Saber 4x4|3,99€|50|2022-11-22 16h|2022-11-29 16h|
+|2016|thehunter-call-of-the-wild--revontuli-coast|theHunter: Call of the Wild™ - Revontuli coast|7,99€|25|2022-11-22 16h|2022-11-29 16h|
+|2017|thehunter-call-of-the-wild--saseka-safari-trophy-lodge|theHunter: Call of the Wild™ - Saseka Safari Trophy Lodge|3,99€|60|2022-11-22 16h|2022-11-29 16h|
+|2018|thehunter-call-of-the-wild--2019-edition|theHunter: Call of the Wild™ - Silver Bundle|39,99€|80|2022-11-22 16h|2022-11-29 16h|
+|2019|thehunter-call-of-the-wild--2019-edition|theHunter: Call of the Wild™ - Silver Bundle|39,99€|45|2022-11-22 16h|2022-11-29 16h|
+|2020|thehunter-call-of-the-wild--silver-ridge-peaks|theHunter: Call of the Wild™ - Silver Ridge Peaks|7,99€|45|2022-11-22 16h|2022-11-29 16h|
+|2021|thehunter-call-of-the-wild--smoking-barrels-weapon-pack|theHunter: Call of the Wild™ - Smoking Barrels Weapon Pack|3,99€|50|2022-11-22 16h|2022-11-29 16h|
+|2022|thehunter-call-of-the-wild--starter-bundle|theHunter: Call of the Wild™ - Starter Bundle|29,99€|40|2022-11-22 16h|2022-11-29 16h|
+|2023|thehunter-call-of-the-wild--starter-bundle|theHunter: Call of the Wild™ - Starter Bundle|29,99€|20|2022-11-22 16h|2022-11-29 16h|
+|2024|thehunter-call-of-the-wild--te-awaroa-national-park|theHunter: Call of the Wild™ - Te Awaroa National Park|7,99€|45|2022-11-22 16h|2022-11-29 16h|
+|2025|thehunter-call-of-the-wild--tents-and-ground-blinds|theHunter: Call of the Wild™ - Tents & Ground Blinds|3,99€|60|2022-11-22 16h|2022-11-29 16h|
+|2026|thehunter-call-of-the-wild--treestand-and-tripod-pack|theHunter: Call of the Wild™ - Treestand & Tripod Pack|3,99€|60|2022-11-22 16h|2022-11-29 16h|
+|2027|thehunter-call-of-the-wild--vurhonga-savanna|theHunter: Call of the Wild™ - Vurhonga Savanna|7,99€|60|2022-11-22 16h|2022-11-29 16h|
+|2028|thehunter-call-of-the-wild--weapon-pack1|theHunter: Call of the Wild™ - Weapon Pack 1|3,99€|60|2022-11-22 16h|2022-11-29 16h|
+|2029|thehunter-call-of-the-wild--weapon-pack2|theHunter: Call of the Wild™ - Weapon Pack 2|3,99€|60|2022-11-22 16h|2022-11-29 16h|
+|2030|thehunter-call-of-the-wild--weapon-pack3|theHunter: Call of the Wild™ - Weapon Pack 3|3,99€|60|2022-11-22 16h|2022-11-29 16h|
+|2031|thehunter-call-of-the-wild--wild-goose-chase-gear|theHunter: Call of the Wild™ - Wild Goose Chase Gear|3,99€|60|2022-11-22 16h|2022-11-29 16h|
+|2032|thehunter-call-of-the-wild--yukon-valley|theHunter: Call of the Wild™ - Yukon Valley|7,99€|60|2022-11-22 16h|2022-11-29 16h|
 |2033|thehunter-call-of-the-wild--assorted-sidearms-pack|theHunter:CalloftheWild™ - Assorted Sidearms Pack|3,99€|10|2022-11-22 16h|2022-11-29 16h|
 |2034|while-true-learn|while True: learn()|9,99€|27|2022-11-22 16h|2022-11-29 16h|

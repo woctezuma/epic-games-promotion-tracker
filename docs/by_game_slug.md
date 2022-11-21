@@ -167,7 +167,7 @@
 |165|bassmaster-fishing-2022-bassmaster-fishing-2022-champions-equipment-pack-3525b8|Elite Fishing Equipment Pack|6,99€|40|2022-11-22 16h|2022-11-29 16h|
 |166|bassmaster-fishing-2022-bassmaster-fishing-2022-lake-hartwell-476e82|Bassmaster® Fishing 2022: Lake Hartwell|12,99€|40|2022-11-22 16h|2022-11-29 16h|
 |167|bassmaster-fishing-2022-bassmaster-fishing-2022-predator-equipment-pack-e7bf6b|Bassmaster® Fishing 2022: Predator Equipment Pack|6,99€|40|2022-11-22 16h|2022-11-29 16h|
-|168|bassmaster-fishing-2022-deluxe-edition|Bassmaster®  Fishing 2022: Deluxe Edition|29,99€|55|2022-11-22 16h|2022-11-29 16h|
+|168|bassmaster-fishing-2022-deluxe-edition|Bassmaster® Fishing 2022: Deluxe Edition|29,99€|55|2022-11-22 16h|2022-11-29 16h|
 |169|batman-arkham-asylum|Batman Arkham Asylum Game of the Year Edition|19,99€|75|2022-11-22 16h|2022-11-29 16h|
 |170|batman-arkham-asylum|Batman™ Arkham Asylum Game of the Year Edition|19,99€|75|2022-11-22 16h|2022-11-29 16h|
 |171|batman-arkham-city|Batman Arkham City Game of the Year Edition|19,99€|75|2022-11-22 16h|2022-11-29 16h|
@@ -509,7 +509,7 @@
 |507|evil-dead-the-game|Evil Dead: The Game|39,99€|50|2022-11-22 16h|2022-11-29 16h|
 |508|evil-dead-the-game--2013-bundle|Evil Dead: The Game - 2013 bundle|7,99€|50|2022-11-22 16h|2022-11-29 16h|
 |509|evil-dead-the-game--army-of-darkness-bundle|Evil Dead: The Game - Army of Darkness Bundle|5,99€|50|2022-11-22 16h|2022-11-29 16h|
-|510|evil-dead-the-game--ash-williams-gallant-knight-outfit|Evil Dead: The Game -  Ash Williams Gallant Knight Outfit|2,39€|50|2022-11-22 16h|2022-11-29 16h|
+|510|evil-dead-the-game--ash-williams-gallant-knight-outfit|Evil Dead: The Game - Ash Williams Gallant Knight Outfit|2,39€|50|2022-11-22 16h|2022-11-29 16h|
 |511|evil-dead-the-game--ash-williams-s-mart-employee-outfit|Evil Dead: The Game - Ash Williams S-Mart Employee Outfit|2,39€|50|2022-11-22 16h|2022-11-29 16h|
 |512|evil-dead-the-game--classics-bundle|Evil Dead: The Game - Classics Bundle|7,99€|50|2022-11-22 16h|2022-11-29 16h|
 |513|evil-dead-the-game--deluxe-edition|Evil Dead: The Game - Deluxe Edition|59,99€|50|2022-11-22 16h|2022-11-29 16h|
@@ -589,7 +589,7 @@
 |587|fell-seal-arbiters-mark|Fell Seal: Arbiter's Mark|24,99€|75|2022-11-22 16h|2022-11-29 16h|
 |588|fell-seal-arbiters-mark--missions-and-monsters|Fell Seal: Arbiter's Mark - Missions and Monsters|12,99€|75|2022-11-22 16h|2022-11-29 16h|
 |589|fifa-23|EA SPORTS™ FIFA 23 Standard Edition|69,99€|40|2022-11-22 16h|2022-11-29 16h|
-|590|fifa-23--ultimate-edition|EA SPORTS™ FIFA 23 Ultimate Edition	|89,99€|40|2022-11-22 16h|2022-11-29 16h|
+|590|fifa-23--ultimate-edition|EA SPORTS™ FIFA 23 Ultimate Edition|89,99€|40|2022-11-22 16h|2022-11-29 16h|
 |591|figment|Figment|19,99€|95|2022-11-22 16h|2022-11-29 16h|
 |592|filament-332a92|Filament|16,99€|75|2022-11-22 16h|2022-11-29 16h|
 |593|final-fantasy-vii-remake-intergrade|FINAL FANTASY VII REMAKE INTERGRADE|79,99€|29|2022-11-22 16h|2022-11-29 16h|
@@ -942,7 +942,7 @@
 |940|just-cause-4--expansion-pass|Just Cause 4 Expansion Pass|24,99€|75|2022-11-22 16h|2022-11-29 16h|
 |941|just-cause-4--gold-edition|Just Cause 4 Gold Edition|48,99€|80|2022-11-22 16h|2022-11-29 16h|
 |942|just-cause-4--golden-gear-pack|Just Cause 4 Gold Gear Pack|4,99€|70|2022-11-22 16h|2022-11-29 16h|
-|943|just-cause-4--reloaded-content-pack|Just Cause 4 Reloaded  Content Pack|7,99€|50|2022-11-22 16h|2022-11-29 16h|
+|943|just-cause-4--reloaded-content-pack|Just Cause 4 Reloaded Content Pack|7,99€|50|2022-11-22 16h|2022-11-29 16h|
 |944|kaichu-the-kaiju-dating-sim-531fb7|Kaichu - The Kaiju Dating Sim|7,99€|30|2022-11-22 16h|2022-11-29 16h|
 |945|kao-the-kangaroo-62abe3|Kao the Kangaroo|29,99€|30|2022-11-22 16h|2022-11-29 16h|
 |946|kao-the-kangaroo-a-well-good-bundle|Kao the Kangaroo A Well Good Bundle|34,99€|30|2022-11-22 16h|2022-11-29 16h|
@@ -1116,7 +1116,7 @@
 |1114|my-time-at-sandrock|My Time at Sandrock|20,99€|20|2022-11-22 18h|2022-11-29 18h|
 |1115|naraka-bladepoint|NARAKA: BLADEPOINT|19,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1116|naraka-bladepoint--deluxe-edition|NARAKA: BLADEPOINT Deluxe Edition|34,99€|50|2022-11-22 16h|2022-11-29 16h|
-|1117|naraka-bladepoint--ultimate-edition|NARAKA: BLADEPOINT  Ultimate Edition|50,99€|50|2022-11-22 16h|2022-11-29 16h|
+|1117|naraka-bladepoint--ultimate-edition|NARAKA: BLADEPOINT Ultimate Edition|50,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1118|narita-boy|Narita Boy|24,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1119|necroland-undead-corps|NecroLand: Undead Corps|7,99€|50|2022-11-21 16h|2022-11-28 16h|
 |1120|neighbours-back-from-hell|Neighbours back From Hell|14,99€|50|2022-11-22 16h|2022-11-29 16h|
@@ -1274,7 +1274,7 @@
 |1272|railway-empire|Railway Empire|29,99€|70|2022-11-22 16h|2022-11-29 16h|
 |1273|railway-empire--crossing-the-andes|Railway Empire - Crossing the Andes|7,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1274|railway-empire--dlc-bundle|Railway Empire - DLC Bundle|29,99€|60|2022-11-22 16h|2022-11-29 16h|
-|1275|railway-empire--down-under|Railway Empire - Down Under |7,99€|50|2022-11-22 16h|2022-11-29 16h|
+|1275|railway-empire--down-under|Railway Empire - Down Under|7,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1276|railway-empire--france|Railway Empire - France|9,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1277|railway-empire--germany|Railway Empire - Germany|9,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1278|railway-empire--great-britain-and-ireland|Railway Empire - Great Britain & Ireland|9,99€|50|2022-11-22 16h|2022-11-29 16h|
@@ -1309,7 +1309,7 @@
 |1307|recipe-for-disaster-83726f|Recipe for Disaster|16,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1308|red-dead-redemption-2|Red Dead Redemption 2|59,99€|67|2022-11-22 16h|2022-11-29 16h|
 |1309|red-dead-redemption-2--red-dead-online|Red Dead Online|19,99€|50|2022-11-22 16h|2022-11-29 16h|
-|1310|red-dead-redemption-2--ultimate-edition|Red Dead Redemption 2:  Ultimate Edition|89,99€|70|2022-11-22 16h|2022-11-29 16h|
+|1310|red-dead-redemption-2--ultimate-edition|Red Dead Redemption 2: Ultimate Edition|89,99€|70|2022-11-22 16h|2022-11-29 16h|
 |1311|red-ronin-d2678c|Red Ronin|5,99€|60|2022-11-22 16h|2022-11-29 16h|
 |1312|redout-2|Redout 2|29,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1313|redout-2--deluxe-edition|Redout 2 - Deluxe Edition|44,99€|35|2022-11-22 16h|2022-11-29 16h|
@@ -1380,7 +1380,7 @@
 |1378|rogue-legacy-2|Rogue Legacy 2|19,99€|25|2022-11-22 16h|2022-11-29 16h|
 |1379|rogue-lords|Rogue Lords|24,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1380|rogue-lords--blood-moon-edition|Blood Moon Edition|29,73€|50|2022-11-22 16h|2022-11-29 16h|
-|1381|rogue-lords--supporter-pack|Rogue Lords -  Supporter Pack|9,99€|30|2022-11-22 16h|2022-11-29 16h|
+|1381|rogue-lords--supporter-pack|Rogue Lords - Supporter Pack|9,99€|30|2022-11-22 16h|2022-11-29 16h|
 |1382|roguebook--alternate-art-pack|Roguebook – Alternate Art Pack|4,99€|25|2022-11-22 16h|2022-11-29 16h|
 |1383|roguebook--art-of-roguebook|Roguebook - The Art of Roguebook|4,99€|25|2022-11-22 16h|2022-11-29 16h|
 |1384|roguebook--heroes-skin-pack|Roguebook – Heroes Skins Pack|4,99€|25|2022-11-22 16h|2022-11-29 16h|
@@ -1393,7 +1393,7 @@
 |1391|saints-row|Saints Row|59,99€|33|2022-11-22 16h|2022-11-29 16h|
 |1392|saints-row--gold-edition|Saints Row Gold Edition|89,99€|33|2022-11-22 16h|2022-11-29 16h|
 |1393|saints-row--platinum-edition|Saints Row Platinum Edition|99,99€|33|2022-11-22 16h|2022-11-29 16h|
-|1394|saints-row-the-third-remastered|Saints Row®: The Third™  Remastered|39,99€|75|2022-11-22 16h|2022-11-29 16h|
+|1394|saints-row-the-third-remastered|Saints Row®: The Third™ Remastered|39,99€|75|2022-11-22 16h|2022-11-29 16h|
 |1395|sands-of-aura|Sands of Aura|21,99€|30|2022-11-22 16h|2022-11-29 16h|
 |1396|satisfactory|Satisfactory|29,99€|40|2022-11-22 16h|2022-11-29 16h|
 |1397|saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited|Saviors of Sapphire Wings & Strangers of Sword City Revisited|39,99€|50|2022-11-22 16h|2022-11-29 16h|
@@ -1638,7 +1638,7 @@
 |1636|the-escapists-2|The Escapists 2|19,99€|75|2022-11-22 16h|2022-11-29 16h|
 |1637|the-fabled-woods|The Fabled Woods|9,99€|60|2022-11-22 16h|2022-11-29 16h|
 |1638|the-falconeer|The Falconeer: Standard Edition|19,99€|55|2022-11-22 16h|2022-11-29 16h|
-|1639|the-falconeer--edge-of-the-world| Edge of the World|7,99€|55|2022-11-22 16h|2022-11-29 16h|
+|1639|the-falconeer--edge-of-the-world|Edge of the World|7,99€|55|2022-11-22 16h|2022-11-29 16h|
 |1640|the-falconeer--official-soundtrack|The Falconeer Official Soundtrack|9,99€|55|2022-11-22 16h|2022-11-29 16h|
 |1641|the-falconeer--the-hunter|The Falconeer - The Hunter|1,99€|60|2022-11-22 16h|2022-11-29 16h|
 |1642|the-falconeer--the-hunter|The Falconeer - The Hunter|1,99€|55|2022-11-22 16h|2022-11-29 16h|
@@ -1718,7 +1718,7 @@
 |1716|thehunter-call-of-the-wild--2019-edition|theHunter: Call of the Wild™ - Silver Bundle|39,99€|80|2022-11-22 16h|2022-11-29 16h|
 |1717|thehunter-call-of-the-wild--2019-edition|theHunter: Call of the Wild™ - Silver Bundle|39,99€|45|2022-11-22 16h|2022-11-29 16h|
 |1718|thehunter-call-of-the-wild--assorted-sidearms-pack|theHunter:CalloftheWild™ - Assorted Sidearms Pack|3,99€|10|2022-11-22 16h|2022-11-29 16h|
-|1719|thehunter-call-of-the-wild--atv-saber-4x4|theHunter: Call of the Wild™ - ATV Saber 4x4|3,99€|50|2022-11-22 16h|2022-11-29 16h|
+|1719|thehunter-call-of-the-wild--atv-saber-4x4|theHunter: Call of the Wild™ - ATV Saber 4x4|3,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1720|thehunter-call-of-the-wild--bloodhound|theHunter: Call of the Wild™ - Bloodhound|3,99€|25|2022-11-22 16h|2022-11-29 16h|
 |1721|thehunter-call-of-the-wild--cuatro-colinas-game-reserve|theHunter: Call of the Wild™ - Cuatro Colinas Game Reserve|7,99€|60|2022-11-22 16h|2022-11-29 16h|
 |1722|thehunter-call-of-the-wild--diamond-bundle|theHunter: Call of the Wild™ - Diamond Bundle|59,99€|80|2022-11-22 16h|2022-11-29 16h|
@@ -1729,10 +1729,10 @@
 |1727|thehunter-call-of-the-wild--high-tech-hunting-pack|theHunter: Call of the Wild™ - High-Tech Hunting Pack|3,99€|60|2022-11-22 16h|2022-11-29 16h|
 |1728|thehunter-call-of-the-wild--medved-taiga|theHunter: Call of the Wild™ - Medved-Taiga|7,99€|60|2022-11-22 16h|2022-11-29 16h|
 |1729|thehunter-call-of-the-wild--mississippi-acres-preserve|theHunter: Call of the Wild™ - Mississippi Acres Preserve|7,99€|30|2022-11-22 16h|2022-11-29 16h|
-|1730|thehunter-call-of-the-wild--modern-rifle-pack|theHunter: Call of the Wild™  - Modern Rifle Pack|3,99€|25|2022-11-22 16h|2022-11-29 16h|
+|1730|thehunter-call-of-the-wild--modern-rifle-pack|theHunter: Call of the Wild™ - Modern Rifle Pack|3,99€|25|2022-11-22 16h|2022-11-29 16h|
 |1731|thehunter-call-of-the-wild--parque-fernando|theHunter: Call of the Wild™ - Parque Fernando|7,99€|60|2022-11-22 16h|2022-11-29 16h|
 |1732|thehunter-call-of-the-wild--rancho-del-arroyo|theHunter: Call of the Wild™ - Rancho Del Arroyo|7,99€|35|2022-11-22 16h|2022-11-29 16h|
-|1733|thehunter-call-of-the-wild--revontuli-coast|theHunter: Call of the Wild™  - Revontuli coast|7,99€|25|2022-11-22 16h|2022-11-29 16h|
+|1733|thehunter-call-of-the-wild--revontuli-coast|theHunter: Call of the Wild™ - Revontuli coast|7,99€|25|2022-11-22 16h|2022-11-29 16h|
 |1734|thehunter-call-of-the-wild--saseka-safari-trophy-lodge|theHunter: Call of the Wild™ - Saseka Safari Trophy Lodge|3,99€|60|2022-11-22 16h|2022-11-29 16h|
 |1735|thehunter-call-of-the-wild--silver-ridge-peaks|theHunter: Call of the Wild™ - Silver Ridge Peaks|7,99€|45|2022-11-22 16h|2022-11-29 16h|
 |1736|thehunter-call-of-the-wild--smoking-barrels-weapon-pack|theHunter: Call of the Wild™ - Smoking Barrels Weapon Pack|3,99€|50|2022-11-22 16h|2022-11-29 16h|
@@ -1798,7 +1798,7 @@
 |1796|total-war-warhammer-ii--rise-of-tomb-kings|Total War: WARHAMMER II - Rise of the Tomb Kings|18,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1797|total-war-warhammer-ii--shadow-and-blade|Total War: WARHAMMER II - The Shadow & The Blade|9,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1798|total-war-warhammer-ii--silence-and-fury|Total War: WARHAMMER II - The Silence & The Fury|9,99€|33|2022-11-22 16h|2022-11-29 16h|
-|1799|total-war-warhammer-ii--twisted-and-twilight|Total War: WARHAMMER II -  The Twisted & The Twilight|9,99€|50|2022-11-22 16h|2022-11-29 16h|
+|1799|total-war-warhammer-ii--twisted-and-twilight|Total War: WARHAMMER II - The Twisted & The Twilight|9,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1800|total-war-warhammer-ii--warden-and-paunch|Total War: WARHAMMER II - The Warden & The Paunch|9,99€|50|2022-11-22 16h|2022-11-29 16h|
 |1801|totally-reliable-delivery-service|Totally Reliable Delivery Service|14,99€|75|2022-11-22 16h|2022-11-29 16h|
 |1802|totally-reliable-delivery-service|Totally Reliable Delivery Service Standard Edition|14,99€|75|2022-11-22 16h|2022-11-29 16h|
@@ -1943,7 +1943,7 @@
 |1941|watch-dogs-2|Watch Dogs 2|59,99€|80|2022-11-22 16h|2022-11-29 16h|
 |1942|watch-dogs-2|Watch Dogs 2 Standard Edition|59,99€|80|2022-11-22 16h|2022-11-29 16h|
 |1943|watch-dogs-2--deluxe-edition|Watch Dogs 2 Deluxe Edition|69,99€|80|2022-11-22 16h|2022-11-29 16h|
-|1944|watch-dogs-2--gold-edition|Watch Dogs 2  Gold Edition|99,99€|80|2022-11-22 16h|2022-11-29 16h|
+|1944|watch-dogs-2--gold-edition|Watch Dogs 2 Gold Edition|99,99€|80|2022-11-22 16h|2022-11-29 16h|
 |1945|watch-dogs-2--season-pass|Watch Dogs 2 - Season Pass|39,99€|80|2022-11-22 16h|2022-11-29 16h|
 |1946|watch-dogs-legion|Watch Dogs: Legion|59,99€|75|2022-11-22 16h|2022-11-29 16h|
 |1947|watch-dogs-legion|Watch Dogs: Legion Standard Edition|59,99€|75|2022-11-22 16h|2022-11-29 16h|
@@ -2012,7 +2012,7 @@
 |2010|wytchwood|Wytchwood|17,49€|35|2022-11-22 16h|2022-11-29 16h|
 |2011|xcom-2|XCOM® 2|49,99€|95|2022-11-22 16h|2022-11-29 16h|
 |2012|xcom-2--collection|XCOM® 2 Collection|92,20€|92|2022-11-22 16h|2022-11-29 16h|
-|2013|xcom-2--collection-upgrade|XCOM® 2  Collection Upgrade|44,99€|88|2022-11-22 16h|2022-11-29 16h|
+|2013|xcom-2--collection-upgrade|XCOM® 2 Collection Upgrade|44,99€|88|2022-11-22 16h|2022-11-29 16h|
 |2014|yaga|Yaga|19,99€|75|2022-11-22 16h|2022-11-29 16h|
 |2015|yaga--armful-edition|Yaga Bundle - Armful Edition|26,99€|75|2022-11-22 16h|2022-11-29 16h|
 |2016|yaga--roots-of-evil|Yaga - Roots of Evil|8,49€|75|2022-11-22 16h|2022-11-29 16h|
