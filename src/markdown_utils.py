@@ -1,7 +1,8 @@
 HEADERS = ["Game Slug", "Game Name", "Base Price", "Discount (%)", "Starts", "Ends"]
 TIME_FIELDS = ["startDate", "endDate"]
+TITLE_FIELDS = ["title"]
 PRICE_FIELDS = ["originalPrice"]
-ENTRY_FIELDS = ["slug", "title"] + PRICE_FIELDS + ["discountPercentage"] + TIME_FIELDS
+ENTRY_FIELDS = ["slug"] + TITLE_FIELDS + PRICE_FIELDS + ["discountPercentage"] + TIME_FIELDS
 PLACE_HOLDER = "---"
 MISSING_DATA = "N/A"
 
