@@ -433,15 +433,6 @@
   },
   {
     "discountPercentage": 25,
-    "endDate": "2022-11-29T13:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1899,
-    "slug": "achilles-legends-untold-bb77ad",
-    "startDate": "2022-11-21T13:00:00.000Z",
-    "title": "Achilles Legends Untold"
-  },
-  {
-    "discountPercentage": 25,
     "endDate": "2022-12-31T13:00:00.000Z",
     "isFree": false,
     "originalPrice": 1899,
@@ -1525,7 +1516,7 @@
     "endDate": "2022-11-29T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 11499,
-    "slug": "assassins-creed-odyssey--ultimate-edition",
+    "slug": "assassins-creed-odyssey/ultimate-edition",
     "startDate": "2022-11-22T16:00:00.000Z",
     "title": "Assassins Creed Odyssey Ultimate Edition"
   },
@@ -3181,7 +3172,7 @@
     "endDate": "2022-11-29T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 3999,
-    "slug": "control--ultimate-edition",
+    "slug": "control/ultimate-edition",
     "startDate": "2022-11-22T16:00:00.000Z",
     "title": "Control Ultimate Edition"
   },
@@ -18927,24 +18918,6 @@
     "title": "theHunter: Call of the Wild\u2122 - Cuatro Colinas Game Reserve"
   },
   {
-    "discountPercentage": 80,
-    "endDate": "2022-11-29T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "thehunter-call-of-the-wild--diamond-bundle",
-    "startDate": "2022-11-22T16:00:00.000Z",
-    "title": "theHunter: Call of the Wild\u2122 - Diamond Bundle"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-11-29T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "thehunter-call-of-the-wild--diamond-bundle",
-    "startDate": "2022-11-22T16:00:00.000Z",
-    "title": "theHunter: Call of the Wild\u2122 - Diamond Bundle"
-  },
-  {
     "discountPercentage": 60,
     "endDate": "2022-11-29T16:00:00.000Z",
     "isFree": false,
@@ -18952,24 +18925,6 @@
     "slug": "thehunter-call-of-the-wild--duck-and-cover-pack",
     "startDate": "2022-11-22T16:00:00.000Z",
     "title": "theHunter: Call of the Wild\u2122 - Duck and Cover Pack"
-  },
-  {
-    "discountPercentage": 85,
-    "endDate": "2022-11-29T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 4999,
-    "slug": "thehunter-call-of-the-wild--gold-bundle",
-    "startDate": "2022-11-22T16:00:00.000Z",
-    "title": "theHunter: Call of the Wild\u2122 - Gold Bundle"
-  },
-  {
-    "discountPercentage": 35,
-    "endDate": "2022-11-29T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 4999,
-    "slug": "thehunter-call-of-the-wild--gold-bundle",
-    "startDate": "2022-11-22T16:00:00.000Z",
-    "title": "theHunter: Call of the Wild\u2122 - Gold Bundle"
   },
   {
     "discountPercentage": 60,
@@ -19035,24 +18990,6 @@
     "title": "theHunter: Call of the Wild\u2122 - Saseka Safari Trophy Lodge"
   },
   {
-    "discountPercentage": 80,
-    "endDate": "2022-11-29T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "thehunter-call-of-the-wild--2019-edition",
-    "startDate": "2022-11-22T16:00:00.000Z",
-    "title": "theHunter: Call of the Wild\u2122 - Silver Bundle"
-  },
-  {
-    "discountPercentage": 45,
-    "endDate": "2022-11-29T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "thehunter-call-of-the-wild--2019-edition",
-    "startDate": "2022-11-22T16:00:00.000Z",
-    "title": "theHunter: Call of the Wild\u2122 - Silver Bundle"
-  },
-  {
     "discountPercentage": 45,
     "endDate": "2022-11-29T16:00:00.000Z",
     "isFree": false,
@@ -19069,24 +19006,6 @@
     "slug": "thehunter-call-of-the-wild--smoking-barrels-weapon-pack",
     "startDate": "2022-11-22T16:00:00.000Z",
     "title": "theHunter: Call of the Wild\u2122 - Smoking Barrels Weapon Pack"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-11-29T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "thehunter-call-of-the-wild--starter-bundle",
-    "startDate": "2022-11-22T16:00:00.000Z",
-    "title": "theHunter: Call of the Wild\u2122 - Starter Bundle"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2022-11-29T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "thehunter-call-of-the-wild--starter-bundle",
-    "startDate": "2022-11-22T16:00:00.000Z",
-    "title": "theHunter: Call of the Wild\u2122 - Starter Bundle"
   },
   {
     "discountPercentage": 45,
