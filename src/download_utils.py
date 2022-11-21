@@ -1,6 +1,6 @@
 from src.data_utils import STORE_DATA_FNAME
 from src.json_utils import save_json
-from src.parse_store_data import get_total_num_store_elements, get_store_elements
+from src.parse_store_data import get_store_elements, get_total_num_store_elements
 from src.parse_store_element import extract_upcoming_promos_from_several_elements
 from src.query_store_data import to_store_data
 

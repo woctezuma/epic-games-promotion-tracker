@@ -3,7 +3,7 @@ from pathlib import Path
 from src.data_utils import PROMOTION_DATA_FNAME
 from src.download_utils import download_upcoming_promotions
 from src.export_utils import write_markdown_files
-from src.json_utils import save_json, load_json
+from src.json_utils import load_json, save_json
 from src.utils import unique
 
 
