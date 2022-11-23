@@ -32,6 +32,3 @@
 |30|chains-8ac580|Chains|1,59€|45|2022-11-28 05h|2022-12-05 05h|
 |31|he-will-shoot-46efff|He Will Shoot|1,59€|50|2022-11-25 17h|2022-12-08 17h|
 |32|it-follows-you-b11f3e|It follows you|1,59€|50|2022-11-24 17h|2022-12-08 17h|
-|33|predecessor-epic-bundle|Predecessor: Epic Bundle|0,00€|50|2022-12-01 20h|2022-12-15 20h|
-|34|predecessor-legendary-bundle|Predecessor: Legendary Bundle|0,00€|50|2022-12-01 20h|2022-12-15 20h|
-|35|predecessor-rare-bundle|Predecessor: Rare Bundle|0,00€|50|2022-12-01 20h|2022-12-15 20h|
