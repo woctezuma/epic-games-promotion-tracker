@@ -30,7 +30,5 @@
 |28|pirates-outlaws-a8cc60|Pirates Outlaws|15,99€|60|2022-12-12 05h|2022-12-18 05h|
 |29|fortnite--polar-legends-pack|Polar Legends Pack|19,99€|40|2022-12-21 00h|2023-01-10 00h|
 |30|star-wars-squadrons|STAR WARS™: Squadrons|39,99€|100|2022-11-24 16h|2022-12-01 16h|
-|31|scrapnaut|Scrapnaut|10,99€|50|2022-11-22 20h|2022-12-03 20h|
-|32|urbek-city-builder-17cf7d|Urbek City Builder|14,49€|20|2022-11-22 20h|2022-12-03 20h|
-|33|idle-champions-of-the-forgotten-realms--vertex-donaar-theme-pack|Vertex Donaar Theme Pack|19,99€|30|2022-12-02 20h|2022-12-05 20h|
-|34|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
+|31|idle-champions-of-the-forgotten-realms--vertex-donaar-theme-pack|Vertex Donaar Theme Pack|19,99€|30|2022-12-02 20h|2022-12-05 20h|
+|32|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
