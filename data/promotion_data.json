@@ -265,9 +265,27 @@
     "endDate": "2022-12-15T20:00:00.000Z",
     "isFree": false,
     "originalPrice": 0,
+    "slug": "predecessor-epic-bundle",
+    "startDate": "2022-12-01T20:00:00.000Z",
+    "title": "Predecessor: Epic Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-12-15T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 0,
     "slug": "predecessor-legendary-bundle",
     "startDate": "2022-12-01T20:00:00.000Z",
     "title": "Predecessor: Legendary Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-12-15T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 0,
+    "slug": "predecessor-rare-bundle",
+    "startDate": "2022-12-01T20:00:00.000Z",
+    "title": "Predecessor: Rare Bundle"
   },
   {
     "discountPercentage": 100,
