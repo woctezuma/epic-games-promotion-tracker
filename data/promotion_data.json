@@ -270,24 +270,6 @@
     "title": "STAR WARS\u2122: Squadrons"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2022-12-03T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1099,
-    "slug": "scrapnaut",
-    "startDate": "2022-11-22T20:00:00.000Z",
-    "title": "Scrapnaut"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2022-12-03T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1449,
-    "slug": "urbek-city-builder-17cf7d",
-    "startDate": "2022-11-22T20:00:00.000Z",
-    "title": "Urbek City Builder"
-  },
-  {
     "discountPercentage": 30,
     "endDate": "2022-12-05T20:00:00.000Z",
     "isFree": false,
