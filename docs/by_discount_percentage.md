@@ -1,7 +1,7 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
 |1|fort-triumph|Fort Triumph|16,79€|100|2022-12-01 16h|2022-12-08 16h|
-|2|star-wars-squadrons|STAR WARS™: Squadrons|39,99€|100|2022-11-24 16h|2022-12-01 16h|
+|2|rpg-in-a-box|RPG in a Box|23,99€|100|2022-12-01 16h|2022-12-08 16h|
 |3|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|80|2022-12-16 04h|2023-01-01 04h|
 |4|blazing-beaks-3d4864|Blazing Beaks|11,99€|75|2022-12-15 15h|2023-01-02 15h|
 |5|pirates-outlaws-a8cc60|Pirates Outlaws|15,99€|60|2022-12-12 05h|2022-12-18 05h|

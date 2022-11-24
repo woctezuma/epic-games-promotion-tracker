@@ -1,16 +1,16 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|1|star-wars-squadrons|STAR WARS™: Squadrons|39,99€|100|2022-11-24 16h|2022-12-01 16h|
-|2|chains-8ac580|Chains|1,59€|45|2022-11-28 05h|2022-12-05 05h|
-|3|maritime-calling-636728|Maritime Calling|11,99€|45|2022-11-28 05h|2022-12-05 05h|
-|4|idle-champions-of-the-forgotten-realms--archmagi-dungeon-master-theme-pack|Archmagi Dungeon Master Theme Pack|19,99€|40|2022-12-02 20h|2022-12-05 20h|
-|5|idle-champions-of-the-forgotten-realms--eberron-ellywick-skin-feat-pack|Eberron Ellywick Skin & Feat Pack|7,99€|40|2022-12-02 20h|2022-12-05 20h|
-|6|idle-champions-of-the-forgotten-realms--elf-hazard-merilwen-skin-feat-pack|Elf Hazard Merilwen Skin & Feat Pack|7,99€|30|2022-12-02 20h|2022-12-05 20h|
-|7|idle-champions-of-the-forgotten-realms--gladiator-freely-skin-feat-pack|Gladiator Freely Skin & Feat Pack|7,99€|40|2022-12-02 20h|2022-12-05 20h|
-|8|idle-champions-of-the-forgotten-realms--gladiator-widdle-skin-feat-pack|Gladiator Widdle Skin & Feat Pack|7,99€|40|2022-12-02 20h|2022-12-05 20h|
-|9|idle-champions-of-the-forgotten-realms--high-society-egbert-skin-feat-pack|High Society Egbert Skin & Feat Pack|7,99€|30|2022-12-02 20h|2022-12-05 20h|
-|10|idle-champions-of-the-forgotten-realms--vertex-donaar-theme-pack|Vertex Donaar Theme Pack|19,99€|30|2022-12-02 20h|2022-12-05 20h|
-|11|fort-triumph|Fort Triumph|16,79€|100|2022-12-01 16h|2022-12-08 16h|
+|1|chains-8ac580|Chains|1,59€|45|2022-11-28 05h|2022-12-05 05h|
+|2|maritime-calling-636728|Maritime Calling|11,99€|45|2022-11-28 05h|2022-12-05 05h|
+|3|idle-champions-of-the-forgotten-realms--archmagi-dungeon-master-theme-pack|Archmagi Dungeon Master Theme Pack|19,99€|40|2022-12-02 20h|2022-12-05 20h|
+|4|idle-champions-of-the-forgotten-realms--eberron-ellywick-skin-feat-pack|Eberron Ellywick Skin & Feat Pack|7,99€|40|2022-12-02 20h|2022-12-05 20h|
+|5|idle-champions-of-the-forgotten-realms--elf-hazard-merilwen-skin-feat-pack|Elf Hazard Merilwen Skin & Feat Pack|7,99€|30|2022-12-02 20h|2022-12-05 20h|
+|6|idle-champions-of-the-forgotten-realms--gladiator-freely-skin-feat-pack|Gladiator Freely Skin & Feat Pack|7,99€|40|2022-12-02 20h|2022-12-05 20h|
+|7|idle-champions-of-the-forgotten-realms--gladiator-widdle-skin-feat-pack|Gladiator Widdle Skin & Feat Pack|7,99€|40|2022-12-02 20h|2022-12-05 20h|
+|8|idle-champions-of-the-forgotten-realms--high-society-egbert-skin-feat-pack|High Society Egbert Skin & Feat Pack|7,99€|30|2022-12-02 20h|2022-12-05 20h|
+|9|idle-champions-of-the-forgotten-realms--vertex-donaar-theme-pack|Vertex Donaar Theme Pack|19,99€|30|2022-12-02 20h|2022-12-05 20h|
+|10|fort-triumph|Fort Triumph|16,79€|100|2022-12-01 16h|2022-12-08 16h|
+|11|rpg-in-a-box|RPG in a Box|23,99€|100|2022-12-01 16h|2022-12-08 16h|
 |12|he-will-shoot-46efff|He Will Shoot|1,59€|50|2022-11-25 17h|2022-12-08 17h|
 |13|it-follows-you-b11f3e|It follows you|1,59€|50|2022-11-24 17h|2022-12-08 17h|
 |14|flat-heroes-fec628|Flat Heroes|9,99€|45|2022-12-07 15h|2022-12-14 15h|

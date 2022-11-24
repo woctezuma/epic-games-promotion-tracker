@@ -6,7 +6,7 @@
 |4|star-trek-online--10000-zen-1000-bonus-bundle|10000 ZEN +1000 Bonus Bundle|89,99€|20|2022-12-22 16h|2023-01-02 16h|
 |5|neverwinter--5000-zen-300-bonus-bundle|5000 Neverwinter ZEN + 300 Bonus Bundle|44,99€|20|2022-12-21 16h|2023-01-06 16h|
 |6|star-trek-online--5000-zen-300-bonus-bundle|5000 ZEN + 300 Bonus Bundle|44,99€|20|2022-12-22 16h|2023-01-02 16h|
-|7|star-wars-squadrons|STAR WARS™: Squadrons|39,99€|100|2022-11-24 16h|2022-12-01 16h|
+|7|rpg-in-a-box|RPG in a Box|23,99€|100|2022-12-01 16h|2022-12-08 16h|
 |8|idle-champions-of-the-forgotten-realms--archmagi-dungeon-master-theme-pack|Archmagi Dungeon Master Theme Pack|19,99€|40|2022-12-02 20h|2022-12-05 20h|
 |9|fortnite--polar-legends-pack|Polar Legends Pack|19,99€|40|2022-12-21 00h|2023-01-10 00h|
 |10|idle-champions-of-the-forgotten-realms--vertex-donaar-theme-pack|Vertex Donaar Theme Pack|19,99€|30|2022-12-02 20h|2022-12-05 20h|
