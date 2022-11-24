@@ -108,6 +108,15 @@
     "title": "Archmagi Dungeon Master Theme Pack"
   },
   {
+    "discountPercentage": 15,
+    "endDate": "2022-12-14T05:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "ballads-of-hongye-54e69d",
+    "startDate": "2022-12-07T05:00:00.000Z",
+    "title": "Ballads of Hongye"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2023-01-02T15:00:00.000Z",
     "isFree": false,
@@ -124,15 +133,6 @@
     "slug": "bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b",
     "startDate": "2022-12-16T04:00:00.000Z",
     "title": "Bud Spencer and Terence Hill - Slaps and Beans"
-  },
-  {
-    "discountPercentage": 45,
-    "endDate": "2022-12-05T05:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 159,
-    "slug": "chains-8ac580",
-    "startDate": "2022-11-28T05:00:00.000Z",
-    "title": "Chains"
   },
   {
     "discountPercentage": 30,
@@ -180,6 +180,15 @@
     "title": "Flat Heroes"
   },
   {
+    "discountPercentage": 10,
+    "endDate": "2022-12-27T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "football-manager-2023",
+    "startDate": "2022-12-22T15:00:00.000Z",
+    "title": "Football Manager 2023"
+  },
+  {
     "discountPercentage": 100,
     "endDate": "2022-12-08T16:00:00.000Z",
     "isFree": true,
@@ -217,12 +226,12 @@
   },
   {
     "discountPercentage": 50,
-    "endDate": "2022-12-08T17:00:00.000Z",
+    "endDate": "2022-12-14T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": 159,
-    "slug": "he-will-shoot-46efff",
-    "startDate": "2022-11-25T17:00:00.000Z",
-    "title": "He Will Shoot"
+    "originalPrice": 2999,
+    "slug": "grand-theft-auto-v",
+    "startDate": "2022-12-13T16:00:00.000Z",
+    "title": "Grand Theft Auto V: Premium Edition"
   },
   {
     "discountPercentage": 30,
@@ -232,24 +241,6 @@
     "slug": "idle-champions-of-the-forgotten-realms--high-society-egbert-skin-feat-pack",
     "startDate": "2022-12-02T20:00:00.000Z",
     "title": "High Society Egbert Skin & Feat Pack"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2022-12-08T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 159,
-    "slug": "it-follows-you-b11f3e",
-    "startDate": "2022-11-24T17:00:00.000Z",
-    "title": "It follows you"
-  },
-  {
-    "discountPercentage": 45,
-    "endDate": "2022-12-05T05:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1199,
-    "slug": "maritime-calling-636728",
-    "startDate": "2022-11-28T05:00:00.000Z",
-    "title": "Maritime Calling"
   },
   {
     "discountPercentage": 60,
@@ -270,6 +261,33 @@
     "title": "Polar Legends Pack"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2022-12-15T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 0,
+    "slug": "predecessor--epic-bundle",
+    "startDate": "2022-12-01T20:00:00.000Z",
+    "title": "Predecessor: Epic Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-12-15T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 0,
+    "slug": "predecessor--legendary-bundle",
+    "startDate": "2022-12-01T20:00:00.000Z",
+    "title": "Predecessor: Legendary Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-12-15T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 0,
+    "slug": "predecessor--rare-bundle",
+    "startDate": "2022-12-01T20:00:00.000Z",
+    "title": "Predecessor: Rare Bundle"
+  },
+  {
     "discountPercentage": 100,
     "endDate": "2022-12-08T16:00:00.000Z",
     "isFree": true,
@@ -277,6 +295,87 @@
     "slug": "rpg-in-a-box",
     "startDate": "2022-12-01T16:00:00.000Z",
     "title": "RPG in a Box"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2022-12-08T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "rainbow-six-siege",
+    "startDate": "2022-12-01T16:00:00.000Z",
+    "title": "Rainbow Six Siege"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2022-12-08T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "rainbow-six-siege--deluxe-year-7-edition",
+    "startDate": "2022-12-01T16:00:00.000Z",
+    "title": "Rainbow Six Siege Deluxe Edition Y7"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2022-12-08T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 6999,
+    "slug": "rainbow-six-siege--operator-year-7-edition",
+    "startDate": "2022-12-01T16:00:00.000Z",
+    "title": "Rainbow Six Siege Operator Edition Y7"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2022-12-08T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "rainbow-six-siege",
+    "startDate": "2022-12-01T16:00:00.000Z",
+    "title": "Rainbow Six Siege Standard Edition"
+  },
+  {
+    "discountPercentage": 55,
+    "endDate": "2022-12-08T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 8999,
+    "slug": "rainbow-six-siege--ultimate-year-7-edition",
+    "startDate": "2022-12-01T16:00:00.000Z",
+    "title": "Rainbow Six Siege Ultimate Edition Y7"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-12-09T19:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "the-alien-cube-789431",
+    "startDate": "2022-12-02T19:00:00.000Z",
+    "title": "The Alien Cube"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2022-12-09T14:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 199,
+    "slug": "the-alien-cube-the-alien-cube-behind-the-scenes-c91de0",
+    "startDate": "2022-12-02T19:00:00.000Z",
+    "title": "The Alien Cube - Behind the scenes"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-12-09T19:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2099,
+    "slug": "the-alien-cube-deluxe-edition",
+    "startDate": "2022-12-02T19:00:00.000Z",
+    "title": "The Alien Cube - Deluxe Edition"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-12-09T19:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "the-land-of-pain-d6a3ed",
+    "startDate": "2022-12-02T19:00:00.000Z",
+    "title": "The Land of Pain"
   },
   {
     "discountPercentage": 30,
