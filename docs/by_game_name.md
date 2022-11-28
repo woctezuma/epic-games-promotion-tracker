@@ -27,5 +27,7 @@
 |25|pirates-outlaws-a8cc60|Pirates Outlaws|15,99€|60|2022-12-12 05h|2022-12-18 05h|
 |26|fortnite--polar-legends-pack|Polar Legends Pack|19,99€|40|2022-12-21 00h|2023-01-10 00h|
 |27|rpg-in-a-box|RPG in a Box|23,99€|100|2022-12-01 16h|2022-12-08 16h|
-|28|idle-champions-of-the-forgotten-realms--vertex-donaar-theme-pack|Vertex Donaar Theme Pack|19,99€|30|2022-12-02 20h|2022-12-05 20h|
-|29|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
+|28|sackboy-a-big-adventure|Sackboy™: A Big Adventure|59,99€|25|2022-11-29 16h|2022-12-04 16h|
+|29|soccer-story-c2fe73|Soccer Story|15,99€|10|2022-11-29 18h|2022-12-06 18h|
+|30|idle-champions-of-the-forgotten-realms--vertex-donaar-theme-pack|Vertex Donaar Theme Pack|19,99€|30|2022-12-02 20h|2022-12-05 20h|
+|31|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
