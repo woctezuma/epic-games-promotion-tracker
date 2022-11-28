@@ -243,6 +243,24 @@
     "title": "RPG in a Box"
   },
   {
+    "discountPercentage": 25,
+    "endDate": "2022-12-04T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "sackboy-a-big-adventure",
+    "startDate": "2022-11-29T16:00:00.000Z",
+    "title": "Sackboy\u2122: A Big Adventure"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2022-12-06T18:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "soccer-story-c2fe73",
+    "startDate": "2022-11-29T18:00:00.000Z",
+    "title": "Soccer Story"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2022-12-05T20:00:00.000Z",
     "isFree": false,
