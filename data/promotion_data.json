@@ -90,15 +90,6 @@
     "title": "5000 ZEN + 300 Bonus Bundle"
   },
   {
-    "discountPercentage": 90,
-    "endDate": "2022-12-07T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "aer-memories-of-old",
-    "startDate": "2022-11-29T16:00:00.000Z",
-    "title": "AER Memories of Old"
-  },
-  {
     "discountPercentage": 25,
     "endDate": "2022-12-31T13:00:00.000Z",
     "isFree": false,
@@ -135,15 +126,6 @@
     "title": "Bud Spencer and Terence Hill - Slaps and Beans"
   },
   {
-    "discountPercentage": 70,
-    "endDate": "2022-12-07T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "cryofall-331358",
-    "startDate": "2022-11-29T16:00:00.000Z",
-    "title": "CryoFall"
-  },
-  {
     "discountPercentage": 30,
     "endDate": "2023-01-10T00:00:00.000Z",
     "isFree": false,
@@ -151,24 +133,6 @@
     "slug": "fortnite--deep-freeze-bundle",
     "startDate": "2022-12-21T00:00:00.000Z",
     "title": "Deep Freeze Bundle"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2022-12-07T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 4499,
-    "slug": "deponia-full-scrap-collection",
-    "startDate": "2022-11-29T16:00:00.000Z",
-    "title": "Deponia: Full Scrap Collection"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2022-12-07T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "deponia-the-complete-journey",
-    "startDate": "2022-11-29T16:00:00.000Z",
-    "title": "Deponia: The Complete Journey"
   },
   {
     "discountPercentage": 40,
@@ -243,33 +207,6 @@
     "title": "Gladiator Widdle Skin & Feat Pack"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2022-12-07T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "godlike-burger-4150a0",
-    "startDate": "2022-11-29T16:00:00.000Z",
-    "title": "Godlike Burger"
-  },
-  {
-    "discountPercentage": 45,
-    "endDate": "2022-12-07T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2559,
-    "slug": "godlike-burger-supporter-bundle",
-    "startDate": "2022-11-29T16:00:00.000Z",
-    "title": "Godlike Burger - Supporter Bundle"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2022-12-07T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 699,
-    "slug": "godlike-burger-godlike-burger-soundtrack-4a3e5d",
-    "startDate": "2022-11-29T16:00:00.000Z",
-    "title": "Godlike Burger - Supporter Pack"
-  },
-  {
     "discountPercentage": 30,
     "endDate": "2022-12-05T20:00:00.000Z",
     "isFree": false,
@@ -277,105 +214,6 @@
     "slug": "idle-champions-of-the-forgotten-realms--high-society-egbert-skin-feat-pack",
     "startDate": "2022-12-02T20:00:00.000Z",
     "title": "High Society Egbert Skin & Feat Pack"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2022-12-07T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "insurmountable-b02c31",
-    "startDate": "2022-11-29T16:00:00.000Z",
-    "title": "Insurmountable"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2022-12-07T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "insurmountable-official-soundtrack-13ef00",
-    "startDate": "2022-11-29T16:00:00.000Z",
-    "title": "Insurmountable - Supporter Pack"
-  },
-  {
-    "discountPercentage": 59,
-    "endDate": "2022-12-07T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2659,
-    "slug": "insurmountable-supporter-pack-edition",
-    "startDate": "2022-11-29T16:00:00.000Z",
-    "title": "Insurmountable Supporter Bundle"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2022-12-07T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "iratus-d0e5ba",
-    "startDate": "2022-11-29T16:00:00.000Z",
-    "title": "Iratus: Lord of the Dead"
-  },
-  {
-    "discountPercentage": 70,
-    "endDate": "2022-12-07T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "iratus-iratus-lord-of-the-dead-supporter-pack-d40cdd",
-    "startDate": "2022-11-29T16:00:00.000Z",
-    "title": "Iratus: Lord of the Dead - Supporter Pack"
-  },
-  {
-    "discountPercentage": 74,
-    "endDate": "2022-12-07T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 4899,
-    "slug": "iratus-necromancer-edition",
-    "startDate": "2022-11-29T16:00:00.000Z",
-    "title": "Iratus: Necromancer Edition"
-  },
-  {
-    "discountPercentage": 67,
-    "endDate": "2022-12-07T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "iratus-iratus-wrath-of-the-necromancer-e3424b",
-    "startDate": "2022-11-29T16:00:00.000Z",
-    "title": "Iratus: Wrath of the Necromancer"
-  },
-  {
-    "discountPercentage": 85,
-    "endDate": "2022-12-07T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1998,
-    "slug": "iron-danger-b4320c",
-    "startDate": "2022-11-29T16:00:00.000Z",
-    "title": "Iron Danger"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2022-12-07T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1199,
-    "slug": "jars-e39063",
-    "startDate": "2022-11-29T16:00:00.000Z",
-    "title": "JARS"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2022-12-07T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "ken-follets-the-pillars-of-the-earth",
-    "startDate": "2022-11-29T16:00:00.000Z",
-    "title": "Ken Follett's The Pillars of the Earth"
-  },
-  {
-    "discountPercentage": 70,
-    "endDate": "2022-12-07T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "partisans-1941",
-    "startDate": "2022-11-29T16:00:00.000Z",
-    "title": "Partisans 1941"
   },
   {
     "discountPercentage": 60,
@@ -405,141 +243,6 @@
     "title": "RPG in a Box"
   },
   {
-    "discountPercentage": 33,
-    "endDate": "2022-12-04T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "sackboy-a-big-adventure",
-    "startDate": "2022-11-29T16:00:00.000Z",
-    "title": "Sackboy\u2122: A Big Adventure"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2022-12-07T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "shadow-tactics",
-    "startDate": "2022-11-29T16:00:00.000Z",
-    "title": "Shadow Tactics"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2022-12-07T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1998,
-    "slug": "shadow-tactics-aikos-choice-5678c1",
-    "startDate": "2022-11-29T16:00:00.000Z",
-    "title": "Shadow Tactics - Aiko's Choice"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2022-12-07T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 399,
-    "slug": "shadow-tactics-aikos-choice-shadow-tactics-aikos-choice-soundtrack-51ab32",
-    "startDate": "2022-11-29T16:00:00.000Z",
-    "title": "Shadow Tactics: Aiko's Choice - Soundtrack"
-  },
-  {
-    "discountPercentage": 81,
-    "endDate": "2022-12-07T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 6644,
-    "slug": "shadow-tactics-anniversary-bundle",
-    "startDate": "2022-11-29T16:00:00.000Z",
-    "title": "Shadow Tactics: Anniversary Bundle"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2022-12-07T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "shadow-tactics",
-    "startDate": "2022-11-29T16:00:00.000Z",
-    "title": "Shadow Tactics: Blades of the Shogun"
-  },
-  {
-    "discountPercentage": 67,
-    "endDate": "2022-12-07T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 299,
-    "slug": "shadow-tactics--artbook-and-guide",
-    "startDate": "2022-11-29T16:00:00.000Z",
-    "title": "Shadow Tactics: Blades of the Shogun - Artbook & Strategy Guide"
-  },
-  {
-    "discountPercentage": 67,
-    "endDate": "2022-12-07T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 299,
-    "slug": "shadow-tactics--soundtrack",
-    "startDate": "2022-11-29T16:00:00.000Z",
-    "title": "Shadow Tactics: Blades of the Shogun - Soundtrack"
-  },
-  {
-    "discountPercentage": 10,
-    "endDate": "2022-12-06T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1599,
-    "slug": "soccer-story-c2fe73",
-    "startDate": "2022-11-29T18:00:00.000Z",
-    "title": "Soccer Story"
-  },
-  {
-    "discountPercentage": 85,
-    "endDate": "2022-12-07T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1699,
-    "slug": "the-suicide-of-rachel-foster-1dc01b",
-    "startDate": "2022-11-29T16:00:00.000Z",
-    "title": "The Suicide of Rachel Foster"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2022-12-07T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "unrailed-e19729",
-    "startDate": "2022-11-29T16:00:00.000Z",
-    "title": "Unrailed!"
-  },
-  {
-    "discountPercentage": 71,
-    "endDate": "2022-12-07T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2199,
-    "slug": "unrailed-supporter-bundle",
-    "startDate": "2022-11-29T16:00:00.000Z",
-    "title": "Unrailed! - Supporter Bundle"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2022-12-07T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 599,
-    "slug": "unrailed-unrailed-supporter-pack-665d4d",
-    "startDate": "2022-11-29T16:00:00.000Z",
-    "title": "Unrailed! - Supporter Pack"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2022-12-07T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "velone-3c0487",
-    "startDate": "2022-11-29T16:00:00.000Z",
-    "title": "VELONE"
-  },
-  {
-    "discountPercentage": 25,
-    "endDate": "2022-12-07T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 399,
-    "slug": "velone-velone-supporter-pack-f675b9",
-    "startDate": "2022-11-29T16:00:00.000Z",
-    "title": "VELONE - Supporter Pack"
-  },
-  {
     "discountPercentage": 30,
     "endDate": "2022-12-05T20:00:00.000Z",
     "isFree": false,
@@ -556,41 +259,5 @@
     "slug": "warforwards-fd05ed",
     "startDate": "2023-01-24T05:00:00.000Z",
     "title": "WarForwards"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2022-12-07T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "warpips-57e2c4",
-    "startDate": "2022-11-29T16:00:00.000Z",
-    "title": "Warpips"
-  },
-  {
-    "discountPercentage": 58,
-    "endDate": "2022-12-07T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1799,
-    "slug": "warpips-supporter-bundle",
-    "startDate": "2022-11-29T16:00:00.000Z",
-    "title": "Warpips - Supporter Bundle"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2022-12-07T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 399,
-    "slug": "warpips-warpips-supporter-pack-3f1bbf",
-    "startDate": "2022-11-29T16:00:00.000Z",
-    "title": "Warpips - Supporter Pack"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2022-12-07T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "zombie-rollerz-7aa027",
-    "startDate": "2022-11-29T16:00:00.000Z",
-    "title": "Zombie Rollerz: Pinball Heroes"
   }
 ]
