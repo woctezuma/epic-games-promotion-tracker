@@ -25,9 +25,9 @@
 |23|neverwinter--20000-zen-3000-bonus-bundle|20000 Neverwinter ZEN + 3000 Bonus Bundle|179,99€|20|2022-12-21 16h|2023-01-06 16h|
 |24|neverwinter--5000-zen-300-bonus-bundle|5000 Neverwinter ZEN + 300 Bonus Bundle|44,99€|20|2022-12-21 16h|2023-01-06 16h|
 |25|pirates-outlaws-a8cc60|Pirates Outlaws|15,99€|60|2022-12-12 05h|2022-12-18 05h|
-|26|predecessor--epic-bundle|Predecessor: Epic Bundle|0,00€|50|2022-12-01 20h|2022-12-15 20h|
-|27|predecessor--legendary-bundle|Predecessor: Legendary Bundle|0,00€|50|2022-12-01 20h|2022-12-15 20h|
-|28|predecessor--rare-bundle|Predecessor: Rare Bundle|0,00€|50|2022-12-01 20h|2022-12-15 20h|
+|26|predecessor--epic-bundle|Predecessor: Epic Bundle|39,99€|50|2022-12-01 20h|2022-12-15 20h|
+|27|predecessor--legendary-bundle|Predecessor: Legendary Bundle|63,99€|50|2022-12-01 20h|2022-12-15 20h|
+|28|predecessor--rare-bundle|Predecessor: Rare Bundle|15,99€|50|2022-12-01 20h|2022-12-15 20h|
 |29|rainbow-six-siege|Rainbow Six Siege|19,99€|60|2022-12-01 16h|2022-12-08 16h|
 |30|rainbow-six-siege|Rainbow Six Siege Standard Edition|19,99€|60|2022-12-01 16h|2022-12-08 16h|
 |31|rainbow-six-siege--deluxe-year-7-edition|Rainbow Six Siege Deluxe Edition Y7|29,99€|67|2022-12-01 16h|2022-12-08 16h|
@@ -44,3 +44,4 @@
 |42|the-alien-cube-the-alien-cube-behind-the-scenes-c91de0|The Alien Cube - Behind the scenes|1,99€|20|2022-12-02 19h|2022-12-09 14h|
 |43|the-land-of-pain-d6a3ed|The Land of Pain|9,99€|50|2022-12-02 19h|2022-12-09 19h|
 |44|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
+|45|wildcat-gun-machine-c66c4e|Wildcat Gun Machine|14,99€|100|2022-12-08 16h|2022-12-15 16h|
