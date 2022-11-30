@@ -29,9 +29,9 @@
 |27|idle-champions-of-the-forgotten-realms--high-society-egbert-skin-feat-pack|High Society Egbert Skin & Feat Pack|7,99€|30|2022-12-02 20h|2022-12-05 20h|
 |28|pirates-outlaws-a8cc60|Pirates Outlaws|15,99€|60|2022-12-12 05h|2022-12-18 05h|
 |29|fortnite--polar-legends-pack|Polar Legends Pack|19,99€|40|2022-12-21 00h|2023-01-10 00h|
-|30|predecessor--epic-bundle|Predecessor: Epic Bundle|0,00€|50|2022-12-01 20h|2022-12-15 20h|
-|31|predecessor--legendary-bundle|Predecessor: Legendary Bundle|0,00€|50|2022-12-01 20h|2022-12-15 20h|
-|32|predecessor--rare-bundle|Predecessor: Rare Bundle|0,00€|50|2022-12-01 20h|2022-12-15 20h|
+|30|predecessor--epic-bundle|Predecessor: Epic Bundle|39,99€|50|2022-12-01 20h|2022-12-15 20h|
+|31|predecessor--legendary-bundle|Predecessor: Legendary Bundle|63,99€|50|2022-12-01 20h|2022-12-15 20h|
+|32|predecessor--rare-bundle|Predecessor: Rare Bundle|15,99€|50|2022-12-01 20h|2022-12-15 20h|
 |33|rpg-in-a-box|RPG in a Box|23,99€|100|2022-12-01 16h|2022-12-08 16h|
 |34|rainbow-six-siege|Rainbow Six Siege|19,99€|60|2022-12-01 16h|2022-12-08 16h|
 |35|rainbow-six-siege--deluxe-year-7-edition|Rainbow Six Siege Deluxe Edition Y7|29,99€|67|2022-12-01 16h|2022-12-08 16h|
@@ -44,3 +44,4 @@
 |42|the-land-of-pain-d6a3ed|The Land of Pain|9,99€|50|2022-12-02 19h|2022-12-09 19h|
 |43|idle-champions-of-the-forgotten-realms--vertex-donaar-theme-pack|Vertex Donaar Theme Pack|19,99€|30|2022-12-02 20h|2022-12-05 20h|
 |44|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
+|45|wildcat-gun-machine-c66c4e|Wildcat Gun Machine|14,99€|100|2022-12-08 16h|2022-12-15 16h|
