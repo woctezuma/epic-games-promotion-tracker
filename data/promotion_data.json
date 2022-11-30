@@ -264,7 +264,7 @@
     "discountPercentage": 50,
     "endDate": "2022-12-15T20:00:00.000Z",
     "isFree": false,
-    "originalPrice": 0,
+    "originalPrice": 3999,
     "slug": "predecessor--epic-bundle",
     "startDate": "2022-12-01T20:00:00.000Z",
     "title": "Predecessor: Epic Bundle"
@@ -273,7 +273,7 @@
     "discountPercentage": 50,
     "endDate": "2022-12-15T20:00:00.000Z",
     "isFree": false,
-    "originalPrice": 0,
+    "originalPrice": 6399,
     "slug": "predecessor--legendary-bundle",
     "startDate": "2022-12-01T20:00:00.000Z",
     "title": "Predecessor: Legendary Bundle"
@@ -282,7 +282,7 @@
     "discountPercentage": 50,
     "endDate": "2022-12-15T20:00:00.000Z",
     "isFree": false,
-    "originalPrice": 0,
+    "originalPrice": 1599,
     "slug": "predecessor--rare-bundle",
     "startDate": "2022-12-01T20:00:00.000Z",
     "title": "Predecessor: Rare Bundle"
@@ -394,5 +394,14 @@
     "slug": "warforwards-fd05ed",
     "startDate": "2023-01-24T05:00:00.000Z",
     "title": "WarForwards"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2022-12-15T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1499,
+    "slug": "wildcat-gun-machine-c66c4e",
+    "startDate": "2022-12-08T16:00:00.000Z",
+    "title": "Wildcat Gun Machine"
   }
 ]
