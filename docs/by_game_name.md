@@ -21,25 +21,18 @@
 |19|idle-champions-of-the-forgotten-realms--elf-hazard-merilwen-skin-feat-pack|Elf Hazard Merilwen Skin & Feat Pack|7,99€|30|2022-12-02 20h|2022-12-05 20h|
 |20|flat-heroes-fec628|Flat Heroes|9,99€|45|2022-12-07 15h|2022-12-14 15h|
 |21|football-manager-2023|Football Manager 2023|59,99€|10|2022-12-22 15h|2022-12-27 15h|
-|22|fort-triumph|Fort Triumph|16,79€|100|2022-12-01 16h|2022-12-08 16h|
-|23|fortnite--frozen-legends-pack|Frozen Legends Pack|14,99€|40|2022-12-21 00h|2023-01-10 00h|
-|24|idle-champions-of-the-forgotten-realms--gladiator-freely-skin-feat-pack|Gladiator Freely Skin & Feat Pack|7,99€|40|2022-12-02 20h|2022-12-05 20h|
-|25|idle-champions-of-the-forgotten-realms--gladiator-widdle-skin-feat-pack|Gladiator Widdle Skin & Feat Pack|7,99€|40|2022-12-02 20h|2022-12-05 20h|
-|26|grand-theft-auto-v|Grand Theft Auto V: Premium Edition|29,99€|50|2022-12-13 16h|2022-12-14 16h|
-|27|idle-champions-of-the-forgotten-realms--high-society-egbert-skin-feat-pack|High Society Egbert Skin & Feat Pack|7,99€|30|2022-12-02 20h|2022-12-05 20h|
-|28|pirates-outlaws-a8cc60|Pirates Outlaws|15,99€|60|2022-12-12 05h|2022-12-18 05h|
-|29|fortnite--polar-legends-pack|Polar Legends Pack|19,99€|40|2022-12-21 00h|2023-01-10 00h|
-|30|rpg-in-a-box|RPG in a Box|23,99€|100|2022-12-01 16h|2022-12-08 16h|
-|31|rainbow-six-siege|Rainbow Six Siege|19,99€|60|2022-12-01 16h|2022-12-08 16h|
-|32|rainbow-six-siege--deluxe-year-7-edition|Rainbow Six Siege Deluxe Edition Y7|29,99€|67|2022-12-01 16h|2022-12-08 16h|
-|33|rainbow-six-siege--operator-year-7-edition|Rainbow Six Siege Operator Edition Y7|69,99€|60|2022-12-01 16h|2022-12-08 16h|
-|34|rainbow-six-siege|Rainbow Six Siege Standard Edition|19,99€|60|2022-12-01 16h|2022-12-08 16h|
-|35|rainbow-six-siege--ultimate-year-7-edition|Rainbow Six Siege Ultimate Edition Y7|89,99€|55|2022-12-01 16h|2022-12-08 16h|
-|36|saints-row-iv-re-election|Saints Row IV Re-Elected|0,00€|100|2022-12-08 16h|2022-12-15 16h|
-|37|the-alien-cube-789431|The Alien Cube|19,99€|50|2022-12-02 19h|2022-12-09 19h|
-|38|the-alien-cube-the-alien-cube-behind-the-scenes-c91de0|The Alien Cube - Behind the scenes|1,99€|20|2022-12-02 19h|2022-12-09 14h|
-|39|the-alien-cube-deluxe-edition|The Alien Cube - Deluxe Edition|20,99€|50|2022-12-02 19h|2022-12-09 19h|
-|40|the-land-of-pain-d6a3ed|The Land of Pain|9,99€|50|2022-12-02 19h|2022-12-09 19h|
-|41|idle-champions-of-the-forgotten-realms--vertex-donaar-theme-pack|Vertex Donaar Theme Pack|19,99€|30|2022-12-02 20h|2022-12-05 20h|
-|42|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
-|43|wildcat-gun-machine-c66c4e|Wildcat Gun Machine|14,99€|100|2022-12-08 16h|2022-12-15 16h|
+|22|fortnite--frozen-legends-pack|Frozen Legends Pack|14,99€|40|2022-12-21 00h|2023-01-10 00h|
+|23|idle-champions-of-the-forgotten-realms--gladiator-freely-skin-feat-pack|Gladiator Freely Skin & Feat Pack|7,99€|40|2022-12-02 20h|2022-12-05 20h|
+|24|idle-champions-of-the-forgotten-realms--gladiator-widdle-skin-feat-pack|Gladiator Widdle Skin & Feat Pack|7,99€|40|2022-12-02 20h|2022-12-05 20h|
+|25|grand-theft-auto-v|Grand Theft Auto V: Premium Edition|29,99€|50|2022-12-13 16h|2022-12-14 16h|
+|26|idle-champions-of-the-forgotten-realms--high-society-egbert-skin-feat-pack|High Society Egbert Skin & Feat Pack|7,99€|30|2022-12-02 20h|2022-12-05 20h|
+|27|pirates-outlaws-a8cc60|Pirates Outlaws|15,99€|60|2022-12-12 05h|2022-12-18 05h|
+|28|fortnite--polar-legends-pack|Polar Legends Pack|19,99€|40|2022-12-21 00h|2023-01-10 00h|
+|29|saints-row-iv-re-election|Saints Row IV Re-Elected|0,00€|100|2022-12-08 16h|2022-12-15 16h|
+|30|the-alien-cube-789431|The Alien Cube|19,99€|50|2022-12-02 19h|2022-12-09 19h|
+|31|the-alien-cube-the-alien-cube-behind-the-scenes-c91de0|The Alien Cube - Behind the scenes|1,99€|20|2022-12-02 19h|2022-12-09 14h|
+|32|the-alien-cube-deluxe-edition|The Alien Cube - Deluxe Edition|20,99€|50|2022-12-02 19h|2022-12-09 19h|
+|33|the-land-of-pain-d6a3ed|The Land of Pain|9,99€|50|2022-12-02 19h|2022-12-09 19h|
+|34|idle-champions-of-the-forgotten-realms--vertex-donaar-theme-pack|Vertex Donaar Theme Pack|19,99€|30|2022-12-02 20h|2022-12-05 20h|
+|35|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
+|36|wildcat-gun-machine-c66c4e|Wildcat Gun Machine|14,99€|100|2022-12-08 16h|2022-12-15 16h|
