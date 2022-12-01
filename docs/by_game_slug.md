@@ -25,23 +25,20 @@
 |23|neverwinter--20000-zen-3000-bonus-bundle|20000 Neverwinter ZEN + 3000 Bonus Bundle|179,99€|20|2022-12-21 16h|2023-01-06 16h|
 |24|neverwinter--5000-zen-300-bonus-bundle|5000 Neverwinter ZEN + 300 Bonus Bundle|44,99€|20|2022-12-21 16h|2023-01-06 16h|
 |25|pirates-outlaws-a8cc60|Pirates Outlaws|15,99€|60|2022-12-12 05h|2022-12-18 05h|
-|26|predecessor--epic-bundle|Predecessor: Epic Bundle|39,99€|50|2022-12-01 20h|2022-12-15 20h|
-|27|predecessor--legendary-bundle|Predecessor: Legendary Bundle|63,99€|50|2022-12-01 20h|2022-12-15 20h|
-|28|predecessor--rare-bundle|Predecessor: Rare Bundle|15,99€|50|2022-12-01 20h|2022-12-15 20h|
-|29|rainbow-six-siege|Rainbow Six Siege|19,99€|60|2022-12-01 16h|2022-12-08 16h|
-|30|rainbow-six-siege|Rainbow Six Siege Standard Edition|19,99€|60|2022-12-01 16h|2022-12-08 16h|
-|31|rainbow-six-siege--deluxe-year-7-edition|Rainbow Six Siege Deluxe Edition Y7|29,99€|67|2022-12-01 16h|2022-12-08 16h|
-|32|rainbow-six-siege--operator-year-7-edition|Rainbow Six Siege Operator Edition Y7|69,99€|60|2022-12-01 16h|2022-12-08 16h|
-|33|rainbow-six-siege--ultimate-year-7-edition|Rainbow Six Siege Ultimate Edition Y7|89,99€|55|2022-12-01 16h|2022-12-08 16h|
-|34|rpg-in-a-box|RPG in a Box|23,99€|100|2022-12-01 16h|2022-12-08 16h|
-|35|star-trek-online--1000-zen-bundle|1000 ZEN Bundle|8,99€|20|2022-12-22 16h|2023-01-02 16h|
-|36|star-trek-online--10000-zen-1000-bonus-bundle|10000 ZEN +1000 Bonus Bundle|89,99€|20|2022-12-22 16h|2023-01-02 16h|
-|37|star-trek-online--2000-zen-bundle|2000 ZEN Bundle|17,99€|20|2022-12-22 16h|2023-01-02 16h|
-|38|star-trek-online--20000-zen-3000-bonus-bundle|20000 ZEN + 3000 Bonus Bundle|179,99€|20|2022-12-22 16h|2023-01-02 16h|
-|39|star-trek-online--5000-zen-300-bonus-bundle|5000 ZEN + 300 Bonus Bundle|44,99€|20|2022-12-22 16h|2023-01-02 16h|
-|40|the-alien-cube-789431|The Alien Cube|19,99€|50|2022-12-02 19h|2022-12-09 19h|
-|41|the-alien-cube-deluxe-edition|The Alien Cube - Deluxe Edition|20,99€|50|2022-12-02 19h|2022-12-09 19h|
-|42|the-alien-cube-the-alien-cube-behind-the-scenes-c91de0|The Alien Cube - Behind the scenes|1,99€|20|2022-12-02 19h|2022-12-09 14h|
-|43|the-land-of-pain-d6a3ed|The Land of Pain|9,99€|50|2022-12-02 19h|2022-12-09 19h|
-|44|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
-|45|wildcat-gun-machine-c66c4e|Wildcat Gun Machine|14,99€|100|2022-12-08 16h|2022-12-15 16h|
+|26|rainbow-six-siege|Rainbow Six Siege|19,99€|60|2022-12-01 16h|2022-12-08 16h|
+|27|rainbow-six-siege|Rainbow Six Siege Standard Edition|19,99€|60|2022-12-01 16h|2022-12-08 16h|
+|28|rainbow-six-siege--deluxe-year-7-edition|Rainbow Six Siege Deluxe Edition Y7|29,99€|67|2022-12-01 16h|2022-12-08 16h|
+|29|rainbow-six-siege--operator-year-7-edition|Rainbow Six Siege Operator Edition Y7|69,99€|60|2022-12-01 16h|2022-12-08 16h|
+|30|rainbow-six-siege--ultimate-year-7-edition|Rainbow Six Siege Ultimate Edition Y7|89,99€|55|2022-12-01 16h|2022-12-08 16h|
+|31|rpg-in-a-box|RPG in a Box|23,99€|100|2022-12-01 16h|2022-12-08 16h|
+|32|star-trek-online--1000-zen-bundle|1000 ZEN Bundle|8,99€|20|2022-12-22 16h|2023-01-02 16h|
+|33|star-trek-online--10000-zen-1000-bonus-bundle|10000 ZEN +1000 Bonus Bundle|89,99€|20|2022-12-22 16h|2023-01-02 16h|
+|34|star-trek-online--2000-zen-bundle|2000 ZEN Bundle|17,99€|20|2022-12-22 16h|2023-01-02 16h|
+|35|star-trek-online--20000-zen-3000-bonus-bundle|20000 ZEN + 3000 Bonus Bundle|179,99€|20|2022-12-22 16h|2023-01-02 16h|
+|36|star-trek-online--5000-zen-300-bonus-bundle|5000 ZEN + 300 Bonus Bundle|44,99€|20|2022-12-22 16h|2023-01-02 16h|
+|37|the-alien-cube-789431|The Alien Cube|19,99€|50|2022-12-02 19h|2022-12-09 19h|
+|38|the-alien-cube-deluxe-edition|The Alien Cube - Deluxe Edition|20,99€|50|2022-12-02 19h|2022-12-09 19h|
+|39|the-alien-cube-the-alien-cube-behind-the-scenes-c91de0|The Alien Cube - Behind the scenes|1,99€|20|2022-12-02 19h|2022-12-09 14h|
+|40|the-land-of-pain-d6a3ed|The Land of Pain|9,99€|50|2022-12-02 19h|2022-12-09 19h|
+|41|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
+|42|wildcat-gun-machine-c66c4e|Wildcat Gun Machine|14,99€|100|2022-12-08 16h|2022-12-15 16h|
