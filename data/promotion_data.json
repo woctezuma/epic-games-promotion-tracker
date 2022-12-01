@@ -189,15 +189,6 @@
     "title": "Football Manager 2023"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2022-12-08T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 1679,
-    "slug": "fort-triumph",
-    "startDate": "2022-12-01T16:00:00.000Z",
-    "title": "Fort Triumph"
-  },
-  {
     "discountPercentage": 40,
     "endDate": "2023-01-10T00:00:00.000Z",
     "isFree": false,
@@ -259,60 +250,6 @@
     "slug": "fortnite--polar-legends-pack",
     "startDate": "2022-12-21T00:00:00.000Z",
     "title": "Polar Legends Pack"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2022-12-08T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 2399,
-    "slug": "rpg-in-a-box",
-    "startDate": "2022-12-01T16:00:00.000Z",
-    "title": "RPG in a Box"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2022-12-08T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "rainbow-six-siege",
-    "startDate": "2022-12-01T16:00:00.000Z",
-    "title": "Rainbow Six Siege"
-  },
-  {
-    "discountPercentage": 67,
-    "endDate": "2022-12-08T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "rainbow-six-siege--deluxe-year-7-edition",
-    "startDate": "2022-12-01T16:00:00.000Z",
-    "title": "Rainbow Six Siege Deluxe Edition Y7"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2022-12-08T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 6999,
-    "slug": "rainbow-six-siege--operator-year-7-edition",
-    "startDate": "2022-12-01T16:00:00.000Z",
-    "title": "Rainbow Six Siege Operator Edition Y7"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2022-12-08T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "rainbow-six-siege",
-    "startDate": "2022-12-01T16:00:00.000Z",
-    "title": "Rainbow Six Siege Standard Edition"
-  },
-  {
-    "discountPercentage": 55,
-    "endDate": "2022-12-08T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 8999,
-    "slug": "rainbow-six-siege--ultimate-year-7-edition",
-    "startDate": "2022-12-01T16:00:00.000Z",
-    "title": "Rainbow Six Siege Ultimate Edition Y7"
   },
   {
     "discountPercentage": 100,
