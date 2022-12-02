@@ -1,15 +1,15 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
 |1|neverwinter--1000-zen-bundle|1000 Neverwinter ZEN Bundle|8,99€|20|2022-12-21 16h|2023-01-06 16h|
-|2|star-trek-online--1000-zen-bundle|1000 ZEN Bundle|8,99€|20|2022-12-22 16h|2023-01-02 16h|
+|2|star-trek-online--1000-zen-bundle|1000 ZEN Bundle|8,99€|20|2022-12-21 16h|2023-01-02 16h|
 |3|neverwinter--10000-zen-1000-bonus-bundle|10000 Neverwinter ZEN +1000 Bonus Bundle|89,99€|20|2022-12-21 16h|2023-01-06 16h|
-|4|star-trek-online--10000-zen-1000-bonus-bundle|10000 ZEN +1000 Bonus Bundle|89,99€|20|2022-12-22 16h|2023-01-02 16h|
+|4|star-trek-online--10000-zen-1000-bonus-bundle|10000 ZEN +1000 Bonus Bundle|89,99€|20|2022-12-21 16h|2023-01-02 16h|
 |5|neverwinter--2000-zen-bundle|2000 Neverwinter ZEN Bundle|17,99€|20|2022-12-21 16h|2023-01-06 16h|
-|6|star-trek-online--2000-zen-bundle|2000 ZEN Bundle|17,99€|20|2022-12-22 16h|2023-01-02 16h|
+|6|star-trek-online--2000-zen-bundle|2000 ZEN Bundle|17,99€|20|2022-12-21 16h|2023-01-02 16h|
 |7|neverwinter--20000-zen-3000-bonus-bundle|20000 Neverwinter ZEN + 3000 Bonus Bundle|179,99€|20|2022-12-21 16h|2023-01-06 16h|
-|8|star-trek-online--20000-zen-3000-bonus-bundle|20000 ZEN + 3000 Bonus Bundle|179,99€|20|2022-12-22 16h|2023-01-02 16h|
+|8|star-trek-online--20000-zen-3000-bonus-bundle|20000 ZEN + 3000 Bonus Bundle|179,99€|20|2022-12-21 16h|2023-01-02 16h|
 |9|neverwinter--5000-zen-300-bonus-bundle|5000 Neverwinter ZEN + 300 Bonus Bundle|44,99€|20|2022-12-21 16h|2023-01-06 16h|
-|10|star-trek-online--5000-zen-300-bonus-bundle|5000 ZEN + 300 Bonus Bundle|44,99€|20|2022-12-22 16h|2023-01-02 16h|
+|10|star-trek-online--5000-zen-300-bonus-bundle|5000 ZEN + 300 Bonus Bundle|44,99€|20|2022-12-21 16h|2023-01-02 16h|
 |11|achilles-legends-untold-bb77ad|Achilles Legends Untold|18,99€|25|2022-12-05 13h|2022-12-31 13h|
 |12|idle-champions-of-the-forgotten-realms--archmagi-dungeon-master-theme-pack|Archmagi Dungeon Master Theme Pack|19,99€|40|2022-12-02 20h|2022-12-05 20h|
 |13|ballads-of-hongye-54e69d|Ballads of Hongye|7,99€|15|2022-12-07 05h|2022-12-14 05h|

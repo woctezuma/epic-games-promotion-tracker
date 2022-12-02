@@ -21,11 +21,11 @@
 |19|achilles-legends-untold-bb77ad|Achilles Legends Untold|18,99€|25|2022-12-05 13h|2022-12-31 13h|
 |20|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|80|2022-12-16 04h|2023-01-01 04h|
 |21|blazing-beaks-3d4864|Blazing Beaks|11,99€|75|2022-12-15 15h|2023-01-02 15h|
-|22|star-trek-online--1000-zen-bundle|1000 ZEN Bundle|8,99€|20|2022-12-22 16h|2023-01-02 16h|
-|23|star-trek-online--10000-zen-1000-bonus-bundle|10000 ZEN +1000 Bonus Bundle|89,99€|20|2022-12-22 16h|2023-01-02 16h|
-|24|star-trek-online--2000-zen-bundle|2000 ZEN Bundle|17,99€|20|2022-12-22 16h|2023-01-02 16h|
-|25|star-trek-online--20000-zen-3000-bonus-bundle|20000 ZEN + 3000 Bonus Bundle|179,99€|20|2022-12-22 16h|2023-01-02 16h|
-|26|star-trek-online--5000-zen-300-bonus-bundle|5000 ZEN + 300 Bonus Bundle|44,99€|20|2022-12-22 16h|2023-01-02 16h|
+|22|star-trek-online--1000-zen-bundle|1000 ZEN Bundle|8,99€|20|2022-12-21 16h|2023-01-02 16h|
+|23|star-trek-online--10000-zen-1000-bonus-bundle|10000 ZEN +1000 Bonus Bundle|89,99€|20|2022-12-21 16h|2023-01-02 16h|
+|24|star-trek-online--2000-zen-bundle|2000 ZEN Bundle|17,99€|20|2022-12-21 16h|2023-01-02 16h|
+|25|star-trek-online--20000-zen-3000-bonus-bundle|20000 ZEN + 3000 Bonus Bundle|179,99€|20|2022-12-21 16h|2023-01-02 16h|
+|26|star-trek-online--5000-zen-300-bonus-bundle|5000 ZEN + 300 Bonus Bundle|44,99€|20|2022-12-21 16h|2023-01-02 16h|
 |27|callofthewildtheangler-tnrdlc|Call of the Wild: The Angler™ - TNR DLC|0,00€|100|2022-12-12 10h|2023-01-05 10h|
 |28|neverwinter--1000-zen-bundle|1000 Neverwinter ZEN Bundle|8,99€|20|2022-12-21 16h|2023-01-06 16h|
 |29|neverwinter--10000-zen-1000-bonus-bundle|10000 Neverwinter ZEN +1000 Bonus Bundle|89,99€|20|2022-12-21 16h|2023-01-06 16h|
