@@ -99,15 +99,6 @@
     "title": "Achilles Legends Untold"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2022-12-05T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "idle-champions-of-the-forgotten-realms--archmagi-dungeon-master-theme-pack",
-    "startDate": "2022-12-02T20:00:00.000Z",
-    "title": "Archmagi Dungeon Master Theme Pack"
-  },
-  {
     "discountPercentage": 15,
     "endDate": "2022-12-14T05:00:00.000Z",
     "isFree": false,
@@ -153,15 +144,6 @@
     "title": "Deep Freeze Bundle"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2022-12-05T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--eberron-ellywick-skin-feat-pack",
-    "startDate": "2022-12-02T20:00:00.000Z",
-    "title": "Eberron Ellywick Skin & Feat Pack"
-  },
-  {
     "discountPercentage": 25,
     "endDate": "2023-01-17T05:00:00.000Z",
     "isFree": false,
@@ -169,15 +151,6 @@
     "slug": "edge-of-galaxy-092087",
     "startDate": "2023-01-10T05:00:00.000Z",
     "title": "Edge Of Galaxy"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2022-12-05T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--elf-hazard-merilwen-skin-feat-pack",
-    "startDate": "2022-12-02T20:00:00.000Z",
-    "title": "Elf Hazard Merilwen Skin & Feat Pack"
   },
   {
     "discountPercentage": 45,
@@ -207,33 +180,6 @@
     "title": "Frozen Legends Pack"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2022-12-05T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--gladiator-freely-skin-feat-pack",
-    "startDate": "2022-12-02T20:00:00.000Z",
-    "title": "Gladiator Freely Skin & Feat Pack"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2022-12-05T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--gladiator-widdle-skin-feat-pack",
-    "startDate": "2022-12-02T20:00:00.000Z",
-    "title": "Gladiator Widdle Skin & Feat Pack"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2022-12-05T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--high-society-egbert-skin-feat-pack",
-    "startDate": "2022-12-02T20:00:00.000Z",
-    "title": "High Society Egbert Skin & Feat Pack"
-  },
-  {
     "discountPercentage": 60,
     "endDate": "2022-12-18T05:00:00.000Z",
     "isFree": false,
@@ -259,15 +205,6 @@
     "slug": "saints-row-iv-re-election",
     "startDate": "2022-12-08T16:00:00.000Z",
     "title": "Saints Row IV Re-Elected"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2022-12-05T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "idle-champions-of-the-forgotten-realms--vertex-donaar-theme-pack",
-    "startDate": "2022-12-02T20:00:00.000Z",
-    "title": "Vertex Donaar Theme Pack"
   },
   {
     "discountPercentage": 60,
