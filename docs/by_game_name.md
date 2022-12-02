@@ -29,11 +29,7 @@
 |27|pirates-outlaws-a8cc60|Pirates Outlaws|15,99€|60|2022-12-12 05h|2022-12-18 05h|
 |28|fortnite--polar-legends-pack|Polar Legends Pack|19,99€|40|2022-12-21 00h|2023-01-10 00h|
 |29|saints-row-iv-re-election|Saints Row IV Re-Elected|0,00€|100|2022-12-08 16h|2022-12-15 16h|
-|30|the-alien-cube-789431|The Alien Cube|19,99€|50|2022-12-02 19h|2022-12-09 19h|
-|31|the-alien-cube-the-alien-cube-behind-the-scenes-c91de0|The Alien Cube - Behind the scenes|1,99€|20|2022-12-02 19h|2022-12-09 14h|
-|32|the-alien-cube-deluxe-edition|The Alien Cube - Deluxe Edition|20,99€|50|2022-12-02 19h|2022-12-09 19h|
-|33|the-land-of-pain-d6a3ed|The Land of Pain|9,99€|50|2022-12-02 19h|2022-12-09 19h|
-|34|idle-champions-of-the-forgotten-realms--vertex-donaar-theme-pack|Vertex Donaar Theme Pack|19,99€|30|2022-12-02 20h|2022-12-05 20h|
-|35|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
-|36|wildcat-gun-machine-c66c4e|Wildcat Gun Machine|14,99€|100|2022-12-08 16h|2022-12-15 16h|
-|37|thehunter-call-of-the-wild--new-england-mountains|theHunter: Call of the Wild™ - New England Mountains|0,00€|20|2022-12-06 10h|2022-12-13 10h|
+|30|idle-champions-of-the-forgotten-realms--vertex-donaar-theme-pack|Vertex Donaar Theme Pack|19,99€|30|2022-12-02 20h|2022-12-05 20h|
+|31|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
+|32|wildcat-gun-machine-c66c4e|Wildcat Gun Machine|14,99€|100|2022-12-08 16h|2022-12-15 16h|
+|33|thehunter-call-of-the-wild--new-england-mountains|theHunter: Call of the Wild™ - New England Mountains|0,00€|20|2022-12-06 10h|2022-12-13 10h|
