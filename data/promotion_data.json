@@ -14,7 +14,7 @@
     "isFree": false,
     "originalPrice": 899,
     "slug": "star-trek-online--1000-zen-bundle",
-    "startDate": "2022-12-22T16:00:00.000Z",
+    "startDate": "2022-12-21T16:00:00.000Z",
     "title": "1000 ZEN Bundle"
   },
   {
@@ -32,7 +32,7 @@
     "isFree": false,
     "originalPrice": 8999,
     "slug": "star-trek-online--10000-zen-1000-bonus-bundle",
-    "startDate": "2022-12-22T16:00:00.000Z",
+    "startDate": "2022-12-21T16:00:00.000Z",
     "title": "10000 ZEN +1000 Bonus Bundle"
   },
   {
@@ -50,7 +50,7 @@
     "isFree": false,
     "originalPrice": 1799,
     "slug": "star-trek-online--2000-zen-bundle",
-    "startDate": "2022-12-22T16:00:00.000Z",
+    "startDate": "2022-12-21T16:00:00.000Z",
     "title": "2000 ZEN Bundle"
   },
   {
@@ -68,7 +68,7 @@
     "isFree": false,
     "originalPrice": 17999,
     "slug": "star-trek-online--20000-zen-3000-bonus-bundle",
-    "startDate": "2022-12-22T16:00:00.000Z",
+    "startDate": "2022-12-21T16:00:00.000Z",
     "title": "20000 ZEN + 3000 Bonus Bundle"
   },
   {
@@ -86,26 +86,62 @@
     "isFree": false,
     "originalPrice": 4499,
     "slug": "star-trek-online--5000-zen-300-bonus-bundle",
-    "startDate": "2022-12-22T16:00:00.000Z",
+    "startDate": "2022-12-21T16:00:00.000Z",
     "title": "5000 ZEN + 300 Bonus Bundle"
   },
   {
-    "discountPercentage": 25,
-    "endDate": "2022-12-31T13:00:00.000Z",
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": 1899,
-    "slug": "achilles-legends-untold-bb77ad",
-    "startDate": "2022-12-05T13:00:00.000Z",
-    "title": "Achilles Legends Untold"
+    "originalPrice": 599,
+    "slug": "dlc159",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Alchemist Gear Cosmetic Bundle Pack"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2022-12-05T20:00:00.000Z",
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": 1999,
-    "slug": "idle-champions-of-the-forgotten-realms--archmagi-dungeon-master-theme-pack",
-    "startDate": "2022-12-02T20:00:00.000Z",
-    "title": "Archmagi Dungeon Master Theme Pack"
+    "originalPrice": 699,
+    "slug": "dlc158",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Alchemist Weapon Skin Bundle Pack"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2022-12-22T14:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "alien-marauder-1f1ddf",
+    "startDate": "2022-12-15T14:00:00.000Z",
+    "title": "Alien Marauder"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 699,
+    "slug": "dlc125",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Apocalypse Gear Cosmetic Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-20T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "idle-champions-of-the-forgotten-realms--ascendant-evelyn-skin-and-feat-pack",
+    "startDate": "2023-01-13T20:00:00.000Z",
+    "title": "Ascendant Evelyn Skin & Feat Pack"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc10",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Badass Santa Bundle"
   },
   {
     "discountPercentage": 15,
@@ -117,6 +153,15 @@
     "title": "Ballads of Hongye"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 699,
+    "slug": "dlc144",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Beyond Horizon MKII Weapon Skin Bundle Pack"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2023-01-02T15:00:00.000Z",
     "isFree": false,
@@ -124,6 +169,33 @@
     "slug": "blazing-beaks-3d4864",
     "startDate": "2022-12-15T15:00:00.000Z",
     "title": "Blazing Beaks"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "bloodbonfiresweaponbundle",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Blood & Bonfires Weapon Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "bloodsickleweaponbundle",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Blood Sickle Weapon Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc120",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Blunderbuss Weapon Bundle"
   },
   {
     "discountPercentage": 80,
@@ -144,6 +216,177 @@
     "title": "Call of the Wild: The Angler\u2122 - TNR DLC"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "dlc11",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Cardboard Knight Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "chameleonmkiiweaponskinbundlepack",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Chameleon MKII Weapon Skin Bundle Pack"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 0,
+    "slug": "chameleonmkiiiweaponskinbundlepack",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Chameleon MKIII Weapon Skin Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "chameleonweaponskinbundlepack",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Chameleon Weapon Skin Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 499,
+    "slug": "chemical-warrior-gear-cosmetic-bundle",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Chemical Warrior Gear Cosmetic Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "dlc155",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Chop Til' You Drop Full Gear Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "christmas-2020-full-gear-bundle",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Christmas 2020 Full Gear Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 699,
+    "slug": "dlc157",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Christmas Weapon Skin Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "classicmkiiweaponskinbundlepack",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Classic MKII Weapon Skin Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "classicweaponskinbundlepack",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Classic Weapon Skin Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "dlc12",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Clot Backpack Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "dlc13",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Commando Chicken Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc110",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Compound Bow"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc153",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Corrupter Carbine Weapon Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "dlc14",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Cyberpunk Outfit Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "dlc15",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "D.A.R. Assault Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "dlc149",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Day of the Zed Character Outfit Set"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "dlc148",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Day of the Zed Full Gear Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "dlc154",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Day of the Zed Weapon Bundle"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2023-01-10T00:00:00.000Z",
     "isFree": false,
@@ -153,16 +396,97 @@
     "title": "Deep Freeze Bundle"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2022-12-05T20:00:00.000Z",
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--eberron-ellywick-skin-feat-pack",
-    "startDate": "2022-12-02T20:00:00.000Z",
-    "title": "Eberron Ellywick Skin & Feat Pack"
+    "originalPrice": 399,
+    "slug": "deepseaexploreroutfitbundle",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Deep Sea Explorer Outfit Bundle"
   },
   {
-    "discountPercentage": 25,
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "deepseaskinweaponskinbundlepack",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Deep Sea Skin Weapon Skin Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-20T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "idle-champions-of-the-forgotten-realms--disco-the-baby-moonstone-dragon-familiar-pack",
+    "startDate": "2023-01-13T20:00:00.000Z",
+    "title": "Disco the Baby Moonstone Dragon Familiar Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc160",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Doshinegun Weapon Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "dlc16",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Dragon & Koi Complete Weapon Skin Set"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 499,
+    "slug": "dlc17",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Dragon & Koi Tier 1 Weapon Skin Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 499,
+    "slug": "dlc18",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Dragon & Koi Tier 2 Weapon Skin Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 499,
+    "slug": "dlc19",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Dragon & Koi Tier 3 Weapon Skin Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 499,
+    "slug": "dlc20",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Dragon & Koi Tier 4 Weapon Skin Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "dystopian-devastation-full-gear-bundle",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Dystopian Devastation Full Gear Bundle"
+  },
+  {
+    "discountPercentage": 50,
     "endDate": "2023-01-17T05:00:00.000Z",
     "isFree": false,
     "originalPrice": 699,
@@ -171,13 +495,22 @@
     "title": "Edge Of Galaxy"
   },
   {
-    "discountPercentage": 30,
-    "endDate": "2022-12-05T20:00:00.000Z",
+    "discountPercentage": 15,
+    "endDate": "2022-12-16T18:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "evil-nun-the-broken-mask-372461",
+    "startDate": "2022-12-09T18:00:00.000Z",
+    "title": "Evil Nun: The Broken Mask"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--elf-hazard-merilwen-skin-feat-pack",
-    "startDate": "2022-12-02T20:00:00.000Z",
-    "title": "Elf Hazard Merilwen Skin & Feat Pack"
+    "slug": "dlc145",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "FAMAS Masterkey Weapon Bundle"
   },
   {
     "discountPercentage": 45,
@@ -198,6 +531,33 @@
     "title": "Football Manager 2023"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 499,
+    "slug": "dlc84",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Foster's Favorites Weapon Skin Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 699,
+    "slug": "dlc143",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Foundry Gear Cosmetic Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "frost-fang-weapon-bundle",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Frost Fang Weapon Bundle"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2023-01-10T00:00:00.000Z",
     "isFree": false,
@@ -207,31 +567,904 @@
     "title": "Frozen Legends Pack"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2022-12-05T20:00:00.000Z",
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 699,
+    "slug": "dlc118",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Future Neon Gear Cosmetic Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--gladiator-freely-skin-feat-pack",
-    "startDate": "2022-12-02T20:00:00.000Z",
-    "title": "Gladiator Freely Skin & Feat Pack"
+    "slug": "g36cassaultrifleweaponbundle",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "G36C Assault Rifle Weapon Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "grand-theft-auto-v",
+    "startDate": "2022-12-14T16:00:00.000Z",
+    "title": "Grand Theft Auto V: Premium Edition"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "gravity-imploder-weapon-bundle",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Gravity Imploder Weapon Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "dlc88",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Grim Treatments Weapon Bundle"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 0,
+    "slug": "hvstormcannonweaponbundle",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "HV Storm Cannon Weapon Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "dlc123",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Halloween 2020 Full Gear Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "dlc21",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Hazmat Suit Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 699,
+    "slug": "dlc22",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Headshot FX Bundle 1"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 699,
+    "slug": "dlc23",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Headshot FX Bundle 2"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 699,
+    "slug": "dlc150",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Hellmark Weapon Skin Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "dlc156",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Holiday Shopper Outfit Bundle"
   },
   {
     "discountPercentage": 40,
-    "endDate": "2022-12-05T20:00:00.000Z",
+    "endDate": "2023-01-05T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--gladiator-widdle-skin-feat-pack",
-    "startDate": "2022-12-02T20:00:00.000Z",
-    "title": "Gladiator Widdle Skin & Feat Pack"
+    "originalPrice": 199,
+    "slug": "dlc2",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Crate Key"
   },
   {
-    "discountPercentage": 30,
-    "endDate": "2022-12-05T20:00:00.000Z",
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "dlc24",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Mark 7 Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--high-society-egbert-skin-feat-pack",
-    "startDate": "2022-12-02T20:00:00.000Z",
-    "title": "High Society Egbert Skin & Feat Pack"
+    "slug": "dlc25",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Cosmetic Crate | Series #10 Bronze Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "dlc26",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Cosmetic Crate | Series #10 Gold Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "dlc27",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Cosmetic Crate | Series #10 Silver Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc28",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Cosmetic Crate | Series #11 Bronze Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "dlc29",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Cosmetic Crate | Series #11 Gold Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "dlc30",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Cosmetic Crate | Series #11 Silver Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc31",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Cosmetic Crate | Series #4 Bronze Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "dlc32",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Cosmetic Crate | Series #4 Gold Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "dlc33",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Cosmetic Crate | Series #4 Silver Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc96",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Cosmetic Crate | Series #5 Bronze Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "dlc98",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Cosmetic Crate | Series #5 Gold Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "dlc97",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Cosmetic Crate | Series #5 Silver Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc34",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Cosmetic Crate | Series #6 Bronze Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "dlc35",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Cosmetic Crate | Series #6 Gold Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "dlc36",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Cosmetic Crate | Series #6 Silver Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc105",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Cosmetic Crate | Series #7 Bronze Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "dlc107",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Cosmetic Crate | Series #7 Gold Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "dlc106",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Cosmetic Crate | Series #7 Silver Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc37",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Cosmetic Crate | Series #8 Bronze Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "dlc38",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Cosmetic Crate | Series #8 Gold Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "dlc39",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Cosmetic Crate | Series #8 Silver Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc40",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Cosmetic Crate | Series #9 Bronze Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "dlc41",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Cosmetic Crate | Series #9 Gold Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "dlc42",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Cosmetic Crate | Series #9 Silver Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc43",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Emote Crate | Series #1 Bronze Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "dlc44",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Emote Crate | Series #1 Gold Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "dlc45",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Emote Crate | Series #1 Silver Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc46",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Emote Crate | Series #2 Bronze Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "dlc47",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Emote Crate | Series #2 Gold Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "dlc48",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Emote Crate | Series #2 Silver Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc93",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Emote Crate | Series #3 Bronze Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "dlc95",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Emote Crate | Series #3 Gold Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "dlc94",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Emote Crate | Series #3 Silver Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc49",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Weapon Crate | Series #11 Bronze Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "dlc50",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Weapon Crate | Series #11 Gold Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "dlc51",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Weapon Crate | Series #11 Silver Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc52",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Weapon Crate | Series #12 Bronze Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "dlc53",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Weapon Crate | Series #12 Gold Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "dlc54",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Weapon Crate | Series #12 Silver Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc55",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Weapon Crate | Series #13 Bronze Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "dlc56",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Weapon Crate | Series #13 Gold Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "dlc57",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Weapon Crate | Series #13 Silver Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc58",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Weapon Crate | Series #14 Bronze Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "dlc59",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Weapon Crate | Series #14 Gold Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "dlc60",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Weapon Crate | Series #14 Silver Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc61",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Weapon Crate | Series #15 Bronze Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "dlc62",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Weapon Crate | Series #15 Gold Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "dlc63",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Weapon Crate | Series #15 Silver Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc64",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Weapon Crate | Series #16 Bronze Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "dlc65",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Weapon Crate | Series #16 Gold Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "dlc66",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Weapon Crate | Series #16 Silver Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc90",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Weapon Crate | Series #17 Bronze Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc92",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Weapon Crate | Series #17 Gold Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "dlc91",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Weapon Crate | Series #17 Silver Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc67",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Weapon Crate | Series #5 Bronze Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "dlc68",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Weapon Crate | Series #5 Gold Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "dlc69",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Weapon Crate | Series #5 Silver Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc70",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Weapon Crate | Series #7 Bronze Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "dlc71",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Weapon Crate | Series #7 Gold Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "dlc72",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Weapon Crate | Series #7 Silver Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc73",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Weapon Crate | Series #8 Bronze Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "dlc74",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Weapon Crate | Series #8 Gold Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "dlc75",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Horzine Supply Weapon Crate | Series #8 Silver Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 699,
+    "slug": "ice-breaker-weapon-skin-bundle-pack",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Ice Breaker Weapon Skin Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "dlc129",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Infernal Insurrection Weapon Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "dlc141",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Interstellar Insanity Full Gear Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "dlc147",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Interstellar Insanity Weapon Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc3",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Ion Thruster"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 699,
+    "slug": "dlc108",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Jaeger MKII Weapon Skin Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 699,
+    "slug": "dlc124",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Jaeger MKIII Weapon Skin Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 319,
+    "slug": "dlc83",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Jaeger Weapon Skin Double Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "dlc76",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "London Bobby Briar Uniform Bundle"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 0,
+    "slug": "medievalweaponskinbundlepack",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Medieval Weapon Skin Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc128",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Mine Reconstructor Weapon Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc127",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Minigun Weapon Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc87",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Mosin Nagant"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "dlc1",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Mr. Foster Classic Uniform Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc4",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Mrs. Foster"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 699,
+    "slug": "dlc116",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Neon MKVI Weapon Skin Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 699,
+    "slug": "neon-mkviii-weapon-skin-bundle-pack",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Neon MKVII Weapon Skin Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "neonmkviiiweaponskinbundlepack",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Neon MKVIII Weapon Skin Bundle Pack"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-01-05T13:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "out-of-the-park-baseball-23-09e3fa",
+    "startDate": "2022-12-22T18:00:00.000Z",
+    "title": "Out of the Park Baseball 23"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "dlc77",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Pajama Outfit Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "paratrooper-gear-cosmetic-bundle",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Paratrooper Gear Cosmetic Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "dlc121",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Perilous Plunder Weapon Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc152",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Piranha Pistols Weapon Bundle"
   },
   {
     "discountPercentage": 60,
@@ -243,6 +1476,33 @@
     "title": "Pirates Outlaws"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "plaguedoctoroutfitbundle",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Plague Doctor Outfit Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "plaguedoctorweaponskinbundlepack",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Plague Doctor Weapon Skin Bundle Pack"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 0,
+    "slug": "polardistressweaponbundle",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Polar Distress Weapon Bundle"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2023-01-10T00:00:00.000Z",
     "isFree": false,
@@ -250,6 +1510,78 @@
     "slug": "fortnite--polar-legends-pack",
     "startDate": "2022-12-21T00:00:00.000Z",
     "title": "Polar Legends Pack"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-01-31T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "prey",
+    "startDate": "2023-01-24T16:00:00.000Z",
+    "title": "Prey"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "dlc122-01",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Reaper Outfit Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "reductorayweaponbundle",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Reducto Ray Weapon Bundle"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 0,
+    "slug": "retrogamerweaponskinbundlepack",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Retro Gamer Weapon Skin Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 699,
+    "slug": "dlc117",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Retro Neon Gear Cosmetic Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc9",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Rhino Revolver"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-20T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "idle-champions-of-the-forgotten-realms--ricochet-the-crocodile-hatchling-familiar-pack",
+    "startDate": "2023-01-13T20:00:00.000Z",
+    "title": "Ricochet, the Crocodile Hatchling Familiar Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc86",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Riot Shield & G18"
   },
   {
     "discountPercentage": 100,
@@ -262,48 +1594,147 @@
   },
   {
     "discountPercentage": 50,
-    "endDate": "2022-12-09T19:00:00.000Z",
+    "endDate": "2023-01-05T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": 1999,
-    "slug": "the-alien-cube-789431",
-    "startDate": "2022-12-02T19:00:00.000Z",
-    "title": "The Alien Cube"
+    "originalPrice": 399,
+    "slug": "dlc85",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Santa's Helper Outfit Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "sentinelweaponbundle",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Sentinel Weapon Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dlc119",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Single & Dual Glock 18C Weapon Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "dlc115",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Space Pirate Full Gear Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "dlc114",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Space Pirate Outfit Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "dlc109",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Spectre HRG Weapon Skin Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "spectre-mkii-hrg-weapon-skin-bundle-pack",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Spectre MKII HRG Weapon Skin Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-20T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "idle-champions-of-the-forgotten-realms--squiddle-the-gnome-squidling-familiar-pack",
+    "startDate": "2023-01-13T20:00:00.000Z",
+    "title": "Squiddle the Gnome Squidling Familiar Pack"
   },
   {
     "discountPercentage": 20,
-    "endDate": "2022-12-09T14:00:00.000Z",
+    "endDate": "2023-01-05T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": 199,
-    "slug": "the-alien-cube-the-alien-cube-behind-the-scenes-c91de0",
-    "startDate": "2022-12-02T19:00:00.000Z",
-    "title": "The Alien Cube - Behind the scenes"
+    "originalPrice": 0,
+    "slug": "tacticoolweaponskinbundlepack",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Tacticool Weapon Skin Bundle Pack"
   },
   {
     "discountPercentage": 50,
-    "endDate": "2022-12-09T19:00:00.000Z",
+    "endDate": "2023-01-05T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": 2099,
-    "slug": "the-alien-cube-deluxe-edition",
-    "startDate": "2022-12-02T19:00:00.000Z",
-    "title": "The Alien Cube - Deluxe Edition"
+    "originalPrice": 399,
+    "slug": "dlc81",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Tanaka's Biker Bundle"
   },
   {
     "discountPercentage": 50,
-    "endDate": "2022-12-09T19:00:00.000Z",
+    "endDate": "2023-01-05T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": 999,
-    "slug": "the-land-of-pain-d6a3ed",
-    "startDate": "2022-12-02T19:00:00.000Z",
-    "title": "The Land of Pain"
+    "originalPrice": 799,
+    "slug": "dlc146",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Thermite Bore Weapon Bundle"
   },
   {
-    "discountPercentage": 30,
-    "endDate": "2022-12-05T20:00:00.000Z",
+    "discountPercentage": 50,
+    "endDate": "2023-01-24T18:00:00.000Z",
     "isFree": false,
-    "originalPrice": 1999,
-    "slug": "idle-champions-of-the-forgotten-realms--vertex-donaar-theme-pack",
-    "startDate": "2022-12-02T20:00:00.000Z",
-    "title": "Vertex Donaar Theme Pack"
+    "originalPrice": 599,
+    "slug": "thermonuclear-30a1d0",
+    "startDate": "2023-01-17T18:00:00.000Z",
+    "title": "Thermonuclear"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "tidalterrorweaponbundle",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Tidal Terror Weapon Bundle"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 0,
+    "slug": "trainconductoroutfitbundle",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Train Conductor Outfit Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 699,
+    "slug": "dlc151",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Vietnam Gear Cosmetic Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 599,
+    "slug": "dlc126",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "WW1 Pilot Gear Cosmetic Bundle"
   },
   {
     "discountPercentage": 60,
@@ -315,6 +1746,24 @@
     "title": "WarForwards"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "dlc130",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Wasteland Bundle"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2022-12-19T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "wavetale-f9cfdf",
+    "startDate": "2022-12-12T16:00:00.000Z",
+    "title": "Wavetale"
+  },
+  {
     "discountPercentage": 100,
     "endDate": "2022-12-15T16:00:00.000Z",
     "isFree": true,
@@ -324,12 +1773,48 @@
     "title": "Wildcat Gun Machine"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2022-12-13T10:00:00.000Z",
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 599,
+    "slug": "winter-gear-cosmetic-bundle",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Winter Gear Cosmetic Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "dlc82",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Witch Hunter Outfit Bundle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "xenoweaponskinbundlepack",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Xeno Weapon Skin Bundle Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "dlc89",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "Yuletide Horror Weapon Bundle"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2023-01-05T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 0,
-    "slug": "thehunter-call-of-the-wild--new-england-mountains",
-    "startDate": "2022-12-06T10:00:00.000Z",
-    "title": "theHunter: Call of the Wild\u2122 - New England Mountains"
+    "slug": "zedmkiiiweaponbundle",
+    "startDate": "2022-12-07T16:00:00.000Z",
+    "title": "ZED MKIII Weapon Bundle"
   }
 ]
