@@ -90,6 +90,15 @@
     "title": "5000 ZEN + 300 Bonus Bundle"
   },
   {
+    "discountPercentage": 10,
+    "endDate": "2022-12-22T14:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "alien-marauder-1f1ddf",
+    "startDate": "2022-12-15T14:00:00.000Z",
+    "title": "Alien Marauder"
+  },
+  {
     "discountPercentage": 15,
     "endDate": "2022-12-14T05:00:00.000Z",
     "isFree": false,
@@ -187,6 +196,15 @@
     "slug": "fortnite--polar-legends-pack",
     "startDate": "2022-12-21T00:00:00.000Z",
     "title": "Polar Legends Pack"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-01-31T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "prey",
+    "startDate": "2023-01-24T16:00:00.000Z",
+    "title": "Prey"
   },
   {
     "discountPercentage": 100,
