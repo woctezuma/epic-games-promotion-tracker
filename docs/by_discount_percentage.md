@@ -22,6 +22,6 @@
 |20|star-trek-online--20000-zen-3000-bonus-bundle|20000 ZEN + 3000 Bonus Bundle|179,99€|20|2022-12-21 16h|2023-01-02 16h|
 |21|neverwinter--5000-zen-300-bonus-bundle|5000 Neverwinter ZEN + 300 Bonus Bundle|44,99€|20|2022-12-21 16h|2023-01-06 16h|
 |22|star-trek-online--5000-zen-300-bonus-bundle|5000 ZEN + 300 Bonus Bundle|44,99€|20|2022-12-21 16h|2023-01-02 16h|
-|23|thehunter-call-of-the-wild--new-england-mountains|theHunter: Call of the Wild™ - New England Mountains|0,00€|20|2022-12-06 10h|2022-12-13 10h|
+|23|thehunter-call-of-the-wild--new-england-mountains|theHunter: Call of the Wild™ - New England Mountains|7,99€|20|2022-12-06 10h|2022-12-13 10h|
 |24|ballads-of-hongye-54e69d|Ballads of Hongye|7,99€|15|2022-12-07 05h|2022-12-14 05h|
 |25|football-manager-2023|Football Manager 2023|59,99€|10|2022-12-22 15h|2022-12-27 15h|

@@ -24,4 +24,4 @@
 |22|saints-row-iv-re-election|Saints Row IV Re-Elected|0,00€|100|2022-12-08 16h|2022-12-15 16h|
 |23|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
 |24|wildcat-gun-machine-c66c4e|Wildcat Gun Machine|14,99€|100|2022-12-08 16h|2022-12-15 16h|
-|25|thehunter-call-of-the-wild--new-england-mountains|theHunter: Call of the Wild™ - New England Mountains|0,00€|20|2022-12-06 10h|2022-12-13 10h|
+|25|thehunter-call-of-the-wild--new-england-mountains|theHunter: Call of the Wild™ - New England Mountains|7,99€|20|2022-12-06 10h|2022-12-13 10h|
