@@ -18,12 +18,17 @@
 |16|wildcat-gun-machine-c66c4e|Wildcat Gun Machine|14,99€|100|2022-12-08 16h|2022-12-15 16h|
 |17|blazing-beaks-3d4864|Blazing Beaks|11,99€|75|2022-12-15 15h|2023-01-02 15h|
 |18|fortnite--deep-freeze-bundle|Deep Freeze Bundle|11,99€|30|2022-12-21 00h|2023-01-10 00h|
-|19|flat-heroes-fec628|Flat Heroes|9,99€|45|2022-12-07 15h|2022-12-14 15h|
-|20|neverwinter--1000-zen-bundle|1000 Neverwinter ZEN Bundle|8,99€|20|2022-12-21 16h|2023-01-06 16h|
-|21|star-trek-online--1000-zen-bundle|1000 ZEN Bundle|8,99€|20|2022-12-21 16h|2023-01-02 16h|
-|22|ballads-of-hongye-54e69d|Ballads of Hongye|7,99€|15|2022-12-07 05h|2022-12-14 05h|
-|23|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
-|24|thehunter-call-of-the-wild--new-england-mountains|theHunter: Call of the Wild™ - New England Mountains|7,99€|20|2022-12-06 10h|2022-12-13 10h|
-|25|edge-of-galaxy-092087|Edge Of Galaxy|6,99€|25|2023-01-10 05h|2023-01-17 05h|
-|26|callofthewildtheangler-tnrdlc|Call of the Wild: The Angler™ - TNR DLC|0,00€|100|2022-12-12 10h|2023-01-05 10h|
-|27|saints-row-iv-re-election|Saints Row IV Re-Elected|0,00€|100|2022-12-08 16h|2022-12-15 16h|
+|19|evil-nun-the-broken-mask-372461|Evil Nun: The Broken Mask|11,99€|15|2022-12-09 18h|2022-12-16 18h|
+|20|flat-heroes-fec628|Flat Heroes|9,99€|45|2022-12-07 15h|2022-12-14 15h|
+|21|neverwinter--1000-zen-bundle|1000 Neverwinter ZEN Bundle|8,99€|20|2022-12-21 16h|2023-01-06 16h|
+|22|star-trek-online--1000-zen-bundle|1000 ZEN Bundle|8,99€|20|2022-12-21 16h|2023-01-02 16h|
+|23|idle-champions-of-the-forgotten-realms--ascendant-evelyn-skin-and-feat-pack|Ascendant Evelyn Skin & Feat Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
+|24|ballads-of-hongye-54e69d|Ballads of Hongye|7,99€|15|2022-12-07 05h|2022-12-14 05h|
+|25|idle-champions-of-the-forgotten-realms--disco-the-baby-moonstone-dragon-familiar-pack|Disco the Baby Moonstone Dragon Familiar Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
+|26|idle-champions-of-the-forgotten-realms--squiddle-the-gnome-squidling-familiar-pack|Squiddle the Gnome Squidling Familiar Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
+|27|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
+|28|thehunter-call-of-the-wild--new-england-mountains|theHunter: Call of the Wild™ - New England Mountains|7,99€|20|2022-12-06 10h|2022-12-13 10h|
+|29|edge-of-galaxy-092087|Edge Of Galaxy|6,99€|25|2023-01-10 05h|2023-01-17 05h|
+|30|idle-champions-of-the-forgotten-realms--ricochet-the-crocodile-hatchling-familiar-pack|Ricochet, the Crocodile Hatchling Familiar Pack|3,99€|50|2023-01-13 20h|2023-01-20 20h|
+|31|callofthewildtheangler-tnrdlc|Call of the Wild: The Angler™ - TNR DLC|0,00€|100|2022-12-12 10h|2023-01-05 10h|
+|32|saints-row-iv-re-election|Saints Row IV Re-Elected|0,00€|100|2022-12-08 16h|2022-12-15 16h|
