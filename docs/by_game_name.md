@@ -10,18 +10,20 @@
 |8|star-trek-online--20000-zen-3000-bonus-bundle|20000 ZEN + 3000 Bonus Bundle|179,99€|20|2022-12-21 16h|2023-01-02 16h|
 |9|neverwinter--5000-zen-300-bonus-bundle|5000 Neverwinter ZEN + 300 Bonus Bundle|44,99€|20|2022-12-21 16h|2023-01-06 16h|
 |10|star-trek-online--5000-zen-300-bonus-bundle|5000 ZEN + 300 Bonus Bundle|44,99€|20|2022-12-21 16h|2023-01-02 16h|
-|11|ballads-of-hongye-54e69d|Ballads of Hongye|7,99€|15|2022-12-07 05h|2022-12-14 05h|
-|12|blazing-beaks-3d4864|Blazing Beaks|11,99€|75|2022-12-15 15h|2023-01-02 15h|
-|13|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|80|2022-12-16 04h|2023-01-01 04h|
-|14|callofthewildtheangler-tnrdlc|Call of the Wild: The Angler™ - TNR DLC|0,00€|100|2022-12-12 10h|2023-01-05 10h|
-|15|fortnite--deep-freeze-bundle|Deep Freeze Bundle|11,99€|30|2022-12-21 00h|2023-01-10 00h|
-|16|edge-of-galaxy-092087|Edge Of Galaxy|6,99€|25|2023-01-10 05h|2023-01-17 05h|
-|17|flat-heroes-fec628|Flat Heroes|9,99€|45|2022-12-07 15h|2022-12-14 15h|
-|18|football-manager-2023|Football Manager 2023|59,99€|10|2022-12-22 15h|2022-12-27 15h|
-|19|fortnite--frozen-legends-pack|Frozen Legends Pack|14,99€|40|2022-12-21 00h|2023-01-10 00h|
-|20|pirates-outlaws-a8cc60|Pirates Outlaws|15,99€|60|2022-12-12 05h|2022-12-18 05h|
-|21|fortnite--polar-legends-pack|Polar Legends Pack|19,99€|40|2022-12-21 00h|2023-01-10 00h|
-|22|saints-row-iv-re-election|Saints Row IV Re-Elected|0,00€|100|2022-12-08 16h|2022-12-15 16h|
-|23|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
-|24|wildcat-gun-machine-c66c4e|Wildcat Gun Machine|14,99€|100|2022-12-08 16h|2022-12-15 16h|
-|25|thehunter-call-of-the-wild--new-england-mountains|theHunter: Call of the Wild™ - New England Mountains|7,99€|20|2022-12-06 10h|2022-12-13 10h|
+|11|alien-marauder-1f1ddf|Alien Marauder|15,99€|10|2022-12-15 14h|2022-12-22 14h|
+|12|ballads-of-hongye-54e69d|Ballads of Hongye|7,99€|15|2022-12-07 05h|2022-12-14 05h|
+|13|blazing-beaks-3d4864|Blazing Beaks|11,99€|75|2022-12-15 15h|2023-01-02 15h|
+|14|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|80|2022-12-16 04h|2023-01-01 04h|
+|15|callofthewildtheangler-tnrdlc|Call of the Wild: The Angler™ - TNR DLC|0,00€|100|2022-12-12 10h|2023-01-05 10h|
+|16|fortnite--deep-freeze-bundle|Deep Freeze Bundle|11,99€|30|2022-12-21 00h|2023-01-10 00h|
+|17|edge-of-galaxy-092087|Edge Of Galaxy|6,99€|25|2023-01-10 05h|2023-01-17 05h|
+|18|flat-heroes-fec628|Flat Heroes|9,99€|45|2022-12-07 15h|2022-12-14 15h|
+|19|football-manager-2023|Football Manager 2023|59,99€|10|2022-12-22 15h|2022-12-27 15h|
+|20|fortnite--frozen-legends-pack|Frozen Legends Pack|14,99€|40|2022-12-21 00h|2023-01-10 00h|
+|21|pirates-outlaws-a8cc60|Pirates Outlaws|15,99€|60|2022-12-12 05h|2022-12-18 05h|
+|22|fortnite--polar-legends-pack|Polar Legends Pack|19,99€|40|2022-12-21 00h|2023-01-10 00h|
+|23|prey|Prey|39,99€|75|2023-01-24 16h|2023-01-31 16h|
+|24|saints-row-iv-re-election|Saints Row IV Re-Elected|0,00€|100|2022-12-08 16h|2022-12-15 16h|
+|25|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
+|26|wildcat-gun-machine-c66c4e|Wildcat Gun Machine|14,99€|100|2022-12-08 16h|2022-12-15 16h|
+|27|thehunter-call-of-the-wild--new-england-mountains|theHunter: Call of the Wild™ - New England Mountains|7,99€|20|2022-12-06 10h|2022-12-13 10h|
