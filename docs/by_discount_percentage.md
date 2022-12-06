@@ -194,8 +194,7 @@
 |192|polardistressweaponbundle|Polar Distress Weapon Bundle|0,00€|20|2022-12-07 16h|2023-01-05 16h|
 |193|tacticoolweaponskinbundlepack|Tacticool Weapon Skin Bundle Pack|0,00€|20|2022-12-07 16h|2023-01-05 16h|
 |194|trainconductoroutfitbundle|Train Conductor Outfit Bundle|0,00€|20|2022-12-07 16h|2023-01-05 16h|
-|195|thehunter-call-of-the-wild--new-england-mountains|theHunter: Call of the Wild™ - New England Mountains|7,99€|20|2022-12-06 10h|2022-12-13 10h|
-|196|ballads-of-hongye-54e69d|Ballads of Hongye|7,99€|15|2022-12-07 05h|2022-12-14 05h|
-|197|evil-nun-the-broken-mask-372461|Evil Nun: The Broken Mask|11,99€|15|2022-12-09 18h|2022-12-16 18h|
-|198|alien-marauder-1f1ddf|Alien Marauder|15,99€|10|2022-12-15 14h|2022-12-22 14h|
-|199|football-manager-2023|Football Manager 2023|59,99€|10|2022-12-22 15h|2022-12-27 15h|
+|195|ballads-of-hongye-54e69d|Ballads of Hongye|7,99€|15|2022-12-07 05h|2022-12-14 05h|
+|196|evil-nun-the-broken-mask-372461|Evil Nun: The Broken Mask|11,99€|15|2022-12-09 18h|2022-12-16 18h|
+|197|alien-marauder-1f1ddf|Alien Marauder|15,99€|10|2022-12-15 14h|2022-12-22 14h|
+|198|football-manager-2023|Football Manager 2023|59,99€|10|2022-12-22 15h|2022-12-27 15h|

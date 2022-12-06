@@ -198,4 +198,3 @@
 |196|xenoweaponskinbundlepack|Xeno Weapon Skin Bundle Pack|3,99€|50|2022-12-07 16h|2023-01-05 16h|
 |197|dlc89|Yuletide Horror Weapon Bundle|11,99€|50|2022-12-07 16h|2023-01-05 16h|
 |198|zedmkiiiweaponbundle|ZED MKIII Weapon Bundle|0,00€|25|2022-12-07 16h|2023-01-05 16h|
-|199|thehunter-call-of-the-wild--new-england-mountains|theHunter: Call of the Wild™ - New England Mountains|7,99€|20|2022-12-06 10h|2022-12-13 10h|
