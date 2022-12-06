@@ -588,6 +588,15 @@
     "discountPercentage": 50,
     "endDate": "2023-01-05T16:00:00.000Z",
     "isFree": false,
+    "originalPrice": 2999,
+    "slug": "grand-theft-auto-v",
+    "startDate": "2022-12-14T16:00:00.000Z",
+    "title": "Grand Theft Auto V: Premium Edition"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
     "originalPrice": 799,
     "slug": "gravity-imploder-weapon-bundle",
     "startDate": "2022-12-07T16:00:00.000Z",
@@ -1413,6 +1422,15 @@
     "title": "Neon MKVIII Weapon Skin Bundle Pack"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2023-01-05T13:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "out-of-the-park-baseball-23-09e3fa",
+    "startDate": "2022-12-22T18:00:00.000Z",
+    "title": "Out of the Park Baseball 23"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-01-05T16:00:00.000Z",
     "isFree": false,
@@ -1726,6 +1744,15 @@
     "slug": "dlc130",
     "startDate": "2022-12-07T16:00:00.000Z",
     "title": "Wasteland Bundle"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2022-12-19T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "wavetale-f9cfdf",
+    "startDate": "2022-12-12T16:00:00.000Z",
+    "title": "Wavetale"
   },
   {
     "discountPercentage": 100,
