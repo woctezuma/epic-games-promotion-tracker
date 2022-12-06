@@ -1693,6 +1693,15 @@
   },
   {
     "discountPercentage": 50,
+    "endDate": "2023-01-24T18:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 599,
+    "slug": "thermonuclear-30a1d0",
+    "startDate": "2023-01-17T18:00:00.000Z",
+    "title": "Thermonuclear"
+  },
+  {
+    "discountPercentage": 50,
     "endDate": "2023-01-05T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1199,
