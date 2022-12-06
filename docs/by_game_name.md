@@ -176,7 +176,7 @@
 |174|dlc9|Rhino Revolver|7,99€|50|2022-12-07 16h|2023-01-05 16h|
 |175|idle-champions-of-the-forgotten-realms--ricochet-the-crocodile-hatchling-familiar-pack|Ricochet, the Crocodile Hatchling Familiar Pack|3,99€|50|2023-01-13 20h|2023-01-20 20h|
 |176|dlc86|Riot Shield & G18|7,99€|50|2022-12-07 16h|2023-01-05 16h|
-|177|saints-row-iv-re-election|Saints Row IV Re-Elected|0,00€|100|2022-12-08 16h|2022-12-15 16h|
+|177|saints-row-iv-re-election|Saints Row IV Re-Elected|19,99€|100|2022-12-08 16h|2022-12-15 16h|
 |178|dlc85|Santa's Helper Outfit Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
 |179|sentinelweaponbundle|Sentinel Weapon Bundle|7,99€|50|2022-12-07 16h|2023-01-05 16h|
 |180|dlc119|Single & Dual Glock 18C Weapon Bundle|7,99€|50|2022-12-07 16h|2023-01-05 16h|
