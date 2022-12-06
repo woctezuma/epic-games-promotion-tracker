@@ -134,7 +134,7 @@
 |132|dlc125|Apocalypse Gear Cosmetic Bundle|6,99€|50|2022-12-07 16h|2023-01-05 16h|
 |133|dlc144|Beyond Horizon MKII Weapon Skin Bundle Pack|6,99€|50|2022-12-07 16h|2023-01-05 16h|
 |134|dlc157|Christmas Weapon Skin Bundle Pack|6,99€|50|2022-12-07 16h|2023-01-05 16h|
-|135|edge-of-galaxy-092087|Edge Of Galaxy|6,99€|25|2023-01-10 05h|2023-01-17 05h|
+|135|edge-of-galaxy-092087|Edge Of Galaxy|6,99€|50|2023-01-10 05h|2023-01-17 05h|
 |136|dlc143|Foundry Gear Cosmetic Bundle Pack|6,99€|50|2022-12-07 16h|2023-01-05 16h|
 |137|dlc118|Future Neon Gear Cosmetic Bundle|6,99€|50|2022-12-07 16h|2023-01-05 16h|
 |138|dlc22|Headshot FX Bundle 1|6,99€|50|2022-12-07 16h|2023-01-05 16h|

@@ -150,7 +150,7 @@
 |148|dlc97|Horzine Supply Cosmetic Crate | Series #5 Silver Bundle Pack|15,99€|50|2022-12-07 16h|2023-01-05 16h|
 |149|dlc98|Horzine Supply Cosmetic Crate | Series #5 Gold Bundle Pack|24,99€|50|2022-12-07 16h|2023-01-05 16h|
 |150|dystopian-devastation-full-gear-bundle|Dystopian Devastation Full Gear Bundle|11,99€|50|2022-12-07 16h|2023-01-05 16h|
-|151|edge-of-galaxy-092087|Edge Of Galaxy|6,99€|25|2023-01-10 05h|2023-01-17 05h|
+|151|edge-of-galaxy-092087|Edge Of Galaxy|6,99€|50|2023-01-10 05h|2023-01-17 05h|
 |152|evil-nun-the-broken-mask-372461|Evil Nun: The Broken Mask|11,99€|15|2022-12-09 18h|2022-12-16 18h|
 |153|flat-heroes-fec628|Flat Heroes|9,99€|45|2022-12-07 15h|2022-12-14 15h|
 |154|football-manager-2023|Football Manager 2023|59,99€|10|2022-12-22 15h|2022-12-27 15h|

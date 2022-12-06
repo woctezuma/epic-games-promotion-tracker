@@ -54,7 +54,7 @@
 |52|dlc19|Dragon & Koi Tier 3 Weapon Skin Bundle|4,99€|50|2022-12-07 16h|2023-01-05 16h|
 |53|dlc20|Dragon & Koi Tier 4 Weapon Skin Bundle|4,99€|50|2022-12-07 16h|2023-01-05 16h|
 |54|dystopian-devastation-full-gear-bundle|Dystopian Devastation Full Gear Bundle|11,99€|50|2022-12-07 16h|2023-01-05 16h|
-|55|edge-of-galaxy-092087|Edge Of Galaxy|6,99€|25|2023-01-10 05h|2023-01-17 05h|
+|55|edge-of-galaxy-092087|Edge Of Galaxy|6,99€|50|2023-01-10 05h|2023-01-17 05h|
 |56|evil-nun-the-broken-mask-372461|Evil Nun: The Broken Mask|11,99€|15|2022-12-09 18h|2022-12-16 18h|
 |57|dlc145|FAMAS Masterkey Weapon Bundle|7,99€|50|2022-12-07 16h|2023-01-05 16h|
 |58|flat-heroes-fec628|Flat Heroes|9,99€|45|2022-12-07 15h|2022-12-14 15h|
