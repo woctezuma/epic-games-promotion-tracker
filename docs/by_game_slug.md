@@ -193,11 +193,12 @@
 |191|star-trek-online--20000-zen-3000-bonus-bundle|20000 ZEN + 3000 Bonus Bundle|179,99€|20|2022-12-21 16h|2023-01-02 16h|
 |192|star-trek-online--5000-zen-300-bonus-bundle|5000 ZEN + 300 Bonus Bundle|44,99€|20|2022-12-21 16h|2023-01-02 16h|
 |193|tacticoolweaponskinbundlepack|Tacticool Weapon Skin Bundle Pack|0,00€|20|2022-12-07 16h|2023-01-05 16h|
-|194|tidalterrorweaponbundle|Tidal Terror Weapon Bundle|11,99€|50|2022-12-07 16h|2023-01-05 16h|
-|195|trainconductoroutfitbundle|Train Conductor Outfit Bundle|0,00€|20|2022-12-07 16h|2023-01-05 16h|
-|196|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
-|197|wavetale-f9cfdf|Wavetale|29,99€|10|2022-12-12 16h|2022-12-19 16h|
-|198|wildcat-gun-machine-c66c4e|Wildcat Gun Machine|14,99€|100|2022-12-08 16h|2022-12-15 16h|
-|199|winter-gear-cosmetic-bundle|Winter Gear Cosmetic Bundle|5,99€|50|2022-12-07 16h|2023-01-05 16h|
-|200|xenoweaponskinbundlepack|Xeno Weapon Skin Bundle Pack|3,99€|50|2022-12-07 16h|2023-01-05 16h|
-|201|zedmkiiiweaponbundle|ZED MKIII Weapon Bundle|0,00€|25|2022-12-07 16h|2023-01-05 16h|
+|194|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
+|195|tidalterrorweaponbundle|Tidal Terror Weapon Bundle|11,99€|50|2022-12-07 16h|2023-01-05 16h|
+|196|trainconductoroutfitbundle|Train Conductor Outfit Bundle|0,00€|20|2022-12-07 16h|2023-01-05 16h|
+|197|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
+|198|wavetale-f9cfdf|Wavetale|29,99€|10|2022-12-12 16h|2022-12-19 16h|
+|199|wildcat-gun-machine-c66c4e|Wildcat Gun Machine|14,99€|100|2022-12-08 16h|2022-12-15 16h|
+|200|winter-gear-cosmetic-bundle|Winter Gear Cosmetic Bundle|5,99€|50|2022-12-07 16h|2023-01-05 16h|
+|201|xenoweaponskinbundlepack|Xeno Weapon Skin Bundle Pack|3,99€|50|2022-12-07 16h|2023-01-05 16h|
+|202|zedmkiiiweaponbundle|ZED MKIII Weapon Bundle|0,00€|25|2022-12-07 16h|2023-01-05 16h|

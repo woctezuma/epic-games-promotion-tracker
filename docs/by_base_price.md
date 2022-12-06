@@ -151,53 +151,54 @@
 |149|dlc117|Retro Neon Gear Cosmetic Bundle|6,99€|50|2022-12-07 16h|2023-01-05 16h|
 |150|dlc151|Vietnam Gear Cosmetic Bundle Pack|6,99€|50|2022-12-07 16h|2023-01-05 16h|
 |151|dlc159|Alchemist Gear Cosmetic Bundle Pack|5,99€|50|2022-12-07 16h|2023-01-05 16h|
-|152|dlc126|WW1 Pilot Gear Cosmetic Bundle|5,99€|50|2022-12-07 16h|2023-01-05 16h|
-|153|winter-gear-cosmetic-bundle|Winter Gear Cosmetic Bundle|5,99€|50|2022-12-07 16h|2023-01-05 16h|
-|154|chemical-warrior-gear-cosmetic-bundle|Chemical Warrior Gear Cosmetic Bundle|4,99€|50|2022-12-07 16h|2023-01-05 16h|
-|155|dlc17|Dragon & Koi Tier 1 Weapon Skin Bundle|4,99€|50|2022-12-07 16h|2023-01-05 16h|
-|156|dlc18|Dragon & Koi Tier 2 Weapon Skin Bundle|4,99€|50|2022-12-07 16h|2023-01-05 16h|
-|157|dlc19|Dragon & Koi Tier 3 Weapon Skin Bundle|4,99€|50|2022-12-07 16h|2023-01-05 16h|
-|158|dlc20|Dragon & Koi Tier 4 Weapon Skin Bundle|4,99€|50|2022-12-07 16h|2023-01-05 16h|
-|159|dlc84|Foster's Favorites Weapon Skin Pack|4,99€|50|2022-12-07 16h|2023-01-05 16h|
-|160|dlc11|Cardboard Knight Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
-|161|chameleonmkiiweaponskinbundlepack|Chameleon MKII Weapon Skin Bundle Pack|3,99€|50|2022-12-07 16h|2023-01-05 16h|
-|162|chameleonweaponskinbundlepack|Chameleon Weapon Skin Bundle Pack|3,99€|50|2022-12-07 16h|2023-01-05 16h|
-|163|classicmkiiweaponskinbundlepack|Classic MKII Weapon Skin Bundle Pack|3,99€|50|2022-12-07 16h|2023-01-05 16h|
-|164|classicweaponskinbundlepack|Classic Weapon Skin Bundle Pack|3,99€|50|2022-12-07 16h|2023-01-05 16h|
-|165|dlc12|Clot Backpack Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
-|166|dlc13|Commando Chicken Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
-|167|dlc14|Cyberpunk Outfit Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
-|168|dlc15|D.A.R. Assault Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
-|169|dlc149|Day of the Zed Character Outfit Set|3,99€|50|2022-12-07 16h|2023-01-05 16h|
-|170|deepseaexploreroutfitbundle|Deep Sea Explorer Outfit Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
-|171|dlc21|Hazmat Suit Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
-|172|dlc156|Holiday Shopper Outfit Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
-|173|dlc24|Horzine Mark 7 Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
-|174|dlc76|London Bobby Briar Uniform Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
-|175|dlc1|Mr. Foster Classic Uniform Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
-|176|neonmkviiiweaponskinbundlepack|Neon MKVIII Weapon Skin Bundle Pack|3,99€|50|2022-12-07 16h|2023-01-05 16h|
-|177|dlc77|Pajama Outfit Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
-|178|paratrooper-gear-cosmetic-bundle|Paratrooper Gear Cosmetic Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
-|179|plaguedoctoroutfitbundle|Plague Doctor Outfit Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
-|180|dlc122-01|Reaper Outfit Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
-|181|idle-champions-of-the-forgotten-realms--ricochet-the-crocodile-hatchling-familiar-pack|Ricochet, the Crocodile Hatchling Familiar Pack|3,99€|50|2023-01-13 20h|2023-01-20 20h|
-|182|dlc85|Santa's Helper Outfit Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
-|183|dlc114|Space Pirate Outfit Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
-|184|dlc109|Spectre HRG Weapon Skin Bundle Pack|3,99€|50|2022-12-07 16h|2023-01-05 16h|
-|185|spectre-mkii-hrg-weapon-skin-bundle-pack|Spectre MKII HRG Weapon Skin Bundle Pack|3,99€|50|2022-12-07 16h|2023-01-05 16h|
-|186|dlc81|Tanaka's Biker Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
-|187|dlc130|Wasteland Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
-|188|dlc82|Witch Hunter Outfit Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
-|189|xenoweaponskinbundlepack|Xeno Weapon Skin Bundle Pack|3,99€|50|2022-12-07 16h|2023-01-05 16h|
-|190|dlc83|Jaeger Weapon Skin Double Pack|3,19€|50|2022-12-07 16h|2023-01-05 16h|
-|191|dlc2|Horzine Crate Key|1,99€|40|2022-12-07 16h|2023-01-05 16h|
-|192|callofthewildtheangler-tnrdlc|Call of the Wild: The Angler™ - TNR DLC|0,00€|100|2022-12-12 10h|2023-01-05 10h|
-|193|chameleonmkiiiweaponskinbundlepack|Chameleon MKIII Weapon Skin Bundle Pack|0,00€|20|2022-12-07 16h|2023-01-05 16h|
-|194|hvstormcannonweaponbundle|HV Storm Cannon Weapon Bundle|0,00€|25|2022-12-07 16h|2023-01-05 16h|
-|195|medievalweaponskinbundlepack|Medieval Weapon Skin Bundle Pack|0,00€|20|2022-12-07 16h|2023-01-05 16h|
-|196|polardistressweaponbundle|Polar Distress Weapon Bundle|0,00€|20|2022-12-07 16h|2023-01-05 16h|
-|197|retrogamerweaponskinbundlepack|Retro Gamer Weapon Skin Bundle Pack|0,00€|25|2022-12-07 16h|2023-01-05 16h|
-|198|saints-row-iv-re-election|Saints Row IV Re-Elected|0,00€|100|2022-12-08 16h|2022-12-15 16h|
-|199|tacticoolweaponskinbundlepack|Tacticool Weapon Skin Bundle Pack|0,00€|20|2022-12-07 16h|2023-01-05 16h|
-|200|trainconductoroutfitbundle|Train Conductor Outfit Bundle|0,00€|20|2022-12-07 16h|2023-01-05 16h|
-|201|zedmkiiiweaponbundle|ZED MKIII Weapon Bundle|0,00€|25|2022-12-07 16h|2023-01-05 16h|
+|152|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
+|153|dlc126|WW1 Pilot Gear Cosmetic Bundle|5,99€|50|2022-12-07 16h|2023-01-05 16h|
+|154|winter-gear-cosmetic-bundle|Winter Gear Cosmetic Bundle|5,99€|50|2022-12-07 16h|2023-01-05 16h|
+|155|chemical-warrior-gear-cosmetic-bundle|Chemical Warrior Gear Cosmetic Bundle|4,99€|50|2022-12-07 16h|2023-01-05 16h|
+|156|dlc17|Dragon & Koi Tier 1 Weapon Skin Bundle|4,99€|50|2022-12-07 16h|2023-01-05 16h|
+|157|dlc18|Dragon & Koi Tier 2 Weapon Skin Bundle|4,99€|50|2022-12-07 16h|2023-01-05 16h|
+|158|dlc19|Dragon & Koi Tier 3 Weapon Skin Bundle|4,99€|50|2022-12-07 16h|2023-01-05 16h|
+|159|dlc20|Dragon & Koi Tier 4 Weapon Skin Bundle|4,99€|50|2022-12-07 16h|2023-01-05 16h|
+|160|dlc84|Foster's Favorites Weapon Skin Pack|4,99€|50|2022-12-07 16h|2023-01-05 16h|
+|161|dlc11|Cardboard Knight Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
+|162|chameleonmkiiweaponskinbundlepack|Chameleon MKII Weapon Skin Bundle Pack|3,99€|50|2022-12-07 16h|2023-01-05 16h|
+|163|chameleonweaponskinbundlepack|Chameleon Weapon Skin Bundle Pack|3,99€|50|2022-12-07 16h|2023-01-05 16h|
+|164|classicmkiiweaponskinbundlepack|Classic MKII Weapon Skin Bundle Pack|3,99€|50|2022-12-07 16h|2023-01-05 16h|
+|165|classicweaponskinbundlepack|Classic Weapon Skin Bundle Pack|3,99€|50|2022-12-07 16h|2023-01-05 16h|
+|166|dlc12|Clot Backpack Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
+|167|dlc13|Commando Chicken Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
+|168|dlc14|Cyberpunk Outfit Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
+|169|dlc15|D.A.R. Assault Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
+|170|dlc149|Day of the Zed Character Outfit Set|3,99€|50|2022-12-07 16h|2023-01-05 16h|
+|171|deepseaexploreroutfitbundle|Deep Sea Explorer Outfit Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
+|172|dlc21|Hazmat Suit Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
+|173|dlc156|Holiday Shopper Outfit Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
+|174|dlc24|Horzine Mark 7 Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
+|175|dlc76|London Bobby Briar Uniform Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
+|176|dlc1|Mr. Foster Classic Uniform Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
+|177|neonmkviiiweaponskinbundlepack|Neon MKVIII Weapon Skin Bundle Pack|3,99€|50|2022-12-07 16h|2023-01-05 16h|
+|178|dlc77|Pajama Outfit Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
+|179|paratrooper-gear-cosmetic-bundle|Paratrooper Gear Cosmetic Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
+|180|plaguedoctoroutfitbundle|Plague Doctor Outfit Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
+|181|dlc122-01|Reaper Outfit Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
+|182|idle-champions-of-the-forgotten-realms--ricochet-the-crocodile-hatchling-familiar-pack|Ricochet, the Crocodile Hatchling Familiar Pack|3,99€|50|2023-01-13 20h|2023-01-20 20h|
+|183|dlc85|Santa's Helper Outfit Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
+|184|dlc114|Space Pirate Outfit Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
+|185|dlc109|Spectre HRG Weapon Skin Bundle Pack|3,99€|50|2022-12-07 16h|2023-01-05 16h|
+|186|spectre-mkii-hrg-weapon-skin-bundle-pack|Spectre MKII HRG Weapon Skin Bundle Pack|3,99€|50|2022-12-07 16h|2023-01-05 16h|
+|187|dlc81|Tanaka's Biker Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
+|188|dlc130|Wasteland Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
+|189|dlc82|Witch Hunter Outfit Bundle|3,99€|50|2022-12-07 16h|2023-01-05 16h|
+|190|xenoweaponskinbundlepack|Xeno Weapon Skin Bundle Pack|3,99€|50|2022-12-07 16h|2023-01-05 16h|
+|191|dlc83|Jaeger Weapon Skin Double Pack|3,19€|50|2022-12-07 16h|2023-01-05 16h|
+|192|dlc2|Horzine Crate Key|1,99€|40|2022-12-07 16h|2023-01-05 16h|
+|193|callofthewildtheangler-tnrdlc|Call of the Wild: The Angler™ - TNR DLC|0,00€|100|2022-12-12 10h|2023-01-05 10h|
+|194|chameleonmkiiiweaponskinbundlepack|Chameleon MKIII Weapon Skin Bundle Pack|0,00€|20|2022-12-07 16h|2023-01-05 16h|
+|195|hvstormcannonweaponbundle|HV Storm Cannon Weapon Bundle|0,00€|25|2022-12-07 16h|2023-01-05 16h|
+|196|medievalweaponskinbundlepack|Medieval Weapon Skin Bundle Pack|0,00€|20|2022-12-07 16h|2023-01-05 16h|
+|197|polardistressweaponbundle|Polar Distress Weapon Bundle|0,00€|20|2022-12-07 16h|2023-01-05 16h|
+|198|retrogamerweaponskinbundlepack|Retro Gamer Weapon Skin Bundle Pack|0,00€|25|2022-12-07 16h|2023-01-05 16h|
+|199|saints-row-iv-re-election|Saints Row IV Re-Elected|0,00€|100|2022-12-08 16h|2022-12-15 16h|
+|200|tacticoolweaponskinbundlepack|Tacticool Weapon Skin Bundle Pack|0,00€|20|2022-12-07 16h|2023-01-05 16h|
+|201|trainconductoroutfitbundle|Train Conductor Outfit Bundle|0,00€|20|2022-12-07 16h|2023-01-05 16h|
+|202|zedmkiiiweaponbundle|ZED MKIII Weapon Bundle|0,00€|25|2022-12-07 16h|2023-01-05 16h|
