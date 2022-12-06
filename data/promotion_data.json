@@ -513,15 +513,6 @@
     "title": "FAMAS Masterkey Weapon Bundle"
   },
   {
-    "discountPercentage": 80,
-    "endDate": "2022-12-13T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 499,
-    "slug": "faces-of-war-3c2686",
-    "startDate": "2022-12-06T18:00:00.000Z",
-    "title": "Faces of War"
-  },
-  {
     "discountPercentage": 45,
     "endDate": "2022-12-14T15:00:00.000Z",
     "isFree": false,
@@ -1348,69 +1339,6 @@
     "slug": "medievalweaponskinbundlepack",
     "startDate": "2022-12-07T16:00:00.000Z",
     "title": "Medieval Weapon Skin Bundle Pack"
-  },
-  {
-    "discountPercentage": 85,
-    "endDate": "2022-12-13T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 499,
-    "slug": "men-of-war-74bf75",
-    "startDate": "2022-12-06T18:00:00.000Z",
-    "title": "Men of War"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2022-12-13T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "men-of-war-assault-squad-1294b4",
-    "startDate": "2022-12-06T18:00:00.000Z",
-    "title": "Men of War Assault Squad"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2022-12-13T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 499,
-    "slug": "men-of-war-assault-squad-men-of-war-assault-squad-goty-edition-upgrade-8b5d1a",
-    "startDate": "2022-12-06T18:00:00.000Z",
-    "title": "Men of War Assault Squad GOTY Edition Upgrade"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2022-12-13T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 499,
-    "slug": "men-of-war-assault-squad-men-of-war-assault-squad-goty-edition-upgrade-8b5d1a",
-    "startDate": "2022-12-06T18:00:00.000Z",
-    "title": "Men of War Assault Squad GOTY Edition Upgrade"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2022-12-13T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "men-of-war-condemned-heroes-5947be",
-    "startDate": "2022-12-06T18:00:00.000Z",
-    "title": "Men of War Condemned Heroes"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2022-12-13T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 499,
-    "slug": "men-of-war-red-tide-984ee6",
-    "startDate": "2022-12-06T18:00:00.000Z",
-    "title": "Men of War: Red Tide"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2022-12-13T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 899,
-    "slug": "men-of-war-vietnam-a61b4f",
-    "startDate": "2022-12-06T18:00:00.000Z",
-    "title": "Men of War: Vietnam - Special edition"
   },
   {
     "discountPercentage": 50,
