@@ -3,7 +3,7 @@
 |1|alien-marauder-1f1ddf|Alien Marauder|15,99€|10|2022-12-15 14h|2022-12-22 14h|
 |2|blazing-beaks-3d4864|Blazing Beaks|11,99€|75|2022-12-15 15h|2023-01-02 15h|
 |3|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|80|2022-12-16 04h|2023-01-01 04h|
-|4|callofthewildtheangler-tnrdlc|Call of the Wild: The Angler™ - TNR DLC|0,00€|100|2022-12-12 10h|2023-01-05 10h|
+|4|callofthewildtheangler-tnrdlc|Call of the Wild: The Angler™ - TNR DLC|0,00€|100|2022-12-15 10h|2023-01-05 10h|
 |5|edge-of-galaxy-092087|Edge Of Galaxy|6,99€|50|2023-01-10 05h|2023-01-17 05h|
 |6|evil-nun-the-broken-mask-372461|Evil Nun: The Broken Mask|11,99€|15|2022-12-09 18h|2022-12-16 18h|
 |7|football-manager-2023|Football Manager 2023|59,99€|10|2022-12-22 15h|2022-12-27 15h|

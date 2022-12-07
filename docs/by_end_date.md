@@ -14,7 +14,7 @@
 |12|star-trek-online--2000-zen-bundle|2000 ZEN Bundle|17,99€|20|2022-12-21 16h|2023-01-02 16h|
 |13|star-trek-online--20000-zen-3000-bonus-bundle|20000 ZEN + 3000 Bonus Bundle|179,99€|20|2022-12-21 16h|2023-01-02 16h|
 |14|star-trek-online--5000-zen-300-bonus-bundle|5000 ZEN + 300 Bonus Bundle|44,99€|20|2022-12-21 16h|2023-01-02 16h|
-|15|callofthewildtheangler-tnrdlc|Call of the Wild: The Angler™ - TNR DLC|0,00€|100|2022-12-12 10h|2023-01-05 10h|
+|15|callofthewildtheangler-tnrdlc|Call of the Wild: The Angler™ - TNR DLC|0,00€|100|2022-12-15 10h|2023-01-05 10h|
 |16|out-of-the-park-baseball-23-09e3fa|Out of the Park Baseball 23|39,99€|75|2022-12-22 18h|2023-01-05 13h|
 |17|grand-theft-auto-v|Grand Theft Auto V: Premium Edition|29,99€|50|2022-12-14 16h|2023-01-05 16h|
 |18|neverwinter--1000-zen-bundle|1000 Neverwinter ZEN Bundle|8,99€|20|2022-12-21 16h|2023-01-06 16h|
