@@ -264,10 +264,10 @@
     "discountPercentage": 50,
     "endDate": "2022-12-10T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": 2999,
-    "slug": "aeterna-noctis",
+    "originalPrice": 3999,
+    "slug": "aeterna-noctis--deluxe-edition",
     "startDate": "2022-12-08T16:00:00.000Z",
-    "title": "Aeterna Noctis"
+    "title": "Aeterna Noctis Deluxe Edition"
   },
   {
     "discountPercentage": 60,
@@ -2379,15 +2379,6 @@
     "discountPercentage": 50,
     "endDate": "2022-12-10T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": 799,
-    "slug": "evil-dead-the-game--2013-bundle",
-    "startDate": "2022-12-08T16:00:00.000Z",
-    "title": "Evil Dead: The Game - 2013 bundle"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2022-12-10T16:00:00.000Z",
-    "isFree": false,
     "originalPrice": 599,
     "slug": "evil-dead-the-game--army-of-darkness-bundle",
     "startDate": "2022-12-08T16:00:00.000Z",
@@ -2419,6 +2410,15 @@
     "slug": "evil-dead-the-game--deluxe-edition",
     "startDate": "2022-12-08T16:00:00.000Z",
     "title": "Evil Dead: The Game - Deluxe Edition"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-12-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "evil-dead-the-game--season-pass-1",
+    "startDate": "2022-12-08T16:00:00.000Z",
+    "title": "Evil Dead: The Game - Season Pass 1"
   },
   {
     "discountPercentage": 15,
@@ -2505,37 +2505,10 @@
     "discountPercentage": 75,
     "endDate": "2022-12-10T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": 1999,
-    "slug": "faeria",
-    "startDate": "2022-12-08T16:00:00.000Z",
-    "title": "Faeria"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2022-12-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "faeria",
-    "startDate": "2022-12-08T16:00:00.000Z",
-    "title": "Faeria"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2022-12-10T16:00:00.000Z",
-    "isFree": false,
     "originalPrice": 8799,
     "slug": "faeria--game-plus-all-dlc-bundle",
     "startDate": "2022-12-08T16:00:00.000Z",
     "title": "Faeria: Game + All DLC Bundle"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2022-12-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "faeria--premium-bundle",
-    "startDate": "2022-12-08T16:00:00.000Z",
-    "title": "Faeria: Premium Bundle"
   },
   {
     "discountPercentage": 75,
@@ -2950,15 +2923,6 @@
     "slug": "grime",
     "startDate": "2022-12-08T16:00:00.000Z",
     "title": "GRIME"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2022-12-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "gamedec",
-    "startDate": "2022-12-08T16:00:00.000Z",
-    "title": "Gamedec - Definitive Edition"
   },
   {
     "discountPercentage": 40,
@@ -3780,15 +3744,6 @@
     "title": "Jurassic World Evolution 2: Camp Cretaceous Dinosaur Pack"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2022-12-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "jurassic-world-evolution-2--camp-cretaceous-pack",
-    "startDate": "2022-12-08T16:00:00.000Z",
-    "title": "Jurassic World Evolution 2: Camp Cretaceous Dinosaur Pack"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2022-12-10T16:00:00.000Z",
     "isFree": false,
@@ -3814,6 +3769,15 @@
     "slug": "jurassic-world-evolution-2--early-cretaceous-pack",
     "startDate": "2022-12-08T16:00:00.000Z",
     "title": "Jurassic World Evolution 2: Early Cretaceous Pack"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2022-12-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "jurassic-world-evolution-2--late-cretaceous-pack",
+    "startDate": "2022-12-08T16:00:00.000Z",
+    "title": "Jurassic World Evolution 2: Late Cretaceous Pack"
   },
   {
     "discountPercentage": 50,
@@ -3895,6 +3859,15 @@
     "slug": "kards-the-world-war-ii-card-game--starter-pack",
     "startDate": "2022-12-08T16:00:00.000Z",
     "title": "KARDS - Starter Pack"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-01-01T05:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "koral-63ea73",
+    "startDate": "2022-12-18T05:00:00.000Z",
+    "title": "KORAL"
   },
   {
     "discountPercentage": 30,
@@ -4662,15 +4635,6 @@
     "title": "Lovecraft's Untold Stories OST"
   },
   {
-    "discountPercentage": 60,
-    "endDate": "2022-12-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "lumberjacks-dynasty",
-    "startDate": "2022-12-08T16:00:00.000Z",
-    "title": "Lumberjack's Dynasty"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2022-12-10T16:00:00.000Z",
     "isFree": false,
@@ -4876,6 +4840,15 @@
     "slug": "while-true-learn--mega-map-of-machine-learning",
     "startDate": "2022-12-08T16:00:00.000Z",
     "title": "Mega Map of Machine Learning"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2023-01-05T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "melatonin-f16dcb",
+    "startDate": "2022-12-15T17:00:00.000Z",
+    "title": "Melatonin"
   },
   {
     "discountPercentage": 50,
@@ -5905,6 +5878,15 @@
   },
   {
     "discountPercentage": 75,
+    "endDate": "2022-12-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "faeria--premium-edition",
+    "startDate": "2022-12-08T16:00:00.000Z",
+    "title": "Premium Edition DLC"
+  },
+  {
+    "discountPercentage": 75,
     "endDate": "2023-01-31T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 3999,
@@ -6318,7 +6300,7 @@
     "title": "Restless Soul"
   },
   {
-    "discountPercentage": 90,
+    "discountPercentage": 75,
     "endDate": "2022-12-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 999,
@@ -7731,6 +7713,15 @@
     "title": "The Amorous Adventures of Bold Sir Hans Capon"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2022-12-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 699,
+    "slug": "gamedec--the-art-of-gamedec",
+    "startDate": "2022-12-08T16:00:00.000Z",
+    "title": "The Art of Gamedec"
+  },
+  {
     "discountPercentage": 66,
     "endDate": "2022-12-10T16:00:00.000Z",
     "isFree": false,
@@ -8676,15 +8667,6 @@
     "title": "Tour de France 2022"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2022-12-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "tower-princess-ae1a22",
-    "startDate": "2022-12-08T16:00:00.000Z",
-    "title": "Tower Princess"
-  },
-  {
     "discountPercentage": 35,
     "endDate": "2022-12-10T16:00:00.000Z",
     "isFree": false,
@@ -8899,6 +8881,15 @@
     "slug": "tropico-6--el-prez-edition",
     "startDate": "2022-12-08T16:00:00.000Z",
     "title": "Tropico 6 - El Prez Edition"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2022-12-30T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 599,
+    "slug": "true-hate-007027",
+    "startDate": "2022-12-15T17:00:00.000Z",
+    "title": "True Hate"
   },
   {
     "discountPercentage": 85,
@@ -9736,6 +9727,42 @@
     "slug": "thehunter-call-of-the-wild",
     "startDate": "2022-12-08T16:00:00.000Z",
     "title": "theHunter: Call of the Wild\u2122"
+  },
+  {
+    "discountPercentage": 38,
+    "endDate": "2022-12-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "thehunter-call-of-the-wild--essentials-dlc-bundle",
+    "startDate": "2022-12-08T16:00:00.000Z",
+    "title": "theHunter: Call of the Wild\u2122 - Essentials DLC Bundle"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2022-12-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "thehunter-call-of-the-wild--greenhorn-bundle",
+    "startDate": "2022-12-08T16:00:00.000Z",
+    "title": "theHunter: Call of the Wild\u2122 - Greenhorn Bundle"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2022-12-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "thehunter-call-of-the-wild--master-hunter-bundle",
+    "startDate": "2022-12-08T16:00:00.000Z",
+    "title": "theHunter: Call of the Wild\u2122 - Master Hunter Bundle"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2022-12-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "thehunter-call-of-the-wild--seasoned-hunter-bundle",
+    "startDate": "2022-12-08T16:00:00.000Z",
+    "title": "theHunter: Call of the Wild\u2122 - Seasoned Hunter Bundle"
   },
   {
     "discountPercentage": 30,
