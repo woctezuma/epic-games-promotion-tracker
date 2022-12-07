@@ -144,15 +144,6 @@
     "title": "Badass Santa Bundle"
   },
   {
-    "discountPercentage": 15,
-    "endDate": "2022-12-14T05:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "ballads-of-hongye-54e69d",
-    "startDate": "2022-12-07T05:00:00.000Z",
-    "title": "Ballads of Hongye"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2023-01-05T16:00:00.000Z",
     "isFree": false,
@@ -232,15 +223,6 @@
     "slug": "chameleonmkiiweaponskinbundlepack",
     "startDate": "2022-12-07T16:00:00.000Z",
     "title": "Chameleon MKII Weapon Skin Bundle Pack"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2023-01-05T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 0,
-    "slug": "chameleonmkiiiweaponskinbundlepack",
-    "startDate": "2022-12-07T16:00:00.000Z",
-    "title": "Chameleon MKIII Weapon Skin Bundle Pack"
   },
   {
     "discountPercentage": 50,
@@ -610,15 +592,6 @@
     "slug": "dlc88",
     "startDate": "2022-12-07T16:00:00.000Z",
     "title": "Grim Treatments Weapon Bundle"
-  },
-  {
-    "discountPercentage": 25,
-    "endDate": "2023-01-05T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 0,
-    "slug": "hvstormcannonweaponbundle",
-    "startDate": "2022-12-07T16:00:00.000Z",
-    "title": "HV Storm Cannon Weapon Bundle"
   },
   {
     "discountPercentage": 50,
@@ -1341,15 +1314,6 @@
     "title": "London Bobby Briar Uniform Bundle"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2023-01-05T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 0,
-    "slug": "medievalweaponskinbundlepack",
-    "startDate": "2022-12-07T16:00:00.000Z",
-    "title": "Medieval Weapon Skin Bundle Pack"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2023-01-05T16:00:00.000Z",
     "isFree": false,
@@ -1494,15 +1458,6 @@
     "title": "Plague Doctor Weapon Skin Bundle Pack"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2023-01-05T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 0,
-    "slug": "polardistressweaponbundle",
-    "startDate": "2022-12-07T16:00:00.000Z",
-    "title": "Polar Distress Weapon Bundle"
-  },
-  {
     "discountPercentage": 40,
     "endDate": "2023-01-10T00:00:00.000Z",
     "isFree": false,
@@ -1537,15 +1492,6 @@
     "slug": "reductorayweaponbundle",
     "startDate": "2022-12-07T16:00:00.000Z",
     "title": "Reducto Ray Weapon Bundle"
-  },
-  {
-    "discountPercentage": 25,
-    "endDate": "2023-01-05T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 0,
-    "slug": "retrogamerweaponskinbundlepack",
-    "startDate": "2022-12-07T16:00:00.000Z",
-    "title": "Retro Gamer Weapon Skin Bundle Pack"
   },
   {
     "discountPercentage": 50,
@@ -1665,15 +1611,6 @@
     "title": "Squiddle the Gnome Squidling Familiar Pack"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2023-01-05T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 0,
-    "slug": "tacticoolweaponskinbundlepack",
-    "startDate": "2022-12-07T16:00:00.000Z",
-    "title": "Tacticool Weapon Skin Bundle Pack"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2023-01-05T16:00:00.000Z",
     "isFree": false,
@@ -1708,15 +1645,6 @@
     "slug": "tidalterrorweaponbundle",
     "startDate": "2022-12-07T16:00:00.000Z",
     "title": "Tidal Terror Weapon Bundle"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2023-01-05T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 0,
-    "slug": "trainconductoroutfitbundle",
-    "startDate": "2022-12-07T16:00:00.000Z",
-    "title": "Train Conductor Outfit Bundle"
   },
   {
     "discountPercentage": 50,
@@ -1807,14 +1735,5 @@
     "slug": "dlc89",
     "startDate": "2022-12-07T16:00:00.000Z",
     "title": "Yuletide Horror Weapon Bundle"
-  },
-  {
-    "discountPercentage": 25,
-    "endDate": "2023-01-05T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 0,
-    "slug": "zedmkiiiweaponbundle",
-    "startDate": "2022-12-07T16:00:00.000Z",
-    "title": "ZED MKIII Weapon Bundle"
   }
 ]
