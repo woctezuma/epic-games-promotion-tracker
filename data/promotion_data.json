@@ -4878,6 +4878,15 @@
     "title": "Mega Map of Machine Learning"
   },
   {
+    "discountPercentage": 10,
+    "endDate": "2023-01-05T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "melatonin-f16dcb",
+    "startDate": "2022-12-15T17:00:00.000Z",
+    "title": "Melatonin"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2022-12-10T16:00:00.000Z",
     "isFree": false,
@@ -8899,6 +8908,15 @@
     "slug": "tropico-6--el-prez-edition",
     "startDate": "2022-12-08T16:00:00.000Z",
     "title": "Tropico 6 - El Prez Edition"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2022-12-30T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 599,
+    "slug": "true-hate-007027",
+    "startDate": "2022-12-15T17:00:00.000Z",
+    "title": "True Hate"
   },
   {
     "discountPercentage": 85,
