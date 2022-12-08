@@ -3897,6 +3897,15 @@
     "title": "KARDS - Starter Pack"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2023-01-01T05:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "koral-63ea73",
+    "startDate": "2022-12-18T05:00:00.000Z",
+    "title": "KORAL"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2022-12-10T16:00:00.000Z",
     "isFree": false,
