@@ -4144,7 +4144,7 @@
     "endDate": "2022-12-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 698,
-    "slug": "kings-bounty-the-warriors-of-the-north-kings-bounty-warriors-of-the-north-cu-upgrade-a88d38",
+    "slug": "kings-bounty-warriors-of-the-north-cu-upgrade",
     "startDate": "2022-12-08T16:00:00.000Z",
     "title": "King's Bounty: Warriors of the North CE upgrade"
   },
@@ -4827,10 +4827,19 @@
     "discountPercentage": 25,
     "endDate": "2022-12-10T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": 2999,
-    "slug": "medieval-dynasty",
+    "originalPrice": 3499,
+    "slug": "borondigitalsupporteredition",
     "startDate": "2022-12-08T16:00:00.000Z",
-    "title": "Medieval Dynasty"
+    "title": "Medieval Dynasty - Digital Supporter Edition"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2022-12-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 699,
+    "slug": "medieval-dynasty--digital-supporter-pack",
+    "startDate": "2022-12-08T16:00:00.000Z",
+    "title": "Medieval Dynasty - Digital Supporter Pack"
   },
   {
     "discountPercentage": 15,
@@ -5103,6 +5112,15 @@
     "title": "Mycroft's Pride DLC"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2022-12-16T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 0,
+    "slug": "[]",
+    "startDate": "2022-12-15T16:00:00.000Z",
+    "title": "Mystery Game"
+  },
+  {
     "discountPercentage": 35,
     "endDate": "2022-12-10T16:00:00.000Z",
     "isFree": false,
@@ -5157,6 +5175,15 @@
     "title": "Nexomon: Extinction"
   },
   {
+    "discountPercentage": 55,
+    "endDate": "2022-12-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "night-lights-4cd904",
+    "startDate": "2022-12-08T16:00:00.000Z",
+    "title": "Night Lights"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2022-12-10T16:00:00.000Z",
     "isFree": false,
@@ -5185,15 +5212,6 @@
   },
   {
     "discountPercentage": 60,
-    "endDate": "2022-12-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1249,
-    "slug": "no-longer-home",
-    "startDate": "2022-12-08T16:00:00.000Z",
-    "title": "No Longer Home"
-  },
-  {
-    "discountPercentage": 55,
     "endDate": "2022-12-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1249,
@@ -5301,24 +5319,6 @@
     "title": "Olija"
   },
   {
-    "discountPercentage": 70,
-    "endDate": "2022-12-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 396,
-    "slug": "road-96--documentary",
-    "startDate": "2022-12-08T16:00:00.000Z",
-    "title": "On the Road 96 - Documentary"
-  },
-  {
-    "discountPercentage": 70,
-    "endDate": "2022-12-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 396,
-    "slug": "road-96--documentary",
-    "startDate": "2022-12-08T16:00:00.000Z",
-    "title": "On the Road 96 - Documentary"
-  },
-  {
     "discountPercentage": 25,
     "endDate": "2022-12-10T16:00:00.000Z",
     "isFree": false,
@@ -5407,6 +5407,24 @@
     "slug": "buy-orwell-ignorance-is-strength-deluxe-edition",
     "startDate": "2022-12-08T16:00:00.000Z",
     "title": "Orwell: Ignorance Is Strength Deluxe Edition"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2022-12-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "orwell-ignorance-is-strength-486264",
+    "startDate": "2022-12-08T16:00:00.000Z",
+    "title": "Orwell: Ignorance is Strength"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2022-12-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "orwell-ignorance-is-strength-orwell-ignorance-is-strength-ost-c8f6c9",
+    "startDate": "2022-12-08T16:00:00.000Z",
+    "title": "Orwell: Ignorance is Strength - OST"
   },
   {
     "discountPercentage": 75,
@@ -5553,15 +5571,6 @@
     "title": "Oxygen Not Included"
   },
   {
-    "discountPercentage": 60,
-    "endDate": "2022-12-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2299,
-    "slug": "oxygen-not-included",
-    "startDate": "2022-12-08T16:00:00.000Z",
-    "title": "Oxygen Not Included"
-  },
-  {
     "discountPercentage": 20,
     "endDate": "2022-12-10T16:00:00.000Z",
     "isFree": false,
@@ -5688,15 +5697,6 @@
     "title": "Pathfinder: Kingmaker - Enhanced Plus Edition"
   },
   {
-    "discountPercentage": 60,
-    "endDate": "2022-12-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "pathfinder-kingmaker",
-    "startDate": "2022-12-08T16:00:00.000Z",
-    "title": "Pathfinder: Kingmaker - Enhanced Plus Edition"
-  },
-  {
     "discountPercentage": 62,
     "endDate": "2022-12-10T16:00:00.000Z",
     "isFree": false,
@@ -5742,6 +5742,15 @@
     "title": "Pathfinder: Kingmaker Beneath the Stolen Lands DLC"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2022-12-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "pathfinder-wrath-of-the-righteous",
+    "startDate": "2022-12-08T16:00:00.000Z",
+    "title": "Pathfinder: Wrath of the Righteous - Enhanced Edition"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2022-12-10T16:00:00.000Z",
     "isFree": false,
@@ -5761,15 +5770,6 @@
   },
   {
     "discountPercentage": 58,
-    "endDate": "2022-12-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 6999,
-    "slug": "pathfinder-wrath-of-the-righteous--commander-edition",
-    "startDate": "2022-12-08T16:00:00.000Z",
-    "title": "Pathfinder: Wrath of the Righteous Commander Edition"
-  },
-  {
-    "discountPercentage": 55,
     "endDate": "2022-12-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 6999,
@@ -7326,15 +7326,6 @@
     "title": "Starsand"
   },
   {
-    "discountPercentage": 30,
-    "endDate": "2022-12-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1679,
-    "slug": "starsand",
-    "startDate": "2022-12-08T16:00:00.000Z",
-    "title": "Starsand"
-  },
-  {
     "discountPercentage": 20,
     "endDate": "2022-12-10T16:00:00.000Z",
     "isFree": false,
@@ -7590,10 +7581,10 @@
     "discountPercentage": 50,
     "endDate": "2022-12-10T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": 999,
-    "slug": "suzerain--original-soundtrack",
+    "originalPrice": 1249,
+    "slug": "suzerain",
     "startDate": "2022-12-08T16:00:00.000Z",
-    "title": "Suzerain Original Soundtrack"
+    "title": "Suzerain"
   },
   {
     "discountPercentage": 50,
@@ -8505,6 +8496,33 @@
     "title": "Through the Woods"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2022-12-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "through-the-woods-through-the-woods-artbook-7daf0c",
+    "startDate": "2022-12-08T16:00:00.000Z",
+    "title": "Through the Woods: Artbook"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2022-12-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "through-the-woods-through-the-woods-artbook-7daf0c",
+    "startDate": "2022-12-08T16:00:00.000Z",
+    "title": "Through the Woods: Artbook"
+  },
+  {
+    "discountPercentage": 85,
+    "endDate": "2022-12-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2292,
+    "slug": "through-the-woods-collector-s-edition",
+    "startDate": "2022-12-08T16:00:00.000Z",
+    "title": "Through the Woods: Collector's Edition"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2022-12-10T16:00:00.000Z",
     "isFree": false,
@@ -8667,7 +8685,7 @@
     "title": "Tour de France 2022"
   },
   {
-    "discountPercentage": 35,
+    "discountPercentage": 40,
     "endDate": "2022-12-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1999,
@@ -8692,24 +8710,6 @@
     "slug": "tower-of-guns--ost",
     "startDate": "2022-12-08T16:00:00.000Z",
     "title": "Tower of Guns Soundtrack"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2022-12-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1599,
-    "slug": "towerfall-ascension",
-    "startDate": "2022-12-08T16:00:00.000Z",
-    "title": "TowerFall Ascension"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2022-12-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1599,
-    "slug": "towerfall-ascension",
-    "startDate": "2022-12-08T16:00:00.000Z",
-    "title": "TowerFall Ascension"
   },
   {
     "discountPercentage": 80,
