@@ -19,23 +19,20 @@
 |17|fortnite--deep-freeze-bundle|Deep Freeze Bundle|11,99€|30|2022-12-21 00h|2023-01-10 00h|
 |18|idle-champions-of-the-forgotten-realms--disco-the-baby-moonstone-dragon-familiar-pack|Disco the Baby Moonstone Dragon Familiar Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
 |19|edge-of-galaxy-092087|Edge Of Galaxy|6,99€|50|2023-01-10 05h|2023-01-17 05h|
-|20|evil-nun-the-broken-mask-372461|Evil Nun: The Broken Mask|11,99€|15|2022-12-09 18h|2022-12-16 18h|
-|21|football-manager-2023|Football Manager 2023|59,99€|10|2022-12-22 15h|2022-12-27 15h|
-|22|fortnite--frozen-legends-pack|Frozen Legends Pack|14,99€|40|2022-12-21 00h|2023-01-10 00h|
-|23|grand-theft-auto-v|Grand Theft Auto V: Premium Edition|29,99€|50|2022-12-14 16h|2023-01-05 16h|
+|20|football-manager-2023|Football Manager 2023|59,99€|10|2022-12-22 15h|2022-12-27 15h|
+|21|fortnite--frozen-legends-pack|Frozen Legends Pack|14,99€|40|2022-12-21 00h|2023-01-10 00h|
+|22|grand-theft-auto-v|Grand Theft Auto V: Premium Edition|29,99€|50|2022-12-14 16h|2023-01-05 16h|
+|23|he-will-shoot-46efff|He Will Shoot|1,59€|60|2022-12-15 05h|2022-12-30 05h|
 |24|koral-63ea73|KORAL|7,99€|75|2022-12-18 05h|2023-01-01 05h|
 |25|melatonin-f16dcb|Melatonin|14,99€|10|2022-12-15 17h|2023-01-05 17h|
 |26|[]|Mystery Game|0,00€|100|2022-12-15 16h|2022-12-16 16h|
-|27|nhra-championship-drag-racing-speed-for-all-690d95|NHRA Championship Drag Racing - Speed For All|49,99€|50|2022-12-09 12h|2022-12-15 12h|
-|28|nhra-speed-for-all-deluxe-edition|NHRA: Speed for All - Deluxe Edition|59,99€|50|2022-12-09 12h|2022-12-15 12h|
-|29|nhra-speed-for-all-ultimate-edition|NHRA: Speed for All - Ultimate Edition|79,99€|50|2022-12-09 12h|2022-12-15 12h|
-|30|out-of-the-park-baseball-23-09e3fa|Out of the Park Baseball 23|39,99€|75|2022-12-22 18h|2023-01-05 13h|
-|31|pirates-outlaws-a8cc60|Pirates Outlaws|15,99€|60|2022-12-12 05h|2022-12-18 05h|
-|32|fortnite--polar-legends-pack|Polar Legends Pack|19,99€|40|2022-12-21 00h|2023-01-10 00h|
-|33|prey|Prey|39,99€|75|2023-01-24 16h|2023-01-31 16h|
-|34|idle-champions-of-the-forgotten-realms--ricochet-the-crocodile-hatchling-familiar-pack|Ricochet, the Crocodile Hatchling Familiar Pack|3,99€|50|2023-01-13 20h|2023-01-20 20h|
-|35|idle-champions-of-the-forgotten-realms--squiddle-the-gnome-squidling-familiar-pack|Squiddle the Gnome Squidling Familiar Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
-|36|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
-|37|true-hate-007027|True Hate|5,99€|90|2022-12-15 17h|2022-12-30 17h|
-|38|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
-|39|wavetale-f9cfdf|Wavetale|29,99€|10|2022-12-12 16h|2022-12-19 16h|
+|27|out-of-the-park-baseball-23-09e3fa|Out of the Park Baseball 23|39,99€|75|2022-12-22 18h|2023-01-05 13h|
+|28|pirates-outlaws-a8cc60|Pirates Outlaws|15,99€|60|2022-12-12 05h|2022-12-18 05h|
+|29|fortnite--polar-legends-pack|Polar Legends Pack|19,99€|40|2022-12-21 00h|2023-01-10 00h|
+|30|prey|Prey|39,99€|75|2023-01-24 16h|2023-01-31 16h|
+|31|idle-champions-of-the-forgotten-realms--ricochet-the-crocodile-hatchling-familiar-pack|Ricochet, the Crocodile Hatchling Familiar Pack|3,99€|50|2023-01-13 20h|2023-01-20 20h|
+|32|idle-champions-of-the-forgotten-realms--squiddle-the-gnome-squidling-familiar-pack|Squiddle the Gnome Squidling Familiar Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
+|33|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
+|34|true-hate-007027|True Hate|5,99€|90|2022-12-15 17h|2022-12-30 17h|
+|35|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
+|36|wavetale-f9cfdf|Wavetale|29,99€|10|2022-12-12 16h|2022-12-19 16h|
