@@ -30,6 +30,9 @@
 |28|out-of-the-park-baseball-23-09e3fa|Out of the Park Baseball 23|39,99€|75|2022-12-22 18h|2023-01-05 13h|
 |29|edge-of-galaxy-092087|Edge Of Galaxy|6,99€|50|2023-01-10 05h|2023-01-17 05h|
 |30|idle-champions-of-the-forgotten-realms--ascendant-evelyn-skin-and-feat-pack|Ascendant Evelyn Skin & Feat Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
-|31|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
-|32|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
-|33|prey|Prey|39,99€|75|2023-01-24 16h|2023-01-31 16h|
+|31|idle-champions-of-the-forgotten-realms--disco-the-baby-moonstone-dragon-familiar-pack|Disco the Baby Moonstone Dragon Familiar Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
+|32|idle-champions-of-the-forgotten-realms--ricochet-the-crocodile-hatchling-familiar-pack|Ricochet, the Crocodile Hatchling Familiar Pack|3,99€|50|2023-01-13 20h|2023-01-20 20h|
+|33|idle-champions-of-the-forgotten-realms--squiddle-the-gnome-squidling-familiar-pack|Squiddle the Gnome Squidling Familiar Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
+|34|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
+|35|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
+|36|prey|Prey|39,99€|75|2023-01-24 16h|2023-01-31 16h|

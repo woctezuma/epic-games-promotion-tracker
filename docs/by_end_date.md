@@ -29,7 +29,10 @@
 |27|fortnite--polar-legends-pack|Polar Legends Pack|19,99€|40|2022-12-21 00h|2023-01-10 00h|
 |28|edge-of-galaxy-092087|Edge Of Galaxy|6,99€|50|2023-01-10 05h|2023-01-17 05h|
 |29|idle-champions-of-the-forgotten-realms--ascendant-evelyn-skin-and-feat-pack|Ascendant Evelyn Skin & Feat Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
-|30|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
-|31|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
-|32|prey|Prey|39,99€|75|2023-01-24 16h|2023-01-31 16h|
-|33|crime-boss|Crime Boss: Rockay City|39,99€|20|2022-12-10 16h|2023-03-23 16h|
+|30|idle-champions-of-the-forgotten-realms--disco-the-baby-moonstone-dragon-familiar-pack|Disco the Baby Moonstone Dragon Familiar Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
+|31|idle-champions-of-the-forgotten-realms--ricochet-the-crocodile-hatchling-familiar-pack|Ricochet, the Crocodile Hatchling Familiar Pack|3,99€|50|2023-01-13 20h|2023-01-20 20h|
+|32|idle-champions-of-the-forgotten-realms--squiddle-the-gnome-squidling-familiar-pack|Squiddle the Gnome Squidling Familiar Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
+|33|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
+|34|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
+|35|prey|Prey|39,99€|75|2023-01-24 16h|2023-01-31 16h|
+|36|crime-boss|Crime Boss: Rockay City|39,99€|20|2022-12-10 16h|2023-03-23 16h|
