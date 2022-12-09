@@ -171,15 +171,6 @@
     "title": "Edge Of Galaxy"
   },
   {
-    "discountPercentage": 15,
-    "endDate": "2022-12-16T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1199,
-    "slug": "evil-nun-the-broken-mask-372461",
-    "startDate": "2022-12-09T18:00:00.000Z",
-    "title": "Evil Nun: The Broken Mask"
-  },
-  {
     "discountPercentage": 10,
     "endDate": "2022-12-27T15:00:00.000Z",
     "isFree": false,
@@ -207,6 +198,15 @@
     "title": "Grand Theft Auto V: Premium Edition"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2022-12-30T05:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 159,
+    "slug": "he-will-shoot-46efff",
+    "startDate": "2022-12-15T05:00:00.000Z",
+    "title": "He Will Shoot"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2023-01-01T05:00:00.000Z",
     "isFree": false,
@@ -232,33 +232,6 @@
     "slug": "[]",
     "startDate": "2022-12-15T16:00:00.000Z",
     "title": "Mystery Game"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2022-12-15T12:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 4999,
-    "slug": "nhra-championship-drag-racing-speed-for-all-690d95",
-    "startDate": "2022-12-09T12:00:00.000Z",
-    "title": "NHRA Championship Drag Racing - Speed For All"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2022-12-15T12:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "nhra-speed-for-all-deluxe-edition",
-    "startDate": "2022-12-09T12:00:00.000Z",
-    "title": "NHRA: Speed for All - Deluxe Edition"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2022-12-15T12:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 7999,
-    "slug": "nhra-speed-for-all-ultimate-edition",
-    "startDate": "2022-12-09T12:00:00.000Z",
-    "title": "NHRA: Speed for All - Ultimate Edition"
   },
   {
     "discountPercentage": 75,
