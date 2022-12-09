@@ -100,12 +100,66 @@
   },
   {
     "discountPercentage": 50,
+    "endDate": "2023-02-03T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "idle-champions-of-the-forgotten-realms--archdruid-gazrick-skin-feat-pack",
+    "startDate": "2023-01-27T20:00:00.000Z",
+    "title": "Archdruid Gazrick Skin & Feat Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-02-03T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "idle-champions-of-the-forgotten-realms--archmagi-dungeon-master-theme-pack",
+    "startDate": "2023-01-27T20:00:00.000Z",
+    "title": "Archmagi Dungeon Master Theme Pack"
+  },
+  {
+    "discountPercentage": 50,
     "endDate": "2023-01-20T20:00:00.000Z",
     "isFree": false,
     "originalPrice": 799,
     "slug": "idle-champions-of-the-forgotten-realms--ascendant-evelyn-skin-and-feat-pack",
     "startDate": "2023-01-13T20:00:00.000Z",
     "title": "Ascendant Evelyn Skin & Feat Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-20T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "idle-champions-of-the-forgotten-realms--ascendant-melf-skin-and-feat-pack",
+    "startDate": "2023-01-13T20:00:00.000Z",
+    "title": "Ascendant Melf Skin & Feat Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-20T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "idle-champions-of-the-forgotten-realms--ascendant-strix-skin-and-feat-pack",
+    "startDate": "2023-01-13T20:00:00.000Z",
+    "title": "Ascendant Strix Skin & Feat Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-20T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "idle-champions-of-the-forgotten-realms--ascendant-walnut-skin-and-feat-pack",
+    "startDate": "2023-01-13T20:00:00.000Z",
+    "title": "Ascendant Walnut Skin & Feat Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-02-03T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "idle-champions-of-the-forgotten-realms--beekeeper-spurt-skin-feat-pack",
+    "startDate": "2023-01-27T20:00:00.000Z",
+    "title": "Beekeeper Spurt Skin & Feat Pack"
   },
   {
     "discountPercentage": 75,
@@ -115,6 +169,24 @@
     "slug": "blazing-beaks-3d4864",
     "startDate": "2022-12-15T15:00:00.000Z",
     "title": "Blazing Beaks"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2023-01-05T18:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "blind-fate-edo-no-yami-87e748",
+    "startDate": "2022-12-22T18:00:00.000Z",
+    "title": "Blind Fate: Edo no Yami"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-27T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "idle-champions-of-the-forgotten-realms--brimstone-angels-shadowfell-bundle-pack",
+    "startDate": "2023-01-20T20:00:00.000Z",
+    "title": "Brimstone Angels Shadowfell Bundle Pack"
   },
   {
     "discountPercentage": 80,
@@ -133,6 +205,15 @@
     "slug": "callofthewildtheangler-tnrdlc",
     "startDate": "2022-12-15T10:00:00.000Z",
     "title": "Call of the Wild: The Angler\u2122 - TNR DLC"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-27T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "idle-champions-of-the-forgotten-realms--colonel-pest-the-pest-mascot-familiar-pack",
+    "startDate": "2023-01-20T20:00:00.000Z",
+    "title": "Colonel Pest the Pest Mascot Familiar Pack"
   },
   {
     "discountPercentage": 30,
@@ -154,21 +235,30 @@
   },
   {
     "discountPercentage": 50,
+    "endDate": "2023-01-27T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "idle-champions-of-the-forgotten-realms--dottie-the-dandelion-familiar-pack",
+    "startDate": "2023-01-20T20:00:00.000Z",
+    "title": "Dottie the Dandelion Familiar Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-20T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "idle-champions-of-the-forgotten-realms--eberron-inventor-vi-theme-pack",
+    "startDate": "2023-01-13T20:00:00.000Z",
+    "title": "Eberron Inventor Vi Theme Pack"
+  },
+  {
+    "discountPercentage": 50,
     "endDate": "2023-01-17T05:00:00.000Z",
     "isFree": false,
     "originalPrice": 699,
     "slug": "edge-of-galaxy-092087",
     "startDate": "2023-01-10T05:00:00.000Z",
     "title": "Edge Of Galaxy"
-  },
-  {
-    "discountPercentage": 15,
-    "endDate": "2022-12-16T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1199,
-    "slug": "evil-nun-the-broken-mask-372461",
-    "startDate": "2022-12-09T18:00:00.000Z",
-    "title": "Evil Nun: The Broken Mask"
   },
   {
     "discountPercentage": 10,
@@ -190,12 +280,21 @@
   },
   {
     "discountPercentage": 50,
-    "endDate": "2023-01-05T16:00:00.000Z",
+    "endDate": "2023-02-03T20:00:00.000Z",
     "isFree": false,
-    "originalPrice": 2999,
-    "slug": "grand-theft-auto-v",
-    "startDate": "2022-12-14T16:00:00.000Z",
-    "title": "Grand Theft Auto V: Premium Edition"
+    "originalPrice": 799,
+    "slug": "idle-champions-of-the-forgotten-realms--gale-the-dumbo-rat-familiar-pack",
+    "startDate": "2023-01-27T20:00:00.000Z",
+    "title": "Gale the Dumbo Rat Familiar Pack"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2023-01-01T05:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "horror-tales-the-wine-3ab2b2",
+    "startDate": "2022-12-18T05:00:00.000Z",
+    "title": "HORROR TALES The Wine"
   },
   {
     "discountPercentage": 75,
@@ -216,6 +315,33 @@
     "title": "Melatonin"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-01-20T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "idle-champions-of-the-forgotten-realms--modron-penelope-skin-feat-pack",
+    "startDate": "2023-01-13T20:00:00.000Z",
+    "title": "Modron Penelope Skin & Feat Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-27T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "idle-champions-of-the-forgotten-realms--moogin-the-death-dog-familiar-pack",
+    "startDate": "2023-01-20T20:00:00.000Z",
+    "title": "Moogin the Death Dog Familiar Pack"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-01-06T12:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2099,
+    "slug": "my-time-at-sandrock",
+    "startDate": "2022-12-23T12:00:00.000Z",
+    "title": "My Time at Sandrock"
+  },
+  {
     "discountPercentage": 100,
     "endDate": "2022-12-16T16:00:00.000Z",
     "isFree": true,
@@ -234,15 +360,6 @@
     "title": "Out of the Park Baseball 23"
   },
   {
-    "discountPercentage": 60,
-    "endDate": "2022-12-18T05:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1599,
-    "slug": "pirates-outlaws-a8cc60",
-    "startDate": "2022-12-12T05:00:00.000Z",
-    "title": "Pirates Outlaws"
-  },
-  {
     "discountPercentage": 40,
     "endDate": "2023-01-10T00:00:00.000Z",
     "isFree": false,
@@ -250,6 +367,51 @@
     "slug": "fortnite--polar-legends-pack",
     "startDate": "2022-12-21T00:00:00.000Z",
     "title": "Polar Legends Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-02-03T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "idle-champions-of-the-forgotten-realms--polymorphed-calliope-skin-feat-pack",
+    "startDate": "2023-01-27T20:00:00.000Z",
+    "title": "Polymorphed Calliope Skin & Feat Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-27T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "idle-champions-of-the-forgotten-realms--polymorphed-celeste-skin-feat-pack",
+    "startDate": "2023-01-20T20:00:00.000Z",
+    "title": "Polymorphed Celeste Skin & Feat Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-20T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "idle-champions-of-the-forgotten-realms--polymorphed-minsc-skin-and-feat-pack",
+    "startDate": "2023-01-13T20:00:00.000Z",
+    "title": "Polymorphed Minsc Skin & Feat Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-02-03T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "idle-champions-of-the-forgotten-realms--polymorphed-orkira-skin-feat-pack",
+    "startDate": "2023-01-27T20:00:00.000Z",
+    "title": "Polymorphed Orkira Skin & Feat Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-27T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "idle-champions-of-the-forgotten-realms--polymorphed-yorven-skin-and-feat-pack",
+    "startDate": "2023-01-20T20:00:00.000Z",
+    "title": "Polymorphed Yorven Skin & Feat Pack"
   },
   {
     "discountPercentage": 75,
@@ -262,12 +424,93 @@
   },
   {
     "discountPercentage": 50,
+    "endDate": "2023-02-03T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "idle-champions-of-the-forgotten-realms--prismeer-sentry-skin-and-feat-pack",
+    "startDate": "2023-01-27T20:00:00.000Z",
+    "title": "Prismeer Sentry Skin & Feat Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-27T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "idle-champions-of-the-forgotten-realms--prismeer-shandie-theme-pack",
+    "startDate": "2023-01-20T20:00:00.000Z",
+    "title": "Prismeer Shandie Theme Pack"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2023-02-03T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "banedlc028-09-04",
+    "startDate": "2023-01-27T20:00:00.000Z",
+    "title": "Red the Squirrel Familiar Pack"
+  },
+  {
+    "discountPercentage": 50,
     "endDate": "2023-01-20T20:00:00.000Z",
     "isFree": false,
     "originalPrice": 399,
     "slug": "idle-champions-of-the-forgotten-realms--ricochet-the-crocodile-hatchling-familiar-pack",
     "startDate": "2023-01-13T20:00:00.000Z",
     "title": "Ricochet, the Crocodile Hatchling Familiar Pack"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2023-01-19T05:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "sailingera-450a80",
+    "startDate": "2023-01-12T05:00:00.000Z",
+    "title": "Sailing Era"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-27T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "idle-champions-of-the-forgotten-realms--shadowfell-desmond-theme-pack",
+    "startDate": "2023-01-20T20:00:00.000Z",
+    "title": "Shadowfell Desmond Theme Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-27T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "idle-champions-of-the-forgotten-realms--shadowfell-farideh-skin-feat-pack",
+    "startDate": "2023-01-20T20:00:00.000Z",
+    "title": "Shadowfell Farideh Skin & Feat Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-27T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "idle-champions-of-the-forgotten-realms--shadowfell-havilar-skin-feat-pack",
+    "startDate": "2023-01-20T20:00:00.000Z",
+    "title": "Shadowfell Havilar Skin & Feat Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-27T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "idle-champions-of-the-forgotten-realms--shadowfell-mehen-skin-feat-pack",
+    "startDate": "2023-01-20T20:00:00.000Z",
+    "title": "Shadowfell Mehen Skin & Feat Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-20T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "idle-champions-of-the-forgotten-realms--shadowfell-tatyana-theme-pack",
+    "startDate": "2023-01-13T20:00:00.000Z",
+    "title": "Shadowfell Tatyana Theme Pack"
   },
   {
     "discountPercentage": 50,
@@ -277,6 +520,42 @@
     "slug": "idle-champions-of-the-forgotten-realms--squiddle-the-gnome-squidling-familiar-pack",
     "startDate": "2023-01-13T20:00:00.000Z",
     "title": "Squiddle the Gnome Squidling Familiar Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-02-03T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "idle-champions-of-the-forgotten-realms--steampunk-nordom-the-modron-theme-pack",
+    "startDate": "2023-01-27T20:00:00.000Z",
+    "title": "Steampunk Nordom the Modron Theme Pack"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2023-01-05T18:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "the-darkest-tales-7d0dab",
+    "startDate": "2022-12-22T18:00:00.000Z",
+    "title": "The Darkest Tales"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T18:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "the-life-and-suffering-of-sir-brante",
+    "startDate": "2022-12-22T18:00:00.000Z",
+    "title": "The Life and Suffering of Sir Brante"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-01-05T18:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "the-life-and-suffering-of-sir-brante--artbook-and-ost",
+    "startDate": "2022-12-22T18:00:00.000Z",
+    "title": "The Life and Suffering of Sir Brante Artbook + OST"
   },
   {
     "discountPercentage": 50,
@@ -304,14 +583,5 @@
     "slug": "warforwards-fd05ed",
     "startDate": "2023-01-24T05:00:00.000Z",
     "title": "WarForwards"
-  },
-  {
-    "discountPercentage": 10,
-    "endDate": "2022-12-19T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "wavetale-f9cfdf",
-    "startDate": "2022-12-12T16:00:00.000Z",
-    "title": "Wavetale"
   }
 ]
