@@ -225,6 +225,33 @@
     "title": "Mystery Game"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2022-12-15T12:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "nhra-championship-drag-racing-speed-for-all-690d95",
+    "startDate": "2022-12-09T12:00:00.000Z",
+    "title": "NHRA Championship Drag Racing - Speed For All"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-12-15T12:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "nhra-speed-for-all-deluxe-edition",
+    "startDate": "2022-12-09T12:00:00.000Z",
+    "title": "NHRA: Speed for All - Deluxe Edition"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2022-12-15T12:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 7999,
+    "slug": "nhra-speed-for-all-ultimate-edition",
+    "startDate": "2022-12-09T12:00:00.000Z",
+    "title": "NHRA: Speed for All - Ultimate Edition"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2023-01-05T13:00:00.000Z",
     "isFree": false,
