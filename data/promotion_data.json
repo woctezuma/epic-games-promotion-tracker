@@ -154,15 +154,6 @@
   },
   {
     "discountPercentage": 50,
-    "endDate": "2023-01-20T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--disco-the-baby-moonstone-dragon-familiar-pack",
-    "startDate": "2023-01-13T20:00:00.000Z",
-    "title": "Disco the Baby Moonstone Dragon Familiar Pack"
-  },
-  {
-    "discountPercentage": 50,
     "endDate": "2023-01-17T05:00:00.000Z",
     "isFree": false,
     "originalPrice": 699,
@@ -268,24 +259,6 @@
     "slug": "prey",
     "startDate": "2023-01-24T16:00:00.000Z",
     "title": "Prey"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2023-01-20T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 399,
-    "slug": "idle-champions-of-the-forgotten-realms--ricochet-the-crocodile-hatchling-familiar-pack",
-    "startDate": "2023-01-13T20:00:00.000Z",
-    "title": "Ricochet, the Crocodile Hatchling Familiar Pack"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2023-01-20T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "idle-champions-of-the-forgotten-realms--squiddle-the-gnome-squidling-familiar-pack",
-    "startDate": "2023-01-13T20:00:00.000Z",
-    "title": "Squiddle the Gnome Squidling Familiar Pack"
   },
   {
     "discountPercentage": 50,
