@@ -34,4 +34,3 @@
 |32|alien-marauder-1f1ddf|Alien Marauder|15,99€|10|2022-12-15 14h|2022-12-22 14h|
 |33|football-manager-2023|Football Manager 2023|59,99€|10|2022-12-22 15h|2022-12-27 15h|
 |34|melatonin-f16dcb|Melatonin|14,99€|10|2022-12-15 17h|2023-01-05 17h|
-|35|wavetale-f9cfdf|Wavetale|29,99€|10|2022-12-12 16h|2022-12-19 16h|
