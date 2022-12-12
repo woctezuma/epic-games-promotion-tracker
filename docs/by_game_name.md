@@ -12,27 +12,45 @@
 |10|star-trek-online--5000-zen-300-bonus-bundle|5000 ZEN + 300 Bonus Bundle|44,99€|20|2022-12-21 16h|2023-01-02 16h|
 |11|alien-marauder-1f1ddf|Alien Marauder|15,99€|10|2022-12-15 14h|2022-12-22 14h|
 |12|idle-champions-of-the-forgotten-realms--ascendant-evelyn-skin-and-feat-pack|Ascendant Evelyn Skin & Feat Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
-|13|blazing-beaks-3d4864|Blazing Beaks|11,99€|75|2022-12-15 15h|2023-01-02 15h|
-|14|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|80|2022-12-16 04h|2023-01-01 04h|
-|15|callofthewildtheangler-tnrdlc|Call of the Wild: The Angler™ - TNR DLC|0,00€|100|2022-12-15 10h|2023-01-05 10h|
-|16|car-tuning-simulator-38ddaf|Car Tuning Simulator|0,79€|50|2022-12-15 05h|2022-12-30 05h|
-|17|fortnite--deep-freeze-bundle|Deep Freeze Bundle|11,99€|30|2022-12-21 00h|2023-01-10 00h|
-|18|idle-champions-of-the-forgotten-realms--disco-the-baby-moonstone-dragon-familiar-pack|Disco the Baby Moonstone Dragon Familiar Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
-|19|edge-of-galaxy-092087|Edge Of Galaxy|6,99€|50|2023-01-10 05h|2023-01-17 05h|
-|20|football-manager-2023|Football Manager 2023|59,99€|10|2022-12-22 15h|2022-12-27 15h|
-|21|fortnite--frozen-legends-pack|Frozen Legends Pack|14,99€|40|2022-12-21 00h|2023-01-10 00h|
-|22|grand-theft-auto-v|Grand Theft Auto V: Premium Edition|29,99€|50|2022-12-14 16h|2023-01-05 16h|
-|23|horror-tales-the-wine-3ab2b2|HORROR TALES The Wine|11,99€|70|2022-12-18 05h|2023-01-01 05h|
-|24|he-will-shoot-46efff|He Will Shoot|1,59€|60|2022-12-15 05h|2022-12-30 05h|
-|25|koral-63ea73|KORAL|7,99€|75|2022-12-18 05h|2023-01-01 05h|
-|26|melatonin-f16dcb|Melatonin|14,99€|10|2022-12-15 17h|2023-01-05 17h|
-|27|my-time-at-sandrock|My Time at Sandrock|20,99€|20|2022-12-23 12h|2023-01-06 12h|
-|28|[]|Mystery Game|0,00€|100|2022-12-15 16h|2022-12-16 16h|
-|29|out-of-the-park-baseball-23-09e3fa|Out of the Park Baseball 23|39,99€|75|2022-12-22 18h|2023-01-05 13h|
-|30|fortnite--polar-legends-pack|Polar Legends Pack|19,99€|40|2022-12-21 00h|2023-01-10 00h|
-|31|prey|Prey|39,99€|75|2023-01-24 16h|2023-01-31 16h|
-|32|idle-champions-of-the-forgotten-realms--ricochet-the-crocodile-hatchling-familiar-pack|Ricochet, the Crocodile Hatchling Familiar Pack|3,99€|50|2023-01-13 20h|2023-01-20 20h|
-|33|idle-champions-of-the-forgotten-realms--squiddle-the-gnome-squidling-familiar-pack|Squiddle the Gnome Squidling Familiar Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
-|34|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
-|35|true-hate-007027|True Hate|5,99€|90|2022-12-15 17h|2022-12-30 17h|
-|36|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
+|13|idle-champions-of-the-forgotten-realms--ascendant-melf-skin-and-feat-pack|Ascendant Melf Skin & Feat Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
+|14|idle-champions-of-the-forgotten-realms--ascendant-strix-skin-and-feat-pack|Ascendant Strix Skin & Feat Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
+|15|idle-champions-of-the-forgotten-realms--ascendant-walnut-skin-and-feat-pack|Ascendant Walnut Skin & Feat Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
+|16|blazing-beaks-3d4864|Blazing Beaks|11,99€|75|2022-12-15 15h|2023-01-02 15h|
+|17|idle-champions-of-the-forgotten-realms--brimstone-angels-shadowfell-bundle-pack|Brimstone Angels Shadowfell Bundle Pack|19,99€|50|2023-01-20 20h|2023-01-27 20h|
+|18|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|80|2022-12-16 04h|2023-01-01 04h|
+|19|callofthewildtheangler-tnrdlc|Call of the Wild: The Angler™ - TNR DLC|0,00€|100|2022-12-15 10h|2023-01-05 10h|
+|20|car-tuning-simulator-38ddaf|Car Tuning Simulator|0,79€|50|2022-12-15 05h|2022-12-30 05h|
+|21|idle-champions-of-the-forgotten-realms--colonel-pest-the-pest-mascot-familiar-pack|Colonel Pest the Pest Mascot Familiar Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
+|22|fortnite--deep-freeze-bundle|Deep Freeze Bundle|11,99€|30|2022-12-21 00h|2023-01-10 00h|
+|23|idle-champions-of-the-forgotten-realms--disco-the-baby-moonstone-dragon-familiar-pack|Disco the Baby Moonstone Dragon Familiar Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
+|24|idle-champions-of-the-forgotten-realms--dottie-the-dandelion-familiar-pack|Dottie the Dandelion Familiar Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
+|25|idle-champions-of-the-forgotten-realms--eberron-inventor-vi-theme-pack|Eberron Inventor Vi Theme Pack|19,99€|50|2023-01-13 20h|2023-01-20 20h|
+|26|edge-of-galaxy-092087|Edge Of Galaxy|6,99€|50|2023-01-10 05h|2023-01-17 05h|
+|27|football-manager-2023|Football Manager 2023|59,99€|10|2022-12-22 15h|2022-12-27 15h|
+|28|fortnite--frozen-legends-pack|Frozen Legends Pack|14,99€|40|2022-12-21 00h|2023-01-10 00h|
+|29|grand-theft-auto-v|Grand Theft Auto V: Premium Edition|29,99€|50|2022-12-14 16h|2023-01-05 16h|
+|30|horror-tales-the-wine-3ab2b2|HORROR TALES The Wine|11,99€|70|2022-12-18 05h|2023-01-01 05h|
+|31|he-will-shoot-46efff|He Will Shoot|1,59€|60|2022-12-15 05h|2022-12-30 05h|
+|32|koral-63ea73|KORAL|7,99€|75|2022-12-18 05h|2023-01-01 05h|
+|33|melatonin-f16dcb|Melatonin|14,99€|10|2022-12-15 17h|2023-01-05 17h|
+|34|idle-champions-of-the-forgotten-realms--modron-penelope-skin-feat-pack|Modron Penelope Skin & Feat Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
+|35|idle-champions-of-the-forgotten-realms--moogin-the-death-dog-familiar-pack|Moogin the Death Dog Familiar Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
+|36|my-time-at-sandrock|My Time at Sandrock|20,99€|20|2022-12-23 12h|2023-01-06 12h|
+|37|[]|Mystery Game|0,00€|100|2022-12-15 16h|2022-12-16 16h|
+|38|out-of-the-park-baseball-23-09e3fa|Out of the Park Baseball 23|39,99€|75|2022-12-22 18h|2023-01-05 13h|
+|39|fortnite--polar-legends-pack|Polar Legends Pack|19,99€|40|2022-12-21 00h|2023-01-10 00h|
+|40|idle-champions-of-the-forgotten-realms--polymorphed-celeste-skin-feat-pack|Polymorphed Celeste Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
+|41|idle-champions-of-the-forgotten-realms--polymorphed-minsc-skin-and-feat-pack|Polymorphed Minsc Skin & Feat Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
+|42|idle-champions-of-the-forgotten-realms--polymorphed-yorven-skin-and-feat-pack|Polymorphed Yorven Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
+|43|prey|Prey|39,99€|75|2023-01-24 16h|2023-01-31 16h|
+|44|idle-champions-of-the-forgotten-realms--prismeer-shandie-theme-pack|Prismeer Shandie Theme Pack|19,99€|50|2023-01-20 20h|2023-01-27 20h|
+|45|idle-champions-of-the-forgotten-realms--ricochet-the-crocodile-hatchling-familiar-pack|Ricochet, the Crocodile Hatchling Familiar Pack|3,99€|50|2023-01-13 20h|2023-01-20 20h|
+|46|idle-champions-of-the-forgotten-realms--shadowfell-desmond-theme-pack|Shadowfell Desmond Theme Pack|19,99€|50|2023-01-20 20h|2023-01-27 20h|
+|47|idle-champions-of-the-forgotten-realms--shadowfell-farideh-skin-feat-pack|Shadowfell Farideh Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
+|48|idle-champions-of-the-forgotten-realms--shadowfell-havilar-skin-feat-pack|Shadowfell Havilar Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
+|49|idle-champions-of-the-forgotten-realms--shadowfell-mehen-skin-feat-pack|Shadowfell Mehen Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
+|50|idle-champions-of-the-forgotten-realms--shadowfell-tatyana-theme-pack|Shadowfell Tatyana Theme Pack|19,99€|50|2023-01-13 20h|2023-01-20 20h|
+|51|idle-champions-of-the-forgotten-realms--squiddle-the-gnome-squidling-familiar-pack|Squiddle the Gnome Squidling Familiar Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
+|52|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
+|53|true-hate-007027|True Hate|5,99€|90|2022-12-15 17h|2022-12-30 17h|
+|54|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
