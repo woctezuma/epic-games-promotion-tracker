@@ -26,12 +26,11 @@
 |24|melatonin-f16dcb|Melatonin|14,99€|10|2022-12-15 17h|2023-01-05 17h|
 |25|[]|Mystery Game|0,00€|100|2022-12-15 16h|2022-12-16 16h|
 |26|out-of-the-park-baseball-23-09e3fa|Out of the Park Baseball 23|39,99€|75|2022-12-22 18h|2023-01-05 13h|
-|27|pirates-outlaws-a8cc60|Pirates Outlaws|15,99€|60|2022-12-12 05h|2022-12-18 05h|
-|28|fortnite--polar-legends-pack|Polar Legends Pack|19,99€|40|2022-12-21 00h|2023-01-10 00h|
-|29|prey|Prey|39,99€|75|2023-01-24 16h|2023-01-31 16h|
-|30|idle-champions-of-the-forgotten-realms--ricochet-the-crocodile-hatchling-familiar-pack|Ricochet, the Crocodile Hatchling Familiar Pack|3,99€|50|2023-01-13 20h|2023-01-20 20h|
-|31|idle-champions-of-the-forgotten-realms--squiddle-the-gnome-squidling-familiar-pack|Squiddle the Gnome Squidling Familiar Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
-|32|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
-|33|true-hate-007027|True Hate|5,99€|90|2022-12-15 17h|2022-12-30 17h|
-|34|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
-|35|wavetale-f9cfdf|Wavetale|29,99€|10|2022-12-12 16h|2022-12-19 16h|
+|27|fortnite--polar-legends-pack|Polar Legends Pack|19,99€|40|2022-12-21 00h|2023-01-10 00h|
+|28|prey|Prey|39,99€|75|2023-01-24 16h|2023-01-31 16h|
+|29|idle-champions-of-the-forgotten-realms--ricochet-the-crocodile-hatchling-familiar-pack|Ricochet, the Crocodile Hatchling Familiar Pack|3,99€|50|2023-01-13 20h|2023-01-20 20h|
+|30|idle-champions-of-the-forgotten-realms--squiddle-the-gnome-squidling-familiar-pack|Squiddle the Gnome Squidling Familiar Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
+|31|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
+|32|true-hate-007027|True Hate|5,99€|90|2022-12-15 17h|2022-12-30 17h|
+|33|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
+|34|wavetale-f9cfdf|Wavetale|29,99€|10|2022-12-12 16h|2022-12-19 16h|
