@@ -198,6 +198,15 @@
     "title": "Grand Theft Auto V: Premium Edition"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2023-01-01T05:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "horror-tales-the-wine-3ab2b2",
+    "startDate": "2022-12-18T05:00:00.000Z",
+    "title": "HORROR TALES The Wine"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2022-12-30T05:00:00.000Z",
     "isFree": false,
@@ -223,6 +232,15 @@
     "slug": "melatonin-f16dcb",
     "startDate": "2022-12-15T17:00:00.000Z",
     "title": "Melatonin"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-01-06T12:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2099,
+    "slug": "my-time-at-sandrock",
+    "startDate": "2022-12-23T12:00:00.000Z",
+    "title": "My Time at Sandrock"
   },
   {
     "discountPercentage": 100,
