@@ -22,15 +22,17 @@
 |20|football-manager-2023|Football Manager 2023|59,99€|10|2022-12-22 15h|2022-12-27 15h|
 |21|fortnite--frozen-legends-pack|Frozen Legends Pack|14,99€|40|2022-12-21 00h|2023-01-10 00h|
 |22|grand-theft-auto-v|Grand Theft Auto V: Premium Edition|29,99€|50|2022-12-14 16h|2023-01-05 16h|
-|23|he-will-shoot-46efff|He Will Shoot|1,59€|60|2022-12-15 05h|2022-12-30 05h|
-|24|koral-63ea73|KORAL|7,99€|75|2022-12-18 05h|2023-01-01 05h|
-|25|melatonin-f16dcb|Melatonin|14,99€|10|2022-12-15 17h|2023-01-05 17h|
-|26|[]|Mystery Game|0,00€|100|2022-12-15 16h|2022-12-16 16h|
-|27|out-of-the-park-baseball-23-09e3fa|Out of the Park Baseball 23|39,99€|75|2022-12-22 18h|2023-01-05 13h|
-|28|fortnite--polar-legends-pack|Polar Legends Pack|19,99€|40|2022-12-21 00h|2023-01-10 00h|
-|29|prey|Prey|39,99€|75|2023-01-24 16h|2023-01-31 16h|
-|30|idle-champions-of-the-forgotten-realms--ricochet-the-crocodile-hatchling-familiar-pack|Ricochet, the Crocodile Hatchling Familiar Pack|3,99€|50|2023-01-13 20h|2023-01-20 20h|
-|31|idle-champions-of-the-forgotten-realms--squiddle-the-gnome-squidling-familiar-pack|Squiddle the Gnome Squidling Familiar Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
-|32|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
-|33|true-hate-007027|True Hate|5,99€|90|2022-12-15 17h|2022-12-30 17h|
-|34|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
+|23|horror-tales-the-wine-3ab2b2|HORROR TALES The Wine|11,99€|70|2022-12-18 05h|2023-01-01 05h|
+|24|he-will-shoot-46efff|He Will Shoot|1,59€|60|2022-12-15 05h|2022-12-30 05h|
+|25|koral-63ea73|KORAL|7,99€|75|2022-12-18 05h|2023-01-01 05h|
+|26|melatonin-f16dcb|Melatonin|14,99€|10|2022-12-15 17h|2023-01-05 17h|
+|27|my-time-at-sandrock|My Time at Sandrock|20,99€|20|2022-12-23 12h|2023-01-06 12h|
+|28|[]|Mystery Game|0,00€|100|2022-12-15 16h|2022-12-16 16h|
+|29|out-of-the-park-baseball-23-09e3fa|Out of the Park Baseball 23|39,99€|75|2022-12-22 18h|2023-01-05 13h|
+|30|fortnite--polar-legends-pack|Polar Legends Pack|19,99€|40|2022-12-21 00h|2023-01-10 00h|
+|31|prey|Prey|39,99€|75|2023-01-24 16h|2023-01-31 16h|
+|32|idle-champions-of-the-forgotten-realms--ricochet-the-crocodile-hatchling-familiar-pack|Ricochet, the Crocodile Hatchling Familiar Pack|3,99€|50|2023-01-13 20h|2023-01-20 20h|
+|33|idle-champions-of-the-forgotten-realms--squiddle-the-gnome-squidling-familiar-pack|Squiddle the Gnome Squidling Familiar Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
+|34|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
+|35|true-hate-007027|True Hate|5,99€|90|2022-12-15 17h|2022-12-30 17h|
+|36|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
