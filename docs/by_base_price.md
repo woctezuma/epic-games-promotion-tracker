@@ -32,5 +32,6 @@
 |30|true-hate-007027|True Hate|5,99€|90|2022-12-15 17h|2022-12-30 17h|
 |31|idle-champions-of-the-forgotten-realms--ricochet-the-crocodile-hatchling-familiar-pack|Ricochet, the Crocodile Hatchling Familiar Pack|3,99€|50|2023-01-13 20h|2023-01-20 20h|
 |32|he-will-shoot-46efff|He Will Shoot|1,59€|60|2022-12-15 05h|2022-12-30 05h|
-|33|callofthewildtheangler-tnrdlc|Call of the Wild: The Angler™ - TNR DLC|0,00€|100|2022-12-15 10h|2023-01-05 10h|
-|34|[]|Mystery Game|0,00€|100|2022-12-15 16h|2022-12-16 16h|
+|33|car-tuning-simulator-38ddaf|Car Tuning Simulator|0,79€|50|2022-12-15 05h|2022-12-30 05h|
+|34|callofthewildtheangler-tnrdlc|Call of the Wild: The Angler™ - TNR DLC|0,00€|100|2022-12-15 10h|2023-01-05 10h|
+|35|[]|Mystery Game|0,00€|100|2022-12-15 16h|2022-12-16 16h|
