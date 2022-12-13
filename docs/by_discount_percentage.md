@@ -67,3 +67,4 @@
 |65|alien-marauder-1f1ddf|Alien Marauder|15,99€|10|2022-12-15 14h|2022-12-22 14h|
 |66|football-manager-2023|Football Manager 2023|59,99€|10|2022-12-22 15h|2022-12-27 15h|
 |67|melatonin-f16dcb|Melatonin|14,99€|10|2022-12-15 17h|2023-01-05 17h|
+|68|sailingera-450a80|Sailing Era|19,99€|10|2023-01-12 05h|2023-01-19 05h|

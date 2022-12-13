@@ -54,16 +54,17 @@
 |52|idle-champions-of-the-forgotten-realms--prismeer-shandie-theme-pack|Prismeer Shandie Theme Pack|19,99€|50|2023-01-20 20h|2023-01-27 20h|
 |53|banedlc028-09-04|Red the Squirrel Familiar Pack|11,99€|90|2023-01-27 20h|2023-02-03 20h|
 |54|idle-champions-of-the-forgotten-realms--ricochet-the-crocodile-hatchling-familiar-pack|Ricochet, the Crocodile Hatchling Familiar Pack|3,99€|50|2023-01-13 20h|2023-01-20 20h|
-|55|idle-champions-of-the-forgotten-realms--shadowfell-desmond-theme-pack|Shadowfell Desmond Theme Pack|19,99€|50|2023-01-20 20h|2023-01-27 20h|
-|56|idle-champions-of-the-forgotten-realms--shadowfell-farideh-skin-feat-pack|Shadowfell Farideh Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
-|57|idle-champions-of-the-forgotten-realms--shadowfell-havilar-skin-feat-pack|Shadowfell Havilar Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
-|58|idle-champions-of-the-forgotten-realms--shadowfell-mehen-skin-feat-pack|Shadowfell Mehen Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
-|59|idle-champions-of-the-forgotten-realms--shadowfell-tatyana-theme-pack|Shadowfell Tatyana Theme Pack|19,99€|50|2023-01-13 20h|2023-01-20 20h|
-|60|idle-champions-of-the-forgotten-realms--squiddle-the-gnome-squidling-familiar-pack|Squiddle the Gnome Squidling Familiar Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
-|61|idle-champions-of-the-forgotten-realms--steampunk-nordom-the-modron-theme-pack|Steampunk Nordom the Modron Theme Pack|19,99€|50|2023-01-27 20h|2023-02-03 20h|
-|62|the-darkest-tales-7d0dab|The Darkest Tales|15,99€|35|2022-12-22 18h|2023-01-05 18h|
-|63|the-life-and-suffering-of-sir-brante|The Life and Suffering of Sir Brante|19,99€|50|2022-12-22 18h|2023-01-05 18h|
-|64|the-life-and-suffering-of-sir-brante--artbook-and-ost|The Life and Suffering of Sir Brante Artbook + OST|3,99€|50|2022-12-22 18h|2023-01-05 18h|
-|65|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
-|66|true-hate-007027|True Hate|5,99€|90|2022-12-15 17h|2022-12-30 17h|
-|67|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
+|55|sailingera-450a80|Sailing Era|19,99€|10|2023-01-12 05h|2023-01-19 05h|
+|56|idle-champions-of-the-forgotten-realms--shadowfell-desmond-theme-pack|Shadowfell Desmond Theme Pack|19,99€|50|2023-01-20 20h|2023-01-27 20h|
+|57|idle-champions-of-the-forgotten-realms--shadowfell-farideh-skin-feat-pack|Shadowfell Farideh Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
+|58|idle-champions-of-the-forgotten-realms--shadowfell-havilar-skin-feat-pack|Shadowfell Havilar Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
+|59|idle-champions-of-the-forgotten-realms--shadowfell-mehen-skin-feat-pack|Shadowfell Mehen Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
+|60|idle-champions-of-the-forgotten-realms--shadowfell-tatyana-theme-pack|Shadowfell Tatyana Theme Pack|19,99€|50|2023-01-13 20h|2023-01-20 20h|
+|61|idle-champions-of-the-forgotten-realms--squiddle-the-gnome-squidling-familiar-pack|Squiddle the Gnome Squidling Familiar Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
+|62|idle-champions-of-the-forgotten-realms--steampunk-nordom-the-modron-theme-pack|Steampunk Nordom the Modron Theme Pack|19,99€|50|2023-01-27 20h|2023-02-03 20h|
+|63|the-darkest-tales-7d0dab|The Darkest Tales|15,99€|35|2022-12-22 18h|2023-01-05 18h|
+|64|the-life-and-suffering-of-sir-brante|The Life and Suffering of Sir Brante|19,99€|50|2022-12-22 18h|2023-01-05 18h|
+|65|the-life-and-suffering-of-sir-brante--artbook-and-ost|The Life and Suffering of Sir Brante Artbook + OST|3,99€|50|2022-12-22 18h|2023-01-05 18h|
+|66|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
+|67|true-hate-007027|True Hate|5,99€|90|2022-12-15 17h|2022-12-30 17h|
+|68|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
