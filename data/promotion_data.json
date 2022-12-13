@@ -486,6 +486,15 @@
     "title": "Ricochet, the Crocodile Hatchling Familiar Pack"
   },
   {
+    "discountPercentage": 10,
+    "endDate": "2023-01-19T05:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "sailingera-450a80",
+    "startDate": "2023-01-12T05:00:00.000Z",
+    "title": "Sailing Era"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-01-27T20:00:00.000Z",
     "isFree": false,
