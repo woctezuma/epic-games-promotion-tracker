@@ -63,5 +63,4 @@
 |61|true-hate-007027|True Hate|5,99€|90|2022-12-15 17h|2022-12-30 17h|
 |62|idle-champions-of-the-forgotten-realms--ricochet-the-crocodile-hatchling-familiar-pack|Ricochet, the Crocodile Hatchling Familiar Pack|3,99€|50|2023-01-13 20h|2023-01-20 20h|
 |63|the-life-and-suffering-of-sir-brante--artbook-and-ost|The Life and Suffering of Sir Brante Artbook + OST|3,99€|50|2022-12-22 18h|2023-01-05 18h|
-|64|callofthewildtheangler-tnrdlc|Call of the Wild: The Angler™ - TNR DLC|0,00€|100|2022-12-15 10h|2023-01-05 10h|
-|65|[]|Mystery Game|0,00€|100|2022-12-15 16h|2022-12-16 16h|
+|64|[]|Mystery Game|0,00€|100|2022-12-15 16h|2022-12-16 16h|
