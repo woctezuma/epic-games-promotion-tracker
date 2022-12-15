@@ -99,6 +99,24 @@
     "title": "A Plague Tale: Requiem"
   },
   {
+    "discountPercentage": 25,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "a-plague-tale-requiem",
+    "startDate": "2022-12-22T16:00:00.000Z",
+    "title": "A Plague Tale: Requiem"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 299,
+    "slug": "a-plague-tale-requiem--protector-pack",
+    "startDate": "2022-12-22T16:00:00.000Z",
+    "title": "A Plague Tale: Requiem - Protector Pack DLC"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2023-01-05T16:00:00.000Z",
     "isFree": false,
