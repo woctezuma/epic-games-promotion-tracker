@@ -297,15 +297,6 @@
     "title": "KORAL"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2023-01-05T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "melatonin-f16dcb",
-    "startDate": "2022-12-15T17:00:00.000Z",
-    "title": "Melatonin"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2023-01-20T20:00:00.000Z",
     "isFree": false,
@@ -556,15 +547,6 @@
     "slug": "thermonuclear-30a1d0",
     "startDate": "2023-01-17T18:00:00.000Z",
     "title": "Thermonuclear"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2022-12-30T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 599,
-    "slug": "true-hate-007027",
-    "startDate": "2022-12-15T17:00:00.000Z",
-    "title": "True Hate"
   },
   {
     "discountPercentage": 60,
