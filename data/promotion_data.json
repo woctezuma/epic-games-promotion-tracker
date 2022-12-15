@@ -208,15 +208,6 @@
   },
   {
     "discountPercentage": 50,
-    "endDate": "2022-12-30T05:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 79,
-    "slug": "car-tuning-simulator-38ddaf",
-    "startDate": "2022-12-15T05:00:00.000Z",
-    "title": "Car Tuning Simulator"
-  },
-  {
-    "discountPercentage": 50,
     "endDate": "2023-01-27T20:00:00.000Z",
     "isFree": false,
     "originalPrice": 799,
@@ -304,15 +295,6 @@
     "slug": "horror-tales-the-wine-3ab2b2",
     "startDate": "2022-12-18T05:00:00.000Z",
     "title": "HORROR TALES The Wine"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2022-12-30T05:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 159,
-    "slug": "he-will-shoot-46efff",
-    "startDate": "2022-12-15T05:00:00.000Z",
-    "title": "He Will Shoot"
   },
   {
     "discountPercentage": 75,
