@@ -1283,927 +1283,951 @@
 |1281|my-time-at-portia|My Time at Portia|29,99€|75|2022-12-15 16h|2023-01-05 16h|
 |1282|my-time-at-sandrock|My Time at Sandrock|20,99€|20|2022-12-23 12h|2023-01-06 12h|
 |1283|sherlock-holmes-chapter-one--mycrofts-pride|Mycroft's Pride DLC|9,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1284|naraka-bladepoint|NARAKA: BLADEPOINT|19,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1285|naraka-bladepoint--deluxe-edition|NARAKA: BLADEPOINT Deluxe Edition|34,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1286|naraka-bladepoint--ultimate-edition|NARAKA: BLADEPOINT Ultimate Edition|50,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1287|neo-the-world-ends-with-you|NEO: The World Ends with You|59,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1288|norco-3ba4e2|NORCO|11,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1289|pc-building-simulator--nzxt-workshop|NZXT Workshop|4,99€|25|2022-12-15 16h|2023-01-05 16h|
-|1290|nadir-a-grimdark-deckbuilder-c70747|Nadir - A Grimdark Deckbuilder|15,99€|25|2022-12-15 16h|2023-01-05 16h|
-|1291|narita-boy|Narita Boy|24,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1292|necroworm-5784e5|NecroWorm|3,99€|90|2022-12-15 16h|2023-01-05 16h|
-|1293|necromunda-hired-gun|Necromunda: Hired Gun|39,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1294|necromunda-hired-gun--artbook|Necromunda: Hired Gun - Artbook|3,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1295|necromunda-hired-gun/bundle|Necromunda: Hired Gun - Bundle|48,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1296|necromunda-hired-gun--gang-wars-cosmetics|Necromunda: Hired Gun - Gang Wars Cosmetics Bundle|9,99€|47|2022-12-15 16h|2023-01-05 16h|
-|1297|necromunda-hired-gun--hunters-bounty-pack|Necromunda: Hired Gun - Hunter’s Bounty Pack|2,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1298|necromunda-hired-gun--original-soundtrack|Necromunda: Hired Gun - Original Soundtrack|7,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1299|necrosmith-b2ef15|Necrosmith|2,39€|33|2022-12-15 16h|2023-01-05 16h|
-|1300|neighbours-back-from-hell|Neighbours back From Hell|14,99€|66|2022-12-15 16h|2023-01-05 16h|
-|1301|neon-abyss|Neon Abyss|19,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1302|neon-blight-6fe11b|Neon Blight|19,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1303|new-super-luckys-tale|New Super Lucky's Tale|27,99€|67|2022-12-15 16h|2023-01-05 16h|
-|1304|new-tales-from-the-borderlands|New Tales from the Borderlands|39,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1305|new-tales-from-the-borderlands--deluxe-edition|New Tales from the Borderlands: Deluxe Edition|49,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1306|nexomon-extinction|Nexomon: Extinction|19,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1307|night-lights-4cd904|Night Lights|3,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1308|ashen--dlc1|Nightstorm Isle - DLC|9,99€|70|2022-12-15 16h|2023-01-05 16h|
-|1309|nikopol-secrets-of-the-immortals-18adec|Nikopol - Secrets of the Immortals|3,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1310|nioh-2-the-complete-edition|Nioh 2 – The Complete Edition|59,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1311|nioh-the-complete-edition|Nioh: The Complete Edition|49,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1312|nira-02f6ee|Nira|7,99€|25|2022-12-15 16h|2023-01-05 16h|
-|1313|no-longer-home|No Longer Home|12,49€|60|2022-12-15 16h|2023-01-05 16h|
-|1314|no-longer-home--farewell-edition|No Longer Home Farewell Edition|24,67€|60|2022-12-15 16h|2023-01-05 16h|
-|1315|no-longer-home--no-longer-home-soundtrack|No Longer Home Soundtrack|8,19€|60|2022-12-15 16h|2023-01-05 16h|
-|1316|not-for-broadcast-7e523f|Not For Broadcast|20,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1317|octopath-traveler|OCTOPATH TRAVELER™|59,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1318|kingdom-come-deliverance--ost-atmospheres-and-additionals|OST Atmospheres & Additionals|9,99€|70|2022-12-15 16h|2023-01-05 16h|
-|1319|kingdom-come-deliverance--ost-essentials|OST Essentials|5,99€|70|2022-12-15 16h|2023-01-05 16h|
-|1320|outriders|OUTRIDERS|39,99€|55|2022-12-15 16h|2023-01-05 16h|
-|1321|outriders--worldslayer-edition|OUTRIDERS WORLDSLAYER|59,99€|35|2022-12-15 16h|2023-01-05 16h|
-|1322|outriders--worldslayer-upgrade|OUTRIDERS WORLDSLAYER UPGRADE|39,99€|35|2022-12-15 16h|2023-01-05 16h|
-|1323|overpass|OVERPASS™|39,99€|70|2022-12-15 16h|2023-01-05 16h|
-|1324|overpass--deluxe-edition|OVERPASS™ DELUXE EDITION|39,99€|70|2022-12-15 16h|2023-01-05 16h|
-|1325|observation|Observation|20,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1326|observer-system-redux|Observer: System Redux|24,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1327|offworld-trading-company|Offworld Trading Company|29,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1328|offworld-trading-company--limited-supply|Offworld Trading Company Limited Supply DLC|4,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1329|offworld-trading-company--blue-chip-ventures|Offworld Trading Company: Blue Chip Ventures DLC|4,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1330|offworld-trading-company--conspicuous-comsumption|Offworld Trading Company: Conspicuous Consumption DLC|2,99€|45|2022-12-15 16h|2023-01-05 16h|
-|1331|offworld-trading-company--interdimensional|Offworld Trading Company: Interdimensional|4,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1332|offworld-trading-company--jupiters-forge|Offworld Trading Company: Jupiter’s Forge Expansion Pack|14,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1333|offworld-trading-company--market-corrections|Offworld Trading Company: Market Corrections DLC|3,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1334|offworld-trading-company--real-mars-map-pack|Offworld Trading Company: Real Mars Map Pack DLC|2,99€|45|2022-12-15 16h|2023-01-05 16h|
-|1335|offworld-trading-company--scenario-toolkit|Offworld Trading Company: Scenario Toolkit DLC|2,99€|45|2022-12-15 16h|2023-01-05 16h|
-|1336|offworld-trading-company--soundtrack|Offworld Trading Company: Soundtrack DLC|9,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1337|offworld-trading-company--the-ceres-initiative|Offworld Trading Company: The Ceres Initiative DLC|5,69€|50|2022-12-15 16h|2023-01-05 16h|
-|1338|offworld-trading-company--the-europa-wager|Offworld Trading Company: The Europa Wager|14,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1339|offworld-trading-company--the-patron-and-the-patriot|Offworld Trading Company: The Patron and the Patriot DLC|4,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1340|olija|Olija|14,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1341|road-96--documentary|On the Road 96 - Documentary|3,96€|25|2022-12-15 16h|2023-01-05 16h|
-|1342|dungeons-3--once-upon-a-time|Once Upon A Time|4,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1343|one-hand-clapping|One Hand Clapping|14,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1344|one-more-island-0014e2|One More Island|17,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1345|open-country|Open Country|14,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1346|iron-harvest--operation-eagle|Operation Eagle|19,99€|70|2022-12-15 16h|2023-01-05 16h|
-|1347|operation-tango|Operation: Tango|16,99€|45|2022-12-15 16h|2023-01-05 16h|
-|1348|operencia|Operencia: The Stolen Sun|24,99€|66|2022-12-15 16h|2023-01-05 16h|
-|1349|faeria--orbs-pack|Orbs Pack|9,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1350|genesis-noir--soundtrack|Original Soundtrack|7,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1351|warhammer-40000-chaos-gate-daemonhunters--original-soundtrack|Original Soundtrack|9,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1352|while-true-learn--ost|Original Soundtrack by Broadcast Of Variants|2,39€|13|2022-12-15 16h|2023-01-05 16h|
-|1353|scarlet-hood-and-the-wicked-wood--original-soundtracks|Original Soundtracks|3,99€|55|2022-12-15 16h|2023-01-05 16h|
-|1354|buy-orwell-ignorance-is-strength-deluxe-edition|Orwell: Ignorance Is Strength Deluxe Edition|11,99€|70|2022-12-15 16h|2023-01-05 16h|
-|1355|orwell-ignorance-is-strength-486264|Orwell: Ignorance is Strength|7,99€|70|2022-12-15 16h|2023-01-05 16h|
-|1356|orwell-ignorance-is-strength-orwell-ignorance-is-strength-ost-c8f6c9|Orwell: Ignorance is Strength - OST|7,99€|70|2022-12-15 16h|2023-01-05 16h|
-|1357|othercide-19bfa0|Othercide|29,99€|65|2022-12-15 16h|2023-01-05 16h|
-|1358|othercide-othercide-artbook-1c2f5e|Othercide - Digital Artbook|4,99€|33|2022-12-15 16h|2023-01-05 16h|
-|1359|othercide-othercide-dressed-to-kill-cosmetics-pack-29a869|Othercide - Dressed to Kill - Cosmetics Pack|3,99€|33|2022-12-15 16h|2023-01-05 16h|
-|1360|othercide-ost-artbook-bundle|Othercide - Game + OST + Digital Artbook Bundle|34,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1361|othercide-othercide-soundtrack-6d64db|Othercide - Soundtrack|7,99€|33|2022-12-15 16h|2023-01-05 16h|
-|1362|out-of-line-209cbb|Out of Line|9,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1363|cardpocalypse--out-of-time|Out of Time|7,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1364|out-of-the-park-baseball-23-09e3fa|Out of the Park Baseball 23|39,99€|75|2022-12-22 18h|2023-01-05 13h|
-|1365|outerwilds|Outer Wilds|20,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1366|outerwilds--echoes-of-the-eye|Outer Wilds - Echoes of the Eye|11,99€|33|2022-12-15 16h|2023-01-05 16h|
-|1367|outerverse-82d7ce|Outerverse|19,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1368|outward|Outward Definitive Edition|39,99€|55|2022-12-15 16h|2023-01-05 16h|
-|1369|outward--soundtrack|Outward Soundtrack|7,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1370|outward--the-three-brothers|Outward: The Three Brothers|19,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1371|pc-building-simulator--overclocked-edition-content|Overclocked Edition Content|3,99€|25|2022-12-15 16h|2023-01-05 16h|
-|1372|pc-building-simulator--overclockers-uk-workshop|Overclockers UK Workshop|4,99€|25|2022-12-15 16h|2023-01-05 16h|
-|1373|overcooked|Overcooked|15,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1374|overcooked-2|Overcooked! 2|22,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1375|overloop-f572c8|Overloop|9,99€|35|2022-12-15 16h|2023-01-05 16h|
-|1376|overpass|Overpass|39,99€|70|2022-12-15 16h|2023-01-05 16h|
-|1377|overpass--drive-with-style|Overpass Drive With Style Pack|2,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1378|overpass--expert-vehicles-pack|Overpass Expert Vehicles Pack|6,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1379|overpass--smart-start-pack|Overpass Smart Start Pack|2,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1380|overpass--yamaha-special-pack|Overpass Yamaha Special Pack|5,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1381|oxenfree|Oxenfree|7,99€|55|2022-12-15 16h|2023-01-05 16h|
-|1382|oxygen-not-included|Oxygen Not Included|22,99€|70|2022-12-15 16h|2023-01-05 16h|
-|1383|oxygen-not-included--spaced-out|Oxygen Not Included: Spaced Out!|10,79€|25|2022-12-15 16h|2023-01-05 16h|
-|1384|pc-building-simulator|PC Building Simulator|15,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1385|pc-building-simulator-2|PC Building Simulator 2|24,99€|15|2022-12-15 16h|2023-01-05 16h|
-|1386|pc-building-simulator--soundtrack|PC Building Simulator Soundtrack|3,99€|25|2022-12-15 16h|2023-01-05 16h|
-|1387|idle-champions-of-the-forgotten-realms--pack-antics-series-2-bundle-pack|Pack Antics Series 2 Bundle Pack|35,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1388|paladin-dream-5d04e2|Paladin Dream|3,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1389|paladins--digital-deluxe-edition-2022|Paladins Digital Deluxe Edition 2022|59,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1390|paladins--season-pass-2022|Paladins Season Pass 2022|34,99€|33|2022-12-15 16h|2023-01-05 16h|
-|1391|paper-beast|Paper Beast|16,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1392|paper-cut-mansion-2c67e2|Paper Cut Mansion|19,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1393|paradise-killer-c3ea1c|Paradise Killer|15,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1394|paradise-killer-paradise-killer-soundtrack-0ff3e1|Paradise Killer Soundtrack|7,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1395|paradise-killer-paradise-killer-art-of-paradise-e81d8f|Paradise Killer: Art of Paradise|5,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1396|paradise-killer-perfect-25-edition|Paradise Killer: Perfect 25 Edition|26,07€|60|2022-12-15 16h|2023-01-05 16h|
-|1397|paradise-lost|Paradise Lost|12,49€|80|2022-12-15 16h|2023-01-05 16h|
-|1398|paramnesia-a49100|Paramnesia|2,39€|50|2022-12-15 16h|2023-01-05 16h|
-|1399|partisans-1941|Partisans 1941|39,99€|70|2022-12-15 16h|2023-01-05 16h|
-|1400|pascals-wager|Pascal's Wager: Definitive Edition|19,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1401|pathfinder-kingmaker--royal-ascension|Pathfinder Kingmaker - Royal Ascension DLC|7,99€|70|2022-12-15 16h|2023-01-05 16h|
-|1402|pathfinder-kingmaker|Pathfinder: Kingmaker - Enhanced Plus Edition|19,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1403|pathfinder-kingmaker--imperial-edition|Pathfinder: Kingmaker - Imperial Edition|38,99€|61|2022-12-15 16h|2023-01-05 16h|
-|1404|pathfinder-kingmaker--season-pass|Pathfinder: Kingmaker - Season Pass|17,99€|67|2022-12-15 16h|2023-01-05 16h|
-|1405|pathfinder-kingmaker--the-wildcards|Pathfinder: Kingmaker - The Wildcards DLC|4,99€|55|2022-12-15 16h|2023-01-05 16h|
-|1406|pathfinder-kingmaker--varnholds-lot|Pathfinder: Kingmaker - Varnhold's Lot DLC|6,99€|55|2022-12-15 16h|2023-01-05 16h|
-|1407|pathfinder-kingmaker--beneath-the-stolen-lands|Pathfinder: Kingmaker Beneath the Stolen Lands DLC|6,99€|55|2022-12-15 16h|2023-01-05 16h|
-|1408|pathfinder-wrath-of-the-righteous|Pathfinder: Wrath of the Righteous - Enhanced Edition|49,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1409|pathfinder-wrath-of-the-righteous--inevitable-excess|Pathfinder: Wrath of the Righteous - Inevitable Excess|12,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1410|pathfinder-wrath-of-the-righteous--through-the-ashes|Pathfinder: Wrath of the Righteous - Through the Ashes|12,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1411|pathfinder-wrath-of-the-righteous--commander-edition|Pathfinder: Wrath of the Righteous Commander Edition|69,99€|58|2022-12-15 16h|2023-01-05 16h|
-|1412|pathfinder-wrath-of-the-righteous--mythic-edition|Pathfinder: Wrath of the Righteous Mythic Edition|98,99€|57|2022-12-15 16h|2023-01-05 16h|
-|1413|pathway|Pathway|13,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1414|idle-champions-of-the-forgotten-realms--pest-the-gremishka-familiar-pack|Pest the Gremishka Familiar Pack|7,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1415|wrc-11-fia-world-rally-championship-peugeot-206-wrc-2002-dd0ad7|Peugeot 206 WRC (2002)|3,99€|15|2022-12-15 16h|2023-01-05 16h|
-|1416|phoenix-point|Phoenix Point: Complete Edition|23,99€|33|2022-12-15 16h|2023-01-05 16h|
-|1417|pikuniku|Pikuniku|12,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1418|pile-up-b1e2af|Pile Up|14,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1419|pillars-of-eternity|Pillars of Eternity - Definitive Edition|36,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1420|bassmaster-fishing-2022-synthwave-pack-ae869f|Pixel Pro Pack|4,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1421|planescape-torment-enhanced-edition|Planescape: Torment: Enhanced Edition|15,99€|70|2022-12-15 16h|2023-01-05 16h|
-|1422|fortnite--polar-legends-pack|Polar Legends Pack|19,99€|40|2022-12-21 00h|2023-01-10 00h|
-|1423|idle-champions-of-the-forgotten-realms--polymorphed-calliope-skin-feat-pack|Polymorphed Calliope Skin & Feat Pack|7,99€|50|2023-01-27 20h|2023-02-03 20h|
-|1424|idle-champions-of-the-forgotten-realms--polymorphed-celeste-skin-feat-pack|Polymorphed Celeste Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
-|1425|idle-champions-of-the-forgotten-realms--polymorphed-krydle-skin-feat-pack|Polymorphed Krydle Skin & Feat Pack|7,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1426|idle-champions-of-the-forgotten-realms--polymorphed-makos-skin-feat-pack|Polymorphed Makos Skin & Feat Pack|7,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1427|idle-champions-of-the-forgotten-realms--polymorphed-minsc-skin-and-feat-pack|Polymorphed Minsc Skin & Feat Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
-|1428|idle-champions-of-the-forgotten-realms--polymorphed-nayeli-skin-feat-pack|Polymorphed Nayeli Skin & Feat Pack|7,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1429|idle-champions-of-the-forgotten-realms--polymorphed-orkira-skin-feat-pack|Polymorphed Orkira Skin & Feat Pack|7,99€|50|2023-01-27 20h|2023-02-03 20h|
-|1430|polymorphedreyaskinfeatpack|Polymorphed Reya Skin & Feat Pack|7,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1431|idle-champions-of-the-forgotten-realms--polymorphed-shandie-skin-feat-pack|Polymorphed Shandie Skin & Feat Pack|7,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1432|idle-champions-of-the-forgotten-realms--polymorphed-tyril-skin-feat-pack|Polymorphed Tyril Skin & Feat Pack|7,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1433|idle-champions-of-the-forgotten-realms--polymorphed-yorven-skin-and-feat-pack|Polymorphed Yorven Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
-|1434|wrc-11-fia-world-rally-championship-porsche-911-gt3-rs-rgt-extra-liveries-b15268|Porsche 911 GT3 RS RGT Extra Liveries|3,99€|15|2022-12-15 16h|2023-01-05 16h|
-|1435|port-royale-4|Port Royale 4|39,99€|65|2022-12-15 16h|2023-01-05 16h|
-|1436|pray-for-death-fe9a43|Pray for Death|7,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1437|predator-hunting-grounds--digital-deluxe-edition|Predator: Hunting Grounds Digital Deluxe Edition|59,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1438|predator-hunting-grounds|Predator: Hunting Grounds Standard Edition|39,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1439|prehistorik-d64136|Prehistorik|7,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1440|prehistorik-2-0c6998|Prehistorik 2|7,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1441|faeria--premium-edition|Premium Edition DLC|9,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1442|prey|Prey|39,99€|75|2023-01-24 16h|2023-01-31 16h|
-|1443|princess-farmer-bd4c4e|Princess Farmer|11,99€|35|2022-12-15 16h|2023-01-05 16h|
-|1444|idle-champions-of-the-forgotten-realms--prismeer-sentry-skin-and-feat-pack|Prismeer Sentry Skin & Feat Pack|7,99€|50|2023-01-27 20h|2023-02-03 20h|
-|1445|idle-champions-of-the-forgotten-realms--prismeer-shandie-theme-pack|Prismeer Shandie Theme Pack|19,99€|50|2023-01-20 20h|2023-01-27 20h|
-|1446|prison-architect|Prison Architect|24,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1447|prison-architect--aficionado|Prison Architect - Aficionado|1,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1448|prison-architect--gangs|Prison Architect - Gangs|5,99€|10|2022-12-15 16h|2023-01-05 16h|
-|1449|prison-architect--going-green|Prison Architect - Going Green|9,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1450|prison-architect--island-bound|Prison Architect - Island Bound|9,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1451|prison-architect--perfect-storm|Prison Architect - Perfect Storm|9,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1452|prison-architect--psych-ward-wardens-edition|Prison Architect - Psych Ward: Warden's Edition|5,99€|35|2022-12-15 16h|2023-01-05 16h|
-|1453|prison-architect--second-chances|Prison Architect - Second Chances|5,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1454|prison-architect--undead|Prison Architect - Undead|2,99€|10|2022-12-15 16h|2023-01-05 16h|
-|1455|production-line|Production Line|20,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1456|project-pastorate-6e8765|Project Pastorate|1,59€|50|2022-12-15 16h|2023-01-05 16h|
-|1457|project-warlock-ii-14efe5|Project Warlock II|15,79€|20|2022-12-15 16h|2023-01-05 16h|
-|1458|pumpkin-jack|Pumpkin Jack|29,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1459|quake|Quake|9,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1460|r-type-final-2|R-Type Final 2|39,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1461|r-type-final-2--complete-soundtrack|R-Type Final 2 - Complete Soundtrack|4,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1462|r-type-final-2--dlc-set|R-Type Final 2 - DLC Set 1|6,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1463|r-type-final-2--dlc-set-01|R-Type Final 2 - DLC Set 2|6,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1464|r-type-final-2--dlc-set-03|R-Type Final 2 - DLC Set 3|9,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1465|r-type-final-2--dlc-set-4|R-Type Final 2 - DLC Set 4|6,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1466|r-type-final-2--dlc-set-05|R-Type Final 2 - DLC Set 5|6,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1467|r-type-final-2--dlc-set-06|R-Type Final 2 - DLC Set 6|9,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1468|r-type-final-2--dlc-set-07|R-Type Final 2 - DLC Set 7|6,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1469|r-type-final-2--dlc-set-08|R-Type Final 2 - DLC Set 8|6,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1470|r-type-final-2--dlc-set-09|R-Type Final 2 - DLC Set 9|9,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1471|r-type-final-2--homage-soundtrack|R-Type Final 2 - Homage Stage Soundtrack|13,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1472|r-type-final-2--stage-pass|R-Type Final 2 - Stage Pass|19,90€|40|2022-12-15 16h|2023-01-05 16h|
-|1473|r-type-final-2--stage-pass-volume-2|R-Type Final 2 - Stage Pass Volume 2|19,90€|40|2022-12-15 16h|2023-01-05 16h|
-|1474|r-type-final-2--stage-pass-volume-3|R-Type Final 2 - Stage Pass Volume 3|19,90€|20|2022-12-15 16h|2023-01-05 16h|
-|1475|r-type-final-2--digital-deluxe-edition|R-Type Final 2 Digital Deluxe Edition|64,75€|40|2022-12-15 16h|2023-01-05 16h|
-|1476|r-type-final-2--ofx-x-mariko-r-craft-05|R-Type Final 2: OFX-X MARIKO R-Craft|6,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1477|railgrade|RAILGRADE|19,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1478|rainswept-5f368a|RAINSWEPT|9,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1479|rayman-legends|RAYMAN® LEGENDS|19,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1480|replikator-6adddc|REPLIKATOR|9,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1481|rez-plz-324485|REZ PLZ|11,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1482|ruiner|RUINER|19,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1483|rad-rodgers-radical-edition-8f66a7|Rad Rodgers - Radical Edition|19,99€|90|2022-12-15 16h|2023-01-05 16h|
-|1484|rage-2|Rage 2|39,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1485|rage-2--deluxe-edition|Rage 2 - Deluxe Edition|59,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1486|railway-empire|Railway Empire|29,99€|70|2022-12-15 16h|2023-01-05 16h|
-|1487|railway-empire--crossing-the-andes|Railway Empire - Crossing the Andes|7,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1488|railway-empire--dlc-bundle|Railway Empire - DLC Bundle|29,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1489|railway-empire--down-under|Railway Empire - Down Under|7,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1490|railway-empire--france|Railway Empire - France|9,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1491|railway-empire--germany|Railway Empire - Germany|9,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1492|railway-empire--great-britain-and-ireland|Railway Empire - Great Britain & Ireland|9,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1493|railway-empire--japan|Railway Empire - Japan|12,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1494|railway-empire--mexico|Railway Empire - Mexico|7,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1495|railway-empire--northern-europe|Railway Empire - Northern Europe|7,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1496|railway-empire--the-great-lakes|Railway Empire - The Great Lakes|7,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1497|rainbow-billy-the-curse-of-the-leviathan|Rainbow Billy: The Curse of the Leviathan|17,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1498|rainbow-six-siege|Rainbow Six Siege|19,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1499|raji-an-ancient-epic|Raji: An Ancient Epic|22,99€|66|2022-12-15 16h|2023-01-05 16h|
-|1500|ranch-simulator|Ranch Simulator|20,99€|33|2022-12-15 16h|2023-01-05 16h|
-|1501|ravens-hike-c34341|Ravens Hike|3,19€|75|2022-12-15 16h|2023-01-05 16h|
-|1502|rayman-legends|Rayman Legends|19,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1503|rayman-origins|Rayman Origins|9,99€|70|2022-12-15 16h|2023-01-05 16h|
-|1504|pc-building-simulator--razer-workshop|Razer Workshop|4,99€|25|2022-12-15 16h|2023-01-05 16h|
-|1505|relegion-fe9684|Re-Legion|9,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1506|re-legion-deluxe-edition|Re-Legion - Deluxe_Edition_|13,16€|80|2022-12-15 16h|2023-01-05 16h|
-|1507|relegion-relegion-digital_artbook_-ce51af|Re-Legion - Digital_Artbook_|2,39€|80|2022-12-15 16h|2023-01-05 16h|
-|1508|relegion-relegion-digital_soundtrack_-8a2caf|Re-Legion - Digital_Soundtrack_|3,29€|80|2022-12-15 16h|2023-01-05 16h|
-|1509|realpolitiks-2|Realpolitiks II|29,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1510|realpolitiks-2--deluxe-edition|Realpolitiks II Deluxe edition|32,73€|75|2022-12-15 16h|2023-01-05 16h|
-|1511|realpolitiks-2--digital-artbook|Realpolitiks II Digital Artbook|2,39€|75|2022-12-15 16h|2023-01-05 16h|
-|1512|realpolitiks-2--soundtrack|Realpolitiks II Soundtrack|3,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1513|rebel-cops|Rebel Cops|9,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1514|recompile|Recompile|19,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1515|red-dead-redemption-2--red-dead-online|Red Dead Online|19,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1516|red-dead-redemption-2|Red Dead Redemption 2|59,99€|67|2022-12-15 16h|2023-01-05 16h|
-|1517|red-dead-redemption-2--ultimate-edition|Red Dead Redemption 2: Ultimate Edition|89,99€|70|2022-12-15 16h|2023-01-05 16h|
-|1518|red-ronin-d2678c|Red Ronin|5,99€|70|2022-12-15 16h|2023-01-05 16h|
-|1519|banedlc028-09-04|Red the Squirrel Familiar Pack|11,99€|90|2023-01-27 20h|2023-02-03 20h|
-|1520|redneck-deer-huntin-012a33|Redneck Deer Huntin|7,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1521|redneck-rampage-653f04|Redneck Rampage|7,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1522|redneck-rampage-rides-again-1655a7|Redneck Rampage Rides Again|7,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1523|redout-2|Redout 2|29,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1524|redout-2--deluxe-edition|Redout 2 - Deluxe Edition|44,99€|35|2022-12-15 16h|2023-01-05 16h|
-|1525|redout-2--ost|Redout 2 - Original Soundtrack|9,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1526|redout-2--ultimate-edition|Redout 2 - Ultimate Edition|49,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1527|redout-enhanced-edition--back-to-earth-pack|Redout: Back to Earth Pack|3,99€|35|2022-12-15 16h|2023-01-05 16h|
-|1528|redout-enhanced-edition|Redout: Enhanced Edition|15,99€|70|2022-12-15 16h|2023-01-05 16h|
-|1529|redout-enhanced-edition--mars-pack|Redout: Mars Pack|3,19€|35|2022-12-15 16h|2023-01-05 16h|
-|1530|redout-enhanced-edition--neptune-pack|Redout: Neptune Pack|3,19€|35|2022-12-15 16h|2023-01-05 16h|
-|1531|redout-space-assault|Redout: Space Assault|7,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1532|redout-enhanced-edition--space-exploration-pack|Redout: Space Exploration Pack|3,99€|35|2022-12-15 16h|2023-01-05 16h|
-|1533|redout-enhanced-edition--ultimate-edition|Redout: Ultimate Edition|23,99€|35|2022-12-15 16h|2023-01-05 16h|
-|1534|redout-enhanced-edition--vertex-pack|Redout: V.E.R.T.E.X. Pack|3,19€|35|2022-12-15 16h|2023-01-05 16h|
-|1535|relicta|Relicta|19,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1536|remnant-from-the-ashes|Remnant: From the Ashes|39,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1537|remnant-from-the-ashes--complete-edition|Remnant: From the Ashes - Complete Edition|51,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1538|remnant-from-the-ashes--subject-2923|Remnant: From the Ashes – Subject 2923|9,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1539|remnant-from-the-ashes--swamps-of-corsus|Remnant: From the Ashes – Swamps of Corsus|9,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1540|pc-building-simulator--republic-of-gamers-workshop|Republic of Gamers Workshop|4,99€|25|2022-12-15 16h|2023-01-05 16h|
-|1541|rescue-party-live|Rescue Party: Live!|9,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1542|restless-soul-d5baed|Restless Soul|11,99€|35|2022-12-15 16h|2023-01-05 16h|
-|1543|faeria--resurgence|Resurgence DLC|9,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1544|retreat-to-enen-60ef78|Retreat To Enen|24,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1545|bassmaster-fishing-2022-retro-cosmetic-pack-season-pass-85466e|Retro Cosmetic Pack Season Pass|9,99€|35|2022-12-15 16h|2023-01-05 16h|
-|1546|retrowave-rider-18aaf1|Retrowave Rider|3,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1547|reverie-knights-tactics-82a158|Reverie Knights Tactics|24,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1548|revita-d8ff55|Revita|16,99€|25|2022-12-15 16h|2023-01-05 16h|
-|1549|revita-revita-soundtrack-bf4ecb|Revita - Soundtrack|9,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1550|rhiannon-curse-of-the-four-branches-ae93f9|Rhiannon - Curse of the Four Branches|3,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1551|rims-racing|RiMS Racing|49,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1552|rims-racing--european-manufacturers-deluxe-edition|RiMS Racing : European Manufacturers Deluxe Edition|59,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1553|rims-racing--japanese-manufacturers-deluxe-edition|RiMS Racing : Japanese Manufacturers Deluxe Edition|59,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1554|rims-racing--ultimate-edition|RiMS Racing : Ultimate Edition|69,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1555|rims-racing--bahrain-international-circuit|RiMS Racing Bahrain International Circuit|4,99€|25|2022-12-15 16h|2023-01-05 16h|
-|1556|rims-racing--career-pro-starter-pack|RiMS Racing Career Pro Starter Pack|2,99€|25|2022-12-15 16h|2023-01-05 16h|
-|1557|rims-racing--nolan-x-lite-helmets|RiMS Racing Nolan X-LITE Helmets|1,99€|25|2022-12-15 16h|2023-01-05 16h|
-|1558|rims-racing--the-bloody-beetroots-specials|RiMS Racing The Bloody Beetroots Specials|3,99€|25|2022-12-15 16h|2023-01-05 16h|
-|1559|rims-racing--european-manufacturers-package|RiMS Racing: European Manufacturers Package|14,99€|25|2022-12-15 16h|2023-01-05 16h|
-|1560|rims-racing--japanese-manufacturers-package|RiMS Racing: Japanese Manufacturers Package|14,99€|25|2022-12-15 16h|2023-01-05 16h|
-|1561|idle-champions-of-the-forgotten-realms--ricochet-the-crocodile-hatchling-familiar-pack|Ricochet, the Crocodile Hatchling Familiar Pack|3,99€|50|2023-01-13 20h|2023-01-20 20h|
-|1562|riders-republic|Riders Republic|59,99€|70|2022-12-15 16h|2023-01-05 16h|
-|1563|riders-republic--year-one-pass|Riders Republic™ Year 1 Pass|39,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1564|rignroll-522598|Rig'n'Roll|4,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1565|rimworld|RimWorld|32,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1566|rimworld--ideology-dlc|RimWorld Ideology DLC|18,99€|10|2022-12-15 16h|2023-01-05 16h|
-|1567|rimworld--royalty-dlc|RimWorld Royalty DLC|18,99€|10|2022-12-15 16h|2023-01-05 16h|
-|1568|ring-of-pain|Ring of Pain|19,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1569|rise-of-the-tomb-raider|Rise of the Tomb Raider: 20 Year Celebration|29,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1570|rising-storm-2-vietnam|Rising Storm 2: Vietnam|21,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1571|risk-of-rain-2|Risk of Rain 2|19,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1572|risk-of-rain-2--survivors-of-the-void-bundle|Risk of Rain 2 & Survivors of the Void|34,78€|35|2022-12-15 16h|2023-01-05 16h|
-|1573|road-96|Road 96|19,96€|50|2022-12-15 16h|2023-01-05 16h|
-|1574|road-96--hitchhiker-bundle|Road 96 - Hitchhiker Bundle|29,91€|48|2022-12-15 16h|2023-01-05 16h|
-|1575|road-96--prologue-ebook|Road 96 - Prologue eBook|9,96€|60|2022-12-15 16h|2023-01-05 16h|
-|1576|road-96--soundtrack|Road 96 - Soundtrack|9,96€|60|2022-12-15 16h|2023-01-05 16h|
-|1577|rogue-legacy|Rogue Legacy|11,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1578|rogue-legacy-2|Rogue Legacy 2|19,99€|25|2022-12-15 16h|2023-01-05 16h|
-|1579|rogue-lords|Rogue Lords|24,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1580|rogue-lords--supporter-pack|Rogue Lords - Supporter Pack|9,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1581|rougebook|Roguebook|24,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1582|roguebook--original-soundtrack|Roguebook - Original Soundtrack|7,99€|25|2022-12-15 16h|2023-01-05 16h|
-|1583|roguebook--art-of-roguebook|Roguebook - The Art of Roguebook|4,99€|25|2022-12-15 16h|2023-01-05 16h|
-|1584|roguebook--alternate-art-pack|Roguebook – Alternate Art Pack|4,99€|25|2022-12-15 16h|2023-01-05 16h|
-|1585|roguebook--heroes-skin-pack|Roguebook – Heroes Skins Pack|4,99€|25|2022-12-15 16h|2023-01-05 16h|
-|1586|rollercoaster-tycoon-3-complete-edition|RollerCoaster Tycoon 3 Complete Edition|19,99€|65|2022-12-15 16h|2023-01-05 16h|
-|1587|ruggnar-06d06b|Ruggnar|13,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1588|ruin-raiders-d2d613|Ruin Raiders|15,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1589|ruined-king-a-league-of-legends-story|Ruined King: A League of Legends Story™|29,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1590|iron-harvest--rusviet-revolution|Rusviet Revolution|3,99€|38|2022-12-15 16h|2023-01-05 16h|
-|1591|sifu--deluxe-edition|SIFU Digital Deluxe Edition|49,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1592|sludge-life|SLUDGE LIFE|14,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1593|smite--digital-deluxe-2022|SMITE Digital Deluxe 2022|47,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1594|smite--season-pass-2022|SMITE Season Pass 2022|31,99€|33|2022-12-15 16h|2023-01-17 14h|
-|1595|smite--ultimate-god-pack|SMITE Ultimate God Pack|23,99€|75|2022-12-15 16h|2023-01-17 14h|
-|1596|star-wars-jedi-fallen-order--deluxe-edition|STAR WARS Jedi: Fallen Order Deluxe Edition|49,99€|86|2022-12-15 16h|2023-01-05 16h|
-|1597|star-wars-jedi-fallen-order|STAR WARS Jedi: Fallen Order Standard Edition|39,99€|88|2022-12-15 16h|2023-01-05 16h|
-|1598|star-wars-battlefront-2|STAR WARS™ Battlefront™ II: Celebration Edition|39,99€|85|2022-12-15 16h|2023-01-05 16h|
-|1599|star-wars-battlefront|STAR WARS™ Battlefront™ Ultimate Edition|19,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1600|star-wars-squadrons|STAR WARS™: Squadrons|39,99€|85|2022-12-15 16h|2023-01-05 16h|
-|1601|stranger-of-paradise-final-fantasy-origin|STRANGER OF PARADISE FINAL FANTASY ORIGIN|59,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1602|stranger-of-paradise-final-fantasy-origin--digital-deluxe-edition|STRANGER OF PARADISE FINAL FANTASY ORIGIN Digital Deluxe Edition|89,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1603|heroes-and-generals-wwii--su-elite-fireteam|SU Elite Fireteam Bundle|79,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1604|heroes-and-generals-wwii--su-giga-pack|SU Giga Pack|199,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1605|heroes-and-generals-wwii--su-mega-pack|SU Mega Pack|149,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1606|heroes-and-generals-wwii--su-infantry-anti-tank|SU Soldier Pack: Infantry Anti-Tank|19,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1607|heroes-and-generals-wwii--su-infantry-assault|SU Soldier Pack: Infantry Assault|49,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1608|heroes-and-generals-wwii--su-infantry-medic|SU Soldier Pack: Infantry Medic|29,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1609|heroes-and-generals-wwii--su-starter-pack|SU Starter Pack|4,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1610|heroes-and-generals-wwii--su-super-pack|SU Super Pack|99,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1611|symmetry-44cf24|SYMMETRY|9,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1612|sable|Sable|24,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1613|sackboy-a-big-adventure|Sackboy™: A Big Adventure|59,99€|33|2022-12-15 16h|2023-01-05 16h|
-|1614|sailingera-450a80|Sailing Era|19,99€|10|2023-01-12 05h|2023-01-19 05h|
-|1615|saints-row|Saints Row|59,99€|45|2022-12-15 16h|2023-01-05 16h|
-|1616|saints-row--gold-edition|Saints Row Gold Edition|89,99€|33|2022-12-15 16h|2023-01-05 16h|
-|1617|saints-row--platinum-edition|Saints Row Platinum Edition|99,99€|33|2022-12-15 16h|2023-01-05 16h|
-|1618|saints-row-the-third-remastered|Saints Row®: The Third™ Remastered|39,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1619|sherlock-holmes-chapter-one--saints-and-sinners|Saints and Sinners|4,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1620|sands-of-aura|Sands of Aura|21,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1621|satisfactory|Satisfactory|29,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1622|saturnalia|Saturnalia|19,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1623|saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited|Saviors of Sapphire Wings & Strangers of Sword City Revisited|39,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1624|saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited/limited-edition|Saviors of Sapphire Wings & Strangers of Sword City Revisited Digital Limited Edition|47,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1625|scarf-dd1030|Scarf|14,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1626|scarlet-hood-and-the-wicked-wood|Scarlet Hood and the Wicked Wood|14,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1627|schein-77f039|Schein|3,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1628|scorn|Scorn|39,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1629|scott-pilgrim-vs-the-world-the-game|Scott Pilgrim vs. The World: The Game – Complete Edition|14,99€|67|2022-12-15 16h|2023-01-05 16h|
-|1630|scourgebringer|Scourgebringer|16,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1631|scourgebringer--soundtrack|Scourgebringer OST|6,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1632|scrapnaut|Scrapnaut|10,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1633|screamer-460080|Screamer|7,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1634|screamer-2-ae0386|Screamer 2|7,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1635|snowrunner--season-5-build-and-dispatch|Season 5: Build & Dispatch|6,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1636|anno-1800--seat-of-power|Seat of Power - DLC|9,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1637|second-extinction|Second Extinction™|24,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1638|secret-government|Secret Government|24,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1639|sense-cyberpunk-ghost-story-8547ca|Sense - A Cyberpunk Ghost Story|15,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1640|sephonie-6ab6f7|Sephonie|23,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1641|session-skate-sim|Session: Skate Sim|39,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1642|session-skate-sim--brandalised-pack|Session: Skate Sim - Brandalised Pack|4,99€|15|2022-12-15 16h|2023-01-05 16h|
-|1643|session-skate-sim--supporter-edition|Session: Skate Sim - Supporter Edition|49,78€|30|2022-12-15 16h|2023-01-05 16h|
-|1644|session-skate-sim--supporter-pack|Session: Skate Sim - Supporter Pack|14,99€|15|2022-12-15 16h|2023-01-05 16h|
-|1645|seven-enhanced-edition-9ba7c7|Seven - Enhanced Edition|27,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1646|severed-steel|Severed Steel|24,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1647|severed-steel--digital-deluxe-edition|Severed Steel Digital Deluxe Edition|33,23€|50|2022-12-15 16h|2023-01-05 16h|
-|1648|shadow-tactics-aikos-choice-5678c1|Shadow Tactics - Aiko's Choice|19,98€|60|2022-12-15 16h|2023-01-05 16h|
-|1649|shadow-of-the-tomb-raider|Shadow of the Tomb Raider: Definitive Edition|39,99€|70|2022-12-15 16h|2023-01-05 16h|
-|1650|idle-champions-of-the-forgotten-realms--shadowfell-desmond-theme-pack|Shadowfell Desmond Theme Pack|19,99€|50|2023-01-20 20h|2023-01-27 20h|
-|1651|idle-champions-of-the-forgotten-realms--shadowfell-farideh-skin-feat-pack|Shadowfell Farideh Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
-|1652|idle-champions-of-the-forgotten-realms--shadowfell-havilar-skin-feat-pack|Shadowfell Havilar Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
-|1653|idle-champions-of-the-forgotten-realms--shadowfell-mehen-skin-feat-pack|Shadowfell Mehen Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
-|1654|idle-champions-of-the-forgotten-realms--shadowfell-tatyana-theme-pack|Shadowfell Tatyana Theme Pack|19,99€|50|2023-01-13 20h|2023-01-20 20h|
-|1655|shadowhand|Shadowhand|11,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1656|shadowrun-hong-kong|Shadowrun Hong Kong - Extended Edition|19,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1657|shadowrun-hong-kong--extended-edition-deluxe|Shadowrun Hong Kong - Extended Edition Deluxe|29,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1658|shadowrun-returns|Shadowrun Returns|14,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1659|shadowrun-returns--deluxe-edition|Shadowrun Returns Deluxe Edition|24,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1660|shadowrun-dragonfall|Shadowrun: Dragonfall - Director’s Cut|14,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1661|shady-part-of-me|Shady Part of Me|14,99€|67|2022-12-15 16h|2023-01-05 16h|
-|1662|shakedown-hawaii|Shakedown - Hawaii|19,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1663|shakedown-hawaii|Shakedown Hawaii|19,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1664|shattered-steel-b4dd87|Shattered Steel|7,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1665|sheepo-62cd3e|Sheepo|7,99€|35|2022-12-15 16h|2023-01-05 16h|
-|1666|sheltered|Sheltered|14,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1667|shenmue-3--season-pass|Shenmue 3 Season Pass|11,99€|65|2022-12-15 16h|2023-01-05 16h|
-|1668|shenmue-3|Shenmue III|29,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1669|shenmue-3--battle-rally|Shenmue III - Battle Rally|5,99€|70|2022-12-15 16h|2023-01-05 16h|
-|1670|shenmue-3--big-merry-cruise|Shenmue III - Big Merry Cruise|2,99€|67|2022-12-15 16h|2023-01-05 16h|
-|1671|shenmue-3--deluxe-edition|Shenmue III - Deluxe Edition|39,99€|77|2022-12-15 16h|2023-01-05 16h|
-|1672|shenmue-3|Shenmue III - Standard Edition|29,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1673|shenmue-3--story-quest-pack|Shenmue III - Story Quest Pack|3,99€|65|2022-12-15 16h|2023-01-05 16h|
-|1674|sherlock-holmes-chapter-one|Sherlock Holmes Chapter One|44,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1675|sherlock-holmes-chapter-one--season-pass|Sherlock Holmes Chapter One - Season Pass|24,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1676|sherlock-holmes-chapter-one--deluxe-edition|Sherlock Holmes Chapter One Deluxe Edition|59,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1677|sherlock-holmes-chapter-one--ost-and-artbook|Sherlock Holmes Chapter One OST and Artbook|10,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1678|sherlock-holmes-crimes-and-punishments|Sherlock Holmes Crimes and Punishments|29,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1679|sherlock-holmes-crimes-and-punishments|Sherlock Holmes: Crimes and Punishments|29,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1680|sherlock-holmes-the-devils-daughter|Sherlock Holmes: The Devil's Daughter|29,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1681|sid-meiers-civilization-vi|Sid Meier’s Civilization® VI|59,99€|90|2022-12-15 16h|2023-01-05 16h|
-|1682|sid-meiers-civilization-vi--anthology-edition|Sid Meier’s Civilization® VI Anthology|99,99€|70|2022-12-15 16h|2023-01-05 16h|
-|1683|sid-meiers-civilization-vi--anthology-upgrade|Sid Meier’s Civilization® VI Anthology Upgrade|49,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1684|sid-meiers-civilization-vi--platinum-edition|Sid Meier’s Civilization® VI Platinum Edition|79,99€|81|2022-12-15 16h|2023-01-05 16h|
-|1685|siege-survival-gloria-victis|Siege Survival - Gloria Victis|24,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1686|sifu|Sifu|39,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1687|sine-mora-ex-d4fd23|Sine Mora Ex|9,99€|90|2022-12-15 16h|2023-01-05 16h|
-|1688|skul-the-hero-slayer|Skul: The Hero Slayer|15,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1689|skydrift-infinity-c4ca37|SkyDrift Infinity|9,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1690| skabma-snowfall|Skábma - Snowfall|19,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1691|slain-aea303|Slain: Back From Hell|9,99€|85|2022-12-15 16h|2023-01-05 16h|
-|1692|slaycation-paradise-47a603|Slaycation Paradise|11,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1693|slime-rancher|Slime Rancher|19,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1694|slime-rancher-2|Slime Rancher 2|23,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1695|slime-rancher--secret-style-pack|Slime Rancher: Secret Style Pack|6,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1696|sludge-life|Sludge Life|14,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1697|sludge-life--ost|Sludge Life OST|6,00€|50|2022-12-15 16h|2023-01-05 16h|
-|1698|snowrunner|SnowRunner|29,99€|45|2022-12-15 16h|2023-01-05 16h|
-|1699|snowrunner--premium-edition|SnowRunner - 1-Year Anniversary Edition|39,99€|45|2022-12-15 16h|2023-01-05 16h|
-|1700|snowrunner--clasico-pack|SnowRunner - Clasico Pack|3,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1701|snowrunner--crocodile-pack|SnowRunner - Crocodile Pack|3,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1702|snowrunner--high-roller-pack|SnowRunner - High Roller Pack|0,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1703|snowrunner--jeep-dual-pack|SnowRunner - Jeep Dual Pack|5,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1704|snowrunner--land-rover-dual-pack|SnowRunner - Land Rover Dual Pack|5,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1705|snowrunner--loaded-dice-vinyl-wrap|SnowRunner - Loaded Dice Vinyl Wrap|0,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1706|snowrunner--rezvani-hercules|SnowRunner - Rezvani Hercules|3,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1707|snowrunner--scorched-vinyl-wrap|SnowRunner - Scorched Vinyl Wrap|0,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1708|snowrunner--season-1-search-and-recover|SnowRunner - Season 1: Search & Recover|6,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1709|snowrunner--season-2-explore-and-expand|SnowRunner - Season 2: Explore & Expand|6,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1710|snowrunner--season-6-haul-and-hustle|SnowRunner - Season 6: Haul & Hustle|6,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1711|snowrunner--season-7-compete-conquer|SnowRunner - Season 7: Compete & Conquer|6,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1712|snowrunner--season-8-grand-harvest|SnowRunner - Season 8: Grand Harvest|11,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1713|snowrunner--tatra-dual-pack|SnowRunner - TATRA Dual Pack|5,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1714|snowrunner--true-colors-vinyl-wrap|SnowRunner - True Colors Vinyl Wrap|0,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1715|snowrunner--western-star-49x|SnowRunner - Western Star 49X|3,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1716|snowrunner--western-star-wolf-pack|SnowRunner - Western Star Wolf Pack|5,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1717|snowrunner--burning-bright-vinyl-wrap|Snowrunner - Burning Bright Vinyl Wrap Pack|2,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1718|snowrunner--gmc-brigadier|Snowrunner - GMC Brigadier|3,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1719|snowrunner--season-3-locate-and-deliver|Snowrunner - Season 3: Locate & Deliver|6,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1720|snowrunner--season-4-new-frontiers|Snowrunner - Season 4: New Frontiers|11,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1721|snowrunner--year-2-pass|Snowrunner - Year 2 Pass|24,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1722|sockventure|Sockventure|14,49€|75|2022-12-15 16h|2023-01-05 16h|
-|1723|sokobond|Sokobond|7,99€|70|2022-12-15 16h|2023-01-05 16h|
-|1724|solar-ash|Solar Ash|33,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1725|gloomhaven-solo-scenarios-pack-mercenary-challenges-c701f3|Solo Scenarios: Mercenary Challenges|4,99€|10|2022-12-15 16h|2023-01-05 16h|
-|1726|song-of-farca-1eb3f2|Song of Farca|15,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1727|sonic-colors-ultimate|Sonic Colors: Ultimate|39,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1728|sonic-colors-ultimate--digital-deluxe-edition|Sonic Colors: Ultimate - Digital Deluxe|44,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1729|sonic-colors-ultimate--music-pack|Sonic Colors: Ultimate - Music Pack|4,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1730|sonic-colors-ultimate--ultimate-cosmetic-pack|Sonic Colors: Ultimate - Ultimate Cosmetic Pack|3,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1731|sonic-mania|Sonic Mania|19,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1732|sonic-mania--encore-dlc|Sonic Mania - Encore DLC|4,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1733|sonic-origins|Sonic Origins|39,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1734|sonic-origins--digital-deluxe-edition|Sonic Origins Digital Deluxe Edition|44,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1735|sonic-origins--classic-music-pack|Sonic Origins: Classic Music Pack|3,99€|45|2022-12-15 16h|2023-01-05 16h|
-|1736|sonic-origins--premium-fun-pack|Sonic Origins: Premium Fun Pack|3,99€|45|2022-12-15 16h|2023-01-05 16h|
-|1737|souldiers-3f612b|Souldiers|19,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1738|soulless-ray-of-hope-e37a13|Soulless - Ray Of Hope|3,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1739|idle-champions-of-the-forgotten-realms--bardic-inspiration-vol1|Soundtrack - Bardic Inspiration Vol. 1|7,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1740|idle-champions-of-the-forgotten-realms--bardic-inspiration-vol-2|Soundtrack - Bardic Inspiration Volume 2|7,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1741|galactic-civilizations-iii--soundtrack|Soundtrack - Galactic Civilizations III|8,19€|75|2022-12-15 16h|2023-01-05 16h|
-|1742|as-far-as-the-eye--soundtrack-bundle|Soundtrack Bundle|26,26€|69|2022-12-15 16h|2023-01-05 16h|
-|1743|source-of-madness-287857|Source of Madness|19,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1744|south-park-the-fractured-but-whole|South Park: The Fractured But Whole|59,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1745|south-park-the-fractured-but-whole--season-pass|South Park: The Fractured But Whole - Season Pass|29,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1746|south-park-the-stick-of-truth|South Park: The Stick of Truth|29,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1747|south-park-the-fractured-but-whole--gold-edition|South Park™: The Fractured But Whole™ Gold Edition|89,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1748|south-park-the-fractured-but-whole|South Park™: The Fractured But Whole™ Standard Edition|59,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1749|south-park-the-stick-of-truth|South Park™: The Stick of Truth™|29,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1750|space-hack-02fd17|Space Hack|3,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1751|space-rangers-hd-a-war-apart-455702|Space Rangers HD A War Apart|14,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1752|space-trader-merchant-marine-0426a8|Space Trader - Merchant Marine|3,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1753|spacebase-startopia|Spacebase Startopia - Standard Edition|39,99€|65|2022-12-15 16h|2023-01-05 16h|
-|1754|spellforce-3--digital-extras|SpellForce 3 Digital Extras|7,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1755|spellforce-3|SpellForce 3 Reforced|39,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1756|spellforce-3-fallen-god|SpellForce 3: Fallen God|19,99€|67|2022-12-15 16h|2023-01-05 16h|
-|1757|spellforce-3-fallen-god--digital-extras|SpellForce 3: Fallen God Digital Extras|2,99€|67|2022-12-15 16h|2023-01-05 16h|
-|1758|spellforce-3-fallen-god--soundtrack|SpellForce 3: Fallen God Soundtrack|4,99€|67|2022-12-15 16h|2023-01-05 16h|
-|1759|spellforce-3-soul-harvest|SpellForce 3: Soul Harvest|19,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1760|spellforce-3-soul-harvest--digital-extras|SpellForce 3: Soul Harvest Digital Extras|4,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1761|spellforce-3-versus--full-pvp-upgrade|SpellForce 3: Versus Edition - Full PvP Upgrade|14,99€|67|2022-12-15 16h|2023-01-05 16h|
-|1762|spelldrifter|Spelldrifter|15,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1763|idle-champions-of-the-forgotten-realms--spelljammer-kent-theme-pack|Spelljammer Kent Theme Pack|19,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1764|idle-champions-of-the-forgotten-realms--spelljammer-strix-theme-pack|Spelljammer Strix Theme Pack|19,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1765|spiderheck-0fb81d|SpiderHeck|14,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1766|spinch-239b03|Spinch|11,99€|45|2022-12-15 16h|2023-01-05 16h|
-|1767|spirit-of-the-island|Spirit of the Island|24,99€|38|2022-12-15 16h|2023-01-05 16h|
-|1768|spirit-of-the-north-f58a66|Spirit of the North|15,99€|66|2022-12-15 16h|2023-01-05 16h|
-|1769|spiritfarer|Spiritfarer®: Farewell Edition|24,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1770|tropico-6--spitter|Spitter|9,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1771|splinter-cell-chaos-theory|Splinter Cell Chaos Theory|9,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1772|spongebob-squarepants-battle-for-bikini-bottom-rehydrated|SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated|29,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1773|spring-sale-2020|Spring Sale 2020|15,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1774|idle-champions-of-the-forgotten-realms--squiddle-the-gnome-squidling-familiar-pack|Squiddle the Gnome Squidling Familiar Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
-|1775|star-renegades|Star Renegades|24,99€|66|2022-12-15 16h|2023-01-05 16h|
-|1776|star-vikings-forever-215b84|Star Vikings Forever|7,99€|85|2022-12-15 16h|2023-01-05 16h|
-|1777|star-wars-jedi-fallen-order|Star Wars Jedi: Fallen Order|39,99€|88|2022-12-15 16h|2023-01-05 16h|
-|1778|starsand|Starsand|16,79€|30|2022-12-15 16h|2023-01-05 16h|
-|1779|startup-panic|Startup Panic|11,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1780|idle-champions-of-the-forgotten-realms--steampunk-nordom-the-modron-theme-pack|Steampunk Nordom the Modron Theme Pack|19,99€|50|2023-01-27 20h|2023-02-03 20h|
-|1781|steel-rats-445306|Steel Rats|9,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1782|steelrising|Steelrising|49,99€|35|2022-12-15 16h|2023-01-05 16h|
-|1783|steelrising--bastille-edition|Steelrising - Bastille Edition|59,99€|35|2022-12-15 16h|2023-01-05 16h|
-|1784|steelrising--cagliostros-secrets|Steelrising - Cagliostro's Secrets|14,99€|10|2022-12-15 16h|2023-01-05 16h|
-|1785|steelrising--discus-chain|Steelrising - Discus Chain|2,99€|15|2022-12-15 16h|2023-01-05 16h|
-|1786|steelrising--marie-antoinette-pack|Steelrising - Marie-Antoinette Cosmetic Pack|3,99€|15|2022-12-15 16h|2023-01-05 16h|
-|1787|steep|Steep|29,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1788|steep--90s-dlc|Steep 90s DLC|4,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1789|steep--rocket-wings-dlc|Steep Rocket Wings - DLC|4,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1790|steep--season-pass|Steep Season Pass|19,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1791|steep|Steep Standard Edition|29,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1792|steep--x-games-dlc|Steep X DLC|9,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1793|steep--x-games-gold-edition|Steep X Games Gold Edition|39,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1794|steep--x-games-pass|Steep XGames Season Pass|14,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1795|stick-it-to-the-man|Stick It To The Man!|5,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1796|stonekeep-d87a3b|Stonekeep|7,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1797|this-war-of-mine--fathers-promise|Stories - Father's Promise (ep.1) DLC|1,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1798|this-war-of-mine--season-pass|Stories - Season Pass|6,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1799|this-war-of-mine--the-last-broadcast|Stories - The Last Broadcast (ep. 2) DLC|3,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1800|stories-untold|Stories Untold|9,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1801|strategic-mind-blitzkrieg-d7e9a6|Strategic Mind: Blitzkrieg|33,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1802|strategic-mind-fight-for-freedom-c1b241|Strategic Mind: Fight for Freedom|24,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1803|strategic-mind-spectre-of-communism-56ed91|Strategic Mind: Spectre of Communism|24,99€|35|2022-12-15 16h|2023-01-05 16h|
-|1804|strategic-mind-the-pacific-a0d2eb|Strategic Mind: The Pacific|23,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1805|stubbs-the-zombie-in-rebel-without-a-pulse|Stubbs the Zombie in Rebel Without a Pulse|15,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1806|stygian-reign-of-the-old-ones-56e1d7|Stygian: Reign of the Old Ones|19,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1807|subnautica|Subnautica|29,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1808|subnautica-below-zero|Subnautica Below Zero|29,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1809|suchart-genius-artist-simulator|SuchArt: Genius Artist Simulator|24,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1810|summum-aeterna-6e9374|Summum Aeterna|15,99€|10|2022-12-15 16h|2023-01-05 16h|
-|1811|sundered-eldritch-edition|Sundered Eldritch Edition|19,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1812|sundered-eldritch-edition|Sundered: Eldritch Edition|19,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1813|anno-1800--sunken-treasures|Sunken Treasures - DLC|11,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1814|super-meat-boy|Super Meat Boy|14,99€|87|2022-12-15 16h|2023-01-05 16h|
-|1815|super-meat-boy-forever|Super Meat Boy Forever|15,99€|86|2022-12-15 16h|2023-01-05 16h|
-|1816|superbrothers-sword-and-sworcery-ep|Superbrothers: Sword & Sworcery EP|6,99€|55|2022-12-15 16h|2023-01-05 16h|
-|1817|superliminal--double-album-soundtrack|Superliminal Double-Album Soundtrack|5,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1818|as-far-as-the-eye--supporter-bundle|Supporter Bundle|31,08€|68|2022-12-15 16h|2023-01-05 16h|
-|1819|scourgebringer--supporter-bundle|Supporter Bundle|21,82€|43|2022-12-15 16h|2023-01-05 16h|
-|1820|surviving-mars|Surviving Mars|29,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1821|surviving-mars--surviving-mars-colony-design-set|Surviving Mars - Colony Design Set|4,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1822|surviving-mars--surviving-mars-deluxe-upgrade-pack|Surviving Mars - Deluxe Upgrade Pack|10,00€|50|2022-12-15 16h|2023-01-05 16h|
-|1823|surviving-mars|Surviving Mars - Digital Deluxe Edition|39,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1824|surviving-mars--surviving-mars-green-planet|Surviving Mars - Green Planet|19,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1825|surviving-mars--surviving-mars-marsvision-song-contest|Surviving Mars - Marsvision Song Contest|3,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1826|surviving-mars--surviving-mars-project-laika|Surviving Mars - Project Laika|5,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1827|surviving-mars--surviving-mars-season-pass|Surviving Mars - Season Pass|34,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1828|surviving-mars--surviving-mars-space-race|Surviving Mars - Space Race|12,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1829|surviving-mars--starter-bundle|Surviving Mars - Starter Bundle|58,46€|59|2022-12-15 16h|2023-01-05 16h|
-|1830|surviving-mars--surviving-mars-stellaris-dome-set|Surviving Mars - Stellaris Dome Set|3,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1831|surviving-mars--below-and-beyond|Surviving Mars: Below & Beyond|19,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1832|surviving-mars--future-contemporary-cosmetic-pack|Surviving Mars: Future Contemporary Cosmetic Pack|4,99€|10|2022-12-15 16h|2023-01-05 16h|
-|1833|surviving-mars--surviving-mars-in-dome-buildings-pack|Surviving Mars: In-Dome Buildings Pack|4,99€|33|2022-12-15 16h|2023-01-05 16h|
-|1834|surviving-mars--mars-lifestyle-radio|Surviving Mars: Mars Lifestyle Radio|3,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1835|surviving-mars--martian-express|Surviving Mars: Martian Express|5,99€|10|2022-12-15 16h|2023-01-05 16h|
-|1836|surviving-mars--revelation-radio-pack|Surviving Mars: Revelation Radio Pack|3,99€|10|2022-12-15 16h|2023-01-05 16h|
-|1837|surviving-the-aftermath|Surviving the Aftermath|24,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1838|surviving-the-aftermath--new-alliances|Surviving the Aftermath: New Alliances|14,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1839|surviving-the-aftermath--ultimate-colony-edition|Surviving the Aftermath: Ultimate Colony Edition|54,99€|10|2022-12-15 16h|2023-01-05 16h|
-|1840|risk-of-rain-2--survivors-of-the-void|Survivors of the Void|11,99€|35|2022-12-15 16h|2023-01-05 16h|
-|1841|suzerain|Suzerain|12,49€|60|2022-12-15 16h|2023-01-05 16h|
-|1842|suzerain--original-soundtrack|Suzerain Original Soundtrack|9,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1843|suzerain--presidential-edition|Suzerain: Presidential Edition|19,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1844|syberia-the-world-before|Syberia: The World Before|39,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1845|symphony-of-war-60a76e|Symphony of War|19,99€|25|2022-12-15 16h|2023-01-05 16h|
-|1846|synergia|Synergia|9,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1847|bassmaster-fishing-2022-synthwave-pack-7b3d59|Synthwave Pack|4,99€|35|2022-12-15 16h|2023-01-05 16h|
-|1848|tohu|TOHU|12,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1849|tacoma|Tacoma|16,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1850|tails-of-iron-587abd|Tails of Iron|24,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1851|tales-from-the-borderlands|Tales from the Borderlands|19,99€|25|2022-12-15 16h|2023-01-05 16h|
-|1852|tandem-a-tale-of-shadows-c3f55e|Tandem: A Tale of Shadows|14,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1853|tannenberg|Tannenberg|19,99€|70|2022-12-15 16h|2023-01-05 16h|
-|1854|teacup|Teacup|7,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1855|terraforming-mars-18c3ad|Terraforming Mars|19,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1856|terraforming-mars-hellas-and-elysium-f5cf6b|Terraforming Mars - Hellas & Elysium|6,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1857|terraforming-mars-prelude-d4367f|Terraforming Mars - Prelude|6,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1858|terrain-of-magical-expertise|Terrain of Magical Expertise|24,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1859|terror-of-hemasaurus-a08800|Terror of Hemasaurus|9,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1860|tetris-effect|Tetris® Effect|31,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1861|tetris-effect|Tetris® Effect: Connected|31,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1862|world-of-warships--texas|Texas|17,93€|50|2022-12-15 16h|2023-01-05 16h|
-|1863|killing-floor-2--armory-season-pass|The 2021 Armory Season Pass|24,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1864|the-alien-cube-789431|The Alien Cube|19,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1865|the-alien-cube-the-alien-cube-behind-the-scenes-c91de0|The Alien Cube - Behind the scenes|1,99€|25|2022-12-15 16h|2023-01-05 16h|
-|1866|the-alien-cube-deluxe-edition|The Alien Cube - Deluxe Edition|20,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1867|kingdom-come-deliverance--the-amorous-adventures-of-bold-sir-hans-capon|The Amorous Adventures of Bold Sir Hans Capon|5,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1868|gamedec--the-art-of-gamedec|The Art of Gamedec|6,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1869|r-type-final-2--artbook|The Artwork of R-Type Final 2 - Art Book|2,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1870|the-big-con|The Big Con|12,49€|66|2022-12-15 16h|2023-01-05 16h|
-|1871|the-bridge|The Bridge|9,99€|86|2022-12-15 16h|2023-01-05 16h|
-|1872|the-bunker-03b712|The Bunker|9,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1873|the-captain|The Captain|15,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1874|genesis-noir--cosmic-collection|The Cosmic Collection|21,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1875|the-count-lucanor|The Count Lucanor|7,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1876|the-crew-2|The Crew 2|49,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1877|the-crew-2--season-pass|The Crew 2 Season Pass|39,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1878|the-crew-2--special-edition|The Crew 2 Special Edition|59,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1879|the-crew-2|The Crew 2 Standard Edition|49,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1880|assassins-creed-origins--the-curse-of-the-pharaohs|The Curse of the Pharaohs - DLC|19,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1881|the-darkest-tales-7d0dab|The Darkest Tales|15,99€|35|2022-12-22 18h|2023-01-05 18h|
-|1882|the-darkside-detective-02fd5a|The Darkside Detective|9,99€|70|2022-12-15 16h|2023-01-05 16h|
-|1883|the-darkside-detective-a-fumble-in-the-dark-174fcf|The Darkside Detective A Fumble in the Dark|9,99€|35|2022-12-15 16h|2023-01-05 16h|
-|1884|the-division-2|The Division 2|29,99€|70|2022-12-15 16h|2023-01-05 16h|
-|1885|the-division-2|The Division 2 Standard Edition|29,99€|70|2022-12-15 16h|2023-01-05 16h|
-|1886|the-division-2--warlords-of-new-york-edition|The Division 2 Warlords of New York Edition|59,99€|70|2022-12-15 16h|2023-01-05 16h|
-|1887|the-division-2--warlords-of-new-york-ultimate-edition|The Division 2 Warlords of New York Ultimate Edition|79,99€|70|2022-12-15 16h|2023-01-05 16h|
-|1888|the-dungeon-of-naheulbeuk--ultimate-edition|The Dungeon Of Naheulbeuk - Ultimate Edition|59,97€|26|2022-12-15 16h|2023-01-05 16h|
-|1889|the-dungeon-of-naheulbeuk|The Dungeon of Naheulbeuk|34,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1890|the-dungeon-of-naheulbeuk--deluxe-edition|The Dungeon of Naheulbeuk- Deluxe Edition|42,47€|42|2022-12-15 16h|2023-01-05 16h|
-|1891|the-escapists|The Escapists|14,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1892|the-escapists-2|The Escapists 2|19,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1893|the-eternal-cylinder|The Eternal Cylinder|23,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1894|the-fabled-woods|The Fabled Woods|9,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1895|the-falconeer--the-hunter|The Falconeer - The Hunter|1,99€|55|2022-12-15 16h|2023-01-05 16h|
-|1896|the-falconeer|The Falconeer: Standard Edition|19,99€|55|2022-12-15 16h|2023-01-05 16h|
-|1897|assassins-creed-odyssey--dlc-2|The Fate of Atlantis - DLC|24,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1898|the-forgotten-city|The Forgotten City|24,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1899|the-forgotten-city|The Forgotten City - Digital Collector's Edition|31,48€|31|2022-12-15 16h|2023-01-05 16h|
-|1900|control--the-foundation|The Foundation DLC|9,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1901|the-surge--good-bad-augmented-expansion|The Good, The Bad and The Augmented Expansion|4,99€|33|2022-12-15 16h|2023-01-05 16h|
-|1902|the-hand-of-merlin|The Hand of Merlin|21,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1903|the-hand-of-merlin--deluxe-edition|The Hand of Merlin Deluxe Edition|27,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1904|the-hand-of-merlin--hand-of-merlin-soundtrack|The Hand of Merlin Soundtrack|6,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1905|assassins-creed-origins--the-hidden-ones|The Hidden Ones - DLC|9,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1906|ancestors--soundtrack-bundle|The Humankind Odyssey Official Soundtrack Bundle|46,49€|60|2022-12-15 16h|2023-01-05 16h|
-|1907|jackbox-party-pack-1|The Jackbox Party Pack|22,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1908|jackbox-party-pack-2|The Jackbox Party Pack 2|22,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1909|jackbox-party-pack-3|The Jackbox Party Pack 3|22,99€|35|2022-12-15 16h|2023-01-05 16h|
-|1910|jackbox-party-pack-4|The Jackbox Party Pack 4|22,99€|45|2022-12-15 16h|2023-01-05 16h|
-|1911|jackbox-party-pack-5|The Jackbox Party Pack 5|24,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1912|jackbox-party-pack-6|The Jackbox Party Pack 6|24,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1913|jackbox-party-pack-7|The Jackbox Party Pack 7|23,99€|35|2022-12-15 16h|2023-01-05 16h|
-|1914|jackbox-party-pack-8|The Jackbox Party Pack 8|23,99€|35|2022-12-15 16h|2023-01-05 16h|
-|1915|the-last-campfire|The Last Campfire|14,99€|70|2022-12-15 16h|2023-01-05 16h|
-|1916|the-legend-of-heroes-trails-of-cold-steel-iii|The Legend of Heroes: Trails of Cold Steel III|59,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1917|the-legend-of-heroes-trails-of-cold-steel-iv|The Legend of Heroes: Trails of Cold Steel IV|59,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1918|the-legend-of-heroes-trails-of-cold-steel-iv--digital-deluxe-edition|The Legend of Heroes: Trails of Cold Steel IV Digital Deluxe Edition|79,97€|40|2022-12-15 16h|2023-01-05 16h|
-|1919|the-legend-of-tianding|The Legend of Tianding|19,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1920|the-life-and-suffering-of-sir-brante|The Life and Suffering of Sir Brante|19,99€|50|2022-12-22 18h|2023-01-05 18h|
-|1921|the-life-and-suffering-of-sir-brante--artbook-and-ost|The Life and Suffering of Sir Brante Artbook + OST|3,99€|50|2022-12-22 18h|2023-01-05 18h|
-|1922|this-war-of-mine--the-little-ones|The Little Ones DLC|4,99€|70|2022-12-15 16h|2023-01-05 16h|
-|1923|tropico-6--llama-of-wall-street|The Llama of Wall Street|9,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1924|the-longest-road-on-earth|The Longest Road on Earth|9,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1925|the-medium|The Medium|47,99€|44|2022-12-15 16h|2023-01-05 16h|
-|1926|the-messenger|The Messenger|16,79€|60|2022-12-15 16h|2023-01-05 16h|
-|1927|the-metronomicon-766679|The Metronomicon|15,99€|85|2022-12-15 16h|2023-01-05 16h|
-|1928|the-outer-worlds|The Outer Worlds|59,99€|67|2022-12-15 16h|2023-01-05 16h|
-|1929|the-outer-worlds--expansion-pass|The Outer Worlds Expansion Pass|24,99€|25|2022-12-15 16h|2023-01-05 16h|
-|1930|the-outer-worlds--peril-on-gorgon|The Outer Worlds Peril on Gorgon|14,99€|35|2022-12-15 16h|2023-01-05 16h|
-|1931|the-outer-worlds--murder-on-eridanos|The Outer Worlds: Murder on Eridanos|14,99€|35|2022-12-15 16h|2023-01-05 16h|
-|1932|the-outer-worlds--non-mandatory-corporate-sponsored-bundle|The Outer Worlds: Non-Mandatory Corporate-Sponsored Bundle|84,99€|55|2022-12-15 16h|2023-01-05 16h|
-|1933|anno-1800--the-passage|The Passage - DLC|14,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1934|the-pathless|The Pathless|32,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1935|the-signifier-directors-cut|The Signifier: Director's Cut|21,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1936|outward--the-soroboreans|The Soroboreans|14,99€|74|2022-12-15 16h|2023-01-05 16h|
-|1937|the-spectrum-retreat|The Spectrum Retreat|12,99€|70|2022-12-15 16h|2023-01-05 16h|
-|1938|the-suicide-of-rachel-foster-1dc01b|The Suicide of Rachel Foster|16,99€|85|2022-12-15 16h|2023-01-05 16h|
-|1939|the-surge--walk-in-the-park|The Surge - A Walk in the Park|4,99€|33|2022-12-15 16h|2023-01-05 16h|
-|1940|the-surge--augmented-edition|The Surge - Augmented Edition|24,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1941|the-talos-principle|The Talos Principle|39,99€|85|2022-12-15 16h|2023-01-05 16h|
-|1942|the-telltale-batman|The Telltale Batman Shadows Edition|24,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1943|the-tenants|The Tenants|19,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1944|the-textorcist|The Textorcist: The Story of Ray Bibbia|14,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1945|the-town-of-light|The Town of Light|18,99€|85|2022-12-15 16h|2023-01-05 16h|
-|1946|pathfinder-wrath-of-the-righteous--the-treasure-of-the-midnight-isles|The Treasure of the Midnight Isles|12,99€|30|2022-12-15 16h|2023-01-05 16h|
-|1947|the-uncertain-last-quiet-day|The Uncertain: Last Quiet Day|7,99€|85|2022-12-15 16h|2023-01-05 16h|
-|1948|the-uncertain-light-at-the-end|The Uncertain: Light at the End|7,99€|85|2022-12-15 16h|2023-01-05 16h|
-|1949|the-unfinished-swan|The Unfinished Swan|12,49€|70|2022-12-15 16h|2023-01-05 16h|
-|1950|walking-dead-final-season|The Walking Dead: Final Season|19,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1951|walking-dead-season-one|The Walking Dead: Season One|14,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1952|walking-dead-final-season|The Walking Dead: The Final Season|19,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1953|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
-|1954|they-are-coming-a17087|They Are Coming|9,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1955|this-is-the-police|This Is The Police|14,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1956|this-is-the-police-2|This Is The Police 2|14,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1957|this-is-the-police-2--official-soundtrack|This Is the Police 2 - Soundtrack|7,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1958|this-is-the-president|This Is the President|14,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1959|this-war-of-mine|This War of Mine|18,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1960|those-who-remain|Those Who Remain|19,99€|65|2022-12-15 16h|2023-01-05 16h|
-|1961|through-the-darkest-of-times|Through the Darkest of Times|14,99€|67|2022-12-15 16h|2023-01-05 16h|
-|1962|through-the-woods-4dad49|Through the Woods|19,98€|80|2022-12-15 16h|2023-01-05 16h|
-|1963|bassmaster-fishing-2022-throwback-bass-pack-58fec2|Throwback B.A.S.S.® Pack|4,99€|35|2022-12-15 16h|2023-01-05 16h|
-|1964|ticket-to-ride|Ticket to Ride|9,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1965|timberborn|Timberborn|19,99€|20|2022-12-15 16h|2023-01-05 16h|
-|1966|time-loader|Time Loader|12,49€|65|2022-12-15 16h|2023-01-05 16h|
-|1967|tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure|Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure|9,99€|50|2022-12-15 16h|2023-01-05 16h|
-|1968|titan-quest|Titan Quest Anniversary Edition|19,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1969|titan-quest--atlantis|Titan Quest: Atlantis|14,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1970|titan-quest--eternal-embers|Titan Quest: Eternal Embers|19,99€|40|2022-12-15 16h|2023-01-05 16h|
-|1971|titan-quest--ragnarok|Titan Quest: Ragnarök|19,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1972|to-the-rescue-a6c254|To The Rescue|15,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1973|ghost-recon-breakpoint|Tom Clancy's Ghost Recon Breakpoint|59,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1974|ghost-recon-wildlands|Tom Clancy's Ghost Recon Wildlands|49,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1975|ghost-recon-wildlands--gold-edition|Tom Clancy's Ghost Recon Wildlands Gold Edition|69,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1976|ghost-recon-wildlands|Tom Clancy's Ghost Recon Wildlands Standard Edition|49,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1977|ghost-recon-wildlands--ultimate-edition|Tom Clancy's Ghost Recon Wildlands Ultimate Edition|99,99€|80|2022-12-15 16h|2023-01-05 16h|
-|1978|rainbow-six-extraction|Tom Clancy's Rainbow Six Extraction|39,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1979|rainbow-six-extraction--deluxe-edition|Tom Clancy's Rainbow Six Extraction Deluxe Edition|49,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1980|rainbow-six-quarantine|Tom Clancy's Rainbow Six Quarantine|39,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1981|rainbow-six-siege|Tom Clancy's Rainbow Six® Siege|19,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1982|rainbow-six-united-bundle|Tom Clancy's Rainbow Six® Siege & Tom Clancy's Rainbow Six® Extraction Deluxe United Bundle|59,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1983|rainbow-six-siege--deluxe-year-7-edition|Tom Clancy's Rainbow Six® Siege Deluxe Edition|29,99€|67|2022-12-15 16h|2023-01-05 16h|
-|1984|rainbow-six-siege--operator-year-7-edition|Tom Clancy's Rainbow Six® Siege Operator Edition|69,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1985|rainbow-six-siege--ultimate-year-7-edition|Tom Clancy's Rainbow Six® Siege Ultimate Edition|89,99€|55|2022-12-15 16h|2023-01-05 16h|
-|1986|splinter-cell|Tom Clancy's Splinter Cell|4,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1987|the-division|Tom Clancy's The Division|29,99€|67|2022-12-15 16h|2023-01-05 16h|
-|1988|the-division-2--warlords-of-new-york-expansion|Tom Clancy's The Division 2 Warlords Of New York Expansion|29,99€|70|2022-12-15 16h|2023-01-05 16h|
-|1989|the-division--gold-edition|Tom Clancy's The Division Gold Edition|49,99€|67|2022-12-15 16h|2023-01-05 16h|
-|1990|the-division--season-pass|Tom Clancy's The Division Season Pass|19,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1991|ghost-recon-wildlands--fallen-ghosts-dlc|Tom Clancy’s Ghost Recon® Wildlands - Fallen Ghosts|14,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1992|ghost-recon-wildlands--year-1-pass|Tom Clancy’s Ghost Recon® Wildlands Season Pass Year 1|39,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1993|ghost-recon-wildlands--year-2-pass|Tom Clancy’s Ghost Recon® Wildlands Year 2 Pass|29,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1994|splinter-cell-double-agent|Tom Clancy’s Splinter Cell Double Agent|4,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1995|tomb-raider|Tomb Raider GAME OF THE YEAR EDITION|19,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1996|tony-hawks-pro-skater-1-and-2|Tony Hawk's™ Pro Skater™ 1 + 2|44,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1997|tony-hawks-pro-skater-1-and-2--deluxe-edition|Tony Hawk's™ Pro Skater™ 1 + 2 - Deluxe Edition|54,99€|60|2022-12-15 16h|2023-01-05 16h|
-|1998|torchlight|Torchlight|11,99€|75|2022-12-15 16h|2023-01-05 16h|
-|1999|torchlight-2|Torchlight II|18,99€|75|2022-12-15 16h|2023-01-05 16h|
-|2000|a-total-war-saga-troy--amazons|Total War Saga: TROY - AMAZONS|9,99€|25|2022-12-15 16h|2023-01-05 16h|
-|2001|totally-reliable-delivery-service|Totally Reliable Delivery Service|14,99€|75|2022-12-15 16h|2023-01-05 16h|
-|2002|totally-reliable-delivery-service|Totally Reliable Delivery Service Standard Edition|14,99€|75|2022-12-15 16h|2023-01-05 16h|
-|2003|tower-of-guns|Tower of Guns|13,99€|80|2022-12-15 16h|2023-01-05 16h|
-|2004|towerfall-ascension|TowerFall Ascension|15,99€|80|2022-12-15 16h|2023-01-05 16h|
-|2005|townscaper|Townscaper|5,99€|40|2022-12-15 16h|2023-01-05 16h|
-|2006|townsmen-a-kingdom-rebuilt-07c09d|Townsmen - A Kingdom Rebuilt|19,98€|80|2022-12-15 16h|2023-01-05 16h|
-|2007|trackmania-turbo|Trackmania Turbo|39,99€|50|2022-12-15 16h|2023-01-05 16h|
-|2008|the-legend-of-heroes-trails-of-cold-steel-iv--attachment-set|Trails of Cold Steel IV - Attachment Set|9,99€|40|2022-12-15 16h|2023-01-05 16h|
-|2009|the-legend-of-heroes-trails-of-cold-steel-iv--consumable-starter-set|Trails of Cold Steel IV - Consumable Starter Set|23,65€|40|2022-12-15 16h|2023-01-05 16h|
-|2010|the-legend-of-heroes-trails-of-cold-steel-iv--consumable-value-set|Trails of Cold Steel IV - Consumable Value Set|39,50€|40|2022-12-15 16h|2023-01-05 16h|
-|2011|the-legend-of-heroes-trails-of-cold-steel-iv--hair-extension-set|Trails of Cold Steel IV - Hair Extension Set|3,99€|40|2022-12-15 16h|2023-01-05 16h|
-|2012|the-legend-of-heroes-trails-of-cold-steel-iv--headwear-set|Trails of Cold Steel IV - Headwear Set|4,99€|40|2022-12-15 16h|2023-01-05 16h|
-|2013|the-legend-of-heroes-trails-of-cold-steel-iv--magical-girl-bundle|Trails of Cold Steel IV - Magical Girl Bundle|14,99€|40|2022-12-15 16h|2023-01-05 16h|
-|2014|the-legend-of-heroes-trails-of-cold-steel-iv--premium-cosmetic-set|Trails of Cold Steel IV - Premium Cosmetic Set|22,46€|40|2022-12-15 16h|2023-01-05 16h|
-|2015|the-legend-of-heroes-trails-of-cold-steel-iv--ride-along-set|Trails of Cold Steel IV - Ride-Along Set|3,99€|40|2022-12-15 16h|2023-01-05 16h|
-|2016|the-legend-of-heroes-trails-of-cold-steel-iv--self-assertion-vol2|Trails of Cold Steel IV - Self-Assertion Panels 2|1,99€|40|2022-12-15 16h|2023-01-05 16h|
-|2017|the-legend-of-heroes-trails-of-cold-steel-iv--standard-cosmetic-set|Trails of Cold Steel IV - Standard Cosmetic Set|31,98€|40|2022-12-15 16h|2023-01-05 16h|
-|2018|the-legend-of-heroes-trails-of-cold-steel-iv--standard-costume-bundle|Trails of Cold Steel IV - Standard Costume Bundle|9,99€|40|2022-12-15 16h|2023-01-05 16h|
-|2019|the-legend-of-heroes-trails-of-cold-steel-iv--swimsuit-bundle|Trails of Cold Steel IV - Swimsuit Bundle|14,99€|40|2022-12-15 16h|2023-01-05 16h|
-|2020|transport-fever-2|Transport Fever 2|39,99€|50|2022-12-15 16h|2023-01-05 16h|
-|2021|kingdom-come-deliverance--treasure-of-the-past|Treasures of The Past|3,99€|80|2022-12-15 16h|2023-01-05 16h|
-|2022|trials-evolution|Trials Evolution: Gold Edition|19,99€|75|2022-12-15 16h|2023-01-05 16h|
-|2023|trials-fusion--season-pass|Trials Fusion Season Pass|19,99€|70|2022-12-15 16h|2023-01-05 16h|
-|2024|trials-fusion|Trials Fusion: Standard Edition|19,99€|75|2022-12-15 16h|2023-01-05 16h|
-|2025|trials-fusion--the-awesome-max-edition|Trials Fusion: The Awesome Max Edition|39,99€|75|2022-12-15 16h|2023-01-05 16h|
-|2026|trials-rising|Trials Rising|19,99€|80|2022-12-15 16h|2023-01-05 16h|
-|2027|trials-rising--expansion-pass|Trials Rising - Expansion Pass|14,99€|60|2022-12-15 16h|2023-01-05 16h|
-|2028|trials-rising--crash-n-sunburn|Trials Rising Crash n Sunburn DLC|11,99€|60|2022-12-15 16h|2023-01-05 16h|
-|2029|trials-rising--gold-edition|Trials Rising Gold Edition|29,99€|80|2022-12-15 16h|2023-01-05 16h|
-|2030|trials-rising--sixty-six|Trials Rising Sixty-Six DLC|5,99€|60|2022-12-15 16h|2023-01-05 16h|
-|2031|trials-rising|Trials Rising Standard Edition|19,99€|80|2022-12-15 16h|2023-01-05 16h|
-|2032|tribes-of-midgard|Tribes of Midgard|19,99€|40|2022-12-15 16h|2023-01-05 16h|
-|2033|tribes-of-midgard--deluxe-edition|Tribes of Midgard Deluxe Edition|29,99€|40|2022-12-15 16h|2023-01-05 16h|
-|2034|tropico-5|Tropico 5|19,99€|50|2022-12-15 16h|2023-01-05 16h|
-|2035|tropico-5--dlc-bundle|Tropico 5 - DLC Bundle|19,99€|55|2022-12-15 16h|2023-01-05 16h|
-|2036|tropico-5--espionage|Tropico 5 - Espionage|7,99€|50|2022-12-15 16h|2023-01-05 16h|
-|2037|tropico-5--generalissimo|Tropico 5 - Generalissimo|3,99€|50|2022-12-15 16h|2023-01-05 16h|
-|2038|tropico-5--gone-green|Tropico 5 - Gone Green|3,99€|50|2022-12-15 16h|2023-01-05 16h|
-|2039|tropico-5--inquisition|Tropico 5 - Inquisition|3,99€|50|2022-12-15 16h|2023-01-05 16h|
-|2040|tropico-5--joint-venture|Tropico 5 - Joint Venture|3,99€|50|2022-12-15 16h|2023-01-05 16h|
-|2041|tropico-5--mad-world|Tropico 5 - Mad World|3,99€|50|2022-12-15 16h|2023-01-05 16h|
-|2042|tropico-5--supervillain|Tropico 5 - Supervillain|3,99€|50|2022-12-15 16h|2023-01-05 16h|
-|2043|tropico-5--surfs-up|Tropico 5 - Surf's Up|3,99€|50|2022-12-15 16h|2023-01-05 16h|
-|2044|tropico-5--t-day|Tropico 5 - T-Day|3,99€|50|2022-12-15 16h|2023-01-05 16h|
-|2045|tropico-5--the-big-cheese|Tropico 5 - The Big Cheese|3,99€|50|2022-12-15 16h|2023-01-05 16h|
-|2046|tropico-5--the-supercomputer|Tropico 5 - The Supercomputer|3,99€|50|2022-12-15 16h|2023-01-05 16h|
-|2047|tropico-5--waterborne|Tropico 5 - Waterborne|7,99€|50|2022-12-15 16h|2023-01-05 16h|
-|2048|tropico-6|Tropico 6|39,99€|50|2022-12-15 16h|2023-01-05 16h|
-|2049|true-hate-007027|True Hate|5,99€|90|2022-12-15 17h|2022-12-30 17h|
-|2050|truberbrook|Trüberbrook|29,99€|85|2022-12-15 16h|2023-01-05 16h|
-|2051|tunche|Tunche|19,99€|50|2022-12-15 16h|2023-01-05 16h|
-|2052|turnip-boy-commits-tax-evasion-fb2084|Turnip Boy Commits Tax Evasion|11,99€|60|2022-12-15 16h|2023-01-05 16h|
-|2053|tyranny|Tyranny - Gold Edition|49,99€|75|2022-12-15 16h|2023-01-05 16h|
-|2054|uno|UNO Standard Edition|9,99€|60|2022-12-15 16h|2023-01-05 16h|
-|2055|uno--fenyxs-quest|UNO® Fenyx's Quest|4,99€|40|2022-12-15 16h|2023-01-05 16h|
-|2056|uno--the-call-of-yara-dlc|UNO® The Call of Yara DLC|4,99€|40|2022-12-15 16h|2023-01-05 16h|
-|2057|heroes-and-generals-wwii--us-elite-fireteam|US Elite Fireteam Bundle|79,99€|30|2022-12-15 16h|2023-01-05 16h|
-|2058|heroes-and-generals-wwii--us-giga-pack|US Giga Pack|199,99€|30|2022-12-15 16h|2023-01-05 16h|
-|2059|heroes-and-generals-wwii--us-mega-pack|US Mega Pack|149,99€|30|2022-12-15 16h|2023-01-05 16h|
-|2060|heroes-and-generals-wwii--us-infantry-anti-tank|US Soldier Pack: Infantry Anti-Tank|19,99€|30|2022-12-15 16h|2023-01-05 16h|
-|2061|heroes-and-generals-wwii--us-infantry-assault|US Soldier Pack: Infantry Assault|49,99€|30|2022-12-15 16h|2023-01-05 16h|
-|2062|heroes-and-generals-wwii--us-infantry-medic|US Soldier Pack: Infantry Medic|29,99€|30|2022-12-15 16h|2023-01-05 16h|
-|2063|heroes-and-generals-wwii--us-starter-pack|US Starter Pack|4,99€|30|2022-12-15 16h|2023-01-05 16h|
-|2064|heroes-and-generals-wwii--us-super-pack|US Super Pack|99,99€|30|2022-12-15 16h|2023-01-05 16h|
-|2065|riders-republic--ultimate-edition|Ultimate Edition|119,99€|70|2022-12-15 16h|2023-01-05 16h|
-|2066|killing-floor-2--ultimate-edition-upgrade|Ultimate Edition Upgrade|44,99€|30|2022-12-15 16h|2023-01-05 16h|
-|2067|heroes-and-generals-wwii--ultimate-infantry-bundle|Ultimate Infantry Bundle|209,99€|30|2022-12-15 16h|2023-01-05 16h|
-|2068|unmetal|UnMetal|16,99€|60|2022-12-15 16h|2023-01-05 16h|
-|2069|unmetal--big-boom-box-soundtrack|UnMetal Big Boom-Box Soundtrack|6,75€|60|2022-12-15 16h|2023-01-05 16h|
-|2070|unmetal--undeluxe-edition|UnMetal UnDeluxe Edition|20,99€|60|2022-12-15 16h|2023-01-05 16h|
-|2071|universe-sandbox|Universe Sandbox|23,99€|33|2022-12-15 16h|2023-01-05 16h|
-|2072|uno|Uno|9,99€|60|2022-12-15 16h|2023-01-05 16h|
-|2073|uno--flip-dlc|Uno - Flip Pack|4,99€|40|2022-12-15 16h|2023-01-05 16h|
-|2074|uno--just-dance-theme-dlc|Uno - Just Dance Theme Cards Pack|2,99€|70|2022-12-15 16h|2023-01-05 16h|
-|2075|uno--rayman-theme-dlc|Uno - Rayman Theme Cards Pack|2,99€|70|2022-12-15 16h|2023-01-05 16h|
-|2076|unrailed-e19729|Unrailed!|19,99€|75|2022-12-15 16h|2023-01-05 16h|
-|2077|untitled-goose-game|Untitled Goose Game|15,99€|50|2022-12-15 16h|2023-01-05 16h|
-|2078|velone-3c0487|VELONE|14,99€|50|2022-12-15 16h|2023-01-05 16h|
-|2079|velone-velone-supporter-pack-f675b9|VELONE - Supporter Pack|3,99€|25|2022-12-15 16h|2023-01-05 16h|
-|2080|valiant-hearts|Valiant Hearts: The Great War|14,99€|75|2022-12-15 16h|2023-01-05 16h|
-|2081|vampire-the-masquerade-swansong--primogen-edition|Vampire: The Masquerade - Swansong PRIMOGEN Edition|59,99€|40|2022-12-15 16h|2023-01-05 16h|
-|2082|vampire-the-masquerade-swansong|Vampire: The Masquerade – Swansong|49,99€|40|2022-12-15 16h|2023-01-05 16h|
-|2083|vampyr|Vampyr|39,99€|80|2022-12-15 16h|2023-01-05 16h|
-|2084|viscerafest|Viscerafest|14,99€|20|2022-12-15 16h|2023-01-05 16h|
-|2085|void-bastards|Void Bastards|27,99€|70|2022-12-15 16h|2023-01-05 16h|
-|2086|voidtrain|Voidtrain|29,99€|25|2022-12-15 16h|2023-01-05 16h|
-|2087|what-the-golf|WHAT THE GOLF?|15,99€|60|2022-12-15 16h|2023-01-05 16h|
-|2088|wrc-10--deluxe-edition|WRC 10 - Deluxe Edition|59,99€|55|2022-12-15 16h|2023-01-05 16h|
-|2089|wrc-10--panzerplatte|WRC 10 Arena Panzerplatte SSS|4,99€|20|2022-12-15 16h|2023-01-05 16h|
-|2090|wrc-10--career-starter-pack|WRC 10 Career Starter Pack|2,99€|20|2022-12-15 16h|2023-01-05 16h|
-|2091|wrc-10|WRC 10 FIA World Rally Championship|49,99€|55|2022-12-15 16h|2023-01-05 16h|
-|2092|wrc-10--mitsubishi-lancer|WRC 10 Mitsubishi Lancer Evo V 1998|4,99€|20|2022-12-15 16h|2023-01-05 16h|
-|2093|wrc-10--subaru-impreza|WRC 10 Subaru Impreza WRC 1997|4,99€|20|2022-12-15 16h|2023-01-05 16h|
-|2094|wrc-8--wrc-8-alpine-a110|WRC 8 Alpine A110|3,99€|40|2022-12-15 16h|2023-01-05 16h|
-|2095|wrc-8--deluxe-edition|WRC 8 Deluxe Edition FIA Rally Championship|49,99€|80|2022-12-15 16h|2023-01-05 16h|
-|2096|wrc-8|WRC 8 FIA World Rally Championship|29,99€|80|2022-12-15 16h|2023-01-05 16h|
-|2097|wrc-8--wrc-8-ford-escort-mkii1800|WRC 8 Ford Escort MkII 1800|3,99€|40|2022-12-15 16h|2023-01-05 16h|
-|2098|wrc-8--wrc-8-lancia-delta-hf-integrale-evoluzione|WRC 8 Lancia Delta HF Integrale Evoluzione|3,99€|40|2022-12-15 16h|2023-01-05 16h|
-|2099|wrc-8--wrc-8-legendary-car-pack|WRC 8 Legendary Car Pack|9,99€|40|2022-12-15 16h|2023-01-05 16h|
-|2100|wrc-8--wrc-8-rwd-legends|WRC 8 RWD Legends|4,99€|40|2022-12-15 16h|2023-01-05 16h|
-|2101|wrc-8--wrc-8-senior-staff-members-unlock|WRC 8 Senior Staff Members Unlock|2,99€|40|2022-12-15 16h|2023-01-05 16h|
-|2102|wrc-9--wrc-9-audi-quattro-a21984|WRC 9 Audi Quattro A2 1984|3,99€|30|2022-12-15 16h|2023-01-05 16h|
-|2103|wrc-9--wrc-9-barcelona-sss|WRC 9 Barcelona SSS|3,99€|30|2022-12-15 16h|2023-01-05 16h|
-|2104|wrc-9--wrc-9-career-starter-upgrades|WRC 9 Career Starter Upgrades|2,99€|30|2022-12-15 16h|2023-01-05 16h|
-|2105|wrc-9--deluxe-edition|WRC 9 Deluxe Edition FIA World Rally Championship|49,99€|60|2022-12-15 16h|2023-01-05 16h|
-|2106|wrc-9--wrc-9-fia-rally-star|WRC 9 FIA Rally Star|9,99€|30|2022-12-15 16h|2023-01-05 16h|
-|2107|wrc-9|WRC 9 FIA World Rally Championship|29,99€|60|2022-12-15 16h|2023-01-05 16h|
-|2108|wrc-9--wrc-9-toyota-corolla1999|WRC 9 Toyota Corolla 1999|3,99€|30|2022-12-15 16h|2023-01-05 16h|
-|2109|wrc-11-fia-world-rally-championship-f0749b|WRC Generations|39,99€|15|2022-12-15 16h|2023-01-05 16h|
-|2110|ww1-game-series-bundle|WW1 Game Series Bundle|59,99€|50|2022-12-15 16h|2023-01-05 16h|
-|2111|wanderlust-travel-stories-a81f0f|Wanderlust: Travel Stories|11,99€|85|2022-12-15 16h|2023-01-05 16h|
-|2112|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
-|2113|warframe--veilbreaker-warrior-pack|Warframe: Veilbreaker Warrior Pack|27,99€|30|2022-12-15 16h|2023-01-05 16h|
-|2114|warhammer-40000-chaos-gate-daemonhunters|Warhammer 40,000: Chaos Gate - Daemonhunters|44,99€|40|2022-12-15 16h|2023-01-05 16h|
-|2115|warhammer-40000-chaos-gate-daemonhunters--castellan-champion-edition|Warhammer 40,000: Chaos Gate - Daemonhunters Castellan Champion Edition|54,99€|40|2022-12-15 16h|2023-01-05 16h|
-|2116|warhammer-age-of-sigmar-storm-ground|Warhammer Age of Sigmar: Storm Ground|19,99€|60|2022-12-15 16h|2023-01-05 16h|
-|2117|warpips-57e2c4|Warpips|14,99€|60|2022-12-15 16h|2023-01-05 16h|
-|2118|warpips-supporter-bundle|Warpips - Supporter Bundle|17,99€|58|2022-12-15 16h|2023-01-05 16h|
-|2119|warpips-warpips-supporter-pack-3f1bbf|Warpips - Supporter Pack|3,99€|50|2022-12-15 16h|2023-01-05 16h|
-|2120|watch-dogs|Watch Dogs|29,99€|75|2022-12-15 16h|2023-01-05 16h|
-|2121|watch-dogs-2|Watch Dogs 2|59,99€|80|2022-12-15 16h|2023-01-05 16h|
-|2122|watch-dogs-2--season-pass|Watch Dogs 2 - Season Pass|39,99€|80|2022-12-15 16h|2023-01-05 16h|
-|2123|watch-dogs-2--deluxe-edition|Watch Dogs 2 Deluxe Edition|69,99€|80|2022-12-15 16h|2023-01-05 16h|
-|2124|watch-dogs-2--gold-edition|Watch Dogs 2 Gold Edition|99,99€|80|2022-12-15 16h|2023-01-05 16h|
-|2125|watch-dogs-2|Watch Dogs 2 Standard Edition|59,99€|80|2022-12-15 16h|2023-01-05 16h|
-|2126|watch-dogs--bad-blood-dlc|Watch Dogs Bad Blood DLC|14,99€|75|2022-12-15 16h|2023-01-05 16h|
-|2127|watch-dogs--complete-edition|Watch Dogs Complete Edition|49,99€|75|2022-12-15 16h|2023-01-05 16h|
-|2128|watch-dogs--season-pass|Watch Dogs Season Pass|19,99€|75|2022-12-15 16h|2023-01-05 16h|
-|2129|watch-dogs|Watch Dogs Standard Edition|29,99€|75|2022-12-15 16h|2023-01-05 16h|
-|2130|watch-dogs-legion|Watch Dogs: Legion|59,99€|75|2022-12-15 16h|2023-01-05 16h|
-|2131|watch-dogs-legion--bloodline-dlc|Watch Dogs: Legion - Bloodline|14,99€|50|2022-12-15 16h|2023-01-05 16h|
-|2132|watch-dogs-legion--deluxe-edition|Watch Dogs: Legion Deluxe Edition|69,99€|75|2022-12-15 16h|2023-01-05 16h|
-|2133|watch-dogs-legion--gold-edition|Watch Dogs: Legion Gold Edition|99,99€|75|2022-12-15 16h|2023-01-05 16h|
-|2134|watch-dogs-legion|Watch Dogs: Legion Standard Edition|59,99€|75|2022-12-15 16h|2023-01-05 16h|
-|2135|watch-dogs-legion--ultimate-edition|Watch Dogs: Legion Ultimate Edition|119,99€|75|2022-12-15 16h|2023-01-05 16h|
-|2136|wattam|Wattam|15,99€|70|2022-12-15 16h|2023-01-05 16h|
-|2137|way-of-the-hunter|Way of the Hunter|39,99€|25|2022-12-15 16h|2023-01-05 16h|
-|2138|way-of-the-hunter--hunters-pack|Way of the Hunter - Hunter's Pack|2,99€|25|2022-12-15 16h|2023-01-05 16h|
-|2139|way-of-the-hunter--season-pass|Way of the Hunter - Season Pass|19,99€|25|2022-12-15 16h|2023-01-05 16h|
-|2140|way-of-the-hunter--elite-edition|Way of the Hunter Elite Edition|54,99€|25|2022-12-15 16h|2023-01-05 16h|
-|2141|weird-west-906661|Weird West|39,99€|50|2022-12-15 16h|2023-01-05 16h|
-|2142|faeria--wells-pack|Wells Pack|6,99€|75|2022-12-15 16h|2023-01-05 16h|
-|2143|werewolf-the-apocalypse-earthblood--exiled-one|Werewolf: The Apocalypse - Earthblood Exiled One|4,99€|25|2022-12-15 16h|2023-01-05 16h|
-|2144|werewolf-the-apocalypse-earthblood--gaia-pack|Werewolf: The Apocalypse - Earthblood Gaia Pack|12,99€|25|2022-12-15 16h|2023-01-05 16h|
-|2145|werewolf-the-apocalypse-earthblood--gaia-edition|Werewolf: The Apocalypse Earthblood Champion of Gaia|39,97€|50|2022-12-15 16h|2023-01-05 16h|
-|2146|werewolf-the-apocalypse-earthblood|Werewolf: The Apocalypse – Earthblood|29,99€|50|2022-12-15 16h|2023-01-05 16h|
-|2147|werewolf-the-apocalypse-heart-of-the-forest-2584f2|Werewolf: The Apocalypse — Heart of the Forest|11,99€|70|2022-12-15 16h|2023-01-05 16h|
-|2148|what-lies-in-the-multiverse-f604fa|What Lies in the Multiverse|11,99€|80|2022-12-15 16h|2023-01-05 16h|
-|2149|what-remains-of-edith-finch|What Remains of Edith Finch|19,99€|75|2022-12-15 16h|2023-01-05 16h|
-|2150|wheels-of-aurelia|Wheels of Aurelia|14,99€|80|2022-12-15 16h|2023-01-05 16h|
-|2151|where-the-water-tastes-like-wine|Where The Water Tastes Like Wine|19,99€|90|2022-12-15 16h|2023-01-05 16h|
-|2152|whispering-willows-bde110|Whispering Willows|7,99€|85|2022-12-15 16h|2023-01-05 16h|
-|2153|white-shadows-64e014|White Shadows|19,99€|40|2022-12-15 16h|2023-01-05 16h|
-|2154|who-pressed-mute-on-uncle-marucs-ee90a4|Who Pressed Mute on Uncle Marcus?|9,99€|20|2022-12-15 16h|2023-01-05 16h|
-|2155|wife-quest-ed5224|Wife Quest|4,99€|30|2022-12-15 16h|2023-01-05 16h|
-|2156|wife-quest-deluxe|Wife Quest Deluxe|5,99€|50|2022-12-15 16h|2023-01-05 16h|
-|2157|wildcat-gun-machine-c66c4e|Wildcat Gun Machine|14,99€|40|2022-12-15 16h|2023-01-05 16h|
-|2158|windbound|Windbound|19,99€|85|2022-12-15 16h|2023-01-05 16h|
-|2159|wolfenstein-the-old-blood|Wolfenstein: The Old Blood|19,99€|70|2022-12-15 16h|2023-01-05 16h|
-|2160|wolfstride|Wolfstride|14,99€|50|2022-12-15 16h|2023-01-05 16h|
-|2161|wonhon-a-vengeful-spirit-29e3c1|Wonhon: A Vengeful Spirit|8,99€|25|2022-12-15 16h|2023-01-05 16h|
-|2162|pc-building-simulator--workshops-mega-pack|Workshops Mega Pack|27,99€|25|2022-12-15 16h|2023-01-05 16h|
-|2163|world-war-z|World War Z Aftermath|39,99€|50|2022-12-15 16h|2023-01-05 16h|
-|2164|world-war-z--aftermath-deluxe-edition|World War Z Aftermath Deluxe Edition|49,99€|45|2022-12-15 16h|2023-01-05 16h|
-|2165|world-war-z--aftermath-upgrade|World War Z Aftermath Upgrade|19,99€|50|2022-12-15 16h|2023-01-05 16h|
-|2166|world-war-z--aftermath-explorer-weapons-pack|World War Z: Aftermath - Explorer Weapon Skins Pack|4,99€|35|2022-12-15 16h|2023-01-05 16h|
-|2167|world-war-z--aftermath-zeke-hunter-weapons-pack|World War Z: Aftermath - Zeke Hunter Weapons Pack|4,99€|35|2022-12-15 16h|2023-01-05 16h|
-|2168|world-of-warships--american-freedom|World of Warships - American Freedom|7,09€|65|2022-12-15 16h|2023-01-05 16h|
-|2169|world-of-warships--german-ordnung|World of Warships — German Ordnung|6,98€|65|2022-12-15 16h|2023-01-05 16h|
-|2170|world-of-warships--long-live-the-king|World of Warships — Long Live the King|6,93€|65|2022-12-15 16h|2023-01-05 16h|
-|2171|world-of-warships--starter-pack-ishizuchi|World of Warships — Starter Pack: Ishizuchi|19,30€|80|2022-12-15 16h|2023-01-05 16h|
-|2172|world-of-warships--way-of-the-warrior|World of Warships — Way of the Warrior|6,79€|65|2022-12-15 16h|2023-01-05 16h|
-|2173|worms-rumble|Worms Rumble|14,99€|80|2022-12-15 16h|2023-01-05 16h|
-|2174|wrath-aeon-of-ruin|Wrath: Aeon of Ruin|20,99€|20|2022-12-15 16h|2023-01-05 16h|
-|2175|wytchwood|Wytchwood|17,49€|35|2022-12-15 16h|2023-01-05 16h|
-|2176|xcom-2|XCOM® 2|49,99€|95|2022-12-15 16h|2023-01-05 16h|
-|2177|xcom-2--collection|XCOM® 2 Collection|92,20€|92|2022-12-15 16h|2023-01-05 16h|
-|2178|xcom-2--collection-upgrade|XCOM® 2 Collection Upgrade|44,99€|88|2022-12-15 16h|2023-01-05 16h|
-|2179|xiii-07f8c3|XIII|31,99€|60|2022-12-15 16h|2023-01-05 16h|
-|2180|yaga|Yaga|19,99€|75|2022-12-15 16h|2023-01-05 16h|
-|2181|yaga--roots-of-evil|Yaga - Roots of Evil|8,49€|75|2022-12-15 16h|2023-01-05 16h|
-|2182|yaga--armful-edition|Yaga Bundle - Armful Edition|26,99€|75|2022-12-15 16h|2023-01-05 16h|
-|2183|yaga--soundtrack|Yaga Soundtrack|5,99€|75|2022-12-15 16h|2023-01-05 16h|
-|2184|snowrunner--year-1-pass|Year 1 Pass|24,99€|25|2022-12-15 16h|2023-01-05 16h|
-|2185|yokus-island-express|Yoku's Island Express|19,99€|80|2022-12-15 16h|2023-01-05 16h|
-|2186|yooka-laylee|Yooka-Laylee|39,99€|85|2022-12-15 16h|2023-01-05 16h|
-|2187|yooka-laylee-and-the-impossible-lair|Yooka-Laylee and the Impossible Lair|29,99€|80|2022-12-15 16h|2023-01-05 16h|
-|2188|ys-ix-monstrum-nox|Ys IX: Monstrum Nox|59,99€|30|2022-12-15 16h|2023-01-05 16h|
-|2189|ys-ix-monstrum-nox--attachments-bundle|Ys IX: Monstrum Nox - Attachments Bundle|9,99€|30|2022-12-15 16h|2023-01-05 16h|
-|2190|ys-ix-monstrum-nox--consumable-bundle|Ys IX: Monstrum Nox - Consumable Bundle|29,99€|30|2022-12-15 16h|2023-01-05 16h|
-|2191|ys-ix-monstrum-nox--monstrum-troupe-bundle|Ys IX: Monstrum Nox - Monstrum Troupe Bundle|14,99€|30|2022-12-15 16h|2023-01-05 16h|
-|2192|ys-ix-monstrum-nox--deluxe-edition|Ys IX: Monstrum Nox Digital Deluxe Edition|74,77€|30|2022-12-15 16h|2023-01-05 16h|
-|2193|yuppie-psycho|Yuppie Psycho: Executive Edition|16,66€|60|2022-12-15 16h|2023-01-05 16h|
-|2194|world-of-warships--yubari|Yūbari|8,39€|50|2022-12-15 16h|2023-01-05 16h|
-|2195|zen-triple-rpg-bundle|ZEN Triple RPG Bundle|47,99€|66|2022-12-15 16h|2023-01-05 16h|
-|2196|zombi|ZOMBI|15,99€|75|2022-12-15 16h|2023-01-05 16h|
-|2197|zelter-b3640a|Zelter|15,99€|20|2022-12-15 16h|2023-01-05 16h|
-|2198|zombie-rollerz-7aa027|Zombie Rollerz: Pinball Heroes|14,99€|60|2022-12-15 16h|2023-01-05 16h|
-|2199|zorro-the-chronicles|Zorro The Chronicles|24,99€|45|2022-12-15 16h|2023-01-05 16h|
-|2200|zorya-the-celestial-sisters--soundtrack-and-digital-artbook|Zorya Soundtrack and Digital Artbook|7,99€|80|2022-12-15 16h|2023-01-05 16h|
-|2201|zorya-the-celestial-sisters|Zorya: The Celestial Sisters|19,99€|80|2022-12-15 16h|2023-01-05 16h|
-|2202|zorya-the-celestial-sisters--stellar-edition|Zorya: The Celestial Sisters Stellar Edition|23,99€|80|2022-12-15 16h|2023-01-05 16h|
-|2203|shapez-0929c9|shapez|9,99€|60|2022-12-15 16h|2023-01-05 16h|
-|2204|thehunter-call-of-the-wild--modern-rifle-pack|theHunter: Call of the Wild™ - Modern Rifle Pack|3,99€|25|2022-12-15 16h|2023-01-05 16h|
-|2205|thehunter-call-of-the-wild--revontuli-coast|theHunter: Call of the Wild™ - Revontuli coast|7,99€|30|2022-12-15 16h|2023-01-05 16h|
-|2206|thehunter-call-of-the-wild--assorted-sidearms-pack|theHunter:CalloftheWild™ - Assorted Sidearms Pack|3,99€|15|2022-12-15 16h|2023-01-05 16h|
-|2207|while-true-learn|while True: learn()|9,99€|33|2022-12-15 16h|2023-01-05 16h|
+|1284|[]|Mystery Game|0,00€|100|2022-12-16 16h|2022-12-17 16h|
+|1285|naraka-bladepoint|NARAKA: BLADEPOINT|19,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1286|naraka-bladepoint--deluxe-edition|NARAKA: BLADEPOINT Deluxe Edition|34,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1287|naraka-bladepoint--ultimate-edition|NARAKA: BLADEPOINT Ultimate Edition|50,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1288|neo-the-world-ends-with-you|NEO: The World Ends with You|59,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1289|norco-3ba4e2|NORCO|11,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1290|pc-building-simulator--nzxt-workshop|NZXT Workshop|4,99€|25|2022-12-15 16h|2023-01-05 16h|
+|1291|nadir-a-grimdark-deckbuilder-c70747|Nadir - A Grimdark Deckbuilder|15,99€|25|2022-12-15 16h|2023-01-05 16h|
+|1292|narita-boy|Narita Boy|24,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1293|necroworm-5784e5|NecroWorm|3,99€|90|2022-12-15 16h|2023-01-05 16h|
+|1294|necromunda-hired-gun|Necromunda: Hired Gun|39,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1295|necromunda-hired-gun--artbook|Necromunda: Hired Gun - Artbook|3,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1296|necromunda-hired-gun/bundle|Necromunda: Hired Gun - Bundle|48,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1297|necromunda-hired-gun--gang-wars-cosmetics|Necromunda: Hired Gun - Gang Wars Cosmetics Bundle|9,99€|47|2022-12-15 16h|2023-01-05 16h|
+|1298|necromunda-hired-gun--hunters-bounty-pack|Necromunda: Hired Gun - Hunter’s Bounty Pack|2,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1299|necromunda-hired-gun--original-soundtrack|Necromunda: Hired Gun - Original Soundtrack|7,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1300|necrosmith-b2ef15|Necrosmith|2,39€|33|2022-12-15 16h|2023-01-05 16h|
+|1301|neighbours-back-from-hell|Neighbours back From Hell|14,99€|66|2022-12-15 16h|2023-01-05 16h|
+|1302|neon-abyss|Neon Abyss|19,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1303|neon-blight-6fe11b|Neon Blight|19,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1304|new-super-luckys-tale|New Super Lucky's Tale|27,99€|67|2022-12-15 16h|2023-01-05 16h|
+|1305|new-tales-from-the-borderlands|New Tales from the Borderlands|39,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1306|new-tales-from-the-borderlands--deluxe-edition|New Tales from the Borderlands: Deluxe Edition|49,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1307|nexomon-extinction|Nexomon: Extinction|19,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1308|night-lights-4cd904|Night Lights|3,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1309|ashen--dlc1|Nightstorm Isle - DLC|9,99€|70|2022-12-15 16h|2023-01-05 16h|
+|1310|nikopol-secrets-of-the-immortals-18adec|Nikopol - Secrets of the Immortals|3,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1311|nioh-2-the-complete-edition|Nioh 2 – The Complete Edition|59,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1312|nioh-the-complete-edition|Nioh: The Complete Edition|49,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1313|nira-02f6ee|Nira|7,99€|25|2022-12-15 16h|2023-01-05 16h|
+|1314|no-longer-home|No Longer Home|12,49€|60|2022-12-15 16h|2023-01-05 16h|
+|1315|no-longer-home--farewell-edition|No Longer Home Farewell Edition|24,67€|60|2022-12-15 16h|2023-01-05 16h|
+|1316|no-longer-home--no-longer-home-soundtrack|No Longer Home Soundtrack|8,19€|60|2022-12-15 16h|2023-01-05 16h|
+|1317|not-for-broadcast-7e523f|Not For Broadcast|20,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1318|octopath-traveler|OCTOPATH TRAVELER™|59,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1319|kingdom-come-deliverance--ost-atmospheres-and-additionals|OST Atmospheres & Additionals|9,99€|70|2022-12-15 16h|2023-01-05 16h|
+|1320|kingdom-come-deliverance--ost-essentials|OST Essentials|5,99€|70|2022-12-15 16h|2023-01-05 16h|
+|1321|outriders|OUTRIDERS|39,99€|55|2022-12-15 16h|2023-01-05 16h|
+|1322|outriders--worldslayer-edition|OUTRIDERS WORLDSLAYER|59,99€|35|2022-12-15 16h|2023-01-05 16h|
+|1323|outriders--worldslayer-upgrade|OUTRIDERS WORLDSLAYER UPGRADE|39,99€|35|2022-12-15 16h|2023-01-05 16h|
+|1324|overpass|OVERPASS™|39,99€|70|2022-12-15 16h|2023-01-05 16h|
+|1325|overpass--deluxe-edition|OVERPASS™ DELUXE EDITION|39,99€|70|2022-12-15 16h|2023-01-05 16h|
+|1326|observation|Observation|20,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1327|observer-system-redux|Observer: System Redux|24,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1328|offworld-trading-company|Offworld Trading Company|29,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1329|offworld-trading-company--limited-supply|Offworld Trading Company Limited Supply DLC|4,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1330|offworld-trading-company--blue-chip-ventures|Offworld Trading Company: Blue Chip Ventures DLC|4,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1331|offworld-trading-company--conspicuous-comsumption|Offworld Trading Company: Conspicuous Consumption DLC|2,99€|45|2022-12-15 16h|2023-01-05 16h|
+|1332|offworld-trading-company--interdimensional|Offworld Trading Company: Interdimensional|4,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1333|offworld-trading-company--jupiters-forge|Offworld Trading Company: Jupiter’s Forge Expansion Pack|14,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1334|offworld-trading-company--market-corrections|Offworld Trading Company: Market Corrections DLC|3,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1335|offworld-trading-company--real-mars-map-pack|Offworld Trading Company: Real Mars Map Pack DLC|2,99€|45|2022-12-15 16h|2023-01-05 16h|
+|1336|offworld-trading-company--scenario-toolkit|Offworld Trading Company: Scenario Toolkit DLC|2,99€|45|2022-12-15 16h|2023-01-05 16h|
+|1337|offworld-trading-company--soundtrack|Offworld Trading Company: Soundtrack DLC|9,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1338|offworld-trading-company--the-ceres-initiative|Offworld Trading Company: The Ceres Initiative DLC|5,69€|50|2022-12-15 16h|2023-01-05 16h|
+|1339|offworld-trading-company--the-europa-wager|Offworld Trading Company: The Europa Wager|14,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1340|offworld-trading-company--the-patron-and-the-patriot|Offworld Trading Company: The Patron and the Patriot DLC|4,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1341|olija|Olija|14,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1342|road-96--documentary|On the Road 96 - Documentary|3,96€|25|2022-12-15 16h|2023-01-05 16h|
+|1343|dungeons-3--once-upon-a-time|Once Upon A Time|4,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1344|one-hand-clapping|One Hand Clapping|14,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1345|one-more-island-0014e2|One More Island|17,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1346|open-country|Open Country|14,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1347|iron-harvest--operation-eagle|Operation Eagle|19,99€|70|2022-12-15 16h|2023-01-05 16h|
+|1348|operation-tango|Operation: Tango|16,99€|45|2022-12-15 16h|2023-01-05 16h|
+|1349|operencia|Operencia: The Stolen Sun|24,99€|66|2022-12-15 16h|2023-01-05 16h|
+|1350|faeria--orbs-pack|Orbs Pack|9,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1351|genesis-noir--soundtrack|Original Soundtrack|7,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1352|warhammer-40000-chaos-gate-daemonhunters--original-soundtrack|Original Soundtrack|9,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1353|while-true-learn--ost|Original Soundtrack by Broadcast Of Variants|2,39€|13|2022-12-15 16h|2023-01-05 16h|
+|1354|scarlet-hood-and-the-wicked-wood--original-soundtracks|Original Soundtracks|3,99€|55|2022-12-15 16h|2023-01-05 16h|
+|1355|buy-orwell-ignorance-is-strength-deluxe-edition|Orwell: Ignorance Is Strength Deluxe Edition|11,99€|70|2022-12-15 16h|2023-01-05 16h|
+|1356|orwell-ignorance-is-strength-486264|Orwell: Ignorance is Strength|7,99€|70|2022-12-15 16h|2023-01-05 16h|
+|1357|orwell-ignorance-is-strength-orwell-ignorance-is-strength-ost-c8f6c9|Orwell: Ignorance is Strength - OST|7,99€|70|2022-12-15 16h|2023-01-05 16h|
+|1358|othercide-19bfa0|Othercide|29,99€|65|2022-12-15 16h|2023-01-05 16h|
+|1359|othercide-othercide-artbook-1c2f5e|Othercide - Digital Artbook|4,99€|33|2022-12-15 16h|2023-01-05 16h|
+|1360|othercide-othercide-dressed-to-kill-cosmetics-pack-29a869|Othercide - Dressed to Kill - Cosmetics Pack|3,99€|33|2022-12-15 16h|2023-01-05 16h|
+|1361|othercide-ost-artbook-bundle|Othercide - Game + OST + Digital Artbook Bundle|34,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1362|othercide-othercide-soundtrack-6d64db|Othercide - Soundtrack|7,99€|33|2022-12-15 16h|2023-01-05 16h|
+|1363|out-of-line-209cbb|Out of Line|9,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1364|cardpocalypse--out-of-time|Out of Time|7,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1365|out-of-the-park-baseball-23-09e3fa|Out of the Park Baseball 23|39,99€|75|2022-12-22 18h|2023-01-05 13h|
+|1366|outerwilds|Outer Wilds|20,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1367|outerwilds--echoes-of-the-eye|Outer Wilds - Echoes of the Eye|11,99€|33|2022-12-15 16h|2023-01-05 16h|
+|1368|outerverse-82d7ce|Outerverse|19,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1369|outward|Outward Definitive Edition|39,99€|55|2022-12-15 16h|2023-01-05 16h|
+|1370|outward--soundtrack|Outward Soundtrack|7,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1371|outward--the-three-brothers|Outward: The Three Brothers|19,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1372|pc-building-simulator--overclocked-edition-content|Overclocked Edition Content|3,99€|25|2022-12-15 16h|2023-01-05 16h|
+|1373|pc-building-simulator--overclockers-uk-workshop|Overclockers UK Workshop|4,99€|25|2022-12-15 16h|2023-01-05 16h|
+|1374|overcooked|Overcooked|15,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1375|overcooked-2|Overcooked! 2|22,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1376|overloop-f572c8|Overloop|9,99€|35|2022-12-15 16h|2023-01-05 16h|
+|1377|overpass|Overpass|39,99€|70|2022-12-15 16h|2023-01-05 16h|
+|1378|overpass--drive-with-style|Overpass Drive With Style Pack|2,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1379|overpass--expert-vehicles-pack|Overpass Expert Vehicles Pack|6,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1380|overpass--smart-start-pack|Overpass Smart Start Pack|2,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1381|overpass--yamaha-special-pack|Overpass Yamaha Special Pack|5,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1382|oxenfree|Oxenfree|7,99€|55|2022-12-15 16h|2023-01-05 16h|
+|1383|oxygen-not-included|Oxygen Not Included|22,99€|70|2022-12-15 16h|2023-01-05 16h|
+|1384|oxygen-not-included--spaced-out|Oxygen Not Included: Spaced Out!|10,79€|25|2022-12-15 16h|2023-01-05 16h|
+|1385|pc-building-simulator|PC Building Simulator|15,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1386|pc-building-simulator-2|PC Building Simulator 2|24,99€|15|2022-12-15 16h|2023-01-05 16h|
+|1387|pc-building-simulator--soundtrack|PC Building Simulator Soundtrack|3,99€|25|2022-12-15 16h|2023-01-05 16h|
+|1388|idle-champions-of-the-forgotten-realms--pack-antics-series-2-bundle-pack|Pack Antics Series 2 Bundle Pack|35,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1389|paladin-dream-5d04e2|Paladin Dream|3,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1390|paladins--digital-deluxe-edition-2022|Paladins Digital Deluxe Edition 2022|59,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1391|paladins--season-pass-2022|Paladins Season Pass 2022|34,99€|33|2022-12-15 16h|2023-01-05 16h|
+|1392|paper-beast|Paper Beast|16,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1393|paper-cut-mansion-2c67e2|Paper Cut Mansion|19,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1394|paradise-killer-c3ea1c|Paradise Killer|15,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1395|paradise-killer-paradise-killer-soundtrack-0ff3e1|Paradise Killer Soundtrack|7,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1396|paradise-killer-paradise-killer-art-of-paradise-e81d8f|Paradise Killer: Art of Paradise|5,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1397|paradise-killer-perfect-25-edition|Paradise Killer: Perfect 25 Edition|26,07€|60|2022-12-15 16h|2023-01-05 16h|
+|1398|paradise-lost|Paradise Lost|12,49€|80|2022-12-15 16h|2023-01-05 16h|
+|1399|paramnesia-a49100|Paramnesia|2,39€|50|2022-12-15 16h|2023-01-05 16h|
+|1400|partisans-1941|Partisans 1941|39,99€|70|2022-12-15 16h|2023-01-05 16h|
+|1401|pascals-wager|Pascal's Wager: Definitive Edition|19,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1402|pathfinder-kingmaker--royal-ascension|Pathfinder Kingmaker - Royal Ascension DLC|7,99€|70|2022-12-15 16h|2023-01-05 16h|
+|1403|pathfinder-kingmaker|Pathfinder: Kingmaker - Enhanced Plus Edition|19,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1404|pathfinder-kingmaker--imperial-edition|Pathfinder: Kingmaker - Imperial Edition|38,99€|61|2022-12-15 16h|2023-01-05 16h|
+|1405|pathfinder-kingmaker--season-pass|Pathfinder: Kingmaker - Season Pass|17,99€|67|2022-12-15 16h|2023-01-05 16h|
+|1406|pathfinder-kingmaker--the-wildcards|Pathfinder: Kingmaker - The Wildcards DLC|4,99€|55|2022-12-15 16h|2023-01-05 16h|
+|1407|pathfinder-kingmaker--varnholds-lot|Pathfinder: Kingmaker - Varnhold's Lot DLC|6,99€|55|2022-12-15 16h|2023-01-05 16h|
+|1408|pathfinder-kingmaker--beneath-the-stolen-lands|Pathfinder: Kingmaker Beneath the Stolen Lands DLC|6,99€|55|2022-12-15 16h|2023-01-05 16h|
+|1409|pathfinder-wrath-of-the-righteous|Pathfinder: Wrath of the Righteous - Enhanced Edition|49,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1410|pathfinder-wrath-of-the-righteous--inevitable-excess|Pathfinder: Wrath of the Righteous - Inevitable Excess|12,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1411|pathfinder-wrath-of-the-righteous--through-the-ashes|Pathfinder: Wrath of the Righteous - Through the Ashes|12,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1412|pathfinder-wrath-of-the-righteous--commander-edition|Pathfinder: Wrath of the Righteous Commander Edition|69,99€|58|2022-12-15 16h|2023-01-05 16h|
+|1413|pathfinder-wrath-of-the-righteous--mythic-edition|Pathfinder: Wrath of the Righteous Mythic Edition|98,99€|57|2022-12-15 16h|2023-01-05 16h|
+|1414|pathway|Pathway|13,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1415|idle-champions-of-the-forgotten-realms--pest-the-gremishka-familiar-pack|Pest the Gremishka Familiar Pack|7,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1416|wrc-11-fia-world-rally-championship-peugeot-206-wrc-2002-dd0ad7|Peugeot 206 WRC (2002)|3,99€|15|2022-12-15 16h|2023-01-05 16h|
+|1417|phoenix-point|Phoenix Point: Complete Edition|23,99€|33|2022-12-15 16h|2023-01-05 16h|
+|1418|pikuniku|Pikuniku|12,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1419|pile-up-b1e2af|Pile Up|14,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1420|pillars-of-eternity|Pillars of Eternity - Definitive Edition|36,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1421|bassmaster-fishing-2022-synthwave-pack-ae869f|Pixel Pro Pack|4,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1422|planescape-torment-enhanced-edition|Planescape: Torment: Enhanced Edition|15,99€|70|2022-12-15 16h|2023-01-05 16h|
+|1423|fortnite--polar-legends-pack|Polar Legends Pack|19,99€|40|2022-12-21 00h|2023-01-10 00h|
+|1424|idle-champions-of-the-forgotten-realms--polymorphed-calliope-skin-feat-pack|Polymorphed Calliope Skin & Feat Pack|7,99€|50|2023-01-27 20h|2023-02-03 20h|
+|1425|idle-champions-of-the-forgotten-realms--polymorphed-celeste-skin-feat-pack|Polymorphed Celeste Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
+|1426|idle-champions-of-the-forgotten-realms--polymorphed-krydle-skin-feat-pack|Polymorphed Krydle Skin & Feat Pack|7,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1427|idle-champions-of-the-forgotten-realms--polymorphed-makos-skin-feat-pack|Polymorphed Makos Skin & Feat Pack|7,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1428|idle-champions-of-the-forgotten-realms--polymorphed-minsc-skin-and-feat-pack|Polymorphed Minsc Skin & Feat Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
+|1429|idle-champions-of-the-forgotten-realms--polymorphed-nayeli-skin-feat-pack|Polymorphed Nayeli Skin & Feat Pack|7,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1430|idle-champions-of-the-forgotten-realms--polymorphed-orkira-skin-feat-pack|Polymorphed Orkira Skin & Feat Pack|7,99€|50|2023-01-27 20h|2023-02-03 20h|
+|1431|polymorphedreyaskinfeatpack|Polymorphed Reya Skin & Feat Pack|7,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1432|idle-champions-of-the-forgotten-realms--polymorphed-shandie-skin-feat-pack|Polymorphed Shandie Skin & Feat Pack|7,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1433|idle-champions-of-the-forgotten-realms--polymorphed-tyril-skin-feat-pack|Polymorphed Tyril Skin & Feat Pack|7,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1434|idle-champions-of-the-forgotten-realms--polymorphed-yorven-skin-and-feat-pack|Polymorphed Yorven Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
+|1435|wrc-11-fia-world-rally-championship-porsche-911-gt3-rs-rgt-extra-liveries-b15268|Porsche 911 GT3 RS RGT Extra Liveries|3,99€|15|2022-12-15 16h|2023-01-05 16h|
+|1436|port-royale-4|Port Royale 4|39,99€|65|2022-12-15 16h|2023-01-05 16h|
+|1437|pray-for-death-fe9a43|Pray for Death|7,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1438|predator-hunting-grounds--digital-deluxe-edition|Predator: Hunting Grounds Digital Deluxe Edition|59,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1439|predator-hunting-grounds|Predator: Hunting Grounds Standard Edition|39,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1440|prehistorik-d64136|Prehistorik|7,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1441|prehistorik-2-0c6998|Prehistorik 2|7,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1442|faeria--premium-edition|Premium Edition DLC|9,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1443|prey|Prey|39,99€|75|2023-01-24 16h|2023-01-31 16h|
+|1444|princess-farmer-bd4c4e|Princess Farmer|11,99€|35|2022-12-15 16h|2023-01-05 16h|
+|1445|idle-champions-of-the-forgotten-realms--prismeer-sentry-skin-and-feat-pack|Prismeer Sentry Skin & Feat Pack|7,99€|50|2023-01-27 20h|2023-02-03 20h|
+|1446|idle-champions-of-the-forgotten-realms--prismeer-shandie-theme-pack|Prismeer Shandie Theme Pack|19,99€|50|2023-01-20 20h|2023-01-27 20h|
+|1447|prison-architect|Prison Architect|24,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1448|prison-architect--aficionado|Prison Architect - Aficionado|1,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1449|prison-architect--gangs|Prison Architect - Gangs|5,99€|10|2022-12-15 16h|2023-01-05 16h|
+|1450|prison-architect--going-green|Prison Architect - Going Green|9,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1451|prison-architect--island-bound|Prison Architect - Island Bound|9,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1452|prison-architect--perfect-storm|Prison Architect - Perfect Storm|9,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1453|prison-architect--psych-ward-wardens-edition|Prison Architect - Psych Ward: Warden's Edition|5,99€|35|2022-12-15 16h|2023-01-05 16h|
+|1454|prison-architect--second-chances|Prison Architect - Second Chances|5,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1455|prison-architect--undead|Prison Architect - Undead|2,99€|10|2022-12-15 16h|2023-01-05 16h|
+|1456|production-line|Production Line|20,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1457|project-pastorate-6e8765|Project Pastorate|1,59€|50|2022-12-15 16h|2023-01-05 16h|
+|1458|project-warlock-ii-14efe5|Project Warlock II|15,79€|20|2022-12-15 16h|2023-01-05 16h|
+|1459|pumpkin-jack|Pumpkin Jack|29,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1460|quake|Quake|9,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1461|r-type-final-2|R-Type Final 2|39,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1462|r-type-final-2--complete-soundtrack|R-Type Final 2 - Complete Soundtrack|4,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1463|r-type-final-2--dlc-set|R-Type Final 2 - DLC Set 1|6,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1464|r-type-final-2--dlc-set-01|R-Type Final 2 - DLC Set 2|6,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1465|r-type-final-2--dlc-set-03|R-Type Final 2 - DLC Set 3|9,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1466|r-type-final-2--dlc-set-4|R-Type Final 2 - DLC Set 4|6,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1467|r-type-final-2--dlc-set-05|R-Type Final 2 - DLC Set 5|6,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1468|r-type-final-2--dlc-set-06|R-Type Final 2 - DLC Set 6|9,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1469|r-type-final-2--dlc-set-07|R-Type Final 2 - DLC Set 7|6,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1470|r-type-final-2--dlc-set-08|R-Type Final 2 - DLC Set 8|6,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1471|r-type-final-2--dlc-set-09|R-Type Final 2 - DLC Set 9|9,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1472|r-type-final-2--homage-soundtrack|R-Type Final 2 - Homage Stage Soundtrack|13,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1473|r-type-final-2--stage-pass|R-Type Final 2 - Stage Pass|19,90€|40|2022-12-15 16h|2023-01-05 16h|
+|1474|r-type-final-2--stage-pass-volume-2|R-Type Final 2 - Stage Pass Volume 2|19,90€|40|2022-12-15 16h|2023-01-05 16h|
+|1475|r-type-final-2--stage-pass-volume-3|R-Type Final 2 - Stage Pass Volume 3|19,90€|20|2022-12-15 16h|2023-01-05 16h|
+|1476|r-type-final-2--digital-deluxe-edition|R-Type Final 2 Digital Deluxe Edition|64,75€|40|2022-12-15 16h|2023-01-05 16h|
+|1477|r-type-final-2--ofx-x-mariko-r-craft-05|R-Type Final 2: OFX-X MARIKO R-Craft|6,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1478|railgrade|RAILGRADE|19,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1479|rainswept-5f368a|RAINSWEPT|9,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1480|rayman-legends|RAYMAN® LEGENDS|19,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1481|replikator-6adddc|REPLIKATOR|9,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1482|rez-plz-324485|REZ PLZ|11,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1483|ruiner|RUINER|19,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1484|rad-rodgers-radical-edition-8f66a7|Rad Rodgers - Radical Edition|19,99€|90|2022-12-15 16h|2023-01-05 16h|
+|1485|rage-2|Rage 2|39,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1486|rage-2--deluxe-edition|Rage 2 - Deluxe Edition|59,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1487|railway-empire|Railway Empire|29,99€|70|2022-12-15 16h|2023-01-05 16h|
+|1488|railway-empire--crossing-the-andes|Railway Empire - Crossing the Andes|7,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1489|railway-empire--dlc-bundle|Railway Empire - DLC Bundle|29,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1490|railway-empire--down-under|Railway Empire - Down Under|7,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1491|railway-empire--france|Railway Empire - France|9,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1492|railway-empire--germany|Railway Empire - Germany|9,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1493|railway-empire--great-britain-and-ireland|Railway Empire - Great Britain & Ireland|9,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1494|railway-empire--japan|Railway Empire - Japan|12,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1495|railway-empire--mexico|Railway Empire - Mexico|7,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1496|railway-empire--northern-europe|Railway Empire - Northern Europe|7,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1497|railway-empire--the-great-lakes|Railway Empire - The Great Lakes|7,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1498|rainbow-billy-the-curse-of-the-leviathan|Rainbow Billy: The Curse of the Leviathan|17,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1499|rainbow-six-siege|Rainbow Six Siege|19,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1500|raji-an-ancient-epic|Raji: An Ancient Epic|22,99€|66|2022-12-15 16h|2023-01-05 16h|
+|1501|ranch-simulator|Ranch Simulator|20,99€|33|2022-12-15 16h|2023-01-05 16h|
+|1502|ravens-hike-c34341|Ravens Hike|3,19€|75|2022-12-15 16h|2023-01-05 16h|
+|1503|rayman-legends|Rayman Legends|19,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1504|rayman-origins|Rayman Origins|9,99€|70|2022-12-15 16h|2023-01-05 16h|
+|1505|pc-building-simulator--razer-workshop|Razer Workshop|4,99€|25|2022-12-15 16h|2023-01-05 16h|
+|1506|relegion-fe9684|Re-Legion|9,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1507|re-legion-deluxe-edition|Re-Legion - Deluxe_Edition_|13,16€|80|2022-12-15 16h|2023-01-05 16h|
+|1508|relegion-relegion-digital_artbook_-ce51af|Re-Legion - Digital_Artbook_|2,39€|80|2022-12-15 16h|2023-01-05 16h|
+|1509|relegion-relegion-digital_soundtrack_-8a2caf|Re-Legion - Digital_Soundtrack_|3,29€|80|2022-12-15 16h|2023-01-05 16h|
+|1510|realpolitiks-2|Realpolitiks II|29,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1511|realpolitiks-2--deluxe-edition|Realpolitiks II Deluxe edition|32,73€|75|2022-12-15 16h|2023-01-05 16h|
+|1512|realpolitiks-2--digital-artbook|Realpolitiks II Digital Artbook|2,39€|75|2022-12-15 16h|2023-01-05 16h|
+|1513|realpolitiks-2--soundtrack|Realpolitiks II Soundtrack|3,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1514|rebel-cops|Rebel Cops|9,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1515|recompile|Recompile|19,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1516|red-dead-redemption-2--red-dead-online|Red Dead Online|19,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1517|red-dead-redemption-2|Red Dead Redemption 2|59,99€|67|2022-12-15 16h|2023-01-05 16h|
+|1518|red-dead-redemption-2--ultimate-edition|Red Dead Redemption 2: Ultimate Edition|89,99€|70|2022-12-15 16h|2023-01-05 16h|
+|1519|red-ronin-d2678c|Red Ronin|5,99€|70|2022-12-15 16h|2023-01-05 16h|
+|1520|banedlc028-09-04|Red the Squirrel Familiar Pack|11,99€|90|2023-01-27 20h|2023-02-03 20h|
+|1521|redneck-deer-huntin-012a33|Redneck Deer Huntin|7,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1522|redneck-rampage-653f04|Redneck Rampage|7,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1523|redneck-rampage-rides-again-1655a7|Redneck Rampage Rides Again|7,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1524|redout-2|Redout 2|29,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1525|redout-2--deluxe-edition|Redout 2 - Deluxe Edition|44,99€|35|2022-12-15 16h|2023-01-05 16h|
+|1526|redout-2--ost|Redout 2 - Original Soundtrack|9,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1527|redout-2--ultimate-edition|Redout 2 - Ultimate Edition|49,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1528|redout-enhanced-edition--back-to-earth-pack|Redout: Back to Earth Pack|3,99€|35|2022-12-15 16h|2023-01-05 16h|
+|1529|redout-enhanced-edition|Redout: Enhanced Edition|15,99€|70|2022-12-15 16h|2023-01-05 16h|
+|1530|redout-enhanced-edition--mars-pack|Redout: Mars Pack|3,19€|35|2022-12-15 16h|2023-01-05 16h|
+|1531|redout-enhanced-edition--neptune-pack|Redout: Neptune Pack|3,19€|35|2022-12-15 16h|2023-01-05 16h|
+|1532|redout-space-assault|Redout: Space Assault|7,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1533|redout-enhanced-edition--space-exploration-pack|Redout: Space Exploration Pack|3,99€|35|2022-12-15 16h|2023-01-05 16h|
+|1534|redout-enhanced-edition--ultimate-edition|Redout: Ultimate Edition|23,99€|35|2022-12-15 16h|2023-01-05 16h|
+|1535|redout-enhanced-edition--vertex-pack|Redout: V.E.R.T.E.X. Pack|3,19€|35|2022-12-15 16h|2023-01-05 16h|
+|1536|relicta|Relicta|19,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1537|remnant-from-the-ashes|Remnant: From the Ashes|39,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1538|remnant-from-the-ashes--complete-edition|Remnant: From the Ashes - Complete Edition|51,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1539|remnant-from-the-ashes--subject-2923|Remnant: From the Ashes – Subject 2923|9,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1540|remnant-from-the-ashes--swamps-of-corsus|Remnant: From the Ashes – Swamps of Corsus|9,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1541|pc-building-simulator--republic-of-gamers-workshop|Republic of Gamers Workshop|4,99€|25|2022-12-15 16h|2023-01-05 16h|
+|1542|rescue-party-live|Rescue Party: Live!|9,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1543|restless-soul-d5baed|Restless Soul|11,99€|35|2022-12-15 16h|2023-01-05 16h|
+|1544|faeria--resurgence|Resurgence DLC|9,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1545|retreat-to-enen-60ef78|Retreat To Enen|24,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1546|bassmaster-fishing-2022-retro-cosmetic-pack-season-pass-85466e|Retro Cosmetic Pack Season Pass|9,99€|35|2022-12-15 16h|2023-01-05 16h|
+|1547|retrowave-rider-18aaf1|Retrowave Rider|3,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1548|reverie-knights-tactics-82a158|Reverie Knights Tactics|24,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1549|revita-d8ff55|Revita|16,99€|25|2022-12-15 16h|2023-01-05 16h|
+|1550|revita-revita-soundtrack-bf4ecb|Revita - Soundtrack|9,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1551|rhiannon-curse-of-the-four-branches-ae93f9|Rhiannon - Curse of the Four Branches|3,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1552|rims-racing|RiMS Racing|49,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1553|rims-racing--european-manufacturers-deluxe-edition|RiMS Racing : European Manufacturers Deluxe Edition|59,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1554|rims-racing--japanese-manufacturers-deluxe-edition|RiMS Racing : Japanese Manufacturers Deluxe Edition|59,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1555|rims-racing--ultimate-edition|RiMS Racing : Ultimate Edition|69,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1556|rims-racing--bahrain-international-circuit|RiMS Racing Bahrain International Circuit|4,99€|25|2022-12-15 16h|2023-01-05 16h|
+|1557|rims-racing--career-pro-starter-pack|RiMS Racing Career Pro Starter Pack|2,99€|25|2022-12-15 16h|2023-01-05 16h|
+|1558|rims-racing--nolan-x-lite-helmets|RiMS Racing Nolan X-LITE Helmets|1,99€|25|2022-12-15 16h|2023-01-05 16h|
+|1559|rims-racing--the-bloody-beetroots-specials|RiMS Racing The Bloody Beetroots Specials|3,99€|25|2022-12-15 16h|2023-01-05 16h|
+|1560|rims-racing--european-manufacturers-package|RiMS Racing: European Manufacturers Package|14,99€|25|2022-12-15 16h|2023-01-05 16h|
+|1561|rims-racing--japanese-manufacturers-package|RiMS Racing: Japanese Manufacturers Package|14,99€|25|2022-12-15 16h|2023-01-05 16h|
+|1562|idle-champions-of-the-forgotten-realms--ricochet-the-crocodile-hatchling-familiar-pack|Ricochet, the Crocodile Hatchling Familiar Pack|3,99€|50|2023-01-13 20h|2023-01-20 20h|
+|1563|riders-republic|Riders Republic|59,99€|70|2022-12-15 16h|2023-01-05 16h|
+|1564|riders-republic--year-one-pass|Riders Republic™ Year 1 Pass|39,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1565|rignroll-522598|Rig'n'Roll|4,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1566|rimworld|RimWorld|32,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1567|rimworld--ideology-dlc|RimWorld Ideology DLC|18,99€|10|2022-12-15 16h|2023-01-05 16h|
+|1568|rimworld--royalty-dlc|RimWorld Royalty DLC|18,99€|10|2022-12-15 16h|2023-01-05 16h|
+|1569|ring-of-pain|Ring of Pain|19,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1570|rise-of-the-tomb-raider|Rise of the Tomb Raider: 20 Year Celebration|29,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1571|rising-storm-2-vietnam|Rising Storm 2: Vietnam|21,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1572|risk-of-rain-2|Risk of Rain 2|19,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1573|risk-of-rain-2--survivors-of-the-void-bundle|Risk of Rain 2 & Survivors of the Void|34,78€|35|2022-12-15 16h|2023-01-05 16h|
+|1574|road-96|Road 96|19,96€|50|2022-12-15 16h|2023-01-05 16h|
+|1575|road-96--hitchhiker-bundle|Road 96 - Hitchhiker Bundle|29,91€|48|2022-12-15 16h|2023-01-05 16h|
+|1576|road-96--prologue-ebook|Road 96 - Prologue eBook|9,96€|60|2022-12-15 16h|2023-01-05 16h|
+|1577|road-96--soundtrack|Road 96 - Soundtrack|9,96€|60|2022-12-15 16h|2023-01-05 16h|
+|1578|rogue-legacy|Rogue Legacy|11,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1579|rogue-legacy-2|Rogue Legacy 2|19,99€|25|2022-12-15 16h|2023-01-05 16h|
+|1580|rogue-lords|Rogue Lords|24,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1581|rogue-lords--supporter-pack|Rogue Lords - Supporter Pack|9,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1582|rougebook|Roguebook|24,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1583|roguebook--original-soundtrack|Roguebook - Original Soundtrack|7,99€|25|2022-12-15 16h|2023-01-05 16h|
+|1584|roguebook--art-of-roguebook|Roguebook - The Art of Roguebook|4,99€|25|2022-12-15 16h|2023-01-05 16h|
+|1585|roguebook--alternate-art-pack|Roguebook – Alternate Art Pack|4,99€|25|2022-12-15 16h|2023-01-05 16h|
+|1586|roguebook--heroes-skin-pack|Roguebook – Heroes Skins Pack|4,99€|25|2022-12-15 16h|2023-01-05 16h|
+|1587|rollercoaster-tycoon-3-complete-edition|RollerCoaster Tycoon 3 Complete Edition|19,99€|65|2022-12-15 16h|2023-01-05 16h|
+|1588|ruggnar-06d06b|Ruggnar|13,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1589|ruin-raiders-d2d613|Ruin Raiders|15,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1590|ruined-king-a-league-of-legends-story|Ruined King: A League of Legends Story™|29,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1591|iron-harvest--rusviet-revolution|Rusviet Revolution|3,99€|38|2022-12-15 16h|2023-01-05 16h|
+|1592|sifu--deluxe-edition|SIFU Digital Deluxe Edition|49,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1593|sludge-life|SLUDGE LIFE|14,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1594|smite--digital-deluxe-2022|SMITE Digital Deluxe 2022|47,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1595|smite--season-pass-2022|SMITE Season Pass 2022|31,99€|33|2022-12-15 16h|2023-01-17 14h|
+|1596|smite--ultimate-god-pack|SMITE Ultimate God Pack|23,99€|75|2022-12-15 16h|2023-01-17 14h|
+|1597|star-wars-jedi-fallen-order--deluxe-edition|STAR WARS Jedi: Fallen Order Deluxe Edition|49,99€|86|2022-12-15 16h|2023-01-05 16h|
+|1598|star-wars-jedi-fallen-order|STAR WARS Jedi: Fallen Order Standard Edition|39,99€|88|2022-12-15 16h|2023-01-05 16h|
+|1599|star-wars-battlefront-2|STAR WARS™ Battlefront™ II: Celebration Edition|39,99€|85|2022-12-15 16h|2023-01-05 16h|
+|1600|star-wars-battlefront|STAR WARS™ Battlefront™ Ultimate Edition|19,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1601|star-wars-squadrons|STAR WARS™: Squadrons|39,99€|85|2022-12-15 16h|2023-01-05 16h|
+|1602|stranger-of-paradise-final-fantasy-origin|STRANGER OF PARADISE FINAL FANTASY ORIGIN|59,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1603|stranger-of-paradise-final-fantasy-origin--digital-deluxe-edition|STRANGER OF PARADISE FINAL FANTASY ORIGIN Digital Deluxe Edition|89,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1604|heroes-and-generals-wwii--su-elite-fireteam|SU Elite Fireteam Bundle|79,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1605|heroes-and-generals-wwii--su-giga-pack|SU Giga Pack|199,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1606|heroes-and-generals-wwii--su-mega-pack|SU Mega Pack|149,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1607|heroes-and-generals-wwii--su-infantry-anti-tank|SU Soldier Pack: Infantry Anti-Tank|19,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1608|heroes-and-generals-wwii--su-infantry-assault|SU Soldier Pack: Infantry Assault|49,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1609|heroes-and-generals-wwii--su-infantry-medic|SU Soldier Pack: Infantry Medic|29,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1610|heroes-and-generals-wwii--su-starter-pack|SU Starter Pack|4,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1611|heroes-and-generals-wwii--su-super-pack|SU Super Pack|99,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1612|symmetry-44cf24|SYMMETRY|9,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1613|sable|Sable|24,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1614|sackboy-a-big-adventure|Sackboy™: A Big Adventure|59,99€|33|2022-12-15 16h|2023-01-05 16h|
+|1615|sailingera-450a80|Sailing Era|19,99€|10|2023-01-12 05h|2023-01-19 05h|
+|1616|saints-row|Saints Row|59,99€|45|2022-12-15 16h|2023-01-05 16h|
+|1617|saints-row--gold-edition|Saints Row Gold Edition|89,99€|33|2022-12-15 16h|2023-01-05 16h|
+|1618|saints-row--platinum-edition|Saints Row Platinum Edition|99,99€|33|2022-12-15 16h|2023-01-05 16h|
+|1619|saints-row-the-third-remastered|Saints Row®: The Third™ Remastered|39,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1620|sherlock-holmes-chapter-one--saints-and-sinners|Saints and Sinners|4,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1621|sands-of-aura|Sands of Aura|21,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1622|satisfactory|Satisfactory|29,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1623|saturnalia|Saturnalia|19,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1624|saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited|Saviors of Sapphire Wings & Strangers of Sword City Revisited|39,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1625|saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited/limited-edition|Saviors of Sapphire Wings & Strangers of Sword City Revisited Digital Limited Edition|47,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1626|scarf-dd1030|Scarf|14,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1627|scarlet-hood-and-the-wicked-wood|Scarlet Hood and the Wicked Wood|14,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1628|schein-77f039|Schein|3,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1629|scorn|Scorn|39,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1630|scott-pilgrim-vs-the-world-the-game|Scott Pilgrim vs. The World: The Game – Complete Edition|14,99€|67|2022-12-15 16h|2023-01-05 16h|
+|1631|scourgebringer|Scourgebringer|16,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1632|scourgebringer--soundtrack|Scourgebringer OST|6,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1633|scrapnaut|Scrapnaut|10,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1634|screamer-460080|Screamer|7,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1635|screamer-2-ae0386|Screamer 2|7,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1636|snowrunner--season-5-build-and-dispatch|Season 5: Build & Dispatch|6,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1637|anno-1800--seat-of-power|Seat of Power - DLC|9,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1638|second-extinction|Second Extinction™|24,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1639|secret-government|Secret Government|24,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1640|sense-cyberpunk-ghost-story-8547ca|Sense - A Cyberpunk Ghost Story|15,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1641|sephonie-6ab6f7|Sephonie|23,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1642|session-skate-sim|Session: Skate Sim|39,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1643|session-skate-sim--brandalised-pack|Session: Skate Sim - Brandalised Pack|4,99€|15|2022-12-15 16h|2023-01-05 16h|
+|1644|session-skate-sim--supporter-edition|Session: Skate Sim - Supporter Edition|49,78€|30|2022-12-15 16h|2023-01-05 16h|
+|1645|session-skate-sim--supporter-pack|Session: Skate Sim - Supporter Pack|14,99€|15|2022-12-15 16h|2023-01-05 16h|
+|1646|seven-enhanced-edition-9ba7c7|Seven - Enhanced Edition|27,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1647|severed-steel|Severed Steel|24,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1648|severed-steel--digital-deluxe-edition|Severed Steel Digital Deluxe Edition|33,23€|50|2022-12-15 16h|2023-01-05 16h|
+|1649|shadow-tactics-aikos-choice-5678c1|Shadow Tactics - Aiko's Choice|19,98€|60|2022-12-15 16h|2023-01-05 16h|
+|1650|shadow-of-the-tomb-raider|Shadow of the Tomb Raider: Definitive Edition|39,99€|70|2022-12-15 16h|2023-01-05 16h|
+|1651|idle-champions-of-the-forgotten-realms--shadowfell-desmond-theme-pack|Shadowfell Desmond Theme Pack|19,99€|50|2023-01-20 20h|2023-01-27 20h|
+|1652|idle-champions-of-the-forgotten-realms--shadowfell-farideh-skin-feat-pack|Shadowfell Farideh Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
+|1653|idle-champions-of-the-forgotten-realms--shadowfell-havilar-skin-feat-pack|Shadowfell Havilar Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
+|1654|idle-champions-of-the-forgotten-realms--shadowfell-mehen-skin-feat-pack|Shadowfell Mehen Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
+|1655|idle-champions-of-the-forgotten-realms--shadowfell-tatyana-theme-pack|Shadowfell Tatyana Theme Pack|19,99€|50|2023-01-13 20h|2023-01-20 20h|
+|1656|shadowhand|Shadowhand|11,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1657|shadowrun-hong-kong|Shadowrun Hong Kong - Extended Edition|19,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1658|shadowrun-hong-kong--extended-edition-deluxe|Shadowrun Hong Kong - Extended Edition Deluxe|29,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1659|shadowrun-returns|Shadowrun Returns|14,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1660|shadowrun-returns--deluxe-edition|Shadowrun Returns Deluxe Edition|24,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1661|shadowrun-dragonfall|Shadowrun: Dragonfall - Director’s Cut|14,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1662|shady-part-of-me|Shady Part of Me|14,99€|67|2022-12-15 16h|2023-01-05 16h|
+|1663|shakedown-hawaii|Shakedown - Hawaii|19,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1664|shakedown-hawaii|Shakedown Hawaii|19,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1665|shattered-steel-b4dd87|Shattered Steel|7,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1666|sheepo-62cd3e|Sheepo|7,99€|35|2022-12-15 16h|2023-01-05 16h|
+|1667|sheltered|Sheltered|14,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1668|shenmue-3--season-pass|Shenmue 3 Season Pass|11,99€|65|2022-12-15 16h|2023-01-05 16h|
+|1669|shenmue-3|Shenmue III|29,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1670|shenmue-3--battle-rally|Shenmue III - Battle Rally|5,99€|70|2022-12-15 16h|2023-01-05 16h|
+|1671|shenmue-3--big-merry-cruise|Shenmue III - Big Merry Cruise|2,99€|67|2022-12-15 16h|2023-01-05 16h|
+|1672|shenmue-3--deluxe-edition|Shenmue III - Deluxe Edition|39,99€|77|2022-12-15 16h|2023-01-05 16h|
+|1673|shenmue-3|Shenmue III - Standard Edition|29,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1674|shenmue-3--story-quest-pack|Shenmue III - Story Quest Pack|3,99€|65|2022-12-15 16h|2023-01-05 16h|
+|1675|sherlock-holmes-chapter-one|Sherlock Holmes Chapter One|44,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1676|sherlock-holmes-chapter-one--season-pass|Sherlock Holmes Chapter One - Season Pass|24,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1677|sherlock-holmes-chapter-one--deluxe-edition|Sherlock Holmes Chapter One Deluxe Edition|59,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1678|sherlock-holmes-chapter-one--ost-and-artbook|Sherlock Holmes Chapter One OST and Artbook|10,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1679|sherlock-holmes-crimes-and-punishments|Sherlock Holmes Crimes and Punishments|29,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1680|sherlock-holmes-crimes-and-punishments|Sherlock Holmes: Crimes and Punishments|29,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1681|sherlock-holmes-the-devils-daughter|Sherlock Holmes: The Devil's Daughter|29,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1682|sid-meiers-civilization-vi|Sid Meier’s Civilization® VI|59,99€|90|2022-12-15 16h|2023-01-05 16h|
+|1683|sid-meiers-civilization-vi--anthology-edition|Sid Meier’s Civilization® VI Anthology|99,99€|70|2022-12-15 16h|2023-01-05 16h|
+|1684|sid-meiers-civilization-vi--anthology-upgrade|Sid Meier’s Civilization® VI Anthology Upgrade|49,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1685|sid-meiers-civilization-vi--platinum-edition|Sid Meier’s Civilization® VI Platinum Edition|79,99€|81|2022-12-15 16h|2023-01-05 16h|
+|1686|siege-survival-gloria-victis|Siege Survival - Gloria Victis|24,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1687|sifu|Sifu|39,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1688|sine-mora-ex-d4fd23|Sine Mora Ex|9,99€|90|2022-12-15 16h|2023-01-05 16h|
+|1689|skul-the-hero-slayer|Skul: The Hero Slayer|15,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1690|skydrift-infinity-c4ca37|SkyDrift Infinity|9,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1691| skabma-snowfall|Skábma - Snowfall|19,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1692|slain-aea303|Slain: Back From Hell|9,99€|85|2022-12-15 16h|2023-01-05 16h|
+|1693|slaycation-paradise-47a603|Slaycation Paradise|11,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1694|slime-rancher|Slime Rancher|19,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1695|slime-rancher-2|Slime Rancher 2|23,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1696|slime-rancher--secret-style-pack|Slime Rancher: Secret Style Pack|6,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1697|sludge-life|Sludge Life|14,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1698|sludge-life--ost|Sludge Life OST|6,00€|50|2022-12-15 16h|2023-01-05 16h|
+|1699|snowrunner|SnowRunner|29,99€|45|2022-12-15 16h|2023-01-05 16h|
+|1700|snowrunner--premium-edition|SnowRunner - 1-Year Anniversary Edition|39,99€|45|2022-12-15 16h|2023-01-05 16h|
+|1701|snowrunner--clasico-pack|SnowRunner - Clasico Pack|3,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1702|snowrunner--crocodile-pack|SnowRunner - Crocodile Pack|3,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1703|snowrunner--high-roller-pack|SnowRunner - High Roller Pack|0,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1704|snowrunner--jeep-dual-pack|SnowRunner - Jeep Dual Pack|5,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1705|snowrunner--land-rover-dual-pack|SnowRunner - Land Rover Dual Pack|5,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1706|snowrunner--loaded-dice-vinyl-wrap|SnowRunner - Loaded Dice Vinyl Wrap|0,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1707|snowrunner--rezvani-hercules|SnowRunner - Rezvani Hercules|3,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1708|snowrunner--scorched-vinyl-wrap|SnowRunner - Scorched Vinyl Wrap|0,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1709|snowrunner--season-1-search-and-recover|SnowRunner - Season 1: Search & Recover|6,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1710|snowrunner--season-2-explore-and-expand|SnowRunner - Season 2: Explore & Expand|6,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1711|snowrunner--season-6-haul-and-hustle|SnowRunner - Season 6: Haul & Hustle|6,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1712|snowrunner--season-7-compete-conquer|SnowRunner - Season 7: Compete & Conquer|6,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1713|snowrunner--season-8-grand-harvest|SnowRunner - Season 8: Grand Harvest|11,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1714|snowrunner--tatra-dual-pack|SnowRunner - TATRA Dual Pack|5,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1715|snowrunner--true-colors-vinyl-wrap|SnowRunner - True Colors Vinyl Wrap|0,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1716|snowrunner--western-star-49x|SnowRunner - Western Star 49X|3,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1717|snowrunner--western-star-wolf-pack|SnowRunner - Western Star Wolf Pack|5,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1718|snowrunner--burning-bright-vinyl-wrap|Snowrunner - Burning Bright Vinyl Wrap Pack|2,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1719|snowrunner--gmc-brigadier|Snowrunner - GMC Brigadier|3,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1720|snowrunner--season-3-locate-and-deliver|Snowrunner - Season 3: Locate & Deliver|6,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1721|snowrunner--season-4-new-frontiers|Snowrunner - Season 4: New Frontiers|11,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1722|snowrunner--year-2-pass|Snowrunner - Year 2 Pass|24,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1723|sockventure|Sockventure|14,49€|75|2022-12-15 16h|2023-01-05 16h|
+|1724|sokobond|Sokobond|7,99€|70|2022-12-15 16h|2023-01-05 16h|
+|1725|solar-ash|Solar Ash|33,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1726|gloomhaven-solo-scenarios-pack-mercenary-challenges-c701f3|Solo Scenarios: Mercenary Challenges|4,99€|10|2022-12-15 16h|2023-01-05 16h|
+|1727|song-of-farca-1eb3f2|Song of Farca|15,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1728|sonic-colors-ultimate|Sonic Colors: Ultimate|39,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1729|sonic-colors-ultimate--digital-deluxe-edition|Sonic Colors: Ultimate - Digital Deluxe|44,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1730|sonic-colors-ultimate--music-pack|Sonic Colors: Ultimate - Music Pack|4,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1731|sonic-colors-ultimate--ultimate-cosmetic-pack|Sonic Colors: Ultimate - Ultimate Cosmetic Pack|3,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1732|sonic-mania|Sonic Mania|19,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1733|sonic-mania--encore-dlc|Sonic Mania - Encore DLC|4,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1734|sonic-origins|Sonic Origins|39,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1735|sonic-origins--digital-deluxe-edition|Sonic Origins Digital Deluxe Edition|44,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1736|sonic-origins--classic-music-pack|Sonic Origins: Classic Music Pack|3,99€|45|2022-12-15 16h|2023-01-05 16h|
+|1737|sonic-origins--premium-fun-pack|Sonic Origins: Premium Fun Pack|3,99€|45|2022-12-15 16h|2023-01-05 16h|
+|1738|souldiers-3f612b|Souldiers|19,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1739|soulless-ray-of-hope-e37a13|Soulless - Ray Of Hope|3,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1740|idle-champions-of-the-forgotten-realms--bardic-inspiration-vol1|Soundtrack - Bardic Inspiration Vol. 1|7,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1741|idle-champions-of-the-forgotten-realms--bardic-inspiration-vol-2|Soundtrack - Bardic Inspiration Volume 2|7,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1742|galactic-civilizations-iii--soundtrack|Soundtrack - Galactic Civilizations III|8,19€|75|2022-12-15 16h|2023-01-05 16h|
+|1743|as-far-as-the-eye--soundtrack-bundle|Soundtrack Bundle|26,26€|69|2022-12-15 16h|2023-01-05 16h|
+|1744|source-of-madness-287857|Source of Madness|19,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1745|south-park-the-fractured-but-whole|South Park: The Fractured But Whole|59,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1746|south-park-the-fractured-but-whole--season-pass|South Park: The Fractured But Whole - Season Pass|29,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1747|south-park-the-stick-of-truth|South Park: The Stick of Truth|29,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1748|south-park-the-fractured-but-whole--gold-edition|South Park™: The Fractured But Whole™ Gold Edition|89,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1749|south-park-the-fractured-but-whole|South Park™: The Fractured But Whole™ Standard Edition|59,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1750|south-park-the-stick-of-truth|South Park™: The Stick of Truth™|29,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1751|space-hack-02fd17|Space Hack|3,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1752|space-rangers-hd-a-war-apart-455702|Space Rangers HD A War Apart|14,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1753|space-trader-merchant-marine-0426a8|Space Trader - Merchant Marine|3,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1754|spacebase-startopia|Spacebase Startopia - Standard Edition|39,99€|65|2022-12-15 16h|2023-01-05 16h|
+|1755|spellforce-3--digital-extras|SpellForce 3 Digital Extras|7,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1756|spellforce-3|SpellForce 3 Reforced|39,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1757|spellforce-3-fallen-god|SpellForce 3: Fallen God|19,99€|67|2022-12-15 16h|2023-01-05 16h|
+|1758|spellforce-3-fallen-god--digital-extras|SpellForce 3: Fallen God Digital Extras|2,99€|67|2022-12-15 16h|2023-01-05 16h|
+|1759|spellforce-3-fallen-god--soundtrack|SpellForce 3: Fallen God Soundtrack|4,99€|67|2022-12-15 16h|2023-01-05 16h|
+|1760|spellforce-3-soul-harvest|SpellForce 3: Soul Harvest|19,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1761|spellforce-3-soul-harvest--digital-extras|SpellForce 3: Soul Harvest Digital Extras|4,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1762|spellforce-3-versus--full-pvp-upgrade|SpellForce 3: Versus Edition - Full PvP Upgrade|14,99€|67|2022-12-15 16h|2023-01-05 16h|
+|1763|spelldrifter|Spelldrifter|15,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1764|idle-champions-of-the-forgotten-realms--spelljammer-kent-theme-pack|Spelljammer Kent Theme Pack|19,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1765|idle-champions-of-the-forgotten-realms--spelljammer-strix-theme-pack|Spelljammer Strix Theme Pack|19,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1766|spiderheck-0fb81d|SpiderHeck|14,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1767|spinch-239b03|Spinch|11,99€|45|2022-12-15 16h|2023-01-05 16h|
+|1768|spirit-of-the-island|Spirit of the Island|24,99€|38|2022-12-15 16h|2023-01-05 16h|
+|1769|spirit-of-the-north-f58a66|Spirit of the North|15,99€|66|2022-12-15 16h|2023-01-05 16h|
+|1770|spiritfarer|Spiritfarer®: Farewell Edition|24,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1771|tropico-6--spitter|Spitter|9,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1772|splinter-cell-chaos-theory|Splinter Cell Chaos Theory|9,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1773|spongebob-squarepants-battle-for-bikini-bottom-rehydrated|SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated|29,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1774|spring-sale-2020|Spring Sale 2020|15,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1775|idle-champions-of-the-forgotten-realms--squiddle-the-gnome-squidling-familiar-pack|Squiddle the Gnome Squidling Familiar Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
+|1776|star-renegades|Star Renegades|24,99€|66|2022-12-15 16h|2023-01-05 16h|
+|1777|star-vikings-forever-215b84|Star Vikings Forever|7,99€|85|2022-12-15 16h|2023-01-05 16h|
+|1778|star-wars-jedi-fallen-order|Star Wars Jedi: Fallen Order|39,99€|88|2022-12-15 16h|2023-01-05 16h|
+|1779|starsand|Starsand|16,79€|30|2022-12-15 16h|2023-01-05 16h|
+|1780|startup-panic|Startup Panic|11,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1781|idle-champions-of-the-forgotten-realms--steampunk-nordom-the-modron-theme-pack|Steampunk Nordom the Modron Theme Pack|19,99€|50|2023-01-27 20h|2023-02-03 20h|
+|1782|steel-rats-445306|Steel Rats|9,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1783|steelrising|Steelrising|49,99€|35|2022-12-15 16h|2023-01-05 16h|
+|1784|steelrising--bastille-edition|Steelrising - Bastille Edition|59,99€|35|2022-12-15 16h|2023-01-05 16h|
+|1785|steelrising--cagliostros-secrets|Steelrising - Cagliostro's Secrets|14,99€|10|2022-12-15 16h|2023-01-05 16h|
+|1786|steelrising--discus-chain|Steelrising - Discus Chain|2,99€|15|2022-12-15 16h|2023-01-05 16h|
+|1787|steelrising--marie-antoinette-pack|Steelrising - Marie-Antoinette Cosmetic Pack|3,99€|15|2022-12-15 16h|2023-01-05 16h|
+|1788|steep|Steep|29,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1789|steep--90s-dlc|Steep 90s DLC|4,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1790|steep--rocket-wings-dlc|Steep Rocket Wings - DLC|4,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1791|steep--season-pass|Steep Season Pass|19,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1792|steep|Steep Standard Edition|29,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1793|steep--x-games-dlc|Steep X DLC|9,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1794|steep--x-games-gold-edition|Steep X Games Gold Edition|39,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1795|steep--x-games-pass|Steep XGames Season Pass|14,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1796|stick-it-to-the-man|Stick It To The Man!|5,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1797|stonekeep-d87a3b|Stonekeep|7,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1798|this-war-of-mine--fathers-promise|Stories - Father's Promise (ep.1) DLC|1,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1799|this-war-of-mine--season-pass|Stories - Season Pass|6,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1800|this-war-of-mine--the-last-broadcast|Stories - The Last Broadcast (ep. 2) DLC|3,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1801|stories-untold|Stories Untold|9,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1802|strategic-mind-blitzkrieg-d7e9a6|Strategic Mind: Blitzkrieg|33,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1803|strategic-mind-fight-for-freedom-c1b241|Strategic Mind: Fight for Freedom|24,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1804|strategic-mind-spectre-of-communism-56ed91|Strategic Mind: Spectre of Communism|24,99€|35|2022-12-15 16h|2023-01-05 16h|
+|1805|strategic-mind-the-pacific-a0d2eb|Strategic Mind: The Pacific|23,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1806|stubbs-the-zombie-in-rebel-without-a-pulse|Stubbs the Zombie in Rebel Without a Pulse|15,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1807|stygian-reign-of-the-old-ones-56e1d7|Stygian: Reign of the Old Ones|19,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1808|subnautica|Subnautica|29,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1809|subnautica-below-zero|Subnautica Below Zero|29,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1810|suchart-genius-artist-simulator|SuchArt: Genius Artist Simulator|24,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1811|summum-aeterna-6e9374|Summum Aeterna|15,99€|10|2022-12-15 16h|2023-01-05 16h|
+|1812|sundered-eldritch-edition|Sundered Eldritch Edition|19,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1813|sundered-eldritch-edition|Sundered: Eldritch Edition|19,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1814|anno-1800--sunken-treasures|Sunken Treasures - DLC|11,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1815|super-meat-boy|Super Meat Boy|14,99€|87|2022-12-15 16h|2023-01-05 16h|
+|1816|super-meat-boy-forever|Super Meat Boy Forever|15,99€|86|2022-12-15 16h|2023-01-05 16h|
+|1817|superbrothers-sword-and-sworcery-ep|Superbrothers: Sword & Sworcery EP|6,99€|55|2022-12-15 16h|2023-01-05 16h|
+|1818|superliminal--double-album-soundtrack|Superliminal Double-Album Soundtrack|5,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1819|as-far-as-the-eye--supporter-bundle|Supporter Bundle|31,08€|68|2022-12-15 16h|2023-01-05 16h|
+|1820|scourgebringer--supporter-bundle|Supporter Bundle|21,82€|43|2022-12-15 16h|2023-01-05 16h|
+|1821|surviving-mars|Surviving Mars|29,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1822|surviving-mars--surviving-mars-colony-design-set|Surviving Mars - Colony Design Set|4,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1823|surviving-mars--surviving-mars-deluxe-upgrade-pack|Surviving Mars - Deluxe Upgrade Pack|10,00€|50|2022-12-15 16h|2023-01-05 16h|
+|1824|surviving-mars|Surviving Mars - Digital Deluxe Edition|39,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1825|surviving-mars--surviving-mars-green-planet|Surviving Mars - Green Planet|19,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1826|surviving-mars--surviving-mars-marsvision-song-contest|Surviving Mars - Marsvision Song Contest|3,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1827|surviving-mars--surviving-mars-project-laika|Surviving Mars - Project Laika|5,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1828|surviving-mars--surviving-mars-season-pass|Surviving Mars - Season Pass|34,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1829|surviving-mars--surviving-mars-space-race|Surviving Mars - Space Race|12,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1830|surviving-mars--starter-bundle|Surviving Mars - Starter Bundle|58,46€|59|2022-12-15 16h|2023-01-05 16h|
+|1831|surviving-mars--surviving-mars-stellaris-dome-set|Surviving Mars - Stellaris Dome Set|3,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1832|surviving-mars--below-and-beyond|Surviving Mars: Below & Beyond|19,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1833|surviving-mars--future-contemporary-cosmetic-pack|Surviving Mars: Future Contemporary Cosmetic Pack|4,99€|10|2022-12-15 16h|2023-01-05 16h|
+|1834|surviving-mars--surviving-mars-in-dome-buildings-pack|Surviving Mars: In-Dome Buildings Pack|4,99€|33|2022-12-15 16h|2023-01-05 16h|
+|1835|surviving-mars--mars-lifestyle-radio|Surviving Mars: Mars Lifestyle Radio|3,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1836|surviving-mars--martian-express|Surviving Mars: Martian Express|5,99€|10|2022-12-15 16h|2023-01-05 16h|
+|1837|surviving-mars--revelation-radio-pack|Surviving Mars: Revelation Radio Pack|3,99€|10|2022-12-15 16h|2023-01-05 16h|
+|1838|surviving-the-aftermath|Surviving the Aftermath|24,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1839|surviving-the-aftermath--new-alliances|Surviving the Aftermath: New Alliances|14,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1840|surviving-the-aftermath--ultimate-colony-edition|Surviving the Aftermath: Ultimate Colony Edition|54,99€|10|2022-12-15 16h|2023-01-05 16h|
+|1841|risk-of-rain-2--survivors-of-the-void|Survivors of the Void|11,99€|35|2022-12-15 16h|2023-01-05 16h|
+|1842|suzerain|Suzerain|12,49€|60|2022-12-15 16h|2023-01-05 16h|
+|1843|suzerain--original-soundtrack|Suzerain Original Soundtrack|9,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1844|suzerain--presidential-edition|Suzerain: Presidential Edition|19,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1845|syberia-the-world-before|Syberia: The World Before|39,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1846|symphony-of-war-60a76e|Symphony of War|19,99€|25|2022-12-15 16h|2023-01-05 16h|
+|1847|synergia|Synergia|9,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1848|bassmaster-fishing-2022-synthwave-pack-7b3d59|Synthwave Pack|4,99€|35|2022-12-15 16h|2023-01-05 16h|
+|1849|tohu|TOHU|12,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1850|tacoma|Tacoma|16,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1851|tails-of-iron-587abd|Tails of Iron|24,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1852|tales-from-the-borderlands|Tales from the Borderlands|19,99€|25|2022-12-15 16h|2023-01-05 16h|
+|1853|tandem-a-tale-of-shadows-c3f55e|Tandem: A Tale of Shadows|14,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1854|tannenberg|Tannenberg|19,99€|70|2022-12-15 16h|2023-01-05 16h|
+|1855|teacup|Teacup|7,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1856|terraforming-mars-18c3ad|Terraforming Mars|19,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1857|terraforming-mars-hellas-and-elysium-f5cf6b|Terraforming Mars - Hellas & Elysium|6,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1858|terraforming-mars-prelude-d4367f|Terraforming Mars - Prelude|6,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1859|terrain-of-magical-expertise|Terrain of Magical Expertise|24,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1860|terror-of-hemasaurus-a08800|Terror of Hemasaurus|9,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1861|tetris-effect|Tetris® Effect|31,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1862|tetris-effect|Tetris® Effect: Connected|31,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1863|world-of-warships--texas|Texas|17,93€|50|2022-12-15 16h|2023-01-05 16h|
+|1864|killing-floor-2--armory-season-pass|The 2021 Armory Season Pass|24,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1865|the-alien-cube-789431|The Alien Cube|19,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1866|the-alien-cube-the-alien-cube-behind-the-scenes-c91de0|The Alien Cube - Behind the scenes|1,99€|25|2022-12-15 16h|2023-01-05 16h|
+|1867|the-alien-cube-deluxe-edition|The Alien Cube - Deluxe Edition|20,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1868|kingdom-come-deliverance--the-amorous-adventures-of-bold-sir-hans-capon|The Amorous Adventures of Bold Sir Hans Capon|5,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1869|gamedec--the-art-of-gamedec|The Art of Gamedec|6,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1870|r-type-final-2--artbook|The Artwork of R-Type Final 2 - Art Book|2,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1871|the-big-con|The Big Con|12,49€|66|2022-12-15 16h|2023-01-05 16h|
+|1872|the-bridge|The Bridge|9,99€|86|2022-12-15 16h|2023-01-05 16h|
+|1873|the-bunker-03b712|The Bunker|9,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1874|the-captain|The Captain|15,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1875|genesis-noir--cosmic-collection|The Cosmic Collection|21,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1876|the-count-lucanor|The Count Lucanor|7,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1877|the-crew-2|The Crew 2|49,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1878|the-crew-2--season-pass|The Crew 2 Season Pass|39,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1879|the-crew-2--special-edition|The Crew 2 Special Edition|59,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1880|the-crew-2|The Crew 2 Standard Edition|49,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1881|assassins-creed-origins--the-curse-of-the-pharaohs|The Curse of the Pharaohs - DLC|19,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1882|the-darkest-tales-7d0dab|The Darkest Tales|15,99€|35|2022-12-22 18h|2023-01-05 18h|
+|1883|the-darkside-detective-02fd5a|The Darkside Detective|9,99€|70|2022-12-15 16h|2023-01-05 16h|
+|1884|the-darkside-detective-a-fumble-in-the-dark-174fcf|The Darkside Detective A Fumble in the Dark|9,99€|35|2022-12-15 16h|2023-01-05 16h|
+|1885|the-division-2|The Division 2|29,99€|70|2022-12-15 16h|2023-01-05 16h|
+|1886|the-division-2|The Division 2 Standard Edition|29,99€|70|2022-12-15 16h|2023-01-05 16h|
+|1887|the-division-2--warlords-of-new-york-edition|The Division 2 Warlords of New York Edition|59,99€|70|2022-12-15 16h|2023-01-05 16h|
+|1888|the-division-2--warlords-of-new-york-ultimate-edition|The Division 2 Warlords of New York Ultimate Edition|79,99€|70|2022-12-15 16h|2023-01-05 16h|
+|1889|the-dungeon-of-naheulbeuk--ultimate-edition|The Dungeon Of Naheulbeuk - Ultimate Edition|59,97€|26|2022-12-15 16h|2023-01-05 16h|
+|1890|the-dungeon-of-naheulbeuk|The Dungeon of Naheulbeuk|34,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1891|the-dungeon-of-naheulbeuk--deluxe-edition|The Dungeon of Naheulbeuk- Deluxe Edition|42,47€|42|2022-12-15 16h|2023-01-05 16h|
+|1892|the-escapists|The Escapists|14,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1893|the-escapists-2|The Escapists 2|19,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1894|the-eternal-cylinder|The Eternal Cylinder|23,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1895|the-fabled-woods|The Fabled Woods|9,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1896|the-falconeer--the-hunter|The Falconeer - The Hunter|1,99€|55|2022-12-15 16h|2023-01-05 16h|
+|1897|the-falconeer|The Falconeer: Standard Edition|19,99€|55|2022-12-15 16h|2023-01-05 16h|
+|1898|assassins-creed-odyssey--dlc-2|The Fate of Atlantis - DLC|24,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1899|the-forgotten-city|The Forgotten City|24,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1900|the-forgotten-city|The Forgotten City - Digital Collector's Edition|31,48€|31|2022-12-15 16h|2023-01-05 16h|
+|1901|control--the-foundation|The Foundation DLC|9,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1902|the-surge--good-bad-augmented-expansion|The Good, The Bad and The Augmented Expansion|4,99€|33|2022-12-15 16h|2023-01-05 16h|
+|1903|the-hand-of-merlin|The Hand of Merlin|21,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1904|the-hand-of-merlin--deluxe-edition|The Hand of Merlin Deluxe Edition|27,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1905|the-hand-of-merlin--hand-of-merlin-soundtrack|The Hand of Merlin Soundtrack|6,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1906|assassins-creed-origins--the-hidden-ones|The Hidden Ones - DLC|9,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1907|ancestors--soundtrack-bundle|The Humankind Odyssey Official Soundtrack Bundle|46,49€|60|2022-12-15 16h|2023-01-05 16h|
+|1908|jackbox-party-pack-1|The Jackbox Party Pack|22,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1909|jackbox-party-pack-2|The Jackbox Party Pack 2|22,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1910|jackbox-party-pack-3|The Jackbox Party Pack 3|22,99€|35|2022-12-15 16h|2023-01-05 16h|
+|1911|jackbox-party-pack-4|The Jackbox Party Pack 4|22,99€|45|2022-12-15 16h|2023-01-05 16h|
+|1912|jackbox-party-pack-5|The Jackbox Party Pack 5|24,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1913|jackbox-party-pack-6|The Jackbox Party Pack 6|24,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1914|jackbox-party-pack-7|The Jackbox Party Pack 7|23,99€|35|2022-12-15 16h|2023-01-05 16h|
+|1915|jackbox-party-pack-8|The Jackbox Party Pack 8|23,99€|35|2022-12-15 16h|2023-01-05 16h|
+|1916|the-last-campfire|The Last Campfire|14,99€|70|2022-12-15 16h|2023-01-05 16h|
+|1917|the-legend-of-heroes-trails-of-cold-steel-iii|The Legend of Heroes: Trails of Cold Steel III|59,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1918|the-legend-of-heroes-trails-of-cold-steel-iv|The Legend of Heroes: Trails of Cold Steel IV|59,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1919|the-legend-of-heroes-trails-of-cold-steel-iv--digital-deluxe-edition|The Legend of Heroes: Trails of Cold Steel IV Digital Deluxe Edition|79,97€|40|2022-12-15 16h|2023-01-05 16h|
+|1920|the-legend-of-tianding|The Legend of Tianding|19,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1921|the-life-and-suffering-of-sir-brante|The Life and Suffering of Sir Brante|19,99€|50|2022-12-22 18h|2023-01-05 18h|
+|1922|the-life-and-suffering-of-sir-brante--artbook-and-ost|The Life and Suffering of Sir Brante Artbook + OST|3,99€|50|2022-12-22 18h|2023-01-05 18h|
+|1923|this-war-of-mine--the-little-ones|The Little Ones DLC|4,99€|70|2022-12-15 16h|2023-01-05 16h|
+|1924|tropico-6--llama-of-wall-street|The Llama of Wall Street|9,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1925|the-longest-road-on-earth|The Longest Road on Earth|9,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1926|the-medium|The Medium|47,99€|44|2022-12-15 16h|2023-01-05 16h|
+|1927|the-messenger|The Messenger|16,79€|60|2022-12-15 16h|2023-01-05 16h|
+|1928|the-metronomicon-766679|The Metronomicon|15,99€|85|2022-12-15 16h|2023-01-05 16h|
+|1929|the-outer-worlds|The Outer Worlds|59,99€|67|2022-12-15 16h|2023-01-05 16h|
+|1930|the-outer-worlds--expansion-pass|The Outer Worlds Expansion Pass|24,99€|25|2022-12-15 16h|2023-01-05 16h|
+|1931|the-outer-worlds--peril-on-gorgon|The Outer Worlds Peril on Gorgon|14,99€|35|2022-12-15 16h|2023-01-05 16h|
+|1932|the-outer-worlds--murder-on-eridanos|The Outer Worlds: Murder on Eridanos|14,99€|35|2022-12-15 16h|2023-01-05 16h|
+|1933|the-outer-worlds--non-mandatory-corporate-sponsored-bundle|The Outer Worlds: Non-Mandatory Corporate-Sponsored Bundle|84,99€|55|2022-12-15 16h|2023-01-05 16h|
+|1934|anno-1800--the-passage|The Passage - DLC|14,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1935|the-pathless|The Pathless|32,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1936|the-signifier-directors-cut|The Signifier: Director's Cut|21,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1937|outward--the-soroboreans|The Soroboreans|14,99€|74|2022-12-15 16h|2023-01-05 16h|
+|1938|the-spectrum-retreat|The Spectrum Retreat|12,99€|70|2022-12-15 16h|2023-01-05 16h|
+|1939|the-suicide-of-rachel-foster-1dc01b|The Suicide of Rachel Foster|16,99€|85|2022-12-15 16h|2023-01-05 16h|
+|1940|the-surge--walk-in-the-park|The Surge - A Walk in the Park|4,99€|33|2022-12-15 16h|2023-01-05 16h|
+|1941|the-surge--augmented-edition|The Surge - Augmented Edition|24,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1942|the-talos-principle|The Talos Principle|39,99€|85|2022-12-15 16h|2023-01-05 16h|
+|1943|the-telltale-batman|The Telltale Batman Shadows Edition|24,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1944|the-tenants|The Tenants|19,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1945|the-textorcist|The Textorcist: The Story of Ray Bibbia|14,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1946|the-town-of-light|The Town of Light|18,99€|85|2022-12-15 16h|2023-01-05 16h|
+|1947|pathfinder-wrath-of-the-righteous--the-treasure-of-the-midnight-isles|The Treasure of the Midnight Isles|12,99€|30|2022-12-15 16h|2023-01-05 16h|
+|1948|the-uncertain-last-quiet-day|The Uncertain: Last Quiet Day|7,99€|85|2022-12-15 16h|2023-01-05 16h|
+|1949|the-uncertain-light-at-the-end|The Uncertain: Light at the End|7,99€|85|2022-12-15 16h|2023-01-05 16h|
+|1950|the-unfinished-swan|The Unfinished Swan|12,49€|70|2022-12-15 16h|2023-01-05 16h|
+|1951|walking-dead-final-season|The Walking Dead: Final Season|19,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1952|walking-dead-season-one|The Walking Dead: Season One|14,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1953|walking-dead-final-season|The Walking Dead: The Final Season|19,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1954|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
+|1955|they-are-coming-a17087|They Are Coming|9,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1956|this-is-the-police|This Is The Police|14,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1957|this-is-the-police-2|This Is The Police 2|14,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1958|this-is-the-police-2--official-soundtrack|This Is the Police 2 - Soundtrack|7,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1959|this-is-the-president|This Is the President|14,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1960|this-war-of-mine|This War of Mine|18,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1961|those-who-remain|Those Who Remain|19,99€|65|2022-12-15 16h|2023-01-05 16h|
+|1962|through-the-darkest-of-times|Through the Darkest of Times|14,99€|67|2022-12-15 16h|2023-01-05 16h|
+|1963|through-the-woods-4dad49|Through the Woods|19,98€|80|2022-12-15 16h|2023-01-05 16h|
+|1964|bassmaster-fishing-2022-throwback-bass-pack-58fec2|Throwback B.A.S.S.® Pack|4,99€|35|2022-12-15 16h|2023-01-05 16h|
+|1965|ticket-to-ride|Ticket to Ride|9,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1966|timberborn|Timberborn|19,99€|20|2022-12-15 16h|2023-01-05 16h|
+|1967|time-loader|Time Loader|12,49€|65|2022-12-15 16h|2023-01-05 16h|
+|1968|tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure|Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure|9,99€|50|2022-12-15 16h|2023-01-05 16h|
+|1969|titan-quest|Titan Quest Anniversary Edition|19,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1970|titan-quest--atlantis|Titan Quest: Atlantis|14,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1971|titan-quest--eternal-embers|Titan Quest: Eternal Embers|19,99€|40|2022-12-15 16h|2023-01-05 16h|
+|1972|titan-quest--ragnarok|Titan Quest: Ragnarök|19,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1973|to-the-rescue-a6c254|To The Rescue|15,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1974|ghost-recon-breakpoint|Tom Clancy's Ghost Recon Breakpoint|59,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1975|ghost-recon-wildlands|Tom Clancy's Ghost Recon Wildlands|49,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1976|ghost-recon-wildlands--gold-edition|Tom Clancy's Ghost Recon Wildlands Gold Edition|69,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1977|ghost-recon-wildlands|Tom Clancy's Ghost Recon Wildlands Standard Edition|49,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1978|ghost-recon-wildlands--ultimate-edition|Tom Clancy's Ghost Recon Wildlands Ultimate Edition|99,99€|80|2022-12-15 16h|2023-01-05 16h|
+|1979|rainbow-six-extraction|Tom Clancy's Rainbow Six Extraction|39,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1980|rainbow-six-extraction--deluxe-edition|Tom Clancy's Rainbow Six Extraction Deluxe Edition|49,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1981|rainbow-six-quarantine|Tom Clancy's Rainbow Six Quarantine|39,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1982|rainbow-six-siege|Tom Clancy's Rainbow Six® Siege|19,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1983|rainbow-six-united-bundle|Tom Clancy's Rainbow Six® Siege & Tom Clancy's Rainbow Six® Extraction Deluxe United Bundle|59,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1984|rainbow-six-siege--deluxe-year-7-edition|Tom Clancy's Rainbow Six® Siege Deluxe Edition|29,99€|67|2022-12-15 16h|2023-01-05 16h|
+|1985|rainbow-six-siege--operator-year-7-edition|Tom Clancy's Rainbow Six® Siege Operator Edition|69,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1986|rainbow-six-siege--ultimate-year-7-edition|Tom Clancy's Rainbow Six® Siege Ultimate Edition|89,99€|55|2022-12-15 16h|2023-01-05 16h|
+|1987|splinter-cell|Tom Clancy's Splinter Cell|4,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1988|the-division|Tom Clancy's The Division|29,99€|67|2022-12-15 16h|2023-01-05 16h|
+|1989|the-division-2--warlords-of-new-york-expansion|Tom Clancy's The Division 2 Warlords Of New York Expansion|29,99€|70|2022-12-15 16h|2023-01-05 16h|
+|1990|the-division--gold-edition|Tom Clancy's The Division Gold Edition|49,99€|67|2022-12-15 16h|2023-01-05 16h|
+|1991|the-division--season-pass|Tom Clancy's The Division Season Pass|19,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1992|ghost-recon-wildlands--fallen-ghosts-dlc|Tom Clancy’s Ghost Recon® Wildlands - Fallen Ghosts|14,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1993|ghost-recon-wildlands--year-1-pass|Tom Clancy’s Ghost Recon® Wildlands Season Pass Year 1|39,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1994|ghost-recon-wildlands--year-2-pass|Tom Clancy’s Ghost Recon® Wildlands Year 2 Pass|29,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1995|splinter-cell-double-agent|Tom Clancy’s Splinter Cell Double Agent|4,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1996|tomb-raider|Tomb Raider GAME OF THE YEAR EDITION|19,99€|75|2022-12-15 16h|2023-01-05 16h|
+|1997|tony-hawks-pro-skater-1-and-2|Tony Hawk's™ Pro Skater™ 1 + 2|44,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1998|tony-hawks-pro-skater-1-and-2--deluxe-edition|Tony Hawk's™ Pro Skater™ 1 + 2 - Deluxe Edition|54,99€|60|2022-12-15 16h|2023-01-05 16h|
+|1999|torchlight|Torchlight|11,99€|75|2022-12-15 16h|2023-01-05 16h|
+|2000|torchlight-2|Torchlight II|18,99€|75|2022-12-15 16h|2023-01-05 16h|
+|2001|a-total-war-saga-troy--amazons|Total War Saga: TROY - AMAZONS|9,99€|25|2022-12-15 16h|2023-01-05 16h|
+|2002|totally-reliable-delivery-service|Totally Reliable Delivery Service|14,99€|75|2022-12-15 16h|2023-01-05 16h|
+|2003|totally-reliable-delivery-service|Totally Reliable Delivery Service Standard Edition|14,99€|75|2022-12-15 16h|2023-01-05 16h|
+|2004|tower-of-guns|Tower of Guns|13,99€|80|2022-12-15 16h|2023-01-05 16h|
+|2005|towerfall-ascension|TowerFall Ascension|15,99€|80|2022-12-15 16h|2023-01-05 16h|
+|2006|townscaper|Townscaper|5,99€|40|2022-12-15 16h|2023-01-05 16h|
+|2007|townsmen-a-kingdom-rebuilt-07c09d|Townsmen - A Kingdom Rebuilt|19,98€|80|2022-12-15 16h|2023-01-05 16h|
+|2008|trackmania-turbo|Trackmania Turbo|39,99€|50|2022-12-15 16h|2023-01-05 16h|
+|2009|the-legend-of-heroes-trails-of-cold-steel-iv--attachment-set|Trails of Cold Steel IV - Attachment Set|9,99€|40|2022-12-15 16h|2023-01-05 16h|
+|2010|the-legend-of-heroes-trails-of-cold-steel-iv--consumable-starter-set|Trails of Cold Steel IV - Consumable Starter Set|23,65€|40|2022-12-15 16h|2023-01-05 16h|
+|2011|the-legend-of-heroes-trails-of-cold-steel-iv--consumable-value-set|Trails of Cold Steel IV - Consumable Value Set|39,50€|40|2022-12-15 16h|2023-01-05 16h|
+|2012|the-legend-of-heroes-trails-of-cold-steel-iv--hair-extension-set|Trails of Cold Steel IV - Hair Extension Set|3,99€|40|2022-12-15 16h|2023-01-05 16h|
+|2013|the-legend-of-heroes-trails-of-cold-steel-iv--headwear-set|Trails of Cold Steel IV - Headwear Set|4,99€|40|2022-12-15 16h|2023-01-05 16h|
+|2014|the-legend-of-heroes-trails-of-cold-steel-iv--magical-girl-bundle|Trails of Cold Steel IV - Magical Girl Bundle|14,99€|40|2022-12-15 16h|2023-01-05 16h|
+|2015|the-legend-of-heroes-trails-of-cold-steel-iv--premium-cosmetic-set|Trails of Cold Steel IV - Premium Cosmetic Set|22,46€|40|2022-12-15 16h|2023-01-05 16h|
+|2016|the-legend-of-heroes-trails-of-cold-steel-iv--ride-along-set|Trails of Cold Steel IV - Ride-Along Set|3,99€|40|2022-12-15 16h|2023-01-05 16h|
+|2017|the-legend-of-heroes-trails-of-cold-steel-iv--self-assertion-vol2|Trails of Cold Steel IV - Self-Assertion Panels 2|1,99€|40|2022-12-15 16h|2023-01-05 16h|
+|2018|the-legend-of-heroes-trails-of-cold-steel-iv--standard-cosmetic-set|Trails of Cold Steel IV - Standard Cosmetic Set|31,98€|40|2022-12-15 16h|2023-01-05 16h|
+|2019|the-legend-of-heroes-trails-of-cold-steel-iv--standard-costume-bundle|Trails of Cold Steel IV - Standard Costume Bundle|9,99€|40|2022-12-15 16h|2023-01-05 16h|
+|2020|the-legend-of-heroes-trails-of-cold-steel-iv--swimsuit-bundle|Trails of Cold Steel IV - Swimsuit Bundle|14,99€|40|2022-12-15 16h|2023-01-05 16h|
+|2021|transport-fever-2|Transport Fever 2|39,99€|50|2022-12-15 16h|2023-01-05 16h|
+|2022|kingdom-come-deliverance--treasure-of-the-past|Treasures of The Past|3,99€|80|2022-12-15 16h|2023-01-05 16h|
+|2023|trials-evolution|Trials Evolution: Gold Edition|19,99€|75|2022-12-15 16h|2023-01-05 16h|
+|2024|trials-fusion--season-pass|Trials Fusion Season Pass|19,99€|70|2022-12-15 16h|2023-01-05 16h|
+|2025|trials-fusion|Trials Fusion: Standard Edition|19,99€|75|2022-12-15 16h|2023-01-05 16h|
+|2026|trials-fusion--the-awesome-max-edition|Trials Fusion: The Awesome Max Edition|39,99€|75|2022-12-15 16h|2023-01-05 16h|
+|2027|trials-rising|Trials Rising|19,99€|80|2022-12-15 16h|2023-01-05 16h|
+|2028|trials-rising--expansion-pass|Trials Rising - Expansion Pass|14,99€|60|2022-12-15 16h|2023-01-05 16h|
+|2029|trials-rising--crash-n-sunburn|Trials Rising Crash n Sunburn DLC|11,99€|60|2022-12-15 16h|2023-01-05 16h|
+|2030|trials-rising--gold-edition|Trials Rising Gold Edition|29,99€|80|2022-12-15 16h|2023-01-05 16h|
+|2031|trials-rising--sixty-six|Trials Rising Sixty-Six DLC|5,99€|60|2022-12-15 16h|2023-01-05 16h|
+|2032|trials-rising|Trials Rising Standard Edition|19,99€|80|2022-12-15 16h|2023-01-05 16h|
+|2033|tribes-of-midgard|Tribes of Midgard|19,99€|40|2022-12-15 16h|2023-01-05 16h|
+|2034|tribes-of-midgard--deluxe-edition|Tribes of Midgard Deluxe Edition|29,99€|40|2022-12-15 16h|2023-01-05 16h|
+|2035|tropico-5|Tropico 5|19,99€|50|2022-12-15 16h|2023-01-05 16h|
+|2036|tropico-5--dlc-bundle|Tropico 5 - DLC Bundle|19,99€|55|2022-12-15 16h|2023-01-05 16h|
+|2037|tropico-5--espionage|Tropico 5 - Espionage|7,99€|50|2022-12-15 16h|2023-01-05 16h|
+|2038|tropico-5--generalissimo|Tropico 5 - Generalissimo|3,99€|50|2022-12-15 16h|2023-01-05 16h|
+|2039|tropico-5--gone-green|Tropico 5 - Gone Green|3,99€|50|2022-12-15 16h|2023-01-05 16h|
+|2040|tropico-5--inquisition|Tropico 5 - Inquisition|3,99€|50|2022-12-15 16h|2023-01-05 16h|
+|2041|tropico-5--joint-venture|Tropico 5 - Joint Venture|3,99€|50|2022-12-15 16h|2023-01-05 16h|
+|2042|tropico-5--mad-world|Tropico 5 - Mad World|3,99€|50|2022-12-15 16h|2023-01-05 16h|
+|2043|tropico-5--supervillain|Tropico 5 - Supervillain|3,99€|50|2022-12-15 16h|2023-01-05 16h|
+|2044|tropico-5--surfs-up|Tropico 5 - Surf's Up|3,99€|50|2022-12-15 16h|2023-01-05 16h|
+|2045|tropico-5--t-day|Tropico 5 - T-Day|3,99€|50|2022-12-15 16h|2023-01-05 16h|
+|2046|tropico-5--the-big-cheese|Tropico 5 - The Big Cheese|3,99€|50|2022-12-15 16h|2023-01-05 16h|
+|2047|tropico-5--the-supercomputer|Tropico 5 - The Supercomputer|3,99€|50|2022-12-15 16h|2023-01-05 16h|
+|2048|tropico-5--waterborne|Tropico 5 - Waterborne|7,99€|50|2022-12-15 16h|2023-01-05 16h|
+|2049|tropico-6|Tropico 6|39,99€|50|2022-12-15 16h|2023-01-05 16h|
+|2050|true-hate-007027|True Hate|5,99€|90|2022-12-15 17h|2022-12-30 17h|
+|2051|truberbrook|Trüberbrook|29,99€|85|2022-12-15 16h|2023-01-05 16h|
+|2052|tunche|Tunche|19,99€|50|2022-12-15 16h|2023-01-05 16h|
+|2053|turnip-boy-commits-tax-evasion-fb2084|Turnip Boy Commits Tax Evasion|11,99€|60|2022-12-15 16h|2023-01-05 16h|
+|2054|tyranny|Tyranny - Gold Edition|49,99€|75|2022-12-15 16h|2023-01-05 16h|
+|2055|uno|UNO Standard Edition|9,99€|60|2022-12-15 16h|2023-01-05 16h|
+|2056|uno--fenyxs-quest|UNO® Fenyx's Quest|4,99€|40|2022-12-15 16h|2023-01-05 16h|
+|2057|uno--the-call-of-yara-dlc|UNO® The Call of Yara DLC|4,99€|40|2022-12-15 16h|2023-01-05 16h|
+|2058|heroes-and-generals-wwii--us-elite-fireteam|US Elite Fireteam Bundle|79,99€|30|2022-12-15 16h|2023-01-05 16h|
+|2059|heroes-and-generals-wwii--us-giga-pack|US Giga Pack|199,99€|30|2022-12-15 16h|2023-01-05 16h|
+|2060|heroes-and-generals-wwii--us-mega-pack|US Mega Pack|149,99€|30|2022-12-15 16h|2023-01-05 16h|
+|2061|heroes-and-generals-wwii--us-infantry-anti-tank|US Soldier Pack: Infantry Anti-Tank|19,99€|30|2022-12-15 16h|2023-01-05 16h|
+|2062|heroes-and-generals-wwii--us-infantry-assault|US Soldier Pack: Infantry Assault|49,99€|30|2022-12-15 16h|2023-01-05 16h|
+|2063|heroes-and-generals-wwii--us-infantry-medic|US Soldier Pack: Infantry Medic|29,99€|30|2022-12-15 16h|2023-01-05 16h|
+|2064|heroes-and-generals-wwii--us-starter-pack|US Starter Pack|4,99€|30|2022-12-15 16h|2023-01-05 16h|
+|2065|heroes-and-generals-wwii--us-super-pack|US Super Pack|99,99€|30|2022-12-15 16h|2023-01-05 16h|
+|2066|riders-republic--ultimate-edition|Ultimate Edition|119,99€|70|2022-12-15 16h|2023-01-05 16h|
+|2067|killing-floor-2--ultimate-edition-upgrade|Ultimate Edition Upgrade|44,99€|30|2022-12-15 16h|2023-01-05 16h|
+|2068|heroes-and-generals-wwii--ultimate-infantry-bundle|Ultimate Infantry Bundle|209,99€|30|2022-12-15 16h|2023-01-05 16h|
+|2069|unmetal|UnMetal|16,99€|60|2022-12-15 16h|2023-01-05 16h|
+|2070|unmetal--big-boom-box-soundtrack|UnMetal Big Boom-Box Soundtrack|6,75€|60|2022-12-15 16h|2023-01-05 16h|
+|2071|unmetal--undeluxe-edition|UnMetal UnDeluxe Edition|20,99€|60|2022-12-15 16h|2023-01-05 16h|
+|2072|universe-sandbox|Universe Sandbox|23,99€|33|2022-12-15 16h|2023-01-05 16h|
+|2073|uno|Uno|9,99€|60|2022-12-15 16h|2023-01-05 16h|
+|2074|uno--flip-dlc|Uno - Flip Pack|4,99€|40|2022-12-15 16h|2023-01-05 16h|
+|2075|uno--just-dance-theme-dlc|Uno - Just Dance Theme Cards Pack|2,99€|70|2022-12-15 16h|2023-01-05 16h|
+|2076|uno--rayman-theme-dlc|Uno - Rayman Theme Cards Pack|2,99€|70|2022-12-15 16h|2023-01-05 16h|
+|2077|unrailed-e19729|Unrailed!|19,99€|75|2022-12-15 16h|2023-01-05 16h|
+|2078|untitled-goose-game|Untitled Goose Game|15,99€|50|2022-12-15 16h|2023-01-05 16h|
+|2079|velone-3c0487|VELONE|14,99€|50|2022-12-15 16h|2023-01-05 16h|
+|2080|velone-velone-supporter-pack-f675b9|VELONE - Supporter Pack|3,99€|25|2022-12-15 16h|2023-01-05 16h|
+|2081|valiant-hearts|Valiant Hearts: The Great War|14,99€|75|2022-12-15 16h|2023-01-05 16h|
+|2082|vampire-the-masquerade-swansong--primogen-edition|Vampire: The Masquerade - Swansong PRIMOGEN Edition|59,99€|40|2022-12-15 16h|2023-01-05 16h|
+|2083|vampire-the-masquerade-swansong|Vampire: The Masquerade – Swansong|49,99€|40|2022-12-15 16h|2023-01-05 16h|
+|2084|vampyr|Vampyr|39,99€|80|2022-12-15 16h|2023-01-05 16h|
+|2085|viscerafest|Viscerafest|14,99€|20|2022-12-15 16h|2023-01-05 16h|
+|2086|void-bastards|Void Bastards|27,99€|70|2022-12-15 16h|2023-01-05 16h|
+|2087|voidtrain|Voidtrain|29,99€|25|2022-12-15 16h|2023-01-05 16h|
+|2088|what-the-golf|WHAT THE GOLF?|15,99€|60|2022-12-15 16h|2023-01-05 16h|
+|2089|wrc-10--deluxe-edition|WRC 10 - Deluxe Edition|59,99€|55|2022-12-15 16h|2023-01-05 16h|
+|2090|wrc-10--panzerplatte|WRC 10 Arena Panzerplatte SSS|4,99€|20|2022-12-15 16h|2023-01-05 16h|
+|2091|wrc-10--career-starter-pack|WRC 10 Career Starter Pack|2,99€|20|2022-12-15 16h|2023-01-05 16h|
+|2092|wrc-10|WRC 10 FIA World Rally Championship|49,99€|55|2022-12-15 16h|2023-01-05 16h|
+|2093|wrc-10--mitsubishi-lancer|WRC 10 Mitsubishi Lancer Evo V 1998|4,99€|20|2022-12-15 16h|2023-01-05 16h|
+|2094|wrc-10--subaru-impreza|WRC 10 Subaru Impreza WRC 1997|4,99€|20|2022-12-15 16h|2023-01-05 16h|
+|2095|wrc-8--wrc-8-alpine-a110|WRC 8 Alpine A110|3,99€|40|2022-12-15 16h|2023-01-05 16h|
+|2096|wrc-8--deluxe-edition|WRC 8 Deluxe Edition FIA Rally Championship|49,99€|80|2022-12-15 16h|2023-01-05 16h|
+|2097|wrc-8|WRC 8 FIA World Rally Championship|29,99€|80|2022-12-15 16h|2023-01-05 16h|
+|2098|wrc-8--wrc-8-ford-escort-mkii1800|WRC 8 Ford Escort MkII 1800|3,99€|40|2022-12-15 16h|2023-01-05 16h|
+|2099|wrc-8--wrc-8-lancia-delta-hf-integrale-evoluzione|WRC 8 Lancia Delta HF Integrale Evoluzione|3,99€|40|2022-12-15 16h|2023-01-05 16h|
+|2100|wrc-8--wrc-8-legendary-car-pack|WRC 8 Legendary Car Pack|9,99€|40|2022-12-15 16h|2023-01-05 16h|
+|2101|wrc-8--wrc-8-rwd-legends|WRC 8 RWD Legends|4,99€|40|2022-12-15 16h|2023-01-05 16h|
+|2102|wrc-8--wrc-8-senior-staff-members-unlock|WRC 8 Senior Staff Members Unlock|2,99€|40|2022-12-15 16h|2023-01-05 16h|
+|2103|wrc-9--wrc-9-audi-quattro-a21984|WRC 9 Audi Quattro A2 1984|3,99€|30|2022-12-15 16h|2023-01-05 16h|
+|2104|wrc-9--wrc-9-barcelona-sss|WRC 9 Barcelona SSS|3,99€|30|2022-12-15 16h|2023-01-05 16h|
+|2105|wrc-9--wrc-9-career-starter-upgrades|WRC 9 Career Starter Upgrades|2,99€|30|2022-12-15 16h|2023-01-05 16h|
+|2106|wrc-9--deluxe-edition|WRC 9 Deluxe Edition FIA World Rally Championship|49,99€|60|2022-12-15 16h|2023-01-05 16h|
+|2107|wrc-9--wrc-9-fia-rally-star|WRC 9 FIA Rally Star|9,99€|30|2022-12-15 16h|2023-01-05 16h|
+|2108|wrc-9|WRC 9 FIA World Rally Championship|29,99€|60|2022-12-15 16h|2023-01-05 16h|
+|2109|wrc-9--wrc-9-toyota-corolla1999|WRC 9 Toyota Corolla 1999|3,99€|30|2022-12-15 16h|2023-01-05 16h|
+|2110|wrc-11-fia-world-rally-championship-f0749b|WRC Generations|39,99€|15|2022-12-15 16h|2023-01-05 16h|
+|2111|ww1-game-series-bundle|WW1 Game Series Bundle|59,99€|50|2022-12-15 16h|2023-01-05 16h|
+|2112|wanderlust-travel-stories-a81f0f|Wanderlust: Travel Stories|11,99€|85|2022-12-15 16h|2023-01-05 16h|
+|2113|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
+|2114|warframe--veilbreaker-warrior-pack|Warframe: Veilbreaker Warrior Pack|27,99€|30|2022-12-15 16h|2023-01-05 16h|
+|2115|warhammer-40000-chaos-gate-daemonhunters|Warhammer 40,000: Chaos Gate - Daemonhunters|44,99€|40|2022-12-15 16h|2023-01-05 16h|
+|2116|warhammer-40000-chaos-gate-daemonhunters--castellan-champion-edition|Warhammer 40,000: Chaos Gate - Daemonhunters Castellan Champion Edition|54,99€|40|2022-12-15 16h|2023-01-05 16h|
+|2117|warhammer-age-of-sigmar-storm-ground|Warhammer Age of Sigmar: Storm Ground|19,99€|60|2022-12-15 16h|2023-01-05 16h|
+|2118|warpips-57e2c4|Warpips|14,99€|60|2022-12-15 16h|2023-01-05 16h|
+|2119|warpips-supporter-bundle|Warpips - Supporter Bundle|17,99€|58|2022-12-15 16h|2023-01-05 16h|
+|2120|warpips-warpips-supporter-pack-3f1bbf|Warpips - Supporter Pack|3,99€|50|2022-12-15 16h|2023-01-05 16h|
+|2121|watch-dogs|Watch Dogs|29,99€|75|2022-12-15 16h|2023-01-05 16h|
+|2122|watch-dogs-2|Watch Dogs 2|59,99€|80|2022-12-15 16h|2023-01-05 16h|
+|2123|watch-dogs-2--season-pass|Watch Dogs 2 - Season Pass|39,99€|80|2022-12-15 16h|2023-01-05 16h|
+|2124|watch-dogs-2--deluxe-edition|Watch Dogs 2 Deluxe Edition|69,99€|80|2022-12-15 16h|2023-01-05 16h|
+|2125|watch-dogs-2--gold-edition|Watch Dogs 2 Gold Edition|99,99€|80|2022-12-15 16h|2023-01-05 16h|
+|2126|watch-dogs-2|Watch Dogs 2 Standard Edition|59,99€|80|2022-12-15 16h|2023-01-05 16h|
+|2127|watch-dogs--bad-blood-dlc|Watch Dogs Bad Blood DLC|14,99€|75|2022-12-15 16h|2023-01-05 16h|
+|2128|watch-dogs--complete-edition|Watch Dogs Complete Edition|49,99€|75|2022-12-15 16h|2023-01-05 16h|
+|2129|watch-dogs--season-pass|Watch Dogs Season Pass|19,99€|75|2022-12-15 16h|2023-01-05 16h|
+|2130|watch-dogs|Watch Dogs Standard Edition|29,99€|75|2022-12-15 16h|2023-01-05 16h|
+|2131|watch-dogs-legion|Watch Dogs: Legion|59,99€|75|2022-12-15 16h|2023-01-05 16h|
+|2132|watch-dogs-legion--bloodline-dlc|Watch Dogs: Legion - Bloodline|14,99€|50|2022-12-15 16h|2023-01-05 16h|
+|2133|watch-dogs-legion--deluxe-edition|Watch Dogs: Legion Deluxe Edition|69,99€|75|2022-12-15 16h|2023-01-05 16h|
+|2134|watch-dogs-legion--gold-edition|Watch Dogs: Legion Gold Edition|99,99€|75|2022-12-15 16h|2023-01-05 16h|
+|2135|watch-dogs-legion|Watch Dogs: Legion Standard Edition|59,99€|75|2022-12-15 16h|2023-01-05 16h|
+|2136|watch-dogs-legion--ultimate-edition|Watch Dogs: Legion Ultimate Edition|119,99€|75|2022-12-15 16h|2023-01-05 16h|
+|2137|wattam|Wattam|15,99€|70|2022-12-15 16h|2023-01-05 16h|
+|2138|way-of-the-hunter|Way of the Hunter|39,99€|25|2022-12-15 16h|2023-01-05 16h|
+|2139|way-of-the-hunter--hunters-pack|Way of the Hunter - Hunter's Pack|2,99€|25|2022-12-15 16h|2023-01-05 16h|
+|2140|way-of-the-hunter--season-pass|Way of the Hunter - Season Pass|19,99€|25|2022-12-15 16h|2023-01-05 16h|
+|2141|way-of-the-hunter--elite-edition|Way of the Hunter Elite Edition|54,99€|25|2022-12-15 16h|2023-01-05 16h|
+|2142|weird-west-906661|Weird West|39,99€|50|2022-12-15 16h|2023-01-05 16h|
+|2143|faeria--wells-pack|Wells Pack|6,99€|75|2022-12-15 16h|2023-01-05 16h|
+|2144|werewolf-the-apocalypse-earthblood--exiled-one|Werewolf: The Apocalypse - Earthblood Exiled One|4,99€|25|2022-12-15 16h|2023-01-05 16h|
+|2145|werewolf-the-apocalypse-earthblood--gaia-pack|Werewolf: The Apocalypse - Earthblood Gaia Pack|12,99€|25|2022-12-15 16h|2023-01-05 16h|
+|2146|werewolf-the-apocalypse-earthblood--gaia-edition|Werewolf: The Apocalypse Earthblood Champion of Gaia|39,97€|50|2022-12-15 16h|2023-01-05 16h|
+|2147|werewolf-the-apocalypse-earthblood|Werewolf: The Apocalypse – Earthblood|29,99€|50|2022-12-15 16h|2023-01-05 16h|
+|2148|werewolf-the-apocalypse-heart-of-the-forest-2584f2|Werewolf: The Apocalypse — Heart of the Forest|11,99€|70|2022-12-15 16h|2023-01-05 16h|
+|2149|what-lies-in-the-multiverse-f604fa|What Lies in the Multiverse|11,99€|80|2022-12-15 16h|2023-01-05 16h|
+|2150|what-remains-of-edith-finch|What Remains of Edith Finch|19,99€|75|2022-12-15 16h|2023-01-05 16h|
+|2151|wheels-of-aurelia|Wheels of Aurelia|14,99€|80|2022-12-15 16h|2023-01-05 16h|
+|2152|where-the-water-tastes-like-wine|Where The Water Tastes Like Wine|19,99€|90|2022-12-15 16h|2023-01-05 16h|
+|2153|whispering-willows-bde110|Whispering Willows|7,99€|85|2022-12-15 16h|2023-01-05 16h|
+|2154|white-shadows-64e014|White Shadows|19,99€|40|2022-12-15 16h|2023-01-05 16h|
+|2155|who-pressed-mute-on-uncle-marucs-ee90a4|Who Pressed Mute on Uncle Marcus?|9,99€|20|2022-12-15 16h|2023-01-05 16h|
+|2156|wife-quest-ed5224|Wife Quest|4,99€|30|2022-12-15 16h|2023-01-05 16h|
+|2157|wife-quest-deluxe|Wife Quest Deluxe|5,99€|50|2022-12-15 16h|2023-01-05 16h|
+|2158|wildcat-gun-machine-c66c4e|Wildcat Gun Machine|14,99€|40|2022-12-15 16h|2023-01-05 16h|
+|2159|windbound|Windbound|19,99€|85|2022-12-15 16h|2023-01-05 16h|
+|2160|wolfenstein-the-old-blood|Wolfenstein: The Old Blood|19,99€|70|2022-12-15 16h|2023-01-05 16h|
+|2161|wolfstride|Wolfstride|14,99€|50|2022-12-15 16h|2023-01-05 16h|
+|2162|wonhon-a-vengeful-spirit-29e3c1|Wonhon: A Vengeful Spirit|8,99€|25|2022-12-15 16h|2023-01-05 16h|
+|2163|pc-building-simulator--workshops-mega-pack|Workshops Mega Pack|27,99€|25|2022-12-15 16h|2023-01-05 16h|
+|2164|world-war-z|World War Z Aftermath|39,99€|50|2022-12-15 16h|2023-01-05 16h|
+|2165|world-war-z--aftermath-deluxe-edition|World War Z Aftermath Deluxe Edition|49,99€|45|2022-12-15 16h|2023-01-05 16h|
+|2166|world-war-z--aftermath-upgrade|World War Z Aftermath Upgrade|19,99€|50|2022-12-15 16h|2023-01-05 16h|
+|2167|world-war-z--aftermath-explorer-weapons-pack|World War Z: Aftermath - Explorer Weapon Skins Pack|4,99€|35|2022-12-15 16h|2023-01-05 16h|
+|2168|world-war-z--aftermath-zeke-hunter-weapons-pack|World War Z: Aftermath - Zeke Hunter Weapons Pack|4,99€|35|2022-12-15 16h|2023-01-05 16h|
+|2169|world-of-warships--american-freedom|World of Warships - American Freedom|7,09€|65|2022-12-15 16h|2023-01-05 16h|
+|2170|world-of-warships--german-ordnung|World of Warships — German Ordnung|6,98€|65|2022-12-15 16h|2023-01-05 16h|
+|2171|world-of-warships--long-live-the-king|World of Warships — Long Live the King|6,93€|65|2022-12-15 16h|2023-01-05 16h|
+|2172|world-of-warships--starter-pack-ishizuchi|World of Warships — Starter Pack: Ishizuchi|19,30€|80|2022-12-15 16h|2023-01-05 16h|
+|2173|world-of-warships--way-of-the-warrior|World of Warships — Way of the Warrior|6,79€|65|2022-12-15 16h|2023-01-05 16h|
+|2174|worms-rumble|Worms Rumble|14,99€|80|2022-12-15 16h|2023-01-05 16h|
+|2175|wrath-aeon-of-ruin|Wrath: Aeon of Ruin|20,99€|20|2022-12-15 16h|2023-01-05 16h|
+|2176|wytchwood|Wytchwood|17,49€|35|2022-12-15 16h|2023-01-05 16h|
+|2177|xcom-2|XCOM® 2|49,99€|95|2022-12-15 16h|2023-01-05 16h|
+|2178|xcom-2--collection|XCOM® 2 Collection|92,20€|92|2022-12-15 16h|2023-01-05 16h|
+|2179|xcom-2--collection-upgrade|XCOM® 2 Collection Upgrade|44,99€|88|2022-12-15 16h|2023-01-05 16h|
+|2180|xiii-07f8c3|XIII|31,99€|60|2022-12-15 16h|2023-01-05 16h|
+|2181|yaga|Yaga|19,99€|75|2022-12-15 16h|2023-01-05 16h|
+|2182|yaga--roots-of-evil|Yaga - Roots of Evil|8,49€|75|2022-12-15 16h|2023-01-05 16h|
+|2183|yaga--armful-edition|Yaga Bundle - Armful Edition|26,99€|75|2022-12-15 16h|2023-01-05 16h|
+|2184|yaga--soundtrack|Yaga Soundtrack|5,99€|75|2022-12-15 16h|2023-01-05 16h|
+|2185|snowrunner--year-1-pass|Year 1 Pass|24,99€|25|2022-12-15 16h|2023-01-05 16h|
+|2186|yokus-island-express|Yoku's Island Express|19,99€|80|2022-12-15 16h|2023-01-05 16h|
+|2187|yooka-laylee|Yooka-Laylee|39,99€|85|2022-12-15 16h|2023-01-05 16h|
+|2188|yooka-laylee-and-the-impossible-lair|Yooka-Laylee and the Impossible Lair|29,99€|80|2022-12-15 16h|2023-01-05 16h|
+|2189|ys-ix-monstrum-nox|Ys IX: Monstrum Nox|59,99€|30|2022-12-15 16h|2023-01-05 16h|
+|2190|ys-ix-monstrum-nox--attachments-bundle|Ys IX: Monstrum Nox - Attachments Bundle|9,99€|30|2022-12-15 16h|2023-01-05 16h|
+|2191|ys-ix-monstrum-nox--consumable-bundle|Ys IX: Monstrum Nox - Consumable Bundle|29,99€|30|2022-12-15 16h|2023-01-05 16h|
+|2192|ys-ix-monstrum-nox--monstrum-troupe-bundle|Ys IX: Monstrum Nox - Monstrum Troupe Bundle|14,99€|30|2022-12-15 16h|2023-01-05 16h|
+|2193|ys-ix-monstrum-nox--deluxe-edition|Ys IX: Monstrum Nox Digital Deluxe Edition|74,77€|30|2022-12-15 16h|2023-01-05 16h|
+|2194|yuppie-psycho|Yuppie Psycho: Executive Edition|16,66€|60|2022-12-15 16h|2023-01-05 16h|
+|2195|world-of-warships--yubari|Yūbari|8,39€|50|2022-12-15 16h|2023-01-05 16h|
+|2196|zen-triple-rpg-bundle|ZEN Triple RPG Bundle|47,99€|66|2022-12-15 16h|2023-01-05 16h|
+|2197|zombi|ZOMBI|15,99€|75|2022-12-15 16h|2023-01-05 16h|
+|2198|zelter-b3640a|Zelter|15,99€|20|2022-12-15 16h|2023-01-05 16h|
+|2199|zombie-rollerz-7aa027|Zombie Rollerz: Pinball Heroes|14,99€|60|2022-12-15 16h|2023-01-05 16h|
+|2200|zorro-the-chronicles|Zorro The Chronicles|24,99€|45|2022-12-15 16h|2023-01-05 16h|
+|2201|zorya-the-celestial-sisters--soundtrack-and-digital-artbook|Zorya Soundtrack and Digital Artbook|7,99€|80|2022-12-15 16h|2023-01-05 16h|
+|2202|zorya-the-celestial-sisters|Zorya: The Celestial Sisters|19,99€|80|2022-12-15 16h|2023-01-05 16h|
+|2203|zorya-the-celestial-sisters--stellar-edition|Zorya: The Celestial Sisters Stellar Edition|23,99€|80|2022-12-15 16h|2023-01-05 16h|
+|2204|shapez-0929c9|shapez|9,99€|60|2022-12-15 16h|2023-01-05 16h|
+|2205|thehunter-call-of-the-wild|theHunter: Call of the Wild™|19,99€|75|2022-12-15 16h|2023-01-05 16h|
+|2206|thehunter-call-of-the-wild--atv-saber-4x4|theHunter: Call of the Wild™ - ATV Saber 4x4|3,99€|50|2022-12-15 16h|2023-01-05 16h|
+|2207|thehunter-call-of-the-wild--bloodhound|theHunter: Call of the Wild™ - Bloodhound|3,99€|25|2022-12-15 16h|2023-01-05 16h|
+|2208|thehunter-call-of-the-wild--cuatro-colinas-game-reserve|theHunter: Call of the Wild™ - Cuatro Colinas Game Reserve|7,99€|60|2022-12-15 16h|2023-01-05 16h|
+|2209|thehunter-call-of-the-wild--duck-and-cover-pack|theHunter: Call of the Wild™ - Duck and Cover Pack|3,99€|60|2022-12-15 16h|2023-01-05 16h|
+|2210|thehunter-call-of-the-wild--high-tech-hunting-pack|theHunter: Call of the Wild™ - High-Tech Hunting Pack|3,99€|60|2022-12-15 16h|2023-01-05 16h|
+|2211|thehunter-call-of-the-wild--medved-taiga|theHunter: Call of the Wild™ - Medved-Taiga|7,99€|60|2022-12-15 16h|2023-01-05 16h|
+|2212|thehunter-call-of-the-wild--mississippi-acres-preserve|theHunter: Call of the Wild™ - Mississippi Acres Preserve|7,99€|40|2022-12-15 16h|2023-01-05 16h|
+|2213|thehunter-call-of-the-wild--modern-rifle-pack|theHunter: Call of the Wild™ - Modern Rifle Pack|3,99€|25|2022-12-15 16h|2023-01-05 16h|
+|2214|thehunter-call-of-the-wild--parque-fernando|theHunter: Call of the Wild™ - Parque Fernando|7,99€|60|2022-12-15 16h|2023-01-05 16h|
+|2215|thehunter-call-of-the-wild--rancho-del-arroyo|theHunter: Call of the Wild™ - Rancho Del Arroyo|7,99€|45|2022-12-15 16h|2023-01-05 16h|
+|2216|thehunter-call-of-the-wild--revontuli-coast|theHunter: Call of the Wild™ - Revontuli coast|7,99€|30|2022-12-15 16h|2023-01-05 16h|
+|2217|thehunter-call-of-the-wild--saseka-safari-trophy-lodge|theHunter: Call of the Wild™ - Saseka Safari Trophy Lodge|3,99€|60|2022-12-15 16h|2023-01-05 16h|
+|2218|thehunter-call-of-the-wild--silver-ridge-peaks|theHunter: Call of the Wild™ - Silver Ridge Peaks|7,99€|50|2022-12-15 16h|2023-01-05 16h|
+|2219|thehunter-call-of-the-wild--smoking-barrels-weapon-pack|theHunter: Call of the Wild™ - Smoking Barrels Weapon Pack|3,99€|50|2022-12-15 16h|2023-01-05 16h|
+|2220|thehunter-call-of-the-wild--te-awaroa-national-park|theHunter: Call of the Wild™ - Te Awaroa National Park|7,99€|50|2022-12-15 16h|2023-01-05 16h|
+|2221|thehunter-call-of-the-wild--tents-and-ground-blinds|theHunter: Call of the Wild™ - Tents & Ground Blinds|3,99€|60|2022-12-15 16h|2023-01-05 16h|
+|2222|thehunter-call-of-the-wild--treestand-and-tripod-pack|theHunter: Call of the Wild™ - Treestand & Tripod Pack|3,99€|60|2022-12-15 16h|2023-01-05 16h|
+|2223|thehunter-call-of-the-wild--trophy-lodge-spring-creek-manor|theHunter: Call of the Wild™ - Trophy Lodge Spring Creek Manor|3,99€|60|2022-12-15 16h|2023-01-05 16h|
+|2224|thehunter-call-of-the-wild--vurhonga-savanna|theHunter: Call of the Wild™ - Vurhonga Savanna|7,99€|60|2022-12-15 16h|2023-01-05 16h|
+|2225|thehunter-call-of-the-wild--weapon-pack1|theHunter: Call of the Wild™ - Weapon Pack 1|3,99€|60|2022-12-15 16h|2023-01-05 16h|
+|2226|thehunter-call-of-the-wild--weapon-pack2|theHunter: Call of the Wild™ - Weapon Pack 2|3,99€|60|2022-12-15 16h|2023-01-05 16h|
+|2227|thehunter-call-of-the-wild--weapon-pack3|theHunter: Call of the Wild™ - Weapon Pack 3|3,99€|60|2022-12-15 16h|2023-01-05 16h|
+|2228|thehunter-call-of-the-wild--wild-goose-chase-gear|theHunter: Call of the Wild™ - Wild Goose Chase Gear|3,99€|60|2022-12-15 16h|2023-01-05 16h|
+|2229|thehunter-call-of-the-wild--yukon-valley|theHunter: Call of the Wild™ - Yukon Valley|7,99€|60|2022-12-15 16h|2023-01-05 16h|
+|2230|thehunter-call-of-the-wild--assorted-sidearms-pack|theHunter:CalloftheWild™ - Assorted Sidearms Pack|3,99€|15|2022-12-15 16h|2023-01-05 16h|
+|2231|while-true-learn|while True: learn()|9,99€|33|2022-12-15 16h|2023-01-05 16h|
