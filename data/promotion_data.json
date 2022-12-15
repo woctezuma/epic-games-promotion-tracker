@@ -99,6 +99,24 @@
     "title": "A Plague Tale: Requiem"
   },
   {
+    "discountPercentage": 25,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "a-plague-tale-requiem",
+    "startDate": "2022-12-22T16:00:00.000Z",
+    "title": "A Plague Tale: Requiem"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 299,
+    "slug": "a-plague-tale-requiem--protector-pack",
+    "startDate": "2022-12-22T16:00:00.000Z",
+    "title": "A Plague Tale: Requiem - Protector Pack DLC"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2023-01-05T16:00:00.000Z",
     "isFree": false,
@@ -187,15 +205,6 @@
     "slug": "idle-champions-of-the-forgotten-realms--brimstone-angels-shadowfell-bundle-pack",
     "startDate": "2023-01-20T20:00:00.000Z",
     "title": "Brimstone Angels Shadowfell Bundle Pack"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2023-01-01T04:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1998,
-    "slug": "bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b",
-    "startDate": "2022-12-16T04:00:00.000Z",
-    "title": "Bud Spencer and Terence Hill - Slaps and Beans"
   },
   {
     "discountPercentage": 50,
@@ -297,15 +306,6 @@
     "title": "KORAL"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2023-01-05T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "melatonin-f16dcb",
-    "startDate": "2022-12-15T17:00:00.000Z",
-    "title": "Melatonin"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2023-01-20T20:00:00.000Z",
     "isFree": false,
@@ -340,6 +340,15 @@
     "slug": "[]",
     "startDate": "2022-12-16T16:00:00.000Z",
     "title": "Mystery Game"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2022-12-30T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1399,
+    "slug": "nero-0011a8",
+    "startDate": "2022-12-23T22:00:00.000Z",
+    "title": "NERO"
   },
   {
     "discountPercentage": 75,
@@ -522,6 +531,24 @@
     "title": "Steampunk Nordom the Modron Theme Pack"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2023-01-19T13:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "the-callisto-protocol",
+    "startDate": "2023-01-12T13:00:00.000Z",
+    "title": "The Callisto Protocol"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-01-19T13:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 7999,
+    "slug": "the-callisto-protocol--digital-deluxe-edition",
+    "startDate": "2023-01-12T13:00:00.000Z",
+    "title": "The Callisto Protocol - Digital Deluxe Edition"
+  },
+  {
     "discountPercentage": 35,
     "endDate": "2023-01-05T18:00:00.000Z",
     "isFree": false,
@@ -556,15 +583,6 @@
     "slug": "thermonuclear-30a1d0",
     "startDate": "2023-01-17T18:00:00.000Z",
     "title": "Thermonuclear"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2022-12-30T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 599,
-    "slug": "true-hate-007027",
-    "startDate": "2022-12-15T17:00:00.000Z",
-    "title": "True Hate"
   },
   {
     "discountPercentage": 60,
