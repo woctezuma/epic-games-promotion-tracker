@@ -297,24 +297,6 @@
     "title": "HORROR TALES The Wine"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2022-12-17T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 0,
-    "slug": "horizon-chase-turbo",
-    "startDate": "2022-12-16T16:00:00.000Z",
-    "title": "Horizon Chase Turbo"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2022-12-17T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 1599,
-    "slug": "horizon-chase-turbo",
-    "startDate": "2022-12-16T16:00:00.000Z",
-    "title": "Horizon Chase Turbo"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2023-01-01T05:00:00.000Z",
     "isFree": false,
@@ -352,11 +334,11 @@
   },
   {
     "discountPercentage": 100,
-    "endDate": "2022-12-18T11:00:00.000Z",
+    "endDate": "2022-12-18T16:00:00.000Z",
     "isFree": true,
     "originalPrice": 0,
     "slug": "[]",
-    "startDate": "2022-12-17T11:00:00.000Z",
+    "startDate": "2022-12-17T16:00:00.000Z",
     "title": "Mystery Game"
   },
   {
