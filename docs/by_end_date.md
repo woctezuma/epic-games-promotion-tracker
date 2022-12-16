@@ -41,7 +41,7 @@
 |39|idle-champions-of-the-forgotten-realms--ricochet-the-crocodile-hatchling-familiar-pack|Ricochet, the Crocodile Hatchling Familiar Pack|3,99€|50|2023-01-13 20h|2023-01-20 20h|
 |40|idle-champions-of-the-forgotten-realms--shadowfell-tatyana-theme-pack|Shadowfell Tatyana Theme Pack|19,99€|50|2023-01-13 20h|2023-01-20 20h|
 |41|idle-champions-of-the-forgotten-realms--squiddle-the-gnome-squidling-familiar-pack|Squiddle the Gnome Squidling Familiar Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
-|42|ff5a159c48bf4f69928dff35667c5397|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
+|42|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
 |43|idle-champions-of-the-forgotten-realms--brimstone-angels-shadowfell-bundle-pack|Brimstone Angels Shadowfell Bundle Pack|19,99€|50|2023-01-20 20h|2023-01-27 20h|
 |44|idle-champions-of-the-forgotten-realms--colonel-pest-the-pest-mascot-familiar-pack|Colonel Pest the Pest Mascot Familiar Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
 |45|idle-champions-of-the-forgotten-realms--dottie-the-dandelion-familiar-pack|Dottie the Dandelion Familiar Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|

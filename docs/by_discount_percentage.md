@@ -40,7 +40,7 @@
 |38|idle-champions-of-the-forgotten-realms--steampunk-nordom-the-modron-theme-pack|Steampunk Nordom the Modron Theme Pack|19,99€|50|2023-01-27 20h|2023-02-03 20h|
 |39|the-life-and-suffering-of-sir-brante|The Life and Suffering of Sir Brante|19,99€|50|2022-12-22 18h|2023-01-05 18h|
 |40|the-life-and-suffering-of-sir-brante--artbook-and-ost|The Life and Suffering of Sir Brante Artbook + OST|3,99€|50|2022-12-22 18h|2023-01-05 18h|
-|41|ff5a159c48bf4f69928dff35667c5397|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
+|41|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
 |42|fortnite--frozen-legends-pack|Frozen Legends Pack|14,99€|40|2022-12-21 00h|2023-01-10 00h|
 |43|fortnite--polar-legends-pack|Polar Legends Pack|19,99€|40|2022-12-21 00h|2023-01-10 00h|
 |44|blind-fate-edo-no-yami-87e748|Blind Fate: Edo no Yami|15,99€|35|2022-12-22 18h|2023-01-05 18h|
