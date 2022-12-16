@@ -62,5 +62,5 @@
 |60|the-darkest-tales-7d0dab|The Darkest Tales|15,99€|35|2022-12-22 18h|2023-01-05 18h|
 |61|the-life-and-suffering-of-sir-brante|The Life and Suffering of Sir Brante|19,99€|50|2022-12-22 18h|2023-01-05 18h|
 |62|the-life-and-suffering-of-sir-brante--artbook-and-ost|The Life and Suffering of Sir Brante Artbook + OST|3,99€|50|2022-12-22 18h|2023-01-05 18h|
-|63|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
+|63|ff5a159c48bf4f69928dff35667c5397|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
 |64|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|

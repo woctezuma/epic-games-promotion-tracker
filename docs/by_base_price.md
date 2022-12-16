@@ -59,7 +59,7 @@
 |57|idle-champions-of-the-forgotten-realms--squiddle-the-gnome-squidling-familiar-pack|Squiddle the Gnome Squidling Familiar Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
 |58|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
 |59|edge-of-galaxy-092087|Edge Of Galaxy|6,99€|50|2023-01-10 05h|2023-01-17 05h|
-|60|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
+|60|ff5a159c48bf4f69928dff35667c5397|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
 |61|idle-champions-of-the-forgotten-realms--ricochet-the-crocodile-hatchling-familiar-pack|Ricochet, the Crocodile Hatchling Familiar Pack|3,99€|50|2023-01-13 20h|2023-01-20 20h|
 |62|the-life-and-suffering-of-sir-brante--artbook-and-ost|The Life and Suffering of Sir Brante Artbook + OST|3,99€|50|2022-12-22 18h|2023-01-05 18h|
 |63|a-plague-tale-requiem--protector-pack|A Plague Tale: Requiem - Protector Pack DLC|2,99€|20|2022-12-22 16h|2023-01-05 16h|
