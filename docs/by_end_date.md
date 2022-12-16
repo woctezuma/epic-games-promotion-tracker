@@ -30,37 +30,39 @@
 |28|sailingera-450a80|Sailing Era|19,99€|10|2023-01-12 05h|2023-01-19 05h|
 |29|the-callisto-protocol|The Callisto Protocol|59,99€|20|2023-01-12 13h|2023-01-19 13h|
 |30|the-callisto-protocol--digital-deluxe-edition|The Callisto Protocol - Digital Deluxe Edition|79,99€|20|2023-01-12 13h|2023-01-19 13h|
-|31|idle-champions-of-the-forgotten-realms--ascendant-evelyn-skin-and-feat-pack|Ascendant Evelyn Skin & Feat Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
-|32|idle-champions-of-the-forgotten-realms--ascendant-melf-skin-and-feat-pack|Ascendant Melf Skin & Feat Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
-|33|idle-champions-of-the-forgotten-realms--ascendant-strix-skin-and-feat-pack|Ascendant Strix Skin & Feat Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
-|34|idle-champions-of-the-forgotten-realms--ascendant-walnut-skin-and-feat-pack|Ascendant Walnut Skin & Feat Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
-|35|idle-champions-of-the-forgotten-realms--disco-the-baby-moonstone-dragon-familiar-pack|Disco the Baby Moonstone Dragon Familiar Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
-|36|idle-champions-of-the-forgotten-realms--eberron-inventor-vi-theme-pack|Eberron Inventor Vi Theme Pack|19,99€|50|2023-01-13 20h|2023-01-20 20h|
-|37|idle-champions-of-the-forgotten-realms--modron-penelope-skin-feat-pack|Modron Penelope Skin & Feat Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
-|38|idle-champions-of-the-forgotten-realms--polymorphed-minsc-skin-and-feat-pack|Polymorphed Minsc Skin & Feat Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
-|39|idle-champions-of-the-forgotten-realms--ricochet-the-crocodile-hatchling-familiar-pack|Ricochet, the Crocodile Hatchling Familiar Pack|3,99€|50|2023-01-13 20h|2023-01-20 20h|
-|40|idle-champions-of-the-forgotten-realms--shadowfell-tatyana-theme-pack|Shadowfell Tatyana Theme Pack|19,99€|50|2023-01-13 20h|2023-01-20 20h|
-|41|idle-champions-of-the-forgotten-realms--squiddle-the-gnome-squidling-familiar-pack|Squiddle the Gnome Squidling Familiar Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
-|42|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
-|43|idle-champions-of-the-forgotten-realms--brimstone-angels-shadowfell-bundle-pack|Brimstone Angels Shadowfell Bundle Pack|19,99€|50|2023-01-20 20h|2023-01-27 20h|
-|44|idle-champions-of-the-forgotten-realms--colonel-pest-the-pest-mascot-familiar-pack|Colonel Pest the Pest Mascot Familiar Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
-|45|idle-champions-of-the-forgotten-realms--dottie-the-dandelion-familiar-pack|Dottie the Dandelion Familiar Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
-|46|idle-champions-of-the-forgotten-realms--moogin-the-death-dog-familiar-pack|Moogin the Death Dog Familiar Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
-|47|idle-champions-of-the-forgotten-realms--polymorphed-celeste-skin-feat-pack|Polymorphed Celeste Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
-|48|idle-champions-of-the-forgotten-realms--polymorphed-yorven-skin-and-feat-pack|Polymorphed Yorven Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
-|49|idle-champions-of-the-forgotten-realms--prismeer-shandie-theme-pack|Prismeer Shandie Theme Pack|19,99€|50|2023-01-20 20h|2023-01-27 20h|
-|50|idle-champions-of-the-forgotten-realms--shadowfell-desmond-theme-pack|Shadowfell Desmond Theme Pack|19,99€|50|2023-01-20 20h|2023-01-27 20h|
-|51|idle-champions-of-the-forgotten-realms--shadowfell-farideh-skin-feat-pack|Shadowfell Farideh Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
-|52|idle-champions-of-the-forgotten-realms--shadowfell-havilar-skin-feat-pack|Shadowfell Havilar Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
-|53|idle-champions-of-the-forgotten-realms--shadowfell-mehen-skin-feat-pack|Shadowfell Mehen Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
-|54|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
-|55|prey|Prey|39,99€|75|2023-01-24 16h|2023-01-31 16h|
-|56|idle-champions-of-the-forgotten-realms--archdruid-gazrick-skin-feat-pack|Archdruid Gazrick Skin & Feat Pack|7,99€|50|2023-01-27 20h|2023-02-03 20h|
-|57|idle-champions-of-the-forgotten-realms--archmagi-dungeon-master-theme-pack|Archmagi Dungeon Master Theme Pack|19,99€|50|2023-01-27 20h|2023-02-03 20h|
-|58|idle-champions-of-the-forgotten-realms--beekeeper-spurt-skin-feat-pack|Beekeeper Spurt Skin & Feat Pack|7,99€|50|2023-01-27 20h|2023-02-03 20h|
-|59|idle-champions-of-the-forgotten-realms--gale-the-dumbo-rat-familiar-pack|Gale the Dumbo Rat Familiar Pack|7,99€|50|2023-01-27 20h|2023-02-03 20h|
-|60|idle-champions-of-the-forgotten-realms--polymorphed-calliope-skin-feat-pack|Polymorphed Calliope Skin & Feat Pack|7,99€|50|2023-01-27 20h|2023-02-03 20h|
-|61|idle-champions-of-the-forgotten-realms--polymorphed-orkira-skin-feat-pack|Polymorphed Orkira Skin & Feat Pack|7,99€|50|2023-01-27 20h|2023-02-03 20h|
-|62|idle-champions-of-the-forgotten-realms--prismeer-sentry-skin-and-feat-pack|Prismeer Sentry Skin & Feat Pack|7,99€|50|2023-01-27 20h|2023-02-03 20h|
-|63|banedlc028-09-04|Red the Squirrel Familiar Pack|11,99€|90|2023-01-27 20h|2023-02-03 20h|
-|64|idle-champions-of-the-forgotten-realms--steampunk-nordom-the-modron-theme-pack|Steampunk Nordom the Modron Theme Pack|19,99€|50|2023-01-27 20h|2023-02-03 20h|
+|31|pentadecagonbse|PentadecagonBSE|44,99€|20|2023-01-13 16h|2023-01-20 16h|
+|32|idle-champions-of-the-forgotten-realms--ascendant-evelyn-skin-and-feat-pack|Ascendant Evelyn Skin & Feat Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
+|33|idle-champions-of-the-forgotten-realms--ascendant-melf-skin-and-feat-pack|Ascendant Melf Skin & Feat Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
+|34|idle-champions-of-the-forgotten-realms--ascendant-strix-skin-and-feat-pack|Ascendant Strix Skin & Feat Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
+|35|idle-champions-of-the-forgotten-realms--ascendant-walnut-skin-and-feat-pack|Ascendant Walnut Skin & Feat Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
+|36|idle-champions-of-the-forgotten-realms--disco-the-baby-moonstone-dragon-familiar-pack|Disco the Baby Moonstone Dragon Familiar Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
+|37|idle-champions-of-the-forgotten-realms--eberron-inventor-vi-theme-pack|Eberron Inventor Vi Theme Pack|19,99€|50|2023-01-13 20h|2023-01-20 20h|
+|38|idle-champions-of-the-forgotten-realms--modron-penelope-skin-feat-pack|Modron Penelope Skin & Feat Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
+|39|idle-champions-of-the-forgotten-realms--polymorphed-minsc-skin-and-feat-pack|Polymorphed Minsc Skin & Feat Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
+|40|idle-champions-of-the-forgotten-realms--ricochet-the-crocodile-hatchling-familiar-pack|Ricochet, the Crocodile Hatchling Familiar Pack|3,99€|50|2023-01-13 20h|2023-01-20 20h|
+|41|idle-champions-of-the-forgotten-realms--shadowfell-tatyana-theme-pack|Shadowfell Tatyana Theme Pack|19,99€|50|2023-01-13 20h|2023-01-20 20h|
+|42|idle-champions-of-the-forgotten-realms--squiddle-the-gnome-squidling-familiar-pack|Squiddle the Gnome Squidling Familiar Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
+|43|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
+|44|idle-champions-of-the-forgotten-realms--brimstone-angels-shadowfell-bundle-pack|Brimstone Angels Shadowfell Bundle Pack|19,99€|50|2023-01-20 20h|2023-01-27 20h|
+|45|idle-champions-of-the-forgotten-realms--colonel-pest-the-pest-mascot-familiar-pack|Colonel Pest the Pest Mascot Familiar Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
+|46|idle-champions-of-the-forgotten-realms--dottie-the-dandelion-familiar-pack|Dottie the Dandelion Familiar Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
+|47|idle-champions-of-the-forgotten-realms--moogin-the-death-dog-familiar-pack|Moogin the Death Dog Familiar Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
+|48|idle-champions-of-the-forgotten-realms--polymorphed-celeste-skin-feat-pack|Polymorphed Celeste Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
+|49|idle-champions-of-the-forgotten-realms--polymorphed-yorven-skin-and-feat-pack|Polymorphed Yorven Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
+|50|idle-champions-of-the-forgotten-realms--prismeer-shandie-theme-pack|Prismeer Shandie Theme Pack|19,99€|50|2023-01-20 20h|2023-01-27 20h|
+|51|idle-champions-of-the-forgotten-realms--shadowfell-desmond-theme-pack|Shadowfell Desmond Theme Pack|19,99€|50|2023-01-20 20h|2023-01-27 20h|
+|52|idle-champions-of-the-forgotten-realms--shadowfell-farideh-skin-feat-pack|Shadowfell Farideh Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
+|53|idle-champions-of-the-forgotten-realms--shadowfell-havilar-skin-feat-pack|Shadowfell Havilar Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
+|54|idle-champions-of-the-forgotten-realms--shadowfell-mehen-skin-feat-pack|Shadowfell Mehen Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
+|55|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
+|56|prey|Prey|39,99€|75|2023-01-24 16h|2023-01-31 16h|
+|57|idle-champions-of-the-forgotten-realms--archdruid-gazrick-skin-feat-pack|Archdruid Gazrick Skin & Feat Pack|7,99€|50|2023-01-27 20h|2023-02-03 20h|
+|58|idle-champions-of-the-forgotten-realms--archmagi-dungeon-master-theme-pack|Archmagi Dungeon Master Theme Pack|19,99€|50|2023-01-27 20h|2023-02-03 20h|
+|59|idle-champions-of-the-forgotten-realms--beekeeper-spurt-skin-feat-pack|Beekeeper Spurt Skin & Feat Pack|7,99€|50|2023-01-27 20h|2023-02-03 20h|
+|60|idle-champions-of-the-forgotten-realms--gale-the-dumbo-rat-familiar-pack|Gale the Dumbo Rat Familiar Pack|7,99€|50|2023-01-27 20h|2023-02-03 20h|
+|61|idle-champions-of-the-forgotten-realms--polymorphed-calliope-skin-feat-pack|Polymorphed Calliope Skin & Feat Pack|7,99€|50|2023-01-27 20h|2023-02-03 20h|
+|62|idle-champions-of-the-forgotten-realms--polymorphed-orkira-skin-feat-pack|Polymorphed Orkira Skin & Feat Pack|7,99€|50|2023-01-27 20h|2023-02-03 20h|
+|63|idle-champions-of-the-forgotten-realms--prismeer-sentry-skin-and-feat-pack|Prismeer Sentry Skin & Feat Pack|7,99€|50|2023-01-27 20h|2023-02-03 20h|
+|64|banedlc028-09-04|Red the Squirrel Familiar Pack|11,99€|90|2023-01-27 20h|2023-02-03 20h|
+|65|idle-champions-of-the-forgotten-realms--steampunk-nordom-the-modron-theme-pack|Steampunk Nordom the Modron Theme Pack|19,99€|50|2023-01-27 20h|2023-02-03 20h|
+|66|radioactive-dwarfs-evil-from-the-sewers-b43f18|Radioactive Dwarfs - Evil From The Sewers|3,99€|50|2023-01-31 05h|2023-02-07 05h|

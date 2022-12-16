@@ -360,6 +360,15 @@
     "title": "Out of the Park Baseball 23"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2023-01-20T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4499,
+    "slug": "pentadecagonbse",
+    "startDate": "2023-01-13T16:00:00.000Z",
+    "title": "PentadecagonBSE"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2023-01-10T00:00:00.000Z",
     "isFree": false,
@@ -439,6 +448,15 @@
     "slug": "idle-champions-of-the-forgotten-realms--prismeer-shandie-theme-pack",
     "startDate": "2023-01-20T20:00:00.000Z",
     "title": "Prismeer Shandie Theme Pack"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-02-07T05:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "radioactive-dwarfs-evil-from-the-sewers-b43f18",
+    "startDate": "2023-01-31T05:00:00.000Z",
+    "title": "Radioactive Dwarfs - Evil From The Sewers"
   },
   {
     "discountPercentage": 90,
