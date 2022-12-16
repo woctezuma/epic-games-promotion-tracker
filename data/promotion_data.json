@@ -351,6 +351,15 @@
     "title": "Mystery Game"
   },
   {
+    "discountPercentage": 25,
+    "endDate": "2022-12-30T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1399,
+    "slug": "nero-0011a8",
+    "startDate": "2022-12-23T22:00:00.000Z",
+    "title": "NERO"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2023-01-05T13:00:00.000Z",
     "isFree": false,
@@ -529,6 +538,24 @@
     "slug": "idle-champions-of-the-forgotten-realms--steampunk-nordom-the-modron-theme-pack",
     "startDate": "2023-01-27T20:00:00.000Z",
     "title": "Steampunk Nordom the Modron Theme Pack"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-01-19T13:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "the-callisto-protocol",
+    "startDate": "2023-01-12T13:00:00.000Z",
+    "title": "The Callisto Protocol"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-01-19T13:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 7999,
+    "slug": "the-callisto-protocol--digital-deluxe-edition",
+    "startDate": "2023-01-12T13:00:00.000Z",
+    "title": "The Callisto Protocol - Digital Deluxe Edition"
   },
   {
     "discountPercentage": 35,
