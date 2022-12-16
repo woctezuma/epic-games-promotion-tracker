@@ -64,4 +64,5 @@
 |62|idle-champions-of-the-forgotten-realms--ricochet-the-crocodile-hatchling-familiar-pack|Ricochet, the Crocodile Hatchling Familiar Pack|3,99€|50|2023-01-13 20h|2023-01-20 20h|
 |63|the-life-and-suffering-of-sir-brante--artbook-and-ost|The Life and Suffering of Sir Brante Artbook + OST|3,99€|50|2022-12-22 18h|2023-01-05 18h|
 |64|a-plague-tale-requiem--protector-pack|A Plague Tale: Requiem - Protector Pack DLC|2,99€|20|2022-12-22 16h|2023-01-05 16h|
-|65|[]|Mystery Game|0,00€|100|2022-12-16 16h|2022-12-17 16h|
+|65|horizon-chase-turbo|Horizon Chase Turbo|0,00€|100|2022-12-16 16h|2022-12-17 16h|
+|66|[]|Mystery Game|0,00€|100|2022-12-17 11h|2022-12-18 11h|
