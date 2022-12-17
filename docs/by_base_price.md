@@ -67,3 +67,4 @@
 |65|the-life-and-suffering-of-sir-brante--artbook-and-ost|The Life and Suffering of Sir Brante Artbook + OST|3,99€|50|2022-12-22 18h|2023-01-05 18h|
 |66|a-plague-tale-requiem--protector-pack|A Plague Tale: Requiem - Protector Pack DLC|2,99€|20|2022-12-22 16h|2023-01-05 16h|
 |67|costume-quest-2|Costume Quest 2|0,00€|100|2022-12-17 16h|2022-12-18 16h|
+|68|[]|Mystery Game|0,00€|100|2022-12-18 16h|2022-12-19 16h|
