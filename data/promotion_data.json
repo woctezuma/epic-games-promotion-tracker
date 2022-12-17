@@ -216,6 +216,24 @@
     "title": "Colonel Pest the Pest Mascot Familiar Pack"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2022-12-18T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 0,
+    "slug": "costume-quest-2",
+    "startDate": "2022-12-17T16:00:00.000Z",
+    "title": "Costume Quest 2"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2022-12-18T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1199,
+    "slug": "costume-quest-2",
+    "startDate": "2022-12-17T16:00:00.000Z",
+    "title": "Costume Quest 2"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2023-01-10T00:00:00.000Z",
     "isFree": false,
@@ -331,15 +349,6 @@
     "slug": "my-time-at-sandrock",
     "startDate": "2022-12-23T12:00:00.000Z",
     "title": "My Time at Sandrock"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2022-12-18T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 0,
-    "slug": "[]",
-    "startDate": "2022-12-17T16:00:00.000Z",
-    "title": "Mystery Game"
   },
   {
     "discountPercentage": 25,
