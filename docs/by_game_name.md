@@ -49,18 +49,19 @@
 |47|banedlc028-09-04|Red the Squirrel Familiar Pack|11,99€|90|2023-01-27 20h|2023-02-03 20h|
 |48|idle-champions-of-the-forgotten-realms--ricochet-the-crocodile-hatchling-familiar-pack|Ricochet, the Crocodile Hatchling Familiar Pack|3,99€|50|2023-01-13 20h|2023-01-20 20h|
 |49|sable|Sable|0,00€|100|2022-12-18 16h|2022-12-19 16h|
-|50|sailingera-450a80|Sailing Era|19,99€|10|2023-01-12 05h|2023-01-19 05h|
-|51|idle-champions-of-the-forgotten-realms--shadowfell-desmond-theme-pack|Shadowfell Desmond Theme Pack|19,99€|50|2023-01-20 20h|2023-01-27 20h|
-|52|idle-champions-of-the-forgotten-realms--shadowfell-farideh-skin-feat-pack|Shadowfell Farideh Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
-|53|idle-champions-of-the-forgotten-realms--shadowfell-havilar-skin-feat-pack|Shadowfell Havilar Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
-|54|idle-champions-of-the-forgotten-realms--shadowfell-mehen-skin-feat-pack|Shadowfell Mehen Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
-|55|idle-champions-of-the-forgotten-realms--shadowfell-tatyana-theme-pack|Shadowfell Tatyana Theme Pack|19,99€|50|2023-01-13 20h|2023-01-20 20h|
-|56|idle-champions-of-the-forgotten-realms--squiddle-the-gnome-squidling-familiar-pack|Squiddle the Gnome Squidling Familiar Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
-|57|idle-champions-of-the-forgotten-realms--steampunk-nordom-the-modron-theme-pack|Steampunk Nordom the Modron Theme Pack|19,99€|50|2023-01-27 20h|2023-02-03 20h|
-|58|the-callisto-protocol|The Callisto Protocol|59,99€|20|2023-01-12 13h|2023-01-19 13h|
-|59|the-callisto-protocol--digital-deluxe-edition|The Callisto Protocol - Digital Deluxe Edition|79,99€|20|2023-01-12 13h|2023-01-19 13h|
-|60|the-darkest-tales-7d0dab|The Darkest Tales|15,99€|35|2022-12-22 18h|2023-01-05 18h|
-|61|the-life-and-suffering-of-sir-brante|The Life and Suffering of Sir Brante|19,99€|50|2022-12-22 18h|2023-01-05 18h|
-|62|the-life-and-suffering-of-sir-brante--artbook-and-ost|The Life and Suffering of Sir Brante Artbook + OST|3,99€|50|2022-12-22 18h|2023-01-05 18h|
-|63|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
-|64|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
+|50|sable|Sable|24,99€|100|2022-12-18 16h|2022-12-19 16h|
+|51|sailingera-450a80|Sailing Era|19,99€|10|2023-01-12 05h|2023-01-19 05h|
+|52|idle-champions-of-the-forgotten-realms--shadowfell-desmond-theme-pack|Shadowfell Desmond Theme Pack|19,99€|50|2023-01-20 20h|2023-01-27 20h|
+|53|idle-champions-of-the-forgotten-realms--shadowfell-farideh-skin-feat-pack|Shadowfell Farideh Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
+|54|idle-champions-of-the-forgotten-realms--shadowfell-havilar-skin-feat-pack|Shadowfell Havilar Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
+|55|idle-champions-of-the-forgotten-realms--shadowfell-mehen-skin-feat-pack|Shadowfell Mehen Skin & Feat Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
+|56|idle-champions-of-the-forgotten-realms--shadowfell-tatyana-theme-pack|Shadowfell Tatyana Theme Pack|19,99€|50|2023-01-13 20h|2023-01-20 20h|
+|57|idle-champions-of-the-forgotten-realms--squiddle-the-gnome-squidling-familiar-pack|Squiddle the Gnome Squidling Familiar Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
+|58|idle-champions-of-the-forgotten-realms--steampunk-nordom-the-modron-theme-pack|Steampunk Nordom the Modron Theme Pack|19,99€|50|2023-01-27 20h|2023-02-03 20h|
+|59|the-callisto-protocol|The Callisto Protocol|59,99€|20|2023-01-12 13h|2023-01-19 13h|
+|60|the-callisto-protocol--digital-deluxe-edition|The Callisto Protocol - Digital Deluxe Edition|79,99€|20|2023-01-12 13h|2023-01-19 13h|
+|61|the-darkest-tales-7d0dab|The Darkest Tales|15,99€|35|2022-12-22 18h|2023-01-05 18h|
+|62|the-life-and-suffering-of-sir-brante|The Life and Suffering of Sir Brante|19,99€|50|2022-12-22 18h|2023-01-05 18h|
+|63|the-life-and-suffering-of-sir-brante--artbook-and-ost|The Life and Suffering of Sir Brante Artbook + OST|3,99€|50|2022-12-22 18h|2023-01-05 18h|
+|64|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
+|65|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
