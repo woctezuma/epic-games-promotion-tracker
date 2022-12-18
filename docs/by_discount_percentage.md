@@ -1,6 +1,6 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|1|[]|Mystery Game|0,00€|100|2022-12-18 16h|2022-12-19 16h|
+|1|sable|Sable|0,00€|100|2022-12-18 16h|2022-12-19 16h|
 |2|banedlc028-09-04|Red the Squirrel Familiar Pack|11,99€|90|2023-01-27 20h|2023-02-03 20h|
 |3|out-of-the-park-baseball-23-09e3fa|Out of the Park Baseball 23|39,99€|75|2022-12-22 18h|2023-01-05 13h|
 |4|prey|Prey|39,99€|75|2023-01-24 16h|2023-01-31 16h|
