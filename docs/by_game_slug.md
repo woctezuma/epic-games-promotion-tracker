@@ -51,16 +51,17 @@
 |49|prey|Prey|39,99€|75|2023-01-24 16h|2023-01-31 16h|
 |50|radioactive-dwarfs-evil-from-the-sewers-b43f18|Radioactive Dwarfs - Evil From The Sewers|3,99€|50|2023-01-31 05h|2023-02-07 05h|
 |51|sable|Sable|0,00€|100|2022-12-18 16h|2022-12-19 16h|
-|52|sailingera-450a80|Sailing Era|19,99€|10|2023-01-12 05h|2023-01-19 05h|
-|53|star-trek-online--1000-zen-bundle|1000 ZEN Bundle|8,99€|20|2022-12-21 16h|2023-01-02 16h|
-|54|star-trek-online--10000-zen-1000-bonus-bundle|10000 ZEN +1000 Bonus Bundle|89,99€|20|2022-12-21 16h|2023-01-02 16h|
-|55|star-trek-online--2000-zen-bundle|2000 ZEN Bundle|17,99€|20|2022-12-21 16h|2023-01-02 16h|
-|56|star-trek-online--20000-zen-3000-bonus-bundle|20000 ZEN + 3000 Bonus Bundle|179,99€|20|2022-12-21 16h|2023-01-02 16h|
-|57|star-trek-online--5000-zen-300-bonus-bundle|5000 ZEN + 300 Bonus Bundle|44,99€|20|2022-12-21 16h|2023-01-02 16h|
-|58|the-callisto-protocol|The Callisto Protocol|59,99€|20|2023-01-12 13h|2023-01-19 13h|
-|59|the-callisto-protocol--digital-deluxe-edition|The Callisto Protocol - Digital Deluxe Edition|79,99€|20|2023-01-12 13h|2023-01-19 13h|
-|60|the-darkest-tales-7d0dab|The Darkest Tales|15,99€|35|2022-12-22 18h|2023-01-05 18h|
-|61|the-life-and-suffering-of-sir-brante|The Life and Suffering of Sir Brante|19,99€|50|2022-12-22 18h|2023-01-05 18h|
-|62|the-life-and-suffering-of-sir-brante--artbook-and-ost|The Life and Suffering of Sir Brante Artbook + OST|3,99€|50|2022-12-22 18h|2023-01-05 18h|
-|63|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
-|64|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
+|52|sable|Sable|24,99€|100|2022-12-18 16h|2022-12-19 16h|
+|53|sailingera-450a80|Sailing Era|19,99€|10|2023-01-12 05h|2023-01-19 05h|
+|54|star-trek-online--1000-zen-bundle|1000 ZEN Bundle|8,99€|20|2022-12-21 16h|2023-01-02 16h|
+|55|star-trek-online--10000-zen-1000-bonus-bundle|10000 ZEN +1000 Bonus Bundle|89,99€|20|2022-12-21 16h|2023-01-02 16h|
+|56|star-trek-online--2000-zen-bundle|2000 ZEN Bundle|17,99€|20|2022-12-21 16h|2023-01-02 16h|
+|57|star-trek-online--20000-zen-3000-bonus-bundle|20000 ZEN + 3000 Bonus Bundle|179,99€|20|2022-12-21 16h|2023-01-02 16h|
+|58|star-trek-online--5000-zen-300-bonus-bundle|5000 ZEN + 300 Bonus Bundle|44,99€|20|2022-12-21 16h|2023-01-02 16h|
+|59|the-callisto-protocol|The Callisto Protocol|59,99€|20|2023-01-12 13h|2023-01-19 13h|
+|60|the-callisto-protocol--digital-deluxe-edition|The Callisto Protocol - Digital Deluxe Edition|79,99€|20|2023-01-12 13h|2023-01-19 13h|
+|61|the-darkest-tales-7d0dab|The Darkest Tales|15,99€|35|2022-12-22 18h|2023-01-05 18h|
+|62|the-life-and-suffering-of-sir-brante|The Life and Suffering of Sir Brante|19,99€|50|2022-12-22 18h|2023-01-05 18h|
+|63|the-life-and-suffering-of-sir-brante--artbook-and-ost|The Life and Suffering of Sir Brante Artbook + OST|3,99€|50|2022-12-22 18h|2023-01-05 18h|
+|64|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
+|65|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
