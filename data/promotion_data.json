@@ -315,6 +315,15 @@
     "title": "My Time at Sandrock"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2022-12-20T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 0,
+    "slug": "[]",
+    "startDate": "2022-12-19T16:00:00.000Z",
+    "title": "Mystery Game"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2022-12-30T22:00:00.000Z",
     "isFree": false,
@@ -448,24 +457,6 @@
     "slug": "idle-champions-of-the-forgotten-realms--ricochet-the-crocodile-hatchling-familiar-pack",
     "startDate": "2023-01-13T20:00:00.000Z",
     "title": "Ricochet, the Crocodile Hatchling Familiar Pack"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2022-12-19T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 0,
-    "slug": "sable",
-    "startDate": "2022-12-18T16:00:00.000Z",
-    "title": "Sable"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2022-12-19T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 2499,
-    "slug": "sable",
-    "startDate": "2022-12-18T16:00:00.000Z",
-    "title": "Sable"
   },
   {
     "discountPercentage": 10,
