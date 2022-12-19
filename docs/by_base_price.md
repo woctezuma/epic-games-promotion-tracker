@@ -64,4 +64,3 @@
 |62|the-life-and-suffering-of-sir-brante--artbook-and-ost|The Life and Suffering of Sir Brante Artbook + OST|3,99€|50|2022-12-22 18h|2023-01-05 18h|
 |63|a-plague-tale-requiem--protector-pack|A Plague Tale: Requiem - Protector Pack DLC|2,99€|20|2022-12-22 16h|2023-01-05 16h|
 |64|[]|Mystery Game|0,00€|100|2022-12-20 16h|2022-12-21 16h|
-|65|thems-fightin-herds|Them's Fightin' Herds|0,00€|100|2022-12-19 16h|2022-12-20 16h|
