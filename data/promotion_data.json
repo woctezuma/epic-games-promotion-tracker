@@ -316,11 +316,11 @@
   },
   {
     "discountPercentage": 100,
-    "endDate": "2022-12-20T16:00:00.000Z",
+    "endDate": "2022-12-21T16:00:00.000Z",
     "isFree": true,
     "originalPrice": 0,
     "slug": "[]",
-    "startDate": "2022-12-19T16:00:00.000Z",
+    "startDate": "2022-12-20T16:00:00.000Z",
     "title": "Mystery Game"
   },
   {
@@ -574,6 +574,15 @@
     "slug": "the-life-and-suffering-of-sir-brante--artbook-and-ost",
     "startDate": "2022-12-22T18:00:00.000Z",
     "title": "The Life and Suffering of Sir Brante Artbook + OST"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2022-12-20T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 0,
+    "slug": "thems-fightin-herds",
+    "startDate": "2022-12-19T16:00:00.000Z",
+    "title": "Them's Fightin' Herds"
   },
   {
     "discountPercentage": 50,
