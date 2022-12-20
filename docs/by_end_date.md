@@ -1,6 +1,6 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|1|[]|Mystery Game|0,00€|100|2022-12-20 16h|2022-12-21 16h|
+|1|[]|Mystery Game|0,00€|100|2022-12-21 16h|2022-12-22 16h|
 |2|football-manager-2023|Football Manager 2023|59,99€|10|2022-12-22 15h|2022-12-27 15h|
 |3|nero-0011a8|NERO|13,99€|25|2022-12-23 22h|2022-12-30 22h|
 |4|star-trek-online--1000-zen-bundle|1000 ZEN Bundle|8,99€|20|2022-12-21 16h|2023-01-02 16h|
