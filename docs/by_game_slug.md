@@ -1,6 +1,6 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|1|[]|Mystery Game|0,00€|100|2022-12-20 16h|2022-12-21 16h|
+|1|[]|Mystery Game|0,00€|100|2022-12-21 16h|2022-12-22 16h|
 |2|a-plague-tale-requiem|A Plague Tale: Requiem|49,99€|25|2022-12-22 16h|2023-01-05 16h|
 |3|a-plague-tale-requiem--protector-pack|A Plague Tale: Requiem - Protector Pack DLC|2,99€|20|2022-12-22 16h|2023-01-05 16h|
 |4|banedlc028-09-04|Red the Squirrel Familiar Pack|11,99€|90|2023-01-27 20h|2023-02-03 20h|
