@@ -33,7 +33,7 @@
 |31|idle-champions-of-the-forgotten-realms--modron-penelope-skin-feat-pack|Modron Penelope Skin & Feat Pack|7,99€|50|2023-01-13 20h|2023-01-20 20h|
 |32|idle-champions-of-the-forgotten-realms--moogin-the-death-dog-familiar-pack|Moogin the Death Dog Familiar Pack|7,99€|50|2023-01-20 20h|2023-01-27 20h|
 |33|my-time-at-sandrock|My Time at Sandrock|20,99€|20|2022-12-23 12h|2023-01-06 12h|
-|34|[]|Mystery Game|0,00€|100|2022-12-20 16h|2022-12-21 16h|
+|34|[]|Mystery Game|0,00€|100|2022-12-21 16h|2022-12-22 16h|
 |35|nero-0011a8|NERO|13,99€|25|2022-12-23 22h|2022-12-30 22h|
 |36|out-of-the-park-baseball-23-09e3fa|Out of the Park Baseball 23|39,99€|75|2022-12-22 18h|2023-01-05 13h|
 |37|pentadecagonbse|PentadecagonBSE|44,99€|20|2023-01-13 16h|2023-01-20 16h|
