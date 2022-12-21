@@ -22,6 +22,10 @@ def get_url_slug(store_element):
     return store_element["urlSlug"]
 
 
+def is_dummy_product_slug(product_slug):
+    return bool(product_slug == "[]")
+
+
 def to_slug(store_element):
     offer_slug = get_offer_slug(store_element)
     product_slug = get_product_slug(store_element)
@@ -29,7 +33,7 @@ def to_slug(store_element):
 
     if offer_slug is not None:
         slug = offer_slug
-    elif product_slug is not None:
+    elif product_slug is not None and not is_dummy_product_slug(product_slug):
         slug = product_slug
     else:
         slug = url_slug
