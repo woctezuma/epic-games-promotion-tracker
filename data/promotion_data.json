@@ -270,6 +270,24 @@
     "title": "Gale the Dumbo Rat Familiar Pack"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2022-12-22T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 0,
+    "slug": "lego-builders-journey",
+    "startDate": "2022-12-21T16:00:00.000Z",
+    "title": "LEGO\u00ae Builder's Journey"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2022-12-22T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1699,
+    "slug": "lego-builders-journey",
+    "startDate": "2022-12-21T16:00:00.000Z",
+    "title": "LEGO\u00ae Builder's Journey"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-01-20T20:00:00.000Z",
     "isFree": false,
@@ -295,15 +313,6 @@
     "slug": "my-time-at-sandrock",
     "startDate": "2022-12-23T12:00:00.000Z",
     "title": "My Time at Sandrock"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2022-12-22T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 0,
-    "slug": "[]",
-    "startDate": "2022-12-21T16:00:00.000Z",
-    "title": "Mystery Game"
   },
   {
     "discountPercentage": 25,
