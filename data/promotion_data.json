@@ -216,15 +216,6 @@
     "title": "Colonel Pest the Pest Mascot Familiar Pack"
   },
   {
-    "discountPercentage": 30,
-    "endDate": "2023-01-10T00:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1199,
-    "slug": "fortnite--deep-freeze-bundle",
-    "startDate": "2022-12-21T00:00:00.000Z",
-    "title": "Deep Freeze Bundle"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2023-01-20T20:00:00.000Z",
     "isFree": false,
@@ -268,15 +259,6 @@
     "slug": "football-manager-2023",
     "startDate": "2022-12-22T15:00:00.000Z",
     "title": "Football Manager 2023"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2023-01-10T00:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "fortnite--frozen-legends-pack",
-    "startDate": "2022-12-21T00:00:00.000Z",
-    "title": "Frozen Legends Pack"
   },
   {
     "discountPercentage": 50,
@@ -349,15 +331,6 @@
     "slug": "pentadecagonbse",
     "startDate": "2023-01-13T16:00:00.000Z",
     "title": "PentadecagonBSE"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2023-01-10T00:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "fortnite--polar-legends-pack",
-    "startDate": "2022-12-21T00:00:00.000Z",
-    "title": "Polar Legends Pack"
   },
   {
     "discountPercentage": 50,
