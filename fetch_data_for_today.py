@@ -12,7 +12,7 @@ def main():
 
     if force_update or not Path(PROMOTION_DATA_FNAME).exists():
         print("Updating JSON.")
-        data = download_upcoming_promotions()
+        data = download_upcoming_promotions(include_dlc=False)
         data = sorted(data, key=lambda x: (x["title"], x["startDate"], -x["discountPercentage"]))
         save_json(data, PROMOTION_DATA_FNAME, prettify=True)
     else:
