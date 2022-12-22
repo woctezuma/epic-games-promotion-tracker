@@ -54,15 +54,6 @@
     "title": "Edge Of Galaxy"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2022-12-27T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "football-manager-2023",
-    "startDate": "2022-12-22T15:00:00.000Z",
-    "title": "Football Manager 2023"
-  },
-  {
     "discountPercentage": 25,
     "endDate": "2023-01-05T16:00:00.000Z",
     "isFree": false,
