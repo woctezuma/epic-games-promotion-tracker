@@ -18,6 +18,15 @@
     "title": "A Plague Tale: Requiem"
   },
   {
+    "discountPercentage": 25,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "a-plague-tale-requiem",
+    "startDate": "2022-12-22T16:00:00.000Z",
+    "title": "A Plague Tale: Requiem"
+  },
+  {
     "discountPercentage": 35,
     "endDate": "2023-01-05T18:00:00.000Z",
     "isFree": false,
@@ -25,6 +34,15 @@
     "slug": "blind-fate-edo-no-yami-87e748",
     "startDate": "2022-12-22T18:00:00.000Z",
     "title": "Blind Fate: Edo no Yami"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "disney-dreamlight-valley",
+    "startDate": "2022-12-22T16:00:00.000Z",
+    "title": "Disney Dreamlight Valley"
   },
   {
     "discountPercentage": 50,
@@ -36,13 +54,13 @@
     "title": "Edge Of Galaxy"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2022-12-27T15:00:00.000Z",
+    "discountPercentage": 25,
+    "endDate": "2023-01-05T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": 5999,
-    "slug": "football-manager-2023",
-    "startDate": "2022-12-22T15:00:00.000Z",
-    "title": "Football Manager 2023"
+    "originalPrice": 4999,
+    "slug": "marvels-spider-man-miles-morales",
+    "startDate": "2022-12-22T16:00:00.000Z",
+    "title": "Marvel\u2019s Spider-Man: Miles Morales"
   },
   {
     "discountPercentage": 20,
