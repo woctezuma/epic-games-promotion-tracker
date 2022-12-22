@@ -54,6 +54,60 @@
     "title": "Edge Of Galaxy"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2022-12-23T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 999,
+    "slug": "fallout-2",
+    "startDate": "2022-12-22T16:00:00.000Z",
+    "title": "Fallout 2: A Post Nuclear Role Playing Game"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2022-12-23T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 0,
+    "slug": "fallout-2",
+    "startDate": "2022-12-22T16:01:00.000Z",
+    "title": "Fallout 2: A Post Nuclear Role Playing Game"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2022-12-23T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 999,
+    "slug": "fallout-tactics-brotherhood-of-steel",
+    "startDate": "2022-12-22T16:00:00.000Z",
+    "title": "Fallout Tactics: Brotherhood of Steel"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2022-12-23T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 0,
+    "slug": "fallout-tactics-brotherhood-of-steel",
+    "startDate": "2022-12-22T16:01:00.000Z",
+    "title": "Fallout Tactics: Brotherhood of Steel"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2022-12-23T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 0,
+    "slug": "fallout",
+    "startDate": "2022-12-22T16:00:00.000Z",
+    "title": "Fallout: A Post Nuclear Role Playing Game"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2022-12-23T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 999,
+    "slug": "fallout",
+    "startDate": "2022-12-22T16:00:00.000Z",
+    "title": "Fallout: A Post Nuclear Role Playing Game"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2023-01-05T16:00:00.000Z",
     "isFree": false,
@@ -73,11 +127,11 @@
   },
   {
     "discountPercentage": 100,
-    "endDate": "2022-12-23T16:00:00.000Z",
+    "endDate": "2022-12-24T16:00:00.000Z",
     "isFree": true,
     "originalPrice": 0,
-    "slug": "mystery-game8",
-    "startDate": "2022-12-22T16:00:00.000Z",
+    "slug": "mystery-game9",
+    "startDate": "2022-12-23T16:00:00.000Z",
     "title": "Mystery Game"
   },
   {
