@@ -12,8 +12,14 @@
 |10|blind-fate-edo-no-yami-87e748|Blind Fate: Edo no Yami|15,99€|35|2022-12-22 18h|2023-01-05 18h|
 |11|the-darkest-tales-7d0dab|The Darkest Tales|15,99€|35|2022-12-22 18h|2023-01-05 18h|
 |12|nero-0011a8|NERO|13,99€|25|2022-12-23 22h|2022-12-30 22h|
-|13|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
-|14|edge-of-galaxy-092087|Edge Of Galaxy|6,99€|50|2023-01-10 05h|2023-01-17 05h|
-|15|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
-|16|radioactive-dwarfs-evil-from-the-sewers-b43f18|Radioactive Dwarfs - Evil From The Sewers|3,99€|50|2023-01-31 05h|2023-02-07 05h|
-|17|mystery-game8|Mystery Game|0,00€|100|2022-12-22 16h|2022-12-23 16h|
+|13|fallout-2|Fallout 2: A Post Nuclear Role Playing Game|9,99€|100|2022-12-22 16h|2022-12-23 16h|
+|14|fallout-tactics-brotherhood-of-steel|Fallout Tactics: Brotherhood of Steel|9,99€|100|2022-12-22 16h|2022-12-23 16h|
+|15|fallout|Fallout: A Post Nuclear Role Playing Game|9,99€|100|2022-12-22 16h|2022-12-23 16h|
+|16|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
+|17|edge-of-galaxy-092087|Edge Of Galaxy|6,99€|50|2023-01-10 05h|2023-01-17 05h|
+|18|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
+|19|radioactive-dwarfs-evil-from-the-sewers-b43f18|Radioactive Dwarfs - Evil From The Sewers|3,99€|50|2023-01-31 05h|2023-02-07 05h|
+|20|fallout-2|Fallout 2: A Post Nuclear Role Playing Game|0,00€|100|2022-12-22 16h|2022-12-23 16h|
+|21|fallout-tactics-brotherhood-of-steel|Fallout Tactics: Brotherhood of Steel|0,00€|100|2022-12-22 16h|2022-12-23 16h|
+|22|fallout|Fallout: A Post Nuclear Role Playing Game|0,00€|100|2022-12-22 16h|2022-12-23 16h|
+|23|mystery-game9|Mystery Game|0,00€|100|2022-12-23 16h|2022-12-24 16h|
