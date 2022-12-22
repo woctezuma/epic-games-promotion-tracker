@@ -16,5 +16,4 @@
 |14|nero-0011a8|NERO|13,99€|25|2022-12-23 22h|2022-12-30 22h|
 |15|my-time-at-sandrock|My Time at Sandrock|20,99€|20|2022-12-23 12h|2023-01-06 12h|
 |16|the-callisto-protocol|The Callisto Protocol|59,99€|20|2023-01-12 13h|2023-01-19 13h|
-|17|football-manager-2023|Football Manager 2023|59,99€|10|2022-12-22 15h|2022-12-27 15h|
-|18|sailingera-450a80|Sailing Era|19,99€|10|2023-01-12 05h|2023-01-19 05h|
+|17|sailingera-450a80|Sailing Era|19,99€|10|2023-01-12 05h|2023-01-19 05h|
