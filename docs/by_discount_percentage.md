@@ -11,8 +11,9 @@
 |9|blind-fate-edo-no-yami-87e748|Blind Fate: Edo no Yami|15,99€|35|2022-12-22 18h|2023-01-05 18h|
 |10|the-darkest-tales-7d0dab|The Darkest Tales|15,99€|35|2022-12-22 18h|2023-01-05 18h|
 |11|a-plague-tale-requiem|A Plague Tale: Requiem|49,99€|25|2022-12-22 16h|2023-01-05 16h|
-|12|nero-0011a8|NERO|13,99€|25|2022-12-23 22h|2022-12-30 22h|
-|13|my-time-at-sandrock|My Time at Sandrock|20,99€|20|2022-12-23 12h|2023-01-06 12h|
-|14|the-callisto-protocol|The Callisto Protocol|59,99€|20|2023-01-12 13h|2023-01-19 13h|
-|15|football-manager-2023|Football Manager 2023|59,99€|10|2022-12-22 15h|2022-12-27 15h|
-|16|sailingera-450a80|Sailing Era|19,99€|10|2023-01-12 05h|2023-01-19 05h|
+|12|disney-dreamlight-valley|Disney Dreamlight Valley|29,99€|25|2022-12-22 16h|2023-01-05 16h|
+|13|marvels-spider-man-miles-morales|Marvel’s Spider-Man: Miles Morales|49,99€|25|2022-12-22 16h|2023-01-05 16h|
+|14|nero-0011a8|NERO|13,99€|25|2022-12-23 22h|2022-12-30 22h|
+|15|my-time-at-sandrock|My Time at Sandrock|20,99€|20|2022-12-23 12h|2023-01-06 12h|
+|16|the-callisto-protocol|The Callisto Protocol|59,99€|20|2023-01-12 13h|2023-01-19 13h|
+|17|sailingera-450a80|Sailing Era|19,99€|10|2023-01-12 05h|2023-01-19 05h|
