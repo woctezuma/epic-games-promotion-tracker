@@ -1,6 +1,6 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|1|mystery-game10|Mystery Game|0,00€|100|2022-12-24 16h|2022-12-25 16h|
+|1|metro-last-light-redux|Metro Last Light Redux|0,00€|100|2022-12-24 16h|2022-12-25 16h|
 |2|prey|Prey|39,99€|75|2023-01-24 16h|2023-01-31 16h|
 |3|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
 |4|edge-of-galaxy-092087|Edge Of Galaxy|6,99€|50|2023-01-10 05h|2023-01-17 05h|
