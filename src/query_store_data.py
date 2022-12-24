@@ -123,7 +123,7 @@ def get_params_to_query_store_data(cursor, step, include_dlc=False):
       }
     }
     """
-    params = {"query": query_str}
+    params = {"query": query_str.replace("\n", " ")}
 
     return params
 
