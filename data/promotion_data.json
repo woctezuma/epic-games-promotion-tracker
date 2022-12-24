@@ -10,24 +10,6 @@
   },
   {
     "discountPercentage": 100,
-    "endDate": "2022-12-25T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 0,
-    "slug": "metro-last-light-redux",
-    "startDate": "2022-12-24T16:00:00.000Z",
-    "title": "Metro Last Light Redux"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2022-12-25T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 1999,
-    "slug": "metro-last-light-redux",
-    "startDate": "2022-12-24T16:00:00.000Z",
-    "title": "Metro Last Light Redux"
-  },
-  {
-    "discountPercentage": 100,
     "endDate": "2022-12-26T16:00:00.000Z",
     "isFree": true,
     "originalPrice": 0,
