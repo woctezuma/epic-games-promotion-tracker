@@ -9,16 +9,120 @@ def get_params_to_query_store_data(cursor, step, include_dlc=False):
 
     query_str = "{Catalog {searchStore"
     query_str += f'({category_str}start: {cursor}, count: {step}, country: "FR") '
-    query_str += "{"
-    query_str += "paging {count total} elements {"
-    query_str += "title offerMappings {pageSlug} productSlug urlSlug promotions {upcomingPromotionalOffers {"
-    query_str += "promotionalOffers {startDate endDate discountSetting {discountPercentage} }"
-    query_str += "}} "
-    query_str += "id lastModifiedDate countriesBlacklist "
-    query_str += 'price(country: "FR") {totalPrice {originalPrice} }'
-    query_str += "}"
-    query_str += "}}}"
-
+    query_str += """{
+          elements {
+            title
+            id
+            namespace
+            description
+            effectiveDate
+            isCodeRedemptionOnly
+            keyImages {
+              type
+              url
+            }
+            currentPrice
+            seller {
+              id
+              name
+            }
+            productSlug
+            urlSlug
+            url
+            tags {
+              id
+            }
+            items {
+              id
+              namespace
+            }
+            customAttributes {
+              key
+              value
+            }
+            categories {
+              path
+            }
+            catalogNs {
+              mappings(pageType: "productHome") {
+                pageSlug
+                pageType
+              }
+            }
+            offerMappings {
+              pageSlug
+              pageType
+            }
+            developerDisplayName
+            publisherDisplayName
+            price {
+              totalPrice {
+                discountPrice
+                originalPrice
+                voucherDiscount
+                discount
+                currencyCode
+                currencyInfo {
+                  decimals
+                }
+                fmtPrice {
+                  originalPrice
+                  discountPrice
+                  intermediatePrice
+                }
+              }
+              lineOffers {
+                appliedRules {
+                  id
+                  endDate
+                  discountSetting {
+                    discountType
+                  }
+                }
+              }
+            }
+            promotions {
+              promotionalOffers {
+                promotionalOffers {
+                  startDate
+                  endDate
+                  discountSetting {
+                    discountType
+                    discountPercentage
+                  }
+                }
+              }
+              upcomingPromotionalOffers {
+                promotionalOffers {
+                  startDate
+                  endDate
+                  discountSetting {
+                    discountType
+                    discountPercentage
+                  }
+                }
+              }
+            }
+            prePurchase
+            releaseDate
+            pcReleaseDate
+            viewableDate
+            approximateReleasePlan {
+              day
+              month
+              quarter
+              year
+              releaseDateType
+            }
+          }
+          paging {
+            count
+            total
+          }
+        }
+      }
+    }
+    """
     params = {"query": query_str}
 
     return params
