@@ -55,7 +55,7 @@ def get_params_to_query_store_data(cursor, step, include_dlc=False):
             }
             developerDisplayName
             publisherDisplayName
-            price {
+            price(country: "FR") {
               totalPrice {
                 discountPrice
                 originalPrice
