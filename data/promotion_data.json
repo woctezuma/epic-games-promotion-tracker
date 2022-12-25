@@ -1,5 +1,23 @@
 [
   {
+    "discountPercentage": 100,
+    "endDate": "2022-12-26T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 0,
+    "slug": "death-stranding-directors-cut",
+    "startDate": "2022-12-25T16:00:00.000Z",
+    "title": "DEATH STRANDING DIRECTOR'S CUT"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2022-12-26T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 3999,
+    "slug": "death-stranding-directors-cut",
+    "startDate": "2022-12-25T16:00:00.000Z",
+    "title": "DEATH STRANDING DIRECTOR'S CUT"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-01-17T05:00:00.000Z",
     "isFree": false,
@@ -7,15 +25,6 @@
     "slug": "edge-of-galaxy-092087",
     "startDate": "2023-01-10T05:00:00.000Z",
     "title": "Edge Of Galaxy"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2022-12-26T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 0,
-    "slug": "mystery-game11",
-    "startDate": "2022-12-25T16:00:00.000Z",
-    "title": "Mystery Game"
   },
   {
     "discountPercentage": 75,
