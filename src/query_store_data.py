@@ -53,66 +53,8 @@ def get_params_to_query_store_data(cursor, step, include_dlc=False):
             categories {
               path
             }
-            catalogNs {
-              mappings(pageType: "productHome") {
-                pageSlug
-                pageType
-              }
-            }
-            offerMappings {
-              pageSlug
-              pageType
-            }
             developerDisplayName
             publisherDisplayName
-            price(country: "FR") {
-              totalPrice {
-                discountPrice
-                originalPrice
-                voucherDiscount
-                discount
-                currencyCode
-                currencyInfo {
-                  decimals
-                }
-                fmtPrice {
-                  originalPrice
-                  discountPrice
-                  intermediatePrice
-                }
-              }
-              lineOffers {
-                appliedRules {
-                  id
-                  endDate
-                  discountSetting {
-                    discountType
-                  }
-                }
-              }
-            }
-            promotions {
-              promotionalOffers {
-                promotionalOffers {
-                  startDate
-                  endDate
-                  discountSetting {
-                    discountType
-                    discountPercentage
-                  }
-                }
-              }
-              upcomingPromotionalOffers {
-                promotionalOffers {
-                  startDate
-                  endDate
-                  discountSetting {
-                    discountType
-                    discountPercentage
-                  }
-                }
-              }
-            }
             prePurchase
             releaseDate
             pcReleaseDate
