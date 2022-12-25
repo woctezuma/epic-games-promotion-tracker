@@ -15,6 +15,16 @@ def get_params_to_query_store_data(cursor, step, include_dlc=False):
             id
             namespace
             description
+            longDescription
+            status
+            creationDate
+            lastModifiedDate
+            linkedOfferId
+            isFeatured
+            ignoreOrder
+            freeDays
+            technicalDetails
+            recurrence
             effectiveDate
             isCodeRedemptionOnly
             keyImages {
