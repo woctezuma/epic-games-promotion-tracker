@@ -5,7 +5,7 @@ def get_params_to_query_store_data(cursor, step, include_dlc=False):
     if include_dlc:
         category_str = ""
     else:
-        category_str = 'category: "games/edition/base|software/edition/base|bundles/games|freegames/vaulted", '
+        category_str = 'category: "games/edition/base|software/edition/base|editors|bundles/games|freegames/vaulted", '
 
     query_str = "{Catalog {searchStore"
     query_str += f'({category_str}start: {cursor}, count: {step}, country: "FR") '
