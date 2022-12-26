@@ -27,6 +27,15 @@
     "title": "F.I.S.T.: Forged In Shadow Torch"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2022-12-28T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 0,
+    "slug": "mystery-game13",
+    "startDate": "2022-12-27T16:00:00.000Z",
+    "title": "Mystery Game"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2023-01-31T16:00:00.000Z",
     "isFree": false,
