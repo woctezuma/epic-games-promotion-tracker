@@ -10,24 +10,6 @@
   },
   {
     "discountPercentage": 100,
-    "endDate": "2022-12-27T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 0,
-    "slug": "fist-forged-in-shadow-torch",
-    "startDate": "2022-12-26T16:00:00.000Z",
-    "title": "F.I.S.T.: Forged In Shadow Torch"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2022-12-27T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 2999,
-    "slug": "fist-forged-in-shadow-torch",
-    "startDate": "2022-12-26T16:00:00.000Z",
-    "title": "F.I.S.T.: Forged In Shadow Torch"
-  },
-  {
-    "discountPercentage": 100,
     "endDate": "2022-12-28T16:00:00.000Z",
     "isFree": true,
     "originalPrice": 0,
