@@ -10,11 +10,11 @@
   },
   {
     "discountPercentage": 100,
-    "endDate": "2022-12-28T16:00:00.000Z",
+    "endDate": "2022-12-29T16:00:00.000Z",
     "isFree": true,
     "originalPrice": 0,
-    "slug": "mystery-game13",
-    "startDate": "2022-12-27T16:00:00.000Z",
+    "slug": "mystery-game14",
+    "startDate": "2022-12-28T16:00:00.000Z",
     "title": "Mystery Game"
   },
   {
@@ -43,6 +43,24 @@
     "slug": "sailingera-450a80",
     "startDate": "2023-01-12T05:00:00.000Z",
     "title": "Sailing Era"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2022-12-28T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 0,
+    "slug": "severed-steel",
+    "startDate": "2022-12-27T16:00:00.000Z",
+    "title": "Severed Steel"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2022-12-28T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 2499,
+    "slug": "severed-steel",
+    "startDate": "2022-12-27T16:00:00.000Z",
+    "title": "Severed Steel"
   },
   {
     "discountPercentage": 20,
