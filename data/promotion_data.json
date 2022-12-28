@@ -13,8 +13,26 @@
     "endDate": "2022-12-29T16:00:00.000Z",
     "isFree": true,
     "originalPrice": 0,
-    "slug": "mystery-game14",
+    "slug": "mortal-shell",
     "startDate": "2022-12-28T16:00:00.000Z",
+    "title": "Mortal Shell"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2022-12-29T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 2999,
+    "slug": "mortal-shell",
+    "startDate": "2022-12-28T16:00:00.000Z",
+    "title": "Mortal Shell"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2023-01-05T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 0,
+    "slug": "mystery-game15",
+    "startDate": "2022-12-29T16:00:00.000Z",
     "title": "Mystery Game"
   },
   {
