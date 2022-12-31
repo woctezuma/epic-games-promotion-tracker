@@ -18,15 +18,6 @@
     "title": "Kerbal Space Program"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2023-01-05T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 6999,
-    "slug": "need-for-speed-unbound",
-    "startDate": "2022-12-31T16:00:00.000Z",
-    "title": "Need for Speed\u2122 Unbound"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2023-01-31T16:00:00.000Z",
     "isFree": false,
