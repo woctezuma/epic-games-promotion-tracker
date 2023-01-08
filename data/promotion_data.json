@@ -18,6 +18,15 @@
     "title": "Bud Spencer and Terence Hill - Slaps and Beans"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2023-02-24T05:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 79,
+    "slug": "car-tuning-simulator-38ddaf",
+    "startDate": "2023-02-05T05:00:00.000Z",
+    "title": "Car Tuning Simulator"
+  },
+  {
     "discountPercentage": 33,
     "endDate": "2023-01-24T18:00:00.000Z",
     "isFree": false,
@@ -52,6 +61,24 @@
     "slug": "football-manager-2023",
     "startDate": "2023-01-26T18:00:00.000Z",
     "title": "Football Manager 2023"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2023-02-08T05:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 159,
+    "slug": "he-will-shoot-46efff",
+    "startDate": "2023-01-25T05:00:00.000Z",
+    "title": "He Will Shoot"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2023-02-08T05:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 159,
+    "slug": "it-follows-you-b11f3e",
+    "startDate": "2023-01-24T05:00:00.000Z",
+    "title": "It follows you"
   },
   {
     "discountPercentage": 75,
@@ -106,6 +133,24 @@
     "slug": "thermonuclear-30a1d0",
     "startDate": "2023-01-17T18:00:00.000Z",
     "title": "Thermonuclear"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2023-01-25T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "tortuga-a-pirates-tale-e02635",
+    "startDate": "2023-01-19T15:00:00.000Z",
+    "title": "Tortuga - A Pirate's Tale"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2023-01-28T05:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 599,
+    "slug": "true-hate-007027",
+    "startDate": "2023-01-10T05:00:00.000Z",
+    "title": "True Hate"
   },
   {
     "discountPercentage": 60,
