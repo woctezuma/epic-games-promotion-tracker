@@ -108,6 +108,15 @@
     "title": "Thermonuclear"
   },
   {
+    "discountPercentage": 90,
+    "endDate": "2023-01-28T05:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 599,
+    "slug": "true-hate-007027",
+    "startDate": "2023-01-10T05:00:00.000Z",
+    "title": "True Hate"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2023-01-31T05:00:00.000Z",
     "isFree": false,
