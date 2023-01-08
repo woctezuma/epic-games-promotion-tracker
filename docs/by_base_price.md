@@ -12,5 +12,6 @@
 |10|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
 |11|edge-of-galaxy-092087|Edge Of Galaxy|6,99€|50|2023-01-10 05h|2023-01-17 05h|
 |12|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
-|13|when-the-past-was-around-3071e0|When the Past was Around|5,99€|30|2023-01-18 18h|2023-01-24 18h|
-|14|radioactive-dwarfs-evil-from-the-sewers-b43f18|Radioactive Dwarfs - Evil From The Sewers|3,99€|50|2023-01-31 05h|2023-02-07 05h|
+|13|true-hate-007027|True Hate|5,99€|90|2023-01-10 05h|2023-01-28 05h|
+|14|when-the-past-was-around-3071e0|When the Past was Around|5,99€|30|2023-01-18 18h|2023-01-24 18h|
+|15|radioactive-dwarfs-evil-from-the-sewers-b43f18|Radioactive Dwarfs - Evil From The Sewers|3,99€|50|2023-01-31 05h|2023-02-07 05h|
