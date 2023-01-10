@@ -36,13 +36,22 @@
     "title": "Coffee Talk"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2023-01-17T05:00:00.000Z",
+    "discountPercentage": 75,
+    "endDate": "2023-02-16T18:00:00.000Z",
     "isFree": false,
-    "originalPrice": 699,
-    "slug": "edge-of-galaxy-092087",
-    "startDate": "2023-01-10T05:00:00.000Z",
-    "title": "Edge Of Galaxy"
+    "originalPrice": 599,
+    "slug": "disciples-ii-galleans-return-9ecd70",
+    "startDate": "2023-02-02T18:00:00.000Z",
+    "title": "Disciples II - Galleans Return"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-02-06T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1679,
+    "slug": "effie-f06e3c",
+    "startDate": "2023-01-20T15:00:00.000Z",
+    "title": "Effie"
   },
   {
     "discountPercentage": 100,
@@ -52,6 +61,24 @@
     "slug": "first-class-trouble",
     "startDate": "2023-01-12T16:00:00.000Z",
     "title": "First Class Trouble"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2023-02-20T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "flatout-940461",
+    "startDate": "2023-02-06T15:00:00.000Z",
+    "title": "Flatout"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2023-02-20T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "flatout-2-9ffdd6",
+    "startDate": "2023-02-06T15:00:00.000Z",
+    "title": "Flatout 2"
   },
   {
     "discountPercentage": 20,
@@ -90,6 +117,15 @@
     "title": "It follows you"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2023-02-14T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2399,
+    "slug": "jett-the-far-shore",
+    "startDate": "2023-01-31T15:00:00.000Z",
+    "title": "JETT: The Far Shore"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2023-01-25T12:00:00.000Z",
     "isFree": false,
@@ -97,6 +133,15 @@
     "slug": "my-time-at-sandrock",
     "startDate": "2023-01-16T12:00:00.000Z",
     "title": "My Time at Sandrock"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2023-01-20T05:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1399,
+    "slug": "nero-0011a8",
+    "startDate": "2023-01-13T05:00:00.000Z",
+    "title": "NERO"
   },
   {
     "discountPercentage": 75,
@@ -126,15 +171,6 @@
     "title": "Rising Hell"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2023-01-19T03:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "sailingera-450a80",
-    "startDate": "2023-01-12T03:00:00.000Z",
-    "title": "Sailing Era"
-  },
-  {
     "discountPercentage": 20,
     "endDate": "2023-01-26T16:00:00.000Z",
     "isFree": false,
@@ -142,6 +178,15 @@
     "slug": "shoulders-of-giants-61381f",
     "startDate": "2023-01-12T16:00:00.000Z",
     "title": "Shoulders of Giants"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2023-01-24T18:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "submarine-titans-660aa0",
+    "startDate": "2023-01-20T18:00:00.000Z",
+    "title": "Submarine Titans"
   },
   {
     "discountPercentage": 20,
@@ -169,15 +214,6 @@
     "slug": "tortuga-a-pirates-tale-e02635",
     "startDate": "2023-01-19T15:00:00.000Z",
     "title": "Tortuga - A Pirate's Tale"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2023-01-28T05:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 599,
-    "slug": "true-hate-007027",
-    "startDate": "2023-01-10T05:00:00.000Z",
-    "title": "True Hate"
   },
   {
     "discountPercentage": 60,
