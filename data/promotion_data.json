@@ -27,6 +27,15 @@
     "title": "Car Tuning Simulator"
   },
   {
+    "discountPercentage": 10,
+    "endDate": "2023-01-18T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "children-of-silentown-52cc21",
+    "startDate": "2023-01-11T16:00:00.000Z",
+    "title": "Children of Silentown"
+  },
+  {
     "discountPercentage": 33,
     "endDate": "2023-01-24T18:00:00.000Z",
     "isFree": false,
@@ -34,15 +43,6 @@
     "slug": "coffee-talk",
     "startDate": "2023-01-17T18:00:00.000Z",
     "title": "Coffee Talk"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2023-01-17T05:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 699,
-    "slug": "edge-of-galaxy-092087",
-    "startDate": "2023-01-10T05:00:00.000Z",
-    "title": "Edge Of Galaxy"
   },
   {
     "discountPercentage": 100,
@@ -126,15 +126,6 @@
     "title": "Rising Hell"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2023-01-19T03:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "sailingera-450a80",
-    "startDate": "2023-01-12T03:00:00.000Z",
-    "title": "Sailing Era"
-  },
-  {
     "discountPercentage": 20,
     "endDate": "2023-01-26T16:00:00.000Z",
     "isFree": false,
@@ -169,15 +160,6 @@
     "slug": "tortuga-a-pirates-tale-e02635",
     "startDate": "2023-01-19T15:00:00.000Z",
     "title": "Tortuga - A Pirate's Tale"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2023-01-28T05:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 599,
-    "slug": "true-hate-007027",
-    "startDate": "2023-01-10T05:00:00.000Z",
-    "title": "True Hate"
   },
   {
     "discountPercentage": 60,
