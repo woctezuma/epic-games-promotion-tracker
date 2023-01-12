@@ -45,15 +45,6 @@
     "title": "Disciples II - Galleans Return"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2023-01-19T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 0,
-    "slug": "divine-knockout--standard",
-    "startDate": "2023-01-12T16:00:00.000Z",
-    "title": "Divine Knockout"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2023-02-06T15:00:00.000Z",
     "isFree": false,
@@ -64,12 +55,12 @@
   },
   {
     "discountPercentage": 100,
-    "endDate": "2023-01-19T16:00:00.000Z",
+    "endDate": "2023-01-26T16:00:00.000Z",
     "isFree": true,
-    "originalPrice": 1449,
-    "slug": "first-class-trouble",
-    "startDate": "2023-01-12T16:00:00.000Z",
-    "title": "First Class Trouble"
+    "originalPrice": 1199,
+    "slug": "epistory-typing-adventure-445794",
+    "startDate": "2023-01-19T16:00:00.000Z",
+    "title": "Epistory - Typing Chronicles"
   },
   {
     "discountPercentage": 70,
@@ -97,15 +88,6 @@
     "slug": "football-manager-2023",
     "startDate": "2023-01-26T18:00:00.000Z",
     "title": "Football Manager 2023"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2023-01-19T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 2999,
-    "slug": "gamedec",
-    "startDate": "2023-01-12T16:00:00.000Z",
-    "title": "Gamedec - Definitive Edition"
   },
   {
     "discountPercentage": 60,
