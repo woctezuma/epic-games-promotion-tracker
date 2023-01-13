@@ -58,7 +58,7 @@
     "endDate": "2023-01-26T16:00:00.000Z",
     "isFree": true,
     "originalPrice": 1199,
-    "slug": "epistory-typing-adventure-445794",
+    "slug": "epistory-typing-chronicles-445794",
     "startDate": "2023-01-19T16:00:00.000Z",
     "title": "Epistory - Typing Chronicles"
   },
@@ -117,6 +117,15 @@
     "title": "JETT: The Far Shore"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2023-02-09T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "marvels-midnight-suns",
+    "startDate": "2023-01-19T16:00:00.000Z",
+    "title": "Marvel's Midnight Suns"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2023-01-25T12:00:00.000Z",
     "isFree": false,
@@ -124,15 +133,6 @@
     "slug": "my-time-at-sandrock",
     "startDate": "2023-01-16T12:00:00.000Z",
     "title": "My Time at Sandrock"
-  },
-  {
-    "discountPercentage": 25,
-    "endDate": "2023-01-20T05:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1399,
-    "slug": "nero-0011a8",
-    "startDate": "2023-01-13T05:00:00.000Z",
-    "title": "NERO"
   },
   {
     "discountPercentage": 75,
