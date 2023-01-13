@@ -1,14 +1,14 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|1|nero-0011a8|NERO|13,99€|25|2023-01-13 05h|2023-01-20 05h|
-|2|my-time-at-sandrock|My Time at Sandrock|20,99€|20|2023-01-16 12h|2023-01-25 12h|
-|3|coffee-talk|Coffee Talk|9,99€|33|2023-01-17 18h|2023-01-24 18h|
-|4|rising-hell-253707|Rising Hell|7,99€|30|2023-01-17 18h|2023-01-24 18h|
-|5|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
-|6|when-the-past-was-around-3071e0|When the Past was Around|5,99€|30|2023-01-18 18h|2023-01-24 18h|
-|7|a-space-for-the-unbound-57e666|A Space for the Unbound|15,99€|10|2023-01-19 14h|2023-01-26 14h|
-|8|tortuga-a-pirates-tale-e02635|Tortuga - A Pirate's Tale|24,99€|10|2023-01-19 15h|2023-01-25 15h|
-|9|epistory-typing-adventure-445794|Epistory - Typing Chronicles|11,99€|100|2023-01-19 16h|2023-01-26 16h|
+|1|my-time-at-sandrock|My Time at Sandrock|20,99€|20|2023-01-16 12h|2023-01-25 12h|
+|2|coffee-talk|Coffee Talk|9,99€|33|2023-01-17 18h|2023-01-24 18h|
+|3|rising-hell-253707|Rising Hell|7,99€|30|2023-01-17 18h|2023-01-24 18h|
+|4|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
+|5|when-the-past-was-around-3071e0|When the Past was Around|5,99€|30|2023-01-18 18h|2023-01-24 18h|
+|6|a-space-for-the-unbound-57e666|A Space for the Unbound|15,99€|10|2023-01-19 14h|2023-01-26 14h|
+|7|tortuga-a-pirates-tale-e02635|Tortuga - A Pirate's Tale|24,99€|10|2023-01-19 15h|2023-01-25 15h|
+|8|epistory-typing-chronicles-445794|Epistory - Typing Chronicles|11,99€|100|2023-01-19 16h|2023-01-26 16h|
+|9|marvels-midnight-suns|Marvel's Midnight Suns|59,99€|40|2023-01-19 16h|2023-02-09 16h|
 |10|effie-f06e3c|Effie|16,79€|50|2023-01-20 15h|2023-02-06 15h|
 |11|submarine-titans-660aa0|Submarine Titans|3,99€|60|2023-01-20 18h|2023-01-24 18h|
 |12|world-war-z|World War Z Aftermath|39,99€|50|2023-01-23 14h|2023-01-30 01h|

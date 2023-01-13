@@ -6,15 +6,15 @@
 |4|coffee-talk|Coffee Talk|9,99€|33|2023-01-17 18h|2023-01-24 18h|
 |5|disciples-ii-galleans-return-9ecd70|Disciples II - Galleans Return|5,99€|75|2023-02-02 18h|2023-02-16 18h|
 |6|effie-f06e3c|Effie|16,79€|50|2023-01-20 15h|2023-02-06 15h|
-|7|epistory-typing-adventure-445794|Epistory - Typing Chronicles|11,99€|100|2023-01-19 16h|2023-01-26 16h|
+|7|epistory-typing-chronicles-445794|Epistory - Typing Chronicles|11,99€|100|2023-01-19 16h|2023-01-26 16h|
 |8|flatout-940461|Flatout|3,99€|70|2023-02-06 15h|2023-02-20 15h|
 |9|flatout-2-9ffdd6|Flatout 2|7,99€|70|2023-02-06 15h|2023-02-20 15h|
 |10|football-manager-2023|Football Manager 2023|59,99€|20|2023-01-26 18h|2023-02-02 18h|
 |11|he-will-shoot-46efff|He Will Shoot|1,59€|60|2023-01-25 05h|2023-02-08 05h|
 |12|it-follows-you-b11f3e|It follows you|1,59€|60|2023-01-24 05h|2023-02-08 05h|
 |13|jett-the-far-shore|JETT: The Far Shore|23,99€|40|2023-01-31 15h|2023-02-14 15h|
-|14|my-time-at-sandrock|My Time at Sandrock|20,99€|20|2023-01-16 12h|2023-01-25 12h|
-|15|nero-0011a8|NERO|13,99€|25|2023-01-13 05h|2023-01-20 05h|
+|14|marvels-midnight-suns|Marvel's Midnight Suns|59,99€|40|2023-01-19 16h|2023-02-09 16h|
+|15|my-time-at-sandrock|My Time at Sandrock|20,99€|20|2023-01-16 12h|2023-01-25 12h|
 |16|prey|Prey|39,99€|75|2023-01-24 16h|2023-01-31 16h|
 |17|radioactive-dwarfs-evil-from-the-sewers-b43f18|Radioactive Dwarfs - Evil From The Sewers|3,99€|50|2023-01-31 05h|2023-02-07 05h|
 |18|rising-hell-253707|Rising Hell|7,99€|30|2023-01-17 18h|2023-01-24 18h|
