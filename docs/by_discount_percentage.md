@@ -1,6 +1,6 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|1|epistory-typing-adventure-445794|Epistory - Typing Chronicles|11,99€|100|2023-01-19 16h|2023-01-26 16h|
+|1|epistory-typing-chronicles-445794|Epistory - Typing Chronicles|11,99€|100|2023-01-19 16h|2023-01-26 16h|
 |2|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|81|2023-01-27 05h|2023-02-12 05h|
 |3|disciples-ii-galleans-return-9ecd70|Disciples II - Galleans Return|5,99€|75|2023-02-02 18h|2023-02-16 18h|
 |4|prey|Prey|39,99€|75|2023-01-24 16h|2023-01-31 16h|
@@ -16,10 +16,10 @@
 |14|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-01-17 18h|2023-01-24 18h|
 |15|world-war-z|World War Z Aftermath|39,99€|50|2023-01-23 14h|2023-01-30 01h|
 |16|jett-the-far-shore|JETT: The Far Shore|23,99€|40|2023-01-31 15h|2023-02-14 15h|
-|17|coffee-talk|Coffee Talk|9,99€|33|2023-01-17 18h|2023-01-24 18h|
-|18|rising-hell-253707|Rising Hell|7,99€|30|2023-01-17 18h|2023-01-24 18h|
-|19|when-the-past-was-around-3071e0|When the Past was Around|5,99€|30|2023-01-18 18h|2023-01-24 18h|
-|20|nero-0011a8|NERO|13,99€|25|2023-01-13 05h|2023-01-20 05h|
+|17|marvels-midnight-suns|Marvel's Midnight Suns|59,99€|40|2023-01-19 16h|2023-02-09 16h|
+|18|coffee-talk|Coffee Talk|9,99€|33|2023-01-17 18h|2023-01-24 18h|
+|19|rising-hell-253707|Rising Hell|7,99€|30|2023-01-17 18h|2023-01-24 18h|
+|20|when-the-past-was-around-3071e0|When the Past was Around|5,99€|30|2023-01-18 18h|2023-01-24 18h|
 |21|football-manager-2023|Football Manager 2023|59,99€|20|2023-01-26 18h|2023-02-02 18h|
 |22|my-time-at-sandrock|My Time at Sandrock|20,99€|20|2023-01-16 12h|2023-01-25 12h|
 |23|a-space-for-the-unbound-57e666|A Space for the Unbound|15,99€|10|2023-01-19 14h|2023-01-26 14h|
