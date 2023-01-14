@@ -1,14 +1,5 @@
 [
   {
-    "discountPercentage": 10,
-    "endDate": "2023-01-26T14:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1599,
-    "slug": "a-space-for-the-unbound-57e666",
-    "startDate": "2023-01-19T14:00:00.000Z",
-    "title": "A Space for the Unbound"
-  },
-  {
     "discountPercentage": 81,
     "endDate": "2023-02-12T05:00:00.000Z",
     "isFree": false,
@@ -25,15 +16,6 @@
     "slug": "car-tuning-simulator-38ddaf",
     "startDate": "2023-02-05T05:00:00.000Z",
     "title": "Car Tuning Simulator"
-  },
-  {
-    "discountPercentage": 33,
-    "endDate": "2023-01-24T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "coffee-talk",
-    "startDate": "2023-01-17T18:00:00.000Z",
-    "title": "Coffee Talk"
   },
   {
     "discountPercentage": 75,
@@ -126,15 +108,6 @@
     "title": "Marvel's Midnight Suns"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2023-01-25T12:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2099,
-    "slug": "my-time-at-sandrock",
-    "startDate": "2023-01-16T12:00:00.000Z",
-    "title": "My Time at Sandrock"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2023-01-31T16:00:00.000Z",
     "isFree": false,
@@ -153,13 +126,13 @@
     "title": "Radioactive Dwarfs - Evil From The Sewers"
   },
   {
-    "discountPercentage": 30,
-    "endDate": "2023-01-24T18:00:00.000Z",
+    "discountPercentage": 53,
+    "endDate": "2023-02-14T18:00:00.000Z",
     "isFree": false,
-    "originalPrice": 799,
-    "slug": "rising-hell-253707",
-    "startDate": "2023-01-17T18:00:00.000Z",
-    "title": "Rising Hell"
+    "originalPrice": 1199,
+    "slug": "rogue-invader-68d438",
+    "startDate": "2023-01-23T18:00:00.000Z",
+    "title": "Rogue Invader"
   },
   {
     "discountPercentage": 60,
@@ -171,22 +144,40 @@
     "title": "Submarine Titans"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2023-01-24T18:00:00.000Z",
+    "discountPercentage": 60,
+    "endDate": "2023-01-29T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": 599,
-    "slug": "thermonuclear-30a1d0",
-    "startDate": "2023-01-17T18:00:00.000Z",
-    "title": "Thermonuclear"
+    "originalPrice": 1999,
+    "slug": "the-alien-cube-789431",
+    "startDate": "2023-01-27T16:00:00.000Z",
+    "title": "The Alien Cube"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2023-01-25T15:00:00.000Z",
+    "discountPercentage": 60,
+    "endDate": "2023-01-29T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": 2499,
-    "slug": "tortuga-a-pirates-tale-e02635",
-    "startDate": "2023-01-19T15:00:00.000Z",
-    "title": "Tortuga - A Pirate's Tale"
+    "originalPrice": 1199,
+    "slug": "the-land-of-pain-d6a3ed",
+    "startDate": "2023-01-27T16:00:00.000Z",
+    "title": "The Land of Pain"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-02-27T18:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1399,
+    "slug": "travellers-rest-c115d1",
+    "startDate": "2023-02-16T18:00:00.000Z",
+    "title": "Travellers Rest"
+  },
+  {
+    "discountPercentage": 22,
+    "endDate": "2023-02-13T20:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1449,
+    "slug": "urbek-city-builder-17cf7d",
+    "startDate": "2023-01-30T20:00:00.000Z",
+    "title": "Urbek City Builder"
   },
   {
     "discountPercentage": 60,
@@ -196,15 +187,6 @@
     "slug": "warforwards-fd05ed",
     "startDate": "2023-01-24T05:00:00.000Z",
     "title": "WarForwards"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2023-01-24T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 599,
-    "slug": "when-the-past-was-around-3071e0",
-    "startDate": "2023-01-18T18:00:00.000Z",
-    "title": "When the Past was Around"
   },
   {
     "discountPercentage": 50,
