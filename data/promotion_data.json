@@ -36,15 +36,6 @@
     "title": "Disciples II - Galleans Return"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2023-02-06T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1679,
-    "slug": "effie-f06e3c",
-    "startDate": "2023-01-20T15:00:00.000Z",
-    "title": "Effie"
-  },
-  {
     "discountPercentage": 70,
     "endDate": "2023-02-20T15:00:00.000Z",
     "isFree": false,
@@ -124,6 +115,15 @@
     "slug": "rogue-invader-68d438",
     "startDate": "2023-01-23T18:00:00.000Z",
     "title": "Rogue Invader"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-02-14T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 599,
+    "slug": "starless-bb4b3c",
+    "startDate": "2023-02-07T17:00:00.000Z",
+    "title": "Starless"
   },
   {
     "discountPercentage": 60,
