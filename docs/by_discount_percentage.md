@@ -14,10 +14,10 @@
 |12|the-land-of-pain-d6a3ed|The Land of Pain|11,99€|60|2023-01-27 16h|2023-01-29 16h|
 |13|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
 |14|rogue-invader-68d438|Rogue Invader|11,99€|53|2023-01-23 18h|2023-02-14 18h|
-|15|effie-f06e3c|Effie|16,79€|50|2023-01-20 15h|2023-02-06 15h|
-|16|radioactive-dwarfs-evil-from-the-sewers-b43f18|Radioactive Dwarfs - Evil From The Sewers|3,99€|50|2023-01-31 05h|2023-02-07 05h|
-|17|world-war-z|World War Z Aftermath|39,99€|50|2023-01-23 14h|2023-01-30 01h|
-|18|jett-the-far-shore|JETT: The Far Shore|23,99€|40|2023-01-31 15h|2023-02-14 15h|
-|19|urbek-city-builder-17cf7d|Urbek City Builder|14,49€|22|2023-01-30 20h|2023-02-13 20h|
-|20|football-manager-2023|Football Manager 2023|59,99€|20|2023-01-26 18h|2023-02-02 18h|
+|15|radioactive-dwarfs-evil-from-the-sewers-b43f18|Radioactive Dwarfs - Evil From The Sewers|3,99€|50|2023-01-31 05h|2023-02-07 05h|
+|16|world-war-z|World War Z Aftermath|39,99€|50|2023-01-23 14h|2023-01-30 01h|
+|17|jett-the-far-shore|JETT: The Far Shore|23,99€|40|2023-01-31 15h|2023-02-14 15h|
+|18|urbek-city-builder-17cf7d|Urbek City Builder|14,49€|22|2023-01-30 20h|2023-02-13 20h|
+|19|football-manager-2023|Football Manager 2023|59,99€|20|2023-01-26 18h|2023-02-02 18h|
+|20|starless-bb4b3c|Starless|5,99€|20|2023-02-07 17h|2023-02-14 17h|
 |21|travellers-rest-c115d1|Travellers Rest|13,99€|20|2023-02-16 18h|2023-02-27 18h|
