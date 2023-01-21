@@ -72,6 +72,15 @@
     "title": "He Will Shoot"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2023-02-02T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1199,
+    "slug": "hell-is-others-789262",
+    "startDate": "2023-01-26T16:00:00.000Z",
+    "title": "Hell is Others"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2023-02-08T05:00:00.000Z",
     "isFree": false,
@@ -124,15 +133,6 @@
     "slug": "starless-bb4b3c",
     "startDate": "2023-02-07T17:00:00.000Z",
     "title": "Starless"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2023-01-24T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 399,
-    "slug": "submarine-titans-660aa0",
-    "startDate": "2023-01-20T18:00:00.000Z",
-    "title": "Submarine Titans"
   },
   {
     "discountPercentage": 60,
