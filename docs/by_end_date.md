@@ -1,12 +1,12 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|1|submarine-titans-660aa0|Submarine Titans|3,99€|60|2023-01-20 18h|2023-01-24 18h|
-|2|the-alien-cube-789431|The Alien Cube|19,99€|60|2023-01-27 16h|2023-01-29 16h|
-|3|the-land-of-pain-d6a3ed|The Land of Pain|11,99€|60|2023-01-27 16h|2023-01-29 16h|
-|4|world-war-z|World War Z Aftermath|39,99€|50|2023-01-23 14h|2023-01-30 01h|
-|5|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
-|6|prey|Prey|39,99€|75|2023-01-24 16h|2023-01-31 16h|
-|7|adios-b378b4|Adios|13,99€|100|2023-01-26 16h|2023-02-02 16h|
+|1|the-alien-cube-789431|The Alien Cube|19,99€|60|2023-01-27 16h|2023-01-29 16h|
+|2|the-land-of-pain-d6a3ed|The Land of Pain|11,99€|60|2023-01-27 16h|2023-01-29 16h|
+|3|world-war-z|World War Z Aftermath|39,99€|50|2023-01-23 14h|2023-01-30 01h|
+|4|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
+|5|prey|Prey|39,99€|75|2023-01-24 16h|2023-01-31 16h|
+|6|adios-b378b4|Adios|13,99€|100|2023-01-26 16h|2023-02-02 16h|
+|7|hell-is-others-789262|Hell is Others|11,99€|100|2023-01-26 16h|2023-02-02 16h|
 |8|football-manager-2023|Football Manager 2023|59,99€|20|2023-01-26 18h|2023-02-02 18h|
 |9|radioactive-dwarfs-evil-from-the-sewers-b43f18|Radioactive Dwarfs - Evil From The Sewers|3,99€|50|2023-01-31 05h|2023-02-07 05h|
 |10|he-will-shoot-46efff|He Will Shoot|1,59€|60|2023-01-25 05h|2023-02-08 05h|

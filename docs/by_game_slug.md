@@ -8,13 +8,13 @@
 |6|flatout-940461|Flatout|3,99€|70|2023-02-06 15h|2023-02-20 15h|
 |7|football-manager-2023|Football Manager 2023|59,99€|20|2023-01-26 18h|2023-02-02 18h|
 |8|he-will-shoot-46efff|He Will Shoot|1,59€|60|2023-01-25 05h|2023-02-08 05h|
-|9|it-follows-you-b11f3e|It follows you|1,59€|60|2023-01-24 05h|2023-02-08 05h|
-|10|jett-the-far-shore|JETT: The Far Shore|23,99€|40|2023-01-31 15h|2023-02-14 15h|
-|11|prey|Prey|39,99€|75|2023-01-24 16h|2023-01-31 16h|
-|12|radioactive-dwarfs-evil-from-the-sewers-b43f18|Radioactive Dwarfs - Evil From The Sewers|3,99€|50|2023-01-31 05h|2023-02-07 05h|
-|13|rogue-invader-68d438|Rogue Invader|11,99€|53|2023-01-23 18h|2023-02-14 18h|
-|14|starless-bb4b3c|Starless|5,99€|20|2023-02-07 17h|2023-02-14 17h|
-|15|submarine-titans-660aa0|Submarine Titans|3,99€|60|2023-01-20 18h|2023-01-24 18h|
+|9|hell-is-others-789262|Hell is Others|11,99€|100|2023-01-26 16h|2023-02-02 16h|
+|10|it-follows-you-b11f3e|It follows you|1,59€|60|2023-01-24 05h|2023-02-08 05h|
+|11|jett-the-far-shore|JETT: The Far Shore|23,99€|40|2023-01-31 15h|2023-02-14 15h|
+|12|prey|Prey|39,99€|75|2023-01-24 16h|2023-01-31 16h|
+|13|radioactive-dwarfs-evil-from-the-sewers-b43f18|Radioactive Dwarfs - Evil From The Sewers|3,99€|50|2023-01-31 05h|2023-02-07 05h|
+|14|rogue-invader-68d438|Rogue Invader|11,99€|53|2023-01-23 18h|2023-02-14 18h|
+|15|starless-bb4b3c|Starless|5,99€|20|2023-02-07 17h|2023-02-14 17h|
 |16|the-alien-cube-789431|The Alien Cube|19,99€|60|2023-01-27 16h|2023-01-29 16h|
 |17|the-land-of-pain-d6a3ed|The Land of Pain|11,99€|60|2023-01-27 16h|2023-01-29 16h|
 |18|travellers-rest-c115d1|Travellers Rest|13,99€|20|2023-02-16 18h|2023-02-27 18h|

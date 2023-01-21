@@ -1,15 +1,15 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
 |1|adios-b378b4|Adios|13,99€|100|2023-01-26 16h|2023-02-02 16h|
-|2|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|81|2023-01-27 05h|2023-02-12 05h|
-|3|disciples-ii-galleans-return-9ecd70|Disciples II - Galleans Return|5,99€|75|2023-02-02 18h|2023-02-16 18h|
-|4|prey|Prey|39,99€|75|2023-01-24 16h|2023-01-31 16h|
-|5|flatout-940461|Flatout|3,99€|70|2023-02-06 15h|2023-02-20 15h|
-|6|flatout-2-9ffdd6|Flatout 2|7,99€|70|2023-02-06 15h|2023-02-20 15h|
-|7|car-tuning-simulator-38ddaf|Car Tuning Simulator|0,79€|60|2023-02-05 05h|2023-02-24 05h|
-|8|he-will-shoot-46efff|He Will Shoot|1,59€|60|2023-01-25 05h|2023-02-08 05h|
-|9|it-follows-you-b11f3e|It follows you|1,59€|60|2023-01-24 05h|2023-02-08 05h|
-|10|submarine-titans-660aa0|Submarine Titans|3,99€|60|2023-01-20 18h|2023-01-24 18h|
+|2|hell-is-others-789262|Hell is Others|11,99€|100|2023-01-26 16h|2023-02-02 16h|
+|3|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|81|2023-01-27 05h|2023-02-12 05h|
+|4|disciples-ii-galleans-return-9ecd70|Disciples II - Galleans Return|5,99€|75|2023-02-02 18h|2023-02-16 18h|
+|5|prey|Prey|39,99€|75|2023-01-24 16h|2023-01-31 16h|
+|6|flatout-940461|Flatout|3,99€|70|2023-02-06 15h|2023-02-20 15h|
+|7|flatout-2-9ffdd6|Flatout 2|7,99€|70|2023-02-06 15h|2023-02-20 15h|
+|8|car-tuning-simulator-38ddaf|Car Tuning Simulator|0,79€|60|2023-02-05 05h|2023-02-24 05h|
+|9|he-will-shoot-46efff|He Will Shoot|1,59€|60|2023-01-25 05h|2023-02-08 05h|
+|10|it-follows-you-b11f3e|It follows you|1,59€|60|2023-01-24 05h|2023-02-08 05h|
 |11|the-alien-cube-789431|The Alien Cube|19,99€|60|2023-01-27 16h|2023-01-29 16h|
 |12|the-land-of-pain-d6a3ed|The Land of Pain|11,99€|60|2023-01-27 16h|2023-01-29 16h|
 |13|warforwards-fd05ed|WarForwards|7,99€|60|2023-01-24 05h|2023-01-31 05h|
