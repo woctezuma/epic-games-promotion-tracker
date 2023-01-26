@@ -153,6 +153,15 @@
     "title": "Carnival Games"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2023-02-09T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 2999,
+    "slug": "city-of-gangsters-6c2974",
+    "startDate": "2023-02-02T16:00:00.000Z",
+    "title": "City of Gangsters"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2023-02-16T18:00:00.000Z",
     "isFree": false,
@@ -160,6 +169,15 @@
     "slug": "disciples-ii-galleans-return-9ecd70",
     "startDate": "2023-02-02T18:00:00.000Z",
     "title": "Disciples II - Galleans Return"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2023-02-09T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 2999,
+    "slug": "dishonored-death-of-the-outsider",
+    "startDate": "2023-02-02T16:00:00.000Z",
+    "title": "Dishonored\u00ae: Death of the Outsider\u2122"
   },
   {
     "discountPercentage": 15,
