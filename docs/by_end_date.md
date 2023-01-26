@@ -20,26 +20,28 @@
 |18|borderlands-3|Borderlands 3|59,99€|85|2023-01-26 16h|2023-02-09 16h|
 |19|borderlands-the-handsome-collection|Borderlands: The Handsome Collection|59,99€|67|2023-01-26 16h|2023-02-09 16h|
 |20|carnival-games|Carnival Games|39,99€|80|2023-01-26 16h|2023-02-09 16h|
-|21|mafia-ii-definitive-edition|Mafia II: Definitive Edition|29,99€|67|2023-01-26 16h|2023-02-09 16h|
-|22|mafia-iii-definitive-edition|Mafia III: Definitive Edition|29,99€|67|2023-01-26 16h|2023-02-09 16h|
-|23|mafia-definitive-edition|Mafia: Definitive Edition|39,99€|65|2023-01-26 16h|2023-02-09 16h|
-|24|mafia-trilogy|Mafia: Trilogy|59,99€|60|2023-01-26 16h|2023-02-09 16h|
-|25|marvels-midnight-suns|Marvel's Midnight Suns|59,99€|40|2023-01-26 16h|2023-02-09 16h|
-|26|new-tales-from-the-borderlands|New Tales from the Borderlands|39,99€|50|2023-01-26 16h|2023-02-09 16h|
-|27|sid-meiers-civilization-vi|Sid Meier’s Civilization® VI|59,99€|90|2023-01-26 16h|2023-02-09 16h|
-|28|tales-from-the-borderlands|Tales from the Borderlands|19,99€|25|2023-01-26 16h|2023-02-09 16h|
-|29|tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure|Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure|9,99€|50|2023-01-26 16h|2023-02-09 16h|
-|30|tiny-tinas-wonderlands|Tiny Tina's Wonderlands|59,99€|50|2023-01-26 16h|2023-02-09 16h|
-|31|xcom-2|XCOM® 2|49,99€|95|2023-01-26 16h|2023-02-09 16h|
-|32|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|81|2023-01-27 05h|2023-02-12 05h|
-|33|urbek-city-builder-17cf7d|Urbek City Builder|14,49€|22|2023-01-30 20h|2023-02-13 20h|
-|34|jett-the-far-shore|JETT: The Far Shore|23,99€|40|2023-01-31 15h|2023-02-14 15h|
-|35|starless-bb4b3c|Starless|5,99€|20|2023-02-07 17h|2023-02-14 17h|
-|36|disciples-ii-galleans-return-9ecd70|Disciples II - Galleans Return|5,99€|75|2023-02-02 18h|2023-02-16 18h|
-|37|flatout-940461|Flatout|3,99€|70|2023-02-06 15h|2023-02-20 15h|
-|38|flatout-2-9ffdd6|Flatout 2|7,99€|70|2023-02-06 15h|2023-02-20 15h|
-|39|ten-dates-9a188a|Ten Dates|15,29€|10|2023-02-14 18h|2023-02-21 18h|
-|40|car-tuning-simulator-38ddaf|Car Tuning Simulator|0,79€|60|2023-02-05 05h|2023-02-24 05h|
-|41|paramnesia-a49100|Paramnesia|2,39€|45|2023-02-20 05h|2023-02-27 05h|
-|42|slime-rancher|Slime Rancher|19,99€|75|2023-02-16 18h|2023-02-27 18h|
-|43|travellers-rest-c115d1|Travellers Rest|13,99€|20|2023-02-16 18h|2023-02-27 18h|
+|21|city-of-gangsters-6c2974|City of Gangsters|29,99€|100|2023-02-02 16h|2023-02-09 16h|
+|22|dishonored-death-of-the-outsider|Dishonored®: Death of the Outsider™|29,99€|100|2023-02-02 16h|2023-02-09 16h|
+|23|mafia-ii-definitive-edition|Mafia II: Definitive Edition|29,99€|67|2023-01-26 16h|2023-02-09 16h|
+|24|mafia-iii-definitive-edition|Mafia III: Definitive Edition|29,99€|67|2023-01-26 16h|2023-02-09 16h|
+|25|mafia-definitive-edition|Mafia: Definitive Edition|39,99€|65|2023-01-26 16h|2023-02-09 16h|
+|26|mafia-trilogy|Mafia: Trilogy|59,99€|60|2023-01-26 16h|2023-02-09 16h|
+|27|marvels-midnight-suns|Marvel's Midnight Suns|59,99€|40|2023-01-26 16h|2023-02-09 16h|
+|28|new-tales-from-the-borderlands|New Tales from the Borderlands|39,99€|50|2023-01-26 16h|2023-02-09 16h|
+|29|sid-meiers-civilization-vi|Sid Meier’s Civilization® VI|59,99€|90|2023-01-26 16h|2023-02-09 16h|
+|30|tales-from-the-borderlands|Tales from the Borderlands|19,99€|25|2023-01-26 16h|2023-02-09 16h|
+|31|tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure|Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure|9,99€|50|2023-01-26 16h|2023-02-09 16h|
+|32|tiny-tinas-wonderlands|Tiny Tina's Wonderlands|59,99€|50|2023-01-26 16h|2023-02-09 16h|
+|33|xcom-2|XCOM® 2|49,99€|95|2023-01-26 16h|2023-02-09 16h|
+|34|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|81|2023-01-27 05h|2023-02-12 05h|
+|35|urbek-city-builder-17cf7d|Urbek City Builder|14,49€|22|2023-01-30 20h|2023-02-13 20h|
+|36|jett-the-far-shore|JETT: The Far Shore|23,99€|40|2023-01-31 15h|2023-02-14 15h|
+|37|starless-bb4b3c|Starless|5,99€|20|2023-02-07 17h|2023-02-14 17h|
+|38|disciples-ii-galleans-return-9ecd70|Disciples II - Galleans Return|5,99€|75|2023-02-02 18h|2023-02-16 18h|
+|39|flatout-940461|Flatout|3,99€|70|2023-02-06 15h|2023-02-20 15h|
+|40|flatout-2-9ffdd6|Flatout 2|7,99€|70|2023-02-06 15h|2023-02-20 15h|
+|41|ten-dates-9a188a|Ten Dates|15,29€|10|2023-02-14 18h|2023-02-21 18h|
+|42|car-tuning-simulator-38ddaf|Car Tuning Simulator|0,79€|60|2023-02-05 05h|2023-02-24 05h|
+|43|paramnesia-a49100|Paramnesia|2,39€|45|2023-02-20 05h|2023-02-27 05h|
+|44|slime-rancher|Slime Rancher|19,99€|75|2023-02-16 18h|2023-02-27 18h|
+|45|travellers-rest-c115d1|Travellers Rest|13,99€|20|2023-02-16 18h|2023-02-27 18h|
