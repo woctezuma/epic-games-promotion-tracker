@@ -34,12 +34,14 @@
 |32|urbek-city-builder-17cf7d|Urbek City Builder|14,49€|22|2023-01-30 20h|2023-02-13 20h|
 |33|radioactive-dwarfs-evil-from-the-sewers-b43f18|Radioactive Dwarfs - Evil From The Sewers|3,99€|50|2023-01-31 05h|2023-02-07 05h|
 |34|jett-the-far-shore|JETT: The Far Shore|23,99€|40|2023-01-31 15h|2023-02-14 15h|
-|35|disciples-ii-galleans-return-9ecd70|Disciples II - Galleans Return|5,99€|75|2023-02-02 18h|2023-02-16 18h|
-|36|car-tuning-simulator-38ddaf|Car Tuning Simulator|0,79€|60|2023-02-05 05h|2023-02-24 05h|
-|37|flatout-940461|Flatout|3,99€|70|2023-02-06 15h|2023-02-20 15h|
-|38|flatout-2-9ffdd6|Flatout 2|7,99€|70|2023-02-06 15h|2023-02-20 15h|
-|39|starless-bb4b3c|Starless|5,99€|20|2023-02-07 17h|2023-02-14 17h|
-|40|ten-dates-9a188a|Ten Dates|15,29€|10|2023-02-14 18h|2023-02-21 18h|
-|41|slime-rancher|Slime Rancher|19,99€|75|2023-02-16 18h|2023-02-27 18h|
-|42|travellers-rest-c115d1|Travellers Rest|13,99€|20|2023-02-16 18h|2023-02-27 18h|
-|43|paramnesia-a49100|Paramnesia|2,39€|45|2023-02-20 05h|2023-02-27 05h|
+|35|city-of-gangsters-6c2974|City of Gangsters|29,99€|100|2023-02-02 16h|2023-02-09 16h|
+|36|dishonored-death-of-the-outsider|Dishonored®: Death of the Outsider™|29,99€|100|2023-02-02 16h|2023-02-09 16h|
+|37|disciples-ii-galleans-return-9ecd70|Disciples II - Galleans Return|5,99€|75|2023-02-02 18h|2023-02-16 18h|
+|38|car-tuning-simulator-38ddaf|Car Tuning Simulator|0,79€|60|2023-02-05 05h|2023-02-24 05h|
+|39|flatout-940461|Flatout|3,99€|70|2023-02-06 15h|2023-02-20 15h|
+|40|flatout-2-9ffdd6|Flatout 2|7,99€|70|2023-02-06 15h|2023-02-20 15h|
+|41|starless-bb4b3c|Starless|5,99€|20|2023-02-07 17h|2023-02-14 17h|
+|42|ten-dates-9a188a|Ten Dates|15,29€|10|2023-02-14 18h|2023-02-21 18h|
+|43|slime-rancher|Slime Rancher|19,99€|75|2023-02-16 18h|2023-02-27 18h|
+|44|travellers-rest-c115d1|Travellers Rest|13,99€|20|2023-02-16 18h|2023-02-27 18h|
+|45|paramnesia-a49100|Paramnesia|2,39€|45|2023-02-20 05h|2023-02-27 05h|
