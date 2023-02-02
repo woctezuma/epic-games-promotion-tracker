@@ -1,57 +1,12 @@
 [
   {
-    "discountPercentage": 60,
-    "endDate": "2023-02-24T05:00:00.000Z",
+    "discountPercentage": 50,
+    "endDate": "2023-02-23T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": 79,
-    "slug": "car-tuning-simulator-38ddaf",
-    "startDate": "2023-02-05T05:00:00.000Z",
-    "title": "Car Tuning Simulator"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-02-16T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 599,
-    "slug": "disciples-ii-galleans-return-9ecd70",
-    "startDate": "2023-02-02T18:00:00.000Z",
-    "title": "Disciples II - Galleans Return"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2023-02-16T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 6999,
-    "slug": "fifa-23",
-    "startDate": "2023-02-08T16:00:00.000Z",
-    "title": "EA SPORTS\u2122 FIFA 23 Standard Edition"
-  },
-  {
-    "discountPercentage": 70,
-    "endDate": "2023-02-20T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 399,
-    "slug": "flatout-940461",
-    "startDate": "2023-02-06T15:00:00.000Z",
-    "title": "Flatout"
-  },
-  {
-    "discountPercentage": 70,
-    "endDate": "2023-02-20T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "flatout-2-9ffdd6",
-    "startDate": "2023-02-06T15:00:00.000Z",
-    "title": "Flatout 2"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2023-02-16T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1199,
-    "slug": "jars-e39063",
-    "startDate": "2023-02-08T16:00:00.000Z",
-    "title": "JARS"
+    "originalPrice": 2999,
+    "slug": "grand-theft-auto-v",
+    "startDate": "2023-02-09T16:00:00.000Z",
+    "title": "Grand Theft Auto V: Premium Edition"
   },
   {
     "discountPercentage": 50,
@@ -63,13 +18,13 @@
     "title": "NARAKA: BLADEPOINT"
   },
   {
-    "discountPercentage": 70,
-    "endDate": "2023-02-16T16:00:00.000Z",
+    "discountPercentage": 25,
+    "endDate": "2023-02-25T15:00:00.000Z",
     "isFree": false,
-    "originalPrice": 3999,
-    "slug": "partisans-1941",
-    "startDate": "2023-02-08T16:00:00.000Z",
-    "title": "Partisans 1941"
+    "originalPrice": 1399,
+    "slug": "nero-0011a8",
+    "startDate": "2023-02-18T15:00:00.000Z",
+    "title": "NERO"
   },
   {
     "discountPercentage": 100,
@@ -79,6 +34,15 @@
     "slug": "recipe-for-disaster-83726f",
     "startDate": "2023-02-09T16:00:00.000Z",
     "title": "Recipe for Disaster"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2023-02-23T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "red-dead-redemption-2",
+    "startDate": "2023-02-09T16:00:00.000Z",
+    "title": "Red Dead Redemption 2"
   },
   {
     "discountPercentage": 50,
@@ -106,24 +70,6 @@
     "slug": "slime-rancher-2",
     "startDate": "2023-02-16T18:00:00.000Z",
     "title": "Slime Rancher 2"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2023-02-10T14:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "spellforce-conquest-of-eo",
-    "startDate": "2023-02-03T14:00:00.000Z",
-    "title": "SpellForce: Conquest of Eo"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2023-02-14T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 599,
-    "slug": "starless-bb4b3c",
-    "startDate": "2023-02-07T17:00:00.000Z",
-    "title": "Starless"
   },
   {
     "discountPercentage": 30,
