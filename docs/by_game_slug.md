@@ -11,3 +11,4 @@
 |9|swordship-b6c7f4|Swordship|19,99€|30|2023-02-21 15h|2023-02-28 15h|
 |10|ten-dates-9a188a|Ten Dates|15,29€|10|2023-02-14 18h|2023-02-21 18h|
 |11|travellers-rest-c115d1|Travellers Rest|13,99€|20|2023-02-16 18h|2023-02-27 18h|
+|12|warpips-57e2c4|Warpips|14,99€|100|2023-02-16 16h|2023-02-23 16h|
