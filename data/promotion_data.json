@@ -1,15 +1,6 @@
 [
   {
     "discountPercentage": 50,
-    "endDate": "2023-02-23T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "grand-theft-auto-v",
-    "startDate": "2023-02-09T16:00:00.000Z",
-    "title": "Grand Theft Auto V: Premium Edition"
-  },
-  {
-    "discountPercentage": 50,
     "endDate": "2023-02-21T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1999,
@@ -25,24 +16,6 @@
     "slug": "nero-0011a8",
     "startDate": "2023-02-18T15:00:00.000Z",
     "title": "NERO"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2023-02-16T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 1699,
-    "slug": "recipe-for-disaster-83726f",
-    "startDate": "2023-02-09T16:00:00.000Z",
-    "title": "Recipe for Disaster"
-  },
-  {
-    "discountPercentage": 67,
-    "endDate": "2023-02-23T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "red-dead-redemption-2",
-    "startDate": "2023-02-09T16:00:00.000Z",
-    "title": "Red Dead Redemption 2"
   },
   {
     "discountPercentage": 50,
