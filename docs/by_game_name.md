@@ -30,60 +30,57 @@
 |28|far-cry-2|Far Cry 2: Standard Edition|9,99€|70|2023-02-23 16h|2023-03-02 16h|
 |29|far-cry-3-blood-dragon|Far Cry 3: Blood Dragon|14,99€|70|2023-02-23 16h|2023-03-02 16h|
 |30|far-cry-5|Far Cry 5 Standard Edition|59,99€|80|2023-02-23 16h|2023-03-02 16h|
-|31|far-cry-6|Far Cry 6 Standard Edition|59,99€|70|2023-02-16 16h|2023-03-02 16h|
-|32|far-cry-6|Far Cry 6 Standard Edition|59,99€|67|2023-02-23 16h|2023-03-02 16h|
-|33|far-cry-new-dawn|Far Cry New Dawn Standard Edition|44,99€|75|2023-02-23 16h|2023-03-02 16h|
-|34|far-cry-primal|Far Cry Primal Standard Edition|29,99€|75|2023-02-23 16h|2023-03-02 16h|
-|35|far-cry-3|Far Cry®3 Standard Edition|19,99€|70|2023-02-23 16h|2023-03-02 16h|
-|36|flat-heroes-fec628|Flat Heroes|9,99€|60|2023-02-22 13h|2023-02-27 13h|
-|37|for-honor|For Honor Standard Edition|29,99€|75|2023-02-23 16h|2023-03-02 16h|
-|38|from-dust|From Dust|9,99€|75|2023-02-23 16h|2023-03-02 16h|
-|39|frontier-hunter-erzas-wheel-of-fortune|Frontier Hunter: Erza's Wheel of Fortune|15,99€|10|2023-02-16 23h|2023-03-01 23h|
-|40|ghost-recon-breakpoint|Ghost Recon Breakpoint Standard Edition|59,99€|80|2023-02-23 16h|2023-03-02 16h|
-|41|ghost-recon-future-soldier|Ghost Recon Future Soldier: Ultimate Edition|29,99€|75|2023-02-23 16h|2023-03-02 16h|
-|42|immortals-fenyx-rising|Immortals Fenyx Rising Standard Edition|59,99€|80|2023-02-23 16h|2023-03-02 16h|
-|43|monopoly-madness|MONOPOLY MADNESS|29,99€|67|2023-02-23 16h|2023-03-02 16h|
-|44|monopoly-plus|MONOPOLY® PLUS|14,99€|60|2023-02-23 16h|2023-03-02 16h|
-|45|might-and-magic-heroes-3|Might & Magic Heroes 3|9,99€|75|2023-02-23 16h|2023-03-02 16h|
-|46|might-and-magic-heroes-7|Might and Magic: Heroes VII - Ultimate Edition|44,99€|75|2023-02-23 16h|2023-03-02 16h|
-|47|nero-0011a8|NERO|13,99€|25|2023-02-18 15h|2023-02-25 15h|
-|48|phantom-brigade|Phantom Brigade|23,99€|20|2023-02-28 18h|2023-03-07 18h|
-|49|rayman-legends|RAYMAN® LEGENDS|19,99€|75|2023-02-23 16h|2023-03-02 16h|
-|50|rayman-origins|Rayman Origins|9,99€|70|2023-02-23 16h|2023-03-02 16h|
-|51|riders-republic|Riders Republic|59,99€|70|2023-02-23 16h|2023-03-02 16h|
-|52|scott-pilgrim-vs-the-world-the-game|Scott Pilgrim vs. The World: The Game – Complete Edition|14,99€|67|2023-02-23 16h|2023-03-02 16h|
-|53|slime-rancher|Slime Rancher|19,99€|75|2023-02-16 18h|2023-02-27 18h|
-|54|slime-rancher-2|Slime Rancher 2|23,99€|20|2023-02-16 18h|2023-02-27 18h|
-|55|south-park-the-fractured-but-whole|South Park™: The Fractured But Whole™ Standard Edition|59,99€|75|2023-02-23 16h|2023-03-02 16h|
-|56|south-park-the-stick-of-truth|South Park™: The Stick of Truth™|29,99€|75|2023-02-23 16h|2023-03-02 16h|
-|57|splinter-cell-chaos-theory|Splinter Cell Chaos Theory|9,99€|75|2023-02-23 16h|2023-03-02 16h|
-|58|steep|Steep Standard Edition|29,99€|80|2023-02-23 16h|2023-03-02 16h|
-|59|swordship-b6c7f4|Swordship|19,99€|30|2023-02-21 15h|2023-02-28 15h|
-|60|the-crew-2|The Crew 2 Standard Edition|49,99€|80|2023-02-23 16h|2023-03-02 16h|
-|61|the-crew|The Crew® – Standard Edition|29,99€|75|2023-02-23 16h|2023-03-02 16h|
-|62|the-division-2|The Division 2 Standard Edition|29,99€|70|2023-02-23 16h|2023-03-02 16h|
-|63|the-outer-worlds|The Outer Worlds|59,99€|67|2023-02-23 16h|2023-03-09 16h|
-|64|the-pale-beyond-e09cae|The Pale Beyond|17,99€|10|2023-02-24 16h|2023-03-02 16h|
-|65|endwar|Tom Clancy's EndWar|9,99€|70|2023-02-23 16h|2023-03-02 16h|
-|66|ghost-recon-wildlands|Tom Clancy's Ghost Recon Wildlands Standard Edition|49,99€|80|2023-02-23 16h|2023-03-02 16h|
-|67|rainbow-six-extraction|Tom Clancy's Rainbow Six Extraction|39,99€|60|2023-02-23 16h|2023-03-02 16h|
-|68|rainbow-six-siege|Tom Clancy's Rainbow Six® Siege|19,99€|60|2023-02-23 16h|2023-03-02 16h|
-|69|rainbow-six-united-bundle|Tom Clancy's Rainbow Six® Siege & Tom Clancy's Rainbow Six® Extraction Deluxe United Bundle|59,99€|60|2023-02-23 16h|2023-03-02 16h|
-|70|splinter-cell|Tom Clancy's Splinter Cell|4,99€|75|2023-02-23 16h|2023-03-02 16h|
-|71|the-division|Tom Clancy's The Division|29,99€|67|2023-02-23 16h|2023-03-02 16h|
-|72|splinter-cell-double-agent|Tom Clancy’s Splinter Cell Double Agent|4,99€|75|2023-02-23 16h|2023-03-02 16h|
-|73|trackmania-turbo|Trackmania Turbo|39,99€|50|2023-02-23 16h|2023-03-02 16h|
-|74|travellers-rest-c115d1|Travellers Rest|13,99€|20|2023-02-16 18h|2023-02-27 18h|
-|75|trials-evolution|Trials Evolution: Gold Edition|19,99€|75|2023-02-23 16h|2023-03-02 16h|
-|76|trials-fusion|Trials Fusion: Standard Edition|19,99€|75|2023-02-23 16h|2023-03-02 16h|
-|77|trials-rising|Trials Rising Standard Edition|19,99€|80|2023-02-23 16h|2023-03-02 16h|
-|78|uno|UNO Standard Edition|9,99€|60|2023-02-23 16h|2023-03-02 16h|
-|79|valiant-hearts|Valiant Hearts: The Great War|14,99€|75|2023-02-23 16h|2023-03-02 16h|
-|80|warpips-57e2c4|Warpips|14,99€|100|2023-02-16 16h|2023-02-23 16h|
-|81|watch-dogs-2|Watch Dogs 2 Standard Edition|59,99€|85|2023-02-23 16h|2023-03-02 16h|
-|82|watch-dogs|Watch Dogs Standard Edition|29,99€|75|2023-02-23 16h|2023-03-02 16h|
-|83|watch-dogs-legion--gold-edition|Watch Dogs: Legion Gold Edition|99,99€|80|2023-02-23 16h|2023-03-02 16h|
-|84|watch-dogs-legion|Watch Dogs: Legion Standard Edition|59,99€|80|2023-02-23 16h|2023-03-02 16h|
-|85|watch-dogs-legion--ultimate-edition|Watch Dogs: Legion Ultimate Edition|119,99€|80|2023-02-23 16h|2023-03-02 16h|
-|86|wild-west-dynasty|Wild West Dynasty|24,99€|20|2023-02-16 16h|2023-02-26 16h|
-|87|zombi|ZOMBI|15,99€|75|2023-02-23 16h|2023-03-02 16h|
+|31|far-cry-6|Far Cry 6 Standard Edition|59,99€|67|2023-02-23 16h|2023-03-02 16h|
+|32|far-cry-new-dawn|Far Cry New Dawn Standard Edition|44,99€|75|2023-02-23 16h|2023-03-02 16h|
+|33|far-cry-primal|Far Cry Primal Standard Edition|29,99€|75|2023-02-23 16h|2023-03-02 16h|
+|34|far-cry-3|Far Cry®3 Standard Edition|19,99€|70|2023-02-23 16h|2023-03-02 16h|
+|35|flat-heroes-fec628|Flat Heroes|9,99€|60|2023-02-22 13h|2023-02-27 13h|
+|36|for-honor|For Honor Standard Edition|29,99€|75|2023-02-23 16h|2023-03-02 16h|
+|37|from-dust|From Dust|9,99€|75|2023-02-23 16h|2023-03-02 16h|
+|38|frontier-hunter-erzas-wheel-of-fortune|Frontier Hunter: Erza's Wheel of Fortune|15,99€|10|2023-02-16 23h|2023-03-01 23h|
+|39|ghost-recon-breakpoint|Ghost Recon Breakpoint Standard Edition|59,99€|80|2023-02-23 16h|2023-03-02 16h|
+|40|ghost-recon-future-soldier|Ghost Recon Future Soldier: Ultimate Edition|29,99€|75|2023-02-23 16h|2023-03-02 16h|
+|41|immortals-fenyx-rising|Immortals Fenyx Rising Standard Edition|59,99€|80|2023-02-23 16h|2023-03-02 16h|
+|42|monopoly-madness|MONOPOLY MADNESS|29,99€|67|2023-02-23 16h|2023-03-02 16h|
+|43|monopoly-plus|MONOPOLY® PLUS|14,99€|60|2023-02-23 16h|2023-03-02 16h|
+|44|might-and-magic-heroes-3|Might & Magic Heroes 3|9,99€|75|2023-02-23 16h|2023-03-02 16h|
+|45|might-and-magic-heroes-7|Might and Magic: Heroes VII - Ultimate Edition|44,99€|75|2023-02-23 16h|2023-03-02 16h|
+|46|nero-0011a8|NERO|13,99€|25|2023-02-18 15h|2023-02-25 15h|
+|47|phantom-brigade|Phantom Brigade|23,99€|20|2023-02-28 18h|2023-03-07 18h|
+|48|rayman-legends|RAYMAN® LEGENDS|19,99€|75|2023-02-23 16h|2023-03-02 16h|
+|49|rayman-origins|Rayman Origins|9,99€|70|2023-02-23 16h|2023-03-02 16h|
+|50|riders-republic|Riders Republic|59,99€|70|2023-02-23 16h|2023-03-02 16h|
+|51|scott-pilgrim-vs-the-world-the-game|Scott Pilgrim vs. The World: The Game – Complete Edition|14,99€|67|2023-02-23 16h|2023-03-02 16h|
+|52|slime-rancher|Slime Rancher|19,99€|75|2023-02-16 18h|2023-02-27 18h|
+|53|slime-rancher-2|Slime Rancher 2|23,99€|20|2023-02-16 18h|2023-02-27 18h|
+|54|south-park-the-fractured-but-whole|South Park™: The Fractured But Whole™ Standard Edition|59,99€|75|2023-02-23 16h|2023-03-02 16h|
+|55|south-park-the-stick-of-truth|South Park™: The Stick of Truth™|29,99€|75|2023-02-23 16h|2023-03-02 16h|
+|56|splinter-cell-chaos-theory|Splinter Cell Chaos Theory|9,99€|75|2023-02-23 16h|2023-03-02 16h|
+|57|steep|Steep Standard Edition|29,99€|80|2023-02-23 16h|2023-03-02 16h|
+|58|swordship-b6c7f4|Swordship|19,99€|30|2023-02-21 15h|2023-02-28 15h|
+|59|the-crew-2|The Crew 2 Standard Edition|49,99€|80|2023-02-23 16h|2023-03-02 16h|
+|60|the-crew|The Crew® – Standard Edition|29,99€|75|2023-02-23 16h|2023-03-02 16h|
+|61|the-division-2|The Division 2 Standard Edition|29,99€|70|2023-02-23 16h|2023-03-02 16h|
+|62|the-outer-worlds|The Outer Worlds|59,99€|67|2023-02-23 16h|2023-03-09 16h|
+|63|the-pale-beyond-e09cae|The Pale Beyond|17,99€|10|2023-02-24 16h|2023-03-02 16h|
+|64|endwar|Tom Clancy's EndWar|9,99€|70|2023-02-23 16h|2023-03-02 16h|
+|65|ghost-recon-wildlands|Tom Clancy's Ghost Recon Wildlands Standard Edition|49,99€|80|2023-02-23 16h|2023-03-02 16h|
+|66|rainbow-six-extraction|Tom Clancy's Rainbow Six Extraction|39,99€|60|2023-02-23 16h|2023-03-02 16h|
+|67|rainbow-six-siege|Tom Clancy's Rainbow Six® Siege|19,99€|60|2023-02-23 16h|2023-03-02 16h|
+|68|rainbow-six-united-bundle|Tom Clancy's Rainbow Six® Siege & Tom Clancy's Rainbow Six® Extraction Deluxe United Bundle|59,99€|60|2023-02-23 16h|2023-03-02 16h|
+|69|splinter-cell|Tom Clancy's Splinter Cell|4,99€|75|2023-02-23 16h|2023-03-02 16h|
+|70|the-division|Tom Clancy's The Division|29,99€|67|2023-02-23 16h|2023-03-02 16h|
+|71|splinter-cell-double-agent|Tom Clancy’s Splinter Cell Double Agent|4,99€|75|2023-02-23 16h|2023-03-02 16h|
+|72|trackmania-turbo|Trackmania Turbo|39,99€|50|2023-02-23 16h|2023-03-02 16h|
+|73|travellers-rest-c115d1|Travellers Rest|13,99€|20|2023-02-16 18h|2023-02-27 18h|
+|74|trials-evolution|Trials Evolution: Gold Edition|19,99€|75|2023-02-23 16h|2023-03-02 16h|
+|75|trials-fusion|Trials Fusion: Standard Edition|19,99€|75|2023-02-23 16h|2023-03-02 16h|
+|76|trials-rising|Trials Rising Standard Edition|19,99€|80|2023-02-23 16h|2023-03-02 16h|
+|77|uno|UNO Standard Edition|9,99€|60|2023-02-23 16h|2023-03-02 16h|
+|78|valiant-hearts|Valiant Hearts: The Great War|14,99€|75|2023-02-23 16h|2023-03-02 16h|
+|79|watch-dogs-2|Watch Dogs 2 Standard Edition|59,99€|85|2023-02-23 16h|2023-03-02 16h|
+|80|watch-dogs|Watch Dogs Standard Edition|29,99€|75|2023-02-23 16h|2023-03-02 16h|
+|81|watch-dogs-legion--gold-edition|Watch Dogs: Legion Gold Edition|99,99€|80|2023-02-23 16h|2023-03-02 16h|
+|82|watch-dogs-legion|Watch Dogs: Legion Standard Edition|59,99€|80|2023-02-23 16h|2023-03-02 16h|
+|83|watch-dogs-legion--ultimate-edition|Watch Dogs: Legion Ultimate Edition|119,99€|80|2023-02-23 16h|2023-03-02 16h|
+|84|zombi|ZOMBI|15,99€|75|2023-02-23 16h|2023-03-02 16h|
