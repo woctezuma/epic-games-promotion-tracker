@@ -216,13 +216,13 @@
     "title": "Discovery Tour: Viking Age"
   },
   {
-    "discountPercentage": 15,
-    "endDate": "2023-03-02T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1599,
-    "slug": "elderand-09e6bc",
-    "startDate": "2023-02-16T15:00:00.000Z",
-    "title": "Elderand"
+    "discountPercentage": 100,
+    "endDate": "2023-03-02T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1799,
+    "slug": "duskers-672fdc",
+    "startDate": "2023-02-23T16:00:00.000Z",
+    "title": "Duskers"
   },
   {
     "discountPercentage": 70,
