@@ -270,15 +270,6 @@
     "title": "Far Cry 5 Standard Edition"
   },
   {
-    "discountPercentage": 70,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "far-cry-6",
-    "startDate": "2023-02-16T16:00:00.000Z",
-    "title": "Far Cry 6 Standard Edition"
-  },
-  {
     "discountPercentage": 67,
     "endDate": "2023-03-02T16:00:00.000Z",
     "isFree": false,
@@ -711,15 +702,6 @@
     "title": "Valiant Hearts: The Great War"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2023-02-23T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 1499,
-    "slug": "warpips-57e2c4",
-    "startDate": "2023-02-16T16:00:00.000Z",
-    "title": "Warpips"
-  },
-  {
     "discountPercentage": 85,
     "endDate": "2023-03-02T16:00:00.000Z",
     "isFree": false,
@@ -763,15 +745,6 @@
     "slug": "watch-dogs-legion--ultimate-edition",
     "startDate": "2023-02-23T16:00:00.000Z",
     "title": "Watch Dogs: Legion Ultimate Edition"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2023-02-26T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2499,
-    "slug": "wild-west-dynasty",
-    "startDate": "2023-02-16T16:00:00.000Z",
-    "title": "Wild West Dynasty"
   },
   {
     "discountPercentage": 75,
