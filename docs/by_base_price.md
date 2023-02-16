@@ -58,8 +58,8 @@
 |56|trials-evolution|Trials Evolution: Gold Edition|19,99€|75|2023-02-23 16h|2023-03-02 16h|
 |57|trials-fusion|Trials Fusion: Standard Edition|19,99€|75|2023-02-23 16h|2023-03-02 16h|
 |58|trials-rising|Trials Rising Standard Edition|19,99€|80|2023-02-23 16h|2023-03-02 16h|
-|59|the-pale-beyond-e09cae|The Pale Beyond|17,99€|10|2023-02-24 16h|2023-03-02 16h|
-|60|elderand-09e6bc|Elderand|15,99€|15|2023-02-16 15h|2023-03-02 15h|
+|59|duskers-672fdc|Duskers|17,99€|100|2023-02-23 16h|2023-03-02 16h|
+|60|the-pale-beyond-e09cae|The Pale Beyond|17,99€|10|2023-02-24 16h|2023-03-02 16h|
 |61|frontier-hunter-erzas-wheel-of-fortune|Frontier Hunter: Erza's Wheel of Fortune|15,99€|10|2023-02-16 23h|2023-03-01 23h|
 |62|zombi|ZOMBI|15,99€|75|2023-02-23 16h|2023-03-02 16h|
 |63|anno-1404|Anno 1404 History Edition|14,99€|50|2023-02-23 16h|2023-03-02 16h|

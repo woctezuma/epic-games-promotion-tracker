@@ -9,29 +9,29 @@
 |7|travellers-rest-c115d1|Travellers Rest|13,99€|20|2023-02-16 18h|2023-02-27 18h|
 |8|swordship-b6c7f4|Swordship|19,99€|30|2023-02-21 15h|2023-02-28 15h|
 |9|frontier-hunter-erzas-wheel-of-fortune|Frontier Hunter: Erza's Wheel of Fortune|15,99€|10|2023-02-16 23h|2023-03-01 23h|
-|10|elderand-09e6bc|Elderand|15,99€|15|2023-02-16 15h|2023-03-02 15h|
-|11|anno-1404|Anno 1404 History Edition|14,99€|50|2023-02-23 16h|2023-03-02 16h|
-|12|anno-1701|Anno 1701 History Edition|9,99€|50|2023-02-23 16h|2023-03-02 16h|
-|13|anno-1800|Anno 1800 Standard Edition|59,99€|67|2023-02-23 16h|2023-03-02 16h|
-|14|anno-2070|Anno 2070|29,99€|75|2023-02-23 16h|2023-03-02 16h|
-|15|anno-2205|Anno 2205 - Standard Edition|39,99€|75|2023-02-23 16h|2023-03-02 16h|
-|16|assassins-creed-chronicles-trilogy|Assassin's Creed Chronicles – Trilogy|24,99€|70|2023-02-23 16h|2023-03-02 16h|
-|17|assassins-creed-chronicles-china|Assassin's Creed Chronicles: China|9,99€|70|2023-02-23 16h|2023-03-02 16h|
-|18|assassins-creed-chronicles-india|Assassin's Creed Chronicles: India|9,99€|70|2023-02-23 16h|2023-03-02 16h|
-|19|assassins-creed-chronicles-russia|Assassin's Creed Chronicles: Russia|9,99€|70|2023-02-23 16h|2023-03-02 16h|
-|20|assassins-creed-origins|Assassin's Creed Origins Standard Edition|59,99€|80|2023-02-23 16h|2023-03-02 16h|
-|21|assassins-creed-rogue|Assassin's Creed Rogue Standard Edition|19,99€|67|2023-02-23 16h|2023-03-02 16h|
-|22|assassins-creed-syndicate|Assassin's Creed Syndicate Standard Edition|39,99€|75|2023-02-23 16h|2023-03-02 16h|
-|23|assassins-creed-unity|Assassin's Creed Unity|29,99€|75|2023-02-23 16h|2023-03-02 16h|
-|24|assassins-creed-1|Assassin's Creed® I: Director's Cut|9,99€|70|2023-02-23 16h|2023-03-02 16h|
-|25|assassins-creed-3|Assassin's Creed® III: Remastered|39,99€|50|2023-02-23 16h|2023-03-02 16h|
-|26|assassins-creed-valhalla|Assassin's Creed® Valhalla Standard Edition|59,99€|67|2023-02-23 16h|2023-03-02 16h|
-|27|assassins-creed-odyssey|Assassins Creed Odyssey Standard Edition|59,99€|75|2023-02-23 16h|2023-03-02 16h|
-|28|assassins-creed-valhalla-watch-dogs-legion-bundle|Assassin’s Creed Valhalla + Watch Dogs: Legion Bundle|109,99€|75|2023-02-23 16h|2023-03-02 16h|
-|29|assassins-creed-valhalla-immortals-fenyx-rising-bundle|Assassin’s Creed® Valhalla + Immortals Fenyx Rising™ Bundle|109,99€|75|2023-02-23 16h|2023-03-02 16h|
-|30|beyond-good-and-evil|Beyond Good & Evil|4,99€|70|2023-02-23 16h|2023-03-02 16h|
-|31|child-of-light|Child of Light: Ultimate Edition|19,99€|70|2023-02-23 16h|2023-03-02 16h|
-|32|discovery-tour-viking-age|Discovery Tour: Viking Age|19,99€|60|2023-02-23 16h|2023-03-02 16h|
+|10|anno-1404|Anno 1404 History Edition|14,99€|50|2023-02-23 16h|2023-03-02 16h|
+|11|anno-1701|Anno 1701 History Edition|9,99€|50|2023-02-23 16h|2023-03-02 16h|
+|12|anno-1800|Anno 1800 Standard Edition|59,99€|67|2023-02-23 16h|2023-03-02 16h|
+|13|anno-2070|Anno 2070|29,99€|75|2023-02-23 16h|2023-03-02 16h|
+|14|anno-2205|Anno 2205 - Standard Edition|39,99€|75|2023-02-23 16h|2023-03-02 16h|
+|15|assassins-creed-chronicles-trilogy|Assassin's Creed Chronicles – Trilogy|24,99€|70|2023-02-23 16h|2023-03-02 16h|
+|16|assassins-creed-chronicles-china|Assassin's Creed Chronicles: China|9,99€|70|2023-02-23 16h|2023-03-02 16h|
+|17|assassins-creed-chronicles-india|Assassin's Creed Chronicles: India|9,99€|70|2023-02-23 16h|2023-03-02 16h|
+|18|assassins-creed-chronicles-russia|Assassin's Creed Chronicles: Russia|9,99€|70|2023-02-23 16h|2023-03-02 16h|
+|19|assassins-creed-origins|Assassin's Creed Origins Standard Edition|59,99€|80|2023-02-23 16h|2023-03-02 16h|
+|20|assassins-creed-rogue|Assassin's Creed Rogue Standard Edition|19,99€|67|2023-02-23 16h|2023-03-02 16h|
+|21|assassins-creed-syndicate|Assassin's Creed Syndicate Standard Edition|39,99€|75|2023-02-23 16h|2023-03-02 16h|
+|22|assassins-creed-unity|Assassin's Creed Unity|29,99€|75|2023-02-23 16h|2023-03-02 16h|
+|23|assassins-creed-1|Assassin's Creed® I: Director's Cut|9,99€|70|2023-02-23 16h|2023-03-02 16h|
+|24|assassins-creed-3|Assassin's Creed® III: Remastered|39,99€|50|2023-02-23 16h|2023-03-02 16h|
+|25|assassins-creed-valhalla|Assassin's Creed® Valhalla Standard Edition|59,99€|67|2023-02-23 16h|2023-03-02 16h|
+|26|assassins-creed-odyssey|Assassins Creed Odyssey Standard Edition|59,99€|75|2023-02-23 16h|2023-03-02 16h|
+|27|assassins-creed-valhalla-watch-dogs-legion-bundle|Assassin’s Creed Valhalla + Watch Dogs: Legion Bundle|109,99€|75|2023-02-23 16h|2023-03-02 16h|
+|28|assassins-creed-valhalla-immortals-fenyx-rising-bundle|Assassin’s Creed® Valhalla + Immortals Fenyx Rising™ Bundle|109,99€|75|2023-02-23 16h|2023-03-02 16h|
+|29|beyond-good-and-evil|Beyond Good & Evil|4,99€|70|2023-02-23 16h|2023-03-02 16h|
+|30|child-of-light|Child of Light: Ultimate Edition|19,99€|70|2023-02-23 16h|2023-03-02 16h|
+|31|discovery-tour-viking-age|Discovery Tour: Viking Age|19,99€|60|2023-02-23 16h|2023-03-02 16h|
+|32|duskers-672fdc|Duskers|17,99€|100|2023-02-23 16h|2023-03-02 16h|
 |33|far-cry-4|FAR CRY 4|29,99€|70|2023-02-23 16h|2023-03-02 16h|
 |34|far-cry|Far Cry|9,99€|70|2023-02-23 16h|2023-03-02 16h|
 |35|far-cry-2|Far Cry 2: Standard Edition|9,99€|70|2023-02-23 16h|2023-03-02 16h|
