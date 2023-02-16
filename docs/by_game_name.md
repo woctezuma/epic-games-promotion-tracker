@@ -24,7 +24,7 @@
 |22|child-of-light|Child of Light: Ultimate Edition|19,99€|70|2023-02-23 16h|2023-03-02 16h|
 |23|dead-cells|Dead Cells|24,99€|40|2023-03-06 18h|2023-03-13 17h|
 |24|discovery-tour-viking-age|Discovery Tour: Viking Age|19,99€|60|2023-02-23 16h|2023-03-02 16h|
-|25|elderand-09e6bc|Elderand|15,99€|15|2023-02-16 15h|2023-03-02 15h|
+|25|duskers-672fdc|Duskers|17,99€|100|2023-02-23 16h|2023-03-02 16h|
 |26|far-cry-4|FAR CRY 4|29,99€|70|2023-02-23 16h|2023-03-02 16h|
 |27|far-cry|Far Cry|9,99€|70|2023-02-23 16h|2023-03-02 16h|
 |28|far-cry-2|Far Cry 2: Standard Edition|9,99€|70|2023-02-23 16h|2023-03-02 16h|
