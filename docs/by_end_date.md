@@ -77,24 +77,25 @@
 |75|ghost-blood-91ed9f|Ghost Blood|3,59€|50|2023-02-28 14h|2023-03-07 14h|
 |76|phantom-brigade|Phantom Brigade|23,99€|20|2023-02-28 18h|2023-03-07 18h|
 |77|ancestors|Ancestors: The Humankind Odyssey|39,99€|75|2023-02-23 16h|2023-03-09 16h|
-|78|the-outer-worlds|The Outer Worlds|59,99€|67|2023-02-23 16h|2023-03-09 16h|
-|79|kholat-3f394b|Kholat|17,99€|66|2023-02-23 14h|2023-03-10 14h|
-|80|atone-heart-of-the-elder-tree-556763|ATONE: Heart of the Elder Tree|11,99€|40|2023-02-24 05h|2023-03-12 05h|
-|81|aspire-inas-tale-f77a17|Aspire Inas Tale|9,99€|75|2023-02-24 05h|2023-03-12 05h|
-|82|golf-club-wasteland-f6771e|Golf Club Wasteland|9,99€|75|2023-02-24 05h|2023-03-12 05h|
-|83|what-lies-in-the-multiverse-f604fa|What Lies in the Multiverse|11,99€|75|2023-02-24 05h|2023-03-12 05h|
-|84|isonzo|Isonzo|29,99€|35|2023-02-27 18h|2023-03-12 17h|
-|85|dead-cells|Dead Cells|24,99€|40|2023-03-06 18h|2023-03-13 17h|
-|86|kill-fish-1c85e9|Kill Fish|1,79€|40|2023-03-07 14h|2023-03-14 13h|
-|87|tortuga-a-pirates-tale-e02635|Tortuga - A Pirate's Tale|24,99€|10|2023-03-02 16h|2023-03-16 16h|
-|88|football-manager-2023|Football Manager 2023|59,99€|33|2023-03-14 15h|2023-03-23 15h|
-|89|coffee-talk|Coffee Talk|9,99€|50|2023-03-16 17h|2023-03-23 17h|
-|90|gigapocalypse-fdc53b|Gigapocalypse|9,99€|50|2023-03-16 17h|2023-03-23 17h|
-|91|dark-light|Dark Light|13,99€|26|2023-03-16 15h|2023-03-24 15h|
-|92|a-space-for-the-unbound-57e666|A Space for the Unbound|15,99€|20|2023-03-16 17h|2023-03-26 17h|
-|93|larva-mortus-9d14c7|Larva Mortus|2,39€|67|2023-03-27 13h|2023-04-03 13h|
-|94|maritime-calling-636728|Maritime Calling|11,99€|50|2023-03-27 13h|2023-04-03 13h|
-|95|citizen-sleeper-944858|Citizen Sleeper|15,99€|30|2023-03-30 18h|2023-04-05 18h|
-|96|figment2-creed-valley|Figment 2: Creed Valley|0,00€|33|2023-03-09 17h|2023-04-08 16h|
-|97|figment2-creed-valley|Figment 2: Creed Valley|0,00€|15|2023-03-09 17h|2023-04-08 16h|
-|98|away-the-survival-series|AWAY: The Survival Series|15,99€|65|2023-04-15 15h|2023-04-29 15h|
+|78|rise-of-industry-0af838|Rise of Industry|29,99€|100|2023-03-02 16h|2023-03-09 16h|
+|79|the-outer-worlds|The Outer Worlds|59,99€|67|2023-02-23 16h|2023-03-09 16h|
+|80|kholat-3f394b|Kholat|17,99€|66|2023-02-23 14h|2023-03-10 14h|
+|81|atone-heart-of-the-elder-tree-556763|ATONE: Heart of the Elder Tree|11,99€|40|2023-02-24 05h|2023-03-12 05h|
+|82|aspire-inas-tale-f77a17|Aspire Inas Tale|9,99€|75|2023-02-24 05h|2023-03-12 05h|
+|83|golf-club-wasteland-f6771e|Golf Club Wasteland|9,99€|75|2023-02-24 05h|2023-03-12 05h|
+|84|what-lies-in-the-multiverse-f604fa|What Lies in the Multiverse|11,99€|75|2023-02-24 05h|2023-03-12 05h|
+|85|isonzo|Isonzo|29,99€|35|2023-02-27 18h|2023-03-12 17h|
+|86|dead-cells|Dead Cells|24,99€|40|2023-03-06 18h|2023-03-13 17h|
+|87|kill-fish-1c85e9|Kill Fish|1,79€|40|2023-03-07 14h|2023-03-14 13h|
+|88|tortuga-a-pirates-tale-e02635|Tortuga - A Pirate's Tale|24,99€|10|2023-03-02 16h|2023-03-16 16h|
+|89|football-manager-2023|Football Manager 2023|59,99€|33|2023-03-14 15h|2023-03-23 15h|
+|90|coffee-talk|Coffee Talk|9,99€|50|2023-03-16 17h|2023-03-23 17h|
+|91|gigapocalypse-fdc53b|Gigapocalypse|9,99€|50|2023-03-16 17h|2023-03-23 17h|
+|92|dark-light|Dark Light|13,99€|26|2023-03-16 15h|2023-03-24 15h|
+|93|a-space-for-the-unbound-57e666|A Space for the Unbound|15,99€|20|2023-03-16 17h|2023-03-26 17h|
+|94|larva-mortus-9d14c7|Larva Mortus|2,39€|67|2023-03-27 13h|2023-04-03 13h|
+|95|maritime-calling-636728|Maritime Calling|11,99€|50|2023-03-27 13h|2023-04-03 13h|
+|96|citizen-sleeper-944858|Citizen Sleeper|15,99€|30|2023-03-30 18h|2023-04-05 18h|
+|97|figment2-creed-valley|Figment 2: Creed Valley|0,00€|33|2023-03-09 17h|2023-04-08 16h|
+|98|figment2-creed-valley|Figment 2: Creed Valley|0,00€|15|2023-03-09 17h|2023-04-08 16h|
+|99|away-the-survival-series|AWAY: The Survival Series|15,99€|65|2023-04-15 15h|2023-04-29 15h|
