@@ -28,210 +28,12 @@
   },
   {
     "discountPercentage": 75,
-    "endDate": "2023-03-09T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "ancestors",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Ancestors: The Humankind Odyssey"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "anno-1404",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Anno 1404 History Edition"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "anno-1701",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Anno 1701 History Edition"
-  },
-  {
-    "discountPercentage": 67,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "anno-1800",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Anno 1800 Standard Edition"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "anno-2070",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Anno 2070"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "anno-2205",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Anno 2205 - Standard Edition"
-  },
-  {
-    "discountPercentage": 75,
     "endDate": "2023-03-12T05:00:00.000Z",
     "isFree": false,
     "originalPrice": 999,
     "slug": "aspire-inas-tale-f77a17",
     "startDate": "2023-02-24T05:00:00.000Z",
     "title": "Aspire Inas Tale"
-  },
-  {
-    "discountPercentage": 70,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2499,
-    "slug": "assassins-creed-chronicles-trilogy",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Assassin's Creed Chronicles \u2013 Trilogy"
-  },
-  {
-    "discountPercentage": 70,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "assassins-creed-chronicles-china",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Assassin's Creed Chronicles: China"
-  },
-  {
-    "discountPercentage": 70,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "assassins-creed-chronicles-india",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Assassin's Creed Chronicles: India"
-  },
-  {
-    "discountPercentage": 70,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "assassins-creed-chronicles-russia",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Assassin's Creed Chronicles: Russia"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "assassins-creed-origins",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Assassin's Creed Origins Standard Edition"
-  },
-  {
-    "discountPercentage": 67,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "assassins-creed-rogue",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Assassin's Creed Rogue Standard Edition"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "assassins-creed-syndicate",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Assassin's Creed Syndicate Standard Edition"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "assassins-creed-unity",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Assassin's Creed Unity"
-  },
-  {
-    "discountPercentage": 70,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "assassins-creed-1",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Assassin's Creed\u00ae I: Director's Cut"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "assassins-creed-3",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Assassin's Creed\u00ae III: Remastered"
-  },
-  {
-    "discountPercentage": 67,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "assassins-creed-valhalla",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Assassin's Creed\u00ae Valhalla Standard Edition"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "assassins-creed-odyssey",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Assassins Creed Odyssey Standard Edition"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 10999,
-    "slug": "assassins-creed-valhalla-watch-dogs-legion-bundle",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Assassin\u2019s Creed Valhalla + Watch Dogs: Legion Bundle"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 10999,
-    "slug": "assassins-creed-valhalla-immortals-fenyx-rising-bundle",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Assassin\u2019s Creed\u00ae Valhalla + Immortals Fenyx Rising\u2122 Bundle"
-  },
-  {
-    "discountPercentage": 70,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 499,
-    "slug": "beyond-good-and-evil",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Beyond Good & Evil"
-  },
-  {
-    "discountPercentage": 70,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "child-of-light",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Child of Light: Ultimate Edition"
   },
   {
     "discountPercentage": 30,
@@ -270,105 +72,6 @@
     "title": "Dead Cells"
   },
   {
-    "discountPercentage": 60,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "discovery-tour-viking-age",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Discovery Tour: Viking Age"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 1799,
-    "slug": "duskers-672fdc",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Duskers"
-  },
-  {
-    "discountPercentage": 70,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "far-cry-4",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "FAR CRY 4"
-  },
-  {
-    "discountPercentage": 70,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "far-cry",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Far Cry"
-  },
-  {
-    "discountPercentage": 70,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "far-cry-2",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Far Cry 2: Standard Edition"
-  },
-  {
-    "discountPercentage": 70,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "far-cry-3-blood-dragon",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Far Cry 3: Blood Dragon"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "far-cry-5",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Far Cry 5 Standard Edition"
-  },
-  {
-    "discountPercentage": 67,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "far-cry-6",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Far Cry 6 Standard Edition"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 4499,
-    "slug": "far-cry-new-dawn",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Far Cry New Dawn Standard Edition"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "far-cry-primal",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Far Cry Primal Standard Edition"
-  },
-  {
-    "discountPercentage": 70,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "far-cry-3",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Far Cry\u00ae3 Standard Edition"
-  },
-  {
     "discountPercentage": 33,
     "endDate": "2023-04-08T16:00:00.000Z",
     "isFree": false,
@@ -396,24 +99,6 @@
     "title": "Football Manager 2023"
   },
   {
-    "discountPercentage": 75,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "for-honor",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "For Honor Standard Edition"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "from-dust",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "From Dust"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2023-03-07T14:00:00.000Z",
     "isFree": false,
@@ -421,24 +106,6 @@
     "slug": "ghost-blood-91ed9f",
     "startDate": "2023-02-28T14:00:00.000Z",
     "title": "Ghost Blood"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "ghost-recon-breakpoint",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Ghost Recon Breakpoint Standard Edition"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "ghost-recon-future-soldier",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Ghost Recon Future Soldier: Ultimate Edition"
   },
   {
     "discountPercentage": 50,
@@ -459,15 +126,6 @@
     "title": "Golf Club Wasteland"
   },
   {
-    "discountPercentage": 80,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "immortals-fenyx-rising",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Immortals Fenyx Rising Standard Edition"
-  },
-  {
     "discountPercentage": 35,
     "endDate": "2023-03-12T17:00:00.000Z",
     "isFree": false,
@@ -475,15 +133,6 @@
     "slug": "isonzo",
     "startDate": "2023-02-27T18:00:00.000Z",
     "title": "Isonzo"
-  },
-  {
-    "discountPercentage": 66,
-    "endDate": "2023-03-10T14:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1799,
-    "slug": "kholat-3f394b",
-    "startDate": "2023-02-23T14:00:00.000Z",
-    "title": "Kholat"
   },
   {
     "discountPercentage": 40,
@@ -504,24 +153,6 @@
     "title": "Larva Mortus"
   },
   {
-    "discountPercentage": 67,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "monopoly-madness",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "MONOPOLY MADNESS"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "monopoly-plus",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "MONOPOLY\u00ae PLUS"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2023-04-03T13:00:00.000Z",
     "isFree": false,
@@ -529,24 +160,6 @@
     "slug": "maritime-calling-636728",
     "startDate": "2023-03-27T13:00:00.000Z",
     "title": "Maritime Calling"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "might-and-magic-heroes-3",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Might & Magic Heroes 3"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 4499,
-    "slug": "might-and-magic-heroes-7",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Might and Magic: Heroes VII - Ultimate Edition"
   },
   {
     "discountPercentage": 20,
@@ -558,33 +171,6 @@
     "title": "Phantom Brigade"
   },
   {
-    "discountPercentage": 75,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "rayman-legends",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "RAYMAN\u00ae LEGENDS"
-  },
-  {
-    "discountPercentage": 70,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "rayman-origins",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Rayman Origins"
-  },
-  {
-    "discountPercentage": 70,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "riders-republic",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Riders Republic"
-  },
-  {
     "discountPercentage": 100,
     "endDate": "2023-03-09T16:00:00.000Z",
     "isFree": true,
@@ -592,87 +178,6 @@
     "slug": "rise-of-industry-0af838",
     "startDate": "2023-03-02T16:00:00.000Z",
     "title": "Rise of Industry"
-  },
-  {
-    "discountPercentage": 67,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "scott-pilgrim-vs-the-world-the-game",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Scott Pilgrim vs. The World: The Game \u2013 Complete Edition"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "south-park-the-fractured-but-whole",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "South Park\u2122: The Fractured But Whole\u2122 Standard Edition"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "south-park-the-stick-of-truth",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "South Park\u2122: The Stick of Truth\u2122"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "splinter-cell-chaos-theory",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Splinter Cell Chaos Theory"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "steep",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Steep Standard Edition"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 4999,
-    "slug": "the-crew-2",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "The Crew 2 Standard Edition"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "the-crew",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "The Crew\u00ae \u2013 Standard Edition"
-  },
-  {
-    "discountPercentage": 70,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "the-division-2",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "The Division 2 Standard Edition"
-  },
-  {
-    "discountPercentage": 67,
-    "endDate": "2023-03-09T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "the-outer-worlds",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "The Outer Worlds"
   },
   {
     "discountPercentage": 10,
@@ -684,78 +189,6 @@
     "title": "The Pale Beyond"
   },
   {
-    "discountPercentage": 70,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "endwar",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Tom Clancy's EndWar"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 4999,
-    "slug": "ghost-recon-wildlands",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Tom Clancy's Ghost Recon Wildlands Standard Edition"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "rainbow-six-extraction",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Tom Clancy's Rainbow Six Extraction"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "rainbow-six-siege",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Tom Clancy's Rainbow Six\u00ae Siege"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "rainbow-six-united-bundle",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Tom Clancy's Rainbow Six\u00ae Siege & Tom Clancy's Rainbow Six\u00ae Extraction Deluxe United Bundle"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 499,
-    "slug": "splinter-cell",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Tom Clancy's Splinter Cell"
-  },
-  {
-    "discountPercentage": 67,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "the-division",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Tom Clancy's The Division"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 499,
-    "slug": "splinter-cell-double-agent",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Tom Clancy\u2019s Splinter Cell Double Agent"
-  },
-  {
     "discountPercentage": 10,
     "endDate": "2023-03-16T16:00:00.000Z",
     "isFree": false,
@@ -763,60 +196,6 @@
     "slug": "tortuga-a-pirates-tale-e02635",
     "startDate": "2023-03-02T16:00:00.000Z",
     "title": "Tortuga - A Pirate's Tale"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "trackmania-turbo",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Trackmania Turbo"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "trials-evolution",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Trials Evolution: Gold Edition"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "trials-fusion",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Trials Fusion: Standard Edition"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "trials-rising",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Trials Rising Standard Edition"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "uno",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "UNO Standard Edition"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "valiant-hearts",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Valiant Hearts: The Great War"
   },
   {
     "discountPercentage": 20,
@@ -828,51 +207,6 @@
     "title": "Voltaire: The Vegan Vampire"
   },
   {
-    "discountPercentage": 85,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "watch-dogs-2",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Watch Dogs 2 Standard Edition"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "watch-dogs",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Watch Dogs Standard Edition"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 9999,
-    "slug": "watch-dogs-legion--gold-edition",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Watch Dogs: Legion Gold Edition"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "watch-dogs-legion",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Watch Dogs: Legion Standard Edition"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 11999,
-    "slug": "watch-dogs-legion--ultimate-edition",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "Watch Dogs: Legion Ultimate Edition"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2023-03-12T05:00:00.000Z",
     "isFree": false,
@@ -880,14 +214,5 @@
     "slug": "what-lies-in-the-multiverse-f604fa",
     "startDate": "2023-02-24T05:00:00.000Z",
     "title": "What Lies in the Multiverse"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-03-02T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1599,
-    "slug": "zombi",
-    "startDate": "2023-02-23T16:00:00.000Z",
-    "title": "ZOMBI"
   }
 ]
