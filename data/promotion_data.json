@@ -585,6 +585,15 @@
     "title": "Riders Republic"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2023-03-09T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 2999,
+    "slug": "rise-of-industry-0af838",
+    "startDate": "2023-03-02T16:00:00.000Z",
+    "title": "Rise of Industry"
+  },
+  {
     "discountPercentage": 67,
     "endDate": "2023-03-02T16:00:00.000Z",
     "isFree": false,
