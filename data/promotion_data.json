@@ -73,15 +73,6 @@
   },
   {
     "discountPercentage": 70,
-    "endDate": "2023-03-09T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "a-good-snowman-is-hard-to-build",
-    "startDate": "2023-03-02T16:00:00.000Z",
-    "title": "A Good Snowman is Hard to Build"
-  },
-  {
-    "discountPercentage": 70,
     "endDate": "2023-03-16T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 799,
@@ -151,15 +142,6 @@
     "slug": "a-knights-quest",
     "startDate": "2023-03-09T16:00:00.000Z",
     "title": "A Knights Quest"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2023-03-09T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1599,
-    "slug": "a-monsters-expedition",
-    "startDate": "2023-03-02T16:00:00.000Z",
-    "title": "A Monster's Expedition"
   },
   {
     "discountPercentage": 40,
@@ -1918,15 +1900,6 @@
   },
   {
     "discountPercentage": 40,
-    "endDate": "2023-03-09T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1599,
-    "slug": "bonfire-peaks",
-    "startDate": "2023-03-02T16:00:00.000Z",
-    "title": "Bonfire Peaks"
-  },
-  {
-    "discountPercentage": 40,
     "endDate": "2023-03-16T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1599,
@@ -2122,6 +2095,15 @@
     "slug": "carrion",
     "startDate": "2023-03-09T16:00:00.000Z",
     "title": "CARRION"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2023-03-16T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1999,
+    "slug": "call-of-the-sea",
+    "startDate": "2023-03-09T16:00:00.000Z",
+    "title": "Call of the Sea"
   },
   {
     "discountPercentage": 40,
@@ -2680,15 +2662,6 @@
     "slug": "coromon-d4ef84",
     "startDate": "2023-03-09T16:00:00.000Z",
     "title": "Coromon"
-  },
-  {
-    "discountPercentage": 70,
-    "endDate": "2023-03-09T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "cosmic-express",
-    "startDate": "2023-03-02T16:00:00.000Z",
-    "title": "Cosmic Express"
   },
   {
     "discountPercentage": 70,
@@ -7380,24 +7353,6 @@
     "title": "Learning Factory"
   },
   {
-    "discountPercentage": 28,
-    "endDate": "2023-03-16T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1349,
-    "slug": "learning-factory-4d2213",
-    "startDate": "2023-03-09T16:00:00.000Z",
-    "title": "Learning Factory"
-  },
-  {
-    "discountPercentage": 28,
-    "endDate": "2023-03-16T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1349,
-    "slug": "learning-factory-4d2213",
-    "startDate": "2023-03-09T16:00:00.000Z",
-    "title": "Learning Factory"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2023-03-16T16:00:00.000Z",
     "isFree": false,
@@ -10125,6 +10080,15 @@
     "title": "Riders Republic"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2023-03-16T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 499,
+    "slug": "rignroll-522598",
+    "startDate": "2023-03-09T16:00:00.000Z",
+    "title": "Rig'n'Roll"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2023-03-16T16:00:00.000Z",
     "isFree": false,
@@ -10159,15 +10123,6 @@
     "slug": "ring-of-pain",
     "startDate": "2023-03-09T16:00:00.000Z",
     "title": "Ring of Pain"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2023-03-09T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 2999,
-    "slug": "rise-of-industry-0af838",
-    "startDate": "2023-03-02T16:00:00.000Z",
-    "title": "Rise of Industry"
   },
   {
     "discountPercentage": 75,
@@ -11257,15 +11212,6 @@
     "slug": "sockventure",
     "startDate": "2023-03-09T16:00:00.000Z",
     "title": "Sockventure"
-  },
-  {
-    "discountPercentage": 70,
-    "endDate": "2023-03-09T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "sokobond",
-    "startDate": "2023-03-02T16:00:00.000Z",
-    "title": "Sokobond"
   },
   {
     "discountPercentage": 70,
@@ -14243,15 +14189,6 @@
     "isFree": false,
     "originalPrice": 2499,
     "slug": "tortuga-a-pirates-tale-e02635",
-    "startDate": "2023-03-02T16:00:00.000Z",
-    "title": "Tortuga - A Pirate's Tale"
-  },
-  {
-    "discountPercentage": 10,
-    "endDate": "2023-03-16T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2499,
-    "slug": "tortuga-a-pirates-tale-e02635",
     "startDate": "2023-03-09T16:00:00.000Z",
     "title": "Tortuga - A Pirate's Tale"
   },
@@ -15058,24 +14995,6 @@
   },
   {
     "discountPercentage": 80,
-    "endDate": "2023-03-16T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "vampyr",
-    "startDate": "2023-03-09T16:00:00.000Z",
-    "title": "Vampyr"
-  },
-  {
-    "discountPercentage": 33,
-    "endDate": "2023-03-16T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "vampyr",
-    "startDate": "2023-03-09T16:00:00.000Z",
-    "title": "Vampyr"
-  },
-  {
-    "discountPercentage": 33,
     "endDate": "2023-03-16T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 3999,
