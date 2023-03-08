@@ -893,43 +893,44 @@
 |891|warhammer-40000-battlesector|Warhammer 40,000: Battlesector|31,99€|35|2023-03-09 16h|2023-03-16 16h|
 |892|warhammer-40000-chaos-gate-daemonhunters|Warhammer 40,000: Chaos Gate - Daemonhunters|44,99€|45|2023-03-09 16h|2023-03-16 16h|
 |893|warhammer-40000-gladius-relics-of-war|Warhammer 40,000: Gladius - Relics of War|31,99€|90|2023-03-09 16h|2023-03-16 16h|
-|894|warhammer-age-of-sigmar-storm-ground|Warhammer Age of Sigmar: Storm Ground|19,99€|60|2023-03-09 16h|2023-03-16 16h|
-|895|warhammer-mechanicus-0e4b71|Warhammer 40,000: Mechanicus - Standard Edition|29,99€|75|2023-03-09 16h|2023-03-16 16h|
-|896|warpips-57e2c4|Warpips|14,99€|60|2023-03-09 16h|2023-03-16 16h|
-|897|watch-dogs|Watch Dogs Standard Edition|29,99€|75|2023-03-09 16h|2023-03-16 16h|
-|898|watch-dogs-2|Watch Dogs 2 Standard Edition|59,99€|85|2023-03-09 16h|2023-03-16 16h|
-|899|watch-dogs-legion|Watch Dogs: Legion Standard Edition|59,99€|80|2023-03-09 16h|2023-03-16 16h|
-|900|watch-dogs-legion--gold-edition|Watch Dogs: Legion Gold Edition|99,99€|80|2023-03-09 16h|2023-03-16 16h|
-|901|watch-dogs-legion--ultimate-edition|Watch Dogs: Legion Ultimate Edition|119,99€|80|2023-03-09 16h|2023-03-16 16h|
-|902|wattam|Wattam|18,99€|70|2023-03-09 16h|2023-03-16 16h|
-|903|wavetale-f9cfdf|Wavetale|29,99€|20|2023-03-09 16h|2023-03-16 16h|
-|904|we-are-football|WE ARE FOOTBALL|24,99€|60|2023-03-09 16h|2023-03-16 16h|
-|905|we-were-here-forever|We Were Here Forever|17,99€|20|2023-03-09 16h|2023-03-16 16h|
-|906|weird-west-906661|Weird West|39,99€|50|2023-03-09 16h|2023-03-16 16h|
-|907|werewolf-the-apocalypse-earthblood|Werewolf: The Apocalypse – Earthblood|29,99€|60|2023-03-09 16h|2023-03-16 16h|
-|908|what-remains-of-edith-finch|What Remains of Edith Finch|18,99€|75|2023-03-09 16h|2023-03-16 16h|
-|909|wheels-of-aurelia|Wheels of Aurelia|14,99€|85|2023-03-09 16h|2023-03-16 16h|
-|910|while-true-learn|while True: learn()|9,99€|28|2023-03-09 16h|2023-03-16 16h|
-|911|whispering-willows-bde110|Whispering Willows|7,99€|85|2023-03-09 16h|2023-03-16 16h|
-|912|whispers-of-a-machine|Whispers of a Machine|11,99€|80|2023-03-09 16h|2023-03-16 16h|
-|913|white-shadows-64e014|White Shadows|19,99€|40|2023-03-09 16h|2023-03-16 16h|
-|914|who-pressed-mute-on-uncle-marucs-ee90a4|Who Pressed Mute on Uncle Marcus?|9,99€|20|2023-03-09 16h|2023-03-16 16h|
-|915|wildcat-gun-machine-c66c4e|Wildcat Gun Machine|14,99€|40|2023-03-09 16h|2023-03-16 16h|
-|916|windbound|Windbound|19,99€|85|2023-03-09 16h|2023-03-16 16h|
-|917|wolfenstein-the-new-order|Wolfenstein: The New Order|19,99€|70|2023-03-09 16h|2023-03-16 16h|
-|918|wolfenstein-the-old-blood|Wolfenstein: The Old Blood|19,99€|70|2023-03-09 16h|2023-03-16 16h|
-|919|wolfstride|Wolfstride|14,99€|50|2023-03-09 16h|2023-03-16 16h|
-|920|world-war-z|World War Z Aftermath|39,99€|50|2023-03-09 16h|2023-03-16 16h|
-|921|wrath-aeon-of-ruin|Wrath: Aeon of Ruin|24,99€|20|2023-03-09 16h|2023-03-16 16h|
-|922|wrc-10|WRC 10 FIA World Rally Championship|49,99€|60|2023-03-09 16h|2023-03-16 16h|
-|923|wrc-11-fia-world-rally-championship-f0749b|WRC Generations|39,99€|35|2023-03-09 16h|2023-03-16 16h|
-|924|wrc-8|WRC 8 FIA World Rally Championship|29,99€|80|2023-03-09 16h|2023-03-16 16h|
-|925|wrc-9|WRC 9 FIA World Rally Championship|29,99€|70|2023-03-09 16h|2023-03-16 16h|
-|926|xcom-2|XCOM® 2|49,99€|95|2023-03-09 16h|2023-03-16 16h|
-|927|yaga|Yaga|19,99€|60|2023-03-09 16h|2023-03-16 16h|
-|928|ys-ix-monstrum-nox|Ys IX: Monstrum Nox|59,99€|30|2023-03-09 16h|2023-03-16 16h|
-|929|zen-triple-rpg-bundle|ZEN Triple RPG Bundle|47,99€|60|2023-03-09 16h|2023-03-16 16h|
-|930|zombi|ZOMBI|15,99€|75|2023-03-09 16h|2023-03-16 16h|
-|931|zombie-rollerz-7aa027|Zombie Rollerz: Pinball Heroes|14,99€|60|2023-03-09 16h|2023-03-16 16h|
-|932|zool-redimensioned-5c52a7|Zool Redimensioned|7,99€|66|2023-03-09 16h|2023-03-16 16h|
-|933|zorro-the-chronicles|Zorro The Chronicles|24,99€|50|2023-03-09 16h|2023-03-16 16h|
+|894|warhammer-40000-gladius-relics-of-war|Warhammer 40,000: Gladius - Relics of War|31,99€|100|2023-03-16 15h|2023-03-23 15h|
+|895|warhammer-age-of-sigmar-storm-ground|Warhammer Age of Sigmar: Storm Ground|19,99€|60|2023-03-09 16h|2023-03-16 16h|
+|896|warhammer-mechanicus-0e4b71|Warhammer 40,000: Mechanicus - Standard Edition|29,99€|75|2023-03-09 16h|2023-03-16 16h|
+|897|warpips-57e2c4|Warpips|14,99€|60|2023-03-09 16h|2023-03-16 16h|
+|898|watch-dogs|Watch Dogs Standard Edition|29,99€|75|2023-03-09 16h|2023-03-16 16h|
+|899|watch-dogs-2|Watch Dogs 2 Standard Edition|59,99€|85|2023-03-09 16h|2023-03-16 16h|
+|900|watch-dogs-legion|Watch Dogs: Legion Standard Edition|59,99€|80|2023-03-09 16h|2023-03-16 16h|
+|901|watch-dogs-legion--gold-edition|Watch Dogs: Legion Gold Edition|99,99€|80|2023-03-09 16h|2023-03-16 16h|
+|902|watch-dogs-legion--ultimate-edition|Watch Dogs: Legion Ultimate Edition|119,99€|80|2023-03-09 16h|2023-03-16 16h|
+|903|wattam|Wattam|18,99€|70|2023-03-09 16h|2023-03-16 16h|
+|904|wavetale-f9cfdf|Wavetale|29,99€|20|2023-03-09 16h|2023-03-16 16h|
+|905|we-are-football|WE ARE FOOTBALL|24,99€|60|2023-03-09 16h|2023-03-16 16h|
+|906|we-were-here-forever|We Were Here Forever|17,99€|20|2023-03-09 16h|2023-03-16 16h|
+|907|weird-west-906661|Weird West|39,99€|50|2023-03-09 16h|2023-03-16 16h|
+|908|werewolf-the-apocalypse-earthblood|Werewolf: The Apocalypse – Earthblood|29,99€|60|2023-03-09 16h|2023-03-16 16h|
+|909|what-remains-of-edith-finch|What Remains of Edith Finch|18,99€|75|2023-03-09 16h|2023-03-16 16h|
+|910|wheels-of-aurelia|Wheels of Aurelia|14,99€|85|2023-03-09 16h|2023-03-16 16h|
+|911|while-true-learn|while True: learn()|9,99€|28|2023-03-09 16h|2023-03-16 16h|
+|912|whispering-willows-bde110|Whispering Willows|7,99€|85|2023-03-09 16h|2023-03-16 16h|
+|913|whispers-of-a-machine|Whispers of a Machine|11,99€|80|2023-03-09 16h|2023-03-16 16h|
+|914|white-shadows-64e014|White Shadows|19,99€|40|2023-03-09 16h|2023-03-16 16h|
+|915|who-pressed-mute-on-uncle-marucs-ee90a4|Who Pressed Mute on Uncle Marcus?|9,99€|20|2023-03-09 16h|2023-03-16 16h|
+|916|wildcat-gun-machine-c66c4e|Wildcat Gun Machine|14,99€|40|2023-03-09 16h|2023-03-16 16h|
+|917|windbound|Windbound|19,99€|85|2023-03-09 16h|2023-03-16 16h|
+|918|wolfenstein-the-new-order|Wolfenstein: The New Order|19,99€|70|2023-03-09 16h|2023-03-16 16h|
+|919|wolfenstein-the-old-blood|Wolfenstein: The Old Blood|19,99€|70|2023-03-09 16h|2023-03-16 16h|
+|920|wolfstride|Wolfstride|14,99€|50|2023-03-09 16h|2023-03-16 16h|
+|921|world-war-z|World War Z Aftermath|39,99€|50|2023-03-09 16h|2023-03-16 16h|
+|922|wrath-aeon-of-ruin|Wrath: Aeon of Ruin|24,99€|20|2023-03-09 16h|2023-03-16 16h|
+|923|wrc-10|WRC 10 FIA World Rally Championship|49,99€|60|2023-03-09 16h|2023-03-16 16h|
+|924|wrc-11-fia-world-rally-championship-f0749b|WRC Generations|39,99€|35|2023-03-09 16h|2023-03-16 16h|
+|925|wrc-8|WRC 8 FIA World Rally Championship|29,99€|80|2023-03-09 16h|2023-03-16 16h|
+|926|wrc-9|WRC 9 FIA World Rally Championship|29,99€|70|2023-03-09 16h|2023-03-16 16h|
+|927|xcom-2|XCOM® 2|49,99€|95|2023-03-09 16h|2023-03-16 16h|
+|928|yaga|Yaga|19,99€|60|2023-03-09 16h|2023-03-16 16h|
+|929|ys-ix-monstrum-nox|Ys IX: Monstrum Nox|59,99€|30|2023-03-09 16h|2023-03-16 16h|
+|930|zen-triple-rpg-bundle|ZEN Triple RPG Bundle|47,99€|60|2023-03-09 16h|2023-03-16 16h|
+|931|zombi|ZOMBI|15,99€|75|2023-03-09 16h|2023-03-16 16h|
+|932|zombie-rollerz-7aa027|Zombie Rollerz: Pinball Heroes|14,99€|60|2023-03-09 16h|2023-03-16 16h|
+|933|zool-redimensioned-5c52a7|Zool Redimensioned|7,99€|66|2023-03-09 16h|2023-03-16 16h|
+|934|zorro-the-chronicles|Zorro The Chronicles|24,99€|50|2023-03-09 16h|2023-03-16 16h|
