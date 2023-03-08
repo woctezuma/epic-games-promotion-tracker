@@ -15597,6 +15597,15 @@
     "title": "Warhammer 40,000: Gladius - Relics of War"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2023-03-23T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 3199,
+    "slug": "warhammer-40000-gladius-relics-of-war",
+    "startDate": "2023-03-16T15:00:00.000Z",
+    "title": "Warhammer 40,000: Gladius - Relics of War"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2023-03-16T16:00:00.000Z",
     "isFree": false,
