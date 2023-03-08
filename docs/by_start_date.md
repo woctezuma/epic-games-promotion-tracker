@@ -909,27 +909,28 @@
 |907|toem|TOEM|15,99€|66|2023-03-16 14h|2023-03-23 14h|
 |908|dark-light|Dark Light|13,99€|26|2023-03-16 15h|2023-03-24 15h|
 |909|figment|Figment|19,99€|95|2023-03-16 15h|2023-04-09 15h|
-|910|a-space-for-the-unbound-57e666|A Space for the Unbound|15,99€|20|2023-03-16 17h|2023-03-26 17h|
-|911|coffee-talk|Coffee Talk|9,99€|50|2023-03-16 17h|2023-03-23 17h|
-|912|gigapocalypse-fdc53b|Gigapocalypse|9,99€|50|2023-03-16 17h|2023-03-23 17h|
-|913|red-dust-5e7397|Red Dust|4,49€|50|2023-03-20 13h|2023-03-27 13h|
-|914|warforwards-fd05ed|WarForwards|7,99€|50|2023-03-20 13h|2023-03-27 13h|
-|915|forspoken|Forspoken|79,99€|33|2023-03-23 15h|2023-04-03 16h|
-|916|larva-mortus-9d14c7|Larva Mortus|2,39€|67|2023-03-27 13h|2023-04-03 13h|
-|917|maritime-calling-636728|Maritime Calling|11,99€|50|2023-03-27 13h|2023-04-03 13h|
-|918|dragon-quest-xi-s-echoes-of-an-elusive-age|DRAGON QUEST® XI S: Echoes of an Elusive Age™|39,99€|35|2023-03-27 15h|2023-04-03 16h|
-|919|final-fantasy-vii-remake-intergrade|FINAL FANTASY VII REMAKE INTERGRADE|79,99€|43|2023-03-27 15h|2023-04-03 16h|
-|920|just-cause-4|Just Cause 4 Reloaded|32,99€|80|2023-03-27 15h|2023-04-03 16h|
-|921|kingdom-hearts-hd-1-5-2-5-remix|KINGDOM HEARTS HD 1.5+2.5 ReMIX|49,99€|40|2023-03-27 15h|2023-04-03 16h|
-|922|kingdom-hearts-hd-2-8-final-chapter-prologue|KINGDOM HEARTS HD 2.8 Final Chapter Prologue|59,99€|40|2023-03-27 15h|2023-04-03 16h|
-|923|kingdom-hearts-iii|KINGDOM HEARTS III + Re Mind (DLC)|59,99€|40|2023-03-27 15h|2023-04-03 16h|
-|924|kingdom-hearts-melody-of-memory|KINGDOM HEARTS Melody of Memory|59,99€|50|2023-03-27 15h|2023-04-03 16h|
-|925|neo-the-world-ends-with-you|NEO: The World Ends with You|59,99€|50|2023-03-27 15h|2023-04-03 16h|
-|926|octopath-traveler|OCTOPATH TRAVELER™|59,99€|50|2023-03-27 15h|2023-04-03 16h|
-|927|outriders|OUTRIDERS|39,99€|60|2023-03-27 15h|2023-04-03 16h|
-|928|citizen-sleeper-944858|Citizen Sleeper|15,99€|30|2023-03-30 17h|2023-04-05 17h|
-|929|ravens-hike-c34341|Ravens Hike|3,19€|75|2023-04-03 15h|2023-04-10 15h|
-|930|red-ronin-d2678c|Red Ronin|5,99€|70|2023-04-03 15h|2023-04-10 15h|
-|931|undergrave-4d084b|Undergrave|7,99€|35|2023-04-03 15h|2023-04-10 15h|
-|932|upaon-a-snakes-journey-672f92|Upaon A Snakes Journey|1,99€|75|2023-04-03 15h|2023-04-10 15h|
-|933|away-the-survival-series|AWAY: The Survival Series|15,99€|65|2023-04-15 15h|2023-04-29 15h|
+|910|warhammer-40000-gladius-relics-of-war|Warhammer 40,000: Gladius - Relics of War|31,99€|100|2023-03-16 15h|2023-03-23 15h|
+|911|a-space-for-the-unbound-57e666|A Space for the Unbound|15,99€|20|2023-03-16 17h|2023-03-26 17h|
+|912|coffee-talk|Coffee Talk|9,99€|50|2023-03-16 17h|2023-03-23 17h|
+|913|gigapocalypse-fdc53b|Gigapocalypse|9,99€|50|2023-03-16 17h|2023-03-23 17h|
+|914|red-dust-5e7397|Red Dust|4,49€|50|2023-03-20 13h|2023-03-27 13h|
+|915|warforwards-fd05ed|WarForwards|7,99€|50|2023-03-20 13h|2023-03-27 13h|
+|916|forspoken|Forspoken|79,99€|33|2023-03-23 15h|2023-04-03 16h|
+|917|larva-mortus-9d14c7|Larva Mortus|2,39€|67|2023-03-27 13h|2023-04-03 13h|
+|918|maritime-calling-636728|Maritime Calling|11,99€|50|2023-03-27 13h|2023-04-03 13h|
+|919|dragon-quest-xi-s-echoes-of-an-elusive-age|DRAGON QUEST® XI S: Echoes of an Elusive Age™|39,99€|35|2023-03-27 15h|2023-04-03 16h|
+|920|final-fantasy-vii-remake-intergrade|FINAL FANTASY VII REMAKE INTERGRADE|79,99€|43|2023-03-27 15h|2023-04-03 16h|
+|921|just-cause-4|Just Cause 4 Reloaded|32,99€|80|2023-03-27 15h|2023-04-03 16h|
+|922|kingdom-hearts-hd-1-5-2-5-remix|KINGDOM HEARTS HD 1.5+2.5 ReMIX|49,99€|40|2023-03-27 15h|2023-04-03 16h|
+|923|kingdom-hearts-hd-2-8-final-chapter-prologue|KINGDOM HEARTS HD 2.8 Final Chapter Prologue|59,99€|40|2023-03-27 15h|2023-04-03 16h|
+|924|kingdom-hearts-iii|KINGDOM HEARTS III + Re Mind (DLC)|59,99€|40|2023-03-27 15h|2023-04-03 16h|
+|925|kingdom-hearts-melody-of-memory|KINGDOM HEARTS Melody of Memory|59,99€|50|2023-03-27 15h|2023-04-03 16h|
+|926|neo-the-world-ends-with-you|NEO: The World Ends with You|59,99€|50|2023-03-27 15h|2023-04-03 16h|
+|927|octopath-traveler|OCTOPATH TRAVELER™|59,99€|50|2023-03-27 15h|2023-04-03 16h|
+|928|outriders|OUTRIDERS|39,99€|60|2023-03-27 15h|2023-04-03 16h|
+|929|citizen-sleeper-944858|Citizen Sleeper|15,99€|30|2023-03-30 17h|2023-04-05 17h|
+|930|ravens-hike-c34341|Ravens Hike|3,19€|75|2023-04-03 15h|2023-04-10 15h|
+|931|red-ronin-d2678c|Red Ronin|5,99€|70|2023-04-03 15h|2023-04-10 15h|
+|932|undergrave-4d084b|Undergrave|7,99€|35|2023-04-03 15h|2023-04-10 15h|
+|933|upaon-a-snakes-journey-672f92|Upaon A Snakes Journey|1,99€|75|2023-04-03 15h|2023-04-10 15h|
+|934|away-the-survival-series|AWAY: The Survival Series|15,99€|65|2023-04-15 15h|2023-04-29 15h|
