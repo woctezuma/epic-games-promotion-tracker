@@ -10,9 +10,9 @@
 |8|a-knights-quest|A Knights Quest|24,99€|90|2023-03-09 16h|2023-03-16 16h|
 |9|a-monsters-expedition|A Monster's Expedition|15,99€|40|2023-03-09 16h|2023-03-16 16h|
 |10|a-musical-story-973128|A Musical Story|11,99€|35|2023-03-09 16h|2023-03-16 16h|
-|11|a-plague-tale-bundle|A Plague Tale Bundle|69,99€|36|2023-03-09 16h|2023-03-16 16h|
-|12|a-plague-tale-innocence|A Plague Tale: Innocence|39,99€|75|2023-03-09 16h|2023-03-16 16h|
-|13|a-plague-tale-requiem|A Plague Tale: Requiem|49,99€|30|2023-03-09 16h|2023-03-16 16h|
+|11|a-plague-tale-bundle|A Plague Tale Bundle|69,99€|45|2023-03-09 16h|2023-03-16 16h|
+|12|a-plague-tale-innocence|A Plague Tale: Innocence|39,99€|80|2023-03-09 16h|2023-03-16 16h|
+|13|a-plague-tale-requiem|A Plague Tale: Requiem|49,99€|35|2023-03-09 16h|2023-03-16 16h|
 |14|a-space-for-the-unbound-57e666|A Space for the Unbound|15,99€|20|2023-03-16 17h|2023-03-26 17h|
 |15|a-tale-of-paper-refolded-edition-39dd94|A Tale of Paper: Refolded|15,99€|35|2023-03-09 16h|2023-03-16 16h|
 |16|a-total-war-saga-troy|A Total War Saga: TROY|49,99€|50|2023-03-09 16h|2023-03-16 16h|
@@ -34,7 +34,7 @@
 |32|against-the-storm|Against the Storm|19,99€|20|2023-03-09 16h|2023-03-16 16h|
 |33|airborne-kingdom|Airborne Kingdom|20,99€|50|2023-03-09 16h|2023-03-16 16h|
 |34|alan-wake|Alan Wake|12,49€|70|2023-03-09 16h|2023-03-16 16h|
-|35|alan-wake-remastered|Alan Wake Remastered|29,99€|55|2023-03-09 16h|2023-03-16 16h|
+|35|alan-wake-remastered|Alan Wake Remastered|29,99€|55|2023-03-28 15h|2023-04-04 15h|
 |36|alan-wake-american-nightmare|Alan Wake’s American Nightmare|6,99€|70|2023-03-09 16h|2023-03-16 16h|
 |37|alex-kidd-in-miracle-world-dx|Alex Kidd in Miracle World DX|19,99€|70|2023-03-09 16h|2023-03-16 16h|
 |38|alien-isolation|Alien: Isolation|39,99€|80|2023-03-09 16h|2023-03-16 16h|
@@ -99,7 +99,7 @@
 |97|bite-the-bullet-22fa1f|Bite the Bullet|11,99€|75|2023-03-09 16h|2023-03-16 16h|
 |98|black-book|Black Book|24,99€|50|2023-03-09 16h|2023-03-16 16h|
 |99|blair-witch|Blair Witch|29,99€|75|2023-03-09 16h|2023-03-16 16h|
-|100|blanc-703b40|Blanc|14,99€|33|2023-03-09 16h|2023-03-16 16h|
+|100|blanc-703b40|Blanc|14,99€|20|2023-03-09 16h|2023-03-16 16h|
 |101|blazing-beaks-3d4864|Blazing Beaks|11,99€|75|2023-03-09 16h|2023-03-16 16h|
 |102|blind-fate-edo-no-yami-87e748|Blind Fate: Edo no Yami|15,99€|35|2023-03-09 16h|2023-03-16 16h|
 |103|blood-and-zombies-4273b6|Blood and Zombies|14,99€|50|2023-03-09 16h|2023-03-16 16h|
@@ -276,8 +276,8 @@
 |274|fell-seal-arbiters-mark|Fell Seal: Arbiter's Mark|29,99€|75|2023-03-09 16h|2023-03-16 16h|
 |275|figment|Figment|19,99€|95|2023-03-09 16h|2023-03-16 16h|
 |276|figment|Figment|19,99€|95|2023-03-16 15h|2023-04-09 15h|
-|277|figment2-creed-valley|Figment 2: Creed Valley|0,00€|33|2023-03-09 17h|2023-04-08 16h|
-|278|figment2-creed-valley|Figment 2: Creed Valley|0,00€|15|2023-03-09 17h|2023-04-08 16h|
+|277|figment2-creed-valley|Figment 2: Creed Valley|24,99€|33|2023-03-09 17h|2023-04-08 16h|
+|278|figment2-creed-valley|Figment 2: Creed Valley|24,99€|15|2023-03-09 17h|2023-04-08 16h|
 |279|filament-332a92|Filament|16,99€|70|2023-03-09 16h|2023-03-16 16h|
 |280|fire-44c606|Fire: Ungh’s Quest|9,99€|90|2023-03-09 16h|2023-03-16 16h|
 |281|firegirl-29bf39|Firegirl: Hack 'n Splash Rescue DX|17,99€|55|2023-03-09 16h|2023-03-16 16h|
@@ -324,7 +324,7 @@
 |322|godstrike-dad86e|Godstrike|11,99€|67|2023-03-09 16h|2023-03-16 16h|
 |323|gone-home|Gone Home|11,99€|60|2023-03-09 16h|2023-03-16 16h|
 |324|gone-viral-c60635|Gone Viral|15,99€|50|2023-03-09 16h|2023-03-16 16h|
-|325|good-company|Good Company|22,99€|20|2023-03-09 16h|2023-03-16 16h|
+|325|good-company|Good Company|22,99€|25|2023-03-28 15h|2023-04-04 15h|
 |326|gorogoa|Gorogoa|13,99€|70|2023-03-09 16h|2023-03-16 16h|
 |327|gotham-knights|Gotham Knights|59,99€|60|2023-03-09 16h|2023-03-16 16h|
 |328|grand-theft-auto-v|Grand Theft Auto V: Premium Edition|29,99€|50|2023-03-09 16h|2023-03-16 16h|
@@ -337,7 +337,7 @@
 |335|hot-wheels-unleashed|HOT WHEELS UNLEASHED™|49,99€|75|2023-03-09 16h|2023-03-16 16h|
 |336|humankind|HUMANKIND™ Standard Edition|49,99€|66|2023-03-09 16h|2023-03-16 16h|
 |337|haimrik-5f59a7|Haimrik|9,99€|90|2023-03-09 16h|2023-03-16 16h|
-|338|hardspace-shipbreaker|Hardspace: Shipbreaker|34,99€|33|2023-03-09 16h|2023-03-16 16h|
+|338|hardspace-shipbreaker|Hardspace: Shipbreaker|34,99€|35|2023-03-09 16h|2023-03-16 16h|
 |339|haven|Haven|24,99€|50|2023-03-09 16h|2023-03-16 16h|
 |340|heavy-rain|Heavy Rain|19,90€|50|2023-03-09 16h|2023-03-16 16h|
 |341|hell-pie-edc41f|Hell Pie|24,99€|30|2023-03-09 16h|2023-03-16 16h|
@@ -460,7 +460,7 @@
 |458|maritime-calling-636728|Maritime Calling|11,99€|50|2023-03-09 16h|2023-03-16 16h|
 |459|maritime-calling-636728|Maritime Calling|11,99€|50|2023-03-27 13h|2023-04-03 13h|
 |460|mars-base-a00ce0|Mars Base|19,99€|50|2023-03-09 16h|2023-03-16 16h|
-|461|mars-horizon|Mars Horizon|15,99€|67|2023-03-09 16h|2023-03-16 16h|
+|461|mars-horizon|Mars Horizon|15,99€|67|2023-03-28 15h|2023-04-04 15h|
 |462|martha-is-dead|Martha Is Dead|29,99€|30|2023-03-09 16h|2023-03-16 16h|
 |463|marvels-midnight-suns|Marvel's Midnight Suns|59,99€|50|2023-03-09 16h|2023-03-16 16h|
 |464|marvels-spider-man-remastered|Marvel's Spider-Man Remastered|59,99€|33|2023-03-09 16h|2023-03-16 16h|
@@ -491,7 +491,7 @@
 |489|motogp-21|MotoGP™21|39,99€|85|2023-03-09 16h|2023-03-16 16h|
 |490|mudrunner|MudRunner|19,99€|80|2023-03-09 16h|2023-03-16 16h|
 |491|murder-is-game-over-255da8|Murder Is Game Over|3,99€|25|2023-03-09 16h|2023-03-16 16h|
-|492|murder-by-numbers|Murder by Numbers|12,49€|66|2023-03-09 16h|2023-03-16 16h|
+|492|murder-by-numbers|Murder by Numbers|12,49€|70|2023-03-28 15h|2023-04-04 15h|
 |493|mutant-year-zero|Mutant Year Zero: Road to Eden|34,99€|70|2023-03-09 16h|2023-03-16 16h|
 |494|mutazione|Mutazione|17,99€|55|2023-03-09 16h|2023-03-16 16h|
 |495|my-fantastic-ranch|My Fantastic Ranch|29,99€|50|2023-03-09 16h|2023-03-16 16h|
@@ -533,8 +533,8 @@
 |531|outward|Outward Definitive Edition|39,99€|65|2023-03-09 16h|2023-03-16 16h|
 |532|overloop-f572c8|Overloop|9,99€|35|2023-03-09 16h|2023-03-16 16h|
 |533|oxygen-not-included|Oxygen Not Included|22,99€|66|2023-03-09 16h|2023-03-16 16h|
-|534|pc-building-simulator|PC Building Simulator|15,99€|75|2023-03-09 16h|2023-03-16 16h|
-|535|pc-building-simulator-2|PC Building Simulator 2|24,99€|15|2023-03-09 16h|2023-03-16 16h|
+|534|pc-building-simulator|PC Building Simulator|15,99€|80|2023-03-28 15h|2023-04-04 15h|
+|535|pc-building-simulator-2|PC Building Simulator 2|24,99€|15|2023-03-28 15h|2023-04-04 15h|
 |536|perish-390141|PERISH|19,99€|10|2023-03-09 16h|2023-03-16 16h|
 |537|paladin-dream-5d04e2|Paladin Dream|3,99€|60|2023-03-09 16h|2023-03-16 16h|
 |538|panzer-corps-2|Panzer Corps 2|31,99€|50|2023-03-09 16h|2023-03-16 16h|
@@ -559,7 +559,7 @@
 |557|q-u-b-e-2|Q.U.B.E. 2|24,99€|20|2023-03-09 16h|2023-03-16 16h|
 |558|quake|Quake|9,99€|60|2023-03-09 16h|2023-03-16 16h|
 |559|r-type-final-2|R-Type Final 2|39,99€|40|2023-03-09 16h|2023-03-16 16h|
-|560|railgrade|RAILGRADE|19,99€|20|2023-03-09 16h|2023-03-16 16h|
+|560|railgrade|RAILGRADE|19,99€|25|2023-03-28 15h|2023-04-04 15h|
 |561|rayman-legends|RAYMAN® LEGENDS|19,99€|75|2023-03-09 16h|2023-03-16 16h|
 |562|replikator-6adddc|REPLIKATOR|9,99€|40|2023-03-09 16h|2023-03-16 16h|
 |563|rez-plz-324485|REZ PLZ|11,99€|75|2023-03-09 16h|2023-03-16 16h|
@@ -718,7 +718,7 @@
 |716|system-purge-9ab7b7|System Purge|3,99€|25|2023-03-09 16h|2023-03-16 16h|
 |717|terracotta-72cc62|TERRACOTTA|19,99€|35|2023-03-09 16h|2023-03-16 16h|
 |718|toem|TOEM|15,99€|66|2023-03-16 14h|2023-03-23 14h|
-|719|tohu|TOHU|12,99€|50|2023-03-09 16h|2023-03-16 16h|
+|719|tohu|TOHU|12,99€|50|2023-03-28 15h|2023-04-04 15h|
 |720|tacoma|Tacoma|16,99€|70|2023-03-09 16h|2023-03-16 16h|
 |721|tails-of-iron-587abd|Tails of Iron|24,99€|60|2023-03-09 16h|2023-03-16 16h|
 |722|tales-from-the-borderlands|Tales from the Borderlands|19,99€|25|2023-03-09 16h|2023-03-16 16h|
@@ -834,16 +834,16 @@
 |832|total-war-warhammer|Total War: WARHAMMER|59,99€|75|2023-03-09 16h|2023-03-16 16h|
 |833|total-war-warhammer-ii|Total War: WARHAMMER II|59,99€|66|2023-03-09 16h|2023-03-16 16h|
 |834|total-war-warhammer-3|Total War: WARHAMMER III|59,99€|33|2023-03-09 16h|2023-03-16 16h|
-|835|tour-de-france-2022-8bb5fb|Tour de France 2022|39,99€|55|2023-03-09 16h|2023-03-16 16h|
-|836|tower-of-guns|Tower of Guns|13,99€|60|2023-03-09 16h|2023-03-16 16h|
-|837|towerfall-ascension|TowerFall Ascension|15,99€|80|2023-03-09 16h|2023-03-16 16h|
-|838|townscaper|Townscaper|5,99€|30|2023-03-09 16h|2023-03-16 16h|
-|839|townsmen-a-kingdom-rebuilt-07c09d|Townsmen - A Kingdom Rebuilt|19,98€|60|2023-03-09 16h|2023-03-16 16h|
-|840|trackmania-turbo|Trackmania Turbo|39,99€|50|2023-03-09 16h|2023-03-16 16h|
-|841|train-life|Train Life: A Railway Simulator|19,99€|50|2023-03-09 16h|2023-03-16 16h|
-|842|train-valley-ead642|Train Valley|7,99€|50|2023-03-09 16h|2023-03-16 16h|
-|843|train-valley-2-3606da|Train Valley 2|13,49€|65|2023-03-09 16h|2023-03-16 16h|
-|844|transport-fever-2|Transport Fever 2|39,99€|50|2023-03-09 09h|2023-03-16 08h|
+|835|touch-type-tale|Touch Type Tale|19,99€|10|2023-03-28 15h|2023-04-04 15h|
+|836|tour-de-france-2022-8bb5fb|Tour de France 2022|39,99€|55|2023-03-09 16h|2023-03-16 16h|
+|837|tower-of-guns|Tower of Guns|13,99€|60|2023-03-09 16h|2023-03-16 16h|
+|838|towerfall-ascension|TowerFall Ascension|15,99€|80|2023-03-09 16h|2023-03-16 16h|
+|839|townscaper|Townscaper|5,99€|30|2023-03-09 16h|2023-03-16 16h|
+|840|townsmen-a-kingdom-rebuilt-07c09d|Townsmen - A Kingdom Rebuilt|19,98€|60|2023-03-09 16h|2023-03-16 16h|
+|841|trackmania-turbo|Trackmania Turbo|39,99€|50|2023-03-09 16h|2023-03-16 16h|
+|842|train-life|Train Life: A Railway Simulator|19,99€|50|2023-03-09 16h|2023-03-16 16h|
+|843|train-valley-ead642|Train Valley|7,99€|50|2023-03-09 16h|2023-03-16 16h|
+|844|train-valley-2-3606da|Train Valley 2|13,49€|65|2023-03-09 16h|2023-03-16 16h|
 |845|travellers-rest-c115d1|Travellers Rest|13,99€|20|2023-03-09 16h|2023-03-16 16h|
 |846|trek-to-yomi-70d134|Trek to Yomi|15,99€|50|2023-03-09 16h|2023-03-16 16h|
 |847|trials-evolution|Trials Evolution: Gold Edition|19,99€|75|2023-03-09 16h|2023-03-16 16h|
