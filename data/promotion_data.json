@@ -180,7 +180,7 @@
     "title": "A Musical Story"
   },
   {
-    "discountPercentage": 36,
+    "discountPercentage": 45,
     "endDate": "2023-03-16T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 6999,
@@ -189,16 +189,7 @@
     "title": "A Plague Tale Bundle"
   },
   {
-    "discountPercentage": 36,
-    "endDate": "2023-03-16T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 6999,
-    "slug": "a-plague-tale-bundle",
-    "startDate": "2023-03-09T16:00:00.000Z",
-    "title": "A Plague Tale Bundle"
-  },
-  {
-    "discountPercentage": 75,
+    "discountPercentage": 80,
     "endDate": "2023-03-16T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 3999,
@@ -207,25 +198,7 @@
     "title": "A Plague Tale: Innocence"
   },
   {
-    "discountPercentage": 75,
-    "endDate": "2023-03-16T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "a-plague-tale-innocence",
-    "startDate": "2023-03-09T16:00:00.000Z",
-    "title": "A Plague Tale: Innocence"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2023-03-16T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 4999,
-    "slug": "a-plague-tale-requiem",
-    "startDate": "2023-03-09T16:00:00.000Z",
-    "title": "A Plague Tale: Requiem"
-  },
-  {
-    "discountPercentage": 30,
+    "discountPercentage": 35,
     "endDate": "2023-03-16T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 4999,
@@ -595,20 +568,11 @@
   },
   {
     "discountPercentage": 55,
-    "endDate": "2023-03-16T16:00:00.000Z",
+    "endDate": "2023-04-04T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 2999,
     "slug": "alan-wake-remastered",
-    "startDate": "2023-03-09T16:00:00.000Z",
-    "title": "Alan Wake Remastered"
-  },
-  {
-    "discountPercentage": 55,
-    "endDate": "2023-03-16T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "alan-wake-remastered",
-    "startDate": "2023-03-09T16:00:00.000Z",
+    "startDate": "2023-03-28T15:00:00.000Z",
     "title": "Alan Wake Remastered"
   },
   {
@@ -1764,16 +1728,7 @@
     "title": "Blair Witch"
   },
   {
-    "discountPercentage": 33,
-    "endDate": "2023-03-16T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "blanc-703b40",
-    "startDate": "2023-03-09T16:00:00.000Z",
-    "title": "Blanc"
-  },
-  {
-    "discountPercentage": 33,
+    "discountPercentage": 20,
     "endDate": "2023-03-16T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1499,
@@ -4854,7 +4809,7 @@
     "discountPercentage": 33,
     "endDate": "2023-04-08T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": 0,
+    "originalPrice": 2499,
     "slug": "figment2-creed-valley",
     "startDate": "2023-03-09T17:00:00.000Z",
     "title": "Figment 2: Creed Valley"
@@ -4863,7 +4818,7 @@
     "discountPercentage": 15,
     "endDate": "2023-04-08T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": 0,
+    "originalPrice": 2499,
     "slug": "figment2-creed-valley",
     "startDate": "2023-03-09T17:00:00.000Z",
     "title": "Figment 2: Creed Valley"
@@ -5652,21 +5607,12 @@
     "title": "Gone Viral"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2023-03-16T16:00:00.000Z",
+    "discountPercentage": 25,
+    "endDate": "2023-04-04T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 2299,
     "slug": "good-company",
-    "startDate": "2023-03-09T16:00:00.000Z",
-    "title": "Good Company"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2023-03-16T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2299,
-    "slug": "good-company",
-    "startDate": "2023-03-09T16:00:00.000Z",
+    "startDate": "2023-03-28T15:00:00.000Z",
     "title": "Good Company"
   },
   {
@@ -5877,16 +5823,7 @@
     "title": "Haimrik"
   },
   {
-    "discountPercentage": 33,
-    "endDate": "2023-03-16T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3499,
-    "slug": "hardspace-shipbreaker",
-    "startDate": "2023-03-09T16:00:00.000Z",
-    "title": "Hardspace: Shipbreaker"
-  },
-  {
-    "discountPercentage": 33,
+    "discountPercentage": 35,
     "endDate": "2023-03-16T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 3499,
@@ -8002,20 +7939,11 @@
   },
   {
     "discountPercentage": 67,
-    "endDate": "2023-03-16T16:00:00.000Z",
+    "endDate": "2023-04-04T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1599,
     "slug": "mars-horizon",
-    "startDate": "2023-03-09T16:00:00.000Z",
-    "title": "Mars Horizon"
-  },
-  {
-    "discountPercentage": 67,
-    "endDate": "2023-03-16T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1599,
-    "slug": "mars-horizon",
-    "startDate": "2023-03-09T16:00:00.000Z",
+    "startDate": "2023-03-28T15:00:00.000Z",
     "title": "Mars Horizon"
   },
   {
@@ -8541,21 +8469,12 @@
     "title": "Murder Is Game Over"
   },
   {
-    "discountPercentage": 66,
-    "endDate": "2023-03-16T16:00:00.000Z",
+    "discountPercentage": 70,
+    "endDate": "2023-04-04T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1249,
     "slug": "murder-by-numbers",
-    "startDate": "2023-03-09T16:00:00.000Z",
-    "title": "Murder by Numbers"
-  },
-  {
-    "discountPercentage": 66,
-    "endDate": "2023-03-16T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1249,
-    "slug": "murder-by-numbers",
-    "startDate": "2023-03-09T16:00:00.000Z",
+    "startDate": "2023-03-28T15:00:00.000Z",
     "title": "Murder by Numbers"
   },
   {
@@ -9252,39 +9171,21 @@
     "title": "Oxygen Not Included"
   },
   {
-    "discountPercentage": 75,
-    "endDate": "2023-03-16T16:00:00.000Z",
+    "discountPercentage": 80,
+    "endDate": "2023-04-04T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1599,
     "slug": "pc-building-simulator",
-    "startDate": "2023-03-09T16:00:00.000Z",
-    "title": "PC Building Simulator"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-03-16T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1599,
-    "slug": "pc-building-simulator",
-    "startDate": "2023-03-09T16:00:00.000Z",
+    "startDate": "2023-03-28T15:00:00.000Z",
     "title": "PC Building Simulator"
   },
   {
     "discountPercentage": 15,
-    "endDate": "2023-03-16T16:00:00.000Z",
+    "endDate": "2023-04-04T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 2499,
     "slug": "pc-building-simulator-2",
-    "startDate": "2023-03-09T16:00:00.000Z",
-    "title": "PC Building Simulator 2"
-  },
-  {
-    "discountPercentage": 15,
-    "endDate": "2023-03-16T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2499,
-    "slug": "pc-building-simulator-2",
-    "startDate": "2023-03-09T16:00:00.000Z",
+    "startDate": "2023-03-28T15:00:00.000Z",
     "title": "PC Building Simulator 2"
   },
   {
@@ -9693,21 +9594,12 @@
     "title": "R-Type Final 2"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2023-03-16T16:00:00.000Z",
+    "discountPercentage": 25,
+    "endDate": "2023-04-04T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1999,
     "slug": "railgrade",
-    "startDate": "2023-03-09T16:00:00.000Z",
-    "title": "RAILGRADE"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2023-03-16T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "railgrade",
-    "startDate": "2023-03-09T16:00:00.000Z",
+    "startDate": "2023-03-28T15:00:00.000Z",
     "title": "RAILGRADE"
   },
   {
@@ -12466,20 +12358,11 @@
   },
   {
     "discountPercentage": 50,
-    "endDate": "2023-03-16T16:00:00.000Z",
+    "endDate": "2023-04-04T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1299,
     "slug": "tohu",
-    "startDate": "2023-03-09T16:00:00.000Z",
-    "title": "TOHU"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2023-03-16T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1299,
-    "slug": "tohu",
-    "startDate": "2023-03-09T16:00:00.000Z",
+    "startDate": "2023-03-28T15:00:00.000Z",
     "title": "TOHU"
   },
   {
@@ -14544,6 +14427,15 @@
     "title": "Total War: WARHAMMER III"
   },
   {
+    "discountPercentage": 10,
+    "endDate": "2023-04-04T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "touch-type-tale",
+    "startDate": "2023-03-28T15:00:00.000Z",
+    "title": "Touch Type Tale"
+  },
+  {
     "discountPercentage": 55,
     "endDate": "2023-03-16T16:00:00.000Z",
     "isFree": false,
@@ -14695,15 +14587,6 @@
     "slug": "train-valley-2-3606da",
     "startDate": "2023-03-09T16:00:00.000Z",
     "title": "Train Valley 2"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2023-03-16T08:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "transport-fever-2",
-    "startDate": "2023-03-09T09:00:00.000Z",
-    "title": "Transport Fever 2"
   },
   {
     "discountPercentage": 20,

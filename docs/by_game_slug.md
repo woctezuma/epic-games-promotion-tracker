@@ -11,9 +11,9 @@
 |9|a-knights-quest|A Knights Quest|24,99€|90|2023-03-09 16h|2023-03-16 16h|
 |10|a-monsters-expedition|A Monster's Expedition|15,99€|40|2023-03-09 16h|2023-03-16 16h|
 |11|a-musical-story-973128|A Musical Story|11,99€|35|2023-03-09 16h|2023-03-16 16h|
-|12|a-plague-tale-bundle|A Plague Tale Bundle|69,99€|36|2023-03-09 16h|2023-03-16 16h|
-|13|a-plague-tale-innocence|A Plague Tale: Innocence|39,99€|75|2023-03-09 16h|2023-03-16 16h|
-|14|a-plague-tale-requiem|A Plague Tale: Requiem|49,99€|30|2023-03-09 16h|2023-03-16 16h|
+|12|a-plague-tale-bundle|A Plague Tale Bundle|69,99€|45|2023-03-09 16h|2023-03-16 16h|
+|13|a-plague-tale-innocence|A Plague Tale: Innocence|39,99€|80|2023-03-09 16h|2023-03-16 16h|
+|14|a-plague-tale-requiem|A Plague Tale: Requiem|49,99€|35|2023-03-09 16h|2023-03-16 16h|
 |15|a-space-for-the-unbound-57e666|A Space for the Unbound|15,99€|20|2023-03-16 17h|2023-03-26 17h|
 |16|a-tale-of-paper-refolded-edition-39dd94|A Tale of Paper: Refolded|15,99€|35|2023-03-09 16h|2023-03-16 16h|
 |17|a-total-war-saga-troy|A Total War Saga: TROY|49,99€|50|2023-03-09 16h|2023-03-16 16h|
@@ -29,7 +29,7 @@
 |27|airborne-kingdom|Airborne Kingdom|20,99€|50|2023-03-09 16h|2023-03-16 16h|
 |28|alan-wake|Alan Wake|12,49€|70|2023-03-09 16h|2023-03-16 16h|
 |29|alan-wake-american-nightmare|Alan Wake’s American Nightmare|6,99€|70|2023-03-09 16h|2023-03-16 16h|
-|30|alan-wake-remastered|Alan Wake Remastered|29,99€|55|2023-03-09 16h|2023-03-16 16h|
+|30|alan-wake-remastered|Alan Wake Remastered|29,99€|55|2023-03-28 15h|2023-04-04 15h|
 |31|alex-kidd-in-miracle-world-dx|Alex Kidd in Miracle World DX|19,99€|70|2023-03-09 16h|2023-03-16 16h|
 |32|alien-isolation|Alien: Isolation|39,99€|80|2023-03-09 16h|2023-03-16 16h|
 |33|ancestors|Ancestors: The Humankind Odyssey|39,99€|75|2023-03-09 16h|2023-03-16 16h|
@@ -100,7 +100,7 @@
 |98|black-book|Black Book|24,99€|50|2023-03-09 16h|2023-03-16 16h|
 |99|blacktail|BLACKTAIL|29,99€|20|2023-03-09 16h|2023-03-16 16h|
 |100|blair-witch|Blair Witch|29,99€|75|2023-03-09 16h|2023-03-16 16h|
-|101|blanc-703b40|Blanc|14,99€|33|2023-03-09 16h|2023-03-16 16h|
+|101|blanc-703b40|Blanc|14,99€|20|2023-03-09 16h|2023-03-16 16h|
 |102|blazing-beaks-3d4864|Blazing Beaks|11,99€|75|2023-03-09 16h|2023-03-16 16h|
 |103|blind-fate-edo-no-yami-87e748|Blind Fate: Edo no Yami|15,99€|35|2023-03-09 16h|2023-03-16 16h|
 |104|blood-and-zombies-4273b6|Blood and Zombies|14,99€|50|2023-03-09 16h|2023-03-16 16h|
@@ -273,8 +273,8 @@
 |271|fifa-23|EA SPORTS™ FIFA 23 Standard Edition|69,99€|50|2023-03-09 16h|2023-03-16 16h|
 |272|figment|Figment|19,99€|95|2023-03-09 16h|2023-03-16 16h|
 |273|figment|Figment|19,99€|95|2023-03-16 15h|2023-04-09 15h|
-|274|figment2-creed-valley|Figment 2: Creed Valley|0,00€|33|2023-03-09 17h|2023-04-08 16h|
-|275|figment2-creed-valley|Figment 2: Creed Valley|0,00€|15|2023-03-09 17h|2023-04-08 16h|
+|274|figment2-creed-valley|Figment 2: Creed Valley|24,99€|33|2023-03-09 17h|2023-04-08 16h|
+|275|figment2-creed-valley|Figment 2: Creed Valley|24,99€|15|2023-03-09 17h|2023-04-08 16h|
 |276|filament-332a92|Filament|16,99€|70|2023-03-09 16h|2023-03-16 16h|
 |277|final-fantasy-vii-remake-intergrade|FINAL FANTASY VII REMAKE INTERGRADE|79,99€|43|2023-03-27 15h|2023-04-03 16h|
 |278|fire-44c606|Fire: Ungh’s Quest|9,99€|90|2023-03-09 16h|2023-03-16 16h|
@@ -324,7 +324,7 @@
 |322|gone-home|Gone Home|11,99€|60|2023-03-09 16h|2023-03-16 16h|
 |323|gone-viral-c60635|Gone Viral|15,99€|50|2023-03-09 16h|2023-03-16 16h|
 |324|gonner|GoNNER|9,99€|80|2023-03-09 16h|2023-03-16 16h|
-|325|good-company|Good Company|22,99€|20|2023-03-09 16h|2023-03-16 16h|
+|325|good-company|Good Company|22,99€|25|2023-03-28 15h|2023-04-04 15h|
 |326|gorogoa|Gorogoa|13,99€|70|2023-03-09 16h|2023-03-16 16h|
 |327|gotham-knights|Gotham Knights|59,99€|60|2023-03-09 16h|2023-03-16 16h|
 |328|grand-theft-auto-the-trilogy-the-definitive-edition|Grand Theft Auto: The Trilogy – The Definitive Edition|59,99€|50|2023-03-09 16h|2023-03-16 16h|
@@ -336,7 +336,7 @@
 |334|guardians-of-hyelore-0b07d3|Guardians of Hyelore|15,99€|75|2023-03-09 16h|2023-03-16 16h|
 |335|guild-of-dungeoneering-ultimate-edition|Guild of Dungeoneering Ultimate Edition|19,99€|40|2023-03-09 16h|2023-03-16 16h|
 |336|haimrik-5f59a7|Haimrik|9,99€|90|2023-03-09 16h|2023-03-16 16h|
-|337|hardspace-shipbreaker|Hardspace: Shipbreaker|34,99€|33|2023-03-09 16h|2023-03-16 16h|
+|337|hardspace-shipbreaker|Hardspace: Shipbreaker|34,99€|35|2023-03-09 16h|2023-03-16 16h|
 |338|haven|Haven|24,99€|50|2023-03-09 16h|2023-03-16 16h|
 |339|heavy-rain|Heavy Rain|19,90€|50|2023-03-09 16h|2023-03-16 16h|
 |340|hell-pie-edc41f|Hell Pie|24,99€|30|2023-03-09 16h|2023-03-16 16h|
@@ -466,7 +466,7 @@
 |464|maritime-calling-636728|Maritime Calling|11,99€|50|2023-03-09 16h|2023-03-16 16h|
 |465|maritime-calling-636728|Maritime Calling|11,99€|50|2023-03-27 13h|2023-04-03 13h|
 |466|mars-base-a00ce0|Mars Base|19,99€|50|2023-03-09 16h|2023-03-16 16h|
-|467|mars-horizon|Mars Horizon|15,99€|67|2023-03-09 16h|2023-03-16 16h|
+|467|mars-horizon|Mars Horizon|15,99€|67|2023-03-28 15h|2023-04-04 15h|
 |468|martha-is-dead|Martha Is Dead|29,99€|30|2023-03-09 16h|2023-03-16 16h|
 |469|marvels-midnight-suns|Marvel's Midnight Suns|59,99€|50|2023-03-09 16h|2023-03-16 16h|
 |470|marvels-spider-man-miles-morales|Marvel’s Spider-Man: Miles Morales|49,99€|33|2023-03-09 16h|2023-03-16 16h|
@@ -499,7 +499,7 @@
 |497|mothergunship|Mothergunship|23,99€|60|2023-03-09 16h|2023-03-16 16h|
 |498|motogp-21|MotoGP™21|39,99€|85|2023-03-09 16h|2023-03-16 16h|
 |499|mudrunner|MudRunner|19,99€|80|2023-03-09 16h|2023-03-16 16h|
-|500|murder-by-numbers|Murder by Numbers|12,49€|66|2023-03-09 16h|2023-03-16 16h|
+|500|murder-by-numbers|Murder by Numbers|12,49€|70|2023-03-28 15h|2023-04-04 15h|
 |501|murder-is-game-over-255da8|Murder Is Game Over|3,99€|25|2023-03-09 16h|2023-03-16 16h|
 |502|mutant-year-zero|Mutant Year Zero: Road to Eden|34,99€|70|2023-03-09 16h|2023-03-16 16h|
 |503|mutazione|Mutazione|17,99€|55|2023-03-09 16h|2023-03-16 16h|
@@ -551,8 +551,8 @@
 |549|partisans-1941|Partisans 1941|39,99€|75|2023-03-09 16h|2023-03-16 16h|
 |550|pathfinder-kingmaker|Pathfinder: Kingmaker - Enhanced Plus Edition|19,99€|70|2023-03-09 16h|2023-03-16 16h|
 |551|pathfinder-wrath-of-the-righteous|Pathfinder: Wrath of the Righteous - Enhanced Edition|49,99€|70|2023-03-09 16h|2023-03-16 16h|
-|552|pc-building-simulator|PC Building Simulator|15,99€|75|2023-03-09 16h|2023-03-16 16h|
-|553|pc-building-simulator-2|PC Building Simulator 2|24,99€|15|2023-03-09 16h|2023-03-16 16h|
+|552|pc-building-simulator|PC Building Simulator|15,99€|80|2023-03-28 15h|2023-04-04 15h|
+|553|pc-building-simulator-2|PC Building Simulator 2|24,99€|15|2023-03-28 15h|2023-04-04 15h|
 |554|perish-390141|PERISH|19,99€|10|2023-03-09 16h|2023-03-16 16h|
 |555|phoenix-point|Phoenix Point: Complete Edition|23,99€|25|2023-03-09 16h|2023-03-16 16h|
 |556|pikuniku|Pikuniku|12,99€|75|2023-03-09 16h|2023-03-16 16h|
@@ -572,7 +572,7 @@
 |570|rad-rodgers-radical-edition-8f66a7|Rad Rodgers - Radical Edition|19,99€|80|2023-03-09 16h|2023-03-16 16h|
 |571|radioactive-dwarfs-evil-from-the-sewers-b43f18|Radioactive Dwarfs - Evil From The Sewers|3,99€|50|2023-03-09 16h|2023-03-16 16h|
 |572|rage-2|Rage 2|39,99€|75|2023-03-09 16h|2023-03-16 16h|
-|573|railgrade|RAILGRADE|19,99€|20|2023-03-09 16h|2023-03-16 16h|
+|573|railgrade|RAILGRADE|19,99€|25|2023-03-28 15h|2023-04-04 15h|
 |574|railway-empire|Railway Empire|29,99€|70|2023-03-09 16h|2023-03-16 16h|
 |575|rain-world-4c860c|Rain World|22,39€|55|2023-03-09 16h|2023-03-16 16h|
 |576|rainbow-billy-the-curse-of-the-leviathan|Rainbow Billy: The Curse of the Leviathan|17,99€|75|2023-03-09 16h|2023-03-16 16h|
@@ -820,7 +820,7 @@
 |818|to-the-rescue-a6c254|To The Rescue|15,99€|60|2023-03-09 16h|2023-03-16 16h|
 |819|toem|TOEM|15,99€|66|2023-03-16 14h|2023-03-23 14h|
 |820|togges-17f696|Togges|19,99€|20|2023-03-09 16h|2023-03-16 16h|
-|821|tohu|TOHU|12,99€|50|2023-03-09 16h|2023-03-16 16h|
+|821|tohu|TOHU|12,99€|50|2023-03-28 15h|2023-04-04 15h|
 |822|tony-hawks-pro-skater-1-and-2|Tony Hawk's™ Pro Skater™ 1 + 2|44,99€|60|2023-03-09 16h|2023-03-16 16h|
 |823|torchlight|Torchlight|11,99€|50|2023-03-09 16h|2023-03-16 16h|
 |824|torchlight-2|Torchlight II|18,99€|65|2023-03-09 16h|2023-03-16 16h|
@@ -830,16 +830,16 @@
 |828|total-war-warhammer|Total War: WARHAMMER|59,99€|75|2023-03-09 16h|2023-03-16 16h|
 |829|total-war-warhammer-3|Total War: WARHAMMER III|59,99€|33|2023-03-09 16h|2023-03-16 16h|
 |830|total-war-warhammer-ii|Total War: WARHAMMER II|59,99€|66|2023-03-09 16h|2023-03-16 16h|
-|831|tour-de-france-2022-8bb5fb|Tour de France 2022|39,99€|55|2023-03-09 16h|2023-03-16 16h|
-|832|tower-of-guns|Tower of Guns|13,99€|60|2023-03-09 16h|2023-03-16 16h|
-|833|towerfall-ascension|TowerFall Ascension|15,99€|80|2023-03-09 16h|2023-03-16 16h|
-|834|townscaper|Townscaper|5,99€|30|2023-03-09 16h|2023-03-16 16h|
-|835|townsmen-a-kingdom-rebuilt-07c09d|Townsmen - A Kingdom Rebuilt|19,98€|60|2023-03-09 16h|2023-03-16 16h|
-|836|trackmania-turbo|Trackmania Turbo|39,99€|50|2023-03-09 16h|2023-03-16 16h|
-|837|train-life|Train Life: A Railway Simulator|19,99€|50|2023-03-09 16h|2023-03-16 16h|
-|838|train-valley-2-3606da|Train Valley 2|13,49€|65|2023-03-09 16h|2023-03-16 16h|
-|839|train-valley-ead642|Train Valley|7,99€|50|2023-03-09 16h|2023-03-16 16h|
-|840|transport-fever-2|Transport Fever 2|39,99€|50|2023-03-09 09h|2023-03-16 08h|
+|831|touch-type-tale|Touch Type Tale|19,99€|10|2023-03-28 15h|2023-04-04 15h|
+|832|tour-de-france-2022-8bb5fb|Tour de France 2022|39,99€|55|2023-03-09 16h|2023-03-16 16h|
+|833|tower-of-guns|Tower of Guns|13,99€|60|2023-03-09 16h|2023-03-16 16h|
+|834|towerfall-ascension|TowerFall Ascension|15,99€|80|2023-03-09 16h|2023-03-16 16h|
+|835|townscaper|Townscaper|5,99€|30|2023-03-09 16h|2023-03-16 16h|
+|836|townsmen-a-kingdom-rebuilt-07c09d|Townsmen - A Kingdom Rebuilt|19,98€|60|2023-03-09 16h|2023-03-16 16h|
+|837|trackmania-turbo|Trackmania Turbo|39,99€|50|2023-03-09 16h|2023-03-16 16h|
+|838|train-life|Train Life: A Railway Simulator|19,99€|50|2023-03-09 16h|2023-03-16 16h|
+|839|train-valley-2-3606da|Train Valley 2|13,49€|65|2023-03-09 16h|2023-03-16 16h|
+|840|train-valley-ead642|Train Valley|7,99€|50|2023-03-09 16h|2023-03-16 16h|
 |841|travellers-rest-c115d1|Travellers Rest|13,99€|20|2023-03-09 16h|2023-03-16 16h|
 |842|trek-to-yomi-70d134|Trek to Yomi|15,99€|50|2023-03-09 16h|2023-03-16 16h|
 |843|trials-evolution|Trials Evolution: Gold Edition|19,99€|75|2023-03-09 16h|2023-03-16 16h|
