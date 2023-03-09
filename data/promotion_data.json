@@ -1,6 +1,15 @@
 [
   {
     "discountPercentage": 20,
+    "endDate": "2023-04-03T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "9-years-of-shadows-a40c92",
+    "startDate": "2023-03-27T16:00:00.000Z",
+    "title": "9 Years of Shadows"
+  },
+  {
+    "discountPercentage": 20,
     "endDate": "2023-03-26T17:00:00.000Z",
     "isFree": false,
     "originalPrice": 1599,
@@ -25,6 +34,15 @@
     "slug": "alan-wake-remastered",
     "startDate": "2023-03-28T15:00:00.000Z",
     "title": "Alan Wake Remastered"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-03-23T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "anno-1800",
+    "startDate": "2023-03-16T15:00:00.000Z",
+    "title": "Anno 1800 Standard Edition"
   },
   {
     "discountPercentage": 30,
@@ -63,6 +81,24 @@
     "title": "Dark Light"
   },
   {
+    "discountPercentage": 15,
+    "endDate": "2023-03-23T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "dead-space",
+    "startDate": "2023-03-16T17:00:00.000Z",
+    "title": "Dead Space"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2023-04-03T07:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2399,
+    "slug": "dust-and-neon-41b927",
+    "startDate": "2023-03-27T07:00:00.000Z",
+    "title": "Dust and Neon"
+  },
+  {
     "discountPercentage": 43,
     "endDate": "2023-04-03T16:00:00.000Z",
     "isFree": false,
@@ -81,31 +117,13 @@
     "title": "Figment"
   },
   {
-    "discountPercentage": 33,
-    "endDate": "2023-04-08T16:00:00.000Z",
+    "discountPercentage": 40,
+    "endDate": "2023-03-23T14:00:00.000Z",
     "isFree": false,
-    "originalPrice": 2499,
-    "slug": "figment2-creed-valley",
-    "startDate": "2023-03-09T17:00:00.000Z",
-    "title": "Figment 2: Creed Valley"
-  },
-  {
-    "discountPercentage": 15,
-    "endDate": "2023-04-08T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2499,
-    "slug": "figment2-creed-valley",
-    "startDate": "2023-03-09T17:00:00.000Z",
-    "title": "Figment 2: Creed Valley"
-  },
-  {
-    "discountPercentage": 33,
-    "endDate": "2023-03-23T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "football-manager-2023",
-    "startDate": "2023-03-14T15:00:00.000Z",
-    "title": "Football Manager 2023"
+    "originalPrice": 899,
+    "slug": "forklift-extreme-deluxe-edition-50689a",
+    "startDate": "2023-03-16T14:00:00.000Z",
+    "title": "Forklift Extreme - Deluxe Edition"
   },
   {
     "discountPercentage": 33,
@@ -133,6 +151,33 @@
     "slug": "good-company",
     "startDate": "2023-03-28T15:00:00.000Z",
     "title": "Good Company"
+  },
+  {
+    "discountPercentage": 15,
+    "endDate": "2023-03-23T14:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "gravewood-high",
+    "startDate": "2023-03-16T14:00:00.000Z",
+    "title": "Gravewood High"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2023-04-02T04:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "horror-tales-the-wine-3ab2b2",
+    "startDate": "2023-03-22T04:00:00.000Z",
+    "title": "HORROR TALES The Wine"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-03-28T13:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "heroines-of-swords-and-spells-0db5cd",
+    "startDate": "2023-03-21T13:00:00.000Z",
+    "title": "Heroines of Swords & Spells + Green Furies DLC"
   },
   {
     "discountPercentage": 80,
@@ -180,6 +225,15 @@
     "title": "KINGDOM HEARTS Melody of Memory"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2023-04-04T23:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "koral-63ea73",
+    "startDate": "2023-03-23T23:00:00.000Z",
+    "title": "KORAL"
+  },
+  {
     "discountPercentage": 67,
     "endDate": "2023-04-03T13:00:00.000Z",
     "isFree": false,
@@ -225,6 +279,15 @@
     "title": "NEO: The World Ends with You"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2023-03-23T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1399,
+    "slug": "nero-0011a8",
+    "startDate": "2023-03-16T15:00:00.000Z",
+    "title": "NERO"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-04-03T16:00:00.000Z",
     "isFree": false,
@@ -241,6 +304,15 @@
     "slug": "outriders",
     "startDate": "2023-03-27T15:00:00.000Z",
     "title": "OUTRIDERS"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2023-04-07T13:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "out-of-the-park-baseball-24-eb4cf8",
+    "startDate": "2023-03-24T13:00:00.000Z",
+    "title": "Out of the Park Baseball 24"
   },
   {
     "discountPercentage": 80,
@@ -297,6 +369,15 @@
     "title": "Red Ronin"
   },
   {
+    "discountPercentage": 10,
+    "endDate": "2023-04-10T14:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "smalland",
+    "startDate": "2023-03-29T14:00:00.000Z",
+    "title": "Smalland: Survive the Wilds"
+  },
+  {
     "discountPercentage": 66,
     "endDate": "2023-03-23T14:00:00.000Z",
     "isFree": false,
@@ -315,6 +396,15 @@
     "title": "TOHU"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2023-04-02T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "the-case-of-the-golden-idol-ce58f7",
+    "startDate": "2023-03-23T15:00:00.000Z",
+    "title": "The Case of the Golden Idol"
+  },
+  {
     "discountPercentage": 10,
     "endDate": "2023-04-04T15:00:00.000Z",
     "isFree": false,
@@ -322,6 +412,15 @@
     "slug": "touch-type-tale",
     "startDate": "2023-03-28T15:00:00.000Z",
     "title": "Touch Type Tale"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-04-06T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "parakacuk-22f4b2",
+    "startDate": "2023-03-30T16:00:00.000Z",
+    "title": "Troublemaker"
   },
   {
     "discountPercentage": 35,
@@ -342,15 +441,6 @@
     "title": "Upaon A Snakes Journey"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2023-03-21T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1699,
-    "slug": "vernal-edge-fdfa3e",
-    "startDate": "2023-03-14T18:00:00.000Z",
-    "title": "Vernal Edge"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2023-03-27T13:00:00.000Z",
     "isFree": false,
@@ -363,6 +453,15 @@
     "discountPercentage": 100,
     "endDate": "2023-03-23T15:00:00.000Z",
     "isFree": true,
+    "originalPrice": 3199,
+    "slug": "warhammer-40000-gladius-relics-of-war",
+    "startDate": "2023-03-16T15:00:00.000Z",
+    "title": "Warhammer 40,000: Gladius - Relics of War"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2023-03-23T15:00:00.000Z",
+    "isFree": false,
     "originalPrice": 3199,
     "slug": "warhammer-40000-gladius-relics-of-war",
     "startDate": "2023-03-16T15:00:00.000Z",
