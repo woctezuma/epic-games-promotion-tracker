@@ -36,15 +36,6 @@
     "title": "Alan Wake Remastered"
   },
   {
-    "discountPercentage": 75,
-    "endDate": "2023-03-23T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "anno-1800",
-    "startDate": "2023-03-16T15:00:00.000Z",
-    "title": "Anno 1800 Standard Edition"
-  },
-  {
     "discountPercentage": 100,
     "endDate": "2023-03-30T15:00:00.000Z",
     "isFree": true,
@@ -81,15 +72,6 @@
     "title": "DRAGON QUEST\u00ae XI S: Echoes of an Elusive Age\u2122"
   },
   {
-    "discountPercentage": 26,
-    "endDate": "2023-03-24T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1399,
-    "slug": "dark-light",
-    "startDate": "2023-03-16T15:00:00.000Z",
-    "title": "Dark Light"
-  },
-  {
     "discountPercentage": 15,
     "endDate": "2023-03-23T17:00:00.000Z",
     "isFree": false,
@@ -115,15 +97,6 @@
     "slug": "final-fantasy-vii-remake-intergrade",
     "startDate": "2023-03-27T15:00:00.000Z",
     "title": "FINAL FANTASY VII REMAKE INTERGRADE"
-  },
-  {
-    "discountPercentage": 95,
-    "endDate": "2023-04-09T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "figment",
-    "startDate": "2023-03-16T15:00:00.000Z",
-    "title": "Figment"
   },
   {
     "discountPercentage": 33,
@@ -268,15 +241,6 @@
     "slug": "neo-the-world-ends-with-you",
     "startDate": "2023-03-27T15:00:00.000Z",
     "title": "NEO: The World Ends with You"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2023-03-23T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1399,
-    "slug": "nero-0011a8",
-    "startDate": "2023-03-16T15:00:00.000Z",
-    "title": "NERO"
   },
   {
     "discountPercentage": 50,
@@ -430,23 +394,5 @@
     "slug": "warforwards-fd05ed",
     "startDate": "2023-03-20T13:00:00.000Z",
     "title": "WarForwards"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2023-03-23T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 3199,
-    "slug": "warhammer-40000-gladius-relics-of-war",
-    "startDate": "2023-03-16T15:00:00.000Z",
-    "title": "Warhammer 40,000: Gladius - Relics of War"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2023-03-23T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3199,
-    "slug": "warhammer-40000-gladius-relics-of-war",
-    "startDate": "2023-03-16T15:00:00.000Z",
-    "title": "Warhammer 40,000: Gladius - Relics of War"
   }
 ]
