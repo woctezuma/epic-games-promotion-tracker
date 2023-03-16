@@ -45,6 +45,15 @@
     "title": "Anno 1800 Standard Edition"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2023-03-30T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1299,
+    "slug": "chess-ultra-91bba3",
+    "startDate": "2023-03-23T15:00:00.000Z",
+    "title": "Chess Ultra"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2023-04-05T17:00:00.000Z",
     "isFree": false,
@@ -117,15 +126,6 @@
     "title": "Figment"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2023-03-23T14:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 899,
-    "slug": "forklift-extreme-deluxe-edition-50689a",
-    "startDate": "2023-03-16T14:00:00.000Z",
-    "title": "Forklift Extreme - Deluxe Edition"
-  },
-  {
     "discountPercentage": 33,
     "endDate": "2023-04-03T16:00:00.000Z",
     "isFree": false,
@@ -151,15 +151,6 @@
     "slug": "good-company",
     "startDate": "2023-03-28T15:00:00.000Z",
     "title": "Good Company"
-  },
-  {
-    "discountPercentage": 15,
-    "endDate": "2023-03-23T14:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1599,
-    "slug": "gravewood-high",
-    "startDate": "2023-03-16T14:00:00.000Z",
-    "title": "Gravewood High"
   },
   {
     "discountPercentage": 70,
@@ -376,15 +367,6 @@
     "slug": "smalland",
     "startDate": "2023-03-29T14:00:00.000Z",
     "title": "Smalland: Survive the Wilds"
-  },
-  {
-    "discountPercentage": 66,
-    "endDate": "2023-03-23T14:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1599,
-    "slug": "toem",
-    "startDate": "2023-03-16T14:00:00.000Z",
-    "title": "TOEM"
   },
   {
     "discountPercentage": 50,
