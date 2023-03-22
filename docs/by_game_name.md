@@ -40,84 +40,84 @@
 |38|flat-heroes-fec628|Flat Heroes|9,99€|40|2023-03-26 12h|2023-05-01 12h|
 |39|forspoken|Forspoken|79,99€|33|2023-03-23 15h|2023-04-03 16h|
 |40|ghost-blood-91ed9f|Ghost Blood|3,59€|50|2023-03-30 15h|2023-04-06 15h|
-|41|gigapocalypse-fdc53b|Gigapocalypse|9,99€|50|2023-03-22 16h|2023-03-29 16h|
-|42|gods-will-fall|Gods Will Fall|14,99€|75|2023-03-23 15h|2023-03-30 15h|
-|43|good-company|Good Company|22,99€|25|2023-03-28 15h|2023-04-04 15h|
-|44|heroines-of-swords-and-spells-0db5cd|Heroines of Swords & Spells + Green Furies DLC|8,99€|50|2023-03-30 15h|2023-04-06 15h|
-|45|hirilun-d92aa3|Hirilun|7,99€|60|2023-03-30 15h|2023-04-06 15h|
-|46|hunter-girls-96020a|Hunter Girls|3,99€|60|2023-03-30 15h|2023-04-06 15h|
-|47|iron-harvest|Iron Harvest|29,99€|75|2023-03-23 15h|2023-03-30 15h|
-|48|judas|Judas|0,00€|67|2023-03-30 15h|2023-04-06 15h|
-|49|just-cause-4|Just Cause 4 Reloaded|32,99€|80|2023-03-27 15h|2023-04-03 16h|
-|50|kingdom-hearts-hd-1-5-2-5-remix|KINGDOM HEARTS HD 1.5+2.5 ReMIX|49,99€|40|2023-03-27 15h|2023-04-03 16h|
-|51|kingdom-hearts-hd-2-8-final-chapter-prologue|KINGDOM HEARTS HD 2.8 Final Chapter Prologue|59,99€|40|2023-03-27 15h|2023-04-03 16h|
-|52|kingdom-hearts-iii|KINGDOM HEARTS III + Re Mind (DLC)|59,99€|40|2023-03-27 15h|2023-04-03 16h|
-|53|kingdom-hearts-melody-of-memory|KINGDOM HEARTS Melody of Memory|59,99€|50|2023-03-27 15h|2023-04-03 16h|
-|54|koral-63ea73|KORAL|7,99€|70|2023-03-23 23h|2023-04-04 23h|
-|55|kill-fish-1c85e9|Kill Fish|1,79€|50|2023-03-30 15h|2023-04-06 15h|
-|56|kings-bounty-ii|King's Bounty II|39,99€|75|2023-03-23 15h|2023-03-30 15h|
-|57|kingdom-come-deliverance|Kingdom Come: Deliverance|29,99€|75|2023-03-23 15h|2023-03-30 15h|
-|58|larva-mortus-9d14c7|Larva Mortus|2,39€|67|2023-03-27 13h|2023-04-03 13h|
-|59|larva-mortus-9d14c7|Larva Mortus|2,39€|67|2023-03-30 15h|2023-04-06 15h|
-|60|maritime-calling-636728|Maritime Calling|11,99€|50|2023-03-27 13h|2023-04-03 13h|
-|61|maritime-calling-636728|Maritime Calling|11,99€|60|2023-03-30 15h|2023-04-06 15h|
-|62|mars-horizon|Mars Horizon|15,99€|67|2023-03-28 15h|2023-04-04 15h|
-|63|metro-2033-redux|Metro 2033 Redux|19,99€|80|2023-03-23 15h|2023-03-30 15h|
-|64|metro-exodus|Metro Exodus Standard Edition|29,99€|75|2023-03-23 15h|2023-03-30 15h|
-|65|metro-last-light-redux|Metro Last Light Redux|19,99€|80|2023-03-23 15h|2023-03-30 15h|
-|66|midnight-legends-734dfc|Midnight Legends|9,99€|35|2023-03-30 15h|2023-04-06 15h|
-|67|murder-is-game-over-255da8|Murder Is Game Over|3,99€|35|2023-03-30 15h|2023-04-06 15h|
-|68|murder-by-numbers|Murder by Numbers|12,49€|70|2023-03-28 15h|2023-04-04 15h|
-|69|my-fantastic-ranch|My Fantastic Ranch|29,99€|50|2023-03-23 15h|2023-03-30 15h|
-|70|neo-the-world-ends-with-you|NEO: The World Ends with You|59,99€|50|2023-03-27 15h|2023-04-03 16h|
-|71|night-lights-4cd904|Night Lights|3,99€|65|2023-03-30 15h|2023-04-06 15h|
-|72|nikopol-secrets-of-the-immortals-18adec|Nikopol - Secrets of the Immortals|3,99€|80|2023-03-30 15h|2023-04-06 15h|
-|73|octopath-traveler|OCTOPATH TRAVELER™|59,99€|50|2023-03-27 15h|2023-04-03 16h|
-|74|outriders|OUTRIDERS|39,99€|60|2023-03-27 15h|2023-04-03 16h|
-|75|overpass|OVERPASS™|39,99€|70|2023-03-23 15h|2023-03-30 15h|
-|76|out-of-the-park-baseball-24-eb4cf8|Out of the Park Baseball 24|39,99€|10|2023-03-24 13h|2023-04-07 13h|
-|77|outward|Outward Definitive Edition|39,99€|65|2023-03-23 15h|2023-03-30 15h|
-|78|pc-building-simulator|PC Building Simulator|15,99€|80|2023-03-28 15h|2023-04-04 15h|
-|79|pc-building-simulator-2|PC Building Simulator 2|24,99€|15|2023-03-28 15h|2023-04-04 15h|
-|80|paladin-dream-5d04e2|Paladin Dream|3,99€|75|2023-03-30 15h|2023-04-06 15h|
-|81|paramnesia-a49100|Paramnesia|2,39€|67|2023-03-30 15h|2023-04-06 15h|
-|82|pathfinder-kingmaker|Pathfinder: Kingmaker - Enhanced Plus Edition|19,99€|70|2023-03-23 15h|2023-03-30 15h|
-|83|project-pastorate-6e8765|Project Pastorate|1,59€|50|2023-03-30 15h|2023-04-06 15h|
-|84|railgrade|RAILGRADE|19,99€|25|2023-03-28 15h|2023-04-04 15h|
-|85|replikator-6adddc|REPLIKATOR|9,99€|50|2023-03-30 15h|2023-04-06 15h|
-|86|radioactive-dwarfs-evil-from-the-sewers-b43f18|Radioactive Dwarfs - Evil From The Sewers|3,99€|55|2023-03-30 15h|2023-04-06 15h|
-|87|ravens-hike-c34341|Ravens Hike|3,19€|75|2023-04-03 15h|2023-04-10 15h|
-|88|red-dust-5e7397|Red Dust|4,49€|55|2023-03-30 15h|2023-04-06 15h|
-|89|red-ronin-d2678c|Red Ronin|5,99€|70|2023-04-03 15h|2023-04-10 15h|
-|90|relicta|Relicta|19,99€|80|2023-03-23 15h|2023-03-30 15h|
-|91|retrowave-rider-18aaf1|Retrowave Rider|3,99€|50|2023-03-30 15h|2023-04-06 15h|
-|92|rhiannon-curse-of-the-four-branches-ae93f9|Rhiannon - Curse of the Four Branches|3,99€|80|2023-03-30 15h|2023-04-06 15h|
-|93|rims-racing|RiMS Racing|49,99€|55|2023-03-23 15h|2023-03-30 15h|
-|94|road-96|Road 96|19,96€|60|2023-03-23 15h|2023-03-30 15h|
-|95|rogue-lords|Rogue Lords|24,99€|55|2023-03-23 15h|2023-03-30 15h|
-|96|rougebook|Roguebook|24,99€|55|2023-03-23 15h|2023-03-30 15h|
-|97|saints-row|Saints Row|59,99€|55|2023-03-23 15h|2023-03-30 15h|
-|98|saints-row-iv-re-election|Saints Row IV Re-Elected|19,99€|75|2023-03-23 15h|2023-03-30 15h|
-|99|saints-row-the-third-remastered|Saints Row®: The Third™ Remastered|39,99€|75|2023-03-23 15h|2023-03-30 15h|
-|100|schein-77f039|Schein|3,99€|80|2023-03-30 15h|2023-04-06 15h|
-|101|session-skate-sim|Session: Skate Sim|39,99€|50|2023-03-23 15h|2023-03-30 15h|
-|102|shenmue-3|Shenmue III - Standard Edition|29,99€|85|2023-03-23 15h|2023-03-30 15h|
-|103|siege-survival-gloria-victis|Siege Survival - Gloria Victis|24,99€|75|2023-03-23 15h|2023-03-30 15h|
-|104|smalland|Smalland: Survive the Wilds|24,99€|10|2023-03-29 14h|2023-04-10 14h|
-|105|soulless-ray-of-hope-e37a13|Soulless - Ray Of Hope|3,99€|80|2023-03-30 15h|2023-04-06 15h|
-|106|space-hack-02fd17|Space Hack|3,99€|80|2023-03-30 15h|2023-04-06 15h|
-|107|space-trader-merchant-marine-0426a8|Space Trader - Merchant Marine|3,99€|80|2023-03-30 15h|2023-04-06 15h|
-|108|starless-bb4b3c|Starless|5,99€|30|2023-03-30 15h|2023-04-06 15h|
-|109|steelrising|Steelrising|49,99€|50|2023-03-23 15h|2023-03-30 15h|
-|110|tohu|TOHU|12,99€|50|2023-03-28 15h|2023-04-04 15h|
-|111|the-case-of-the-golden-idol-ce58f7|The Case of the Golden Idol|17,99€|20|2023-03-23 15h|2023-04-02 15h|
-|112|the-dark-prophecy-2193c4|The Dark Prophecy|7,99€|75|2023-03-30 15h|2023-04-06 15h|
-|113|the-wizard-and-the-slug-482a09|The Wizard and The Slug|3,99€|75|2023-03-30 15h|2023-04-06 15h|
-|114|thermonuclear-30a1d0|Thermonuclear|5,99€|60|2023-03-30 15h|2023-04-06 15h|
-|115|touch-type-tale|Touch Type Tale|19,99€|10|2023-03-28 15h|2023-04-04 15h|
-|116|tour-de-france-2022-8bb5fb|Tour de France 2022|39,99€|55|2023-03-23 15h|2023-03-30 15h|
-|117|train-life|Train Life: A Railway Simulator|19,99€|50|2023-03-23 15h|2023-03-30 15h|
-|118|parakacuk-22f4b2|Troublemaker|19,99€|20|2023-03-31 16h|2023-04-06 16h|
+|41|gods-will-fall|Gods Will Fall|14,99€|75|2023-03-23 15h|2023-03-30 15h|
+|42|good-company|Good Company|22,99€|25|2023-03-28 15h|2023-04-04 15h|
+|43|heroines-of-swords-and-spells-0db5cd|Heroines of Swords & Spells + Green Furies DLC|8,99€|50|2023-03-30 15h|2023-04-06 15h|
+|44|hirilun-d92aa3|Hirilun|7,99€|60|2023-03-30 15h|2023-04-06 15h|
+|45|hunter-girls-96020a|Hunter Girls|3,99€|60|2023-03-30 15h|2023-04-06 15h|
+|46|iron-harvest|Iron Harvest|29,99€|75|2023-03-23 15h|2023-03-30 15h|
+|47|judas|Judas|0,00€|67|2023-03-30 15h|2023-04-06 15h|
+|48|just-cause-4|Just Cause 4 Reloaded|32,99€|80|2023-03-27 15h|2023-04-03 16h|
+|49|kingdom-hearts-hd-1-5-2-5-remix|KINGDOM HEARTS HD 1.5+2.5 ReMIX|49,99€|40|2023-03-27 15h|2023-04-03 16h|
+|50|kingdom-hearts-hd-2-8-final-chapter-prologue|KINGDOM HEARTS HD 2.8 Final Chapter Prologue|59,99€|40|2023-03-27 15h|2023-04-03 16h|
+|51|kingdom-hearts-iii|KINGDOM HEARTS III + Re Mind (DLC)|59,99€|40|2023-03-27 15h|2023-04-03 16h|
+|52|kingdom-hearts-melody-of-memory|KINGDOM HEARTS Melody of Memory|59,99€|50|2023-03-27 15h|2023-04-03 16h|
+|53|koral-63ea73|KORAL|7,99€|70|2023-03-23 23h|2023-04-04 23h|
+|54|kill-fish-1c85e9|Kill Fish|1,79€|50|2023-03-30 15h|2023-04-06 15h|
+|55|kings-bounty-ii|King's Bounty II|39,99€|75|2023-03-23 15h|2023-03-30 15h|
+|56|kingdom-come-deliverance|Kingdom Come: Deliverance|29,99€|75|2023-03-23 15h|2023-03-30 15h|
+|57|larva-mortus-9d14c7|Larva Mortus|2,39€|67|2023-03-27 13h|2023-04-03 13h|
+|58|larva-mortus-9d14c7|Larva Mortus|2,39€|67|2023-03-30 15h|2023-04-06 15h|
+|59|maritime-calling-636728|Maritime Calling|11,99€|50|2023-03-27 13h|2023-04-03 13h|
+|60|maritime-calling-636728|Maritime Calling|11,99€|60|2023-03-30 15h|2023-04-06 15h|
+|61|mars-horizon|Mars Horizon|15,99€|67|2023-03-28 15h|2023-04-04 15h|
+|62|metro-2033-redux|Metro 2033 Redux|19,99€|80|2023-03-23 15h|2023-03-30 15h|
+|63|metro-exodus|Metro Exodus Standard Edition|29,99€|75|2023-03-23 15h|2023-03-30 15h|
+|64|metro-last-light-redux|Metro Last Light Redux|19,99€|80|2023-03-23 15h|2023-03-30 15h|
+|65|midnight-legends-734dfc|Midnight Legends|9,99€|35|2023-03-30 15h|2023-04-06 15h|
+|66|murder-is-game-over-255da8|Murder Is Game Over|3,99€|35|2023-03-30 15h|2023-04-06 15h|
+|67|murder-by-numbers|Murder by Numbers|12,49€|70|2023-03-28 15h|2023-04-04 15h|
+|68|my-fantastic-ranch|My Fantastic Ranch|29,99€|50|2023-03-23 15h|2023-03-30 15h|
+|69|neo-the-world-ends-with-you|NEO: The World Ends with You|59,99€|50|2023-03-27 15h|2023-04-03 16h|
+|70|night-lights-4cd904|Night Lights|3,99€|65|2023-03-30 15h|2023-04-06 15h|
+|71|nikopol-secrets-of-the-immortals-18adec|Nikopol - Secrets of the Immortals|3,99€|80|2023-03-30 15h|2023-04-06 15h|
+|72|octopath-traveler|OCTOPATH TRAVELER™|59,99€|50|2023-03-27 15h|2023-04-03 16h|
+|73|outriders|OUTRIDERS|39,99€|60|2023-03-27 15h|2023-04-03 16h|
+|74|overpass|OVERPASS™|39,99€|70|2023-03-23 15h|2023-03-30 15h|
+|75|out-of-the-park-baseball-24-eb4cf8|Out of the Park Baseball 24|39,99€|10|2023-03-24 13h|2023-04-07 13h|
+|76|outward|Outward Definitive Edition|39,99€|65|2023-03-23 15h|2023-03-30 15h|
+|77|pc-building-simulator|PC Building Simulator|15,99€|80|2023-03-28 15h|2023-04-04 15h|
+|78|pc-building-simulator-2|PC Building Simulator 2|24,99€|15|2023-03-28 15h|2023-04-04 15h|
+|79|paladin-dream-5d04e2|Paladin Dream|3,99€|75|2023-03-30 15h|2023-04-06 15h|
+|80|paramnesia-a49100|Paramnesia|2,39€|67|2023-03-30 15h|2023-04-06 15h|
+|81|pathfinder-kingmaker|Pathfinder: Kingmaker - Enhanced Plus Edition|19,99€|70|2023-03-23 15h|2023-03-30 15h|
+|82|project-pastorate-6e8765|Project Pastorate|1,59€|50|2023-03-30 15h|2023-04-06 15h|
+|83|railgrade|RAILGRADE|19,99€|25|2023-03-28 15h|2023-04-04 15h|
+|84|replikator-6adddc|REPLIKATOR|9,99€|50|2023-03-30 15h|2023-04-06 15h|
+|85|radioactive-dwarfs-evil-from-the-sewers-b43f18|Radioactive Dwarfs - Evil From The Sewers|3,99€|55|2023-03-30 15h|2023-04-06 15h|
+|86|ravens-hike-c34341|Ravens Hike|3,19€|75|2023-04-03 15h|2023-04-10 15h|
+|87|red-dust-5e7397|Red Dust|4,49€|55|2023-03-30 15h|2023-04-06 15h|
+|88|red-ronin-d2678c|Red Ronin|5,99€|70|2023-04-03 15h|2023-04-10 15h|
+|89|relicta|Relicta|19,99€|80|2023-03-23 15h|2023-03-30 15h|
+|90|retrowave-rider-18aaf1|Retrowave Rider|3,99€|50|2023-03-30 15h|2023-04-06 15h|
+|91|rhiannon-curse-of-the-four-branches-ae93f9|Rhiannon - Curse of the Four Branches|3,99€|80|2023-03-30 15h|2023-04-06 15h|
+|92|rims-racing|RiMS Racing|49,99€|55|2023-03-23 15h|2023-03-30 15h|
+|93|road-96|Road 96|19,96€|60|2023-03-23 15h|2023-03-30 15h|
+|94|rogue-lords|Rogue Lords|24,99€|55|2023-03-23 15h|2023-03-30 15h|
+|95|rougebook|Roguebook|24,99€|55|2023-03-23 15h|2023-03-30 15h|
+|96|saints-row|Saints Row|59,99€|55|2023-03-23 15h|2023-03-30 15h|
+|97|saints-row-iv-re-election|Saints Row IV Re-Elected|19,99€|75|2023-03-23 15h|2023-03-30 15h|
+|98|saints-row-the-third-remastered|Saints Row®: The Third™ Remastered|39,99€|75|2023-03-23 15h|2023-03-30 15h|
+|99|schein-77f039|Schein|3,99€|80|2023-03-30 15h|2023-04-06 15h|
+|100|session-skate-sim|Session: Skate Sim|39,99€|50|2023-03-23 15h|2023-03-30 15h|
+|101|shenmue-3|Shenmue III - Standard Edition|29,99€|85|2023-03-23 15h|2023-03-30 15h|
+|102|siege-survival-gloria-victis|Siege Survival - Gloria Victis|24,99€|75|2023-03-23 15h|2023-03-30 15h|
+|103|smalland|Smalland: Survive the Wilds|24,99€|10|2023-03-29 14h|2023-04-10 14h|
+|104|soulless-ray-of-hope-e37a13|Soulless - Ray Of Hope|3,99€|80|2023-03-30 15h|2023-04-06 15h|
+|105|space-hack-02fd17|Space Hack|3,99€|80|2023-03-30 15h|2023-04-06 15h|
+|106|space-trader-merchant-marine-0426a8|Space Trader - Merchant Marine|3,99€|80|2023-03-30 15h|2023-04-06 15h|
+|107|starless-bb4b3c|Starless|5,99€|30|2023-03-30 15h|2023-04-06 15h|
+|108|steelrising|Steelrising|49,99€|50|2023-03-23 15h|2023-03-30 15h|
+|109|tohu|TOHU|12,99€|50|2023-03-28 15h|2023-04-04 15h|
+|110|the-case-of-the-golden-idol-ce58f7|The Case of the Golden Idol|17,99€|20|2023-03-23 15h|2023-04-02 15h|
+|111|the-dark-prophecy-2193c4|The Dark Prophecy|7,99€|75|2023-03-30 15h|2023-04-06 15h|
+|112|the-wizard-and-the-slug-482a09|The Wizard and The Slug|3,99€|75|2023-03-30 15h|2023-04-06 15h|
+|113|thermonuclear-30a1d0|Thermonuclear|5,99€|60|2023-03-30 15h|2023-04-06 15h|
+|114|touch-type-tale|Touch Type Tale|19,99€|10|2023-03-28 15h|2023-04-04 15h|
+|115|tour-de-france-2022-8bb5fb|Tour de France 2022|39,99€|55|2023-03-23 15h|2023-03-30 15h|
+|116|train-life|Train Life: A Railway Simulator|19,99€|50|2023-03-23 15h|2023-03-30 15h|
+|117|parakacuk-22f4b2|Troublemaker|19,99€|20|2023-03-31 16h|2023-04-06 16h|
+|118|tunche|Tunche|19,99€|100|2023-03-30 15h|2023-04-06 15h|
 |119|uno|UNO Standard Edition|9,99€|60|2023-03-28 15h|2023-04-04 15h|
 |120|ultragoodness-a391d4|UltraGoodness|3,99€|80|2023-03-30 15h|2023-04-06 15h|
 |121|ultragoodness-2-b9f493|UltraGoodness 2|3,99€|80|2023-03-30 15h|2023-04-06 15h|

@@ -68,27 +68,27 @@
 |66|touch-type-tale|Touch Type Tale|19,99€|10|2023-03-28 15h|2023-04-04 15h|
 |67|train-life|Train Life: A Railway Simulator|19,99€|50|2023-03-23 15h|2023-03-30 15h|
 |68|parakacuk-22f4b2|Troublemaker|19,99€|20|2023-03-31 16h|2023-04-06 16h|
-|69|windbound|Windbound|19,99€|85|2023-03-23 15h|2023-03-30 15h|
-|70|road-96|Road 96|19,96€|60|2023-03-23 15h|2023-03-30 15h|
-|71|the-case-of-the-golden-idol-ce58f7|The Case of the Golden Idol|17,99€|20|2023-03-23 15h|2023-04-02 15h|
-|72|away-the-survival-series|AWAY: The Survival Series|15,99€|65|2023-04-15 15h|2023-04-29 15h|
-|73|citizen-sleeper-944858|Citizen Sleeper|15,99€|30|2023-03-30 17h|2023-04-05 17h|
-|74|elderand-09e6bc|Elderand|15,99€|20|2023-03-25 11h|2023-04-08 11h|
-|75|mars-horizon|Mars Horizon|15,99€|67|2023-03-28 15h|2023-04-04 15h|
-|76|pc-building-simulator|PC Building Simulator|15,99€|80|2023-03-28 15h|2023-04-04 15h|
-|77|gods-will-fall|Gods Will Fall|14,99€|75|2023-03-23 15h|2023-03-30 15h|
-|78|chess-ultra-91bba3|Chess Ultra|12,99€|100|2023-03-23 15h|2023-03-30 15h|
-|79|tohu|TOHU|12,99€|50|2023-03-28 15h|2023-04-04 15h|
-|80|murder-by-numbers|Murder by Numbers|12,49€|70|2023-03-28 15h|2023-04-04 15h|
-|81|danger-forever-a10e7e|Danger Forever|11,99€|35|2023-03-30 15h|2023-04-06 15h|
-|82|maritime-calling-636728|Maritime Calling|11,99€|50|2023-03-27 13h|2023-04-03 13h|
-|83|maritime-calling-636728|Maritime Calling|11,99€|60|2023-03-30 15h|2023-04-06 15h|
-|84|assassins-creed-chronicles-china|Assassin's Creed Chronicles: China|9,99€|70|2023-03-28 15h|2023-04-04 15h|
-|85|assassins-creed-chronicles-india|Assassin's Creed Chronicles: India|9,99€|70|2023-03-28 15h|2023-04-04 15h|
-|86|assassins-creed-chronicles-russia|Assassin's Creed Chronicles: Russia|9,99€|70|2023-03-28 15h|2023-04-04 15h|
-|87|assassins-creed-1|Assassin's Creed® I: Director's Cut|9,99€|70|2023-03-28 15h|2023-04-04 15h|
-|88|flat-heroes-fec628|Flat Heroes|9,99€|40|2023-03-26 12h|2023-05-01 12h|
-|89|gigapocalypse-fdc53b|Gigapocalypse|9,99€|50|2023-03-22 16h|2023-03-29 16h|
+|69|tunche|Tunche|19,99€|100|2023-03-30 15h|2023-04-06 15h|
+|70|windbound|Windbound|19,99€|85|2023-03-23 15h|2023-03-30 15h|
+|71|road-96|Road 96|19,96€|60|2023-03-23 15h|2023-03-30 15h|
+|72|the-case-of-the-golden-idol-ce58f7|The Case of the Golden Idol|17,99€|20|2023-03-23 15h|2023-04-02 15h|
+|73|away-the-survival-series|AWAY: The Survival Series|15,99€|65|2023-04-15 15h|2023-04-29 15h|
+|74|citizen-sleeper-944858|Citizen Sleeper|15,99€|30|2023-03-30 17h|2023-04-05 17h|
+|75|elderand-09e6bc|Elderand|15,99€|20|2023-03-25 11h|2023-04-08 11h|
+|76|mars-horizon|Mars Horizon|15,99€|67|2023-03-28 15h|2023-04-04 15h|
+|77|pc-building-simulator|PC Building Simulator|15,99€|80|2023-03-28 15h|2023-04-04 15h|
+|78|gods-will-fall|Gods Will Fall|14,99€|75|2023-03-23 15h|2023-03-30 15h|
+|79|chess-ultra-91bba3|Chess Ultra|12,99€|100|2023-03-23 15h|2023-03-30 15h|
+|80|tohu|TOHU|12,99€|50|2023-03-28 15h|2023-04-04 15h|
+|81|murder-by-numbers|Murder by Numbers|12,49€|70|2023-03-28 15h|2023-04-04 15h|
+|82|danger-forever-a10e7e|Danger Forever|11,99€|35|2023-03-30 15h|2023-04-06 15h|
+|83|maritime-calling-636728|Maritime Calling|11,99€|50|2023-03-27 13h|2023-04-03 13h|
+|84|maritime-calling-636728|Maritime Calling|11,99€|60|2023-03-30 15h|2023-04-06 15h|
+|85|assassins-creed-chronicles-china|Assassin's Creed Chronicles: China|9,99€|70|2023-03-28 15h|2023-04-04 15h|
+|86|assassins-creed-chronicles-india|Assassin's Creed Chronicles: India|9,99€|70|2023-03-28 15h|2023-04-04 15h|
+|87|assassins-creed-chronicles-russia|Assassin's Creed Chronicles: Russia|9,99€|70|2023-03-28 15h|2023-04-04 15h|
+|88|assassins-creed-1|Assassin's Creed® I: Director's Cut|9,99€|70|2023-03-28 15h|2023-04-04 15h|
+|89|flat-heroes-fec628|Flat Heroes|9,99€|40|2023-03-26 12h|2023-05-01 12h|
 |90|midnight-legends-734dfc|Midnight Legends|9,99€|35|2023-03-30 15h|2023-04-06 15h|
 |91|replikator-6adddc|REPLIKATOR|9,99€|50|2023-03-30 15h|2023-04-06 15h|
 |92|uno|UNO Standard Edition|9,99€|60|2023-03-28 15h|2023-04-04 15h|
