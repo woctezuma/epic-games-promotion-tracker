@@ -1782,6 +1782,15 @@
     "title": "Dying Light 2 Stay Human"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2023-04-13T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 2999,
+    "slug": "dying-light",
+    "startDate": "2023-04-06T15:00:00.000Z",
+    "title": "Dying Light Enhanced Edition"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2023-04-20T15:00:00.000Z",
     "isFree": false,
@@ -7321,7 +7330,7 @@
     "endDate": "2023-04-10T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 199,
-    "slug": "upaon-a-snakes-journey-672f92",
+    "slug": "d367584977dc435495a821adc71dc34b",
     "startDate": "2023-04-03T15:00:00.000Z",
     "title": "Upaon A Snakes Journey"
   },
