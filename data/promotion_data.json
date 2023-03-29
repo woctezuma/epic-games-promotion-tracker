@@ -5989,7 +5989,7 @@
     "endDate": "2023-04-20T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 2499,
-    "slug": "429335ffcd954168aae4913296290844",
+    "slug": "tails-of-iron-587abd",
     "startDate": "2023-04-06T15:00:00.000Z",
     "title": "Tails of Iron"
   },
@@ -6487,6 +6487,15 @@
     "slug": "the-shapeshifting-detective-ef0f21",
     "startDate": "2023-04-06T15:00:00.000Z",
     "title": "The Shapeshifting Detective"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2023-04-06T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 799,
+    "slug": "the-silent-age-eb6972",
+    "startDate": "2023-03-30T15:00:00.000Z",
+    "title": "The Silent Age"
   },
   {
     "discountPercentage": 70,
