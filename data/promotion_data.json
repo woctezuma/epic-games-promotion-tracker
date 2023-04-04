@@ -846,15 +846,6 @@
     "title": "Blasphemous"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2023-04-13T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 1479,
-    "slug": "blazing-sails",
-    "startDate": "2023-04-06T15:00:00.000Z",
-    "title": "Blazing Sails"
-  },
-  {
     "discountPercentage": 40,
     "endDate": "2023-04-20T15:00:00.000Z",
     "isFree": false,
@@ -8161,6 +8152,15 @@
     "slug": "zorro-the-chronicles",
     "startDate": "2023-04-06T15:00:00.000Z",
     "title": "Zorro The Chronicles"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2023-04-13T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 999,
+    "slug": "shapez-0929c9",
+    "startDate": "2023-04-06T15:00:00.000Z",
+    "title": "shapez"
   },
   {
     "discountPercentage": 31,
