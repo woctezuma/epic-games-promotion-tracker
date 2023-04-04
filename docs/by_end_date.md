@@ -1,8 +1,8 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|1|blazing-sails|Blazing Sails|14,79€|100|2023-04-06 15h|2023-04-13 15h|
-|2|curse-of-the-sea-rats-8f28b1|Curse of the Sea Rats|17,99€|10|2023-04-06 15h|2023-04-13 15h|
-|3|dying-light|Dying Light Enhanced Edition|29,99€|100|2023-04-06 15h|2023-04-13 15h|
+|1|curse-of-the-sea-rats-8f28b1|Curse of the Sea Rats|17,99€|10|2023-04-06 15h|2023-04-13 15h|
+|2|dying-light|Dying Light Enhanced Edition|29,99€|100|2023-04-06 15h|2023-04-13 15h|
+|3|shapez-0929c9|shapez|9,99€|100|2023-04-06 15h|2023-04-13 15h|
 |4|kujlevka-9b53bb|Kujlevka|17,99€|10|2023-04-06 16h|2023-04-13 16h|
 |5|stellar-interface-d14cc4|Stellar Interface|11,69€|20|2023-04-06 16h|2023-04-14 16h|
 |6|combat-naval-package-hunter-killer-685f4a|688(I) Hunter/Killer|7,99€|80|2023-04-06 15h|2023-04-20 15h|
