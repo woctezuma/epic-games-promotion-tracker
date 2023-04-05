@@ -1431,6 +1431,15 @@
     "title": "DEATHLOOP + Ghostwire: Tokyo Bundle"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2023-05-04T13:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "destructure-among-debris-b4aaf8",
+    "startDate": "2023-04-20T13:00:00.000Z",
+    "title": "DESTRUCTURE: Among Debris"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-04-20T15:00:00.000Z",
     "isFree": false,
@@ -1600,6 +1609,15 @@
     "slug": "deaths-door",
     "startDate": "2023-04-06T15:00:00.000Z",
     "title": "Death's Door"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-05-01T13:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "deceive-inc",
+    "startDate": "2023-04-27T13:00:00.000Z",
+    "title": "Deceive Inc."
   },
   {
     "discountPercentage": 85,
@@ -1843,6 +1861,15 @@
     "slug": "doki-doki-literature-club-plus",
     "startDate": "2023-04-06T15:00:00.000Z",
     "title": "Doki Doki Literature Club Plus!"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-04-24T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "doomed-lands-7e2565",
+    "startDate": "2023-04-17T16:00:00.000Z",
+    "title": "Doomed Lands"
   },
   {
     "discountPercentage": 90,
@@ -2466,6 +2493,15 @@
     "title": "Fleet Command"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2023-05-22T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "football-manager-2023",
+    "startDate": "2023-05-15T16:00:00.000Z",
+    "title": "Football Manager 2023"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2023-05-04T15:00:00.000Z",
     "isFree": false,
@@ -2896,6 +2932,15 @@
     "slug": "hot-wheels-unleashed",
     "startDate": "2023-04-06T15:00:00.000Z",
     "title": "HOT WHEELS UNLEASHED\u2122"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2023-04-13T13:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "hyperviolent-5d1983",
+    "startDate": "2023-04-06T17:00:00.000Z",
+    "title": "HYPERVIOLENT"
   },
   {
     "discountPercentage": 50,
@@ -4246,6 +4291,15 @@
     "slug": "naraka-bladepoint",
     "startDate": "2023-04-06T15:00:00.000Z",
     "title": "NARAKA: BLADEPOINT"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2023-04-14T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1399,
+    "slug": "nero-0011a8",
+    "startDate": "2023-04-07T15:00:00.000Z",
+    "title": "NERO"
   },
   {
     "discountPercentage": 33,
@@ -7846,6 +7900,15 @@
     "slug": "warmsnow-7e3180",
     "startDate": "2023-04-06T15:00:00.000Z",
     "title": "WarmSnow"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2023-04-20T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "warrior-kings-d07850",
+    "startDate": "2023-04-06T15:00:00.000Z",
+    "title": "Warrior Kings"
   },
   {
     "discountPercentage": 85,
