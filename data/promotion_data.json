@@ -54,22 +54,13 @@
     "title": "Blossom Tales II The Minotaur Prince"
   },
   {
-    "discountPercentage": 81,
-    "endDate": "2023-04-23T16:00:00.000Z",
+    "discountPercentage": 10,
+    "endDate": "2023-05-10T13:00:00.000Z",
     "isFree": false,
-    "originalPrice": 1998,
-    "slug": "bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b",
-    "startDate": "2023-04-07T16:00:00.000Z",
-    "title": "Bud Spencer and Terence Hill - Slaps and Beans"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2023-04-26T13:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1449,
-    "slug": "cafe-owner-simulator-749e0f",
-    "startDate": "2023-04-12T13:00:00.000Z",
-    "title": "Cafe Owner Simulator"
+    "originalPrice": 3139,
+    "slug": "bramble-the-mountain-king-c0d1c6",
+    "startDate": "2023-04-27T13:00:00.000Z",
+    "title": "Bramble The Mountain King"
   },
   {
     "discountPercentage": 25,
@@ -84,7 +75,7 @@
     "discountPercentage": 20,
     "endDate": "2023-05-04T13:00:00.000Z",
     "isFree": false,
-    "originalPrice": 899,
+    "originalPrice": 719,
     "slug": "destructure-among-debris-b4aaf8",
     "startDate": "2023-04-20T13:00:00.000Z",
     "title": "DESTRUCTURE: Among Debris"
@@ -142,6 +133,15 @@
     "slug": "disgaea-6-complete",
     "startDate": "2023-04-27T23:00:00.000Z",
     "title": "Disgaea 6 Complete"
+  },
+  {
+    "discountPercentage": 15,
+    "endDate": "2023-04-21T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "dont-byte-your-tongue-da237b",
+    "startDate": "2023-04-13T15:00:00.000Z",
+    "title": "Don't Byte Your Tongue"
   },
   {
     "discountPercentage": 20,
@@ -261,15 +261,6 @@
     "title": "Guild Of Ascension"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2023-04-13T13:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "hyperviolent-5d1983",
-    "startDate": "2023-04-06T17:00:00.000Z",
-    "title": "HYPERVIOLENT"
-  },
-  {
     "discountPercentage": 45,
     "endDate": "2023-04-27T15:00:00.000Z",
     "isFree": false,
@@ -297,15 +288,6 @@
     "title": "Mari and Bayu - The Road Home"
   },
   {
-    "discountPercentage": 30,
-    "endDate": "2023-04-14T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1399,
-    "slug": "nero-0011a8",
-    "startDate": "2023-04-07T15:00:00.000Z",
-    "title": "NERO"
-  },
-  {
     "discountPercentage": 60,
     "endDate": "2023-06-01T15:00:00.000Z",
     "isFree": false,
@@ -313,6 +295,24 @@
     "slug": "necromunda-hired-gun",
     "startDate": "2023-05-25T15:00:00.000Z",
     "title": "Necromunda: Hired Gun"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2023-04-20T16:05:00.000Z",
+    "isFree": false,
+    "originalPrice": 359,
+    "slug": "out-of-bounds-ade206",
+    "startDate": "2023-04-13T16:05:00.000Z",
+    "title": "Out of Bounds"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2023-04-26T07:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "outer-terror-9f2593",
+    "startDate": "2023-04-20T07:00:00.000Z",
+    "title": "Outer Terror"
   },
   {
     "discountPercentage": 60,
@@ -540,6 +540,15 @@
     "title": "The Outer Worlds"
   },
   {
+    "discountPercentage": 10,
+    "endDate": "2023-04-20T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2239,
+    "slug": "trinity-fusion-e036cf",
+    "startDate": "2023-04-13T17:00:00.000Z",
+    "title": "Trinity Fusion"
+  },
+  {
     "discountPercentage": 45,
     "endDate": "2023-06-01T15:00:00.000Z",
     "isFree": false,
@@ -547,6 +556,15 @@
     "slug": "warhammer-40000-battlesector",
     "startDate": "2023-05-25T15:00:00.000Z",
     "title": "Warhammer 40,000: Battlesector"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-06-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4499,
+    "slug": "warhammer-40000-chaos-gate-daemonhunters",
+    "startDate": "2023-05-25T15:00:00.000Z",
+    "title": "Warhammer 40,000: Chaos Gate - Daemonhunters"
   },
   {
     "discountPercentage": 90,

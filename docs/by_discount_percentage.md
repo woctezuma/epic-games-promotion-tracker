@@ -6,40 +6,40 @@
 |4|warhammer-40000-gladius-relics-of-war|Warhammer 40,000: Gladius - Relics of War|31,99€|90|2023-05-25 15h|2023-06-01 15h|
 |5|watch-dogs-2|Watch Dogs 2 Standard Edition|59,99€|85|2023-04-20 15h|2023-05-04 15h|
 |6|warhammer-mechanicus-0e4b71|Warhammer 40,000: Mechanicus - Standard Edition|29,99€|84|2023-05-25 15h|2023-06-01 15h|
-|7|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|81|2023-04-07 16h|2023-04-23 16h|
-|8|watch-dogs-legion--gold-edition|Watch Dogs: Legion Gold Edition|99,99€|80|2023-04-20 15h|2023-05-04 15h|
-|9|watch-dogs-legion|Watch Dogs: Legion Standard Edition|59,99€|80|2023-04-20 15h|2023-05-04 15h|
-|10|watch-dogs-legion--ultimate-edition|Watch Dogs: Legion Ultimate Edition|119,99€|80|2023-04-20 15h|2023-05-04 15h|
-|11|epistory-typing-chronicles-445794|Epistory - Typing Chronicles|11,99€|75|2023-04-13 15h|2023-04-27 15h|
-|12|for-honor|For Honor Standard Edition|29,99€|75|2023-04-20 15h|2023-05-04 15h|
-|13|watch-dogs|Watch Dogs Standard Edition|29,99€|75|2023-04-20 15h|2023-05-04 15h|
-|14|dying-light|Dying Light Enhanced Edition|29,99€|70|2023-04-13 15h|2023-04-20 15h|
-|15|toem|TOEM|15,99€|70|2023-09-11 16h|2023-09-24 16h|
-|16|red-dead-redemption-2|Red Dead Redemption 2|59,99€|67|2023-04-13 15h|2023-04-20 15h|
-|17|away-the-survival-series|AWAY: The Survival Series|15,99€|65|2023-04-15 15h|2023-04-29 15h|
-|18|paper-beast|Paper Beast|16,99€|65|2023-04-13 15h|2023-04-27 15h|
-|19|recompile|Recompile|19,99€|65|2023-04-13 15h|2023-04-27 15h|
-|20|alba-a-wildlife-adventure-93736a|Alba - A Wildlife Adventure|16,99€|60|2023-04-13 15h|2023-04-27 15h|
-|21|ashwalkers|Ashwalkers|11,99€|60|2023-04-13 15h|2023-04-27 15h|
-|22|disaster-report-4-summer-memories|Disaster Report 4: Summer Memories|59,99€|60|2023-04-27 23h|2023-05-11 23h|
-|23|edge-of-eternity|Edge Of Eternity|29,99€|60|2023-04-13 15h|2023-04-27 15h|
-|24|goetia-2-97b0ff|Goetia 2|9,99€|60|2023-04-13 15h|2023-04-27 15h|
-|25|necromunda-hired-gun|Necromunda: Hired Gun|39,99€|60|2023-05-25 15h|2023-06-01 15h|
-|26|paladin-dream-5d04e2|Paladin Dream|3,99€|60|2023-04-24 13h|2023-05-01 13h|
-|27|scourgebringer|Scourgebringer|16,99€|60|2023-04-13 15h|2023-04-27 15h|
-|28|the-dungeon-of-naheulbeuk|The Dungeon of Naheulbeuk|34,99€|60|2023-04-13 15h|2023-04-27 15h|
-|29|the-legend-of-heroes-trails-of-cold-steel-iii|The Legend of Heroes: Trails of Cold Steel III|59,99€|60|2023-04-27 23h|2023-05-11 23h|
-|30|astria-ascending|Astria Ascending|34,99€|55|2023-04-13 15h|2023-04-27 15h|
-|31|radioactive-dwarfs-evil-from-the-sewers-b43f18|Radioactive Dwarfs - Evil From The Sewers|3,99€|55|2023-05-01 13h|2023-05-08 13h|
-|32|red-dust-5e7397|Red Dust|4,49€|55|2023-05-01 13h|2024-04-08 13h|
-|33|demon-turf|Demon Turf|21,99€|50|2023-05-08 14h|2023-05-15 14h|
-|34|forklift-extreme-deluxe-edition-50689a|Forklift Extreme - Deluxe Edition|8,99€|50|2023-04-22 17h|2023-05-06 17h|
-|35|grand-theft-auto-v|Grand Theft Auto V: Premium Edition|29,99€|50|2023-04-13 15h|2023-04-20 15h|
-|36|guild-of-ascension|Guild Of Ascension|14,99€|50|2023-04-13 15h|2023-04-27 15h|
-|37|paramnesia-a49100|Paramnesia|2,39€|50|2023-04-24 13h|2023-05-01 13h|
-|38|project-pastorate-6e8765|Project Pastorate|1,59€|50|2023-04-24 13h|2023-05-01 13h|
-|39|saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited|Saviors of Sapphire Wings & Strangers of Sword City Revisited|49,99€|50|2023-04-27 23h|2023-05-11 23h|
-|40|the-forgotten-city|The Forgotten City|24,99€|50|2023-04-13 15h|2023-04-27 15h|
+|7|watch-dogs-legion--gold-edition|Watch Dogs: Legion Gold Edition|99,99€|80|2023-04-20 15h|2023-05-04 15h|
+|8|watch-dogs-legion|Watch Dogs: Legion Standard Edition|59,99€|80|2023-04-20 15h|2023-05-04 15h|
+|9|watch-dogs-legion--ultimate-edition|Watch Dogs: Legion Ultimate Edition|119,99€|80|2023-04-20 15h|2023-05-04 15h|
+|10|epistory-typing-chronicles-445794|Epistory - Typing Chronicles|11,99€|75|2023-04-13 15h|2023-04-27 15h|
+|11|for-honor|For Honor Standard Edition|29,99€|75|2023-04-20 15h|2023-05-04 15h|
+|12|watch-dogs|Watch Dogs Standard Edition|29,99€|75|2023-04-20 15h|2023-05-04 15h|
+|13|dying-light|Dying Light Enhanced Edition|29,99€|70|2023-04-13 15h|2023-04-20 15h|
+|14|toem|TOEM|15,99€|70|2023-09-11 16h|2023-09-24 16h|
+|15|red-dead-redemption-2|Red Dead Redemption 2|59,99€|67|2023-04-13 15h|2023-04-20 15h|
+|16|away-the-survival-series|AWAY: The Survival Series|15,99€|65|2023-04-15 15h|2023-04-29 15h|
+|17|paper-beast|Paper Beast|16,99€|65|2023-04-13 15h|2023-04-27 15h|
+|18|recompile|Recompile|19,99€|65|2023-04-13 15h|2023-04-27 15h|
+|19|alba-a-wildlife-adventure-93736a|Alba - A Wildlife Adventure|16,99€|60|2023-04-13 15h|2023-04-27 15h|
+|20|ashwalkers|Ashwalkers|11,99€|60|2023-04-13 15h|2023-04-27 15h|
+|21|disaster-report-4-summer-memories|Disaster Report 4: Summer Memories|59,99€|60|2023-04-27 23h|2023-05-11 23h|
+|22|edge-of-eternity|Edge Of Eternity|29,99€|60|2023-04-13 15h|2023-04-27 15h|
+|23|goetia-2-97b0ff|Goetia 2|9,99€|60|2023-04-13 15h|2023-04-27 15h|
+|24|necromunda-hired-gun|Necromunda: Hired Gun|39,99€|60|2023-05-25 15h|2023-06-01 15h|
+|25|paladin-dream-5d04e2|Paladin Dream|3,99€|60|2023-04-24 13h|2023-05-01 13h|
+|26|scourgebringer|Scourgebringer|16,99€|60|2023-04-13 15h|2023-04-27 15h|
+|27|the-dungeon-of-naheulbeuk|The Dungeon of Naheulbeuk|34,99€|60|2023-04-13 15h|2023-04-27 15h|
+|28|the-legend-of-heroes-trails-of-cold-steel-iii|The Legend of Heroes: Trails of Cold Steel III|59,99€|60|2023-04-27 23h|2023-05-11 23h|
+|29|astria-ascending|Astria Ascending|34,99€|55|2023-04-13 15h|2023-04-27 15h|
+|30|radioactive-dwarfs-evil-from-the-sewers-b43f18|Radioactive Dwarfs - Evil From The Sewers|3,99€|55|2023-05-01 13h|2023-05-08 13h|
+|31|red-dust-5e7397|Red Dust|4,49€|55|2023-05-01 13h|2024-04-08 13h|
+|32|demon-turf|Demon Turf|21,99€|50|2023-05-08 14h|2023-05-15 14h|
+|33|forklift-extreme-deluxe-edition-50689a|Forklift Extreme - Deluxe Edition|8,99€|50|2023-04-22 17h|2023-05-06 17h|
+|34|grand-theft-auto-v|Grand Theft Auto V: Premium Edition|29,99€|50|2023-04-13 15h|2023-04-20 15h|
+|35|guild-of-ascension|Guild Of Ascension|14,99€|50|2023-04-13 15h|2023-04-27 15h|
+|36|paramnesia-a49100|Paramnesia|2,39€|50|2023-04-24 13h|2023-05-01 13h|
+|37|project-pastorate-6e8765|Project Pastorate|1,59€|50|2023-04-24 13h|2023-05-01 13h|
+|38|saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited|Saviors of Sapphire Wings & Strangers of Sword City Revisited|49,99€|50|2023-04-27 23h|2023-05-11 23h|
+|39|the-forgotten-city|The Forgotten City|24,99€|50|2023-04-13 15h|2023-04-27 15h|
+|40|warhammer-40000-chaos-gate-daemonhunters|Warhammer 40,000: Chaos Gate - Daemonhunters|44,99€|50|2023-05-25 15h|2023-06-01 15h|
 |41|warhammer-age-of-sigmar-storm-ground|Warhammer Age of Sigmar: Storm Ground|19,99€|50|2023-05-25 15h|2023-06-01 15h|
 |42|hellslave-cc8a71|Hellslave|15,99€|45|2023-04-13 15h|2023-04-27 15h|
 |43|warhammer-40000-battlesector|Warhammer 40,000: Battlesector|31,99€|45|2023-05-25 15h|2023-06-01 15h|
@@ -54,19 +54,21 @@
 |52|the-outer-worlds|The Outer Worlds|29,99€|34|2023-04-13 15h|2023-04-20 15h|
 |53|bibots-aad4d0|Bibots|12,99€|30|2023-04-13 15h|2023-04-27 15h|
 |54|blossom-tales-ii-the-minotaur-prince-e74c95|Blossom Tales II The Minotaur Prince|12,49€|30|2023-05-08 14h|2023-05-15 14h|
-|55|cafe-owner-simulator-749e0f|Cafe Owner Simulator|14,49€|30|2023-04-12 13h|2023-04-26 13h|
-|56|dark-light|Dark Light|15,29€|30|2023-04-24 14h|2023-05-07 14h|
-|57|nero-0011a8|NERO|13,99€|30|2023-04-07 15h|2023-04-14 15h|
-|58|run-the-world-inbetween-399e64|RUN - The world in-between|9,99€|30|2023-04-13 15h|2023-04-27 15h|
-|59|revita-d8ff55|Revita|16,99€|30|2023-04-13 15h|2023-04-27 15h|
-|60|ys-ix-monstrum-nox|Ys IX: Monstrum Nox|59,99€|30|2023-04-27 23h|2023-05-11 23h|
-|61|cassiodora-090292|Cassiodora|14,99€|25|2023-04-13 15h|2023-04-27 15h|
-|62|foretales-d6c5bd|Foretales|19,99€|25|2023-04-13 15h|2023-04-27 15h|
-|63|destructure-among-debris-b4aaf8|DESTRUCTURE: Among Debris|8,99€|20|2023-04-20 13h|2023-05-04 13h|
+|55|dark-light|Dark Light|15,29€|30|2023-04-24 14h|2023-05-07 14h|
+|56|outer-terror-9f2593|Outer Terror|8,99€|30|2023-04-20 07h|2023-04-26 07h|
+|57|run-the-world-inbetween-399e64|RUN - The world in-between|9,99€|30|2023-04-13 15h|2023-04-27 15h|
+|58|revita-d8ff55|Revita|16,99€|30|2023-04-13 15h|2023-04-27 15h|
+|59|ys-ix-monstrum-nox|Ys IX: Monstrum Nox|59,99€|30|2023-04-27 23h|2023-05-11 23h|
+|60|cassiodora-090292|Cassiodora|14,99€|25|2023-04-13 15h|2023-04-27 15h|
+|61|foretales-d6c5bd|Foretales|19,99€|25|2023-04-13 15h|2023-04-27 15h|
+|62|out-of-bounds-ade206|Out of Bounds|3,59€|25|2023-04-13 16h|2023-04-20 16h|
+|63|destructure-among-debris-b4aaf8|DESTRUCTURE: Among Debris|7,19€|20|2023-04-20 13h|2023-05-04 13h|
 |64|deceive-inc|Deceive Inc.|19,99€|20|2023-04-27 13h|2023-05-01 13h|
 |65|disgaea-6-complete|Disgaea 6 Complete|59,99€|20|2023-04-27 23h|2023-05-11 23h|
 |66|doomed-lands-7e2565|Doomed Lands|11,99€|20|2023-04-17 16h|2023-04-24 16h|
 |67|fallen-legion-revenants-a2c944|Fallen Legion Revenants|39,99€|20|2023-04-27 23h|2023-05-11 23h|
 |68|fallen-legion-rise-to-glory-0ea64a|Fallen Legion: Rise to Glory|29,99€|20|2023-04-27 23h|2023-05-11 23h|
 |69|the-legend-of-heroes-trails-from-zero|The Legend of Heroes: Trails from Zero|39,99€|20|2023-04-27 23h|2023-05-11 23h|
-|70|hyperviolent-5d1983|HYPERVIOLENT|14,99€|10|2023-04-06 17h|2023-04-13 13h|
+|70|dont-byte-your-tongue-da237b|Don't Byte Your Tongue|2,69€|15|2023-04-13 15h|2023-04-21 15h|
+|71|bramble-the-mountain-king-c0d1c6|Bramble The Mountain King|31,39€|10|2023-04-27 13h|2023-05-10 13h|
+|72|trinity-fusion-e036cf|Trinity Fusion|22,39€|10|2023-04-13 17h|2023-04-20 17h|
