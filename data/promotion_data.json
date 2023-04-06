@@ -5499,6 +5499,15 @@
     "title": "Seal of Evil"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2023-04-20T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 2499,
+    "slug": "second-extinction",
+    "startDate": "2023-04-13T15:00:00.000Z",
+    "title": "Second Extinction\u2122"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2023-04-20T15:00:00.000Z",
     "isFree": false,
