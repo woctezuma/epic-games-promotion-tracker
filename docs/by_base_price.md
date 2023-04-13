@@ -47,28 +47,30 @@
 |45|revita-d8ff55|Revita|16,99€|30|2023-04-13 15h|2023-04-27 15h|
 |46|scourgebringer|Scourgebringer|16,99€|60|2023-04-13 15h|2023-04-27 15h|
 |47|away-the-survival-series|AWAY: The Survival Series|15,99€|65|2023-04-15 15h|2023-04-29 15h|
-|48|hellslave-cc8a71|Hellslave|15,99€|45|2023-04-13 15h|2023-04-27 15h|
-|49|toem|TOEM|15,99€|70|2023-09-11 16h|2023-09-24 16h|
-|50|dark-light|Dark Light|15,29€|30|2023-04-24 14h|2023-05-07 14h|
-|51|cassiodora-090292|Cassiodora|14,99€|25|2023-04-13 15h|2023-04-27 15h|
-|52|guild-of-ascension|Guild Of Ascension|14,99€|50|2023-04-13 15h|2023-04-27 15h|
-|53|ruggnar-06d06b|Ruggnar|13,99€|35|2023-04-13 15h|2023-04-27 15h|
-|54|bibots-aad4d0|Bibots|12,99€|30|2023-04-13 15h|2023-04-27 15h|
-|55|mari-and-bayu-the-road-home-7dc1d0|Mari and Bayu - The Road Home|12,99€|35|2023-04-13 15h|2023-04-27 15h|
-|56|blossom-tales-ii-the-minotaur-prince-e74c95|Blossom Tales II The Minotaur Prince|12,49€|30|2023-05-08 14h|2023-05-15 14h|
-|57|ashwalkers|Ashwalkers|11,99€|60|2023-04-13 15h|2023-04-27 15h|
-|58|doomed-lands-7e2565|Doomed Lands|11,99€|20|2023-04-17 16h|2023-04-24 16h|
-|59|epistory-typing-chronicles-445794|Epistory - Typing Chronicles|11,99€|75|2023-04-13 15h|2023-04-27 15h|
-|60|goetia-2-97b0ff|Goetia 2|9,99€|60|2023-04-13 15h|2023-04-27 15h|
-|61|replikator-6adddc|REPLIKATOR|9,99€|40|2023-05-01 13h|2023-05-08 13h|
-|62|run-the-world-inbetween-399e64|RUN - The world in-between|9,99€|30|2023-04-13 15h|2023-04-27 15h|
-|63|forklift-extreme-deluxe-edition-50689a|Forklift Extreme - Deluxe Edition|8,99€|50|2023-04-22 17h|2023-05-06 17h|
-|64|outer-terror-9f2593|Outer Terror|8,99€|30|2023-04-20 07h|2023-04-26 07h|
-|65|destructure-among-debris-b4aaf8|DESTRUCTURE: Among Debris|7,19€|20|2023-04-20 13h|2023-05-04 13h|
-|66|red-dust-5e7397|Red Dust|4,49€|55|2023-05-01 13h|2024-04-08 13h|
-|67|paladin-dream-5d04e2|Paladin Dream|3,99€|60|2023-04-24 13h|2023-05-01 13h|
-|68|radioactive-dwarfs-evil-from-the-sewers-b43f18|Radioactive Dwarfs - Evil From The Sewers|3,99€|55|2023-05-01 13h|2023-05-08 13h|
-|69|out-of-bounds-ade206|Out of Bounds|3,59€|25|2023-04-13 16h|2023-04-20 16h|
-|70|dont-byte-your-tongue-da237b|Don't Byte Your Tongue|2,69€|15|2023-04-13 15h|2023-04-21 15h|
-|71|paramnesia-a49100|Paramnesia|2,39€|50|2023-04-24 13h|2023-05-01 13h|
-|72|project-pastorate-6e8765|Project Pastorate|1,59€|50|2023-04-24 13h|2023-05-01 13h|
+|48|beyond-blue|Beyond Blue|15,99€|100|2023-04-20 15h|2023-04-27 15h|
+|49|hellslave-cc8a71|Hellslave|15,99€|45|2023-04-13 15h|2023-04-27 15h|
+|50|toem|TOEM|15,99€|70|2023-09-11 16h|2023-09-24 16h|
+|51|dark-light|Dark Light|15,29€|30|2023-04-24 14h|2023-05-07 14h|
+|52|cassiodora-090292|Cassiodora|14,99€|25|2023-04-13 15h|2023-04-27 15h|
+|53|guild-of-ascension|Guild Of Ascension|14,99€|50|2023-04-13 15h|2023-04-27 15h|
+|54|ruggnar-06d06b|Ruggnar|13,99€|35|2023-04-13 15h|2023-04-27 15h|
+|55|bibots-aad4d0|Bibots|12,99€|30|2023-04-13 15h|2023-04-27 15h|
+|56|mari-and-bayu-the-road-home-7dc1d0|Mari and Bayu - The Road Home|12,99€|35|2023-04-13 15h|2023-04-27 15h|
+|57|blossom-tales-ii-the-minotaur-prince-e74c95|Blossom Tales II The Minotaur Prince|12,49€|30|2023-05-08 14h|2023-05-15 14h|
+|58|ashwalkers|Ashwalkers|11,99€|60|2023-04-13 15h|2023-04-27 15h|
+|59|doomed-lands-7e2565|Doomed Lands|11,99€|20|2023-04-17 16h|2023-04-24 16h|
+|60|e627683054b14bf1b1c7f4e8769eca54|Epistory - Typing Chronicles|11,99€|75|2023-04-13 15h|2023-04-27 15h|
+|61|never-alone-kisima-ingitchuna|Never Alone (Kisima Ingitchuna)|11,99€|100|2023-04-20 15h|2023-04-27 15h|
+|62|goetia-2-97b0ff|Goetia 2|9,99€|60|2023-04-13 15h|2023-04-27 15h|
+|63|replikator-6adddc|REPLIKATOR|9,99€|40|2023-05-01 13h|2023-05-08 13h|
+|64|run-the-world-inbetween-399e64|RUN - The world in-between|9,99€|30|2023-04-13 15h|2023-04-27 15h|
+|65|forklift-extreme-deluxe-edition-50689a|Forklift Extreme - Deluxe Edition|8,99€|50|2023-04-22 17h|2023-05-06 17h|
+|66|outer-terror-9f2593|Outer Terror|8,99€|30|2023-04-20 07h|2023-04-26 07h|
+|67|destructure-among-debris-b4aaf8|DESTRUCTURE: Among Debris|7,19€|20|2023-04-20 13h|2023-05-04 13h|
+|68|red-dust-5e7397|Red Dust|4,49€|55|2023-05-01 13h|2024-04-08 13h|
+|69|paladin-dream-5d04e2|Paladin Dream|3,99€|60|2023-04-24 13h|2023-05-01 13h|
+|70|radioactive-dwarfs-evil-from-the-sewers-b43f18|Radioactive Dwarfs - Evil From The Sewers|3,99€|55|2023-05-01 13h|2023-05-08 13h|
+|71|out-of-bounds-ade206|Out of Bounds|3,59€|25|2023-04-13 16h|2023-04-20 16h|
+|72|dont-byte-your-tongue-da237b|Don't Byte Your Tongue|2,69€|15|2023-04-13 15h|2023-04-21 15h|
+|73|paramnesia-a49100|Paramnesia|2,39€|50|2023-04-24 13h|2023-05-01 13h|
+|74|project-pastorate-6e8765|Project Pastorate|1,59€|50|2023-04-24 13h|2023-05-01 13h|
