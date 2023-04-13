@@ -36,6 +36,15 @@
     "title": "Astria Ascending"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2023-04-27T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1599,
+    "slug": "beyond-blue",
+    "startDate": "2023-04-20T15:00:00.000Z",
+    "title": "Beyond Blue"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2023-04-27T15:00:00.000Z",
     "isFree": false,
@@ -175,7 +184,7 @@
     "endDate": "2023-04-27T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1199,
-    "slug": "epistory-typing-chronicles-445794",
+    "slug": "e627683054b14bf1b1c7f4e8769eca54",
     "startDate": "2023-04-13T15:00:00.000Z",
     "title": "Epistory - Typing Chronicles"
   },
@@ -295,6 +304,15 @@
     "slug": "necromunda-hired-gun",
     "startDate": "2023-05-25T15:00:00.000Z",
     "title": "Necromunda: Hired Gun"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2023-04-27T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1199,
+    "slug": "never-alone-kisima-ingitchuna",
+    "startDate": "2023-04-20T15:00:00.000Z",
+    "title": "Never Alone (Kisima Ingitchuna)"
   },
   {
     "discountPercentage": 25,
