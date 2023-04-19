@@ -18,60 +18,65 @@
 |16|urban-trial-playground-41e403|Urban Trial Playground|6,99€|85|2023-05-04 15h|2023-05-11 15h|
 |17|watch-dogs-2|Watch Dogs 2 Standard Edition|59,99€|85|2023-04-20 15h|2023-05-04 15h|
 |18|warhammer-mechanicus-0e4b71|Warhammer 40,000: Mechanicus - Standard Edition|29,99€|84|2023-05-25 15h|2023-06-01 15h|
-|19|cris-tales|Cris Tales|39,99€|80|2023-04-28 14h|2023-05-12 14h|
-|20|override-2-super-mech-league|Override 2: Super Mech League|29,99€|80|2023-04-28 14h|2023-05-12 14h|
-|21|watch-dogs-legion--gold-edition|Watch Dogs: Legion Gold Edition|99,99€|80|2023-04-20 15h|2023-05-04 15h|
-|22|watch-dogs-legion|Watch Dogs: Legion Standard Edition|59,99€|80|2023-04-20 15h|2023-05-04 15h|
-|23|watch-dogs-legion--ultimate-edition|Watch Dogs: Legion Ultimate Edition|119,99€|80|2023-04-20 15h|2023-05-04 15h|
-|24|for-honor|For Honor Standard Edition|29,99€|75|2023-04-20 15h|2023-05-04 15h|
-|25|watch-dogs|Watch Dogs Standard Edition|29,99€|75|2023-04-20 15h|2023-05-04 15h|
-|26|toem|TOEM|15,99€|70|2023-09-11 16h|2023-09-24 16h|
-|27|through-the-darkest-of-times|Through the Darkest of Times|14,99€|70|2023-04-20 15h|2023-04-30 15h|
-|28|urban-trial-tricky-eb0205|Urban Trial Tricky Deluxe Edition|19,99€|70|2023-05-04 15h|2023-05-11 15h|
-|29|neighbours-back-from-hell|Neighbours back From Hell|14,99€|67|2023-04-20 15h|2023-04-30 15h|
-|30|biped|Biped|0,00€|65|2023-04-20 14h|2023-04-29 14h|
-|31|el-hijo-6b63c5|El Hijo – A Wild West Tale|19,99€|65|2023-04-20 15h|2023-04-30 15h|
-|32|little-big-workshop|Little Big Workshop|19,99€|65|2023-04-20 15h|2023-04-30 15h|
-|33|the-hong-kong-massacre-8bdd14|The Hong Kong Massacre|15,99€|65|2023-04-21 16h|2023-05-07 16h|
-|34|disaster-report-4-summer-memories|Disaster Report 4: Summer Memories|59,99€|60|2023-04-27 23h|2023-05-11 23h|
-|35|necromunda-hired-gun|Necromunda: Hired Gun|39,99€|60|2023-05-25 15h|2023-06-01 15h|
-|36|paladin-dream-5d04e2|Paladin Dream|3,99€|60|2023-04-24 13h|2023-05-01 13h|
-|37|the-legend-of-heroes-trails-of-cold-steel-iii|The Legend of Heroes: Trails of Cold Steel III|59,99€|60|2023-04-27 23h|2023-05-11 23h|
-|38|chicken-police-paint-it-red|Chicken Police - Paint it Red!|19,99€|55|2023-04-20 15h|2023-04-30 15h|
-|39|radioactive-dwarfs-evil-from-the-sewers-b43f18|Radioactive Dwarfs - Evil From The Sewers|3,99€|55|2023-05-01 13h|2023-05-08 13h|
-|40|red-dust-5e7397|Red Dust|4,49€|55|2023-05-01 13h|2024-04-08 13h|
-|41|demon-turf|Demon Turf|21,99€|50|2023-05-08 14h|2023-05-15 14h|
-|42|forklift-extreme-deluxe-edition-50689a|Forklift Extreme - Deluxe Edition|8,99€|50|2023-04-22 17h|2023-05-06 17h|
-|43|kao-the-kangaroo-round-2-5d4d25|Kao the Kangaroo - Round 2|1,99€|50|2023-05-04 15h|2023-05-11 15h|
-|44|one-hand-clapping|One Hand Clapping|14,99€|50|2023-04-20 15h|2023-04-30 15h|
-|45|paramnesia-a49100|Paramnesia|2,39€|50|2023-04-24 13h|2023-05-01 13h|
-|46|pile-up-b1e2af|Pile Up|14,99€|50|2023-04-20 15h|2023-04-30 15h|
-|47|project-pastorate-6e8765|Project Pastorate|1,59€|50|2023-04-24 13h|2023-05-01 13h|
-|48|saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited|Saviors of Sapphire Wings & Strangers of Sword City Revisited|49,99€|50|2023-04-27 23h|2023-05-11 23h|
-|49|scarf-dd1030|Scarf|14,99€|50|2023-04-20 15h|2023-04-30 15h|
-|50|the-last-photon-4bc2e9|The Last Photon|4,49€|50|2023-04-21 16h|2023-05-05 16h|
-|51|thems-fightin-herds|Them's Fightin' Herds|19,99€|50|2023-04-28 14h|2023-05-12 14h|
-|52|warhammer-40000-chaos-gate-daemonhunters|Warhammer 40,000: Chaos Gate - Daemonhunters|44,99€|50|2023-05-25 15h|2023-06-01 15h|
-|53|warhammer-age-of-sigmar-storm-ground|Warhammer Age of Sigmar: Storm Ground|19,99€|50|2023-05-25 15h|2023-06-01 15h|
-|54|warhammer-40000-battlesector|Warhammer 40,000: Battlesector|31,99€|45|2023-05-25 15h|2023-06-01 15h|
-|55|football-manager-2023|Football Manager 2023|59,99€|40|2023-05-15 16h|2023-05-22 16h|
-|56|r-type-final-2|R-Type Final 2|39,99€|40|2023-04-27 23h|2023-05-11 23h|
-|57|replikator-6adddc|REPLIKATOR|9,99€|40|2023-05-01 13h|2023-05-08 13h|
-|58|skydrift-infinity-c4ca37|SkyDrift Infinity|9,99€|40|2023-04-20 15h|2023-04-30 15h|
-|59|the-legend-of-heroes-trails-of-cold-steel-iv|The Legend of Heroes: Trails of Cold Steel IV|59,99€|40|2023-04-27 23h|2023-05-11 23h|
-|60|are-you-smarter-than-a-5th-grader-bc328a|Are You Smarter Than A 5th Grader|29,99€|34|2023-04-20 15h|2023-04-30 15h|
-|61|endling-extinction-is-forever|Endling - Extinction is Forever|29,99€|34|2023-04-20 15h|2023-04-30 15h|
-|62|blossom-tales-ii-the-minotaur-prince-e74c95|Blossom Tales II The Minotaur Prince|12,49€|30|2023-05-08 14h|2023-05-15 14h|
-|63|dark-light|Dark Light|15,29€|30|2023-04-24 14h|2023-05-07 14h|
-|64|outer-terror-9f2593|Outer Terror|8,99€|30|2023-04-20 07h|2023-04-26 07h|
-|65|ys-ix-monstrum-nox|Ys IX: Monstrum Nox|59,99€|30|2023-04-27 23h|2023-05-11 23h|
-|66|destructure-among-debris-b4aaf8|DESTRUCTURE: Among Debris|7,19€|20|2023-04-20 13h|2023-05-04 13h|
-|67|deceive-inc|Deceive Inc.|19,99€|20|2023-04-27 13h|2023-05-01 13h|
-|68|disgaea-6-complete|Disgaea 6 Complete|59,99€|20|2023-04-27 23h|2023-05-11 23h|
-|69|fallen-legion-revenants-a2c944|Fallen Legion Revenants|39,99€|20|2023-04-27 23h|2023-05-11 23h|
-|70|fallen-legion-rise-to-glory-0ea64a|Fallen Legion: Rise to Glory|29,99€|20|2023-04-27 23h|2023-05-11 23h|
-|71|mail-time-ed1aea|Mail Time|19,99€|20|2023-04-27 16h|2023-05-04 16h|
-|72|perish-390141|PERISH|19,99€|20|2023-04-20 15h|2023-04-30 15h|
-|73|stray-blade|Stray Blade|23,99€|20|2023-04-20 15h|2023-04-27 15h|
-|74|the-legend-of-heroes-trails-from-zero|The Legend of Heroes: Trails from Zero|39,99€|20|2023-04-27 23h|2023-05-11 23h|
-|75|bramble-the-mountain-king-c0d1c6|Bramble The Mountain King|31,39€|10|2023-04-27 13h|2023-05-10 13h|
+|19|alien-isolation|Alien: Isolation|39,99€|80|2023-04-20 18h|2023-04-27 18h|
+|20|cris-tales|Cris Tales|39,99€|80|2023-04-28 14h|2023-05-12 14h|
+|21|override-2-super-mech-league|Override 2: Super Mech League|29,99€|80|2023-04-28 14h|2023-05-12 14h|
+|22|watch-dogs-legion--gold-edition|Watch Dogs: Legion Gold Edition|99,99€|80|2023-04-20 15h|2023-05-04 15h|
+|23|watch-dogs-legion|Watch Dogs: Legion Standard Edition|59,99€|80|2023-04-20 15h|2023-05-04 15h|
+|24|watch-dogs-legion--ultimate-edition|Watch Dogs: Legion Ultimate Edition|119,99€|80|2023-04-20 15h|2023-05-04 15h|
+|25|aspire-inas-tale-f77a17|Aspire Inas Tale|9,99€|75|2023-04-21 16h|2023-05-07 16h|
+|26|for-honor|For Honor Standard Edition|29,99€|75|2023-04-20 15h|2023-05-04 15h|
+|27|watch-dogs|Watch Dogs Standard Edition|29,99€|75|2023-04-20 15h|2023-05-04 15h|
+|28|golf-club-wasteland-f6771e|Golf Club Wasteland|9,99€|70|2023-04-21 16h|2023-05-07 16h|
+|29|toem|TOEM|15,99€|70|2023-09-11 16h|2023-09-24 16h|
+|30|through-the-darkest-of-times|Through the Darkest of Times|14,99€|70|2023-04-20 15h|2023-04-30 15h|
+|31|urban-trial-tricky-eb0205|Urban Trial Tricky Deluxe Edition|19,99€|70|2023-05-04 15h|2023-05-11 15h|
+|32|neighbours-back-from-hell|Neighbours back From Hell|14,99€|67|2023-04-20 15h|2023-04-30 15h|
+|33|el-hijo-6b63c5|El Hijo – A Wild West Tale|19,99€|65|2023-04-20 15h|2023-04-30 15h|
+|34|little-big-workshop|Little Big Workshop|19,99€|65|2023-04-20 15h|2023-04-30 15h|
+|35|the-hong-kong-massacre-8bdd14|The Hong Kong Massacre|15,99€|65|2023-04-21 16h|2023-05-07 16h|
+|36|what-lies-in-the-multiverse-f604fa|What Lies in the Multiverse|11,99€|65|2023-04-21 16h|2023-05-07 16h|
+|37|disaster-report-4-summer-memories|Disaster Report 4: Summer Memories|59,99€|60|2023-04-27 23h|2023-05-11 23h|
+|38|necromunda-hired-gun|Necromunda: Hired Gun|39,99€|60|2023-05-25 15h|2023-06-01 15h|
+|39|paladin-dream-5d04e2|Paladin Dream|3,99€|60|2023-04-24 13h|2023-05-01 13h|
+|40|the-legend-of-heroes-trails-of-cold-steel-iii|The Legend of Heroes: Trails of Cold Steel III|59,99€|60|2023-04-27 23h|2023-05-11 23h|
+|41|chicken-police-paint-it-red|Chicken Police - Paint it Red!|19,99€|55|2023-04-20 15h|2023-04-30 15h|
+|42|radioactive-dwarfs-evil-from-the-sewers-b43f18|Radioactive Dwarfs - Evil From The Sewers|3,99€|55|2023-05-01 13h|2023-05-08 13h|
+|43|red-dust-5e7397|Red Dust|4,49€|55|2023-05-01 13h|2024-04-08 13h|
+|44|atone-heart-of-the-elder-tree-556763|ATONE: Heart of the Elder Tree|11,99€|50|2023-04-21 16h|2023-05-07 16h|
+|45|demon-turf|Demon Turf|21,99€|50|2023-05-08 14h|2023-05-15 14h|
+|46|forklift-extreme-deluxe-edition-50689a|Forklift Extreme - Deluxe Edition|8,99€|50|2023-04-22 17h|2023-05-06 17h|
+|47|kao-the-kangaroo-round-2-5d4d25|Kao the Kangaroo - Round 2|1,99€|50|2023-05-04 15h|2023-05-11 15h|
+|48|one-hand-clapping|One Hand Clapping|14,99€|50|2023-04-20 15h|2023-04-30 15h|
+|49|paramnesia-a49100|Paramnesia|2,39€|50|2023-04-24 13h|2023-05-01 13h|
+|50|pile-up-b1e2af|Pile Up|14,99€|50|2023-04-20 15h|2023-04-30 15h|
+|51|project-pastorate-6e8765|Project Pastorate|1,59€|50|2023-04-24 13h|2023-05-01 13h|
+|52|saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited|Saviors of Sapphire Wings & Strangers of Sword City Revisited|49,99€|50|2023-04-27 23h|2023-05-11 23h|
+|53|scarf-dd1030|Scarf|14,99€|50|2023-04-20 15h|2023-04-30 15h|
+|54|splatter-zombiecalypse-now-73f9d2|Splatter - Zombiecalypse Now|7,19€|50|2023-04-21 16h|2023-05-07 16h|
+|55|the-last-photon-4bc2e9|The Last Photon|4,49€|50|2023-04-21 16h|2023-05-05 16h|
+|56|thems-fightin-herds|Them's Fightin' Herds|19,99€|50|2023-04-28 14h|2023-05-12 14h|
+|57|warhammer-40000-chaos-gate-daemonhunters|Warhammer 40,000: Chaos Gate - Daemonhunters|44,99€|50|2023-05-25 15h|2023-06-01 15h|
+|58|warhammer-age-of-sigmar-storm-ground|Warhammer Age of Sigmar: Storm Ground|19,99€|50|2023-05-25 15h|2023-06-01 15h|
+|59|warhammer-40000-battlesector|Warhammer 40,000: Battlesector|31,99€|45|2023-05-25 15h|2023-06-01 15h|
+|60|football-manager-2023|Football Manager 2023|59,99€|40|2023-05-15 16h|2023-05-22 16h|
+|61|r-type-final-2|R-Type Final 2|39,99€|40|2023-04-27 23h|2023-05-11 23h|
+|62|replikator-6adddc|REPLIKATOR|9,99€|40|2023-05-01 13h|2023-05-08 13h|
+|63|skydrift-infinity-c4ca37|SkyDrift Infinity|9,99€|40|2023-04-20 15h|2023-04-30 15h|
+|64|the-legend-of-heroes-trails-of-cold-steel-iv|The Legend of Heroes: Trails of Cold Steel IV|59,99€|40|2023-04-27 23h|2023-05-11 23h|
+|65|flame-keeper-fc7a6d|Flame Keeper|9,99€|35|2023-04-21 16h|2023-05-07 16h|
+|66|are-you-smarter-than-a-5th-grader-bc328a|Are You Smarter Than A 5th Grader|29,99€|34|2023-04-20 15h|2023-04-30 15h|
+|67|endling-extinction-is-forever|Endling - Extinction is Forever|29,99€|34|2023-04-20 15h|2023-04-30 15h|
+|68|blossom-tales-ii-the-minotaur-prince-e74c95|Blossom Tales II The Minotaur Prince|12,49€|30|2023-05-08 14h|2023-05-15 14h|
+|69|dark-light|Dark Light|15,29€|30|2023-04-24 14h|2023-05-07 14h|
+|70|ys-ix-monstrum-nox|Ys IX: Monstrum Nox|59,99€|30|2023-04-27 23h|2023-05-11 23h|
+|71|destructure-among-debris-b4aaf8|DESTRUCTURE: Among Debris|7,19€|20|2023-04-27 13h|2023-05-11 13h|
+|72|deceive-inc|Deceive Inc.|19,99€|20|2023-04-27 13h|2023-05-01 13h|
+|73|disgaea-6-complete|Disgaea 6 Complete|59,99€|20|2023-04-27 23h|2023-05-11 23h|
+|74|fallen-legion-revenants-a2c944|Fallen Legion Revenants|39,99€|20|2023-04-27 23h|2023-05-11 23h|
+|75|fallen-legion-rise-to-glory-0ea64a|Fallen Legion: Rise to Glory|29,99€|20|2023-04-27 23h|2023-05-11 23h|
+|76|mail-time-ed1aea|Mail Time|19,99€|20|2023-04-27 16h|2023-05-04 16h|
+|77|perish-390141|PERISH|19,99€|20|2023-04-20 15h|2023-04-30 15h|
+|78|stray-blade|Stray Blade|34,99€|20|2023-04-20 15h|2023-04-27 15h|
+|79|the-legend-of-heroes-trails-from-zero|The Legend of Heroes: Trails from Zero|39,99€|20|2023-04-27 23h|2023-05-11 23h|
+|80|bramble-the-mountain-king-c0d1c6|Bramble The Mountain King|31,39€|10|2023-04-27 13h|2023-05-10 13h|

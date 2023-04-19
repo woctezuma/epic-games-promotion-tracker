@@ -1,5 +1,14 @@
 [
   {
+    "discountPercentage": 50,
+    "endDate": "2023-05-07T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "atone-heart-of-the-elder-tree-556763",
+    "startDate": "2023-04-21T16:00:00.000Z",
+    "title": "ATONE: Heart of the Elder Tree"
+  },
+  {
     "discountPercentage": 88,
     "endDate": "2023-04-30T15:00:00.000Z",
     "isFree": false,
@@ -7,6 +16,15 @@
     "slug": "aces-of-the-luftwaffe-squadron-97086d",
     "startDate": "2023-04-20T15:00:00.000Z",
     "title": "Aces of the Luftwaffe - Squadron Extended Edition"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2023-04-27T18:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "alien-isolation",
+    "startDate": "2023-04-20T18:00:00.000Z",
+    "title": "Alien: Isolation"
   },
   {
     "discountPercentage": 34,
@@ -18,6 +36,15 @@
     "title": "Are You Smarter Than A 5th Grader"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2023-05-07T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "aspire-inas-tale-f77a17",
+    "startDate": "2023-04-21T16:00:00.000Z",
+    "title": "Aspire Inas Tale"
+  },
+  {
     "discountPercentage": 100,
     "endDate": "2023-04-27T15:00:00.000Z",
     "isFree": true,
@@ -25,15 +52,6 @@
     "slug": "beyond-blue",
     "startDate": "2023-04-20T15:00:00.000Z",
     "title": "Beyond Blue"
-  },
-  {
-    "discountPercentage": 65,
-    "endDate": "2023-04-29T14:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 0,
-    "slug": "biped",
-    "startDate": "2023-04-20T14:00:00.000Z",
-    "title": "Biped"
   },
   {
     "discountPercentage": 30,
@@ -82,11 +100,11 @@
   },
   {
     "discountPercentage": 20,
-    "endDate": "2023-05-04T13:00:00.000Z",
+    "endDate": "2023-05-11T13:00:00.000Z",
     "isFree": false,
     "originalPrice": 719,
     "slug": "destructure-among-debris-b4aaf8",
-    "startDate": "2023-04-20T13:00:00.000Z",
+    "startDate": "2023-04-27T13:00:00.000Z",
     "title": "DESTRUCTURE: Among Debris"
   },
   {
@@ -180,6 +198,15 @@
     "title": "Fallen Legion: Rise to Glory"
   },
   {
+    "discountPercentage": 35,
+    "endDate": "2023-05-07T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "flame-keeper-fc7a6d",
+    "startDate": "2023-04-21T16:00:00.000Z",
+    "title": "Flame Keeper"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2023-05-22T16:00:00.000Z",
     "isFree": false,
@@ -214,6 +241,15 @@
     "slug": "giana-sisters-twisted-dreams-9124c7",
     "startDate": "2023-04-20T15:00:00.000Z",
     "title": "Giana Sisters \u2013 Twisted Dreams"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2023-05-07T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "golf-club-wasteland-f6771e",
+    "startDate": "2023-04-21T16:00:00.000Z",
+    "title": "Golf Club Wasteland"
   },
   {
     "discountPercentage": 85,
@@ -304,15 +340,6 @@
     "slug": "one-hand-clapping",
     "startDate": "2023-04-20T15:00:00.000Z",
     "title": "One Hand Clapping"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2023-04-26T07:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 899,
-    "slug": "outer-terror-9f2593",
-    "startDate": "2023-04-20T07:00:00.000Z",
-    "title": "Outer Terror"
   },
   {
     "discountPercentage": 80,
@@ -450,6 +477,15 @@
     "title": "SkyDrift Infinity"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-05-07T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 719,
+    "slug": "splatter-zombiecalypse-now-73f9d2",
+    "startDate": "2023-04-21T16:00:00.000Z",
+    "title": "Splatter - Zombiecalypse Now"
+  },
+  {
     "discountPercentage": 90,
     "endDate": "2023-05-11T15:00:00.000Z",
     "isFree": false,
@@ -462,7 +498,7 @@
     "discountPercentage": 20,
     "endDate": "2023-04-27T15:00:00.000Z",
     "isFree": false,
-    "originalPrice": 2399,
+    "originalPrice": 3499,
     "slug": "stray-blade",
     "startDate": "2023-04-20T15:00:00.000Z",
     "title": "Stray Blade"
@@ -709,6 +745,15 @@
     "slug": "watch-dogs-legion--ultimate-edition",
     "startDate": "2023-04-20T15:00:00.000Z",
     "title": "Watch Dogs: Legion Ultimate Edition"
+  },
+  {
+    "discountPercentage": 65,
+    "endDate": "2023-05-07T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "what-lies-in-the-multiverse-f604fa",
+    "startDate": "2023-04-21T16:00:00.000Z",
+    "title": "What Lies in the Multiverse"
   },
   {
     "discountPercentage": 30,
