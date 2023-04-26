@@ -18,6 +18,15 @@
     "title": "ArcRunner"
   },
   {
+    "discountPercentage": 10,
+    "endDate": "2023-05-04T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2239,
+    "slug": "ash-of-gods-the-way-58bd36",
+    "startDate": "2023-04-27T11:00:00.000Z",
+    "title": "Ash of Gods: The Way"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2023-05-11T14:00:00.000Z",
     "isFree": false,
@@ -162,6 +171,15 @@
     "title": "Football Manager 2023"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2023-05-11T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1599,
+    "slug": "horizon-chase-turbo",
+    "startDate": "2023-05-04T15:00:00.000Z",
+    "title": "Horizon Chase Turbo"
+  },
+  {
     "discountPercentage": 85,
     "endDate": "2023-05-12T14:00:00.000Z",
     "isFree": false,
@@ -171,11 +189,20 @@
     "title": "In Sound Mind"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2023-05-03T06:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "jydge-14242d",
+    "startDate": "2023-04-27T06:00:00.000Z",
+    "title": "JYDGE"
+  },
+  {
     "discountPercentage": 100,
     "endDate": "2023-05-11T15:00:00.000Z",
     "isFree": true,
     "originalPrice": 2999,
-    "slug": "232747cb897b400dbbef9799432e7817",
+    "slug": "kao-the-kangaroo-62abe3",
     "startDate": "2023-05-04T15:00:00.000Z",
     "title": "Kao the Kangaroo"
   },
@@ -286,6 +313,24 @@
     "slug": "red-dust-5e7397",
     "startDate": "2023-05-01T13:00:00.000Z",
     "title": "Red Dust"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2023-05-05T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "rogue-legacy",
+    "startDate": "2023-04-28T17:00:00.000Z",
+    "title": "Rogue Legacy"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2023-05-05T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "rogue-legacy-2",
+    "startDate": "2023-04-28T17:00:00.000Z",
+    "title": "Rogue Legacy 2"
   },
   {
     "discountPercentage": 50,
