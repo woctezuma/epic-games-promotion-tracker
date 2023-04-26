@@ -1,28 +1,28 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
 |1|breathedge|Breathedge|24,99€|100|2023-04-27 15h|2023-05-04 15h|
-|2|poker-club-6e18ee|Poker Club|19,99€|100|2023-04-27 15h|2023-05-04 15h|
-|3|dark-future-blood-red-states|Dark Future: Blood Red States|19,99€|90|2023-05-25 15h|2023-06-01 15h|
-|4|steel-rats-445306|Steel Rats|9,99€|90|2023-05-04 15h|2023-05-11 15h|
-|5|urban-trial-freestyle-b30b3e|Urban Trial Freestyle|6,99€|90|2023-05-04 15h|2023-05-11 15h|
-|6|warhammer-40000-gladius-relics-of-war|Warhammer 40,000: Gladius - Relics of War|31,99€|90|2023-05-25 15h|2023-06-01 15h|
-|7|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|85|2023-06-16 04h|2023-08-02 04h|
-|8|in-sound-mind|In Sound Mind|34,99€|85|2023-04-28 14h|2023-05-12 14h|
-|9|lost-words-beyond-the-page|Lost Words: Beyond the Page|14,99€|85|2023-04-28 14h|2023-05-12 14h|
-|10|urban-trial-playground-41e403|Urban Trial Playground|6,99€|85|2023-05-04 15h|2023-05-11 15h|
-|11|warhammer-mechanicus-0e4b71|Warhammer 40,000: Mechanicus - Standard Edition|29,99€|84|2023-05-25 15h|2023-06-01 15h|
-|12|cris-tales|Cris Tales|39,99€|80|2023-04-28 14h|2023-05-12 14h|
-|13|override-2-super-mech-league|Override 2: Super Mech League|29,99€|80|2023-04-28 14h|2023-05-12 14h|
-|14|toem|TOEM|15,99€|70|2023-09-11 16h|2023-09-24 16h|
-|15|urban-trial-tricky-eb0205|Urban Trial Tricky Deluxe Edition|19,99€|70|2023-05-04 15h|2023-05-11 15h|
-|16|disaster-report-4-summer-memories|Disaster Report 4: Summer Memories|59,99€|60|2023-04-27 23h|2023-05-11 23h|
-|17|necromunda-hired-gun|Necromunda: Hired Gun|39,99€|60|2023-05-25 15h|2023-06-01 15h|
-|18|the-legend-of-heroes-trails-of-cold-steel-iii|The Legend of Heroes: Trails of Cold Steel III|59,99€|60|2023-04-27 23h|2023-05-11 23h|
-|19|radioactive-dwarfs-evil-from-the-sewers-b43f18|Radioactive Dwarfs - Evil From The Sewers|3,99€|55|2023-05-01 13h|2023-05-08 13h|
-|20|red-dust-5e7397|Red Dust|4,49€|55|2023-05-01 13h|2024-04-08 13h|
-|21|demon-turf|Demon Turf|21,99€|50|2023-05-08 14h|2023-05-15 14h|
-|22|kao-the-kangaroo-round-2-5d4d25|Kao the Kangaroo - Round 2|1,99€|50|2023-05-04 15h|2023-05-11 15h|
-|23|naraka-bladepoint|NARAKA: BLADEPOINT|19,99€|50|2023-04-26 16h|2023-05-02 16h|
+|2|kao-the-kangaroo-62abe3|Kao the Kangaroo|29,99€|100|2023-05-04 15h|2023-05-11 15h|
+|3|poker-club-6e18ee|Poker Club|19,99€|100|2023-04-27 15h|2023-05-04 15h|
+|4|dark-future-blood-red-states|Dark Future: Blood Red States|19,99€|90|2023-05-25 15h|2023-06-01 15h|
+|5|steel-rats-445306|Steel Rats|9,99€|90|2023-05-04 15h|2023-05-11 15h|
+|6|urban-trial-freestyle-b30b3e|Urban Trial Freestyle|6,99€|90|2023-05-04 15h|2023-05-11 15h|
+|7|warhammer-40000-gladius-relics-of-war|Warhammer 40,000: Gladius - Relics of War|31,99€|90|2023-05-25 15h|2023-06-01 15h|
+|8|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|85|2023-06-16 04h|2023-08-02 04h|
+|9|in-sound-mind|In Sound Mind|34,99€|85|2023-04-28 14h|2023-05-12 14h|
+|10|lost-words-beyond-the-page|Lost Words: Beyond the Page|14,99€|85|2023-04-28 14h|2023-05-12 14h|
+|11|urban-trial-playground-41e403|Urban Trial Playground|6,99€|85|2023-05-04 15h|2023-05-11 15h|
+|12|warhammer-mechanicus-0e4b71|Warhammer 40,000: Mechanicus - Standard Edition|29,99€|84|2023-05-25 15h|2023-06-01 15h|
+|13|cris-tales|Cris Tales|39,99€|80|2023-04-28 14h|2023-05-12 14h|
+|14|override-2-super-mech-league|Override 2: Super Mech League|29,99€|80|2023-04-28 14h|2023-05-12 14h|
+|15|toem|TOEM|15,99€|70|2023-09-11 16h|2023-09-24 16h|
+|16|urban-trial-tricky-eb0205|Urban Trial Tricky Deluxe Edition|19,99€|70|2023-05-04 15h|2023-05-11 15h|
+|17|disaster-report-4-summer-memories|Disaster Report 4: Summer Memories|59,99€|60|2023-04-27 23h|2023-05-11 23h|
+|18|necromunda-hired-gun|Necromunda: Hired Gun|39,99€|60|2023-05-25 15h|2023-06-01 15h|
+|19|the-legend-of-heroes-trails-of-cold-steel-iii|The Legend of Heroes: Trails of Cold Steel III|59,99€|60|2023-04-27 23h|2023-05-11 23h|
+|20|radioactive-dwarfs-evil-from-the-sewers-b43f18|Radioactive Dwarfs - Evil From The Sewers|3,99€|55|2023-05-01 13h|2023-05-08 13h|
+|21|red-dust-5e7397|Red Dust|4,49€|55|2023-05-01 13h|2024-04-08 13h|
+|22|demon-turf|Demon Turf|21,99€|50|2023-05-08 14h|2023-05-15 14h|
+|23|kao-the-kangaroo-round-2-5d4d25|Kao the Kangaroo - Round 2|1,99€|50|2023-05-04 15h|2023-05-11 15h|
 |24|saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited|Saviors of Sapphire Wings & Strangers of Sword City Revisited|49,99€|50|2023-04-27 23h|2023-05-11 23h|
 |25|thems-fightin-herds|Them's Fightin' Herds|19,99€|50|2023-04-28 14h|2023-05-12 14h|
 |26|warhammer-40000-chaos-gate-daemonhunters|Warhammer 40,000: Chaos Gate - Daemonhunters|44,99€|50|2023-05-25 15h|2023-06-01 15h|
