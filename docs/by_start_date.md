@@ -1,37 +1,37 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|1|naraka-bladepoint|NARAKA: BLADEPOINT|19,99€|50|2023-04-26 16h|2023-05-02 16h|
-|2|arcrunner-61fee6|ArcRunner|17,99€|10|2023-04-27 11h|2023-05-04 11h|
-|3|bramble-the-mountain-king-c0d1c6|Bramble The Mountain King|31,39€|10|2023-04-27 13h|2023-05-10 13h|
-|4|destructure-among-debris-b4aaf8|DESTRUCTURE: Among Debris|7,19€|20|2023-04-27 13h|2023-05-11 13h|
-|5|deceive-inc|Deceive Inc.|19,99€|20|2023-04-27 13h|2023-05-01 13h|
-|6|breathedge|Breathedge|24,99€|100|2023-04-27 15h|2023-05-04 15h|
-|7|poker-club-6e18ee|Poker Club|19,99€|100|2023-04-27 15h|2023-05-04 15h|
-|8|mail-time-ed1aea|Mail Time|19,99€|20|2023-04-27 16h|2023-05-04 16h|
-|9|teslas-best-friend-c2acf4|Tesla's Best Friend|4,49€|20|2023-04-27 16h|2023-05-11 16h|
-|10|the-first-spark-108e8a|The First Spark|3,59€|30|2023-04-27 16h|2023-05-11 16h|
-|11|disaster-report-4-summer-memories|Disaster Report 4: Summer Memories|59,99€|60|2023-04-27 23h|2023-05-11 23h|
-|12|disgaea-6-complete|Disgaea 6 Complete|59,99€|20|2023-04-27 23h|2023-05-11 23h|
-|13|fallen-legion-revenants-a2c944|Fallen Legion Revenants|39,99€|20|2023-04-27 23h|2023-05-11 23h|
-|14|fallen-legion-rise-to-glory-0ea64a|Fallen Legion: Rise to Glory|29,99€|20|2023-04-27 23h|2023-05-11 23h|
-|15|r-type-final-2|R-Type Final 2|39,99€|40|2023-04-27 23h|2023-05-11 23h|
-|16|saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited|Saviors of Sapphire Wings & Strangers of Sword City Revisited|49,99€|50|2023-04-27 23h|2023-05-11 23h|
-|17|the-legend-of-heroes-trails-from-zero|The Legend of Heroes: Trails from Zero|39,99€|20|2023-04-27 23h|2023-05-11 23h|
-|18|the-legend-of-heroes-trails-of-cold-steel-iii|The Legend of Heroes: Trails of Cold Steel III|59,99€|60|2023-04-27 23h|2023-05-11 23h|
-|19|the-legend-of-heroes-trails-of-cold-steel-iv|The Legend of Heroes: Trails of Cold Steel IV|59,99€|40|2023-04-27 23h|2023-05-11 23h|
-|20|ys-ix-monstrum-nox|Ys IX: Monstrum Nox|59,99€|30|2023-04-27 23h|2023-05-11 23h|
-|21|super-alloy-ranger-4252cc|Super Alloy Ranger|8,99€|10|2023-04-28 13h|2023-05-04 13h|
-|22|cris-tales|Cris Tales|39,99€|80|2023-04-28 14h|2023-05-12 14h|
-|23|in-sound-mind|In Sound Mind|34,99€|85|2023-04-28 14h|2023-05-12 14h|
-|24|lost-words-beyond-the-page|Lost Words: Beyond the Page|14,99€|85|2023-04-28 14h|2023-05-12 14h|
-|25|override-2-super-mech-league|Override 2: Super Mech League|29,99€|80|2023-04-28 14h|2023-05-12 14h|
-|26|thems-fightin-herds|Them's Fightin' Herds|19,99€|50|2023-04-28 14h|2023-05-12 14h|
-|27|city-of-beats-08f8c2|City of Beats|19,99€|20|2023-05-01 13h|2023-05-08 13h|
-|28|replikator-6adddc|REPLIKATOR|9,99€|40|2023-05-01 13h|2023-05-08 13h|
-|29|radioactive-dwarfs-evil-from-the-sewers-b43f18|Radioactive Dwarfs - Evil From The Sewers|3,99€|55|2023-05-01 13h|2023-05-08 13h|
-|30|red-dust-5e7397|Red Dust|4,49€|55|2023-05-01 13h|2024-04-08 13h|
-|31|mia-and-the-dragon-princess-f4e1d0|Mia and the Dragon Princess|11,69€|10|2023-05-04 11h|2023-05-10 11h|
-|32|brok-the-investigator-fb0513|BROK the InvestiGator|17,99€|25|2023-05-04 14h|2023-05-11 14h|
+|1|arcrunner-61fee6|ArcRunner|17,99€|10|2023-04-27 11h|2023-05-04 11h|
+|2|bramble-the-mountain-king-c0d1c6|Bramble The Mountain King|31,39€|10|2023-04-27 13h|2023-05-10 13h|
+|3|destructure-among-debris-b4aaf8|DESTRUCTURE: Among Debris|7,19€|20|2023-04-27 13h|2023-05-11 13h|
+|4|deceive-inc|Deceive Inc.|19,99€|20|2023-04-27 13h|2023-05-01 13h|
+|5|breathedge|Breathedge|24,99€|100|2023-04-27 15h|2023-05-04 15h|
+|6|poker-club-6e18ee|Poker Club|19,99€|100|2023-04-27 15h|2023-05-04 15h|
+|7|mail-time-ed1aea|Mail Time|19,99€|20|2023-04-27 16h|2023-05-04 16h|
+|8|teslas-best-friend-c2acf4|Tesla's Best Friend|4,49€|20|2023-04-27 16h|2023-05-11 16h|
+|9|the-first-spark-108e8a|The First Spark|3,59€|30|2023-04-27 16h|2023-05-11 16h|
+|10|disaster-report-4-summer-memories|Disaster Report 4: Summer Memories|59,99€|60|2023-04-27 23h|2023-05-11 23h|
+|11|disgaea-6-complete|Disgaea 6 Complete|59,99€|20|2023-04-27 23h|2023-05-11 23h|
+|12|fallen-legion-revenants-a2c944|Fallen Legion Revenants|39,99€|20|2023-04-27 23h|2023-05-11 23h|
+|13|fallen-legion-rise-to-glory-0ea64a|Fallen Legion: Rise to Glory|29,99€|20|2023-04-27 23h|2023-05-11 23h|
+|14|r-type-final-2|R-Type Final 2|39,99€|40|2023-04-27 23h|2023-05-11 23h|
+|15|saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited|Saviors of Sapphire Wings & Strangers of Sword City Revisited|49,99€|50|2023-04-27 23h|2023-05-11 23h|
+|16|the-legend-of-heroes-trails-from-zero|The Legend of Heroes: Trails from Zero|39,99€|20|2023-04-27 23h|2023-05-11 23h|
+|17|the-legend-of-heroes-trails-of-cold-steel-iii|The Legend of Heroes: Trails of Cold Steel III|59,99€|60|2023-04-27 23h|2023-05-11 23h|
+|18|the-legend-of-heroes-trails-of-cold-steel-iv|The Legend of Heroes: Trails of Cold Steel IV|59,99€|40|2023-04-27 23h|2023-05-11 23h|
+|19|ys-ix-monstrum-nox|Ys IX: Monstrum Nox|59,99€|30|2023-04-27 23h|2023-05-11 23h|
+|20|super-alloy-ranger-4252cc|Super Alloy Ranger|8,99€|10|2023-04-28 13h|2023-05-04 13h|
+|21|cris-tales|Cris Tales|39,99€|80|2023-04-28 14h|2023-05-12 14h|
+|22|in-sound-mind|In Sound Mind|34,99€|85|2023-04-28 14h|2023-05-12 14h|
+|23|lost-words-beyond-the-page|Lost Words: Beyond the Page|14,99€|85|2023-04-28 14h|2023-05-12 14h|
+|24|override-2-super-mech-league|Override 2: Super Mech League|29,99€|80|2023-04-28 14h|2023-05-12 14h|
+|25|thems-fightin-herds|Them's Fightin' Herds|19,99€|50|2023-04-28 14h|2023-05-12 14h|
+|26|city-of-beats-08f8c2|City of Beats|19,99€|20|2023-05-01 13h|2023-05-08 13h|
+|27|replikator-6adddc|REPLIKATOR|9,99€|40|2023-05-01 13h|2023-05-08 13h|
+|28|radioactive-dwarfs-evil-from-the-sewers-b43f18|Radioactive Dwarfs - Evil From The Sewers|3,99€|55|2023-05-01 13h|2023-05-08 13h|
+|29|red-dust-5e7397|Red Dust|4,49€|55|2023-05-01 13h|2024-04-08 13h|
+|30|mia-and-the-dragon-princess-f4e1d0|Mia and the Dragon Princess|11,69€|10|2023-05-04 11h|2023-05-10 11h|
+|31|brok-the-investigator-fb0513|BROK the InvestiGator|17,99€|25|2023-05-04 14h|2023-05-11 14h|
+|32|kao-the-kangaroo-62abe3|Kao the Kangaroo|29,99€|100|2023-05-04 15h|2023-05-11 15h|
 |33|kao-the-kangaroo-round-2-5d4d25|Kao the Kangaroo - Round 2|1,99€|50|2023-05-04 15h|2023-05-11 15h|
 |34|steel-rats-445306|Steel Rats|9,99€|90|2023-05-04 15h|2023-05-11 15h|
 |35|urban-trial-freestyle-b30b3e|Urban Trial Freestyle|6,99€|90|2023-05-04 15h|2023-05-11 15h|

@@ -1,19 +1,19 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
 |1|deceive-inc|Deceive Inc.|19,99€|20|2023-04-27 13h|2023-05-01 13h|
-|2|naraka-bladepoint|NARAKA: BLADEPOINT|19,99€|50|2023-04-26 16h|2023-05-02 16h|
-|3|arcrunner-61fee6|ArcRunner|17,99€|10|2023-04-27 11h|2023-05-04 11h|
-|4|super-alloy-ranger-4252cc|Super Alloy Ranger|8,99€|10|2023-04-28 13h|2023-05-04 13h|
-|5|breathedge|Breathedge|24,99€|100|2023-04-27 15h|2023-05-04 15h|
-|6|poker-club-6e18ee|Poker Club|19,99€|100|2023-04-27 15h|2023-05-04 15h|
-|7|mail-time-ed1aea|Mail Time|19,99€|20|2023-04-27 16h|2023-05-04 16h|
-|8|city-of-beats-08f8c2|City of Beats|19,99€|20|2023-05-01 13h|2023-05-08 13h|
-|9|replikator-6adddc|REPLIKATOR|9,99€|40|2023-05-01 13h|2023-05-08 13h|
-|10|radioactive-dwarfs-evil-from-the-sewers-b43f18|Radioactive Dwarfs - Evil From The Sewers|3,99€|55|2023-05-01 13h|2023-05-08 13h|
-|11|mia-and-the-dragon-princess-f4e1d0|Mia and the Dragon Princess|11,69€|10|2023-05-04 11h|2023-05-10 11h|
-|12|bramble-the-mountain-king-c0d1c6|Bramble The Mountain King|31,39€|10|2023-04-27 13h|2023-05-10 13h|
-|13|destructure-among-debris-b4aaf8|DESTRUCTURE: Among Debris|7,19€|20|2023-04-27 13h|2023-05-11 13h|
-|14|brok-the-investigator-fb0513|BROK the InvestiGator|17,99€|25|2023-05-04 14h|2023-05-11 14h|
+|2|arcrunner-61fee6|ArcRunner|17,99€|10|2023-04-27 11h|2023-05-04 11h|
+|3|super-alloy-ranger-4252cc|Super Alloy Ranger|8,99€|10|2023-04-28 13h|2023-05-04 13h|
+|4|breathedge|Breathedge|24,99€|100|2023-04-27 15h|2023-05-04 15h|
+|5|poker-club-6e18ee|Poker Club|19,99€|100|2023-04-27 15h|2023-05-04 15h|
+|6|mail-time-ed1aea|Mail Time|19,99€|20|2023-04-27 16h|2023-05-04 16h|
+|7|city-of-beats-08f8c2|City of Beats|19,99€|20|2023-05-01 13h|2023-05-08 13h|
+|8|replikator-6adddc|REPLIKATOR|9,99€|40|2023-05-01 13h|2023-05-08 13h|
+|9|radioactive-dwarfs-evil-from-the-sewers-b43f18|Radioactive Dwarfs - Evil From The Sewers|3,99€|55|2023-05-01 13h|2023-05-08 13h|
+|10|mia-and-the-dragon-princess-f4e1d0|Mia and the Dragon Princess|11,69€|10|2023-05-04 11h|2023-05-10 11h|
+|11|bramble-the-mountain-king-c0d1c6|Bramble The Mountain King|31,39€|10|2023-04-27 13h|2023-05-10 13h|
+|12|destructure-among-debris-b4aaf8|DESTRUCTURE: Among Debris|7,19€|20|2023-04-27 13h|2023-05-11 13h|
+|13|brok-the-investigator-fb0513|BROK the InvestiGator|17,99€|25|2023-05-04 14h|2023-05-11 14h|
+|14|kao-the-kangaroo-62abe3|Kao the Kangaroo|29,99€|100|2023-05-04 15h|2023-05-11 15h|
 |15|kao-the-kangaroo-round-2-5d4d25|Kao the Kangaroo - Round 2|1,99€|50|2023-05-04 15h|2023-05-11 15h|
 |16|steel-rats-445306|Steel Rats|9,99€|90|2023-05-04 15h|2023-05-11 15h|
 |17|urban-trial-freestyle-b30b3e|Urban Trial Freestyle|6,99€|90|2023-05-04 15h|2023-05-11 15h|
