@@ -1,54 +1,55 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|1|breathedge|Breathedge|24,99€|100|2023-04-27 15h|2023-05-04 15h|
-|2|kao-the-kangaroo-62abe3|Kao the Kangaroo|29,99€|100|2023-05-04 15h|2023-05-11 15h|
-|3|poker-club-6e18ee|Poker Club|19,99€|100|2023-04-27 15h|2023-05-04 15h|
-|4|dark-future-blood-red-states|Dark Future: Blood Red States|19,99€|90|2023-05-25 15h|2023-06-01 15h|
-|5|steel-rats-445306|Steel Rats|9,99€|90|2023-05-04 15h|2023-05-11 15h|
-|6|urban-trial-freestyle-b30b3e|Urban Trial Freestyle|6,99€|90|2023-05-04 15h|2023-05-11 15h|
-|7|warhammer-40000-gladius-relics-of-war|Warhammer 40,000: Gladius - Relics of War|31,99€|90|2023-05-25 15h|2023-06-01 15h|
-|8|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|85|2023-06-16 04h|2023-08-02 04h|
-|9|in-sound-mind|In Sound Mind|34,99€|85|2023-04-28 14h|2023-05-12 14h|
-|10|lost-words-beyond-the-page|Lost Words: Beyond the Page|14,99€|85|2023-04-28 14h|2023-05-12 14h|
-|11|urban-trial-playground-41e403|Urban Trial Playground|6,99€|85|2023-05-04 15h|2023-05-11 15h|
-|12|warhammer-mechanicus-0e4b71|Warhammer 40,000: Mechanicus - Standard Edition|29,99€|84|2023-05-25 15h|2023-06-01 15h|
-|13|cris-tales|Cris Tales|39,99€|80|2023-04-28 14h|2023-05-12 14h|
-|14|override-2-super-mech-league|Override 2: Super Mech League|29,99€|80|2023-04-28 14h|2023-05-12 14h|
-|15|toem|TOEM|15,99€|70|2023-09-11 16h|2023-09-24 16h|
-|16|urban-trial-tricky-eb0205|Urban Trial Tricky Deluxe Edition|19,99€|70|2023-05-04 15h|2023-05-11 15h|
-|17|disaster-report-4-summer-memories|Disaster Report 4: Summer Memories|59,99€|60|2023-04-27 23h|2023-05-11 23h|
-|18|necromunda-hired-gun|Necromunda: Hired Gun|39,99€|60|2023-05-25 15h|2023-06-01 15h|
-|19|the-legend-of-heroes-trails-of-cold-steel-iii|The Legend of Heroes: Trails of Cold Steel III|59,99€|60|2023-04-27 23h|2023-05-11 23h|
-|20|radioactive-dwarfs-evil-from-the-sewers-b43f18|Radioactive Dwarfs - Evil From The Sewers|3,99€|55|2023-05-01 13h|2023-05-08 13h|
-|21|red-dust-5e7397|Red Dust|4,49€|55|2023-05-01 13h|2024-04-08 13h|
-|22|demon-turf|Demon Turf|21,99€|50|2023-05-08 14h|2023-05-15 14h|
-|23|kao-the-kangaroo-round-2-5d4d25|Kao the Kangaroo - Round 2|1,99€|50|2023-05-04 15h|2023-05-11 15h|
-|24|saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited|Saviors of Sapphire Wings & Strangers of Sword City Revisited|49,99€|50|2023-04-27 23h|2023-05-11 23h|
-|25|thems-fightin-herds|Them's Fightin' Herds|19,99€|50|2023-04-28 14h|2023-05-12 14h|
-|26|warhammer-40000-chaos-gate-daemonhunters|Warhammer 40,000: Chaos Gate - Daemonhunters|44,99€|50|2023-05-25 15h|2023-06-01 15h|
-|27|warhammer-age-of-sigmar-storm-ground|Warhammer Age of Sigmar: Storm Ground|19,99€|50|2023-05-25 15h|2023-06-01 15h|
-|28|warhammer-40000-battlesector|Warhammer 40,000: Battlesector|31,99€|45|2023-05-25 15h|2023-06-01 15h|
-|29|football-manager-2023|Football Manager 2023|59,99€|40|2023-05-15 16h|2023-05-22 16h|
-|30|poosh-xl-c580f2|Poosh XL|4,49€|40|2023-05-08 11h|2023-05-22 11h|
-|31|r-type-final-2|R-Type Final 2|39,99€|40|2023-04-27 23h|2023-05-11 23h|
-|32|replikator-6adddc|REPLIKATOR|9,99€|40|2023-05-01 13h|2023-05-08 13h|
-|33|the-legend-of-heroes-trails-of-cold-steel-iv|The Legend of Heroes: Trails of Cold Steel IV|59,99€|40|2023-04-27 23h|2023-05-11 23h|
-|34|992fe24788b54887a6bb867e8dfd3c6d-05|Shoulders of Giants|15,99€|35|2023-05-09 13h|2023-05-16 13h|
-|35|blossom-tales-ii-the-minotaur-prince-e74c95|Blossom Tales II The Minotaur Prince|12,49€|30|2023-05-08 14h|2023-05-15 14h|
-|36|the-first-spark-108e8a|The First Spark|3,59€|30|2023-04-27 16h|2023-05-11 16h|
-|37|ys-ix-monstrum-nox|Ys IX: Monstrum Nox|59,99€|30|2023-04-27 23h|2023-05-11 23h|
-|38|brok-the-investigator-fb0513|BROK the InvestiGator|17,99€|25|2023-05-04 14h|2023-05-11 14h|
-|39|city-of-beats-08f8c2|City of Beats|19,99€|20|2023-05-01 13h|2023-05-08 13h|
-|40|destructure-among-debris-b4aaf8|DESTRUCTURE: Among Debris|7,19€|20|2023-04-27 13h|2023-05-11 13h|
-|41|deceive-inc|Deceive Inc.|19,99€|20|2023-04-27 13h|2023-05-01 13h|
-|42|disgaea-6-complete|Disgaea 6 Complete|59,99€|20|2023-04-27 23h|2023-05-11 23h|
-|43|fallen-legion-revenants-a2c944|Fallen Legion Revenants|39,99€|20|2023-04-27 23h|2023-05-11 23h|
-|44|fallen-legion-rise-to-glory-0ea64a|Fallen Legion: Rise to Glory|29,99€|20|2023-04-27 23h|2023-05-11 23h|
-|45|mail-time-ed1aea|Mail Time|19,99€|20|2023-04-27 16h|2023-05-04 16h|
-|46|teslas-best-friend-c2acf4|Tesla's Best Friend|4,49€|20|2023-04-27 16h|2023-05-11 16h|
-|47|the-legend-of-heroes-trails-from-zero|The Legend of Heroes: Trails from Zero|39,99€|20|2023-04-27 23h|2023-05-11 23h|
-|48|voodolls-46c6a8|Voodolls|17,99€|20|2023-05-11 15h|2023-05-25 15h|
-|49|arcrunner-61fee6|ArcRunner|17,99€|10|2023-04-27 11h|2023-05-04 11h|
-|50|bramble-the-mountain-king-c0d1c6|Bramble The Mountain King|31,39€|10|2023-04-27 13h|2023-05-10 13h|
-|51|mia-and-the-dragon-princess-f4e1d0|Mia and the Dragon Princess|11,69€|10|2023-05-04 11h|2023-05-10 11h|
-|52|super-alloy-ranger-4252cc|Super Alloy Ranger|8,99€|10|2023-04-28 13h|2023-05-04 13h|
+|1|against-all-odds-409105|Against All Odds|0,00€|100|2023-05-04 15h|2023-05-11 15h|
+|2|breathedge|Breathedge|24,99€|100|2023-04-27 15h|2023-05-04 15h|
+|3|232747cb897b400dbbef9799432e7817|Kao the Kangaroo|29,99€|100|2023-05-04 15h|2023-05-11 15h|
+|4|poker-club-6e18ee|Poker Club|19,99€|100|2023-04-27 15h|2023-05-04 15h|
+|5|dark-future-blood-red-states|Dark Future: Blood Red States|19,99€|90|2023-05-25 15h|2023-06-01 15h|
+|6|steel-rats-445306|Steel Rats|9,99€|90|2023-05-04 15h|2023-05-11 15h|
+|7|urban-trial-freestyle-b30b3e|Urban Trial Freestyle|6,99€|90|2023-05-04 15h|2023-05-11 15h|
+|8|warhammer-40000-gladius-relics-of-war|Warhammer 40,000: Gladius - Relics of War|31,99€|90|2023-05-25 15h|2023-06-01 15h|
+|9|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|85|2023-06-16 04h|2023-08-02 04h|
+|10|in-sound-mind|In Sound Mind|34,99€|85|2023-04-28 14h|2023-05-12 14h|
+|11|lost-words-beyond-the-page|Lost Words: Beyond the Page|14,99€|85|2023-04-28 14h|2023-05-12 14h|
+|12|urban-trial-playground-41e403|Urban Trial Playground|6,99€|85|2023-05-04 15h|2023-05-11 15h|
+|13|warhammer-mechanicus-0e4b71|Warhammer 40,000: Mechanicus - Standard Edition|29,99€|84|2023-05-25 15h|2023-06-01 15h|
+|14|cris-tales|Cris Tales|39,99€|80|2023-04-28 14h|2023-05-12 14h|
+|15|override-2-super-mech-league|Override 2: Super Mech League|29,99€|80|2023-04-28 14h|2023-05-12 14h|
+|16|toem|TOEM|15,99€|70|2023-09-11 16h|2023-09-24 16h|
+|17|urban-trial-tricky-eb0205|Urban Trial Tricky Deluxe Edition|19,99€|70|2023-05-04 15h|2023-05-11 15h|
+|18|disaster-report-4-summer-memories|Disaster Report 4: Summer Memories|59,99€|60|2023-04-27 23h|2023-05-11 23h|
+|19|necromunda-hired-gun|Necromunda: Hired Gun|39,99€|60|2023-05-25 15h|2023-06-01 15h|
+|20|the-legend-of-heroes-trails-of-cold-steel-iii|The Legend of Heroes: Trails of Cold Steel III|59,99€|60|2023-04-27 23h|2023-05-11 23h|
+|21|radioactive-dwarfs-evil-from-the-sewers-b43f18|Radioactive Dwarfs - Evil From The Sewers|3,99€|55|2023-05-01 13h|2023-05-08 13h|
+|22|red-dust-5e7397|Red Dust|4,49€|55|2023-05-01 13h|2024-04-08 13h|
+|23|demon-turf|Demon Turf|21,99€|50|2023-05-08 14h|2023-05-15 14h|
+|24|kao-the-kangaroo-round-2-5d4d25|Kao the Kangaroo - Round 2|1,99€|50|2023-05-04 15h|2023-05-11 15h|
+|25|saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited|Saviors of Sapphire Wings & Strangers of Sword City Revisited|49,99€|50|2023-04-27 23h|2023-05-11 23h|
+|26|thems-fightin-herds|Them's Fightin' Herds|19,99€|50|2023-04-28 14h|2023-05-12 14h|
+|27|warhammer-40000-chaos-gate-daemonhunters|Warhammer 40,000: Chaos Gate - Daemonhunters|44,99€|50|2023-05-25 15h|2023-06-01 15h|
+|28|warhammer-age-of-sigmar-storm-ground|Warhammer Age of Sigmar: Storm Ground|19,99€|50|2023-05-25 15h|2023-06-01 15h|
+|29|warhammer-40000-battlesector|Warhammer 40,000: Battlesector|31,99€|45|2023-05-25 15h|2023-06-01 15h|
+|30|football-manager-2023|Football Manager 2023|59,99€|40|2023-05-15 16h|2023-05-22 16h|
+|31|poosh-xl-c580f2|Poosh XL|4,49€|40|2023-05-08 11h|2023-05-22 11h|
+|32|r-type-final-2|R-Type Final 2|39,99€|40|2023-04-27 23h|2023-05-11 23h|
+|33|replikator-6adddc|REPLIKATOR|9,99€|40|2023-05-01 13h|2023-05-08 13h|
+|34|the-legend-of-heroes-trails-of-cold-steel-iv|The Legend of Heroes: Trails of Cold Steel IV|59,99€|40|2023-04-27 23h|2023-05-11 23h|
+|35|992fe24788b54887a6bb867e8dfd3c6d-05|Shoulders of Giants|15,99€|35|2023-05-09 13h|2023-05-16 13h|
+|36|blossom-tales-ii-the-minotaur-prince-e74c95|Blossom Tales II The Minotaur Prince|12,49€|30|2023-05-08 14h|2023-05-15 14h|
+|37|the-first-spark-108e8a|The First Spark|3,59€|30|2023-04-27 16h|2023-05-11 16h|
+|38|ys-ix-monstrum-nox|Ys IX: Monstrum Nox|59,99€|30|2023-04-27 23h|2023-05-11 23h|
+|39|brok-the-investigator-fb0513|BROK the InvestiGator|17,99€|25|2023-05-04 14h|2023-05-11 14h|
+|40|city-of-beats-08f8c2|City of Beats|19,99€|20|2023-05-01 13h|2023-05-08 13h|
+|41|destructure-among-debris-b4aaf8|DESTRUCTURE: Among Debris|7,19€|20|2023-04-27 13h|2023-05-11 13h|
+|42|deceive-inc|Deceive Inc.|19,99€|20|2023-04-27 13h|2023-05-01 13h|
+|43|disgaea-6-complete|Disgaea 6 Complete|59,99€|20|2023-04-27 23h|2023-05-11 23h|
+|44|fallen-legion-revenants-a2c944|Fallen Legion Revenants|39,99€|20|2023-04-27 23h|2023-05-11 23h|
+|45|fallen-legion-rise-to-glory-0ea64a|Fallen Legion: Rise to Glory|29,99€|20|2023-04-27 23h|2023-05-11 23h|
+|46|mail-time-ed1aea|Mail Time|19,99€|20|2023-04-27 16h|2023-05-04 16h|
+|47|teslas-best-friend-c2acf4|Tesla's Best Friend|4,49€|20|2023-04-27 16h|2023-05-11 16h|
+|48|the-legend-of-heroes-trails-from-zero|The Legend of Heroes: Trails from Zero|39,99€|20|2023-04-27 23h|2023-05-11 23h|
+|49|voodolls-46c6a8|Voodolls|17,99€|20|2023-05-11 15h|2023-05-25 15h|
+|50|arcrunner-61fee6|ArcRunner|17,99€|10|2023-04-27 11h|2023-05-04 11h|
+|51|bramble-the-mountain-king-c0d1c6|Bramble The Mountain King|31,39€|10|2023-04-27 13h|2023-05-10 13h|
+|52|mia-and-the-dragon-princess-f4e1d0|Mia and the Dragon Princess|11,69€|10|2023-05-04 11h|2023-05-10 11h|
+|53|super-alloy-ranger-4252cc|Super Alloy Ranger|8,99€|10|2023-04-28 13h|2023-05-04 13h|
