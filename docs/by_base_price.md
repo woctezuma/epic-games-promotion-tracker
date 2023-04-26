@@ -18,7 +18,7 @@
 |16|warhammer-40000-gladius-relics-of-war|Warhammer 40,000: Gladius - Relics of War|31,99€|90|2023-05-25 15h|2023-06-01 15h|
 |17|bramble-the-mountain-king-c0d1c6|Bramble The Mountain King|31,39€|10|2023-04-27 13h|2023-05-10 13h|
 |18|fallen-legion-rise-to-glory-0ea64a|Fallen Legion: Rise to Glory|29,99€|20|2023-04-27 23h|2023-05-11 23h|
-|19|kao-the-kangaroo-62abe3|Kao the Kangaroo|29,99€|100|2023-05-04 15h|2023-05-11 15h|
+|19|232747cb897b400dbbef9799432e7817|Kao the Kangaroo|29,99€|100|2023-05-04 15h|2023-05-11 15h|
 |20|override-2-super-mech-league|Override 2: Super Mech League|29,99€|80|2023-04-28 14h|2023-05-12 14h|
 |21|warhammer-mechanicus-0e4b71|Warhammer 40,000: Mechanicus - Standard Edition|29,99€|84|2023-05-25 15h|2023-06-01 15h|
 |22|breathedge|Breathedge|24,99€|100|2023-04-27 15h|2023-05-04 15h|
@@ -52,3 +52,4 @@
 |50|radioactive-dwarfs-evil-from-the-sewers-b43f18|Radioactive Dwarfs - Evil From The Sewers|3,99€|55|2023-05-01 13h|2023-05-08 13h|
 |51|the-first-spark-108e8a|The First Spark|3,59€|30|2023-04-27 16h|2023-05-11 16h|
 |52|kao-the-kangaroo-round-2-5d4d25|Kao the Kangaroo - Round 2|1,99€|50|2023-05-04 15h|2023-05-11 15h|
+|53|against-all-odds-409105|Against All Odds|0,00€|100|2023-05-04 15h|2023-05-11 15h|
