@@ -9,22 +9,13 @@
     "title": "Against All Odds"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2023-05-04T11:00:00.000Z",
+    "discountPercentage": 20,
+    "endDate": "2023-05-08T14:30:00.000Z",
     "isFree": false,
-    "originalPrice": 1799,
-    "slug": "arcrunner-61fee6",
-    "startDate": "2023-04-27T11:00:00.000Z",
-    "title": "ArcRunner"
-  },
-  {
-    "discountPercentage": 10,
-    "endDate": "2023-05-04T11:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2239,
-    "slug": "ash-of-gods-the-way-58bd36",
-    "startDate": "2023-04-27T11:00:00.000Z",
-    "title": "Ash of Gods: The Way"
+    "originalPrice": 1999,
+    "slug": "arto-ff98ff",
+    "startDate": "2023-05-01T14:30:00.000Z",
+    "title": "Arto"
   },
   {
     "discountPercentage": 25,
@@ -43,15 +34,6 @@
     "slug": "blossom-tales-ii-the-minotaur-prince-e74c95",
     "startDate": "2023-05-08T14:00:00.000Z",
     "title": "Blossom Tales II The Minotaur Prince"
-  },
-  {
-    "discountPercentage": 10,
-    "endDate": "2023-05-10T13:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3139,
-    "slug": "bramble-the-mountain-king-c0d1c6",
-    "startDate": "2023-04-27T13:00:00.000Z",
-    "title": "Bramble The Mountain King"
   },
   {
     "discountPercentage": 100,
@@ -90,15 +72,6 @@
     "title": "Cris Tales"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2023-05-11T13:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 719,
-    "slug": "destructure-among-debris-b4aaf8",
-    "startDate": "2023-04-27T13:00:00.000Z",
-    "title": "DESTRUCTURE: Among Debris"
-  },
-  {
     "discountPercentage": 90,
     "endDate": "2023-06-01T15:00:00.000Z",
     "isFree": false,
@@ -106,15 +79,6 @@
     "slug": "dark-future-blood-red-states",
     "startDate": "2023-05-25T15:00:00.000Z",
     "title": "Dark Future: Blood Red States"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2023-05-01T13:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "deceive-inc",
-    "startDate": "2023-04-27T13:00:00.000Z",
-    "title": "Deceive Inc."
   },
   {
     "discountPercentage": 50,
@@ -145,6 +109,15 @@
   },
   {
     "discountPercentage": 20,
+    "endDate": "2023-05-12T00:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "disgaea-6-complete",
+    "startDate": "2023-04-28T00:00:00.000Z",
+    "title": "Disgaea 6 Complete"
+  },
+  {
+    "discountPercentage": 20,
     "endDate": "2023-05-11T23:00:00.000Z",
     "isFree": false,
     "originalPrice": 3999,
@@ -154,11 +127,29 @@
   },
   {
     "discountPercentage": 20,
+    "endDate": "2023-05-12T00:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "fallen-legion-revenants-a2c944",
+    "startDate": "2023-04-28T00:00:00.000Z",
+    "title": "Fallen Legion Revenants"
+  },
+  {
+    "discountPercentage": 20,
     "endDate": "2023-05-11T23:00:00.000Z",
     "isFree": false,
     "originalPrice": 2999,
     "slug": "fallen-legion-rise-to-glory-0ea64a",
     "startDate": "2023-04-27T23:00:00.000Z",
+    "title": "Fallen Legion: Rise to Glory"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-05-12T00:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "fallen-legion-rise-to-glory-0ea64a",
+    "startDate": "2023-04-28T00:00:00.000Z",
     "title": "Fallen Legion: Rise to Glory"
   },
   {
@@ -187,15 +178,6 @@
     "slug": "in-sound-mind",
     "startDate": "2023-04-28T14:00:00.000Z",
     "title": "In Sound Mind"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2023-05-03T06:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1349,
-    "slug": "jydge-14242d",
-    "startDate": "2023-04-27T06:00:00.000Z",
-    "title": "JYDGE"
   },
   {
     "discountPercentage": 100,
@@ -243,6 +225,15 @@
     "title": "Mia and the Dragon Princess"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2023-05-08T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "monster-tribe-3ca102",
+    "startDate": "2023-05-01T15:00:00.000Z",
+    "title": "Monster Tribe"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2023-06-01T15:00:00.000Z",
     "isFree": false,
@@ -286,6 +277,24 @@
     "slug": "r-type-final-2",
     "startDate": "2023-04-27T23:00:00.000Z",
     "title": "R-Type Final 2"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-05-12T00:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "r-type-final-2",
+    "startDate": "2023-04-28T00:00:00.000Z",
+    "title": "R-Type Final 2"
+  },
+  {
+    "discountPercentage": 34,
+    "endDate": "2023-05-08T13:30:00.000Z",
+    "isFree": false,
+    "originalPrice": 299,
+    "slug": "rice-d1b792",
+    "startDate": "2023-05-01T13:30:00.000Z",
+    "title": "R.I.C.E."
   },
   {
     "discountPercentage": 40,
@@ -339,6 +348,15 @@
     "originalPrice": 4999,
     "slug": "saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited",
     "startDate": "2023-04-27T23:00:00.000Z",
+    "title": "Saviors of Sapphire Wings & Strangers of Sword City Revisited"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-05-12T00:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited",
+    "startDate": "2023-04-28T00:00:00.000Z",
     "title": "Saviors of Sapphire Wings & Strangers of Sword City Revisited"
   },
   {
@@ -397,11 +415,29 @@
   },
   {
     "discountPercentage": 20,
+    "endDate": "2023-05-04T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2239,
+    "slug": "the-last-case-of-benedict-fox-4abc3a",
+    "startDate": "2023-04-27T17:00:00.000Z",
+    "title": "The Last Case of Benedict Fox"
+  },
+  {
+    "discountPercentage": 20,
     "endDate": "2023-05-11T23:00:00.000Z",
     "isFree": false,
     "originalPrice": 3999,
     "slug": "the-legend-of-heroes-trails-from-zero",
     "startDate": "2023-04-27T23:00:00.000Z",
+    "title": "The Legend of Heroes: Trails from Zero"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-05-12T00:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "the-legend-of-heroes-trails-from-zero",
+    "startDate": "2023-04-28T00:00:00.000Z",
     "title": "The Legend of Heroes: Trails from Zero"
   },
   {
@@ -414,6 +450,15 @@
     "title": "The Legend of Heroes: Trails of Cold Steel III"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2023-05-12T00:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "the-legend-of-heroes-trails-of-cold-steel-iii",
+    "startDate": "2023-04-28T00:00:00.000Z",
+    "title": "The Legend of Heroes: Trails of Cold Steel III"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2023-05-11T23:00:00.000Z",
     "isFree": false,
@@ -421,6 +466,24 @@
     "slug": "the-legend-of-heroes-trails-of-cold-steel-iv",
     "startDate": "2023-04-27T23:00:00.000Z",
     "title": "The Legend of Heroes: Trails of Cold Steel IV"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-05-12T00:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "the-legend-of-heroes-trails-of-cold-steel-iv",
+    "startDate": "2023-04-28T00:00:00.000Z",
+    "title": "The Legend of Heroes: Trails of Cold Steel IV"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-05-08T15:30:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "the-witch-of-fern-island-18df35",
+    "startDate": "2023-05-01T15:30:00.000Z",
+    "title": "The Witch of Fern Island"
   },
   {
     "discountPercentage": 50,
@@ -468,6 +531,15 @@
     "title": "Voodolls"
   },
   {
+    "discountPercentage": 55,
+    "endDate": "2023-05-08T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "voodoo-detective-75d493",
+    "startDate": "2023-05-01T15:00:00.000Z",
+    "title": "Voodoo Detective"
+  },
+  {
     "discountPercentage": 45,
     "endDate": "2023-06-01T15:00:00.000Z",
     "isFree": false,
@@ -513,12 +585,30 @@
     "title": "Warhammer Age of Sigmar: Storm Ground"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2023-05-08T14:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "world-turtles-b2139d",
+    "startDate": "2023-05-01T14:00:00.000Z",
+    "title": "World Turtles"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2023-05-11T23:00:00.000Z",
     "isFree": false,
     "originalPrice": 5999,
     "slug": "ys-ix-monstrum-nox",
     "startDate": "2023-04-27T23:00:00.000Z",
+    "title": "Ys IX: Monstrum Nox"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2023-05-12T00:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "ys-ix-monstrum-nox",
+    "startDate": "2023-04-28T00:00:00.000Z",
     "title": "Ys IX: Monstrum Nox"
   }
 ]
