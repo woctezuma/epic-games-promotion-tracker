@@ -36,15 +36,6 @@
     "title": "Blossom Tales II The Minotaur Prince"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2023-05-04T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 2499,
-    "slug": "breathedge",
-    "startDate": "2023-04-27T15:00:00.000Z",
-    "title": "Breathedge"
-  },
-  {
     "discountPercentage": 85,
     "endDate": "2023-08-02T04:00:00.000Z",
     "isFree": false,
@@ -250,15 +241,6 @@
     "slug": "override-2-super-mech-league",
     "startDate": "2023-04-28T14:00:00.000Z",
     "title": "Override 2: Super Mech League"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2023-05-04T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 1999,
-    "slug": "poker-club-6e18ee",
-    "startDate": "2023-04-27T15:00:00.000Z",
-    "title": "Poker Club"
   },
   {
     "discountPercentage": 40,
