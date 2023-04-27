@@ -29,42 +29,40 @@
 |27|kao-the-kangaroo-62abe3|Kao the Kangaroo|29,99€|100|2023-05-04 15h|2023-05-11 15h|
 |28|override-2-super-mech-league|Override 2: Super Mech League|29,99€|80|2023-04-28 14h|2023-05-12 14h|
 |29|warhammer-mechanicus-0e4b71|Warhammer 40,000: Mechanicus - Standard Edition|29,99€|84|2023-05-25 15h|2023-06-01 15h|
-|30|breathedge|Breathedge|24,99€|100|2023-04-27 15h|2023-05-04 15h|
-|31|the-last-case-of-benedict-fox-4abc3a|The Last Case of Benedict Fox|22,39€|20|2023-04-27 17h|2023-05-04 17h|
-|32|demon-turf|Demon Turf|21,99€|50|2023-05-08 14h|2023-05-15 14h|
-|33|arto-ff98ff|Arto|19,99€|20|2023-05-01 14h|2023-05-08 14h|
-|34|city-of-beats-08f8c2|City of Beats|19,99€|20|2023-05-01 13h|2023-05-08 13h|
-|35|dark-future-blood-red-states|Dark Future: Blood Red States|19,99€|90|2023-05-25 15h|2023-06-01 15h|
-|36|mail-time-ed1aea|Mail Time|19,99€|20|2023-04-27 16h|2023-05-04 16h|
-|37|monster-tribe-3ca102|Monster Tribe|19,99€|20|2023-05-01 15h|2023-05-08 15h|
-|38|poker-club-6e18ee|Poker Club|19,99€|100|2023-04-27 15h|2023-05-04 15h|
-|39|rogue-legacy-2|Rogue Legacy 2|19,99€|30|2023-04-28 17h|2023-05-05 17h|
-|40|the-witch-of-fern-island-18df35|The Witch of Fern Island|19,99€|20|2023-05-01 15h|2023-05-08 15h|
-|41|thems-fightin-herds|Them's Fightin' Herds|19,99€|50|2023-04-28 14h|2023-05-12 14h|
-|42|urban-trial-tricky-eb0205|Urban Trial Tricky Deluxe Edition|19,99€|70|2023-05-04 15h|2023-05-11 15h|
-|43|warhammer-age-of-sigmar-storm-ground|Warhammer Age of Sigmar: Storm Ground|19,99€|50|2023-05-25 15h|2023-06-01 15h|
-|44|world-turtles-b2139d|World Turtles|19,99€|20|2023-05-01 14h|2023-05-08 14h|
-|45|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|85|2023-06-16 04h|2023-08-02 04h|
-|46|brok-the-investigator-fb0513|BROK the InvestiGator|17,99€|25|2023-05-04 14h|2023-05-11 14h|
-|47|voodolls-46c6a8|Voodolls|17,99€|20|2023-05-11 15h|2023-05-25 15h|
-|48|horizon-chase-turbo|Horizon Chase Turbo|15,99€|100|2023-05-04 15h|2023-05-11 15h|
-|49|992fe24788b54887a6bb867e8dfd3c6d-05|Shoulders of Giants|15,99€|35|2023-05-09 13h|2023-05-16 13h|
-|50|toem|TOEM|15,99€|70|2023-09-11 16h|2023-09-24 16h|
-|51|lost-words-beyond-the-page|Lost Words: Beyond the Page|14,99€|85|2023-04-28 14h|2023-05-12 14h|
-|52|blossom-tales-ii-the-minotaur-prince-e74c95|Blossom Tales II The Minotaur Prince|12,49€|30|2023-05-08 14h|2023-05-15 14h|
-|53|rogue-legacy|Rogue Legacy|11,99€|80|2023-04-28 17h|2023-05-05 17h|
-|54|voodoo-detective-75d493|Voodoo Detective|11,99€|55|2023-05-01 15h|2023-05-08 15h|
-|55|mia-and-the-dragon-princess-f4e1d0|Mia and the Dragon Princess|11,69€|10|2023-05-04 11h|2023-05-10 11h|
-|56|replikator-6adddc|REPLIKATOR|9,99€|40|2023-05-01 13h|2023-05-08 13h|
-|57|steel-rats-445306|Steel Rats|9,99€|90|2023-05-04 15h|2023-05-11 15h|
-|58|super-alloy-ranger-4252cc|Super Alloy Ranger|8,99€|10|2023-04-28 13h|2023-05-04 13h|
-|59|urban-trial-freestyle-b30b3e|Urban Trial Freestyle|6,99€|90|2023-05-04 15h|2023-05-11 15h|
-|60|urban-trial-playground-41e403|Urban Trial Playground|6,99€|85|2023-05-04 15h|2023-05-11 15h|
-|61|poosh-xl-c580f2|Poosh XL|4,49€|40|2023-05-08 11h|2023-05-22 11h|
-|62|red-dust-5e7397|Red Dust|4,49€|55|2023-05-01 13h|2024-04-08 13h|
-|63|teslas-best-friend-c2acf4|Tesla's Best Friend|4,49€|20|2023-04-27 16h|2023-05-11 16h|
-|64|radioactive-dwarfs-evil-from-the-sewers-b43f18|Radioactive Dwarfs - Evil From The Sewers|3,99€|55|2023-05-01 13h|2023-05-08 13h|
-|65|the-first-spark-108e8a|The First Spark|3,59€|30|2023-04-27 16h|2023-05-11 16h|
-|66|rice-d1b792|R.I.C.E.|2,99€|34|2023-05-01 13h|2023-05-08 13h|
-|67|kao-the-kangaroo-round-2-5d4d25|Kao the Kangaroo - Round 2|1,99€|50|2023-05-04 15h|2023-05-11 15h|
-|68|against-all-odds-409105|Against All Odds|0,00€|100|2023-05-04 15h|2023-05-11 15h|
+|30|the-last-case-of-benedict-fox-4abc3a|The Last Case of Benedict Fox|22,39€|20|2023-04-27 17h|2023-05-04 17h|
+|31|demon-turf|Demon Turf|21,99€|50|2023-05-08 14h|2023-05-15 14h|
+|32|arto-ff98ff|Arto|19,99€|20|2023-05-01 14h|2023-05-08 14h|
+|33|city-of-beats-08f8c2|City of Beats|19,99€|20|2023-05-01 13h|2023-05-08 13h|
+|34|dark-future-blood-red-states|Dark Future: Blood Red States|19,99€|90|2023-05-25 15h|2023-06-01 15h|
+|35|mail-time-ed1aea|Mail Time|19,99€|20|2023-04-27 16h|2023-05-04 16h|
+|36|monster-tribe-3ca102|Monster Tribe|19,99€|20|2023-05-01 15h|2023-05-08 15h|
+|37|rogue-legacy-2|Rogue Legacy 2|19,99€|30|2023-04-28 17h|2023-05-05 17h|
+|38|the-witch-of-fern-island-18df35|The Witch of Fern Island|19,99€|20|2023-05-01 15h|2023-05-08 15h|
+|39|thems-fightin-herds|Them's Fightin' Herds|19,99€|50|2023-04-28 14h|2023-05-12 14h|
+|40|urban-trial-tricky-eb0205|Urban Trial Tricky Deluxe Edition|19,99€|70|2023-05-04 15h|2023-05-11 15h|
+|41|warhammer-age-of-sigmar-storm-ground|Warhammer Age of Sigmar: Storm Ground|19,99€|50|2023-05-25 15h|2023-06-01 15h|
+|42|world-turtles-b2139d|World Turtles|19,99€|20|2023-05-01 14h|2023-05-08 14h|
+|43|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|85|2023-06-16 04h|2023-08-02 04h|
+|44|brok-the-investigator-fb0513|BROK the InvestiGator|17,99€|25|2023-05-04 14h|2023-05-11 14h|
+|45|voodolls-46c6a8|Voodolls|17,99€|20|2023-05-11 15h|2023-05-25 15h|
+|46|horizon-chase-turbo|Horizon Chase Turbo|15,99€|100|2023-05-04 15h|2023-05-11 15h|
+|47|992fe24788b54887a6bb867e8dfd3c6d-05|Shoulders of Giants|15,99€|35|2023-05-09 13h|2023-05-16 13h|
+|48|toem|TOEM|15,99€|70|2023-09-11 16h|2023-09-24 16h|
+|49|lost-words-beyond-the-page|Lost Words: Beyond the Page|14,99€|85|2023-04-28 14h|2023-05-12 14h|
+|50|blossom-tales-ii-the-minotaur-prince-e74c95|Blossom Tales II The Minotaur Prince|12,49€|30|2023-05-08 14h|2023-05-15 14h|
+|51|rogue-legacy|Rogue Legacy|11,99€|80|2023-04-28 17h|2023-05-05 17h|
+|52|voodoo-detective-75d493|Voodoo Detective|11,99€|55|2023-05-01 15h|2023-05-08 15h|
+|53|mia-and-the-dragon-princess-f4e1d0|Mia and the Dragon Princess|11,69€|10|2023-05-04 11h|2023-05-10 11h|
+|54|replikator-6adddc|REPLIKATOR|9,99€|40|2023-05-01 13h|2023-05-08 13h|
+|55|steel-rats-445306|Steel Rats|9,99€|90|2023-05-04 15h|2023-05-11 15h|
+|56|super-alloy-ranger-4252cc|Super Alloy Ranger|8,99€|10|2023-04-28 13h|2023-05-04 13h|
+|57|urban-trial-freestyle-b30b3e|Urban Trial Freestyle|6,99€|90|2023-05-04 15h|2023-05-11 15h|
+|58|urban-trial-playground-41e403|Urban Trial Playground|6,99€|85|2023-05-04 15h|2023-05-11 15h|
+|59|poosh-xl-c580f2|Poosh XL|4,49€|40|2023-05-08 11h|2023-05-22 11h|
+|60|red-dust-5e7397|Red Dust|4,49€|55|2023-05-01 13h|2024-04-08 13h|
+|61|teslas-best-friend-c2acf4|Tesla's Best Friend|4,49€|20|2023-04-27 16h|2023-05-11 16h|
+|62|radioactive-dwarfs-evil-from-the-sewers-b43f18|Radioactive Dwarfs - Evil From The Sewers|3,99€|55|2023-05-01 13h|2023-05-08 13h|
+|63|the-first-spark-108e8a|The First Spark|3,59€|30|2023-04-27 16h|2023-05-11 16h|
+|64|rice-d1b792|R.I.C.E.|2,99€|34|2023-05-01 13h|2023-05-08 13h|
+|65|kao-the-kangaroo-round-2-5d4d25|Kao the Kangaroo - Round 2|1,99€|50|2023-05-04 15h|2023-05-11 15h|
+|66|against-all-odds-409105|Against All Odds|0,00€|100|2023-05-04 15h|2023-05-11 15h|
