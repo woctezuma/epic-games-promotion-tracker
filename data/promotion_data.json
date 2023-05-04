@@ -126,15 +126,6 @@
     "title": "Heroines of Swords & Spells + Green Furies DLC"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2023-05-11T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 1599,
-    "slug": "horizon-chase-turbo",
-    "startDate": "2023-05-04T15:00:00.000Z",
-    "title": "Horizon Chase Turbo"
-  },
-  {
     "discountPercentage": 60,
     "endDate": "2023-05-29T12:00:00.000Z",
     "isFree": false,
@@ -162,24 +153,6 @@
     "title": "Judas"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2023-05-11T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 2999,
-    "slug": "kao-the-kangaroo-62abe3",
-    "startDate": "2023-05-04T15:00:00.000Z",
-    "title": "Kao the Kangaroo"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2023-05-11T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 199,
-    "slug": "kao-the-kangaroo-round-2-5d4d25",
-    "startDate": "2023-05-04T15:00:00.000Z",
-    "title": "Kao the Kangaroo - Round 2"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2023-06-05T13:00:00.000Z",
     "isFree": false,
@@ -187,15 +160,6 @@
     "slug": "kill-fish-1c85e9",
     "startDate": "2023-05-29T13:00:00.000Z",
     "title": "Kill Fish"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2023-05-11T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 4999,
-    "slug": "lego-star-wars-the-skywalker-saga",
-    "startDate": "2023-05-04T15:00:00.000Z",
-    "title": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   {
     "discountPercentage": 67,
@@ -261,15 +225,6 @@
     "title": "Necromunda: Hired Gun"
   },
   {
-    "discountPercentage": 30,
-    "endDate": "2023-05-08T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1799,
-    "slug": "neuronet-mendax-proxy",
-    "startDate": "2023-05-04T15:00:00.000Z",
-    "title": "NeuroNet: Mendax Proxy"
-  },
-  {
     "discountPercentage": 40,
     "endDate": "2023-05-29T12:00:00.000Z",
     "isFree": false,
@@ -295,15 +250,6 @@
     "slug": "occupy-mars",
     "startDate": "2023-05-10T16:00:00.000Z",
     "title": "Occupy Mars: The Game"
-  },
-  {
-    "discountPercentage": 0,
-    "endDate": "2023-05-11T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 0,
-    "slug": "pinball-fx",
-    "startDate": "2023-05-04T15:00:00.000Z",
-    "title": "Pinball FX"
   },
   {
     "discountPercentage": 40,
@@ -349,15 +295,6 @@
     "slug": "soccer-story-c2fe73",
     "startDate": "2023-05-08T12:00:00.000Z",
     "title": "Soccer Story"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2023-05-11T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "steel-rats-445306",
-    "startDate": "2023-05-04T15:00:00.000Z",
-    "title": "Steel Rats"
   },
   {
     "discountPercentage": 25,
@@ -475,33 +412,6 @@
     "slug": "upaon-a-snakes-journey-672f92",
     "startDate": "2023-05-16T17:00:00.000Z",
     "title": "Upaon A Snakes Journey"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2023-05-11T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 699,
-    "slug": "urban-trial-freestyle-b30b3e",
-    "startDate": "2023-05-04T15:00:00.000Z",
-    "title": "Urban Trial Freestyle"
-  },
-  {
-    "discountPercentage": 85,
-    "endDate": "2023-05-11T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 699,
-    "slug": "urban-trial-playground-41e403",
-    "startDate": "2023-05-04T15:00:00.000Z",
-    "title": "Urban Trial Playground"
-  },
-  {
-    "discountPercentage": 70,
-    "endDate": "2023-05-11T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "urban-trial-tricky-eb0205",
-    "startDate": "2023-05-04T15:00:00.000Z",
-    "title": "Urban Trial Tricky Deluxe Edition"
   },
   {
     "discountPercentage": 10,
