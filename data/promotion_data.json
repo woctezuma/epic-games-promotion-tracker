@@ -1332,6 +1332,15 @@
     "title": "CARRION"
   },
   {
+    "discountPercentage": 35,
+    "endDate": "2023-06-15T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1449,
+    "slug": "cafe-owner-simulator-749e0f",
+    "startDate": "2023-05-18T15:00:00.000Z",
+    "title": "Cafe Owner Simulator"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2023-06-15T15:00:00.000Z",
     "isFree": false,
@@ -1897,6 +1906,15 @@
     "slug": "deathloop-ghostwire-tokyo-bundle",
     "startDate": "2023-05-18T15:00:00.000Z",
     "title": "DEATHLOOP + Ghostwire: Tokyo Bundle"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-06-15T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 719,
+    "slug": "destructure-among-debris-b4aaf8",
+    "startDate": "2023-05-28T15:00:00.000Z",
+    "title": "DESTRUCTURE: Among Debris"
   },
   {
     "discountPercentage": 40,
@@ -5427,15 +5445,6 @@
     "title": "Mystery Game"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2023-05-25T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 0,
-    "slug": "mystery-game-2",
-    "startDate": "2023-05-18T15:01:00.000Z",
-    "title": "Mystery Game"
-  },
-  {
     "discountPercentage": 40,
     "endDate": "2023-06-15T15:00:00.000Z",
     "isFree": false,
@@ -6937,6 +6946,15 @@
     "slug": "scott-pilgrim-vs-the-world-the-game",
     "startDate": "2023-05-18T15:00:00.000Z",
     "title": "Scott Pilgrim vs. The World: The Game \u2013 Complete Edition"
+  },
+  {
+    "discountPercentage": 58,
+    "endDate": "2023-06-15T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1099,
+    "slug": "scrapnaut",
+    "startDate": "2023-05-18T15:00:00.000Z",
+    "title": "Scrapnaut"
   },
   {
     "discountPercentage": 15,
@@ -9673,6 +9691,15 @@
     "slug": "urban-trial-tricky-eb0205",
     "startDate": "2023-05-18T15:00:00.000Z",
     "title": "Urban Trial Tricky Deluxe Edition"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2023-06-15T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1449,
+    "slug": "urbek-city-builder-17cf7d",
+    "startDate": "2023-05-18T15:00:00.000Z",
+    "title": "Urbek City Builder"
   },
   {
     "discountPercentage": 60,
