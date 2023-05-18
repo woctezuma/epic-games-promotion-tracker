@@ -1899,6 +1899,15 @@
     "title": "Cyberpunk 2077"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2023-05-25T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 0,
+    "slug": "death-stranding",
+    "startDate": "2023-05-18T15:00:00.000Z",
+    "title": "DEATH STRANDING"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2023-06-15T15:00:00.000Z",
     "isFree": false,
@@ -3037,7 +3046,7 @@
     "endDate": "2023-06-15T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 799,
-    "slug": "6f314669a74747f5904a22870ef1a5b7",
+    "slug": "fireburst-3c29b4",
     "startDate": "2023-05-18T15:00:00.000Z",
     "title": "Fireburst"
   },
@@ -4036,7 +4045,7 @@
     "endDate": "2023-06-15T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1199,
-    "slug": "b6cdeb8972f64c418d78c1aba34bc040",
+    "slug": "in-other-waters-771a9b",
     "startDate": "2023-05-18T15:00:00.000Z",
     "title": "In Other Waters"
   },
@@ -5443,15 +5452,6 @@
     "slug": "my-memory-of-us-709675",
     "startDate": "2023-05-18T15:00:00.000Z",
     "title": "My Memory of Us"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2023-05-25T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 0,
-    "slug": "mystery-game-1",
-    "startDate": "2023-05-18T15:00:00.000Z",
-    "title": "Mystery Game"
   },
   {
     "discountPercentage": 40,
