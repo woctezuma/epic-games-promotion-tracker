@@ -1,6 +1,6 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|1|mystery-game-1|Mystery Game|0,00€|100|2023-05-18 15h|2023-05-25 15h|
+|1|death-stranding|DEATH STRANDING|0,00€|100|2023-05-18 15h|2023-05-25 15h|
 |2|edge-of-galaxy-092087|Edge Of Galaxy|6,99€|50|2023-05-22 13h|2023-05-29 13h|
 |3|ghost-blood-91ed9f|Ghost Blood|3,59€|50|2023-05-22 13h|2023-05-29 13h|
 |4|the-silent-age-eb6972|The Silent Age|7,99€|80|2023-05-22 13h|2023-05-29 13h|
@@ -353,7 +353,7 @@
 |351|filament-332a92|Filament|16,99€|70|2023-05-18 15h|2023-06-15 15h|
 |352|filthy-animals-f6c65c|Filthy Animals \| Heist Simulator|17,99€|20|2023-05-18 15h|2023-06-15 15h|
 |353|fire-44c606|Fire: Ungh’s Quest|9,99€|90|2023-05-18 15h|2023-06-15 15h|
-|354|6f314669a74747f5904a22870ef1a5b7|Fireburst|7,99€|80|2023-05-18 15h|2023-06-15 15h|
+|354|fireburst-3c29b4|Fireburst|7,99€|80|2023-05-18 15h|2023-06-15 15h|
 |355|firegirl-29bf39|Firegirl: Hack 'n Splash Rescue DX|17,99€|60|2023-05-18 15h|2023-06-15 15h|
 |356|fires-at-midnight-b6c3ea|Fires At Midnight|9,99€|50|2023-05-18 15h|2023-06-15 15h|
 |357|first-class-trouble|First Class Trouble|14,49€|60|2023-05-18 15h|2023-06-15 15h|
@@ -461,7 +461,7 @@
 |459|ignition-5246f9|Ignition|7,99€|15|2023-05-18 15h|2023-06-15 15h|
 |460|imagine-earth-7498e4|Imagine Earth|24,99€|55|2023-05-18 15h|2023-06-15 15h|
 |461|imp-of-the-sun|Imp of the Sun|19,99€|50|2023-05-18 15h|2023-06-15 15h|
-|462|b6cdeb8972f64c418d78c1aba34bc040|In Other Waters|11,99€|70|2023-05-18 15h|2023-06-15 15h|
+|462|in-other-waters-771a9b|In Other Waters|11,99€|70|2023-05-18 15h|2023-06-15 15h|
 |463|inertial-drift|Inertial Drift|15,99€|60|2023-05-18 15h|2023-06-15 15h|
 |464|innerspace|InnerSpace|19,99€|95|2023-05-18 15h|2023-06-15 15h|
 |465|inscryption-6b29ab|Inscryption|19,98€|30|2023-05-18 15h|2023-06-15 15h|
