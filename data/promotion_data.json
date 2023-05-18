@@ -1908,6 +1908,15 @@
     "title": "DEATH STRANDING"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2023-05-25T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 2399,
+    "slug": "death-stranding",
+    "startDate": "2023-05-18T15:00:00.000Z",
+    "title": "DEATH STRANDING"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2023-06-15T15:00:00.000Z",
     "isFree": false,
@@ -5452,6 +5461,15 @@
     "slug": "my-memory-of-us-709675",
     "startDate": "2023-05-18T15:00:00.000Z",
     "title": "My Memory of Us"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2023-06-01T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 0,
+    "slug": "mystery-game-3",
+    "startDate": "2023-05-25T15:00:00.000Z",
+    "title": "Mystery Game"
   },
   {
     "discountPercentage": 40,
