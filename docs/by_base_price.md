@@ -857,7 +857,7 @@
 |855|henchman-story-327af4|HENCHMAN STORY|11,99€|40|2023-05-18 15h|2023-06-15 15h|
 |856|hue|Hue|11,99€|80|2023-05-18 15h|2023-06-15 15h|
 |857|human-resource-machine|Human Resource Machine|11,99€|50|2023-05-18 15h|2023-06-15 15h|
-|858|b6cdeb8972f64c418d78c1aba34bc040|In Other Waters|11,99€|70|2023-05-18 15h|2023-06-15 15h|
+|858|in-other-waters-771a9b|In Other Waters|11,99€|70|2023-05-18 15h|2023-06-15 15h|
 |859|jars-e39063|JARS|11,99€|75|2023-05-18 15h|2023-06-15 15h|
 |860|joggernauts-a7767f|Joggernauts|11,99€|75|2023-05-18 15h|2023-06-15 15h|
 |861|kill-it-with-fire|Kill It With Fire|11,99€|75|2023-05-18 15h|2023-06-15 15h|
@@ -1000,7 +1000,7 @@
 |998|dragon-wars-92b684|Dragon Wars|7,99€|15|2023-05-18 15h|2023-06-15 15h|
 |999|earthworm-jim-9f7cd1|Earthworm Jim|7,99€|15|2023-05-18 15h|2023-06-15 15h|
 |1000|earthworm-jim-2-c3710b|Earthworm Jim 2|7,99€|15|2023-05-18 15h|2023-06-15 15h|
-|1001|6f314669a74747f5904a22870ef1a5b7|Fireburst|7,99€|80|2023-05-18 15h|2023-06-15 15h|
+|1001|fireburst-3c29b4|Fireburst|7,99€|80|2023-05-18 15h|2023-06-15 15h|
 |1002|flatout-2-9ffdd6|Flatout 2|7,99€|80|2023-05-18 15h|2023-06-15 15h|
 |1003|naval-combat-package-34e444|Fleet Command|7,99€|80|2023-05-18 15h|2023-06-15 15h|
 |1004|freshly-frosted-c636d0|Freshly Frosted|7,99€|35|2023-05-18 15h|2023-06-15 15h|
@@ -1156,7 +1156,7 @@
 |1154|space-empires-ii-1fece2|Space Empires II|1,59€|80|2023-05-18 15h|2023-06-15 15h|
 |1155|space-empires-iii-38e873|Space Empires III|1,59€|80|2023-05-18 15h|2023-06-15 15h|
 |1156|space-empires-i-02f40b|Space Empires I|0,79€|85|2023-05-18 15h|2023-06-15 15h|
-|1157|judas|Judas|0,00€|67|2023-05-18 15h|2023-06-15 15h|
-|1158|judas|Judas|0,00€|67|2023-05-29 13h|2023-06-05 13h|
-|1159|mystery-game-1|Mystery Game|0,00€|100|2023-05-18 15h|2023-05-25 15h|
+|1157|death-stranding|DEATH STRANDING|0,00€|100|2023-05-18 15h|2023-05-25 15h|
+|1158|judas|Judas|0,00€|67|2023-05-18 15h|2023-06-15 15h|
+|1159|judas|Judas|0,00€|67|2023-05-29 13h|2023-06-05 13h|
 |1160|spellforce-3-versus|SpellForce 3: Versus Edition|0,00€|75|2023-05-18 15h|2023-06-15 15h|

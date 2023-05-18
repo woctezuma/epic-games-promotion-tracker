@@ -1,6 +1,6 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|1|mystery-game-1|Mystery Game|0,00€|100|2023-05-18 15h|2023-05-25 15h|
+|1|death-stranding|DEATH STRANDING|0,00€|100|2023-05-18 15h|2023-05-25 15h|
 |2|innerspace|InnerSpace|19,99€|95|2023-05-18 15h|2023-06-15 15h|
 |3|xcom-2|XCOM® 2|49,99€|95|2023-05-18 15h|2023-06-15 15h|
 |4|a-knights-quest|A Knights Quest|24,99€|90|2023-05-18 15h|2023-06-15 15h|
@@ -111,7 +111,7 @@
 |109|fall-of-light-darkest-edition-055f95|Fall of Light: Darkest Edition|14,99€|80|2023-05-18 15h|2023-06-15 15h|
 |110|fantasy-wars-ec9601|Fantasy Wars|4,99€|80|2023-05-18 15h|2023-06-15 15h|
 |111|far-cry-new-dawn|Far Cry New Dawn Standard Edition|44,99€|80|2023-05-18 15h|2023-06-15 15h|
-|112|6f314669a74747f5904a22870ef1a5b7|Fireburst|7,99€|80|2023-05-18 15h|2023-06-15 15h|
+|112|fireburst-3c29b4|Fireburst|7,99€|80|2023-05-18 15h|2023-06-15 15h|
 |113|flatout-2-9ffdd6|Flatout 2|7,99€|80|2023-05-18 15h|2023-06-15 15h|
 |114|naval-combat-package-34e444|Fleet Command|7,99€|80|2023-05-18 15h|2023-06-15 15h|
 |115|ghost-master-2-7b7040|Ghost Master|3,99€|80|2023-05-18 15h|2023-06-15 15h|
@@ -430,7 +430,7 @@
 |428|gorogoa|Gorogoa|13,99€|70|2023-05-18 15h|2023-06-15 15h|
 |429|hellpoint|Hellpoint|27,99€|70|2023-05-18 15h|2023-06-15 15h|
 |430|icewind-dale-enhanced-edition|Icewind Dale: Enhanced Edition|15,99€|70|2023-05-18 15h|2023-06-15 15h|
-|431|b6cdeb8972f64c418d78c1aba34bc040|In Other Waters|11,99€|70|2023-05-18 15h|2023-06-15 15h|
+|431|in-other-waters-771a9b|In Other Waters|11,99€|70|2023-05-18 15h|2023-06-15 15h|
 |432|just-die-already|Just Die Already|13,99€|70|2023-05-18 15h|2023-06-15 15h|
 |433|lawn-mowing-simulator-838bf3|Lawn Mowing Simulator|19,99€|70|2023-05-18 15h|2023-06-15 15h|
 |434|monopoly-plus-monopoly-madness-bundle|MONOPOLY PLUS + MONOPOLY Madness|39,99€|70|2023-05-18 15h|2023-06-15 15h|
