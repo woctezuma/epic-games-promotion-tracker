@@ -1,14 +1,5 @@
 [
   {
-    "discountPercentage": 66,
-    "endDate": "2023-05-29T19:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "alex-kidd-in-miracle-world-dx",
-    "startDate": "2023-05-22T19:00:00.000Z",
-    "title": "Alex Kidd in Miracle World DX"
-  },
-  {
     "discountPercentage": 15,
     "endDate": "2023-06-12T14:00:00.000Z",
     "isFree": false,
