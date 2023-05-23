@@ -81,15 +81,6 @@
     "title": "Football Manager 2023"
   },
   {
-    "discountPercentage": 25,
-    "endDate": "2023-05-30T14:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1799,
-    "slug": "futuregrind-f390c1",
-    "startDate": "2023-05-23T14:00:00.000Z",
-    "title": "FutureGrind"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2023-06-05T13:00:00.000Z",
     "isFree": false,
@@ -142,24 +133,6 @@
     "slug": "necromunda-hired-gun",
     "startDate": "2023-05-25T15:00:00.000Z",
     "title": "Necromunda: Hired Gun"
-  },
-  {
-    "discountPercentage": 10,
-    "endDate": "2023-05-30T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "planet-of-lana-a9febe",
-    "startDate": "2023-05-23T15:00:00.000Z",
-    "title": "Planet of Lana"
-  },
-  {
-    "discountPercentage": 10,
-    "endDate": "2023-05-30T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "planet-of-lana-a9febe",
-    "startDate": "2023-05-23T15:00:00.000Z",
-    "title": "Planet of Lana"
   },
   {
     "discountPercentage": 10,
@@ -241,15 +214,6 @@
     "slug": "tuk-tuk-race-1ff590",
     "startDate": "2023-05-25T07:00:00.000Z",
     "title": "Tuk Tuk Race"
-  },
-  {
-    "discountPercentage": 10,
-    "endDate": "2023-06-15T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "voidtrain",
-    "startDate": "2023-05-23T15:00:00.000Z",
-    "title": "Voidtrain"
   },
   {
     "discountPercentage": 45,
