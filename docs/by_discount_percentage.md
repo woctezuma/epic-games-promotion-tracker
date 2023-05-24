@@ -19,13 +19,12 @@
 |17|warhammer-age-of-sigmar-storm-ground|Warhammer Age of Sigmar: Storm Ground|19,99€|50|2023-05-25 15h|2023-06-01 15h|
 |18|warhammer-40000-battlesector|Warhammer 40,000: Battlesector|31,99€|45|2023-05-25 15h|2023-06-01 15h|
 |19|the-riftbreaker|The Riftbreaker|29,99€|40|2023-05-29 12h|2023-06-15 12h|
-|20|fantasy-world-td-851287|Fantasy World TD|4,49€|30|2023-05-24 15h|2023-06-18 15h|
-|21|disney-dreamlight-valley|Disney Dreamlight Valley|29,99€|25|2023-06-02 13h|2023-06-15 13h|
-|22|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|25|2023-06-21 04h|2023-06-28 04h|
-|23|dead-island-2|Dead Island 2|59,99€|20|2023-06-06 15h|2023-06-15 15h|
-|24|travellers-rest-c115d1|Travellers Rest|13,99€|20|2023-06-01 17h|2023-06-15 17h|
-|25|tuk-tuk-race-1ff590|Tuk Tuk Race|3,59€|20|2023-05-25 07h|2023-06-01 07h|
-|26|bramble-the-mountain-king-c0d1c6|Bramble The Mountain King|26,99€|15|2023-06-05 14h|2023-06-12 14h|
-|27|the-unbeatable-path-8af8fc|The Unbeatable Path|17,99€|15|2023-06-01 07h|2023-06-11 07h|
-|28|puzzle-compound-fe9903|Puzzle Compound|10,79€|10|2023-05-25 13h|2023-06-01 13h|
-|29|to-hell-with-the-ugly-86ee3f|To Hell With The Ugly|17,99€|10|2023-05-30 04h|2023-06-06 04h|
+|20|disney-dreamlight-valley|Disney Dreamlight Valley|29,99€|25|2023-06-02 13h|2023-06-15 13h|
+|21|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|25|2023-06-21 04h|2023-06-28 04h|
+|22|dead-island-2|Dead Island 2|59,99€|20|2023-06-06 15h|2023-06-15 15h|
+|23|travellers-rest-c115d1|Travellers Rest|13,99€|20|2023-06-01 17h|2023-06-15 17h|
+|24|tuk-tuk-race-1ff590|Tuk Tuk Race|3,59€|20|2023-05-25 07h|2023-06-01 07h|
+|25|bramble-the-mountain-king-c0d1c6|Bramble The Mountain King|26,99€|15|2023-06-05 14h|2023-06-12 14h|
+|26|the-unbeatable-path-8af8fc|The Unbeatable Path|17,99€|15|2023-06-01 07h|2023-06-11 07h|
+|27|puzzle-compound-fe9903|Puzzle Compound|10,79€|10|2023-05-25 13h|2023-06-01 13h|
+|28|to-hell-with-the-ugly-86ee3f|To Hell With The Ugly|17,99€|10|2023-05-30 04h|2023-06-06 04h|

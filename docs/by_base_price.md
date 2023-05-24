@@ -23,9 +23,8 @@
 |21|deathrun-tv-db074f|DEATHRUN TV|11,99€|70|2023-05-29 14h|2023-06-05 14h|
 |22|puzzle-compound-fe9903|Puzzle Compound|10,79€|10|2023-05-25 13h|2023-06-01 13h|
 |23|heroines-of-swords-and-spells-0db5cd|Heroines of Swords & Spells + Green Furies DLC|8,99€|50|2023-05-29 13h|2023-06-05 13h|
-|24|fantasy-world-td-851287|Fantasy World TD|4,49€|30|2023-05-24 15h|2023-06-18 15h|
-|25|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|25|2023-06-21 04h|2023-06-28 04h|
-|26|tuk-tuk-race-1ff590|Tuk Tuk Race|3,59€|20|2023-05-25 07h|2023-06-01 07h|
-|27|kill-fish-1c85e9|Kill Fish|1,79€|50|2023-05-29 13h|2023-06-05 13h|
-|28|judas|Judas|0,00€|67|2023-05-29 13h|2023-06-05 13h|
-|29|mystery-game-3|Mystery Game|0,00€|100|2023-05-25 15h|2023-06-01 15h|
+|24|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|25|2023-06-21 04h|2023-06-28 04h|
+|25|tuk-tuk-race-1ff590|Tuk Tuk Race|3,59€|20|2023-05-25 07h|2023-06-01 07h|
+|26|kill-fish-1c85e9|Kill Fish|1,79€|50|2023-05-29 13h|2023-06-05 13h|
+|27|judas|Judas|0,00€|67|2023-05-29 13h|2023-06-05 13h|
+|28|mystery-game-3|Mystery Game|0,00€|100|2023-05-25 15h|2023-06-01 15h|
