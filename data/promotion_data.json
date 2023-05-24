@@ -63,15 +63,6 @@
     "title": "FORECLOSED"
   },
   {
-    "discountPercentage": 30,
-    "endDate": "2023-06-18T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 449,
-    "slug": "fantasy-world-td-851287",
-    "startDate": "2023-05-24T15:00:00.000Z",
-    "title": "Fantasy World TD"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2023-07-13T17:00:00.000Z",
     "isFree": false,
