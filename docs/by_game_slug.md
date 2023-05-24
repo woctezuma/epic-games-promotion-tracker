@@ -6,7 +6,7 @@
 |4|dead-island-2|Dead Island 2|59,99€|20|2023-06-06 15h|2023-06-15 15h|
 |5|deathrun-tv-db074f|DEATHRUN TV|11,99€|70|2023-05-29 14h|2023-06-05 14h|
 |6|disney-dreamlight-valley|Disney Dreamlight Valley|29,99€|25|2023-06-02 13h|2023-06-15 13h|
-|7|dream-magic-will-358429|Dream magic will|3,59€|50|2023-05-24 04h|2023-06-20 04h|
+|7|fantasy-world-td-851287|Fantasy World TD|4,49€|30|2023-05-24 15h|2023-06-18 15h|
 |8|football-manager-2023|Football Manager 2023|59,99€|50|2023-06-22 17h|2023-07-13 17h|
 |9|foreclosed|FORECLOSED|16,99€|70|2023-05-29 14h|2023-06-05 14h|
 |10|heroines-of-swords-and-spells-0db5cd|Heroines of Swords & Spells + Green Furies DLC|8,99€|50|2023-05-29 13h|2023-06-05 13h|
