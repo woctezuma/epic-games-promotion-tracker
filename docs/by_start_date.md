@@ -1,6 +1,6 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|1|dream-magic-will-358429|Dream magic will|3,59€|50|2023-05-24 04h|2023-06-20 04h|
+|1|fantasy-world-td-851287|Fantasy World TD|4,49€|30|2023-05-24 15h|2023-06-18 15h|
 |2|tuk-tuk-race-1ff590|Tuk Tuk Race|3,59€|20|2023-05-25 07h|2023-06-01 07h|
 |3|puzzle-compound-fe9903|Puzzle Compound|10,79€|10|2023-05-25 13h|2023-06-01 13h|
 |4|dark-future-blood-red-states|Dark Future: Blood Red States|19,99€|90|2023-05-25 15h|2023-06-01 15h|

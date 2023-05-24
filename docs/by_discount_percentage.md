@@ -11,15 +11,15 @@
 |9|toem|TOEM|15,99€|70|2023-09-11 16h|2023-09-24 16h|
 |10|judas|Judas|0,00€|67|2023-05-29 13h|2023-06-05 13h|
 |11|necromunda-hired-gun|Necromunda: Hired Gun|39,99€|65|2023-05-25 15h|2023-06-01 15h|
-|12|dream-magic-will-358429|Dream magic will|3,59€|50|2023-05-24 04h|2023-06-20 04h|
-|13|football-manager-2023|Football Manager 2023|59,99€|50|2023-06-22 17h|2023-07-13 17h|
-|14|heroines-of-swords-and-spells-0db5cd|Heroines of Swords & Spells + Green Furies DLC|8,99€|50|2023-05-29 13h|2023-06-05 13h|
-|15|kill-fish-1c85e9|Kill Fish|1,79€|50|2023-05-29 13h|2023-06-05 13h|
-|16|timelie|Timelie - Game of the Year Edition|13,99€|50|2023-08-01 14h|2023-08-15 14h|
-|17|warhammer-40000-chaos-gate-daemonhunters|Warhammer 40,000: Chaos Gate - Daemonhunters|44,99€|50|2023-05-25 15h|2023-06-01 15h|
-|18|warhammer-age-of-sigmar-storm-ground|Warhammer Age of Sigmar: Storm Ground|19,99€|50|2023-05-25 15h|2023-06-01 15h|
-|19|warhammer-40000-battlesector|Warhammer 40,000: Battlesector|31,99€|45|2023-05-25 15h|2023-06-01 15h|
-|20|the-riftbreaker|The Riftbreaker|29,99€|40|2023-05-29 12h|2023-06-15 12h|
+|12|football-manager-2023|Football Manager 2023|59,99€|50|2023-06-22 17h|2023-07-13 17h|
+|13|heroines-of-swords-and-spells-0db5cd|Heroines of Swords & Spells + Green Furies DLC|8,99€|50|2023-05-29 13h|2023-06-05 13h|
+|14|kill-fish-1c85e9|Kill Fish|1,79€|50|2023-05-29 13h|2023-06-05 13h|
+|15|timelie|Timelie - Game of the Year Edition|13,99€|50|2023-08-01 14h|2023-08-15 14h|
+|16|warhammer-40000-chaos-gate-daemonhunters|Warhammer 40,000: Chaos Gate - Daemonhunters|44,99€|50|2023-05-25 15h|2023-06-01 15h|
+|17|warhammer-age-of-sigmar-storm-ground|Warhammer Age of Sigmar: Storm Ground|19,99€|50|2023-05-25 15h|2023-06-01 15h|
+|18|warhammer-40000-battlesector|Warhammer 40,000: Battlesector|31,99€|45|2023-05-25 15h|2023-06-01 15h|
+|19|the-riftbreaker|The Riftbreaker|29,99€|40|2023-05-29 12h|2023-06-15 12h|
+|20|fantasy-world-td-851287|Fantasy World TD|4,49€|30|2023-05-24 15h|2023-06-18 15h|
 |21|disney-dreamlight-valley|Disney Dreamlight Valley|29,99€|25|2023-06-02 13h|2023-06-15 13h|
 |22|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|25|2023-06-21 04h|2023-06-28 04h|
 |23|dead-island-2|Dead Island 2|59,99€|20|2023-06-06 15h|2023-06-15 15h|

@@ -23,7 +23,7 @@
 |21|disney-dreamlight-valley|Disney Dreamlight Valley|29,99€|25|2023-06-02 13h|2023-06-15 13h|
 |22|dead-island-2|Dead Island 2|59,99€|20|2023-06-06 15h|2023-06-15 15h|
 |23|travellers-rest-c115d1|Travellers Rest|13,99€|20|2023-06-01 17h|2023-06-15 17h|
-|24|dream-magic-will-358429|Dream magic will|3,59€|50|2023-05-24 04h|2023-06-20 04h|
+|24|fantasy-world-td-851287|Fantasy World TD|4,49€|30|2023-05-24 15h|2023-06-18 15h|
 |25|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|25|2023-06-21 04h|2023-06-28 04h|
 |26|football-manager-2023|Football Manager 2023|59,99€|50|2023-06-22 17h|2023-07-13 17h|
 |27|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|85|2023-06-16 04h|2023-08-02 04h|
