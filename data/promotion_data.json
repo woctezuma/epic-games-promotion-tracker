@@ -45,6 +45,15 @@
     "title": "Dead Island 2"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-06-21T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "dead-by-daylight",
+    "startDate": "2023-06-07T15:00:00.000Z",
+    "title": "Dead by Daylight"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2023-06-15T13:00:00.000Z",
     "isFree": false,
@@ -115,6 +124,15 @@
     "slug": "lego-builders-journey",
     "startDate": "2023-07-31T15:00:00.000Z",
     "title": "LEGO\u00ae Builder's Journey"
+  },
+  {
+    "discountPercentage": 15,
+    "endDate": "2023-06-22T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2299,
+    "slug": "layers-of-fear",
+    "startDate": "2023-06-15T16:00:00.000Z",
+    "title": "Layers of Fear: Masterpiece Edition"
   },
   {
     "discountPercentage": 35,
@@ -207,6 +225,15 @@
     "title": "Strayed Lights"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2023-06-29T04:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 719,
+    "slug": "suicide-guy-9f7963",
+    "startDate": "2023-06-14T04:00:00.000Z",
+    "title": "Suicide Guy"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2023-09-24T16:00:00.000Z",
     "isFree": false,
@@ -268,6 +295,33 @@
     "slug": "to-hell-with-the-ugly-86ee3f",
     "startDate": "2023-05-30T04:00:00.000Z",
     "title": "To Hell With The Ugly"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-06-01T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "total-war-warhammer",
+    "startDate": "2023-05-25T16:00:00.000Z",
+    "title": "Total War: WARHAMMER"
+  },
+  {
+    "discountPercentage": 66,
+    "endDate": "2023-06-01T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "total-war-warhammer-ii",
+    "startDate": "2023-05-25T16:00:00.000Z",
+    "title": "Total War: WARHAMMER II"
+  },
+  {
+    "discountPercentage": 33,
+    "endDate": "2023-06-01T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "total-war-warhammer-3",
+    "startDate": "2023-05-25T16:00:00.000Z",
+    "title": "Total War: WARHAMMER III"
   },
   {
     "discountPercentage": 20,
