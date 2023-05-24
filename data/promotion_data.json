@@ -64,6 +64,15 @@
   },
   {
     "discountPercentage": 50,
+    "endDate": "2023-06-28T19:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "flat-heroes-fec628",
+    "startDate": "2023-06-16T19:00:00.000Z",
+    "title": "Flat Heroes"
+  },
+  {
+    "discountPercentage": 50,
     "endDate": "2023-07-13T17:00:00.000Z",
     "isFree": false,
     "originalPrice": 5999,
@@ -99,6 +108,33 @@
     "title": "Kill Fish"
   },
   {
+    "discountPercentage": 66,
+    "endDate": "2023-08-07T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1699,
+    "slug": "lego-builders-journey",
+    "startDate": "2023-07-31T15:00:00.000Z",
+    "title": "LEGO\u00ae Builder's Journey"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2023-06-07T04:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 359,
+    "slug": "musynx-fb5190",
+    "startDate": "2023-05-31T04:00:00.000Z",
+    "title": "MUSYNX"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2023-06-09T18:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "mokoko-x-e2b09d",
+    "startDate": "2023-05-26T18:00:00.000Z",
+    "title": "Mokoko X"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2023-06-05T14:00:00.000Z",
     "isFree": false,
@@ -126,6 +162,15 @@
     "title": "Necromunda: Hired Gun"
   },
   {
+    "discountPercentage": 33,
+    "endDate": "2023-06-18T14:30:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "one-more-dungeon-2-532228",
+    "startDate": "2023-06-09T14:30:00.000Z",
+    "title": "One More Dungeon 2"
+  },
+  {
     "discountPercentage": 10,
     "endDate": "2023-06-01T13:00:00.000Z",
     "isFree": false,
@@ -133,6 +178,33 @@
     "slug": "puzzle-compound-fe9903",
     "startDate": "2023-05-25T13:00:00.000Z",
     "title": "Puzzle Compound"
+  },
+  {
+    "discountPercentage": 15,
+    "endDate": "2023-06-19T14:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "smalland",
+    "startDate": "2023-06-12T14:00:00.000Z",
+    "title": "Smalland: Survive the Wilds"
+  },
+  {
+    "discountPercentage": 66,
+    "endDate": "2023-07-10T14:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "spirit-of-the-north-f58a66",
+    "startDate": "2023-07-03T14:00:00.000Z",
+    "title": "Spirit of the North"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2023-06-25T14:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "strayed-lights-351d29",
+    "startDate": "2023-06-13T14:00:00.000Z",
+    "title": "Strayed Lights"
   },
   {
     "discountPercentage": 70,
@@ -171,6 +243,15 @@
     "title": "The Unbeatable Path"
   },
   {
+    "discountPercentage": 66,
+    "endDate": "2023-06-26T14:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "time-on-frog-island-b3ad0d",
+    "startDate": "2023-06-19T14:00:00.000Z",
+    "title": "Time on Frog Island"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-08-15T14:00:00.000Z",
     "isFree": false,
@@ -187,6 +268,15 @@
     "slug": "to-hell-with-the-ugly-86ee3f",
     "startDate": "2023-05-30T04:00:00.000Z",
     "title": "To Hell With The Ugly"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-06-03T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 719,
+    "slug": "tracks-of-triumph-summertime-001c7b",
+    "startDate": "2023-05-27T16:00:00.000Z",
+    "title": "Tracks of Triumph: Summertime"
   },
   {
     "discountPercentage": 20,
