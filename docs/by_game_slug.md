@@ -38,9 +38,8 @@
 |36|total-war-warhammer-ii|Total War: WARHAMMER II|59,99€|66|2023-05-25 16h|2023-06-01 16h|
 |37|tracks-of-triumph-summertime-001c7b|Tracks of Triumph: Summertime|7,19€|20|2023-05-27 16h|2023-06-03 16h|
 |38|travellers-rest-c115d1|Travellers Rest|13,99€|20|2023-06-01 17h|2023-06-15 17h|
-|39|tuk-tuk-race-1ff590|Tuk Tuk Race|3,59€|20|2023-05-25 07h|2023-06-01 07h|
-|40|warhammer-40000-battlesector|Warhammer 40,000: Battlesector|31,99€|45|2023-05-25 15h|2023-06-01 15h|
-|41|warhammer-40000-chaos-gate-daemonhunters|Warhammer 40,000: Chaos Gate - Daemonhunters|44,99€|50|2023-05-25 15h|2023-06-01 15h|
-|42|warhammer-40000-gladius-relics-of-war|Warhammer 40,000: Gladius - Relics of War|31,99€|90|2023-05-25 15h|2023-06-01 15h|
-|43|warhammer-age-of-sigmar-storm-ground|Warhammer Age of Sigmar: Storm Ground|19,99€|50|2023-05-25 15h|2023-06-01 15h|
-|44|warhammer-mechanicus-0e4b71|Warhammer 40,000: Mechanicus - Standard Edition|29,99€|84|2023-05-25 15h|2023-06-01 15h|
+|39|warhammer-40000-battlesector|Warhammer 40,000: Battlesector|31,99€|45|2023-05-25 15h|2023-06-01 15h|
+|40|warhammer-40000-chaos-gate-daemonhunters|Warhammer 40,000: Chaos Gate - Daemonhunters|44,99€|50|2023-05-25 15h|2023-06-01 15h|
+|41|warhammer-40000-gladius-relics-of-war|Warhammer 40,000: Gladius - Relics of War|31,99€|90|2023-05-25 15h|2023-06-01 15h|
+|42|warhammer-age-of-sigmar-storm-ground|Warhammer Age of Sigmar: Storm Ground|19,99€|50|2023-05-25 15h|2023-06-01 15h|
+|43|warhammer-mechanicus-0e4b71|Warhammer 40,000: Mechanicus - Standard Edition|29,99€|84|2023-05-25 15h|2023-06-01 15h|

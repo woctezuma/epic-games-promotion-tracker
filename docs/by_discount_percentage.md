@@ -37,10 +37,9 @@
 |35|suicide-guy-9f7963|Suicide Guy|7,19€|20|2023-06-14 04h|2023-06-29 04h|
 |36|tracks-of-triumph-summertime-001c7b|Tracks of Triumph: Summertime|7,19€|20|2023-05-27 16h|2023-06-03 16h|
 |37|travellers-rest-c115d1|Travellers Rest|13,99€|20|2023-06-01 17h|2023-06-15 17h|
-|38|tuk-tuk-race-1ff590|Tuk Tuk Race|3,59€|20|2023-05-25 07h|2023-06-01 07h|
-|39|bramble-the-mountain-king-c0d1c6|Bramble The Mountain King|26,99€|15|2023-06-05 14h|2023-06-12 14h|
-|40|layers-of-fear|Layers of Fear: Masterpiece Edition|22,99€|15|2023-06-15 16h|2023-06-22 16h|
-|41|smalland|Smalland: Survive the Wilds|24,99€|15|2023-06-12 14h|2023-06-19 14h|
-|42|the-unbeatable-path-8af8fc|The Unbeatable Path|17,99€|15|2023-06-01 07h|2023-06-11 07h|
-|43|puzzle-compound-fe9903|Puzzle Compound|10,79€|10|2023-05-25 13h|2023-06-01 13h|
-|44|to-hell-with-the-ugly-86ee3f|To Hell With The Ugly|17,99€|10|2023-05-30 04h|2023-06-06 04h|
+|38|bramble-the-mountain-king-c0d1c6|Bramble The Mountain King|26,99€|15|2023-06-05 14h|2023-06-12 14h|
+|39|layers-of-fear|Layers of Fear: Masterpiece Edition|22,99€|15|2023-06-15 16h|2023-06-22 16h|
+|40|smalland|Smalland: Survive the Wilds|24,99€|15|2023-06-12 14h|2023-06-19 14h|
+|41|the-unbeatable-path-8af8fc|The Unbeatable Path|17,99€|15|2023-06-01 07h|2023-06-11 07h|
+|42|puzzle-compound-fe9903|Puzzle Compound|10,79€|10|2023-05-25 13h|2023-06-01 13h|
+|43|to-hell-with-the-ugly-86ee3f|To Hell With The Ugly|17,99€|10|2023-05-30 04h|2023-06-06 04h|
