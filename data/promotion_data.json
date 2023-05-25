@@ -27,15 +27,6 @@
     "title": "DEATHRUN TV"
   },
   {
-    "discountPercentage": 90,
-    "endDate": "2023-06-01T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "dark-future-blood-red-states",
-    "startDate": "2023-05-25T15:00:00.000Z",
-    "title": "Dark Future: Blood Red States"
-  },
-  {
     "discountPercentage": 20,
     "endDate": "2023-06-15T15:00:00.000Z",
     "isFree": false,
@@ -163,21 +154,12 @@
   },
   {
     "discountPercentage": 100,
-    "endDate": "2023-06-01T15:00:00.000Z",
+    "endDate": "2023-06-08T15:00:00.000Z",
     "isFree": true,
     "originalPrice": 0,
-    "slug": "mystery-game-3",
-    "startDate": "2023-05-25T15:00:00.000Z",
+    "slug": "mystery-game-5",
+    "startDate": "2023-06-01T15:00:00.000Z",
     "title": "Mystery Game"
-  },
-  {
-    "discountPercentage": 65,
-    "endDate": "2023-06-01T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "necromunda-hired-gun",
-    "startDate": "2023-05-25T15:00:00.000Z",
-    "title": "Necromunda: Hired Gun"
   },
   {
     "discountPercentage": 33,
@@ -187,15 +169,6 @@
     "slug": "one-more-dungeon-2-532228",
     "startDate": "2023-06-09T14:30:00.000Z",
     "title": "One More Dungeon 2"
-  },
-  {
-    "discountPercentage": 10,
-    "endDate": "2023-06-01T13:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1079,
-    "slug": "puzzle-compound-fe9903",
-    "startDate": "2023-05-25T13:00:00.000Z",
-    "title": "Puzzle Compound"
   },
   {
     "discountPercentage": 15,
@@ -340,50 +313,5 @@
     "slug": "travellers-rest-c115d1",
     "startDate": "2023-06-01T17:00:00.000Z",
     "title": "Travellers Rest"
-  },
-  {
-    "discountPercentage": 45,
-    "endDate": "2023-06-01T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3199,
-    "slug": "warhammer-40000-battlesector",
-    "startDate": "2023-05-25T15:00:00.000Z",
-    "title": "Warhammer 40,000: Battlesector"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2023-06-01T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 4499,
-    "slug": "warhammer-40000-chaos-gate-daemonhunters",
-    "startDate": "2023-05-25T15:00:00.000Z",
-    "title": "Warhammer 40,000: Chaos Gate - Daemonhunters"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2023-06-01T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3199,
-    "slug": "warhammer-40000-gladius-relics-of-war",
-    "startDate": "2023-05-25T15:00:00.000Z",
-    "title": "Warhammer 40,000: Gladius - Relics of War"
-  },
-  {
-    "discountPercentage": 84,
-    "endDate": "2023-06-01T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "warhammer-mechanicus-0e4b71",
-    "startDate": "2023-05-25T15:00:00.000Z",
-    "title": "Warhammer 40,000: Mechanicus - Standard Edition"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2023-06-01T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "warhammer-age-of-sigmar-storm-ground",
-    "startDate": "2023-05-25T15:00:00.000Z",
-    "title": "Warhammer Age of Sigmar: Storm Ground"
   }
 ]
