@@ -40,7 +40,6 @@
 |38|tracks-of-triumph-summertime-001c7b|Tracks of Triumph: Summertime|7,19€|20|2023-05-27 16h|2023-06-03 16h|
 |39|musynx-fb5190|MUSYNX|3,59€|35|2023-05-31 04h|2023-06-07 04h|
 |40|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|25|2023-06-21 04h|2023-06-28 04h|
-|41|tuk-tuk-race-1ff590|Tuk Tuk Race|3,59€|20|2023-05-25 07h|2023-06-01 07h|
-|42|kill-fish-1c85e9|Kill Fish|1,79€|50|2023-05-29 13h|2023-06-05 13h|
-|43|judas|Judas|0,00€|67|2023-05-29 13h|2023-06-05 13h|
-|44|mystery-game-3|Mystery Game|0,00€|100|2023-05-25 15h|2023-06-01 15h|
+|41|kill-fish-1c85e9|Kill Fish|1,79€|50|2023-05-29 13h|2023-06-05 13h|
+|42|judas|Judas|0,00€|67|2023-05-29 13h|2023-06-05 13h|
+|43|mystery-game-3|Mystery Game|0,00€|100|2023-05-25 15h|2023-06-01 15h|
