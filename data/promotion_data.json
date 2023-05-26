@@ -108,6 +108,33 @@
     "title": "Football Manager 2023"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2023-06-20T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "fusion-paradox-31b28a",
+    "startDate": "2023-06-18T22:00:00.000Z",
+    "title": "Fusion Paradox"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "fusion-paradox-31b28a",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Fusion Paradox"
+  },
+  {
+    "discountPercentage": 34,
+    "endDate": "2023-07-06T21:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "gold-rush-classic-34d7d5",
+    "startDate": "2023-06-29T09:00:00.000Z",
+    "title": "Gold Rush! Classic"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-06-05T13:00:00.000Z",
     "isFree": false,
@@ -180,6 +207,15 @@
     "title": "Layers of Fear: Masterpiece Edition"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2023-07-20T00:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "life-after-death-b4e964",
+    "startDate": "2023-06-25T00:00:00.000Z",
+    "title": "Life After Death"
+  },
+  {
     "discountPercentage": 35,
     "endDate": "2023-06-07T04:00:00.000Z",
     "isFree": false,
@@ -243,6 +279,33 @@
     "title": "One More Dungeon 2"
   },
   {
+    "discountPercentage": 10,
+    "endDate": "2023-06-06T12:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "return-to-grace-92a75a",
+    "startDate": "2023-05-30T13:00:00.000Z",
+    "title": "Return to Grace"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2023-06-08T10:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "search-de9485",
+    "startDate": "2023-06-01T10:00:00.000Z",
+    "title": "Search"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "shinchan-me-and-the-professor-on-summer-vacation-bb7bad",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Shin-chan Me and the Professor on Summer Vacation"
+  },
+  {
     "discountPercentage": 15,
     "endDate": "2023-06-19T14:00:00.000Z",
     "isFree": false,
@@ -297,6 +360,15 @@
     "title": "Super Alloy Ranger"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 809,
+    "slug": "switchball-hd-6d3802",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Switchball HD"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2023-09-24T16:00:00.000Z",
     "isFree": false,
@@ -304,6 +376,15 @@
     "slug": "toem",
     "startDate": "2023-09-11T16:00:00.000Z",
     "title": "TOEM"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-06-04T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1399,
+    "slug": "tales-of-the-neon-sea",
+    "startDate": "2023-05-29T16:00:00.000Z",
+    "title": "Tales of the Neon Sea"
   },
   {
     "discountPercentage": 25,
@@ -343,15 +424,6 @@
   },
   {
     "discountPercentage": 15,
-    "endDate": "2023-06-02T11:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 629,
-    "slug": "the-shape-of-things-dc5b26",
-    "startDate": "2023-05-26T11:00:00.000Z",
-    "title": "The Shape of Things"
-  },
-  {
-    "discountPercentage": 15,
     "endDate": "2023-06-11T07:00:00.000Z",
     "isFree": false,
     "originalPrice": 1799,
@@ -385,6 +457,15 @@
     "slug": "to-hell-with-the-ugly-86ee3f",
     "startDate": "2023-05-30T04:00:00.000Z",
     "title": "To Hell With The Ugly"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-07-18T14:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 719,
+    "slug": "tracks-of-triumph-7b2685",
+    "startDate": "2023-06-18T14:00:00.000Z",
+    "title": "Tracks of Triumph"
   },
   {
     "discountPercentage": 20,
