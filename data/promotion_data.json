@@ -90,6 +90,24 @@
     "title": "Disney Dreamlight Valley"
   },
   {
+    "discountPercentage": 35,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "ebola-2-b61221",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "EBOLA 2"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "ebola-3-2c79e9",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "EBOLA 3"
+  },
+  {
     "discountPercentage": 10,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -360,6 +378,24 @@
     "title": "One More Dungeon 2"
   },
   {
+    "discountPercentage": 25,
+    "endDate": "2023-06-06T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 359,
+    "slug": "out-of-bounds-ade206",
+    "startDate": "2023-05-30T17:00:00.000Z",
+    "title": "Out of Bounds"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 359,
+    "slug": "out-of-bounds-ade206",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Out of Bounds"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -412,6 +448,15 @@
     "slug": "smalland",
     "startDate": "2023-06-12T14:00:00.000Z",
     "title": "Smalland: Survive the Wilds"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2023-06-07T00:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1950,
+    "slug": "song-of-the-prairie-424643",
+    "startDate": "2023-05-31T00:00:00.000Z",
+    "title": "Song Of The Prairie"
   },
   {
     "discountPercentage": 66,
@@ -592,15 +637,6 @@
     "slug": "tracks-of-triumph-7b2685",
     "startDate": "2023-06-18T14:00:00.000Z",
     "title": "Tracks of Triumph"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2023-06-03T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 719,
-    "slug": "tracks-of-triumph-summertime-001c7b",
-    "startDate": "2023-05-27T16:00:00.000Z",
-    "title": "Tracks of Triumph: Summertime"
   },
   {
     "discountPercentage": 20,
