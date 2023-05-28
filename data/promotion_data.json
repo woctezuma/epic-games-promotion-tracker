@@ -63,6 +63,15 @@
     "title": "Busway Islands - Puzzle"
   },
   {
+    "discountPercentage": 65,
+    "endDate": "2023-06-07T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 539,
+    "slug": "clockwork-survivors-c6b7c4",
+    "startDate": "2023-05-30T22:00:00.000Z",
+    "title": "Clockwork Survivors"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2023-06-05T14:00:00.000Z",
     "isFree": false,
@@ -97,6 +106,15 @@
     "slug": "disney-dreamlight-valley",
     "startDate": "2023-06-02T13:00:00.000Z",
     "title": "Disney Dreamlight Valley"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-06-04T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "dr-professor-scientists-weapons-testing-facility-20a02f",
+    "startDate": "2023-05-30T11:00:00.000Z",
+    "title": "Dr. Professor Scientist's Weapons Testing Facility"
   },
   {
     "discountPercentage": 35,
@@ -232,6 +250,15 @@
     "slug": "fusion-paradox-31b28a",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Fusion Paradox"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2023-06-13T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "geojelly-a44cfe",
+    "startDate": "2023-06-07T18:00:00.000Z",
+    "title": "GeoJelly"
   },
   {
     "discountPercentage": 34,
