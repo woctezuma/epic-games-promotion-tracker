@@ -61,19 +61,22 @@
 |59|tracks-of-triumph-7b2685|Tracks of Triumph|7,19€|20|2023-06-18 14h|2023-07-18 14h|
 |60|aftertime-1ca584|Aftertime|6,29€|50|2023-05-30 18h|2023-06-13 18h|
 |61|voodoo-kid-05b29a|Voodoo Kid|6,29€|35|2023-07-20 15h|2023-08-03 15h|
-|62|life-after-death-b4e964|Life After Death|4,49€|40|2023-06-25 00h|2023-07-20 00h|
-|63|yodanji-5a175c|Yodanji|4,49€|40|2023-05-29 01h|2023-06-05 01h|
-|64|im-looking-for-3024-people-1cdae4|I'm looking for 3024 people|3,99€|30|2023-07-20 15h|2023-08-03 15h|
-|65|system-purge-9ab7b7|System Purge|3,99€|50|2023-07-20 15h|2023-08-03 15h|
-|66|musynx-fb5190|MUSYNX|3,59€|35|2023-05-31 04h|2023-06-07 04h|
-|67|match-village-5f41dd|Match Village|3,59€|30|2023-06-01 13h|2023-06-07 13h|
-|68|match-village-5f41dd|Match Village|3,59€|30|2023-07-20 15h|2023-08-03 15h|
-|69|out-of-bounds-ade206|Out of Bounds|3,59€|25|2023-05-30 17h|2023-06-06 17h|
-|70|out-of-bounds-ade206|Out of Bounds|3,59€|25|2023-07-20 15h|2023-08-03 15h|
-|71|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|25|2023-06-21 04h|2023-06-28 04h|
-|72|busway-islands-puzzle-91287d|Busway Islands - Puzzle|2,69€|40|2023-06-05 13h|2023-06-12 13h|
-|73|busway-islands-puzzle-91287d|Busway Islands - Puzzle|2,69€|40|2023-07-20 15h|2023-08-03 15h|
-|74|gold-rush-classic-34d7d5|Gold Rush! Classic|2,69€|34|2023-06-29 09h|2023-07-06 21h|
-|75|kill-fish-1c85e9|Kill Fish|1,79€|50|2023-05-29 13h|2023-06-05 13h|
-|76|judas|Judas|0,00€|67|2023-05-29 13h|2023-06-05 13h|
-|77|mystery-game-5|Mystery Game|0,00€|100|2023-06-01 15h|2023-06-08 15h|
+|62|clockwork-survivors-c6b7c4|Clockwork Survivors|5,39€|65|2023-05-30 22h|2023-06-07 22h|
+|63|dr-professor-scientists-weapons-testing-facility-20a02f|Dr. Professor Scientist's Weapons Testing Facility|4,49€|50|2023-05-30 11h|2023-06-04 22h|
+|64|geojelly-a44cfe|GeoJelly|4,49€|10|2023-06-07 18h|2023-06-13 11h|
+|65|life-after-death-b4e964|Life After Death|4,49€|40|2023-06-25 00h|2023-07-20 00h|
+|66|yodanji-5a175c|Yodanji|4,49€|40|2023-05-29 01h|2023-06-05 01h|
+|67|im-looking-for-3024-people-1cdae4|I'm looking for 3024 people|3,99€|30|2023-07-20 15h|2023-08-03 15h|
+|68|system-purge-9ab7b7|System Purge|3,99€|50|2023-07-20 15h|2023-08-03 15h|
+|69|musynx-fb5190|MUSYNX|3,59€|35|2023-05-31 04h|2023-06-07 04h|
+|70|match-village-5f41dd|Match Village|3,59€|30|2023-06-01 13h|2023-06-07 13h|
+|71|match-village-5f41dd|Match Village|3,59€|30|2023-07-20 15h|2023-08-03 15h|
+|72|out-of-bounds-ade206|Out of Bounds|3,59€|25|2023-05-30 17h|2023-06-06 17h|
+|73|out-of-bounds-ade206|Out of Bounds|3,59€|25|2023-07-20 15h|2023-08-03 15h|
+|74|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|25|2023-06-21 04h|2023-06-28 04h|
+|75|busway-islands-puzzle-91287d|Busway Islands - Puzzle|2,69€|40|2023-06-05 13h|2023-06-12 13h|
+|76|busway-islands-puzzle-91287d|Busway Islands - Puzzle|2,69€|40|2023-07-20 15h|2023-08-03 15h|
+|77|gold-rush-classic-34d7d5|Gold Rush! Classic|2,69€|34|2023-06-29 09h|2023-07-06 21h|
+|78|kill-fish-1c85e9|Kill Fish|1,79€|50|2023-05-29 13h|2023-06-05 13h|
+|79|judas|Judas|0,00€|67|2023-05-29 13h|2023-06-05 13h|
+|80|mystery-game-5|Mystery Game|0,00€|100|2023-06-01 15h|2023-06-08 15h|
