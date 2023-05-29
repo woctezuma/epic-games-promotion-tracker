@@ -79,4 +79,3 @@
 |77|travellers-rest-c115d1|Travellers Rest|13,99€|20|2023-06-01 17h|2023-06-15 17h|
 |78|voodoo-kid-05b29a|Voodoo Kid|6,29€|35|2023-07-20 15h|2023-08-03 15h|
 |79|world-of-contraptions-6dbc07|World of Contraptions|8,99€|40|2023-05-29 11h|2023-06-05 11h|
-|80|yodanji-5a175c|Yodanji|4,49€|40|2023-05-29 01h|2023-06-05 01h|
