@@ -41,42 +41,41 @@
 |39|life-after-death-b4e964|Life After Death|4,49€|40|2023-06-25 00h|2023-07-20 00h|
 |40|the-riftbreaker|The Riftbreaker|29,99€|40|2023-05-29 12h|2023-06-15 12h|
 |41|world-of-contraptions-6dbc07|World of Contraptions|8,99€|40|2023-05-29 11h|2023-06-05 11h|
-|42|yodanji-5a175c|Yodanji|4,49€|40|2023-05-29 01h|2023-06-05 01h|
-|43|ebola-2-b61221|EBOLA 2|13,49€|35|2023-07-20 15h|2023-08-03 15h|
-|44|ebola-3-2c79e9|EBOLA 3|17,99€|35|2023-07-20 15h|2023-08-03 15h|
-|45|musynx-fb5190|MUSYNX|3,59€|35|2023-05-31 04h|2023-06-07 04h|
-|46|voodoo-kid-05b29a|Voodoo Kid|6,29€|35|2023-07-20 15h|2023-08-03 15h|
-|47|gold-rush-classic-34d7d5|Gold Rush! Classic|2,69€|34|2023-06-29 09h|2023-07-06 21h|
-|48|one-more-dungeon-2-532228|One More Dungeon 2|13,49€|33|2023-06-09 14h|2023-06-18 14h|
-|49|bus-driver-simulator-186e62|Bus Driver Simulator|22,39€|30|2023-06-18 18h|2023-06-25 18h|
-|50|im-looking-for-3024-people-1cdae4|I'm looking for 3024 people|3,99€|30|2023-07-20 15h|2023-08-03 15h|
-|51|match-village-5f41dd|Match Village|3,59€|30|2023-06-01 13h|2023-06-07 13h|
-|52|match-village-5f41dd|Match Village|3,59€|30|2023-07-20 15h|2023-08-03 15h|
-|53|outcore-desktop-adventure-eb3aff|Outcore - Desktop Adventure|8,99€|30|2023-07-20 15h|2023-08-03 15h|
-|54|search-de9485|Search|8,99€|30|2023-06-01 10h|2023-06-08 10h|
-|55|shinchan-me-and-the-professor-on-summer-vacation-bb7bad|Shin-chan Me and the Professor on Summer Vacation|49,99€|30|2023-07-20 15h|2023-08-03 15h|
-|56|strayed-lights-351d29|Strayed Lights|24,99€|30|2023-06-13 14h|2023-06-25 14h|
-|57|disney-dreamlight-valley|Disney Dreamlight Valley|29,99€|25|2023-06-02 13h|2023-06-15 13h|
-|58|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|25|2023-05-29 17h|2023-06-05 17h|
-|59|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|25|2023-07-20 15h|2023-08-03 15h|
-|60|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|25|2023-09-05 15h|2023-09-12 15h|
-|61|out-of-bounds-ade206|Out of Bounds|3,59€|25|2023-05-30 17h|2023-06-06 17h|
-|62|out-of-bounds-ade206|Out of Bounds|3,59€|25|2023-07-20 15h|2023-08-03 15h|
-|63|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|25|2023-06-21 04h|2023-06-28 04h|
-|64|dead-island-2|Dead Island 2|59,99€|20|2023-06-06 15h|2023-06-15 15h|
-|65|suicide-guy-9f7963|Suicide Guy|7,19€|20|2023-06-14 04h|2023-06-29 04h|
-|66|super-alloy-ranger-4252cc|Super Alloy Ranger|8,99€|20|2023-06-04 16h|2023-06-18 16h|
-|67|super-alloy-ranger-4252cc|Super Alloy Ranger|8,99€|20|2023-07-20 15h|2023-08-03 15h|
-|68|tracks-of-triumph-7b2685|Tracks of Triumph|7,19€|20|2023-06-18 14h|2023-07-18 14h|
-|69|travellers-rest-c115d1|Travellers Rest|13,99€|20|2023-06-01 17h|2023-06-15 17h|
-|70|bramble-the-mountain-king-c0d1c6|Bramble The Mountain King|26,99€|15|2023-06-05 14h|2023-06-12 14h|
-|71|elegies-aya-17c3f1|ELEGIES Aya|16,19€|15|2023-12-21 16h|2024-01-11 16h|
-|72|layers-of-fear|Layers of Fear: Masterpiece Edition|22,99€|15|2023-06-15 16h|2023-06-22 16h|
-|73|smalland|Smalland: Survive the Wilds|24,99€|15|2023-06-12 14h|2023-06-19 14h|
-|74|the-unbeatable-path-8af8fc|The Unbeatable Path|17,99€|15|2023-06-01 07h|2023-06-11 07h|
-|75|elegies-aya-17c3f1|ELEGIES Aya|16,19€|10|2023-07-20 15h|2023-08-03 15h|
-|76|elegies-aya-17c3f1|ELEGIES Aya|16,19€|10|2023-09-14 15h|2023-09-28 15h|
-|77|geojelly-a44cfe|GeoJelly|4,49€|10|2023-06-07 18h|2023-06-13 11h|
-|78|return-to-grace-92a75a|Return to Grace|13,49€|10|2023-05-30 13h|2023-06-06 12h|
-|79|song-of-the-prairie-424643|Song Of The Prairie|19,50€|10|2023-05-31 00h|2023-06-07 00h|
-|80|to-hell-with-the-ugly-86ee3f|To Hell With The Ugly|17,99€|10|2023-05-30 04h|2023-06-06 04h|
+|42|ebola-2-b61221|EBOLA 2|13,49€|35|2023-07-20 15h|2023-08-03 15h|
+|43|ebola-3-2c79e9|EBOLA 3|17,99€|35|2023-07-20 15h|2023-08-03 15h|
+|44|musynx-fb5190|MUSYNX|3,59€|35|2023-05-31 04h|2023-06-07 04h|
+|45|voodoo-kid-05b29a|Voodoo Kid|6,29€|35|2023-07-20 15h|2023-08-03 15h|
+|46|gold-rush-classic-34d7d5|Gold Rush! Classic|2,69€|34|2023-06-29 09h|2023-07-06 21h|
+|47|one-more-dungeon-2-532228|One More Dungeon 2|13,49€|33|2023-06-09 14h|2023-06-18 14h|
+|48|bus-driver-simulator-186e62|Bus Driver Simulator|22,39€|30|2023-06-18 18h|2023-06-25 18h|
+|49|im-looking-for-3024-people-1cdae4|I'm looking for 3024 people|3,99€|30|2023-07-20 15h|2023-08-03 15h|
+|50|match-village-5f41dd|Match Village|3,59€|30|2023-06-01 13h|2023-06-07 13h|
+|51|match-village-5f41dd|Match Village|3,59€|30|2023-07-20 15h|2023-08-03 15h|
+|52|outcore-desktop-adventure-eb3aff|Outcore - Desktop Adventure|8,99€|30|2023-07-20 15h|2023-08-03 15h|
+|53|search-de9485|Search|8,99€|30|2023-06-01 10h|2023-06-08 10h|
+|54|shinchan-me-and-the-professor-on-summer-vacation-bb7bad|Shin-chan Me and the Professor on Summer Vacation|49,99€|30|2023-07-20 15h|2023-08-03 15h|
+|55|strayed-lights-351d29|Strayed Lights|24,99€|30|2023-06-13 14h|2023-06-25 14h|
+|56|disney-dreamlight-valley|Disney Dreamlight Valley|29,99€|25|2023-06-02 13h|2023-06-15 13h|
+|57|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|25|2023-05-29 17h|2023-06-05 17h|
+|58|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|25|2023-07-20 15h|2023-08-03 15h|
+|59|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|25|2023-09-05 15h|2023-09-12 15h|
+|60|out-of-bounds-ade206|Out of Bounds|3,59€|25|2023-05-30 17h|2023-06-06 17h|
+|61|out-of-bounds-ade206|Out of Bounds|3,59€|25|2023-07-20 15h|2023-08-03 15h|
+|62|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|25|2023-06-21 04h|2023-06-28 04h|
+|63|dead-island-2|Dead Island 2|59,99€|20|2023-06-06 15h|2023-06-15 15h|
+|64|suicide-guy-9f7963|Suicide Guy|7,19€|20|2023-06-14 04h|2023-06-29 04h|
+|65|super-alloy-ranger-4252cc|Super Alloy Ranger|8,99€|20|2023-06-04 16h|2023-06-18 16h|
+|66|super-alloy-ranger-4252cc|Super Alloy Ranger|8,99€|20|2023-07-20 15h|2023-08-03 15h|
+|67|tracks-of-triumph-7b2685|Tracks of Triumph|7,19€|20|2023-06-18 14h|2023-07-18 14h|
+|68|travellers-rest-c115d1|Travellers Rest|13,99€|20|2023-06-01 17h|2023-06-15 17h|
+|69|bramble-the-mountain-king-c0d1c6|Bramble The Mountain King|26,99€|15|2023-06-05 14h|2023-06-12 14h|
+|70|elegies-aya-17c3f1|ELEGIES Aya|16,19€|15|2023-12-21 16h|2024-01-11 16h|
+|71|layers-of-fear|Layers of Fear: Masterpiece Edition|22,99€|15|2023-06-15 16h|2023-06-22 16h|
+|72|smalland|Smalland: Survive the Wilds|24,99€|15|2023-06-12 14h|2023-06-19 14h|
+|73|the-unbeatable-path-8af8fc|The Unbeatable Path|17,99€|15|2023-06-01 07h|2023-06-11 07h|
+|74|elegies-aya-17c3f1|ELEGIES Aya|16,19€|10|2023-07-20 15h|2023-08-03 15h|
+|75|elegies-aya-17c3f1|ELEGIES Aya|16,19€|10|2023-09-14 15h|2023-09-28 15h|
+|76|geojelly-a44cfe|GeoJelly|4,49€|10|2023-06-07 18h|2023-06-13 11h|
+|77|return-to-grace-92a75a|Return to Grace|13,49€|10|2023-05-30 13h|2023-06-06 12h|
+|78|song-of-the-prairie-424643|Song Of The Prairie|19,50€|10|2023-05-31 00h|2023-06-07 00h|
+|79|to-hell-with-the-ugly-86ee3f|To Hell With The Ugly|17,99€|10|2023-05-30 04h|2023-06-06 04h|
