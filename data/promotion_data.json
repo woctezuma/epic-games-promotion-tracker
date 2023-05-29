@@ -709,14 +709,5 @@
     "slug": "world-of-contraptions-6dbc07",
     "startDate": "2023-05-29T11:00:00.000Z",
     "title": "World of Contraptions"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2023-06-05T01:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 449,
-    "slug": "yodanji-5a175c",
-    "startDate": "2023-05-29T01:00:00.000Z",
-    "title": "Yodanji"
   }
 ]
