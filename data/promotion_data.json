@@ -1,14 +1,5 @@
 [
   {
-    "discountPercentage": 50,
-    "endDate": "2023-06-13T18:30:00.000Z",
-    "isFree": false,
-    "originalPrice": 629,
-    "slug": "aftertime-1ca584",
-    "startDate": "2023-05-30T18:30:00.000Z",
-    "title": "Aftertime"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -16,6 +7,15 @@
     "slug": "alekon-b2faec",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Alekon"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2023-06-15T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "arctico-c29f1d",
+    "startDate": "2023-06-01T17:00:00.000Z",
+    "title": "Arctico"
   },
   {
     "discountPercentage": 15,
@@ -61,15 +61,6 @@
     "slug": "busway-islands-puzzle-91287d",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Busway Islands - Puzzle"
-  },
-  {
-    "discountPercentage": 65,
-    "endDate": "2023-06-07T22:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 539,
-    "slug": "clockwork-survivors-c6b7c4",
-    "startDate": "2023-05-30T22:00:00.000Z",
-    "title": "Clockwork Survivors"
   },
   {
     "discountPercentage": 20,
@@ -306,15 +297,6 @@
     "title": "Life After Death"
   },
   {
-    "discountPercentage": 35,
-    "endDate": "2023-06-07T04:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 359,
-    "slug": "musynx-fb5190",
-    "startDate": "2023-05-31T04:00:00.000Z",
-    "title": "MUSYNX"
-  },
-  {
     "discountPercentage": 30,
     "endDate": "2023-06-07T13:00:00.000Z",
     "isFree": false,
@@ -358,15 +340,6 @@
     "slug": "one-more-dungeon-2-532228",
     "startDate": "2023-06-09T14:30:00.000Z",
     "title": "One More Dungeon 2"
-  },
-  {
-    "discountPercentage": 25,
-    "endDate": "2023-06-06T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 359,
-    "slug": "out-of-bounds-ade206",
-    "startDate": "2023-05-30T17:00:00.000Z",
-    "title": "Out of Bounds"
   },
   {
     "discountPercentage": 25,
@@ -421,15 +394,6 @@
     "slug": "smalland",
     "startDate": "2023-06-12T14:00:00.000Z",
     "title": "Smalland: Survive the Wilds"
-  },
-  {
-    "discountPercentage": 10,
-    "endDate": "2023-06-07T00:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1950,
-    "slug": "song-of-the-prairie-424643",
-    "startDate": "2023-05-31T00:00:00.000Z",
-    "title": "Song Of The Prairie"
   },
   {
     "discountPercentage": 66,
