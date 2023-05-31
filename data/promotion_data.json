@@ -135,6 +135,15 @@
     "title": "ELEGIES Aya"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2023-07-02T09:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "fire-commander-df24ad",
+    "startDate": "2023-06-02T09:00:00.000Z",
+    "title": "Fire Commander"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-06-28T19:00:00.000Z",
     "isFree": false,
@@ -142,6 +151,15 @@
     "slug": "flat-heroes-fec628",
     "startDate": "2023-06-16T19:00:00.000Z",
     "title": "Flat Heroes"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-07-24T10:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "flyto-c4d923",
+    "startDate": "2023-06-24T23:00:00.000Z",
+    "title": "Flyto"
   },
   {
     "discountPercentage": 50,
@@ -232,6 +250,15 @@
     "slug": "im-looking-for-3024-people-1cdae4",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "I'm looking for 3024 people"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2023-07-06T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "immortals-fenyx-rising",
+    "startDate": "2023-06-22T15:00:00.000Z",
+    "title": "Immortals Fenyx Rising Standard Edition"
   },
   {
     "discountPercentage": 50,
