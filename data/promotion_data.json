@@ -207,6 +207,15 @@
     "title": "Fortune Follow: The Mansion"
   },
   {
+    "discountPercentage": 36,
+    "endDate": "2023-08-01T06:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "freshly-frosted-c636d0",
+    "startDate": "2023-07-16T07:00:00.000Z",
+    "title": "Freshly Frosted"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2023-06-20T15:00:00.000Z",
     "isFree": false,
@@ -385,6 +394,15 @@
     "slug": "outcore-desktop-adventure-eb3aff",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Outcore - Desktop Adventure"
+  },
+  {
+    "discountPercentage": 21,
+    "endDate": "2023-08-01T06:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "sail-forth-51847e",
+    "startDate": "2023-07-16T07:00:00.000Z",
+    "title": "Sail Forth"
   },
   {
     "discountPercentage": 50,
