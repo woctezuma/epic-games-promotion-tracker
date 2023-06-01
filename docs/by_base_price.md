@@ -14,7 +14,7 @@
 |12|layers-of-fear|Layers of Fear: Masterpiece Edition|22,99€|15|2023-06-15 16h|2023-06-22 16h|
 |13|bus-driver-simulator-186e62|Bus Driver Simulator|22,39€|30|2023-06-18 18h|2023-06-25 18h|
 |14|dead-by-daylight|Dead by Daylight|19,99€|50|2023-06-07 15h|2023-06-21 15h|
-|15|midnight-ghost-hunt|Midnight Ghost Hunt|19,99€|100|2023-06-01 15h|2023-06-08 15h|
+|15|scathe-ca258f|Scathe|19,99€|33|2023-06-06 15h|2023-06-11 23h|
 |16|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|85|2023-06-16 04h|2023-08-02 04h|
 |17|ebola-3-2c79e9|EBOLA 3|17,99€|35|2023-07-20 15h|2023-08-03 15h|
 |18|flyto-c4d923|Flyto|17,99€|50|2023-06-24 23h|2023-07-24 10h|
@@ -68,5 +68,4 @@
 |66|busway-islands-puzzle-91287d|Busway Islands - Puzzle|2,69€|40|2023-06-05 13h|2023-06-12 13h|
 |67|busway-islands-puzzle-91287d|Busway Islands - Puzzle|2,69€|40|2023-07-20 15h|2023-08-03 15h|
 |68|gold-rush-classic-34d7d5|Gold Rush! Classic|2,69€|34|2023-06-29 09h|2023-07-06 21h|
-|69|midnight-ghost-hunt|Midnight Ghost Hunt|0,00€|100|2023-06-01 15h|2023-06-08 15h|
-|70|mystery-game-7|Mystery Game|0,00€|100|2023-06-08 15h|2023-06-15 15h|
+|69|mystery-game-7|Mystery Game|0,00€|100|2023-06-08 15h|2023-06-15 15h|
