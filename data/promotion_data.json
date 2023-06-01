@@ -423,15 +423,6 @@
     "title": "Shin-chan Me and the Professor on Summer Vacation"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2023-06-15T04:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 899,
-    "slug": "shotgun-farmers-d9f3f0",
-    "startDate": "2023-06-01T04:00:00.000Z",
-    "title": "Shotgun Farmers"
-  },
-  {
     "discountPercentage": 15,
     "endDate": "2023-06-19T14:00:00.000Z",
     "isFree": false,
@@ -531,6 +522,15 @@
     "title": "Tear of Time - Lost memory"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2023-06-12T07:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3599,
+    "slug": "the-alchemist-of-ars-magna-e68b84",
+    "startDate": "2023-06-06T07:00:00.000Z",
+    "title": "The Alchemist of Ars Magna"
+  },
+  {
     "discountPercentage": 65,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -547,15 +547,6 @@
     "slug": "the-inheritance-of-crimson-manor-81bc67",
     "startDate": "2023-09-05T15:00:00.000Z",
     "title": "The Inheritance of Crimson Manor"
-  },
-  {
-    "discountPercentage": 15,
-    "endDate": "2023-06-11T07:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1799,
-    "slug": "the-unbeatable-path-8af8fc",
-    "startDate": "2023-06-01T07:00:00.000Z",
-    "title": "The Unbeatable Path"
   },
   {
     "discountPercentage": 66,
