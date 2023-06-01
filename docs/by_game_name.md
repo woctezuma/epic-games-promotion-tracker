@@ -47,23 +47,22 @@
 |45|sail-forth-51847e|Sail Forth|15,99€|21|2023-07-16 07h|2023-08-01 06h|
 |46|secret-doctrine-342083|Secret Doctrine|8,99€|50|2023-07-20 15h|2023-08-03 15h|
 |47|shinchan-me-and-the-professor-on-summer-vacation-bb7bad|Shin-chan Me and the Professor on Summer Vacation|49,99€|30|2023-07-20 15h|2023-08-03 15h|
-|48|shotgun-farmers-d9f3f0|Shotgun Farmers|8,99€|50|2023-06-01 04h|2023-06-15 04h|
-|49|smalland|Smalland: Survive the Wilds|24,99€|15|2023-06-12 14h|2023-06-19 14h|
-|50|spirit-of-the-north-f58a66|Spirit of the North|15,99€|66|2023-07-03 14h|2023-07-10 14h|
-|51|strawhart-776f4d|Strawhart|17,99€|50|2023-07-20 15h|2023-08-03 15h|
-|52|strayed-lights-351d29|Strayed Lights|24,99€|30|2023-06-13 14h|2023-06-25 14h|
-|53|suicide-guy-9f7963|Suicide Guy|7,19€|20|2023-06-14 04h|2023-06-29 04h|
-|54|super-alloy-ranger-4252cc|Super Alloy Ranger|8,99€|20|2023-06-04 16h|2023-06-18 16h|
-|55|super-alloy-ranger-4252cc|Super Alloy Ranger|8,99€|20|2023-07-20 15h|2023-08-03 15h|
-|56|switchball-hd-6d3802|Switchball HD|8,09€|50|2023-07-20 15h|2023-08-03 15h|
-|57|system-purge-9ab7b7|System Purge|3,99€|50|2023-07-20 15h|2023-08-03 15h|
-|58|toem|TOEM|15,99€|70|2023-09-11 16h|2023-09-24 16h|
-|59|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|25|2023-06-21 04h|2023-06-28 04h|
+|48|smalland|Smalland: Survive the Wilds|24,99€|15|2023-06-12 14h|2023-06-19 14h|
+|49|spirit-of-the-north-f58a66|Spirit of the North|15,99€|66|2023-07-03 14h|2023-07-10 14h|
+|50|strawhart-776f4d|Strawhart|17,99€|50|2023-07-20 15h|2023-08-03 15h|
+|51|strayed-lights-351d29|Strayed Lights|24,99€|30|2023-06-13 14h|2023-06-25 14h|
+|52|suicide-guy-9f7963|Suicide Guy|7,19€|20|2023-06-14 04h|2023-06-29 04h|
+|53|super-alloy-ranger-4252cc|Super Alloy Ranger|8,99€|20|2023-06-04 16h|2023-06-18 16h|
+|54|super-alloy-ranger-4252cc|Super Alloy Ranger|8,99€|20|2023-07-20 15h|2023-08-03 15h|
+|55|switchball-hd-6d3802|Switchball HD|8,09€|50|2023-07-20 15h|2023-08-03 15h|
+|56|system-purge-9ab7b7|System Purge|3,99€|50|2023-07-20 15h|2023-08-03 15h|
+|57|toem|TOEM|15,99€|70|2023-09-11 16h|2023-09-24 16h|
+|58|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|25|2023-06-21 04h|2023-06-28 04h|
+|59|the-alchemist-of-ars-magna-e68b84|The Alchemist of Ars Magna|35,99€|30|2023-06-06 07h|2023-06-12 07h|
 |60|the-inheritance-of-crimson-manor-81bc67|The Inheritance of Crimson Manor|17,99€|65|2023-07-20 15h|2023-08-03 15h|
 |61|the-inheritance-of-crimson-manor-81bc67|The Inheritance of Crimson Manor|17,99€|70|2023-09-05 15h|2023-09-12 15h|
-|62|the-unbeatable-path-8af8fc|The Unbeatable Path|17,99€|15|2023-06-01 07h|2023-06-11 07h|
-|63|time-on-frog-island-b3ad0d|Time on Frog Island|15,99€|66|2023-06-19 14h|2023-06-26 14h|
-|64|timelie|Timelie - Game of the Year Edition|13,99€|50|2023-08-01 14h|2023-08-15 14h|
-|65|tracks-of-triumph-7b2685|Tracks of Triumph|7,19€|20|2023-06-18 14h|2023-07-18 14h|
-|66|travellers-rest-c115d1|Travellers Rest|13,99€|20|2023-06-01 17h|2023-06-15 17h|
-|67|voodoo-kid-05b29a|Voodoo Kid|6,29€|35|2023-07-20 15h|2023-08-03 15h|
+|62|time-on-frog-island-b3ad0d|Time on Frog Island|15,99€|66|2023-06-19 14h|2023-06-26 14h|
+|63|timelie|Timelie - Game of the Year Edition|13,99€|50|2023-08-01 14h|2023-08-15 14h|
+|64|tracks-of-triumph-7b2685|Tracks of Triumph|7,19€|20|2023-06-18 14h|2023-07-18 14h|
+|65|travellers-rest-c115d1|Travellers Rest|13,99€|20|2023-06-01 17h|2023-06-15 17h|
+|66|voodoo-kid-05b29a|Voodoo Kid|6,29€|35|2023-07-20 15h|2023-08-03 15h|
