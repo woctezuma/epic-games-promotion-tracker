@@ -28,20 +28,20 @@
 |26|strawhart-776f4d|Strawhart|17,99€|50|2023-07-20 15h|2023-08-03 15h|
 |27|switchball-hd-6d3802|Switchball HD|8,09€|50|2023-07-20 15h|2023-08-03 15h|
 |28|system-purge-9ab7b7|System Purge|3,99€|50|2023-07-20 15h|2023-08-03 15h|
-|29|timelie|Timelie - Game of the Year Edition|13,99€|50|2023-08-01 14h|2023-08-15 14h|
-|30|busway-islands-puzzle-91287d|Busway Islands - Puzzle|2,69€|40|2023-06-05 13h|2023-06-12 13h|
-|31|busway-islands-puzzle-91287d|Busway Islands - Puzzle|2,69€|40|2023-07-20 15h|2023-08-03 15h|
-|32|life-after-death-b4e964|Life After Death|4,49€|40|2023-06-25 00h|2023-07-20 00h|
-|33|life-after-death-b4e964|Life After Death|4,49€|40|2023-08-20 00h|2023-09-09 00h|
-|34|freshly-frosted-c636d0|Freshly Frosted|7,99€|36|2023-07-16 07h|2023-08-01 06h|
-|35|ebola-2-b61221|EBOLA 2|13,49€|35|2023-07-20 15h|2023-08-03 15h|
-|36|ebola-3-2c79e9|EBOLA 3|17,99€|35|2023-07-20 15h|2023-08-03 15h|
-|37|voodoo-kid-05b29a|Voodoo Kid|6,29€|35|2023-07-20 15h|2023-08-03 15h|
-|38|gold-rush-classic-34d7d5|Gold Rush! Classic|2,69€|34|2023-06-29 09h|2023-07-06 21h|
-|39|one-more-dungeon-2-532228|One More Dungeon 2|13,49€|33|2023-06-09 14h|2023-06-18 14h|
-|40|bus-driver-simulator-186e62|Bus Driver Simulator|22,39€|30|2023-06-18 18h|2023-06-25 18h|
-|41|im-looking-for-3024-people-1cdae4|I'm looking for 3024 people|3,99€|30|2023-07-20 15h|2023-08-03 15h|
-|42|match-village-5f41dd|Match Village|3,59€|30|2023-06-01 13h|2023-06-07 13h|
+|29|thomas-tales-912c23|Thomas' Tales|4,49€|50|2023-06-02 14h|2023-06-05 11h|
+|30|timelie|Timelie - Game of the Year Edition|13,99€|50|2023-08-01 14h|2023-08-15 14h|
+|31|busway-islands-puzzle-91287d|Busway Islands - Puzzle|2,69€|40|2023-06-05 13h|2023-06-12 13h|
+|32|busway-islands-puzzle-91287d|Busway Islands - Puzzle|2,69€|40|2023-07-20 15h|2023-08-03 15h|
+|33|life-after-death-b4e964|Life After Death|4,49€|40|2023-06-25 00h|2023-07-20 00h|
+|34|life-after-death-b4e964|Life After Death|4,49€|40|2023-08-20 00h|2023-09-09 00h|
+|35|freshly-frosted-c636d0|Freshly Frosted|7,99€|36|2023-07-16 07h|2023-08-01 06h|
+|36|ebola-2-b61221|EBOLA 2|13,49€|35|2023-07-20 15h|2023-08-03 15h|
+|37|ebola-3-2c79e9|EBOLA 3|17,99€|35|2023-07-20 15h|2023-08-03 15h|
+|38|voodoo-kid-05b29a|Voodoo Kid|6,29€|35|2023-07-20 15h|2023-08-03 15h|
+|39|gold-rush-classic-34d7d5|Gold Rush! Classic|2,69€|34|2023-06-29 09h|2023-07-06 21h|
+|40|one-more-dungeon-2-532228|One More Dungeon 2|13,49€|33|2023-06-09 14h|2023-06-18 14h|
+|41|bus-driver-simulator-186e62|Bus Driver Simulator|22,39€|30|2023-06-18 18h|2023-06-25 18h|
+|42|im-looking-for-3024-people-1cdae4|I'm looking for 3024 people|3,99€|30|2023-07-20 15h|2023-08-03 15h|
 |43|match-village-5f41dd|Match Village|3,59€|30|2023-07-20 15h|2023-08-03 15h|
 |44|outcore-desktop-adventure-eb3aff|Outcore - Desktop Adventure|8,99€|30|2023-07-20 15h|2023-08-03 15h|
 |45|shinchan-me-and-the-professor-on-summer-vacation-bb7bad|Shin-chan Me and the Professor on Summer Vacation|49,99€|30|2023-07-20 15h|2023-08-03 15h|
@@ -65,7 +65,6 @@
 |63|elegies-aya-17c3f1|ELEGIES Aya|16,19€|15|2023-12-21 16h|2024-01-11 16h|
 |64|layers-of-fear|Layers of Fear: Masterpiece Edition|22,99€|15|2023-06-15 16h|2023-06-22 16h|
 |65|smalland|Smalland: Survive the Wilds|24,99€|15|2023-06-12 14h|2023-06-19 14h|
-|66|ash-of-gods-the-way-58bd36|Ash of Gods: The Way|24,50€|12|2023-06-05 17h|2023-06-12 17h|
-|67|elegies-aya-17c3f1|ELEGIES Aya|16,19€|10|2023-07-20 15h|2023-08-03 15h|
-|68|elegies-aya-17c3f1|ELEGIES Aya|16,19€|10|2023-09-14 15h|2023-09-28 15h|
-|69|geojelly-a44cfe|GeoJelly|4,49€|10|2023-06-07 18h|2023-06-13 11h|
+|66|elegies-aya-17c3f1|ELEGIES Aya|16,19€|10|2023-07-20 15h|2023-08-03 15h|
+|67|elegies-aya-17c3f1|ELEGIES Aya|16,19€|10|2023-09-14 15h|2023-09-28 15h|
+|68|geojelly-a44cfe|GeoJelly|4,49€|10|2023-06-07 18h|2023-06-13 11h|
