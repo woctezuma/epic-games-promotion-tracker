@@ -361,24 +361,6 @@
   },
   {
     "discountPercentage": 100,
-    "endDate": "2023-06-08T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 0,
-    "slug": "midnight-ghost-hunt",
-    "startDate": "2023-06-01T15:00:00.000Z",
-    "title": "Midnight Ghost Hunt"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2023-06-08T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 1999,
-    "slug": "midnight-ghost-hunt",
-    "startDate": "2023-06-01T15:00:00.000Z",
-    "title": "Midnight Ghost Hunt"
-  },
-  {
-    "discountPercentage": 100,
     "endDate": "2023-06-15T15:00:00.000Z",
     "isFree": true,
     "originalPrice": 0,
@@ -421,6 +403,15 @@
     "slug": "sail-forth-51847e",
     "startDate": "2023-07-16T07:00:00.000Z",
     "title": "Sail Forth"
+  },
+  {
+    "discountPercentage": 33,
+    "endDate": "2023-06-11T23:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "scathe-ca258f",
+    "startDate": "2023-06-06T15:00:00.000Z",
+    "title": "Scathe"
   },
   {
     "discountPercentage": 50,
