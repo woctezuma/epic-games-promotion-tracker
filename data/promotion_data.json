@@ -18,6 +18,15 @@
     "title": "Arctico"
   },
   {
+    "discountPercentage": 12,
+    "endDate": "2023-06-12T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2450,
+    "slug": "ash-of-gods-the-way-58bd36",
+    "startDate": "2023-06-05T17:00:00.000Z",
+    "title": "Ash of Gods: The Way"
+  },
+  {
     "discountPercentage": 15,
     "endDate": "2023-06-12T14:00:00.000Z",
     "isFree": false,
@@ -61,6 +70,15 @@
     "slug": "busway-islands-puzzle-91287d",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Busway Islands - Puzzle"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2023-07-13T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "conan-exiles",
+    "startDate": "2023-06-22T17:00:00.000Z",
+    "title": "Conan Exiles"
   },
   {
     "discountPercentage": 20,
@@ -252,6 +270,15 @@
     "title": "Gold Rush! Classic"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2023-07-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "hogwarts-legacy",
+    "startDate": "2023-06-29T15:00:00.000Z",
+    "title": "Hogwarts Legacy"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -358,15 +385,6 @@
     "slug": "mystery-game-5",
     "startDate": "2023-06-01T15:00:00.000Z",
     "title": "Mystery Game"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2023-06-08T10:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 899,
-    "slug": "search-de9485",
-    "startDate": "2023-06-01T10:00:00.000Z",
-    "title": "Nihilsearch"
   },
   {
     "discountPercentage": 33,
@@ -529,6 +547,15 @@
     "slug": "the-alchemist-of-ars-magna-e68b84",
     "startDate": "2023-06-06T07:00:00.000Z",
     "title": "The Alchemist of Ars Magna"
+  },
+  {
+    "discountPercentage": 87,
+    "endDate": "2023-08-01T06:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "the-bridge",
+    "startDate": "2023-07-16T07:00:00.000Z",
+    "title": "The Bridge"
   },
   {
     "discountPercentage": 65,
