@@ -18,15 +18,6 @@
     "title": "Arctico"
   },
   {
-    "discountPercentage": 12,
-    "endDate": "2023-06-12T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2450,
-    "slug": "ash-of-gods-the-way-58bd36",
-    "startDate": "2023-06-05T17:00:00.000Z",
-    "title": "Ash of Gods: The Way"
-  },
-  {
     "discountPercentage": 15,
     "endDate": "2023-06-12T14:00:00.000Z",
     "isFree": false,
@@ -361,15 +352,6 @@
   },
   {
     "discountPercentage": 30,
-    "endDate": "2023-06-07T13:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 359,
-    "slug": "match-village-5f41dd",
-    "startDate": "2023-06-01T13:00:00.000Z",
-    "title": "Match Village"
-  },
-  {
-    "discountPercentage": 30,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 359,
@@ -574,6 +556,15 @@
     "slug": "the-inheritance-of-crimson-manor-81bc67",
     "startDate": "2023-09-05T15:00:00.000Z",
     "title": "The Inheritance of Crimson Manor"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-06-05T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "thomas-tales-912c23",
+    "startDate": "2023-06-02T14:00:00.000Z",
+    "title": "Thomas' Tales"
   },
   {
     "discountPercentage": 66,
