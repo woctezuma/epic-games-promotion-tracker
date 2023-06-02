@@ -9,13 +9,13 @@
     "title": "Alekon"
   },
   {
-    "discountPercentage": 67,
-    "endDate": "2023-06-15T17:00:00.000Z",
+    "discountPercentage": 60,
+    "endDate": "2023-08-04T17:00:00.000Z",
     "isFree": false,
-    "originalPrice": 899,
-    "slug": "arctico-c29f1d",
-    "startDate": "2023-06-01T17:00:00.000Z",
-    "title": "Arctico"
+    "originalPrice": 1199,
+    "slug": "beholder-3-d23253",
+    "startDate": "2023-07-21T17:00:00.000Z",
+    "title": "Beholder 3"
   },
   {
     "discountPercentage": 15,
@@ -315,6 +315,15 @@
     "title": "Infindustry"
   },
   {
+    "discountPercentage": 33,
+    "endDate": "2023-06-16T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1529,
+    "slug": "jennifer-wilde-unlikely-revolutionaries-7eda5e",
+    "startDate": "2023-06-09T11:00:00.000Z",
+    "title": "Jennifer Wilde Unlikely Revolutionaries"
+  },
+  {
     "discountPercentage": 66,
     "endDate": "2023-08-07T15:00:00.000Z",
     "isFree": false,
@@ -369,6 +378,15 @@
     "title": "Mystery Game"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2023-08-04T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 239,
+    "slug": "necrosmith-b2ef15",
+    "startDate": "2023-07-21T17:00:00.000Z",
+    "title": "Necrosmith"
+  },
+  {
     "discountPercentage": 33,
     "endDate": "2023-06-18T14:30:00.000Z",
     "isFree": false,
@@ -394,6 +412,15 @@
     "slug": "outcore-desktop-adventure-eb3aff",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Outcore - Desktop Adventure"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2023-06-24T07:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "overtop-ed5e49",
+    "startDate": "2023-06-04T07:00:00.000Z",
+    "title": "Overtop"
   },
   {
     "discountPercentage": 21,
@@ -442,6 +469,15 @@
   },
   {
     "discountPercentage": 66,
+    "endDate": "2023-08-04T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "song-of-farca-1eb3f2",
+    "startDate": "2023-07-21T17:00:00.000Z",
+    "title": "Song of Farca"
+  },
+  {
+    "discountPercentage": 66,
     "endDate": "2023-07-10T14:00:00.000Z",
     "isFree": false,
     "originalPrice": 1599,
@@ -474,6 +510,15 @@
     "originalPrice": 719,
     "slug": "suicide-guy-9f7963",
     "startDate": "2023-06-14T04:00:00.000Z",
+    "title": "Suicide Guy"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-08-22T23:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 719,
+    "slug": "suicide-guy-9f7963",
+    "startDate": "2023-08-10T00:00:00.000Z",
     "title": "Suicide Guy"
   },
   {
@@ -549,6 +594,15 @@
     "title": "The Bridge"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-06-30T03:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "the-gravehouse-37f09e",
+    "startDate": "2023-06-05T23:00:00.000Z",
+    "title": "The Gravehouse"
+  },
+  {
     "discountPercentage": 65,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -565,6 +619,15 @@
     "slug": "the-inheritance-of-crimson-manor-81bc67",
     "startDate": "2023-09-05T15:00:00.000Z",
     "title": "The Inheritance of Crimson Manor"
+  },
+  {
+    "discountPercentage": 74,
+    "endDate": "2023-08-04T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "they-always-run-965bb3",
+    "startDate": "2023-07-21T17:00:00.000Z",
+    "title": "They Always Run"
   },
   {
     "discountPercentage": 50,
@@ -604,12 +667,12 @@
   },
   {
     "discountPercentage": 20,
-    "endDate": "2023-06-15T17:00:00.000Z",
+    "endDate": "2023-06-14T14:00:00.000Z",
     "isFree": false,
-    "originalPrice": 1399,
-    "slug": "travellers-rest-c115d1",
-    "startDate": "2023-06-01T17:00:00.000Z",
-    "title": "Travellers Rest"
+    "originalPrice": 719,
+    "slug": "tracks-of-triumph-retro-blast-d2c1c2",
+    "startDate": "2023-06-07T14:00:00.000Z",
+    "title": "Tracks of Triumph Retro Blast"
   },
   {
     "discountPercentage": 35,
