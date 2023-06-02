@@ -9,6 +9,51 @@
     "title": "Alekon"
   },
   {
+    "discountPercentage": 10,
+    "endDate": "2023-06-11T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2450,
+    "slug": "ash-of-gods-the-way-58bd36",
+    "startDate": "2023-06-05T17:00:00.000Z",
+    "title": "Ash of Gods: The Way"
+  },
+  {
+    "discountPercentage": 15,
+    "endDate": "2023-07-27T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2450,
+    "slug": "ash-of-gods-the-way-58bd36",
+    "startDate": "2023-07-11T17:00:00.000Z",
+    "title": "Ash of Gods: The Way"
+  },
+  {
+    "discountPercentage": 15,
+    "endDate": "2023-09-03T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2450,
+    "slug": "ash-of-gods-the-way-58bd36",
+    "startDate": "2023-08-27T17:00:00.000Z",
+    "title": "Ash of Gods: The Way"
+  },
+  {
+    "discountPercentage": 15,
+    "endDate": "2023-10-21T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2450,
+    "slug": "ash-of-gods-the-way-58bd36",
+    "startDate": "2023-10-17T17:00:00.000Z",
+    "title": "Ash of Gods: The Way"
+  },
+  {
+    "discountPercentage": 15,
+    "endDate": "2023-11-28T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2450,
+    "slug": "ash-of-gods-the-way-58bd36",
+    "startDate": "2023-11-21T17:00:00.000Z",
+    "title": "Ash of Gods: The Way"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2023-08-04T17:00:00.000Z",
     "isFree": false,
@@ -90,15 +135,6 @@
     "title": "Dead by Daylight"
   },
   {
-    "discountPercentage": 25,
-    "endDate": "2023-06-15T13:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "disney-dreamlight-valley",
-    "startDate": "2023-06-02T13:00:00.000Z",
-    "title": "Disney Dreamlight Valley"
-  },
-  {
     "discountPercentage": 35,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -142,15 +178,6 @@
     "slug": "elegies-aya-17c3f1",
     "startDate": "2023-12-21T16:00:00.000Z",
     "title": "ELEGIES Aya"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2023-07-02T09:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1199,
-    "slug": "fire-commander-df24ad",
-    "startDate": "2023-06-02T09:00:00.000Z",
-    "title": "Fire Commander"
   },
   {
     "discountPercentage": 50,
@@ -496,11 +523,11 @@
   },
   {
     "discountPercentage": 30,
-    "endDate": "2023-06-25T14:00:00.000Z",
+    "endDate": "2023-06-26T00:00:00.000Z",
     "isFree": false,
     "originalPrice": 2499,
     "slug": "strayed-lights-351d29",
-    "startDate": "2023-06-13T14:00:00.000Z",
+    "startDate": "2023-06-13T00:00:00.000Z",
     "title": "Strayed Lights"
   },
   {
@@ -630,15 +657,6 @@
     "title": "They Always Run"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2023-06-05T11:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 449,
-    "slug": "thomas-tales-912c23",
-    "startDate": "2023-06-02T14:00:00.000Z",
-    "title": "Thomas' Tales"
-  },
-  {
     "discountPercentage": 66,
     "endDate": "2023-06-26T14:00:00.000Z",
     "isFree": false,
@@ -673,6 +691,15 @@
     "slug": "tracks-of-triumph-retro-blast-d2c1c2",
     "startDate": "2023-06-07T14:00:00.000Z",
     "title": "Tracks of Triumph Retro Blast"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2023-07-03T12:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "volley-pals-0120b4",
+    "startDate": "2023-06-19T12:00:00.000Z",
+    "title": "Volley Pals"
   },
   {
     "discountPercentage": 35,
