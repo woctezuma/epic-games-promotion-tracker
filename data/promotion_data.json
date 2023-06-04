@@ -459,15 +459,6 @@
     "title": "Outcore - Desktop Adventure"
   },
   {
-    "discountPercentage": 90,
-    "endDate": "2023-06-24T07:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 449,
-    "slug": "overtop-ed5e49",
-    "startDate": "2023-06-04T07:00:00.000Z",
-    "title": "Overtop"
-  },
-  {
     "discountPercentage": 21,
     "endDate": "2023-08-01T06:00:00.000Z",
     "isFree": false,
@@ -565,15 +556,6 @@
     "slug": "suicide-guy-9f7963",
     "startDate": "2023-08-10T00:00:00.000Z",
     "title": "Suicide Guy"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2023-06-18T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 899,
-    "slug": "super-alloy-ranger-4252cc",
-    "startDate": "2023-06-04T16:00:00.000Z",
-    "title": "Super Alloy Ranger"
   },
   {
     "discountPercentage": 20,
