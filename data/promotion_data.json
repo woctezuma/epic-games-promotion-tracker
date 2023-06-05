@@ -9,15 +9,6 @@
     "title": "Alekon"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2023-06-11T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2450,
-    "slug": "ash-of-gods-the-way-58bd36",
-    "startDate": "2023-06-05T17:00:00.000Z",
-    "title": "Ash of Gods: The Way"
-  },
-  {
     "discountPercentage": 15,
     "endDate": "2023-07-27T17:00:00.000Z",
     "isFree": false,
@@ -63,15 +54,6 @@
     "title": "Beholder 3"
   },
   {
-    "discountPercentage": 15,
-    "endDate": "2023-06-12T14:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2699,
-    "slug": "bramble-the-mountain-king-c0d1c6",
-    "startDate": "2023-06-05T14:00:00.000Z",
-    "title": "Bramble The Mountain King"
-  },
-  {
     "discountPercentage": 85,
     "endDate": "2023-08-02T04:00:00.000Z",
     "isFree": false,
@@ -88,15 +70,6 @@
     "slug": "bus-driver-simulator-186e62",
     "startDate": "2023-06-18T18:00:00.000Z",
     "title": "Bus Driver Simulator"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2023-06-12T13:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 269,
-    "slug": "busway-islands-puzzle-91287d",
-    "startDate": "2023-06-05T13:00:00.000Z",
-    "title": "Busway Islands - Puzzle"
   },
   {
     "discountPercentage": 40,
@@ -187,6 +160,24 @@
     "slug": "elegies-aya-17c3f1",
     "startDate": "2023-12-21T16:00:00.000Z",
     "title": "ELEGIES Aya"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2023-06-18T18:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "emergency-crew-1-04340a",
+    "startDate": "2023-06-13T18:00:00.000Z",
+    "title": "Emergency Crew 2 Global Warming"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2023-06-28T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 629,
+    "slug": "fur-squadron-0042b8",
+    "startDate": "2023-06-21T22:00:00.000Z",
+    "title": "FUR Squadron"
   },
   {
     "discountPercentage": 50,
