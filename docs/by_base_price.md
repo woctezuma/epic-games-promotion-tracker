@@ -7,63 +7,63 @@
 |5|shinchan-me-and-the-professor-on-summer-vacation-bb7bad|Shin-chan Me and the Professor on Summer Vacation|49,99€|30|2023-07-20 15h|2023-08-03 15h|
 |6|conan-exiles|Conan Exiles|39,99€|60|2023-06-22 17h|2023-07-13 17h|
 |7|the-alchemist-of-ars-magna-e68b84|The Alchemist of Ars Magna|35,99€|30|2023-06-06 07h|2023-06-12 07h|
-|8|bramble-the-mountain-king-c0d1c6|Bramble The Mountain King|26,99€|15|2023-06-05 14h|2023-06-12 14h|
-|9|smalland|Smalland: Survive the Wilds|24,99€|15|2023-06-12 14h|2023-06-19 14h|
-|10|strayed-lights-351d29|Strayed Lights|24,99€|30|2023-06-13 00h|2023-06-26 00h|
-|11|ash-of-gods-the-way-58bd36|Ash of Gods: The Way|24,50€|10|2023-06-05 17h|2023-06-11 16h|
-|12|ash-of-gods-the-way-58bd36|Ash of Gods: The Way|24,50€|15|2023-07-11 17h|2023-07-27 17h|
-|13|ash-of-gods-the-way-58bd36|Ash of Gods: The Way|24,50€|15|2023-08-27 17h|2023-09-03 17h|
-|14|ash-of-gods-the-way-58bd36|Ash of Gods: The Way|24,50€|15|2023-10-17 17h|2023-10-21 17h|
-|15|ash-of-gods-the-way-58bd36|Ash of Gods: The Way|24,50€|15|2023-11-21 17h|2023-11-28 17h|
-|16|layers-of-fear|Layers of Fear: Masterpiece Edition|22,99€|15|2023-06-15 16h|2023-06-22 16h|
-|17|bus-driver-simulator-186e62|Bus Driver Simulator|22,39€|30|2023-06-18 18h|2023-06-25 18h|
-|18|dead-by-daylight|Dead by Daylight|19,99€|50|2023-06-07 15h|2023-06-21 15h|
-|19|scathe-ca258f|Scathe|19,99€|33|2023-06-06 15h|2023-06-11 23h|
-|20|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|85|2023-06-16 04h|2023-08-02 04h|
-|21|ebola-3-2c79e9|EBOLA 3|17,99€|35|2023-07-20 15h|2023-08-03 15h|
-|22|flyto-c4d923|Flyto|17,99€|50|2023-06-24 23h|2023-07-24 10h|
-|23|strawhart-776f4d|Strawhart|17,99€|50|2023-07-20 15h|2023-08-03 15h|
-|24|the-inheritance-of-crimson-manor-81bc67|The Inheritance of Crimson Manor|17,99€|65|2023-07-20 15h|2023-08-03 15h|
-|25|the-inheritance-of-crimson-manor-81bc67|The Inheritance of Crimson Manor|17,99€|70|2023-09-05 15h|2023-09-12 15h|
-|26|lego-builders-journey|LEGO® Builder's Journey|16,99€|66|2023-07-31 15h|2023-08-07 15h|
-|27|elegies-aya-17c3f1|ELEGIES Aya|16,19€|10|2023-07-20 15h|2023-08-03 15h|
-|28|elegies-aya-17c3f1|ELEGIES Aya|16,19€|10|2023-09-14 15h|2023-09-28 15h|
-|29|elegies-aya-17c3f1|ELEGIES Aya|16,19€|15|2023-12-21 16h|2024-01-11 16h|
-|30|sail-forth-51847e|Sail Forth|15,99€|21|2023-07-16 07h|2023-08-01 06h|
-|31|song-of-farca-1eb3f2|Song of Farca|15,99€|66|2023-07-21 17h|2023-08-04 17h|
-|32|spirit-of-the-north-f58a66|Spirit of the North|15,99€|66|2023-07-03 14h|2023-07-10 14h|
-|33|toem|TOEM|15,99€|70|2023-09-11 16h|2023-09-24 16h|
-|34|time-on-frog-island-b3ad0d|Time on Frog Island|15,99€|66|2023-06-19 14h|2023-06-26 14h|
-|35|infindustry-cccc40|Infindustry|15,29€|50|2023-07-20 15h|2023-08-03 15h|
-|36|infindustry-cccc40|Infindustry|15,29€|50|2023-09-14 15h|2023-09-28 15h|
-|37|infindustry-cccc40|Infindustry|15,29€|50|2023-11-21 16h|2023-11-28 16h|
-|38|jennifer-wilde-unlikely-revolutionaries-7eda5e|Jennifer Wilde Unlikely Revolutionaries|15,29€|33|2023-06-09 11h|2023-06-16 11h|
-|39|timelie|Timelie - Game of the Year Edition|13,99€|50|2023-08-01 14h|2023-08-15 14h|
-|40|alekon-b2faec|Alekon|13,49€|75|2023-07-20 15h|2023-08-03 15h|
-|41|ebola-2-b61221|EBOLA 2|13,49€|35|2023-07-20 15h|2023-08-03 15h|
-|42|one-more-dungeon-2-532228|One More Dungeon 2|13,49€|33|2023-06-09 14h|2023-06-18 14h|
-|43|beholder-3-d23253|Beholder 3|11,99€|60|2023-07-21 17h|2023-08-04 17h|
-|44|they-always-run-965bb3|They Always Run|11,99€|74|2023-07-21 17h|2023-08-04 17h|
-|45|flat-heroes-fec628|Flat Heroes|9,99€|50|2023-06-16 19h|2023-06-28 19h|
-|46|the-bridge|The Bridge|9,99€|87|2023-07-16 07h|2023-08-01 06h|
-|47|fusion-paradox-31b28a|Fusion Paradox|8,99€|60|2023-06-18 22h|2023-06-20 15h|
-|48|fusion-paradox-31b28a|Fusion Paradox|8,99€|60|2023-07-20 15h|2023-08-03 15h|
-|49|outcore-desktop-adventure-eb3aff|Outcore - Desktop Adventure|8,99€|30|2023-07-20 15h|2023-08-03 15h|
-|50|secret-doctrine-342083|Secret Doctrine|8,99€|50|2023-07-20 15h|2023-08-03 15h|
-|51|super-alloy-ranger-4252cc|Super Alloy Ranger|8,99€|20|2023-07-20 15h|2023-08-03 15h|
-|52|the-gravehouse-37f09e|The Gravehouse|8,99€|50|2023-06-05 23h|2023-06-30 03h|
-|53|switchball-hd-6d3802|Switchball HD|8,09€|50|2023-07-20 15h|2023-08-03 15h|
-|54|freshly-frosted-c636d0|Freshly Frosted|7,99€|36|2023-07-16 07h|2023-08-01 06h|
-|55|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|25|2023-07-20 15h|2023-08-03 15h|
-|56|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|25|2023-09-05 15h|2023-09-12 15h|
-|57|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|50|2023-10-17 15h|2023-10-24 15h|
-|58|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|50|2023-11-28 16h|2023-12-05 16h|
-|59|suicide-guy-9f7963|Suicide Guy|7,19€|20|2023-06-14 04h|2023-06-29 04h|
-|60|suicide-guy-9f7963|Suicide Guy|7,19€|20|2023-08-10 00h|2023-08-22 23h|
-|61|tracks-of-triumph-7b2685|Tracks of Triumph|7,19€|20|2023-06-18 14h|2023-07-18 14h|
-|62|tracks-of-triumph-retro-blast-d2c1c2|Tracks of Triumph Retro Blast|7,19€|20|2023-06-07 14h|2023-06-14 14h|
-|63|voodoo-kid-05b29a|Voodoo Kid|6,29€|35|2023-07-20 15h|2023-08-03 15h|
-|64|tiny-lands-527466|Tiny Lands|5,99€|50|2023-06-07 23h|2023-06-17 23h|
+|8|smalland|Smalland: Survive the Wilds|24,99€|15|2023-06-12 14h|2023-06-19 14h|
+|9|strayed-lights-351d29|Strayed Lights|24,99€|30|2023-06-13 00h|2023-06-26 00h|
+|10|ash-of-gods-the-way-58bd36|Ash of Gods: The Way|24,50€|15|2023-07-11 17h|2023-07-27 17h|
+|11|ash-of-gods-the-way-58bd36|Ash of Gods: The Way|24,50€|15|2023-08-27 17h|2023-09-03 17h|
+|12|ash-of-gods-the-way-58bd36|Ash of Gods: The Way|24,50€|15|2023-10-17 17h|2023-10-21 17h|
+|13|ash-of-gods-the-way-58bd36|Ash of Gods: The Way|24,50€|15|2023-11-21 17h|2023-11-28 17h|
+|14|layers-of-fear|Layers of Fear: Masterpiece Edition|22,99€|15|2023-06-15 16h|2023-06-22 16h|
+|15|bus-driver-simulator-186e62|Bus Driver Simulator|22,39€|30|2023-06-18 18h|2023-06-25 18h|
+|16|dead-by-daylight|Dead by Daylight|19,99€|50|2023-06-07 15h|2023-06-21 15h|
+|17|scathe-ca258f|Scathe|19,99€|33|2023-06-06 15h|2023-06-11 23h|
+|18|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|85|2023-06-16 04h|2023-08-02 04h|
+|19|ebola-3-2c79e9|EBOLA 3|17,99€|35|2023-07-20 15h|2023-08-03 15h|
+|20|flyto-c4d923|Flyto|17,99€|50|2023-06-24 23h|2023-07-24 10h|
+|21|strawhart-776f4d|Strawhart|17,99€|50|2023-07-20 15h|2023-08-03 15h|
+|22|the-inheritance-of-crimson-manor-81bc67|The Inheritance of Crimson Manor|17,99€|65|2023-07-20 15h|2023-08-03 15h|
+|23|the-inheritance-of-crimson-manor-81bc67|The Inheritance of Crimson Manor|17,99€|70|2023-09-05 15h|2023-09-12 15h|
+|24|lego-builders-journey|LEGO® Builder's Journey|16,99€|66|2023-07-31 15h|2023-08-07 15h|
+|25|elegies-aya-17c3f1|ELEGIES Aya|16,19€|10|2023-07-20 15h|2023-08-03 15h|
+|26|elegies-aya-17c3f1|ELEGIES Aya|16,19€|10|2023-09-14 15h|2023-09-28 15h|
+|27|elegies-aya-17c3f1|ELEGIES Aya|16,19€|15|2023-12-21 16h|2024-01-11 16h|
+|28|sail-forth-51847e|Sail Forth|15,99€|21|2023-07-16 07h|2023-08-01 06h|
+|29|song-of-farca-1eb3f2|Song of Farca|15,99€|66|2023-07-21 17h|2023-08-04 17h|
+|30|spirit-of-the-north-f58a66|Spirit of the North|15,99€|66|2023-07-03 14h|2023-07-10 14h|
+|31|toem|TOEM|15,99€|70|2023-09-11 16h|2023-09-24 16h|
+|32|time-on-frog-island-b3ad0d|Time on Frog Island|15,99€|66|2023-06-19 14h|2023-06-26 14h|
+|33|infindustry-cccc40|Infindustry|15,29€|50|2023-07-20 15h|2023-08-03 15h|
+|34|infindustry-cccc40|Infindustry|15,29€|50|2023-09-14 15h|2023-09-28 15h|
+|35|infindustry-cccc40|Infindustry|15,29€|50|2023-11-21 16h|2023-11-28 16h|
+|36|jennifer-wilde-unlikely-revolutionaries-7eda5e|Jennifer Wilde Unlikely Revolutionaries|15,29€|33|2023-06-09 11h|2023-06-16 11h|
+|37|timelie|Timelie - Game of the Year Edition|13,99€|50|2023-08-01 14h|2023-08-15 14h|
+|38|alekon-b2faec|Alekon|13,49€|75|2023-07-20 15h|2023-08-03 15h|
+|39|ebola-2-b61221|EBOLA 2|13,49€|35|2023-07-20 15h|2023-08-03 15h|
+|40|one-more-dungeon-2-532228|One More Dungeon 2|13,49€|33|2023-06-09 14h|2023-06-18 14h|
+|41|beholder-3-d23253|Beholder 3|11,99€|60|2023-07-21 17h|2023-08-04 17h|
+|42|they-always-run-965bb3|They Always Run|11,99€|74|2023-07-21 17h|2023-08-04 17h|
+|43|flat-heroes-fec628|Flat Heroes|9,99€|50|2023-06-16 19h|2023-06-28 19h|
+|44|the-bridge|The Bridge|9,99€|87|2023-07-16 07h|2023-08-01 06h|
+|45|fusion-paradox-31b28a|Fusion Paradox|8,99€|60|2023-06-18 22h|2023-06-20 15h|
+|46|fusion-paradox-31b28a|Fusion Paradox|8,99€|60|2023-07-20 15h|2023-08-03 15h|
+|47|outcore-desktop-adventure-eb3aff|Outcore - Desktop Adventure|8,99€|30|2023-07-20 15h|2023-08-03 15h|
+|48|secret-doctrine-342083|Secret Doctrine|8,99€|50|2023-07-20 15h|2023-08-03 15h|
+|49|super-alloy-ranger-4252cc|Super Alloy Ranger|8,99€|20|2023-07-20 15h|2023-08-03 15h|
+|50|the-gravehouse-37f09e|The Gravehouse|8,99€|50|2023-06-05 23h|2023-06-30 03h|
+|51|switchball-hd-6d3802|Switchball HD|8,09€|50|2023-07-20 15h|2023-08-03 15h|
+|52|freshly-frosted-c636d0|Freshly Frosted|7,99€|36|2023-07-16 07h|2023-08-01 06h|
+|53|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|25|2023-07-20 15h|2023-08-03 15h|
+|54|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|25|2023-09-05 15h|2023-09-12 15h|
+|55|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|50|2023-10-17 15h|2023-10-24 15h|
+|56|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|50|2023-11-28 16h|2023-12-05 16h|
+|57|suicide-guy-9f7963|Suicide Guy|7,19€|20|2023-06-14 04h|2023-06-29 04h|
+|58|suicide-guy-9f7963|Suicide Guy|7,19€|20|2023-08-10 00h|2023-08-22 23h|
+|59|tracks-of-triumph-7b2685|Tracks of Triumph|7,19€|20|2023-06-18 14h|2023-07-18 14h|
+|60|tracks-of-triumph-retro-blast-d2c1c2|Tracks of Triumph Retro Blast|7,19€|20|2023-06-07 14h|2023-06-14 14h|
+|61|fur-squadron-0042b8|FUR Squadron|6,29€|30|2023-06-21 22h|2023-06-28 22h|
+|62|voodoo-kid-05b29a|Voodoo Kid|6,29€|35|2023-07-20 15h|2023-08-03 15h|
+|63|tiny-lands-527466|Tiny Lands|5,99€|50|2023-06-07 23h|2023-06-17 23h|
+|64|emergency-crew-1-04340a|Emergency Crew 2 Global Warming|4,49€|70|2023-06-13 18h|2023-06-18 18h|
 |65|geojelly-a44cfe|GeoJelly|4,49€|10|2023-06-07 18h|2023-06-13 11h|
 |66|life-after-death-b4e964|Life After Death|4,49€|40|2023-06-25 00h|2023-07-20 00h|
 |67|life-after-death-b4e964|Life After Death|4,49€|40|2023-08-20 00h|2023-09-09 00h|
@@ -73,9 +73,8 @@
 |71|match-village-5f41dd|Match Village|3,59€|30|2023-07-20 15h|2023-08-03 15h|
 |72|out-of-bounds-ade206|Out of Bounds|3,59€|25|2023-07-20 15h|2023-08-03 15h|
 |73|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|25|2023-06-21 04h|2023-06-28 04h|
-|74|busway-islands-puzzle-91287d|Busway Islands - Puzzle|2,69€|40|2023-06-05 13h|2023-06-12 13h|
-|75|busway-islands-puzzle-91287d|Busway Islands - Puzzle|2,69€|40|2023-07-20 15h|2023-08-03 15h|
-|76|dolmenjord-viking-islands-965b06|Dolmenjord - Viking Islands|2,69€|30|2023-06-15 15h|2023-06-22 15h|
-|77|gold-rush-classic-34d7d5|Gold Rush! Classic|2,69€|34|2023-06-29 09h|2023-07-06 21h|
-|78|necrosmith-b2ef15|Necrosmith|2,39€|40|2023-07-21 17h|2023-08-04 17h|
-|79|mystery-game-7|Mystery Game|0,00€|100|2023-06-08 15h|2023-06-15 15h|
+|74|busway-islands-puzzle-91287d|Busway Islands - Puzzle|2,69€|40|2023-07-20 15h|2023-08-03 15h|
+|75|dolmenjord-viking-islands-965b06|Dolmenjord - Viking Islands|2,69€|30|2023-06-15 15h|2023-06-22 15h|
+|76|gold-rush-classic-34d7d5|Gold Rush! Classic|2,69€|34|2023-06-29 09h|2023-07-06 21h|
+|77|necrosmith-b2ef15|Necrosmith|2,39€|40|2023-07-21 17h|2023-08-04 17h|
+|78|mystery-game-7|Mystery Game|0,00€|100|2023-06-08 15h|2023-06-15 15h|
