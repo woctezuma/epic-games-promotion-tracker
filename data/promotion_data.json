@@ -9,6 +9,15 @@
     "title": "Alekon"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2023-06-26T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "aquatico-b4f0ce",
+    "startDate": "2023-06-19T22:00:00.000Z",
+    "title": "Aquatico"
+  },
+  {
     "discountPercentage": 15,
     "endDate": "2023-07-27T17:00:00.000Z",
     "isFree": false,
@@ -441,6 +450,15 @@
     "title": "Outcore - Desktop Adventure"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-06-26T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "patron-4ab1c1",
+    "startDate": "2023-06-19T22:00:00.000Z",
+    "title": "Patron"
+  },
+  {
     "discountPercentage": 21,
     "endDate": "2023-08-01T06:00:00.000Z",
     "isFree": false,
@@ -601,15 +619,6 @@
     "slug": "the-bridge",
     "startDate": "2023-07-16T07:00:00.000Z",
     "title": "The Bridge"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2023-06-30T03:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 899,
-    "slug": "the-gravehouse-37f09e",
-    "startDate": "2023-06-05T23:00:00.000Z",
-    "title": "The Gravehouse"
   },
   {
     "discountPercentage": 65,
