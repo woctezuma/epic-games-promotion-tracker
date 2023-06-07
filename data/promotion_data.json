@@ -432,15 +432,6 @@
     "title": "Match Village"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2023-06-15T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 0,
-    "slug": "mystery-game-7",
-    "startDate": "2023-06-08T15:00:00.000Z",
-    "title": "Mystery Game"
-  },
-  {
     "discountPercentage": 40,
     "endDate": "2023-08-04T17:00:00.000Z",
     "isFree": false,
@@ -472,7 +463,7 @@
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 899,
-    "slug": "outcore-desktop-adventure-eb3aff",
+    "slug": "424310b82eca44a383fed2f3190d39dc",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Outcore - Desktop Adventure"
   },
