@@ -54,6 +54,15 @@
     "title": "Ash of Gods: The Way"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2023-06-27T13:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "awesome-pea-2-45617a",
+    "startDate": "2023-06-20T13:00:00.000Z",
+    "title": "Awesome Pea 2"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2023-08-04T17:00:00.000Z",
     "isFree": false,
