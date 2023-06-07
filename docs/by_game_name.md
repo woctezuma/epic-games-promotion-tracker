@@ -48,35 +48,34 @@
 |46|life-after-death-b4e964|Life After Death|4,49€|40|2023-06-25 00h|2023-07-20 00h|
 |47|life-after-death-b4e964|Life After Death|4,49€|40|2023-08-20 00h|2023-09-09 00h|
 |48|match-village-5f41dd|Match Village|3,59€|30|2023-07-20 15h|2023-08-03 15h|
-|49|mystery-game-7|Mystery Game|0,00€|100|2023-06-08 15h|2023-06-15 15h|
-|50|necrosmith-b2ef15|Necrosmith|2,39€|40|2023-07-21 17h|2023-08-04 17h|
-|51|one-more-dungeon-2-532228|One More Dungeon 2|13,49€|33|2023-06-09 14h|2023-06-18 14h|
-|52|out-of-bounds-ade206|Out of Bounds|3,59€|25|2023-07-20 15h|2023-08-03 15h|
-|53|outcore-desktop-adventure-eb3aff|Outcore - Desktop Adventure|8,99€|30|2023-07-20 15h|2023-08-03 15h|
-|54|patron-4ab1c1|Patron|15,99€|50|2023-06-19 22h|2023-06-26 22h|
-|55|sail-forth-51847e|Sail Forth|15,99€|21|2023-07-16 07h|2023-08-01 06h|
-|56|secret-doctrine-342083|Secret Doctrine|8,99€|50|2023-07-20 15h|2023-08-03 15h|
-|57|shinchan-me-and-the-professor-on-summer-vacation-bb7bad|Shin-chan Me and the Professor on Summer Vacation|49,99€|30|2023-07-20 15h|2023-08-03 15h|
-|58|smalland|Smalland: Survive the Wilds|24,99€|15|2023-06-12 14h|2023-06-19 14h|
-|59|song-of-farca-1eb3f2|Song of Farca|15,99€|66|2023-07-21 17h|2023-08-04 17h|
-|60|spirit-of-the-north-f58a66|Spirit of the North|15,99€|66|2023-07-03 14h|2023-07-10 14h|
-|61|strawhart-776f4d|Strawhart|17,99€|50|2023-07-20 15h|2023-08-03 15h|
-|62|strayed-lights-351d29|Strayed Lights|24,99€|30|2023-06-13 00h|2023-06-26 00h|
-|63|suicide-guy-9f7963|Suicide Guy|7,19€|20|2023-06-14 04h|2023-06-29 04h|
-|64|suicide-guy-9f7963|Suicide Guy|7,19€|20|2023-08-10 00h|2023-08-22 23h|
-|65|super-alloy-ranger-4252cc|Super Alloy Ranger|8,99€|20|2023-07-20 15h|2023-08-03 15h|
-|66|switchball-hd-6d3802|Switchball HD|8,09€|50|2023-07-20 15h|2023-08-03 15h|
-|67|system-purge-9ab7b7|System Purge|3,99€|50|2023-07-20 15h|2023-08-03 15h|
-|68|toem|TOEM|15,99€|70|2023-09-11 16h|2023-09-24 16h|
-|69|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|25|2023-06-21 04h|2023-06-28 04h|
-|70|the-bridge|The Bridge|9,99€|87|2023-07-16 07h|2023-08-01 06h|
-|71|the-inheritance-of-crimson-manor-81bc67|The Inheritance of Crimson Manor|17,99€|65|2023-07-20 15h|2023-08-03 15h|
-|72|the-inheritance-of-crimson-manor-81bc67|The Inheritance of Crimson Manor|17,99€|70|2023-09-05 15h|2023-09-12 15h|
-|73|they-always-run-965bb3|They Always Run|11,99€|74|2023-07-21 17h|2023-08-04 17h|
-|74|time-on-frog-island-b3ad0d|Time on Frog Island|15,99€|66|2023-06-19 14h|2023-06-26 14h|
-|75|timelie|Timelie - Game of the Year Edition|13,99€|50|2023-08-01 14h|2023-08-15 14h|
-|76|tiny-lands-527466|Tiny Lands|5,99€|50|2023-06-07 23h|2023-06-17 23h|
-|77|totally-accurate-battle-simulator|Totally Accurate Battle Simulator|16,79€|50|2023-06-12 08h|2023-06-23 20h|
-|78|tracks-of-triumph-7b2685|Tracks of Triumph|7,19€|20|2023-06-18 14h|2023-07-18 14h|
-|79|volley-pals-0120b4|Volley Pals|4,49€|30|2023-06-19 12h|2023-07-03 12h|
-|80|voodoo-kid-05b29a|Voodoo Kid|6,29€|35|2023-07-20 15h|2023-08-03 15h|
+|49|necrosmith-b2ef15|Necrosmith|2,39€|40|2023-07-21 17h|2023-08-04 17h|
+|50|one-more-dungeon-2-532228|One More Dungeon 2|13,49€|33|2023-06-09 14h|2023-06-18 14h|
+|51|out-of-bounds-ade206|Out of Bounds|3,59€|25|2023-07-20 15h|2023-08-03 15h|
+|52|424310b82eca44a383fed2f3190d39dc|Outcore - Desktop Adventure|8,99€|30|2023-07-20 15h|2023-08-03 15h|
+|53|patron-4ab1c1|Patron|15,99€|50|2023-06-19 22h|2023-06-26 22h|
+|54|sail-forth-51847e|Sail Forth|15,99€|21|2023-07-16 07h|2023-08-01 06h|
+|55|secret-doctrine-342083|Secret Doctrine|8,99€|50|2023-07-20 15h|2023-08-03 15h|
+|56|shinchan-me-and-the-professor-on-summer-vacation-bb7bad|Shin-chan Me and the Professor on Summer Vacation|49,99€|30|2023-07-20 15h|2023-08-03 15h|
+|57|smalland|Smalland: Survive the Wilds|24,99€|15|2023-06-12 14h|2023-06-19 14h|
+|58|song-of-farca-1eb3f2|Song of Farca|15,99€|66|2023-07-21 17h|2023-08-04 17h|
+|59|spirit-of-the-north-f58a66|Spirit of the North|15,99€|66|2023-07-03 14h|2023-07-10 14h|
+|60|strawhart-776f4d|Strawhart|17,99€|50|2023-07-20 15h|2023-08-03 15h|
+|61|strayed-lights-351d29|Strayed Lights|24,99€|30|2023-06-13 00h|2023-06-26 00h|
+|62|suicide-guy-9f7963|Suicide Guy|7,19€|20|2023-06-14 04h|2023-06-29 04h|
+|63|suicide-guy-9f7963|Suicide Guy|7,19€|20|2023-08-10 00h|2023-08-22 23h|
+|64|super-alloy-ranger-4252cc|Super Alloy Ranger|8,99€|20|2023-07-20 15h|2023-08-03 15h|
+|65|switchball-hd-6d3802|Switchball HD|8,09€|50|2023-07-20 15h|2023-08-03 15h|
+|66|system-purge-9ab7b7|System Purge|3,99€|50|2023-07-20 15h|2023-08-03 15h|
+|67|toem|TOEM|15,99€|70|2023-09-11 16h|2023-09-24 16h|
+|68|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|25|2023-06-21 04h|2023-06-28 04h|
+|69|the-bridge|The Bridge|9,99€|87|2023-07-16 07h|2023-08-01 06h|
+|70|the-inheritance-of-crimson-manor-81bc67|The Inheritance of Crimson Manor|17,99€|65|2023-07-20 15h|2023-08-03 15h|
+|71|the-inheritance-of-crimson-manor-81bc67|The Inheritance of Crimson Manor|17,99€|70|2023-09-05 15h|2023-09-12 15h|
+|72|they-always-run-965bb3|They Always Run|11,99€|74|2023-07-21 17h|2023-08-04 17h|
+|73|time-on-frog-island-b3ad0d|Time on Frog Island|15,99€|66|2023-06-19 14h|2023-06-26 14h|
+|74|timelie|Timelie - Game of the Year Edition|13,99€|50|2023-08-01 14h|2023-08-15 14h|
+|75|tiny-lands-527466|Tiny Lands|5,99€|50|2023-06-07 23h|2023-06-17 23h|
+|76|totally-accurate-battle-simulator|Totally Accurate Battle Simulator|16,79€|50|2023-06-12 08h|2023-06-23 20h|
+|77|tracks-of-triumph-7b2685|Tracks of Triumph|7,19€|20|2023-06-18 14h|2023-07-18 14h|
+|78|volley-pals-0120b4|Volley Pals|4,49€|30|2023-06-19 12h|2023-07-03 12h|
+|79|voodoo-kid-05b29a|Voodoo Kid|6,29€|35|2023-07-20 15h|2023-08-03 15h|

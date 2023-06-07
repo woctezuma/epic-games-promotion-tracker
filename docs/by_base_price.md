@@ -50,7 +50,7 @@
 |48|the-bridge|The Bridge|9,99€|87|2023-07-16 07h|2023-08-01 06h|
 |49|fusion-paradox-31b28a|Fusion Paradox|8,99€|60|2023-06-18 22h|2023-06-20 15h|
 |50|fusion-paradox-31b28a|Fusion Paradox|8,99€|60|2023-07-20 15h|2023-08-03 15h|
-|51|outcore-desktop-adventure-eb3aff|Outcore - Desktop Adventure|8,99€|30|2023-07-20 15h|2023-08-03 15h|
+|51|424310b82eca44a383fed2f3190d39dc|Outcore - Desktop Adventure|8,99€|30|2023-07-20 15h|2023-08-03 15h|
 |52|secret-doctrine-342083|Secret Doctrine|8,99€|50|2023-07-20 15h|2023-08-03 15h|
 |53|super-alloy-ranger-4252cc|Super Alloy Ranger|8,99€|20|2023-07-20 15h|2023-08-03 15h|
 |54|switchball-hd-6d3802|Switchball HD|8,09€|50|2023-07-20 15h|2023-08-03 15h|
@@ -79,4 +79,3 @@
 |77|dolmenjord-viking-islands-965b06|Dolmenjord - Viking Islands|2,69€|30|2023-06-15 15h|2023-06-22 15h|
 |78|gold-rush-classic-34d7d5|Gold Rush! Classic|2,69€|34|2023-06-29 09h|2023-07-06 21h|
 |79|necrosmith-b2ef15|Necrosmith|2,39€|40|2023-07-21 17h|2023-08-04 17h|
-|80|mystery-game-7|Mystery Game|0,00€|100|2023-06-08 15h|2023-06-15 15h|
