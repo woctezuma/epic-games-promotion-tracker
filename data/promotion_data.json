@@ -1,5 +1,14 @@
 [
   {
+    "discountPercentage": 50,
+    "endDate": "2023-07-13T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "a-total-war-saga-troy",
+    "startDate": "2023-06-29T17:00:00.000Z",
+    "title": "A Total War Saga: TROY"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -7,6 +16,15 @@
     "slug": "alekon-b2faec",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Alekon"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-07-30T23:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "ancient-enemy",
+    "startDate": "2023-07-16T23:00:00.000Z",
+    "title": "Ancient Enemy"
   },
   {
     "discountPercentage": 40,
@@ -63,6 +81,15 @@
     "title": "Awesome Pea 2"
   },
   {
+    "discountPercentage": 15,
+    "endDate": "2023-07-06T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "backbeat-e59d86",
+    "startDate": "2023-06-28T23:00:00.000Z",
+    "title": "Backbeat"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2023-08-04T17:00:00.000Z",
     "isFree": false,
@@ -108,13 +135,13 @@
     "title": "Conan Exiles"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2023-06-21T15:00:00.000Z",
+    "discountPercentage": 75,
+    "endDate": "2023-07-23T15:00:00.000Z",
     "isFree": false,
-    "originalPrice": 1999,
-    "slug": "dead-by-daylight",
-    "startDate": "2023-06-07T15:00:00.000Z",
-    "title": "Dead by Daylight"
+    "originalPrice": 3999,
+    "slug": "disco-elysium",
+    "startDate": "2023-07-15T15:00:00.000Z",
+    "title": "Disco Elysium - The Final Cut"
   },
   {
     "discountPercentage": 30,
@@ -295,6 +322,15 @@
     "slug": "gold-rush-classic-34d7d5",
     "startDate": "2023-06-29T09:00:00.000Z",
     "title": "Gold Rush! Classic"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2023-07-13T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "humankind",
+    "startDate": "2023-06-29T17:00:00.000Z",
+    "title": "HUMANKIND\u2122 Standard Edition"
   },
   {
     "discountPercentage": 20,
@@ -673,15 +709,6 @@
     "slug": "tracks-of-triumph-7b2685",
     "startDate": "2023-06-18T14:00:00.000Z",
     "title": "Tracks of Triumph"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2023-06-14T14:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 719,
-    "slug": "tracks-of-triumph-retro-blast-d2c1c2",
-    "startDate": "2023-06-07T14:00:00.000Z",
-    "title": "Tracks of Triumph Retro Blast"
   },
   {
     "discountPercentage": 30,
