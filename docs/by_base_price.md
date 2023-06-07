@@ -67,17 +67,16 @@
 |65|tiny-lands-527466|Tiny Lands|5,99€|50|2023-06-07 23h|2023-06-17 23h|
 |66|awesome-pea-2-45617a|Awesome Pea 2|4,49€|40|2023-06-20 13h|2023-06-27 13h|
 |67|emergency-crew-1-04340a|Emergency Crew 2 Global Warming|4,49€|70|2023-06-13 18h|2023-06-18 18h|
-|68|geojelly-a44cfe|GeoJelly|4,49€|10|2023-06-07 18h|2023-06-13 11h|
-|69|life-after-death-b4e964|Life After Death|4,49€|40|2023-06-25 00h|2023-07-20 00h|
-|70|life-after-death-b4e964|Life After Death|4,49€|40|2023-08-20 00h|2023-09-09 00h|
-|71|volley-pals-0120b4|Volley Pals|4,49€|30|2023-06-19 12h|2023-07-03 12h|
-|72|im-looking-for-3024-people-1cdae4|I'm looking for 3024 people|3,99€|30|2023-07-20 15h|2023-08-03 15h|
-|73|system-purge-9ab7b7|System Purge|3,99€|50|2023-07-20 15h|2023-08-03 15h|
-|74|match-village-5f41dd|Match Village|3,59€|30|2023-07-20 15h|2023-08-03 15h|
-|75|out-of-bounds-ade206|Out of Bounds|3,59€|25|2023-07-20 15h|2023-08-03 15h|
-|76|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|25|2023-06-21 04h|2023-06-28 04h|
-|77|busway-islands-puzzle-91287d|Busway Islands - Puzzle|2,69€|40|2023-07-20 15h|2023-08-03 15h|
-|78|dolmenjord-viking-islands-965b06|Dolmenjord - Viking Islands|2,69€|30|2023-06-15 15h|2023-06-22 15h|
-|79|gold-rush-classic-34d7d5|Gold Rush! Classic|2,69€|34|2023-06-29 09h|2023-07-06 21h|
-|80|necrosmith-b2ef15|Necrosmith|2,39€|40|2023-07-21 17h|2023-08-04 17h|
-|81|mystery-game-7|Mystery Game|0,00€|100|2023-06-08 15h|2023-06-15 15h|
+|68|life-after-death-b4e964|Life After Death|4,49€|40|2023-06-25 00h|2023-07-20 00h|
+|69|life-after-death-b4e964|Life After Death|4,49€|40|2023-08-20 00h|2023-09-09 00h|
+|70|volley-pals-0120b4|Volley Pals|4,49€|30|2023-06-19 12h|2023-07-03 12h|
+|71|im-looking-for-3024-people-1cdae4|I'm looking for 3024 people|3,99€|30|2023-07-20 15h|2023-08-03 15h|
+|72|system-purge-9ab7b7|System Purge|3,99€|50|2023-07-20 15h|2023-08-03 15h|
+|73|match-village-5f41dd|Match Village|3,59€|30|2023-07-20 15h|2023-08-03 15h|
+|74|out-of-bounds-ade206|Out of Bounds|3,59€|25|2023-07-20 15h|2023-08-03 15h|
+|75|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|25|2023-06-21 04h|2023-06-28 04h|
+|76|busway-islands-puzzle-91287d|Busway Islands - Puzzle|2,69€|40|2023-07-20 15h|2023-08-03 15h|
+|77|dolmenjord-viking-islands-965b06|Dolmenjord - Viking Islands|2,69€|30|2023-06-15 15h|2023-06-22 15h|
+|78|gold-rush-classic-34d7d5|Gold Rush! Classic|2,69€|34|2023-06-29 09h|2023-07-06 21h|
+|79|necrosmith-b2ef15|Necrosmith|2,39€|40|2023-07-21 17h|2023-08-04 17h|
+|80|mystery-game-7|Mystery Game|0,00€|100|2023-06-08 15h|2023-06-15 15h|
