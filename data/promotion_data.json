@@ -306,15 +306,6 @@
     "title": "Fusion Paradox"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2023-06-13T11:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 449,
-    "slug": "geojelly-a44cfe",
-    "startDate": "2023-06-07T18:00:00.000Z",
-    "title": "GeoJelly"
-  },
-  {
     "discountPercentage": 34,
     "endDate": "2023-07-06T21:00:00.000Z",
     "isFree": false,
