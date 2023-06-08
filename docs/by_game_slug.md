@@ -63,40 +63,38 @@
 |61|out-of-bounds-ade206|Out of Bounds|3,59€|25|2023-07-20 15h|2023-08-03 15h|
 |62|outcore-desktop-adventure-eb3aff|Outcore - Desktop Adventure|8,99€|30|2023-07-20 15h|2023-08-03 15h|
 |63|patron-4ab1c1|Patron|15,99€|50|2023-06-19 22h|2023-06-26 22h|
-|64|payday-2-c66369|PAYDAY 2|0,00€|100|2023-06-08 15h|2023-06-15 15h|
-|65|payday-2-c66369|PAYDAY 2|9,99€|100|2023-06-08 15h|2023-06-15 15h|
-|66|poker-club-6e18ee|Poker Club|19,99€|45|2023-07-20 15h|2023-08-03 15h|
-|67|ravenous-devils-7a89e1|Ravenous Devils|3,99€|30|2023-07-20 15h|2023-08-03 15h|
-|68|sail-forth-51847e|Sail Forth|15,99€|21|2023-07-16 07h|2023-08-01 06h|
-|69|secret-doctrine-342083|Secret Doctrine|8,99€|50|2023-07-20 15h|2023-08-03 15h|
-|70|shinchan-me-and-the-professor-on-summer-vacation-bb7bad|Shin-chan Me and the Professor on Summer Vacation|49,99€|30|2023-07-20 15h|2023-08-03 15h|
-|71|smalland|Smalland: Survive the Wilds|24,99€|15|2023-06-12 14h|2023-06-19 14h|
-|72|song-of-farca-1eb3f2|Song of Farca|15,99€|66|2023-07-21 17h|2023-08-04 17h|
-|73|spingun-843f78|SPINGUN|1,79€|25|2023-07-06 04h|2023-07-13 04h|
-|74|spingun-843f78|SPINGUN|1,79€|35|2023-08-17 04h|2023-08-24 04h|
-|75|spirit-of-the-north-f58a66|Spirit of the North|15,99€|66|2023-07-03 14h|2023-07-10 14h|
-|76|strawhart-776f4d|Strawhart|17,99€|50|2023-07-20 15h|2023-08-03 15h|
-|77|strayed-lights-351d29|Strayed Lights|24,99€|30|2023-06-13 00h|2023-06-26 00h|
-|78|suicide-guy-9f7963|Suicide Guy|7,19€|20|2023-06-14 04h|2023-06-29 04h|
-|79|suicide-guy-9f7963|Suicide Guy|7,19€|20|2023-08-10 00h|2023-08-22 23h|
-|80|sunshine-manor-bc9b28|Sunshine Manor|7,99€|50|2023-07-20 15h|2023-08-03 15h|
-|81|super-alloy-ranger-4252cc|Super Alloy Ranger|8,99€|20|2023-07-20 15h|2023-08-03 15h|
-|82|switchball-hd-6d3802|Switchball HD|8,09€|50|2023-07-20 15h|2023-08-03 15h|
-|83|system-purge-9ab7b7|System Purge|3,99€|50|2023-07-20 15h|2023-08-03 15h|
-|84|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|25|2023-06-21 04h|2023-06-28 04h|
-|85|the-bridge|The Bridge|9,99€|87|2023-07-16 07h|2023-08-01 06h|
-|86|the-inheritance-of-crimson-manor-81bc67|The Inheritance of Crimson Manor|17,99€|65|2023-07-20 15h|2023-08-03 15h|
-|87|the-inheritance-of-crimson-manor-81bc67|The Inheritance of Crimson Manor|17,99€|70|2023-09-05 15h|2023-09-12 15h|
-|88|they-always-run-965bb3|They Always Run|11,99€|74|2023-07-21 17h|2023-08-04 17h|
-|89|thomas-tales-912c23|Thomas' Tales|4,49€|80|2023-07-20 15h|2023-08-03 15h|
-|90|thomas-tales-912c23|Thomas' Tales|4,49€|70|2023-09-04 04h|2023-09-11 23h|
-|91|thomas-tales-912c23|Thomas' Tales|4,49€|70|2023-10-16 04h|2023-10-23 23h|
-|92|time-on-frog-island-b3ad0d|Time on Frog Island|15,99€|66|2023-06-19 14h|2023-06-26 14h|
-|93|timelie|Timelie - Game of the Year Edition|13,99€|50|2023-08-01 14h|2023-08-15 14h|
-|94|toem|TOEM|15,99€|70|2023-09-11 16h|2023-09-24 16h|
-|95|totally-accurate-battle-simulator|Totally Accurate Battle Simulator|16,79€|50|2023-06-12 08h|2023-06-23 20h|
-|96|tracks-of-triumph-7b2685|Tracks of Triumph|7,19€|20|2023-06-18 14h|2023-07-18 14h|
-|97|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|25|2023-06-16 07h|2023-06-22 07h|
-|98|volley-pals-0120b4|Volley Pals|4,49€|30|2023-06-19 12h|2023-07-03 12h|
-|99|voodoo-kid-05b29a|Voodoo Kid|6,29€|35|2023-07-20 15h|2023-08-03 15h|
-|100|wildfire-ticket-to-rock-9e0e14|Wildfire - Ticket to Rock|7,99€|50|2023-07-20 15h|2023-08-03 15h|
+|64|poker-club-6e18ee|Poker Club|19,99€|45|2023-07-20 15h|2023-08-03 15h|
+|65|ravenous-devils-7a89e1|Ravenous Devils|3,99€|30|2023-07-20 15h|2023-08-03 15h|
+|66|sail-forth-51847e|Sail Forth|15,99€|21|2023-07-16 07h|2023-08-01 06h|
+|67|secret-doctrine-342083|Secret Doctrine|8,99€|50|2023-07-20 15h|2023-08-03 15h|
+|68|shinchan-me-and-the-professor-on-summer-vacation-bb7bad|Shin-chan Me and the Professor on Summer Vacation|49,99€|30|2023-07-20 15h|2023-08-03 15h|
+|69|smalland|Smalland: Survive the Wilds|24,99€|15|2023-06-12 14h|2023-06-19 14h|
+|70|song-of-farca-1eb3f2|Song of Farca|15,99€|66|2023-07-21 17h|2023-08-04 17h|
+|71|spingun-843f78|SPINGUN|1,79€|25|2023-07-06 04h|2023-07-13 04h|
+|72|spingun-843f78|SPINGUN|1,79€|35|2023-08-17 04h|2023-08-24 04h|
+|73|spirit-of-the-north-f58a66|Spirit of the North|15,99€|66|2023-07-03 14h|2023-07-10 14h|
+|74|strawhart-776f4d|Strawhart|17,99€|50|2023-07-20 15h|2023-08-03 15h|
+|75|strayed-lights-351d29|Strayed Lights|24,99€|30|2023-06-13 00h|2023-06-26 00h|
+|76|suicide-guy-9f7963|Suicide Guy|7,19€|20|2023-06-14 04h|2023-06-29 04h|
+|77|suicide-guy-9f7963|Suicide Guy|7,19€|20|2023-08-10 00h|2023-08-22 23h|
+|78|sunshine-manor-bc9b28|Sunshine Manor|7,99€|50|2023-07-20 15h|2023-08-03 15h|
+|79|super-alloy-ranger-4252cc|Super Alloy Ranger|8,99€|20|2023-07-20 15h|2023-08-03 15h|
+|80|switchball-hd-6d3802|Switchball HD|8,09€|50|2023-07-20 15h|2023-08-03 15h|
+|81|system-purge-9ab7b7|System Purge|3,99€|50|2023-07-20 15h|2023-08-03 15h|
+|82|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|25|2023-06-21 04h|2023-06-28 04h|
+|83|the-bridge|The Bridge|9,99€|87|2023-07-16 07h|2023-08-01 06h|
+|84|the-inheritance-of-crimson-manor-81bc67|The Inheritance of Crimson Manor|17,99€|65|2023-07-20 15h|2023-08-03 15h|
+|85|the-inheritance-of-crimson-manor-81bc67|The Inheritance of Crimson Manor|17,99€|70|2023-09-05 15h|2023-09-12 15h|
+|86|they-always-run-965bb3|They Always Run|11,99€|74|2023-07-21 17h|2023-08-04 17h|
+|87|thomas-tales-912c23|Thomas' Tales|4,49€|80|2023-07-20 15h|2023-08-03 15h|
+|88|thomas-tales-912c23|Thomas' Tales|4,49€|70|2023-09-04 04h|2023-09-11 23h|
+|89|thomas-tales-912c23|Thomas' Tales|4,49€|70|2023-10-16 04h|2023-10-23 23h|
+|90|time-on-frog-island-b3ad0d|Time on Frog Island|15,99€|66|2023-06-19 14h|2023-06-26 14h|
+|91|timelie|Timelie - Game of the Year Edition|13,99€|50|2023-08-01 14h|2023-08-15 14h|
+|92|toem|TOEM|15,99€|70|2023-09-11 16h|2023-09-24 16h|
+|93|totally-accurate-battle-simulator|Totally Accurate Battle Simulator|16,79€|50|2023-06-12 08h|2023-06-23 20h|
+|94|tracks-of-triumph-7b2685|Tracks of Triumph|7,19€|20|2023-06-18 14h|2023-07-18 14h|
+|95|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|25|2023-06-16 07h|2023-06-22 07h|
+|96|volley-pals-0120b4|Volley Pals|4,49€|30|2023-06-19 12h|2023-07-03 12h|
+|97|voodoo-kid-05b29a|Voodoo Kid|6,29€|35|2023-07-20 15h|2023-08-03 15h|
+|98|wildfire-ticket-to-rock-9e0e14|Wildfire - Ticket to Rock|7,99€|50|2023-07-20 15h|2023-08-03 15h|
