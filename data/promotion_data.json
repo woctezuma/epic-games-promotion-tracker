@@ -136,6 +136,24 @@
   },
   {
     "discountPercentage": 75,
+    "endDate": "2023-06-25T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "cook-serve-delicious-2-6db46c",
+    "startDate": "2023-06-09T17:00:00.000Z",
+    "title": "Cook Serve Delicious 2"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-06-25T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "cook-serve-delicious-3-fb9aae",
+    "startDate": "2023-06-09T17:00:00.000Z",
+    "title": "Cook, Serve, Delicious! 3?!"
+  },
+  {
+    "discountPercentage": 75,
     "endDate": "2023-07-23T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 3999,
@@ -432,6 +450,15 @@
     "title": "Match Village"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2023-06-15T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 0,
+    "slug": "mystery-game-7",
+    "startDate": "2023-06-08T15:00:00.000Z",
+    "title": "Mystery Game"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2023-08-04T17:00:00.000Z",
     "isFree": false,
@@ -463,7 +490,7 @@
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 899,
-    "slug": "424310b82eca44a383fed2f3190d39dc",
+    "slug": "outcore-desktop-adventure-eb3aff",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Outcore - Desktop Adventure"
   },
@@ -475,6 +502,24 @@
     "slug": "patron-4ab1c1",
     "startDate": "2023-06-19T22:00:00.000Z",
     "title": "Patron"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2023-07-13T04:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "spingun-843f78",
+    "startDate": "2023-07-06T04:00:00.000Z",
+    "title": "SPINGUN"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2023-08-24T04:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "spingun-843f78",
+    "startDate": "2023-08-17T04:00:00.000Z",
+    "title": "SPINGUN"
   },
   {
     "discountPercentage": 21,
@@ -664,15 +709,6 @@
     "slug": "timelie",
     "startDate": "2023-08-01T14:00:00.000Z",
     "title": "Timelie - Game of the Year Edition"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2023-06-17T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 599,
-    "slug": "tiny-lands-527466",
-    "startDate": "2023-06-07T23:00:00.000Z",
-    "title": "Tiny Lands"
   },
   {
     "discountPercentage": 50,
