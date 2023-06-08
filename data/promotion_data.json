@@ -558,24 +558,6 @@
     "title": "Outcore - Desktop Adventure"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2023-06-15T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 0,
-    "slug": "payday-2-c66369",
-    "startDate": "2023-06-08T15:00:00.000Z",
-    "title": "PAYDAY 2"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2023-06-15T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 999,
-    "slug": "payday-2-c66369",
-    "startDate": "2023-06-08T15:00:00.000Z",
-    "title": "PAYDAY 2"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2023-06-26T22:00:00.000Z",
     "isFree": false,
