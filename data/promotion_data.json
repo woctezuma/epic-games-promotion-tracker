@@ -127,6 +127,15 @@
   },
   {
     "discountPercentage": 60,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1299,
+    "slug": "chess-ultra-91bba3",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Chess Ultra"
+  },
+  {
+    "discountPercentage": 60,
     "endDate": "2023-07-13T17:00:00.000Z",
     "isFree": false,
     "originalPrice": 3999,
@@ -450,6 +459,15 @@
     "title": "Match Village"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "moto-cbde33",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Moto"
+  },
+  {
     "discountPercentage": 100,
     "endDate": "2023-06-15T15:00:00.000Z",
     "isFree": true,
@@ -502,6 +520,15 @@
     "slug": "patron-4ab1c1",
     "startDate": "2023-06-19T22:00:00.000Z",
     "title": "Patron"
+  },
+  {
+    "discountPercentage": 45,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "poker-club-6e18ee",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Poker Club"
   },
   {
     "discountPercentage": 25,
@@ -646,6 +673,15 @@
     "slug": "toem",
     "startDate": "2023-09-11T16:00:00.000Z",
     "title": "TOEM"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2023-06-22T07:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "tv-head-eight-pages-85b4f3",
+    "startDate": "2023-06-16T07:00:00.000Z",
+    "title": "TV Head: Eight Pages"
   },
   {
     "discountPercentage": 25,
