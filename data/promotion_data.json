@@ -18,6 +18,15 @@
     "title": "Alekon"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 319,
+    "slug": "amelie-45eab1",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Amelie"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2023-07-30T23:00:00.000Z",
     "isFree": false,
@@ -126,6 +135,15 @@
     "title": "Busway Islands - Puzzle"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 599,
+    "slug": "camp-sunshine-fee104",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Camp Sunshine"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -169,6 +187,15 @@
     "slug": "disco-elysium",
     "startDate": "2023-07-15T15:00:00.000Z",
     "title": "Disco Elysium - The Final Cut"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "dogfight-a794b2",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Dogfight"
   },
   {
     "discountPercentage": 30,
@@ -342,6 +369,24 @@
     "title": "Gold Rush! Classic"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2023-06-22T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1950,
+    "slug": "guacamelee-2-ac4977",
+    "startDate": "2023-06-15T15:00:00.000Z",
+    "title": "Guacamelee! 2"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2023-06-22T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1479,
+    "slug": "guacamelee-stce-7cdbc8",
+    "startDate": "2023-06-15T15:00:00.000Z",
+    "title": "Guacamelee! Super Turbo Championship Edition"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2023-07-13T17:00:00.000Z",
     "isFree": false,
@@ -468,13 +513,13 @@
     "title": "Moto"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2023-06-15T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 0,
-    "slug": "mystery-game-7",
-    "startDate": "2023-06-08T15:00:00.000Z",
-    "title": "Mystery Game"
+    "discountPercentage": 50,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "nairi-tower-of-shirin-0e47fe",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "NAIRI: Tower of Shirin"
   },
   {
     "discountPercentage": 40,
@@ -513,6 +558,24 @@
     "title": "Outcore - Desktop Adventure"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2023-06-15T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 0,
+    "slug": "payday-2-c66369",
+    "startDate": "2023-06-08T15:00:00.000Z",
+    "title": "PAYDAY 2"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2023-06-15T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 999,
+    "slug": "payday-2-c66369",
+    "startDate": "2023-06-08T15:00:00.000Z",
+    "title": "PAYDAY 2"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-06-26T22:00:00.000Z",
     "isFree": false,
@@ -529,6 +592,15 @@
     "slug": "poker-club-6e18ee",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Poker Club"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "ravenous-devils-7a89e1",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Ravenous Devils"
   },
   {
     "discountPercentage": 25,
@@ -639,6 +711,15 @@
     "title": "Suicide Guy"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "sunshine-manor-bc9b28",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Sunshine Manor"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -729,6 +810,33 @@
     "title": "They Always Run"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "thomas-tales-912c23",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Thomas' Tales"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2023-09-11T23:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "thomas-tales-912c23",
+    "startDate": "2023-09-04T04:00:00.000Z",
+    "title": "Thomas' Tales"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2023-10-23T23:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "thomas-tales-912c23",
+    "startDate": "2023-10-16T04:00:00.000Z",
+    "title": "Thomas' Tales"
+  },
+  {
     "discountPercentage": 66,
     "endDate": "2023-06-26T14:00:00.000Z",
     "isFree": false,
@@ -781,5 +889,14 @@
     "slug": "voodoo-kid-05b29a",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Voodoo Kid"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "wildfire-ticket-to-rock-9e0e14",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Wildfire - Ticket to Rock"
   }
 ]
