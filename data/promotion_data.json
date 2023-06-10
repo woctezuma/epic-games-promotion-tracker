@@ -477,6 +477,15 @@
     "title": "Football Manager 2023"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "forklift-extreme-deluxe-edition-50689a",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Forklift Extreme - Deluxe Edition"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
