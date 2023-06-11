@@ -195,7 +195,9 @@
 |193|delivery-from-the-pain-73198e|Delivery from the Pain|7,19€|15|2023-06-12 16h|2023-06-19 16h|
 |194|elegies-aya-17c3f1|ELEGIES Aya|16,19€|15|2023-12-21 16h|2024-01-11 16h|
 |195|layers-of-fear|Layers of Fear: Masterpiece Edition|22,99€|15|2023-06-15 16h|2023-06-22 16h|
-|196|smalland|Smalland: Survive the Wilds|24,99€|15|2023-06-12 14h|2023-06-19 14h|
-|197|elegies-aya-17c3f1|ELEGIES Aya|16,19€|10|2023-07-20 15h|2023-08-03 15h|
-|198|elegies-aya-17c3f1|ELEGIES Aya|16,19€|10|2023-09-14 15h|2023-09-28 15h|
-|199|indoor-kickball-843529|Indoor Kickball|13,49€|10|2023-07-20 15h|2023-08-03 15h|
+|196|mage-math-b7ca14|Mage Math|11,69€|15|2023-06-19 07h|2023-06-27 06h|
+|197|smalland|Smalland: Survive the Wilds|24,99€|15|2023-06-12 14h|2023-06-19 14h|
+|198|elegies-aya-17c3f1|ELEGIES Aya|16,19€|10|2023-07-20 15h|2023-08-03 15h|
+|199|elegies-aya-17c3f1|ELEGIES Aya|16,19€|10|2023-09-14 15h|2023-09-28 15h|
+|200|indoor-kickball-843529|Indoor Kickball|13,49€|10|2023-07-20 15h|2023-08-03 15h|
+|201|puzzle-compound-fe9903|Puzzle Compound|10,79€|10|2023-07-20 15h|2023-08-03 15h|
