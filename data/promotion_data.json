@@ -900,6 +900,15 @@
     "title": "Martian Invaders"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2023-07-03T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "mason-building-bricks-73659e",
+    "startDate": "2023-06-16T12:00:00.000Z",
+    "title": "Mason: Building Bricks"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -1402,6 +1411,24 @@
     "slug": "tv-head-eight-pages-85b4f3",
     "startDate": "2023-06-16T07:00:00.000Z",
     "title": "TV Head: Eight Pages"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2023-06-19T19:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "tabletop-playground-9623f1",
+    "startDate": "2023-06-15T19:00:00.000Z",
+    "title": "Tabletop Playground"
+  },
+  {
+    "discountPercentage": 33,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "tabletop-playground-9623f1",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Tabletop Playground"
   },
   {
     "discountPercentage": 60,
