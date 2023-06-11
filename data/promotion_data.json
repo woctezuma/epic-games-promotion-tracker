@@ -882,6 +882,15 @@
     "title": "Mable & The Wood"
   },
   {
+    "discountPercentage": 15,
+    "endDate": "2023-06-27T06:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1169,
+    "slug": "mage-math-b7ca14",
+    "startDate": "2023-06-19T07:00:00.000Z",
+    "title": "Mage Math"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -1033,6 +1042,15 @@
     "slug": "potion-permit",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Potion Permit"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1079,
+    "slug": "puzzle-compound-fe9903",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Puzzle Compound"
   },
   {
     "discountPercentage": 80,
