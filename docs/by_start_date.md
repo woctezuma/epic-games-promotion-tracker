@@ -1,58 +1,58 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|1|delivery-from-the-pain-73198e|Delivery from the Pain|7,19€|15|2023-06-12 16h|2023-06-19 16h|
-|2|strayed-lights-351d29|Strayed Lights|24,99€|30|2023-06-13 00h|2023-06-26 00h|
-|3|koral-63ea73|KORAL|7,99€|65|2023-06-13 03h|2023-06-19 14h|
-|4|horror-tales-the-wine-3ab2b2|HORROR TALES The Wine|11,99€|80|2023-06-13 13h|2023-06-19 13h|
-|5|emergency-crew-1-04340a|Emergency Crew 2 Global Warming|4,49€|70|2023-06-13 18h|2023-06-18 18h|
-|6|suicide-guy-9f7963|Suicide Guy|7,19€|20|2023-06-14 04h|2023-06-29 04h|
-|7|recollection-71f3a4|Recollection|4,49€|20|2023-06-14 14h|2023-06-20 14h|
-|8|indies-lies-57f843|Indies Lies|13,49€|20|2023-06-15 02h|2023-06-20 15h|
-|9|dolmenjord-viking-islands-965b06|Dolmenjord - Viking Islands|2,69€|30|2023-06-15 15h|2023-06-22 15h|
-|10|guacamelee-2-ac4977|Guacamelee! 2|19,50€|100|2023-06-15 15h|2023-06-22 15h|
-|11|guacamelee-stce-7cdbc8|Guacamelee! Super Turbo Championship Edition|14,79€|100|2023-06-15 15h|2023-06-22 15h|
-|12|layers-of-fear|Layers of Fear: Masterpiece Edition|22,99€|15|2023-06-15 16h|2023-06-22 16h|
-|13|tabletop-playground-9623f1|Tabletop Playground|13,49€|25|2023-06-15 19h|2023-06-19 19h|
-|14|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|85|2023-06-16 04h|2023-08-02 04h|
-|15|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|25|2023-06-16 07h|2023-06-22 07h|
-|16|mason-building-bricks-73659e|Mason: Building Bricks|17,99€|80|2023-06-16 12h|2023-07-03 16h|
-|17|flat-heroes-fec628|Flat Heroes|9,99€|50|2023-06-16 19h|2023-06-28 19h|
-|18|tracks-of-triumph-7b2685|Tracks of Triumph|7,19€|20|2023-06-18 14h|2023-07-18 14h|
-|19|bus-driver-simulator-186e62|Bus Driver Simulator|22,39€|30|2023-06-18 18h|2023-06-25 18h|
-|20|fusion-paradox-31b28a|Fusion Paradox|8,99€|60|2023-06-18 22h|2023-06-20 15h|
-|21|im-looking-for-3024-people-1cdae4|I'm looking for 3024 people|3,99€|30|2023-06-18 22h|2023-07-18 22h|
-|22|mage-math-b7ca14|Mage Math|11,69€|15|2023-06-19 07h|2023-06-27 06h|
-|23|volley-pals-0120b4|Volley Pals|4,49€|30|2023-06-19 12h|2023-07-03 12h|
-|24|time-on-frog-island-b3ad0d|Time on Frog Island|15,99€|66|2023-06-19 14h|2023-06-26 14h|
-|25|aquatico-b4f0ce|Aquatico|24,99€|40|2023-06-19 22h|2023-06-26 22h|
-|26|patron-4ab1c1|Patron|15,99€|50|2023-06-19 22h|2023-06-26 22h|
-|27|awesome-pea-2-45617a|Awesome Pea 2|4,49€|40|2023-06-20 13h|2023-06-27 13h|
-|28|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|25|2023-06-21 04h|2023-06-28 04h|
-|29|coffee-talk-episode-2-hibiscus-and-butterfly-c110ad|Coffee Talk Episode 2 - Hibiscus and Butterfly|13,49€|20|2023-06-21 11h|2023-06-27 11h|
-|30|fur-squadron-0042b8|FUR Squadron|6,29€|30|2023-06-21 22h|2023-06-28 22h|
-|31|immortals-fenyx-rising|Immortals Fenyx Rising Standard Edition|59,99€|80|2023-06-22 15h|2023-07-06 15h|
-|32|conan-exiles|Conan Exiles|39,99€|60|2023-06-22 17h|2023-07-13 17h|
-|33|football-manager-2023|Football Manager 2023|59,99€|50|2023-06-22 17h|2023-07-13 17h|
-|34|flyto-c4d923|Flyto|17,99€|50|2023-06-24 23h|2023-07-24 10h|
-|35|life-after-death-b4e964|Life After Death|4,49€|40|2023-06-25 00h|2023-07-20 00h|
-|36|soulvars-e95ea5|SOULVARS|17,99€|20|2023-06-26 18h|2023-07-03 18h|
-|37|backbeat-e59d86|Backbeat|17,99€|15|2023-06-28 23h|2023-07-06 22h|
-|38|gold-rush-classic-34d7d5|Gold Rush! Classic|2,69€|34|2023-06-29 09h|2023-07-06 21h|
-|39|hogwarts-legacy|Hogwarts Legacy|59,99€|20|2023-06-29 15h|2023-07-13 15h|
-|40|a-total-war-saga-troy|A Total War Saga: TROY|49,99€|50|2023-06-29 17h|2023-07-13 17h|
-|41|spirit-of-the-north-f58a66|Spirit of the North|15,99€|66|2023-07-03 14h|2023-07-10 14h|
-|42|spingun-843f78|SPINGUN|1,79€|25|2023-07-06 04h|2023-07-13 04h|
-|43|ash-of-gods-the-way-58bd36|Ash of Gods: The Way|24,50€|15|2023-07-11 17h|2023-07-27 17h|
-|44|freshly-frosted-c636d0|Freshly Frosted|7,99€|36|2023-07-16 07h|2023-08-01 06h|
-|45|sail-forth-51847e|Sail Forth|15,99€|21|2023-07-16 07h|2023-08-01 06h|
-|46|the-bridge|The Bridge|9,99€|87|2023-07-16 07h|2023-08-01 06h|
-|47|ancient-enemy|Ancient Enemy|11,99€|75|2023-07-16 23h|2023-07-30 23h|
-|48|a-heros-rest-67f117|A Hero's Rest|20,99€|40|2023-07-20 15h|2023-08-03 15h|
-|49|adventures-of-chris-64c13b|Adventures of Chris|11,99€|80|2023-07-20 15h|2023-08-03 15h|
-|50|alchemist-adventure-fa9fca|Alchemist Adventure|13,49€|65|2023-07-20 15h|2023-08-03 15h|
-|51|alekon-b2faec|Alekon|13,49€|75|2023-07-20 15h|2023-08-03 15h|
-|52|amelie-45eab1|Amelie|3,19€|50|2023-07-20 15h|2023-08-03 15h|
-|53|arcrunner-61fee6|ArcRunner|19,99€|15|2023-07-20 15h|2023-08-03 15h|
+|1|horror-tales-the-wine-3ab2b2|HORROR TALES The Wine|11,99€|80|2023-06-13 13h|2023-06-19 13h|
+|2|emergency-crew-1-04340a|Emergency Crew 2 Global Warming|4,49€|70|2023-06-13 18h|2023-06-18 18h|
+|3|suicide-guy-9f7963|Suicide Guy|7,19€|20|2023-06-14 04h|2023-06-29 04h|
+|4|recollection-71f3a4|Recollection|4,49€|20|2023-06-14 14h|2023-06-20 14h|
+|5|indies-lies-57f843|Indies Lies|13,49€|20|2023-06-15 02h|2023-06-20 15h|
+|6|dolmenjord-viking-islands-965b06|Dolmenjord - Viking Islands|2,69€|30|2023-06-15 15h|2023-06-22 15h|
+|7|guacamelee-2-ac4977|Guacamelee! 2|19,50€|100|2023-06-15 15h|2023-06-22 15h|
+|8|guacamelee-stce-7cdbc8|Guacamelee! Super Turbo Championship Edition|14,79€|100|2023-06-15 15h|2023-06-22 15h|
+|9|layers-of-fear|Layers of Fear: Masterpiece Edition|22,99€|15|2023-06-15 16h|2023-06-22 16h|
+|10|tabletop-playground-9623f1|Tabletop Playground|13,49€|33|2023-06-15 19h|2023-06-19 19h|
+|11|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|85|2023-06-16 04h|2023-08-02 04h|
+|12|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|25|2023-06-16 07h|2023-06-22 07h|
+|13|mason-building-bricks-73659e|Mason: Building Bricks|17,99€|80|2023-06-16 12h|2023-07-03 16h|
+|14|flat-heroes-fec628|Flat Heroes|9,99€|50|2023-06-16 19h|2023-06-28 19h|
+|15|tracks-of-triumph-7b2685|Tracks of Triumph|7,19€|20|2023-06-18 14h|2023-07-18 14h|
+|16|bus-driver-simulator-186e62|Bus Driver Simulator|22,39€|30|2023-06-18 18h|2023-06-25 18h|
+|17|fusion-paradox-31b28a|Fusion Paradox|8,99€|60|2023-06-18 22h|2023-06-20 15h|
+|18|im-looking-for-3024-people-1cdae4|I'm looking for 3024 people|3,99€|30|2023-06-18 22h|2023-07-18 22h|
+|19|mage-math-b7ca14|Mage Math|11,69€|15|2023-06-19 07h|2023-06-27 06h|
+|20|volley-pals-0120b4|Volley Pals|4,49€|30|2023-06-19 12h|2023-07-03 12h|
+|21|time-on-frog-island-b3ad0d|Time on Frog Island|15,99€|66|2023-06-19 14h|2023-06-26 14h|
+|22|aquatico-b4f0ce|Aquatico|24,99€|40|2023-06-19 22h|2023-06-26 22h|
+|23|patron-4ab1c1|Patron|15,99€|50|2023-06-19 22h|2023-06-26 22h|
+|24|awesome-pea-2-45617a|Awesome Pea 2|4,49€|40|2023-06-20 13h|2023-06-27 13h|
+|25|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|25|2023-06-21 04h|2023-06-28 04h|
+|26|coffee-talk-episode-2-hibiscus-and-butterfly-c110ad|Coffee Talk Episode 2 - Hibiscus and Butterfly|13,49€|20|2023-06-21 11h|2023-06-27 11h|
+|27|fur-squadron-0042b8|FUR Squadron|6,29€|30|2023-06-21 22h|2023-06-28 22h|
+|28|immortals-fenyx-rising|Immortals Fenyx Rising Standard Edition|59,99€|80|2023-06-22 15h|2023-07-06 15h|
+|29|conan-exiles|Conan Exiles|39,99€|60|2023-06-22 17h|2023-07-13 17h|
+|30|football-manager-2023|Football Manager 2023|59,99€|50|2023-06-22 17h|2023-07-13 17h|
+|31|flyto-c4d923|Flyto|17,99€|50|2023-06-24 23h|2023-07-24 10h|
+|32|life-after-death-b4e964|Life After Death|4,49€|40|2023-06-25 00h|2023-07-20 00h|
+|33|one-lonely-outpost-12afa6|One Lonely Outpost|19,99€|20|2023-06-26 17h|2023-07-03 17h|
+|34|soulvars-e95ea5|SOULVARS|17,99€|20|2023-06-26 18h|2023-07-03 18h|
+|35|backbeat-e59d86|Backbeat|17,99€|15|2023-06-28 23h|2023-07-06 22h|
+|36|gold-rush-classic-34d7d5|Gold Rush! Classic|2,69€|34|2023-06-29 09h|2023-07-06 21h|
+|37|five-nights-at-freddys-security-breach-8dee2a|Five Nights at Freddy's: Security Breach|31,99€|50|2023-06-29 15h|2023-07-14 03h|
+|38|hogwarts-legacy|Hogwarts Legacy|59,99€|20|2023-06-29 15h|2023-07-13 15h|
+|39|a-total-war-saga-troy|A Total War Saga: TROY|49,99€|50|2023-06-29 17h|2023-07-13 17h|
+|40|spirit-of-the-north-f58a66|Spirit of the North|15,99€|66|2023-07-03 14h|2023-07-10 14h|
+|41|spingun-843f78|SPINGUN|1,79€|25|2023-07-06 04h|2023-07-13 04h|
+|42|ash-of-gods-the-way-58bd36|Ash of Gods: The Way|24,50€|15|2023-07-11 17h|2023-07-27 17h|
+|43|freshly-frosted-c636d0|Freshly Frosted|7,99€|36|2023-07-16 07h|2023-08-01 06h|
+|44|sail-forth-51847e|Sail Forth|15,99€|21|2023-07-16 07h|2023-08-01 06h|
+|45|the-bridge|The Bridge|9,99€|87|2023-07-16 07h|2023-08-01 06h|
+|46|ancient-enemy|Ancient Enemy|11,99€|75|2023-07-16 23h|2023-07-30 23h|
+|47|a-heros-rest-67f117|A Hero's Rest|20,99€|40|2023-07-20 15h|2023-08-03 15h|
+|48|adventures-of-chris-64c13b|Adventures of Chris|11,99€|80|2023-07-20 15h|2023-08-03 15h|
+|49|alchemist-adventure-fa9fca|Alchemist Adventure|13,49€|65|2023-07-20 15h|2023-08-03 15h|
+|50|alekon-b2faec|Alekon|13,49€|75|2023-07-20 15h|2023-08-03 15h|
+|51|amelie-45eab1|Amelie|3,19€|50|2023-07-20 15h|2023-08-03 15h|
+|52|arcrunner-61fee6|ArcRunner|19,99€|15|2023-07-20 15h|2023-08-03 15h|
+|53|astronite-edc4d8|Astronite|13,49€|30|2023-07-20 15h|2023-08-03 15h|
 |54|brok-the-investigator-fb0513|BROK the InvestiGator|17,99€|30|2023-07-20 15h|2023-08-03 15h|
 |55|biped|Biped|12,49€|65|2023-07-20 15h|2023-08-03 15h|
 |56|bite-the-bullet-22fa1f|Bite the Bullet|11,99€|80|2023-07-20 15h|2023-08-03 15h|
@@ -163,81 +163,83 @@
 |161|superliminal|Superliminal|15,99€|50|2023-07-20 15h|2023-08-03 15h|
 |162|switchball-hd-6d3802|Switchball HD|8,09€|50|2023-07-20 15h|2023-08-03 15h|
 |163|system-purge-9ab7b7|System Purge|3,99€|50|2023-07-20 15h|2023-08-03 15h|
-|164|tabletop-playground-9623f1|Tabletop Playground|13,49€|33|2023-07-20 15h|2023-08-03 15h|
+|164|tabletop-playground-9623f1|Tabletop Playground|13,49€|50|2023-07-20 15h|2023-08-03 15h|
 |165|tacoma|Tacoma|16,99€|60|2023-07-20 15h|2023-08-03 15h|
 |166|tails-of-iron-587abd|Tails of Iron|24,99€|70|2023-07-20 15h|2023-08-03 15h|
 |167|television-trivia-b6c74b|Television Trivia|0,89€|20|2023-07-20 15h|2023-08-03 15h|
-|168|the-darkest-tales-7d0dab|The Darkest Tales|15,99€|40|2023-07-20 15h|2023-08-03 15h|
-|169|the-inheritance-of-crimson-manor-81bc67|The Inheritance of Crimson Manor|17,99€|65|2023-07-20 15h|2023-08-03 15h|
-|170|jackbox-party-pack-1|The Jackbox Party Pack|22,99€|60|2023-07-20 15h|2023-08-03 15h|
-|171|jackbox-party-pack-2|The Jackbox Party Pack 2|22,99€|55|2023-07-20 15h|2023-08-03 15h|
-|172|jackbox-party-pack-4|The Jackbox Party Pack 4|22,99€|50|2023-07-20 15h|2023-08-03 15h|
-|173|jackbox-party-pack-5|The Jackbox Party Pack 5|24,99€|45|2023-07-20 15h|2023-08-03 15h|
-|174|jackbox-party-pack-6|The Jackbox Party Pack 6|24,99€|45|2023-07-20 15h|2023-08-03 15h|
-|175|jackbox-party-pack-7|The Jackbox Party Pack 7|23,99€|40|2023-07-20 15h|2023-08-03 15h|
-|176|jackbox-party-pack-8|The Jackbox Party Pack 8|23,99€|40|2023-07-20 15h|2023-08-03 15h|
-|177|jackbox-party-pack-9|The Jackbox Party Pack 9|29,99€|35|2023-07-20 15h|2023-08-03 15h|
-|178|the-kings-bird-a5b589|The King's Bird|15,99€|80|2023-07-20 15h|2023-08-03 15h|
-|179|the-life-and-suffering-of-sir-brante|The Life and Suffering of Sir Brante|19,99€|50|2023-07-20 15h|2023-08-03 15h|
-|180|the-mageseeker-a-league-of-legends-story|The Mageseeker: A League of Legends Story™|29,99€|20|2023-07-20 15h|2023-08-03 15h|
-|181|the-magnificent-trufflepigs|The Magnificent Trufflepigs|9,99€|80|2023-07-20 15h|2023-08-03 15h|
-|182|the-medium|The Medium|47,99€|44|2023-07-20 15h|2023-08-03 15h|
-|183|the-movie-trivia-challenge-be2db8|The Movie Trivia Challenge|0,89€|20|2023-07-20 15h|2023-08-03 15h|
-|184|the-music-trivia-challenge-1df650|The Music Trivia Challenge|0,89€|20|2023-07-20 15h|2023-08-03 15h|
-|185|the-plane-effect|The Plane Effect|14,99€|65|2023-07-20 15h|2023-08-03 15h|
-|186|the-riftbreaker|The Riftbreaker|29,99€|40|2023-07-20 15h|2023-08-03 15h|
-|187|the-spectrum-retreat|The Spectrum Retreat|12,99€|65|2023-07-20 15h|2023-08-03 15h|
-|188|the-sports-trivia-challenge-86c29f|The Sports Trivia Challenge|0,89€|20|2023-07-20 15h|2023-08-03 15h|
-|189|the-tale-of-bistun-9d6c5f|The Tale of Bistun|13,99€|40|2023-07-20 15h|2023-08-03 15h|
-|190|the-telltale-batman|The Telltale Batman Shadows Edition|24,99€|50|2023-07-20 15h|2023-08-03 15h|
-|191|the-ultimate-trivia-challenge-c9cd44|The Ultimate Trivia Challenge|4,49€|20|2023-07-20 15h|2023-08-03 15h|
-|192|the-unbeatable-path-8af8fc|The Unbeatable Path|17,99€|20|2023-07-20 15h|2023-08-03 15h|
-|193|the-uncertain-last-quiet-day|The Uncertain: Last Quiet Day|7,99€|85|2023-07-20 15h|2023-08-03 15h|
-|194|the-uncertain-light-at-the-end|The Uncertain: Light at the End|7,99€|85|2023-07-20 15h|2023-08-03 15h|
-|195|the-wolf-among-us|The Wolf Among Us|14,99€|50|2023-07-20 15h|2023-08-03 15h|
-|196|this-war-of-mine|This War of Mine|18,99€|80|2023-07-20 15h|2023-08-03 15h|
-|197|thomas-tales-912c23|Thomas' Tales|4,49€|80|2023-07-20 15h|2023-08-03 15h|
-|198|timberborn|Timberborn|22,39€|20|2023-07-20 15h|2023-08-03 15h|
-|199|time-loader|Time Loader|12,49€|70|2023-07-20 15h|2023-08-03 15h|
-|200|tormented-souls|Tormented Souls|19,99€|35|2023-07-20 15h|2023-08-03 15h|
-|201|train-valley-ead642|Train Valley|7,99€|80|2023-07-20 15h|2023-08-03 15h|
-|202|train-valley-2-3606da|Train Valley 2|13,49€|65|2023-07-20 15h|2023-08-03 15h|
-|203|trivia-king-982cec|Trivia King|0,89€|20|2023-07-20 15h|2023-08-03 15h|
-|204|turnip-boy-commits-tax-evasion-fb2084|Turnip Boy Commits Tax Evasion|11,99€|66|2023-07-20 15h|2023-08-03 15h|
-|205|urbek-city-builder-17cf7d|Urbek City Builder|14,49€|35|2023-07-20 15h|2023-08-03 15h|
-|206|video-game-trivia-5db425|Video Game Trivia|0,89€|20|2023-07-20 15h|2023-08-03 15h|
-|207|voodolls-46c6a8|Voodolls|14,99€|30|2023-07-20 15h|2023-08-03 15h|
-|208|voodoo-kid-05b29a|Voodoo Kid|6,29€|35|2023-07-20 15h|2023-08-03 15h|
-|209|wanderlust-travel-stories-a81f0f|Wanderlust: Travel Stories|11,99€|80|2023-07-20 15h|2023-08-03 15h|
-|210|werewolf-the-apocalypse-heart-of-the-forest-2584f2|Werewolf: The Apocalypse — Heart of the Forest|11,99€|60|2023-07-20 15h|2023-08-03 15h|
-|211|wildfire-ticket-to-rock-9e0e14|Wildfire - Ticket to Rock|7,99€|50|2023-07-20 15h|2023-08-03 15h|
-|212|wonhon-a-vengeful-spirit-29e3c1|Wonhon: A Vengeful Spirit|9,89€|40|2023-07-20 15h|2023-08-03 15h|
-|213|zelter-b3640a|Zelter|17,99€|25|2023-07-20 15h|2023-08-03 15h|
-|214|deltav-rings-of-saturn-4cd187|ΔV: Rings of Saturn|8,99€|50|2023-07-20 15h|2023-08-03 15h|
-|215|beholder-3-d23253|Beholder 3|11,99€|60|2023-07-21 17h|2023-08-04 17h|
-|216|necrosmith-b2ef15|Necrosmith|2,39€|40|2023-07-21 17h|2023-08-04 17h|
-|217|song-of-farca-1eb3f2|Song of Farca|15,99€|66|2023-07-21 17h|2023-08-04 17h|
-|218|they-always-run-965bb3|They Always Run|11,99€|74|2023-07-21 17h|2023-08-04 17h|
-|219|lego-builders-journey|LEGO® Builder's Journey|16,99€|66|2023-07-31 15h|2023-08-07 15h|
-|220|timelie|Timelie - Game of the Year Edition|13,99€|50|2023-08-01 14h|2023-08-15 14h|
-|221|suicide-guy-9f7963|Suicide Guy|7,19€|20|2023-08-10 00h|2023-08-22 23h|
-|222|spingun-843f78|SPINGUN|1,79€|35|2023-08-17 04h|2023-08-24 04h|
-|223|im-looking-for-3024-people-1cdae4|I'm looking for 3024 people|3,99€|30|2023-08-17 22h|2023-09-01 22h|
-|224|life-after-death-b4e964|Life After Death|4,49€|40|2023-08-20 00h|2023-09-09 00h|
-|225|ash-of-gods-the-way-58bd36|Ash of Gods: The Way|24,50€|15|2023-08-27 17h|2023-09-03 17h|
-|226|thomas-tales-912c23|Thomas' Tales|4,49€|70|2023-09-04 04h|2023-09-11 23h|
-|227|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|25|2023-09-05 15h|2023-09-12 15h|
-|228|the-inheritance-of-crimson-manor-81bc67|The Inheritance of Crimson Manor|17,99€|70|2023-09-05 15h|2023-09-12 15h|
-|229|koral-63ea73|KORAL|7,99€|70|2023-09-05 17h|2023-09-14 13h|
-|230|horror-tales-the-wine-3ab2b2|HORROR TALES The Wine|11,99€|75|2023-09-06 13h|2023-09-19 10h|
-|231|superliminal|Superliminal|15,99€|50|2023-09-07 17h|2023-09-17 17h|
-|232|toem|TOEM|15,99€|70|2023-09-11 16h|2023-09-24 16h|
-|233|elegies-aya-17c3f1|ELEGIES Aya|16,19€|10|2023-09-14 15h|2023-09-28 15h|
-|234|infindustry-cccc40|Infindustry|15,29€|50|2023-09-14 15h|2023-09-28 15h|
-|235|thomas-tales-912c23|Thomas' Tales|4,49€|70|2023-10-16 04h|2023-10-23 23h|
-|236|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|50|2023-10-17 15h|2023-10-24 15h|
-|237|ash-of-gods-the-way-58bd36|Ash of Gods: The Way|24,50€|15|2023-10-17 17h|2023-10-21 17h|
-|238|infindustry-cccc40|Infindustry|15,29€|50|2023-11-21 16h|2023-11-28 16h|
-|239|ash-of-gods-the-way-58bd36|Ash of Gods: The Way|24,50€|15|2023-11-21 17h|2023-11-28 17h|
-|240|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|50|2023-11-28 16h|2023-12-05 16h|
-|241|elegies-aya-17c3f1|ELEGIES Aya|16,19€|15|2023-12-21 16h|2024-01-11 16h|
+|168|the-creepy-syndrome-90fc19|The Creepy Syndrome|4,49€|15|2023-07-20 15h|2023-08-03 15h|
+|169|the-darkest-tales-7d0dab|The Darkest Tales|15,99€|40|2023-07-20 15h|2023-08-03 15h|
+|170|the-inheritance-of-crimson-manor-81bc67|The Inheritance of Crimson Manor|17,99€|65|2023-07-20 15h|2023-08-03 15h|
+|171|jackbox-party-pack-1|The Jackbox Party Pack|22,99€|60|2023-07-20 15h|2023-08-03 15h|
+|172|jackbox-party-pack-2|The Jackbox Party Pack 2|22,99€|55|2023-07-20 15h|2023-08-03 15h|
+|173|jackbox-party-pack-4|The Jackbox Party Pack 4|22,99€|50|2023-07-20 15h|2023-08-03 15h|
+|174|jackbox-party-pack-5|The Jackbox Party Pack 5|24,99€|45|2023-07-20 15h|2023-08-03 15h|
+|175|jackbox-party-pack-6|The Jackbox Party Pack 6|24,99€|45|2023-07-20 15h|2023-08-03 15h|
+|176|jackbox-party-pack-7|The Jackbox Party Pack 7|23,99€|40|2023-07-20 15h|2023-08-03 15h|
+|177|jackbox-party-pack-8|The Jackbox Party Pack 8|23,99€|40|2023-07-20 15h|2023-08-03 15h|
+|178|jackbox-party-pack-9|The Jackbox Party Pack 9|29,99€|35|2023-07-20 15h|2023-08-03 15h|
+|179|the-kings-bird-a5b589|The King's Bird|15,99€|80|2023-07-20 15h|2023-08-03 15h|
+|180|the-life-and-suffering-of-sir-brante|The Life and Suffering of Sir Brante|19,99€|50|2023-07-20 15h|2023-08-03 15h|
+|181|the-mageseeker-a-league-of-legends-story|The Mageseeker: A League of Legends Story™|29,99€|20|2023-07-20 15h|2023-08-03 15h|
+|182|the-magnificent-trufflepigs|The Magnificent Trufflepigs|9,99€|80|2023-07-20 15h|2023-08-03 15h|
+|183|the-medium|The Medium|47,99€|44|2023-07-20 15h|2023-08-03 15h|
+|184|the-movie-trivia-challenge-be2db8|The Movie Trivia Challenge|0,89€|20|2023-07-20 15h|2023-08-03 15h|
+|185|the-music-trivia-challenge-1df650|The Music Trivia Challenge|0,89€|20|2023-07-20 15h|2023-08-03 15h|
+|186|the-plane-effect|The Plane Effect|14,99€|65|2023-07-20 15h|2023-08-03 15h|
+|187|the-riftbreaker|The Riftbreaker|29,99€|40|2023-07-20 15h|2023-08-03 15h|
+|188|the-spectrum-retreat|The Spectrum Retreat|12,99€|65|2023-07-20 15h|2023-08-03 15h|
+|189|the-sports-trivia-challenge-86c29f|The Sports Trivia Challenge|0,89€|20|2023-07-20 15h|2023-08-03 15h|
+|190|the-tale-of-bistun-9d6c5f|The Tale of Bistun|13,99€|40|2023-07-20 15h|2023-08-03 15h|
+|191|the-telltale-batman|The Telltale Batman Shadows Edition|24,99€|50|2023-07-20 15h|2023-08-03 15h|
+|192|the-ultimate-trivia-challenge-c9cd44|The Ultimate Trivia Challenge|4,49€|20|2023-07-20 15h|2023-08-03 15h|
+|193|the-unbeatable-path-8af8fc|The Unbeatable Path|17,99€|20|2023-07-20 15h|2023-08-03 15h|
+|194|the-uncertain-last-quiet-day|The Uncertain: Last Quiet Day|7,99€|85|2023-07-20 15h|2023-08-03 15h|
+|195|the-uncertain-light-at-the-end|The Uncertain: Light at the End|7,99€|85|2023-07-20 15h|2023-08-03 15h|
+|196|the-wolf-among-us|The Wolf Among Us|14,99€|50|2023-07-20 15h|2023-08-03 15h|
+|197|this-war-of-mine|This War of Mine|18,99€|80|2023-07-20 15h|2023-08-03 15h|
+|198|thomas-tales-912c23|Thomas' Tales|4,49€|80|2023-07-20 15h|2023-08-03 15h|
+|199|timberborn|Timberborn|22,39€|20|2023-07-20 15h|2023-08-03 15h|
+|200|time-loader|Time Loader|12,49€|70|2023-07-20 15h|2023-08-03 15h|
+|201|tormented-souls|Tormented Souls|19,99€|35|2023-07-20 15h|2023-08-03 15h|
+|202|train-valley-ead642|Train Valley|7,99€|80|2023-07-20 15h|2023-08-03 15h|
+|203|train-valley-2-3606da|Train Valley 2|13,49€|65|2023-07-20 15h|2023-08-03 15h|
+|204|trivia-king-982cec|Trivia King|0,89€|20|2023-07-20 15h|2023-08-03 15h|
+|205|turnip-boy-commits-tax-evasion-fb2084|Turnip Boy Commits Tax Evasion|11,99€|66|2023-07-20 15h|2023-08-03 15h|
+|206|urbek-city-builder-17cf7d|Urbek City Builder|14,49€|35|2023-07-20 15h|2023-08-03 15h|
+|207|video-game-trivia-5db425|Video Game Trivia|0,89€|20|2023-07-20 15h|2023-08-03 15h|
+|208|voodolls-46c6a8|Voodolls|14,99€|30|2023-07-20 15h|2023-08-03 15h|
+|209|voodoo-kid-05b29a|Voodoo Kid|6,29€|35|2023-07-20 15h|2023-08-03 15h|
+|210|wanderlust-travel-stories-a81f0f|Wanderlust: Travel Stories|11,99€|80|2023-07-20 15h|2023-08-03 15h|
+|211|werewolf-the-apocalypse-heart-of-the-forest-2584f2|Werewolf: The Apocalypse — Heart of the Forest|11,99€|60|2023-07-20 15h|2023-08-03 15h|
+|212|wildfire-ticket-to-rock-9e0e14|Wildfire - Ticket to Rock|7,99€|50|2023-07-20 15h|2023-08-03 15h|
+|213|wonhon-a-vengeful-spirit-29e3c1|Wonhon: A Vengeful Spirit|9,89€|40|2023-07-20 15h|2023-08-03 15h|
+|214|zelter-b3640a|Zelter|17,99€|25|2023-07-20 15h|2023-08-03 15h|
+|215|deltav-rings-of-saturn-4cd187|ΔV: Rings of Saturn|8,99€|50|2023-07-20 15h|2023-08-03 15h|
+|216|beholder-3-d23253|Beholder 3|11,99€|60|2023-07-21 17h|2023-08-04 17h|
+|217|necrosmith-b2ef15|Necrosmith|2,39€|40|2023-07-21 17h|2023-08-04 17h|
+|218|song-of-farca-1eb3f2|Song of Farca|15,99€|66|2023-07-21 17h|2023-08-04 17h|
+|219|they-always-run-965bb3|They Always Run|11,99€|74|2023-07-21 17h|2023-08-04 17h|
+|220|lego-builders-journey|LEGO® Builder's Journey|16,99€|66|2023-07-31 15h|2023-08-07 15h|
+|221|timelie|Timelie - Game of the Year Edition|13,99€|50|2023-08-01 14h|2023-08-15 14h|
+|222|suicide-guy-9f7963|Suicide Guy|7,19€|20|2023-08-10 00h|2023-08-22 23h|
+|223|paw-paw-destiny-843848|Paw Paw Destiny|13,49€|11|2023-08-16 07h|2023-08-23 07h|
+|224|spingun-843f78|SPINGUN|1,79€|35|2023-08-17 04h|2023-08-24 04h|
+|225|im-looking-for-3024-people-1cdae4|I'm looking for 3024 people|3,99€|30|2023-08-17 22h|2023-09-01 22h|
+|226|life-after-death-b4e964|Life After Death|4,49€|40|2023-08-20 00h|2023-09-09 00h|
+|227|ash-of-gods-the-way-58bd36|Ash of Gods: The Way|24,50€|15|2023-08-27 17h|2023-09-03 17h|
+|228|thomas-tales-912c23|Thomas' Tales|4,49€|70|2023-09-04 04h|2023-09-11 23h|
+|229|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|25|2023-09-05 15h|2023-09-12 15h|
+|230|the-inheritance-of-crimson-manor-81bc67|The Inheritance of Crimson Manor|17,99€|70|2023-09-05 15h|2023-09-12 15h|
+|231|koral-63ea73|KORAL|7,99€|70|2023-09-05 17h|2023-09-14 13h|
+|232|horror-tales-the-wine-3ab2b2|HORROR TALES The Wine|11,99€|75|2023-09-06 13h|2023-09-19 10h|
+|233|superliminal|Superliminal|15,99€|50|2023-09-07 17h|2023-09-17 17h|
+|234|toem|TOEM|15,99€|70|2023-09-11 16h|2023-09-24 16h|
+|235|elegies-aya-17c3f1|ELEGIES Aya|16,19€|10|2023-09-14 15h|2023-09-28 15h|
+|236|infindustry-cccc40|Infindustry|15,29€|50|2023-09-14 15h|2023-09-28 15h|
+|237|thomas-tales-912c23|Thomas' Tales|4,49€|70|2023-10-16 04h|2023-10-23 23h|
+|238|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|50|2023-10-17 15h|2023-10-24 15h|
+|239|ash-of-gods-the-way-58bd36|Ash of Gods: The Way|24,50€|15|2023-10-17 17h|2023-10-21 17h|
+|240|infindustry-cccc40|Infindustry|15,29€|50|2023-11-21 16h|2023-11-28 16h|
+|241|ash-of-gods-the-way-58bd36|Ash of Gods: The Way|24,50€|15|2023-11-21 17h|2023-11-28 17h|
+|242|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|50|2023-11-28 16h|2023-12-05 16h|
+|243|elegies-aya-17c3f1|ELEGIES Aya|16,19€|15|2023-12-21 16h|2024-01-11 16h|
