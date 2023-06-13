@@ -9,15 +9,6 @@
     "title": "A Hero's Rest"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2023-07-13T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 4999,
-    "slug": "a-total-war-saga-troy",
-    "startDate": "2023-06-29T17:00:00.000Z",
-    "title": "A Total War Saga: TROY"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -351,6 +342,15 @@
     "title": "Cyber Hook"
   },
   {
+    "discountPercentage": 10,
+    "endDate": "2023-06-21T14:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "daydream-forgotten-sorrow-6025c9",
+    "startDate": "2023-06-14T14:00:00.000Z",
+    "title": "Daydream. Forgotten Sorrow"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -430,6 +430,15 @@
     "slug": "down-in-bermuda",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Down in Bermuda"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2023-06-29T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "dr-fetus-mean-meat-machine-d6a29e",
+    "startDate": "2023-06-22T15:00:00.000Z",
+    "title": "Dr. Fetus' Mean Meat Machine"
   },
   {
     "discountPercentage": 50,
@@ -639,6 +648,15 @@
     "title": "Fusion Paradox"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "gamedec",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Gamedec - Definitive Edition"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -684,15 +702,6 @@
     "title": "Guacamelee! Super Turbo Championship Edition"
   },
   {
-    "discountPercentage": 80,
-    "endDate": "2023-06-19T13:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1199,
-    "slug": "horror-tales-the-wine-3ab2b2",
-    "startDate": "2023-06-13T13:00:00.000Z",
-    "title": "HORROR TALES The Wine"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -709,6 +718,15 @@
     "slug": "horror-tales-the-wine-3ab2b2",
     "startDate": "2023-09-06T13:00:00.000Z",
     "title": "HORROR TALES The Wine"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "haven",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Haven"
   },
   {
     "discountPercentage": 50,
@@ -1051,6 +1069,15 @@
     "slug": "match-village-5f41dd",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Match Village"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "minimal-move-7a012a",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Minimal Move"
   },
   {
     "discountPercentage": 85,
@@ -1600,6 +1627,15 @@
     "slug": "system-purge-9ab7b7",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "System Purge"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "the-impossible-fcebf7",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "THE IMPOSSIBLE"
   },
   {
     "discountPercentage": 70,
