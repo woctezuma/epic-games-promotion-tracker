@@ -1188,6 +1188,15 @@
     "title": "Match Village"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "metro-simulator-494510",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Metro Simulator"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -1609,6 +1618,15 @@
     "slug": "spaceman-defender-757ebf",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Spaceman Defender"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "sphere-guider-e20c86",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Sphere Guider"
   },
   {
     "discountPercentage": 61,
