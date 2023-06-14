@@ -513,15 +513,6 @@
     "title": "Elderand"
   },
   {
-    "discountPercentage": 70,
-    "endDate": "2023-06-18T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 449,
-    "slug": "emergency-crew-1-04340a",
-    "startDate": "2023-06-13T18:00:00.000Z",
-    "title": "Emergency Crew 2 Global Warming"
-  },
-  {
     "discountPercentage": 30,
     "endDate": "2023-06-28T22:00:00.000Z",
     "isFree": false,
@@ -646,6 +637,24 @@
     "slug": "fusion-paradox-31b28a",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Fusion Paradox"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2099,
+    "slug": "galactic-civilizations-iii",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Galactic Civilizations III"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4399,
+    "slug": "galactic-civilizations-iv",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Galactic Civilizations IV"
   },
   {
     "discountPercentage": 50,
@@ -873,6 +882,24 @@
     "title": "Ironcast"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "island-cities-0a3026",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Island Cities"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "island-farmer-ce8ee6",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Island Farmer"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -975,10 +1002,10 @@
     "discountPercentage": 15,
     "endDate": "2023-06-22T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": 2299,
-    "slug": "layers-of-fear",
+    "originalPrice": 2999,
+    "slug": "layers-of-fears-85a02b",
     "startDate": "2023-06-15T16:00:00.000Z",
-    "title": "Layers of Fear: Masterpiece Edition"
+    "title": "Layers of Fear"
   },
   {
     "discountPercentage": 80,
@@ -1054,11 +1081,11 @@
   },
   {
     "discountPercentage": 80,
-    "endDate": "2023-07-03T16:00:00.000Z",
+    "endDate": "2023-06-30T14:00:00.000Z",
     "isFree": false,
     "originalPrice": 1799,
     "slug": "mason-building-bricks-73659e",
-    "startDate": "2023-06-16T12:00:00.000Z",
+    "startDate": "2023-06-16T14:00:00.000Z",
     "title": "Mason: Building Bricks"
   },
   {
@@ -1186,6 +1213,15 @@
     "slug": "observer-system-redux",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Observer: System Redux"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "offworld-trading-company",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Offworld Trading Company"
   },
   {
     "discountPercentage": 20,
@@ -1377,6 +1413,15 @@
     "title": "Sail Forth"
   },
   {
+    "discountPercentage": 15,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "sailingera-450a80",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Sailing Era"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -1528,15 +1573,6 @@
     "slug": "stubbs-the-zombie-in-rebel-without-a-pulse",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Stubbs the Zombie in Rebel Without a Pulse"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2023-06-29T04:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 719,
-    "slug": "suicide-guy-9f7963",
-    "startDate": "2023-06-14T04:00:00.000Z",
-    "title": "Suicide Guy"
   },
   {
     "discountPercentage": 20,
@@ -1710,6 +1746,15 @@
     "title": "Television Trivia"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3199,
+    "slug": "tetris-effect",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Tetris\u00ae Effect: Connected"
+  },
+  {
     "discountPercentage": 87,
     "endDate": "2023-08-01T06:00:00.000Z",
     "isFree": false,
@@ -1735,6 +1780,15 @@
     "slug": "the-darkest-tales-7d0dab",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "The Darkest Tales"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "the-flower-collectors",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "The Flower Collectors"
   },
   {
     "discountPercentage": 65,
@@ -1843,6 +1897,15 @@
     "slug": "the-life-and-suffering-of-sir-brante",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "The Life and Suffering of Sir Brante"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "the-lions-song",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "The Lion's Song"
   },
   {
     "discountPercentage": 20,
