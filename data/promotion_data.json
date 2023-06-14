@@ -9,6 +9,15 @@
     "title": "A Hero's Rest"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "a-total-war-saga-troy",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "A Total War Saga: TROY"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -34,6 +43,24 @@
     "slug": "alekon-b2faec",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Alekon"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "alfredhitchockvertigo-c58904",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Alfred Hitchcock - Vertigo"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "alien-isolation",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Alien: Isolation"
   },
   {
     "discountPercentage": 50,
@@ -72,6 +99,15 @@
     "title": "ArcRunner"
   },
   {
+    "discountPercentage": 90,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "arkanoid-eternal-battle-e1b089",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Arkanoid - Eternal Battle"
+  },
+  {
     "discountPercentage": 15,
     "endDate": "2023-07-27T17:00:00.000Z",
     "isFree": false,
@@ -106,6 +142,24 @@
     "slug": "ash-of-gods-the-way-58bd36",
     "startDate": "2023-11-21T17:00:00.000Z",
     "title": "Ash of Gods: The Way"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "asterix-and-obelix-slap-them-all-458670",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Asterix and Obelix Slap Them All"
+  },
+  {
+    "discountPercentage": 45,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "asterix-and-obelix-xxxl-the-ram-of-hibernia-3eb1f4",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Asterix and Obelix XXXL - The Ram of Hibernia"
   },
   {
     "discountPercentage": 30,
@@ -342,15 +396,6 @@
     "title": "Cyber Hook"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2023-06-21T14:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1799,
-    "slug": "daydream-forgotten-sorrow-6025c9",
-    "startDate": "2023-06-14T14:00:00.000Z",
-    "title": "Daydream. Forgotten Sorrow"
-  },
-  {
     "discountPercentage": 25,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -520,6 +565,15 @@
     "slug": "fur-squadron-0042b8",
     "startDate": "2023-06-21T22:00:00.000Z",
     "title": "FUR Squadron"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "fantasy-world-td-851287",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Fantasy World TD"
   },
   {
     "discountPercentage": 50,
@@ -729,6 +783,15 @@
     "title": "HORROR TALES The Wine"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "humankind",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "HUMANKIND\u2122 Standard Edition"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -736,6 +799,15 @@
     "slug": "haven",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Haven"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "hercule-poirot-the-first-cases-584238",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Hercule Poirot - The First Cases"
   },
   {
     "discountPercentage": 50,
@@ -763,6 +835,24 @@
     "slug": "hordecore",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "HordeCore"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "horse-tales-emerald-valley-ranch-240ae8",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Horse Tales - Emerald Valley Ranch"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 629,
+    "slug": "i-want-to-be-alive-0fcb6e",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "I Want to be Alive"
   },
   {
     "discountPercentage": 30,
@@ -1134,6 +1224,15 @@
     "title": "Movie Actor Trivia"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3499,
+    "slug": "mutant-year-zero",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Mutant Year Zero: Road to Eden"
+  },
+  {
     "discountPercentage": 65,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -1159,6 +1258,15 @@
     "slug": "nairi-tower-of-shirin-0e47fe",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "NAIRI: Tower of Shirin"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "new-joe-and-mac-caveman-ninja-bbaa73",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "NEW Joe and Mac Caveman Ninja"
   },
   {
     "discountPercentage": 90,
@@ -1321,15 +1429,6 @@
     "slug": "ravenous-devils-7a89e1",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Ravenous Devils"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2023-06-20T14:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 449,
-    "slug": "recollection-71f3a4",
-    "startDate": "2023-06-14T14:00:00.000Z",
-    "title": "Recollection"
   },
   {
     "discountPercentage": 80,
@@ -1656,6 +1755,15 @@
     "title": "Switchball HD"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "syberia-the-world-before",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Syberia: The World Before"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -1971,6 +2079,15 @@
     "title": "The Riftbreaker"
   },
   {
+    "discountPercentage": 55,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "the-smurfs-mission-vileaf-b1b351",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "The Smurfs Mission Vileaf"
+  },
+  {
     "discountPercentage": 65,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -2142,6 +2259,33 @@
     "title": "Tormented Souls"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "total-war-warhammer",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Total War: WARHAMMER"
+  },
+  {
+    "discountPercentage": 66,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "total-war-warhammer-ii",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Total War: WARHAMMER II"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "total-war-warhammer-3",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Total War: WARHAMMER III"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2023-07-18T14:00:00.000Z",
     "isFree": false,
@@ -2169,6 +2313,15 @@
     "title": "Train Valley 2"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2023-07-13T18:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "trials-rising",
+    "startDate": "2023-06-29T18:00:00.000Z",
+    "title": "Trials Rising Standard Edition"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -2185,6 +2338,15 @@
     "slug": "turnip-boy-commits-tax-evasion-fb2084",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Turnip Boy Commits Tax Evasion"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2239,
+    "slug": "ungate-df09c8",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Ungate"
   },
   {
     "discountPercentage": 35,
@@ -2266,6 +2428,15 @@
     "slug": "wonhon-a-vengeful-spirit-29e3c1",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Wonhon: A Vengeful Spirit"
+  },
+  {
+    "discountPercentage": 85,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "xiii-07f8c3",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "XIII"
   },
   {
     "discountPercentage": 25,
