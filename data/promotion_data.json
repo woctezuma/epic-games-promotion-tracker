@@ -136,38 +136,11 @@
   },
   {
     "discountPercentage": 15,
-    "endDate": "2023-07-27T17:00:00.000Z",
+    "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 2450,
     "slug": "ash-of-gods-the-way-58bd36",
-    "startDate": "2023-07-11T17:00:00.000Z",
-    "title": "Ash of Gods: The Way"
-  },
-  {
-    "discountPercentage": 15,
-    "endDate": "2023-09-03T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2450,
-    "slug": "ash-of-gods-the-way-58bd36",
-    "startDate": "2023-08-27T17:00:00.000Z",
-    "title": "Ash of Gods: The Way"
-  },
-  {
-    "discountPercentage": 15,
-    "endDate": "2023-10-21T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2450,
-    "slug": "ash-of-gods-the-way-58bd36",
-    "startDate": "2023-10-17T17:00:00.000Z",
-    "title": "Ash of Gods: The Way"
-  },
-  {
-    "discountPercentage": 15,
-    "endDate": "2023-11-28T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2450,
-    "slug": "ash-of-gods-the-way-58bd36",
-    "startDate": "2023-11-21T17:00:00.000Z",
+    "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Ash of Gods: The Way"
   },
   {
@@ -549,15 +522,6 @@
     "title": "Dojoran"
   },
   {
-    "discountPercentage": 30,
-    "endDate": "2023-06-22T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 269,
-    "slug": "dolmenjord-viking-islands-965b06",
-    "startDate": "2023-06-15T15:00:00.000Z",
-    "title": "Dolmenjord - Viking Islands"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -918,24 +882,6 @@
     "title": "Gone Home"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2023-06-22T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 1950,
-    "slug": "guacamelee-2-ac4977",
-    "startDate": "2023-06-15T15:00:00.000Z",
-    "title": "Guacamelee! 2"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2023-06-22T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 1479,
-    "slug": "guacamelee-stce-7cdbc8",
-    "startDate": "2023-06-15T15:00:00.000Z",
-    "title": "Guacamelee! Super Turbo Championship Edition"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -1071,6 +1017,15 @@
     "title": "Icewind Dale: Enhanced Edition"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2023-06-29T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 0,
+    "slug": "idle-champions-of-the-forgotten-realms",
+    "startDate": "2023-06-22T15:00:00.000Z",
+    "title": "Idle Champions of the Forgotten Realms"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2023-07-06T15:00:00.000Z",
     "isFree": false,
@@ -1197,6 +1152,15 @@
     "title": "Jackbox Party Pack 3"
   },
   {
+    "discountPercentage": 45,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1529,
+    "slug": "jennifer-wilde-unlikely-revolutionaries-7eda5e",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Jennifer Wilde Unlikely Revolutionaries"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -1314,15 +1278,6 @@
     "title": "LEGO\u00ae Builder's Journey"
   },
   {
-    "discountPercentage": 15,
-    "endDate": "2023-06-22T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "layers-of-fears-85a02b",
-    "startDate": "2023-06-15T16:00:00.000Z",
-    "title": "Layers of Fear"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -1420,6 +1375,15 @@
     "slug": "match-village-5f41dd",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Match Village"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "men-of-war-condemned-heroes-5947be",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Men of War Condemned Heroes"
   },
   {
     "discountPercentage": 75,
@@ -1627,6 +1591,15 @@
     "slug": "outcore-desktop-adventure-eb3aff",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Outcore - Desktop Adventure"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-07-13T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "perish-390141",
+    "startDate": "2023-06-27T22:00:00.000Z",
+    "title": "PERISH"
   },
   {
     "discountPercentage": 60,
@@ -2203,6 +2176,15 @@
     "slug": "tetris-effect",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Tetris\u00ae Effect: Connected"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2023-06-28T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1479,
+    "slug": "the-bookwalker-cd43ce",
+    "startDate": "2023-06-22T16:00:00.000Z",
+    "title": "The Bookwalker: Thief of Tales"
   },
   {
     "discountPercentage": 87,
@@ -2799,6 +2781,15 @@
     "title": "Voodoo Kid"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 359,
+    "slug": "wtc-relentless-protagonist-06c355",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "WTC - Relentless Protagonist"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -2860,6 +2851,15 @@
     "slug": "zelter-b3640a",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Zelter"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2023-06-29T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1999,
+    "slug": "thehunter-call-of-the-wild",
+    "startDate": "2023-06-22T15:00:00.000Z",
+    "title": "theHunter: Call of the Wild\u2122"
   },
   {
     "discountPercentage": 50,
