@@ -1,4 +1,4 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|1|guacamelee-2-ac4977|Guacamelee! 2|19,50€|100|2023-06-15 15h|2023-06-22 15h|
-|2|guacamelee-stce-7cdbc8|Guacamelee! Super Turbo Championship Edition|14,79€|100|2023-06-15 15h|2023-06-22 15h|
+|1|idle-champions-of-the-forgotten-realms|Idle Champions of the Forgotten Realms|0,00€|100|2023-06-22 15h|2023-06-29 15h|
+|2|thehunter-call-of-the-wild|theHunter: Call of the Wild™|19,99€|100|2023-06-22 15h|2023-06-29 15h|
