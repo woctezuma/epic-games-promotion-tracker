@@ -324,6 +324,15 @@
     "title": "Arcade Paradise"
   },
   {
+    "discountPercentage": 34,
+    "endDate": "2023-07-12T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "are-you-smarter-than-a-5th-grader-bc328a",
+    "startDate": "2023-07-07T11:00:00.000Z",
+    "title": "Are You Smarter Than A 5th Grader"
+  },
+  {
     "discountPercentage": 15,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -475,6 +484,15 @@
     "slug": "bassmaster-fishing-2022-ec4015",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Bassmaster\u00ae Fishing"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 359,
+    "slug": "battle-ram-d001fd",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Battle Ram"
   },
   {
     "discountPercentage": 30,
@@ -1242,6 +1260,15 @@
     "title": "Dark Matter"
   },
   {
+    "discountPercentage": 33,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "deexit-eternal-matters-da8992",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "De-Exit - Eternal Matters"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -1456,6 +1483,15 @@
     "slug": "dread-templar-d8e8fa",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Dread Templar"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 359,
+    "slug": "dream-magic-will-358429",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Dream magic will"
   },
   {
     "discountPercentage": 10,
@@ -1971,15 +2007,6 @@
     "title": "GRAVEN"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2023-07-13T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 1999,
-    "slug": "grime",
-    "startDate": "2023-07-06T15:00:00.000Z",
-    "title": "GRIME"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -2041,6 +2068,15 @@
     "slug": "ghostrunner",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Ghostrunner"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "giana-sisters-twisted-dreams-9124c7",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Giana Sisters \u2013 Twisted Dreams"
   },
   {
     "discountPercentage": 90,
@@ -2280,10 +2316,28 @@
     "discountPercentage": 50,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
+    "originalPrice": 1499,
+    "slug": "heros-hour-871285",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Hero's Hour"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
     "originalPrice": 899,
     "slug": "hextech-mayhem-a-league-of-legends-story ",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Hextech Mayhem: A League of Legends Story\u2122"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4799,
+    "slug": "high-on-life-3a855b",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "High On Life"
   },
   {
     "discountPercentage": 60,
@@ -3186,6 +3240,15 @@
     "title": "Little Orpheus"
   },
   {
+    "discountPercentage": 90,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "locks-quest-befcf1",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Locks Quest"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -4059,15 +4122,6 @@
     "title": "Pathway"
   },
   {
-    "discountPercentage": 22,
-    "endDate": "2023-08-23T07:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1349,
-    "slug": "paw-paw-destiny-843848",
-    "startDate": "2023-08-16T07:00:00.000Z",
-    "title": "Paw Paw Destiny"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -4237,6 +4291,15 @@
     "slug": "rez-plz-324485",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "REZ PLZ"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "rad-rodgers-radical-edition-8f66a7",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Rad Rodgers - Radical Edition"
   },
   {
     "discountPercentage": 60,
@@ -4419,15 +4482,6 @@
     "title": "Rig'n'Roll"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2023-08-03T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3299,
-    "slug": "rimworld",
-    "startDate": "2023-07-20T15:00:00.000Z",
-    "title": "RimWorld"
-  },
-  {
     "discountPercentage": 70,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -4608,15 +4662,6 @@
     "title": "SIMULACRA 3"
   },
   {
-    "discountPercentage": 25,
-    "endDate": "2023-07-13T04:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 179,
-    "slug": "spingun-843f78",
-    "startDate": "2023-07-06T04:00:00.000Z",
-    "title": "SPINGUN"
-  },
-  {
     "discountPercentage": 35,
     "endDate": "2023-08-24T04:00:00.000Z",
     "isFree": false,
@@ -4732,6 +4777,15 @@
     "slug": "saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Saviors of Sapphire Wings & Strangers of Sword City Revisited"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "scarf-dd1030",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Scarf"
   },
   {
     "discountPercentage": 80,
@@ -5038,6 +5092,15 @@
     "slug": "silt-6ca919",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Silt"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "sine-mora-ex-d4fd23",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Sine Mora Ex"
   },
   {
     "discountPercentage": 50,
@@ -5641,6 +5704,15 @@
     "slug": "tank-warfare-tunisia-1943-62f6e9",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Tank Warfare -  Tunisia 1943"
+  },
+  {
+    "discountPercentage": 34,
+    "endDate": "2023-08-22T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "tchia",
+    "startDate": "2023-08-15T15:00:00.000Z",
+    "title": "Tchia"
   },
   {
     "discountPercentage": 30,
@@ -6705,6 +6777,15 @@
     "title": "TowerFall Ascension"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1998,
+    "slug": "townsmen-a-kingdom-rebuilt-07c09d",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Townsmen - A Kingdom Rebuilt"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -6730,6 +6811,15 @@
     "slug": "train-valley-ead642",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Train Valley"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2023-07-20T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1349,
+    "slug": "train-valley-2-3606da",
+    "startDate": "2023-07-13T15:00:00.000Z",
+    "title": "Train Valley 2"
   },
   {
     "discountPercentage": 65,
@@ -6928,6 +7018,15 @@
     "slug": "vampyr",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Vampyr"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-08-15T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "vaudeville-86cff0",
+    "startDate": "2023-08-08T15:00:00.000Z",
+    "title": "Vaudeville"
   },
   {
     "discountPercentage": 75,
