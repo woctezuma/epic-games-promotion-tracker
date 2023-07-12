@@ -108,15 +108,6 @@
     "title": "A Plague Tale: Requiem"
   },
   {
-    "discountPercentage": 15,
-    "endDate": "2023-07-15T04:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 539,
-    "slug": "a-second-before-the-war-55b226",
-    "startDate": "2023-07-12T19:00:00.000Z",
-    "title": "A Second Before The War"
-  },
-  {
     "discountPercentage": 25,
     "endDate": "2023-11-28T17:00:00.000Z",
     "isFree": false,
@@ -6741,6 +6732,15 @@
     "title": "Seal of Evil"
   },
   {
+    "discountPercentage": 35,
+    "endDate": "2023-08-05T07:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "obelixes-tower-defense-0efb67",
+    "startDate": "2023-07-29T07:00:00.000Z",
+    "title": "Secret Agent 001"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -9322,6 +9322,15 @@
     "slug": "turnip-boy-commits-tax-evasion-fb2084",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Turnip Boy Commits Tax Evasion"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2023-07-23T07:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "two-skateboards-driving-simulator-c0ea1f",
+    "startDate": "2023-07-16T07:00:00.000Z",
+    "title": "Two Skateboards Driving Simulator"
   },
   {
     "discountPercentage": 75,
