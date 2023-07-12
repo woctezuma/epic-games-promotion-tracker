@@ -2034,6 +2034,15 @@
     "title": "Dice Legacy"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2023-07-27T12:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1169,
+    "slug": "dimension-drive-70a456",
+    "startDate": "2023-07-20T12:00:00.000Z",
+    "title": "Dimension Drive"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -4579,6 +4588,15 @@
     "slug": "lost-ruins-d6233b",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Lost Ruins"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-07-27T12:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 719,
+    "slug": "lost-wing-074a1b",
+    "startDate": "2023-07-20T12:00:00.000Z",
+    "title": "Lost Wing"
   },
   {
     "discountPercentage": 80,
