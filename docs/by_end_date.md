@@ -1,15 +1,15 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|1|train-valley-2-3606da|Train Valley 2|13,49€|100|2023-07-13 15h|2023-07-20 15h|
-|2|two-skateboards-driving-simulator-c0ea1f|Two Skateboards Driving Simulator|1,79€|35|2023-07-16 07h|2023-07-23 07h|
-|3|my-summer-adventure-memories-of-another-life-e30d54|My Summer Adventure: Memories of Another Life|7,79€|15|2023-07-17 15h|2023-07-24 15h|
-|4|xenonauts-2-42a236|Xenonauts 2|39,99€|25|2023-07-18 08h|2023-07-25 08h|
-|5|outliver-tribulations-679884|Outliver: Tribulation|7,19€|10|2023-07-18 15h|2023-07-25 15h|
-|6|murder-is-game-over-streaming-death-951812|Murder Is Game Over - Streaming Death|4,49€|10|2023-07-18 17h|2023-07-25 17h|
-|7|dimension-drive-70a456|Dimension Drive|11,69€|20|2023-07-20 12h|2023-07-27 12h|
-|8|lost-wing-074a1b|Lost Wing|7,19€|20|2023-07-20 12h|2023-07-27 12h|
-|9|murder-by-numbers|Murder by Numbers|12,49€|100|2023-07-20 15h|2023-07-27 15h|
-|10|stillborn-slayer-298dd7|Stillborn Slayer|9,89€|10|2023-07-20 15h|2023-07-27 15h|
+|1|two-skateboards-driving-simulator-c0ea1f|Two Skateboards Driving Simulator|1,79€|35|2023-07-16 07h|2023-07-23 07h|
+|2|my-summer-adventure-memories-of-another-life-e30d54|My Summer Adventure: Memories of Another Life|7,79€|15|2023-07-17 15h|2023-07-24 15h|
+|3|xenonauts-2-42a236|Xenonauts 2|39,99€|25|2023-07-18 08h|2023-07-25 08h|
+|4|outliver-tribulations-679884|Outliver: Tribulation|7,19€|10|2023-07-18 15h|2023-07-25 15h|
+|5|murder-is-game-over-streaming-death-951812|Murder Is Game Over - Streaming Death|4,49€|10|2023-07-18 17h|2023-07-25 17h|
+|6|dimension-drive-70a456|Dimension Drive|11,69€|20|2023-07-20 12h|2023-07-27 12h|
+|7|lost-wing-074a1b|Lost Wing|7,19€|20|2023-07-20 12h|2023-07-27 12h|
+|8|murder-by-numbers|Murder by Numbers|12,49€|100|2023-07-20 15h|2023-07-27 15h|
+|9|stillborn-slayer-298dd7|Stillborn Slayer|9,89€|10|2023-07-20 15h|2023-07-27 15h|
+|10|the-elder-scrolls-online|The Elder Scrolls® Online|19,99€|100|2023-07-20 15h|2023-07-27 15h|
 |11|warhammer-mechanicus-0e4b71|Warhammer 40,000: Mechanicus - Standard Edition|29,99€|75|2023-07-20 15h|2023-07-27 15h|
 |12|car-tuning-simulator-38ddaf|Car Tuning Simulator|0,79€|50|2023-07-17 22h|2023-07-29 22h|
 |13|save-district-3-ad0130|Save District 3|1,79€|49|2023-07-13 17h|2023-07-30 16h|
