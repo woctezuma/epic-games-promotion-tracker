@@ -8127,6 +8127,15 @@
     "title": "The Elder Scrolls V: Skyrim Special Edition"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2023-07-27T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1999,
+    "slug": "the-elder-scrolls-online",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "The Elder Scrolls\u00ae Online"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -9250,15 +9259,6 @@
     "slug": "train-valley-ead642",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Train Valley"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2023-07-20T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 1349,
-    "slug": "train-valley-2-3606da",
-    "startDate": "2023-07-13T15:00:00.000Z",
-    "title": "Train Valley 2"
   },
   {
     "discountPercentage": 65,
