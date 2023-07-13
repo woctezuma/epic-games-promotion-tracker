@@ -3654,6 +3654,15 @@
     "title": "Ignition"
   },
   {
+    "discountPercentage": 55,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "imagine-earth-7498e4",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Imagine Earth"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -8782,15 +8791,6 @@
     "slug": "the-wolf-among-us",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "The Wolf Among Us"
-  },
-  {
-    "discountPercentage": 35,
-    "endDate": "2023-07-20T07:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 179,
-    "slug": "the-zombie-smasher-eeafeb",
-    "startDate": "2023-07-13T07:00:00.000Z",
-    "title": "The Zombie Smasher"
   },
   {
     "discountPercentage": 60,
