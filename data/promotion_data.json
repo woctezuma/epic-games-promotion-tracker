@@ -819,6 +819,15 @@
     "title": "Battlefield\u2122 2042"
   },
   {
+    "discountPercentage": 15,
+    "endDate": "2023-08-22T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "beach-invasion-1944-d654d6",
+    "startDate": "2023-08-15T15:00:00.000Z",
+    "title": "Beach Invasion 1944"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -970,6 +979,15 @@
     "slug": "blanc-703b40",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Blanc"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-08-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "blazing-beaks-3d4864",
+    "startDate": "2023-07-20T15:00:00.000Z",
+    "title": "Blazing Beaks"
   },
   {
     "discountPercentage": 60,
@@ -3663,6 +3681,15 @@
     "title": "Imagine Earth"
   },
   {
+    "discountPercentage": 55,
+    "endDate": "2023-09-10T07:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "imagine-earth-7498e4",
+    "startDate": "2023-09-04T07:00:00.000Z",
+    "title": "Imagine Earth"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
@@ -5839,6 +5866,15 @@
     "slug": "production-line",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Production Line"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2023-08-22T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "project-first-contact-ff7fdc",
+    "startDate": "2023-08-15T15:00:00.000Z",
+    "title": "Project First Contact"
   },
   {
     "discountPercentage": 75,
