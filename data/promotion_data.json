@@ -1821,15 +1821,6 @@
     "discountPercentage": 50,
     "endDate": "2023-08-03T15:00:00.000Z",
     "isFree": false,
-    "originalPrice": 5999,
-    "slug": "cyberpunk-2077",
-    "startDate": "2023-07-20T15:00:00.000Z",
-    "title": "Cyberpunk 2077"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2023-08-03T15:00:00.000Z",
-    "isFree": false,
     "originalPrice": 3999,
     "slug": "death-stranding-directors-cut",
     "startDate": "2023-07-20T15:00:00.000Z",
@@ -2260,11 +2251,11 @@
   },
   {
     "discountPercentage": 30,
-    "endDate": "2023-08-15T15:00:00.000Z",
+    "endDate": "2023-08-08T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 269,
     "slug": "dolmenjord-viking-islands-965b06",
-    "startDate": "2023-08-08T15:00:00.000Z",
+    "startDate": "2023-08-01T15:00:00.000Z",
     "title": "Dolmenjord - Viking Islands"
   },
   {
@@ -2617,15 +2608,6 @@
     "slug": "europa-universalis-iv",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "Europa Universalis IV"
-  },
-  {
-    "discountPercentage": 15,
-    "endDate": "2023-08-03T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 179,
-    "slug": "evalinathe-sorceress-a9a60a",
-    "startDate": "2023-07-20T15:00:00.000Z",
-    "title": "Evalina The Sorceress"
   },
   {
     "discountPercentage": 60,
@@ -5821,15 +5803,6 @@
     "slug": "one-hand-clapping",
     "startDate": "2023-07-20T15:00:00.000Z",
     "title": "One Hand Clapping"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2023-07-27T13:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "one-military-camp-8db1f6",
-    "startDate": "2023-07-20T13:00:00.000Z",
-    "title": "One Military Camp"
   },
   {
     "discountPercentage": 50,
