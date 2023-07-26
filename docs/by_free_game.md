@@ -2,3 +2,4 @@
 |---|---|---|---|---|---|---|
 |1|homeworld-remastered-collection|Homeworld Remastered Collection|31,99€|100|2023-07-27 15h|2023-08-03 15h|
 |2|severed-steel|Severed Steel|24,99€|100|2023-07-27 15h|2023-08-03 15h|
+|3|bloons-td-6-bf95a0|Bloons TD 6|10,99€|100|2023-08-03 15h|2023-08-10 15h|
