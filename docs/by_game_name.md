@@ -191,22 +191,21 @@
 |189|timothy-vs-the-aliens-2f5b36|Timothy vs the Aliens|13,49€|80|2023-08-08 15h|2023-08-15 15h|
 |190|tiny-thor-76de1f|Tiny Thor|19,99€|20|2023-08-08 15h|2023-08-15 15h|
 |191|torch-cave-828b66|Torch Cave|8,99€|30|2023-08-03 13h|2023-09-02 13h|
-|192|totally-accurate-battle-simulator|Totally Accurate Battle Simulator|16,79€|50|2023-07-26 22h|2023-08-09 22h|
-|193|tracks-of-triumph-7b2685|Tracks of Triumph|7,19€|20|2023-08-19 14h|2023-09-02 14h|
-|194|tracks-of-triumph-summertime-001c7b|Tracks of Triumph: Summertime|7,19€|20|2023-08-20 14h|2023-09-18 14h|
-|195|trigon-ce1936|Trigon: Space Story|19,99€|60|2023-08-08 15h|2023-08-15 15h|
-|196|two-skateboards-driving-simulator-c0ea1f|Two Skateboards Driving Simulator|1,79€|55|2023-08-23 07h|2023-09-06 07h|
-|197|uno|UNO Standard Edition|9,99€|60|2023-08-08 15h|2023-08-15 15h|
-|198|urban-tale-75b4f0|Urban Tale|12,59€|15|2023-08-08 15h|2023-08-15 15h|
-|199|velone-3c0487|VELONE|14,99€|60|2023-08-08 15h|2023-08-15 15h|
-|200|vaudeville-86cff0|Vaudeville|17,99€|40|2023-08-08 15h|2023-08-15 15h|
-|201|virus-infinite-b9ed68|Virus Infinite|13,49€|15|2023-08-02 14h|2023-08-09 14h|
-|202|volley-pals-0120b4|Volley Pals|4,49€|35|2023-08-03 18h|2023-08-24 18h|
-|203|ww1-game-series-bundle|WW1 Game Series Bundle|59,99€|50|2023-08-08 15h|2023-08-15 15h|
-|204|warforwards-fd05ed|WarForwards|7,99€|60|2023-08-15 15h|2023-08-22 15h|
-|205|we-were-here-forever|We Were Here Forever|17,99€|35|2023-09-14 17h|2023-09-28 17h|
-|206|what-lies-in-the-multiverse-f604fa|What Lies in the Multiverse|11,99€|80|2023-08-08 15h|2023-08-15 15h|
-|207|when-the-past-was-around-3071e0|When the Past was Around|5,99€|30|2023-11-21 17h|2023-11-28 17h|
-|208|wildcat-gun-machine-c66c4e|Wildcat Gun Machine|14,99€|80|2023-08-15 15h|2023-08-22 15h|
-|209|youcandomino-04e596|YouCanDomino|3,59€|60|2023-08-08 15h|2023-08-15 15h|
-|210|zombie-rollerz-7aa027|Zombie Rollerz: Pinball Heroes|14,99€|80|2023-08-08 15h|2023-08-15 15h|
+|192|tracks-of-triumph-7b2685|Tracks of Triumph|7,19€|20|2023-08-19 14h|2023-09-02 14h|
+|193|tracks-of-triumph-summertime-001c7b|Tracks of Triumph: Summertime|7,19€|20|2023-08-20 14h|2023-09-18 14h|
+|194|trigon-ce1936|Trigon: Space Story|19,99€|60|2023-08-08 15h|2023-08-15 15h|
+|195|two-skateboards-driving-simulator-c0ea1f|Two Skateboards Driving Simulator|1,79€|55|2023-08-23 07h|2023-09-06 07h|
+|196|uno|UNO Standard Edition|9,99€|60|2023-08-08 15h|2023-08-15 15h|
+|197|urban-tale-75b4f0|Urban Tale|12,59€|15|2023-08-08 15h|2023-08-15 15h|
+|198|velone-3c0487|VELONE|14,99€|60|2023-08-08 15h|2023-08-15 15h|
+|199|vaudeville-86cff0|Vaudeville|17,99€|40|2023-08-08 15h|2023-08-15 15h|
+|200|virus-infinite-b9ed68|Virus Infinite|13,49€|15|2023-08-02 14h|2023-08-09 14h|
+|201|volley-pals-0120b4|Volley Pals|4,49€|35|2023-08-03 18h|2023-08-24 18h|
+|202|ww1-game-series-bundle|WW1 Game Series Bundle|59,99€|50|2023-08-08 15h|2023-08-15 15h|
+|203|warforwards-fd05ed|WarForwards|7,99€|60|2023-08-15 15h|2023-08-22 15h|
+|204|we-were-here-forever|We Were Here Forever|17,99€|35|2023-09-14 17h|2023-09-28 17h|
+|205|what-lies-in-the-multiverse-f604fa|What Lies in the Multiverse|11,99€|80|2023-08-08 15h|2023-08-15 15h|
+|206|when-the-past-was-around-3071e0|When the Past was Around|5,99€|30|2023-11-21 17h|2023-11-28 17h|
+|207|wildcat-gun-machine-c66c4e|Wildcat Gun Machine|14,99€|80|2023-08-15 15h|2023-08-22 15h|
+|208|youcandomino-04e596|YouCanDomino|3,59€|60|2023-08-08 15h|2023-08-15 15h|
+|209|zombie-rollerz-7aa027|Zombie Rollerz: Pinball Heroes|14,99€|80|2023-08-08 15h|2023-08-15 15h|
