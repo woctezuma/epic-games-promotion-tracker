@@ -1719,15 +1719,6 @@
     "title": "Torch Cave"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2023-08-09T22:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1679,
-    "slug": "totally-accurate-battle-simulator",
-    "startDate": "2023-07-26T22:00:00.000Z",
-    "title": "Totally Accurate Battle Simulator"
-  },
-  {
     "discountPercentage": 20,
     "endDate": "2023-09-02T14:00:00.000Z",
     "isFree": false,
