@@ -45,15 +45,6 @@
     "title": "ATONE: Heart of the Elder Tree"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2023-08-03T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 449,
-    "slug": "access-denied-escape-1d486e",
-    "startDate": "2023-07-27T15:30:00.000Z",
-    "title": "Access Denied Escape"
-  },
-  {
     "discountPercentage": 60,
     "endDate": "2023-09-12T15:00:00.000Z",
     "isFree": false,
@@ -729,15 +720,6 @@
     "title": "Hiveswap Friendsim"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2023-08-03T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 3199,
-    "slug": "homeworld-remastered-collection",
-    "startDate": "2023-07-27T15:00:00.000Z",
-    "title": "Homeworld Remastered Collection"
-  },
-  {
     "discountPercentage": 10,
     "endDate": "2023-08-02T17:00:00.000Z",
     "isFree": false,
@@ -943,6 +925,15 @@
     "slug": "life-of-delta-44f4e4",
     "startDate": "2023-08-08T15:00:00.000Z",
     "title": "Life of Delta"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2023-08-10T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1499,
+    "slug": "loop-hero",
+    "startDate": "2023-08-03T15:00:00.000Z",
+    "title": "Loop Hero"
   },
   {
     "discountPercentage": 90,
@@ -1312,15 +1303,6 @@
     "slug": "sephonie-6ab6f7",
     "startDate": "2023-08-08T15:00:00.000Z",
     "title": "Sephonie"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2023-08-03T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 2499,
-    "slug": "severed-steel",
-    "startDate": "2023-07-27T15:00:00.000Z",
-    "title": "Severed Steel"
   },
   {
     "discountPercentage": 90,
