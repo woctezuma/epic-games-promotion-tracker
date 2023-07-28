@@ -315,24 +315,6 @@
     "title": "Coffee Talk"
   },
   {
-    "discountPercentage": 75,
-    "endDate": "2023-08-10T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "cook-serve-delicious-2-6db46c",
-    "startDate": "2023-07-27T17:00:00.000Z",
-    "title": "Cook Serve Delicious 2"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-08-10T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1599,
-    "slug": "cook-serve-delicious-3-fb9aae",
-    "startDate": "2023-07-27T17:00:00.000Z",
-    "title": "Cook, Serve, Delicious! 3?!"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2023-08-15T15:00:00.000Z",
     "isFree": false,
@@ -358,6 +340,15 @@
     "slug": "cris-tales",
     "startDate": "2023-08-29T15:00:00.000Z",
     "title": "Cris Tales"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-10-02T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 629,
+    "slug": "cyber-drift-6ac51b",
+    "startDate": "2023-09-02T17:00:00.000Z",
+    "title": "Cyber Drift"
   },
   {
     "discountPercentage": 60,
@@ -720,15 +711,6 @@
     "title": "Hiveswap Friendsim"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2023-08-02T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1799,
-    "slug": "hush-hush-5c1fa0",
-    "startDate": "2023-07-27T17:00:00.000Z",
-    "title": "Hush Hush"
-  },
-  {
     "discountPercentage": 40,
     "endDate": "2023-08-15T15:00:00.000Z",
     "isFree": false,
@@ -927,6 +909,15 @@
     "title": "Life of Delta"
   },
   {
+    "discountPercentage": 15,
+    "endDate": "2023-09-10T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 629,
+    "slug": "lines-guarder-174742",
+    "startDate": "2023-08-11T17:00:00.000Z",
+    "title": "Line's Guarder"
+  },
+  {
     "discountPercentage": 100,
     "endDate": "2023-08-10T15:00:00.000Z",
     "isFree": true,
@@ -1015,15 +1006,6 @@
     "slug": "mason-building-bricks-73659e",
     "startDate": "2023-08-08T15:00:00.000Z",
     "title": "Mason: Building Bricks"
-  },
-  {
-    "discountPercentage": 15,
-    "endDate": "2023-08-04T14:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1349,
-    "slug": "mega-city-police-22a245",
-    "startDate": "2023-07-28T14:00:00.000Z",
-    "title": "Mega City Police"
   },
   {
     "discountPercentage": 70,
@@ -1251,15 +1233,6 @@
     "title": "SPINGUN"
   },
   {
-    "discountPercentage": 25,
-    "endDate": "2023-08-26T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1799,
-    "slug": "stasis-bone-totem-ca8320",
-    "startDate": "2023-07-27T20:00:00.000Z",
-    "title": "STASIS : BONE TOTEM"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2023-08-13T15:00:00.000Z",
     "isFree": false,
@@ -1483,15 +1456,6 @@
     "slug": "tchia",
     "startDate": "2023-08-15T15:00:00.000Z",
     "title": "Tchia"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2023-08-04T21:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 359,
-    "slug": "tear-of-time-lost-memory-add761",
-    "startDate": "2023-07-28T07:00:00.000Z",
-    "title": "Tear of Time - Lost memory"
   },
   {
     "discountPercentage": 35,
