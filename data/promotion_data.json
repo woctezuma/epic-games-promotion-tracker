@@ -990,15 +990,6 @@
     "title": "Maritime Calling"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2023-08-11T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 179,
-    "slug": "mars-colonization-b8958d",
-    "startDate": "2023-07-28T23:00:00.000Z",
-    "title": "Mars Colonization"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2023-08-15T15:00:00.000Z",
     "isFree": false,
@@ -1197,15 +1188,6 @@
     "title": "Rising Hell"
   },
   {
-    "discountPercentage": 15,
-    "endDate": "2023-07-31T08:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1349,
-    "slug": "rising-mist-36ba97",
-    "startDate": "2023-07-28T17:00:00.000Z",
-    "title": "Rising Mist"
-  },
-  {
     "discountPercentage": 30,
     "endDate": "2023-08-22T15:00:00.000Z",
     "isFree": false,
@@ -1249,15 +1231,6 @@
     "slug": "samorost-3-0c4489",
     "startDate": "2023-07-30T15:00:00.000Z",
     "title": "Samorost 3"
-  },
-  {
-    "discountPercentage": 35,
-    "endDate": "2023-08-05T07:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 179,
-    "slug": "obelixes-tower-defense-0efb67",
-    "startDate": "2023-07-29T07:00:00.000Z",
-    "title": "Secret Agent 001"
   },
   {
     "discountPercentage": 80,
@@ -1645,6 +1618,15 @@
     "slug": "torch-cave-828b66",
     "startDate": "2023-08-03T13:00:00.000Z",
     "title": "Torch Cave"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-08-10T13:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "towerful-a7bde9",
+    "startDate": "2023-08-03T13:00:00.000Z",
+    "title": "Towerful"
   },
   {
     "discountPercentage": 20,
