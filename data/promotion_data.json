@@ -162,15 +162,6 @@
     "title": "Avencast - Rise Of The Mage"
   },
   {
-    "discountPercentage": 33,
-    "endDate": "2023-08-12T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "avoid-it-df26e8",
-    "startDate": "2023-07-29T23:00:00.000Z",
-    "title": "Avoid It"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2023-09-05T15:00:00.000Z",
     "isFree": false,
@@ -531,15 +522,6 @@
     "title": "FRONT MISSION 1st: Remake"
   },
   {
-    "discountPercentage": 30,
-    "endDate": "2023-08-05T22:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 629,
-    "slug": "fur-squadron-0042b8",
-    "startDate": "2023-07-29T22:00:00.000Z",
-    "title": "FUR Squadron"
-  },
-  {
     "discountPercentage": 67,
     "endDate": "2023-08-16T15:00:00.000Z",
     "isFree": false,
@@ -583,6 +565,15 @@
     "slug": "flatout-2-9ffdd6",
     "startDate": "2023-09-04T14:00:00.000Z",
     "title": "Flatout 2"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2023-09-14T23:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1259,
+    "slug": "flyto-c4d923",
+    "startDate": "2023-08-31T23:00:00.000Z",
+    "title": "Flyto"
   },
   {
     "discountPercentage": 60,
@@ -1213,24 +1204,6 @@
     "slug": "spingun-843f78",
     "startDate": "2023-08-17T04:00:00.000Z",
     "title": "SPINGUN"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2023-08-13T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 499,
-    "slug": "samorost-2-1b9bb1",
-    "startDate": "2023-07-30T15:00:00.000Z",
-    "title": "Samorost 2"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2023-08-13T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "samorost-3-0c4489",
-    "startDate": "2023-07-30T15:00:00.000Z",
-    "title": "Samorost 3"
   },
   {
     "discountPercentage": 80,
