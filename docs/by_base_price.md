@@ -40,7 +40,6 @@
 |#|one-lonely-outpost-12afa6|One Lonely Outpost|19,99€|20|2023-08-03 16h|2023-08-17 16h|
 |#|railgrade|RAILGRADE|19,99€|25|2023-08-03 13h|2023-08-10 03h|
 |#|rough-justice-84-89dd7a|Rough Justice: '84|19,99€|30|2023-08-15 15h|2023-08-22 15h|
-|#|samorost-3-0c4489|Samorost 3|19,99€|80|2023-07-30 15h|2023-08-13 15h|
 |#|silence-57bc4e|Silence|19,99€|90|2023-08-08 15h|2023-08-15 15h|
 |#|the-dragoness-command-of-the-flame-b3b544|The Dragoness Command Of The Flame|19,99€|10|2023-08-09 23h|2023-08-16 23h|
 |#|tiny-thor-76de1f|Tiny Thor|19,99€|20|2023-08-08 15h|2023-08-15 15h|
@@ -96,6 +95,7 @@
 |#|timothy-vs-the-aliens-2f5b36|Timothy vs the Aliens|13,49€|80|2023-08-08 15h|2023-08-15 15h|
 |#|towerful-a7bde9|Towerful|13,49€|20|2023-08-03 13h|2023-08-10 13h|
 |#|virus-infinite-b9ed68|Virus Infinite|13,49€|15|2023-08-02 14h|2023-08-09 14h|
+|#|flyto-c4d923|Flyto|12,59€|60|2023-08-31 23h|2023-09-14 23h|
 |#|urban-tale-75b4f0|Urban Tale|12,59€|15|2023-08-08 15h|2023-08-15 15h|
 |#|no-longer-home|No Longer Home|12,49€|60|2023-09-05 15h|2023-09-12 15h|
 |#|atone-heart-of-the-elder-tree-556763|ATONE: Heart of the Elder Tree|11,99€|75|2023-08-08 15h|2023-08-15 15h|
@@ -145,7 +145,6 @@
 |#|tracks-of-triumph-summertime-001c7b|Tracks of Triumph: Summertime|7,19€|20|2023-08-20 14h|2023-09-18 14h|
 |#|edge-of-galaxy-092087|Edge Of Galaxy|6,99€|50|2023-08-15 15h|2023-08-22 15h|
 |#|cyber-drift-6ac51b|Cyber Drift|6,29€|50|2023-09-02 17h|2023-10-02 17h|
-|#|fur-squadron-0042b8|FUR Squadron|6,29€|30|2023-07-29 22h|2023-08-05 22h|
 |#|lines-guarder-174742|Line's Guarder|6,29€|15|2023-08-11 17h|2023-09-10 17h|
 |#|secret-of-dream-947b85|Secret of Dream|6,29€|80|2023-09-04 14h|2023-09-18 04h|
 |#|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-08-22 15h|2023-08-29 15h|
@@ -156,7 +155,6 @@
 |#|doom-1993|DOOM (1993)|4,99€|60|2023-08-02 15h|2023-08-16 15h|
 |#|doom-64|DOOM 64|4,99€|67|2023-08-02 15h|2023-08-16 15h|
 |#|doom-ii|DOOM II|4,99€|60|2023-08-02 15h|2023-08-16 15h|
-|#|samorost-2-1b9bb1|Samorost 2|4,99€|80|2023-07-30 15h|2023-08-13 15h|
 |#|awesome-pea-2-45617a|Awesome Pea 2|4,49€|75|2023-08-29 15h|2023-09-05 15h|
 |#|boltbreak-c2bf02|BoltBreak|4,49€|50|2023-09-05 06h|2023-09-16 18h|
 |#|boltbreak-c2bf02|BoltBreak|4,49€|50|2023-11-01 06h|2023-11-16 05h|
@@ -198,4 +196,3 @@
 |#|spingun-843f78|SPINGUN|1,79€|35|2023-08-17 04h|2023-08-24 04h|
 |#|the-zombie-smasher-eeafeb|The Zombie Smasher|1,79€|50|2023-08-22 15h|2023-08-29 15h|
 |#|two-skateboards-driving-simulator-c0ea1f|Two Skateboards Driving Simulator|1,79€|55|2023-08-23 07h|2023-09-06 07h|
-|#|avoid-it-df26e8|Avoid It|0,89€|33|2023-07-29 23h|2023-08-12 23h|

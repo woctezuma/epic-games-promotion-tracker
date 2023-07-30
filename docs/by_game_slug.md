@@ -17,7 +17,6 @@
 |#|assassins-creed-valhalla|Assassin's Creed® Valhalla Standard Edition|59,99€|75|2023-08-08 15h|2023-08-15 15h|
 |#|atone-heart-of-the-elder-tree-556763|ATONE: Heart of the Elder Tree|11,99€|75|2023-08-08 15h|2023-08-15 15h|
 |#|avencast-rise-of-the-mage-4668a2|Avencast - Rise Of The Mage|3,99€|80|2023-08-29 15h|2023-09-05 15h|
-|#|avoid-it-df26e8|Avoid It|0,89€|33|2023-07-29 23h|2023-08-12 23h|
 |#|awesome-pea-2-45617a|Awesome Pea 2|4,49€|75|2023-08-29 15h|2023-09-05 15h|
 |#|bad-rats-revenge-7f0eed|Bad Rats Revenge|1,79€|95|2023-09-04 14h|2023-09-18 15h|
 |#|bad-rats-show-1b74cf|Bad Rats Show|1,79€|80|2023-09-04 14h|2023-09-18 15h|
@@ -62,12 +61,12 @@
 |#|flat-heroes-fec628|Flat Heroes|9,99€|50|2023-08-09 23h|2023-08-23 22h|
 |#|flatout-2-9ffdd6|Flatout 2|7,99€|80|2023-09-04 14h|2023-09-18 14h|
 |#|flatout-940461|Flatout|3,99€|80|2023-09-04 14h|2023-09-18 14h|
+|#|flyto-c4d923|Flyto|12,59€|60|2023-08-31 23h|2023-09-14 23h|
 |#|football-manager-2023|Football Manager 2023|59,99€|60|2023-08-16 14h|2023-08-23 14h|
 |#|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|25|2023-09-05 15h|2023-09-12 15h|
 |#|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|50|2023-10-17 15h|2023-10-24 15h|
 |#|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|50|2023-11-28 16h|2023-12-05 16h|
 |#|front-mission-1st-remake-124a24|FRONT MISSION 1st: Remake|31,39€|20|2023-08-15 15h|2023-08-22 15h|
-|#|fur-squadron-0042b8|FUR Squadron|6,29€|30|2023-07-29 22h|2023-08-05 22h|
 |#|genesis-noir|Genesis Noir|14,49€|70|2023-09-05 15h|2023-09-12 15h|
 |#|ghost-blood-91ed9f|Ghost Blood|3,59€|60|2023-08-22 15h|2023-08-29 15h|
 |#|glitchhikers-the-spaces-between-3d7a5d|Glitchhikers: The Spaces Between|9,99€|35|2023-09-05 15h|2023-09-12 15h|
@@ -133,8 +132,6 @@
 |#|redneck-bowl-games-d39874|RedNeck Bowl Games|17,99€|50|2023-08-08 15h|2023-08-15 15h|
 |#|rising-hell-253707|Rising Hell|7,99€|40|2023-11-21 17h|2023-11-28 17h|
 |#|rough-justice-84-89dd7a|Rough Justice: '84|19,99€|30|2023-08-15 15h|2023-08-22 15h|
-|#|samorost-2-1b9bb1|Samorost 2|4,99€|80|2023-07-30 15h|2023-08-13 15h|
-|#|samorost-3-0c4489|Samorost 3|19,99€|80|2023-07-30 15h|2023-08-13 15h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|60|2023-08-08 07h|2023-08-22 07h|
 |#|secret-of-dream-947b85|Secret of Dream|6,29€|80|2023-09-04 14h|2023-09-18 04h|
 |#|sephonie-6ab6f7|Sephonie|15,99€|30|2023-08-08 15h|2023-08-15 15h|
