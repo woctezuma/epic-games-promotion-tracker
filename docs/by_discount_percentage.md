@@ -79,8 +79,6 @@
 |#|larva-mortus-9d14c7|Larva Mortus|2,39€|67|2023-08-08 15h|2023-08-15 15h|
 |#|project-first-contact-ff7fdc|Project First Contact|2,69€|67|2023-08-15 15h|2023-08-22 15h|
 |#|quake|Quake|9,99€|67|2023-08-02 15h|2023-08-16 15h|
-|#|lego-builders-journey|LEGO® Builder's Journey|16,99€|66|2023-07-31 15h|2023-08-07 15h|
-|#|guacamelee-stce-7cdbc8|Guacamelee! Super Turbo Championship Edition|14,79€|65|2023-07-31 05h|2023-08-07 03h|
 |#|oxide-room-104-4c1249|Oxide Room 104|17,99€|65|2023-08-03 00h|2023-08-14 00h|
 |#|alan-wake-remastered|Alan Wake Remastered|29,99€|60|2023-09-05 15h|2023-09-12 15h|
 |#|anodyne-2-return-to-dust|Anodyne 2: Return To Dust|16,79€|60|2023-08-08 15h|2023-08-15 15h|
@@ -95,6 +93,8 @@
 |#|no-longer-home|No Longer Home|12,49€|60|2023-09-05 15h|2023-09-12 15h|
 |#|paradise-killer-c3ea1c|Paradise Killer|15,99€|60|2023-09-05 15h|2023-09-12 15h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|60|2023-08-08 07h|2023-08-22 07h|
+|#|the-telltale-batman|The Telltale Batman Shadows Edition|24,99€|60|2023-09-05 15h|2023-09-12 15h|
+|#|the-wolf-among-us|The Wolf Among Us|14,99€|60|2023-09-05 15h|2023-09-12 15h|
 |#|trigon-ce1936|Trigon: Space Story|19,99€|60|2023-08-08 15h|2023-08-15 15h|
 |#|uno|UNO Standard Edition|9,99€|60|2023-08-08 15h|2023-08-15 15h|
 |#|velone-3c0487|VELONE|14,99€|60|2023-08-08 15h|2023-08-15 15h|
@@ -160,6 +160,7 @@
 |#|dolmenjord-viking-islands-965b06|Dolmenjord - Viking Islands|2,69€|30|2023-08-01 15h|2023-08-08 15h|
 |#|im-looking-for-3024-people-1cdae4|I'm looking for 3024 people|3,99€|30|2023-08-17 22h|2023-09-01 22h|
 |#|life-of-delta-44f4e4|Life of Delta|19,99€|30|2023-08-08 15h|2023-08-15 15h|
+|#|lost-eidolons|Lost Eidolons|34,99€|30|2023-09-05 15h|2023-09-12 15h|
 |#|rough-justice-84-89dd7a|Rough Justice: '84|19,99€|30|2023-08-15 15h|2023-08-22 15h|
 |#|sephonie-6ab6f7|Sephonie|15,99€|30|2023-08-08 15h|2023-08-15 15h|
 |#|strayed-lights-351d29|Strayed Lights|24,99€|30|2023-08-08 15h|2023-08-15 15h|
@@ -179,6 +180,7 @@
 |#|front-mission-1st-remake-124a24|FRONT MISSION 1st: Remake|31,39€|20|2023-08-15 15h|2023-08-22 15h|
 |#|noob-the-factionless-ac623f|NOOB - The Factionless|29,99€|20|2023-08-08 15h|2023-08-15 15h|
 |#|one-lonely-outpost-12afa6|One Lonely Outpost|19,99€|20|2023-08-03 16h|2023-08-17 16h|
+|#|soulvars-e95ea5|SOULVARS|17,99€|20|2023-08-15 00h|2023-08-28 00h|
 |#|sleengster-92cdf8|Sleengster|10,79€|20|2023-08-07 14h|2023-09-06 14h|
 |#|teslas-best-friend-c2acf4|Tesla's Best Friend|4,49€|20|2023-08-03 13h|2023-09-02 13h|
 |#|the-first-spark-108e8a|The First Spark|3,59€|20|2023-08-08 15h|2023-08-15 15h|

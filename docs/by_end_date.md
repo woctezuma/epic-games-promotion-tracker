@@ -1,7 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|guacamelee-stce-7cdbc8|Guacamelee! Super Turbo Championship Edition|14,79€|65|2023-07-31 05h|2023-08-07 03h|
-|#|lego-builders-journey|LEGO® Builder's Journey|16,99€|66|2023-07-31 15h|2023-08-07 15h|
 |#|dolmenjord-viking-islands-965b06|Dolmenjord - Viking Islands|2,69€|30|2023-08-01 15h|2023-08-08 15h|
 |#|virus-infinite-b9ed68|Virus Infinite|13,49€|15|2023-08-02 14h|2023-08-09 14h|
 |#|railgrade|RAILGRADE|19,99€|25|2023-08-03 13h|2023-08-10 03h|
@@ -101,6 +99,7 @@
 |#|flat-heroes-fec628|Flat Heroes|9,99€|50|2023-08-09 23h|2023-08-23 22h|
 |#|spingun-843f78|SPINGUN|1,79€|35|2023-08-17 04h|2023-08-24 04h|
 |#|volley-pals-0120b4|Volley Pals|4,49€|35|2023-08-03 18h|2023-08-24 18h|
+|#|soulvars-e95ea5|SOULVARS|17,99€|20|2023-08-15 00h|2023-08-28 00h|
 |#|anno-1404|Anno 1404 History Edition|14,99€|70|2023-08-22 11h|2023-08-29 11h|
 |#|anno-1701|Anno 1701 History Edition|9,99€|50|2023-08-22 11h|2023-08-29 11h|
 |#|anno-1800|Anno 1800 Standard Edition|59,99€|75|2023-08-22 11h|2023-08-29 11h|
@@ -143,12 +142,15 @@
 |#|hiveswap-friendsim-ec9c82|Hiveswap Friendsim|11,69€|80|2023-09-05 15h|2023-09-12 15h|
 |#|in-other-waters-771a9b|In Other Waters|11,99€|70|2023-09-05 15h|2023-09-12 15h|
 |#|kraken-academy|Kraken Academy!!|14,99€|60|2023-09-05 15h|2023-09-12 15h|
+|#|lost-eidolons|Lost Eidolons|34,99€|30|2023-09-05 15h|2023-09-12 15h|
 |#|no-longer-home|No Longer Home|12,49€|60|2023-09-05 15h|2023-09-12 15h|
 |#|orwell-ignorance-is-strength-486264|Orwell: Ignorance is Strength|7,99€|70|2023-09-05 15h|2023-09-12 15h|
 |#|paradise-killer-c3ea1c|Paradise Killer|15,99€|60|2023-09-05 15h|2023-09-12 15h|
 |#|pesterquest-de8729|Pesterquest|10,79€|80|2023-09-05 15h|2023-09-12 15h|
 |#|the-inheritance-of-crimson-manor-81bc67|The Inheritance of Crimson Manor|17,99€|70|2023-09-05 15h|2023-09-12 15h|
 |#|the-pale-beyond-e09cae|The Pale Beyond|17,99€|25|2023-09-05 15h|2023-09-12 15h|
+|#|the-telltale-batman|The Telltale Batman Shadows Edition|24,99€|60|2023-09-05 15h|2023-09-12 15h|
+|#|the-wolf-among-us|The Wolf Among Us|14,99€|60|2023-09-05 15h|2023-09-12 15h|
 |#|koral-63ea73|KORAL|7,99€|70|2023-09-05 17h|2023-09-14 13h|
 |#|flyto-c4d923|Flyto|12,59€|60|2023-08-31 23h|2023-09-14 23h|
 |#|boltbreak-c2bf02|BoltBreak|4,49€|50|2023-09-05 06h|2023-09-16 18h|
