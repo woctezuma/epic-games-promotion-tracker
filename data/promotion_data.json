@@ -666,15 +666,6 @@
     "title": "Golf Club Wasteland"
   },
   {
-    "discountPercentage": 65,
-    "endDate": "2023-08-07T03:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1479,
-    "slug": "guacamelee-stce-7cdbc8",
-    "startDate": "2023-07-31T05:00:00.000Z",
-    "title": "Guacamelee! Super Turbo Championship Edition"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2023-09-19T10:00:00.000Z",
     "isFree": false,
@@ -846,15 +837,6 @@
     "title": "Kraken Academy!!"
   },
   {
-    "discountPercentage": 66,
-    "endDate": "2023-08-07T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1699,
-    "slug": "lego-builders-journey",
-    "startDate": "2023-07-31T15:00:00.000Z",
-    "title": "LEGO\u00ae Builder's Journey"
-  },
-  {
     "discountPercentage": 67,
     "endDate": "2023-08-15T15:00:00.000Z",
     "isFree": false,
@@ -916,6 +898,15 @@
     "slug": "loop-hero",
     "startDate": "2023-08-03T15:00:00.000Z",
     "title": "Loop Hero"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2023-09-12T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3499,
+    "slug": "lost-eidolons",
+    "startDate": "2023-09-05T15:00:00.000Z",
+    "title": "Lost Eidolons"
   },
   {
     "discountPercentage": 90,
@@ -1195,6 +1186,15 @@
     "slug": "scary-and-dot-86b1ff",
     "startDate": "2023-08-08T07:00:00.000Z",
     "title": "SCARY AND DOT"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-08-28T00:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "soulvars-e95ea5",
+    "startDate": "2023-08-15T00:00:00.000Z",
+    "title": "SOULVARS"
   },
   {
     "discountPercentage": 35,
@@ -1485,6 +1485,15 @@
     "title": "The Silent Age"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2023-09-12T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "the-telltale-batman",
+    "startDate": "2023-09-05T15:00:00.000Z",
+    "title": "The Telltale Batman Shadows Edition"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-08-15T15:00:00.000Z",
     "isFree": false,
@@ -1519,6 +1528,15 @@
     "slug": "the-unbeatable-path-8af8fc",
     "startDate": "2023-12-21T18:00:00.000Z",
     "title": "The Unbeatable Path"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2023-09-12T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "the-wolf-among-us",
+    "startDate": "2023-09-05T15:00:00.000Z",
+    "title": "The Wolf Among Us"
   },
   {
     "discountPercentage": 50,
