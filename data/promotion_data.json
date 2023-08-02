@@ -198,6 +198,15 @@
     "title": "Awesome Pea 2"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "brok-the-investigator-fb0513",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "BROK the InvestiGator"
+  },
+  {
     "discountPercentage": 95,
     "endDate": "2023-09-18T15:00:00.000Z",
     "isFree": false,
