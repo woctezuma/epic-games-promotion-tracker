@@ -459,6 +459,15 @@
     "title": "Edge Of Galaxy"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "eigengrau-62aef0",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Eigengrau"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2023-08-11T16:00:00.000Z",
     "isFree": false,
@@ -592,6 +601,15 @@
     "slug": "football-manager-2023",
     "startDate": "2023-08-16T14:00:00.000Z",
     "title": "Football Manager 2023"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-09-18T04:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 539,
+    "slug": "forest-fire-b4bb7e",
+    "startDate": "2023-09-04T19:00:00.000Z",
+    "title": "Forest Fire"
   },
   {
     "discountPercentage": 25,
