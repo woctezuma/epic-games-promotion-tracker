@@ -477,6 +477,15 @@
     "title": "Eigengrau"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2023-08-15T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "el-hijo-6b63c5",
+    "startDate": "2023-08-08T15:00:00.000Z",
+    "title": "El Hijo \u2013 A Wild West Tale"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2023-08-11T16:00:00.000Z",
     "isFree": false,
@@ -1188,6 +1197,15 @@
     "title": "Pesterquest"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-08-15T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "pile-up-b1e2af",
+    "startDate": "2023-08-08T15:00:00.000Z",
+    "title": "Pile Up"
+  },
+  {
     "discountPercentage": 85,
     "endDate": "2023-08-15T15:00:00.000Z",
     "isFree": false,
@@ -1420,6 +1438,15 @@
     "slug": "skotos-455463",
     "startDate": "2023-12-01T07:00:00.000Z",
     "title": "Skotos"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-08-15T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "skydrift-infinity-c4ca37",
+    "startDate": "2023-08-08T15:00:00.000Z",
+    "title": "SkyDrift Infinity"
   },
   {
     "discountPercentage": 20,
