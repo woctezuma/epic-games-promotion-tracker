@@ -261,6 +261,15 @@
     "title": "Beacon Pines"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "blind-fate-edo-no-yami-87e748",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Blind Fate: Edo no Yami"
+  },
+  {
     "discountPercentage": 100,
     "endDate": "2023-08-10T15:00:00.000Z",
     "isFree": true,
@@ -457,6 +466,15 @@
     "slug": "duel-princess-ec50b3",
     "startDate": "2023-08-24T07:00:00.000Z",
     "title": "Duel Princess"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1479,
+    "slug": "dynopunk-2035f5",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Dynopunk"
   },
   {
     "discountPercentage": 35,
@@ -691,15 +709,6 @@
     "slug": "fortune-follow-the-mansion-bad0b2",
     "startDate": "2023-11-28T16:00:00.000Z",
     "title": "Fortune Follow: The Mansion"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2023-08-29T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 359,
-    "slug": "ghost-blood-91ed9f",
-    "startDate": "2023-08-22T15:00:00.000Z",
-    "title": "Ghost Blood"
   },
   {
     "discountPercentage": 35,
@@ -1123,6 +1132,15 @@
     "slug": "murder-is-game-over-255da8",
     "startDate": "2023-08-08T15:00:00.000Z",
     "title": "Murder Is Game Over"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 779,
+    "slug": "my-summer-adventure-memories-of-another-life-e30d54",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "My Summer Adventure: Memories of Another Life"
   },
   {
     "discountPercentage": 20,
@@ -1663,6 +1681,15 @@
     "slug": "teslas-best-friend-c2acf4",
     "startDate": "2023-08-03T13:00:00.000Z",
     "title": "Tesla's Best Friend"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "the-darkest-tales-7d0dab",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "The Darkest Tales"
   },
   {
     "discountPercentage": 10,
