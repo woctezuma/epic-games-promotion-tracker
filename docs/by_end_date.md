@@ -67,11 +67,14 @@
 |#|far-lone-sails|FAR: Lone Sails|14,99€|80|2023-08-03 15h|2023-08-17 15h|
 |#|orwell-keeping-an-eye-on-you|Orwell: Keeping an Eye on You|9,99€|100|2023-08-10 15h|2023-08-17 15h|
 |#|one-lonely-outpost-12afa6|One Lonely Outpost|19,99€|20|2023-08-03 16h|2023-08-17 16h|
+|#|overdrift-festival-eb501d|OverDrift Festival|26,99€|37|2023-08-04 15h|2023-08-18 15h|
 |#|journey-into-darkness-2b6bf8|Journey Into Darkness|4,49€|15|2023-08-04 09h|2023-08-20 16h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|60|2023-08-08 07h|2023-08-22 07h|
 |#|a-long-journey-to-an-uncertain-end-514c7e|A Long Journey to an Uncertain End|22,39€|20|2023-08-15 15h|2023-08-22 15h|
+|#|above-and-beyond-bundle|Above and Beyond Bundle|29,99€|34|2023-08-15 15h|2023-08-22 15h|
 |#|aces-of-the-luftwaffe-squadron-97086d|Aces of the Luftwaffe - Squadron Extended Edition|24,99€|66|2023-08-15 15h|2023-08-22 15h|
 |#|beach-invasion-1944-d654d6|Beach Invasion 1944|8,99€|15|2023-08-15 15h|2023-08-22 15h|
+|#|beautiful-indie-worlds-bundle|Beautiful Indie Worlds Bundle|27,99€|30|2023-08-15 15h|2023-08-22 15h|
 |#|deponia-full-scrap-collection|Deponia: Full Scrap Collection|44,99€|91|2023-08-15 15h|2023-08-22 15h|
 |#|edge-of-galaxy-092087|Edge Of Galaxy|6,99€|50|2023-08-15 15h|2023-08-22 15h|
 |#|front-mission-1st-remake-124a24|FRONT MISSION 1st: Remake|31,39€|20|2023-08-15 15h|2023-08-22 15h|
@@ -92,6 +95,7 @@
 |#|shadow-gambit-the-cursed-crew-0bca60|Shadow Gambit: The Cursed Crew|39,99€|10|2023-08-17 16h|2023-08-23 16h|
 |#|flat-heroes-fec628|Flat Heroes|9,99€|50|2023-08-09 23h|2023-08-23 22h|
 |#|spingun-843f78|SPINGUN|1,79€|35|2023-08-17 04h|2023-08-24 04h|
+|#|lets-build-a-zoo|Let's Build A Zoo|15,99€|45|2023-08-17 17h|2023-08-24 17h|
 |#|volley-pals-0120b4|Volley Pals|4,49€|35|2023-08-03 18h|2023-08-24 18h|
 |#|oirbo-c063b7|Oirbo|13,49€|15|2023-08-19 00h|2023-08-28 00h|
 |#|soulvars-e95ea5|SOULVARS|17,99€|20|2023-08-15 00h|2023-08-28 00h|
@@ -200,6 +204,7 @@
 |#|stick-it-to-the-man|Stick It To The Man!|5,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|the-impossible-fcebf7|THE IMPOSSIBLE|4,49€|90|2023-09-14 15h|2023-09-28 15h|
 |#|tabletop-playground-9623f1|Tabletop Playground|13,49€|50|2023-09-14 15h|2023-09-28 15h|
+|#|the-backroom-project-b6b434|The Backroom Project|8,99€|20|2023-09-14 15h|2023-09-28 15h|
 |#|the-darkest-tales-7d0dab|The Darkest Tales|15,99€|50|2023-09-14 15h|2023-09-28 15h|
 |#|the-galactic-junkers-7fef21|The Galactic Junkers|13,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|the-pale-beyond-e09cae|The Pale Beyond|17,99€|25|2023-09-14 15h|2023-09-28 15h|
@@ -208,7 +213,7 @@
 |#|shapez-0929c9|shapez|9,99€|60|2023-09-14 15h|2023-09-28 15h|
 |#|we-were-here-forever|We Were Here Forever|17,99€|35|2023-09-14 17h|2023-09-28 17h|
 |#|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|70|2023-09-21 22h|2023-09-29 22h|
-|#|reyna-darkness-0e1bb8|Reyna Darkness|24,65€|52|2023-08-31 18h|2023-09-30 18h|
+|#|reyna-darkness-0e1bb8|Reyna Darkness|24,65€|54|2023-08-31 18h|2023-09-30 18h|
 |#|suicide-guy-9f7963|Suicide Guy|7,19€|35|2023-09-21 23h|2023-09-30 23h|
 |#|cyber-drift-6ac51b|Cyber Drift|6,29€|50|2023-09-02 17h|2023-10-02 17h|
 |#|journey-into-darkness-2b6bf8|Journey Into Darkness|4,49€|15|2023-09-28 09h|2023-10-12 09h|
