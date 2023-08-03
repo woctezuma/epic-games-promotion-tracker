@@ -226,11 +226,11 @@
   },
   {
     "discountPercentage": 30,
-    "endDate": "2023-09-12T15:00:00.000Z",
+    "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1799,
     "slug": "beacon-pines-629fc3",
-    "startDate": "2023-09-05T15:00:00.000Z",
+    "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Beacon Pines"
   },
   {
@@ -316,11 +316,11 @@
   },
   {
     "discountPercentage": 40,
-    "endDate": "2023-09-12T15:00:00.000Z",
+    "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1599,
     "slug": "citizen-sleeper-944858",
-    "startDate": "2023-09-05T15:00:00.000Z",
+    "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Citizen Sleeper"
   },
   {
@@ -412,6 +412,15 @@
     "slug": "deponia-full-scrap-collection",
     "startDate": "2023-08-15T15:00:00.000Z",
     "title": "Deponia: Full Scrap Collection"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-08-31T07:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2239,
+    "slug": "duel-princess-ec50b3",
+    "startDate": "2023-08-24T07:00:00.000Z",
+    "title": "Duel Princess"
   },
   {
     "discountPercentage": 35,
@@ -639,15 +648,6 @@
     "title": "Fortune Follow: The Mansion"
   },
   {
-    "discountPercentage": 70,
-    "endDate": "2023-09-12T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1449,
-    "slug": "genesis-noir",
-    "startDate": "2023-09-05T15:00:00.000Z",
-    "title": "Genesis Noir"
-  },
-  {
     "discountPercentage": 60,
     "endDate": "2023-08-29T15:00:00.000Z",
     "isFree": false,
@@ -658,11 +658,11 @@
   },
   {
     "discountPercentage": 35,
-    "endDate": "2023-09-12T15:00:00.000Z",
+    "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 999,
     "slug": "glitchhikers-the-spaces-between-3d7a5d",
-    "startDate": "2023-09-05T15:00:00.000Z",
+    "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Glitchhikers: The Spaces Between"
   },
   {
@@ -712,11 +712,11 @@
   },
   {
     "discountPercentage": 80,
-    "endDate": "2023-09-12T15:00:00.000Z",
+    "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1169,
     "slug": "hiveswap-friendsim-ec9c82",
-    "startDate": "2023-09-05T15:00:00.000Z",
+    "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Hiveswap Friendsim"
   },
   {
@@ -766,11 +766,11 @@
   },
   {
     "discountPercentage": 70,
-    "endDate": "2023-09-12T15:00:00.000Z",
+    "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1199,
     "slug": "in-other-waters-771a9b",
-    "startDate": "2023-09-05T15:00:00.000Z",
+    "startDate": "2023-09-14T15:00:00.000Z",
     "title": "In Other Waters"
   },
   {
@@ -900,15 +900,6 @@
     "title": "Kill Fish"
   },
   {
-    "discountPercentage": 60,
-    "endDate": "2023-09-12T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "kraken-academy",
-    "startDate": "2023-09-05T15:00:00.000Z",
-    "title": "Kraken Academy!!"
-  },
-  {
     "discountPercentage": 67,
     "endDate": "2023-08-15T15:00:00.000Z",
     "isFree": false,
@@ -943,6 +934,15 @@
     "slug": "life-after-death-b4e964",
     "startDate": "2023-10-09T00:00:00.000Z",
     "title": "Life After Death"
+  },
+  {
+    "discountPercentage": 22,
+    "endDate": "2023-09-03T01:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1263,
+    "slug": "life-changer-64fc81",
+    "startDate": "2023-08-04T01:00:00.000Z",
+    "title": "Life Changer"
   },
   {
     "discountPercentage": 30,
@@ -1098,15 +1098,6 @@
     "title": "Need for Spirit Drink and Drive Simulator"
   },
   {
-    "discountPercentage": 60,
-    "endDate": "2023-09-12T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1249,
-    "slug": "no-longer-home",
-    "startDate": "2023-09-05T15:00:00.000Z",
-    "title": "No Longer Home"
-  },
-  {
     "discountPercentage": 15,
     "endDate": "2023-08-28T00:00:00.000Z",
     "isFree": false,
@@ -1126,11 +1117,11 @@
   },
   {
     "discountPercentage": 70,
-    "endDate": "2023-09-12T15:00:00.000Z",
+    "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 799,
     "slug": "orwell-ignorance-is-strength-486264",
-    "startDate": "2023-09-05T15:00:00.000Z",
+    "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Orwell: Ignorance is Strength"
   },
   {
@@ -1179,30 +1170,21 @@
     "title": "Override 2: Super Mech League"
   },
   {
-    "discountPercentage": 65,
-    "endDate": "2023-08-14T00:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1799,
-    "slug": "oxide-room-104-4c1249",
-    "startDate": "2023-08-03T00:00:00.000Z",
-    "title": "Oxide Room 104"
-  },
-  {
     "discountPercentage": 60,
-    "endDate": "2023-09-12T15:00:00.000Z",
+    "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1599,
     "slug": "paradise-killer-c3ea1c",
-    "startDate": "2023-09-05T15:00:00.000Z",
+    "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Paradise Killer"
   },
   {
     "discountPercentage": 80,
-    "endDate": "2023-09-12T15:00:00.000Z",
+    "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1079,
     "slug": "pesterquest-de8729",
-    "startDate": "2023-09-05T15:00:00.000Z",
+    "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Pesterquest"
   },
   {
@@ -1648,11 +1630,11 @@
   },
   {
     "discountPercentage": 25,
-    "endDate": "2023-09-12T15:00:00.000Z",
+    "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1799,
     "slug": "the-pale-beyond-e09cae",
-    "startDate": "2023-09-05T15:00:00.000Z",
+    "startDate": "2023-09-14T15:00:00.000Z",
     "title": "The Pale Beyond"
   },
   {
