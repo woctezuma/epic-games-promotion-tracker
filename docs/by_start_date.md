@@ -81,6 +81,7 @@
 |#|trine-5|Trine 5: A Clockwork Conspiracy|29,99€|20|2023-08-11 13h|2023-08-31 13h|
 |#|soulvars-e95ea5|SOULVARS|17,99€|20|2023-08-15 00h|2023-08-28 00h|
 |#|a-long-journey-to-an-uncertain-end-514c7e|A Long Journey to an Uncertain End|22,39€|20|2023-08-15 15h|2023-08-22 15h|
+|#|aces-of-the-luftwaffe-squadron-97086d|Aces of the Luftwaffe - Squadron Extended Edition|24,99€|66|2023-08-15 15h|2023-08-22 15h|
 |#|beach-invasion-1944-d654d6|Beach Invasion 1944|8,99€|15|2023-08-15 15h|2023-08-22 15h|
 |#|deponia-full-scrap-collection|Deponia: Full Scrap Collection|44,99€|91|2023-08-15 15h|2023-08-22 15h|
 |#|edge-of-galaxy-092087|Edge Of Galaxy|6,99€|50|2023-08-15 15h|2023-08-22 15h|
@@ -112,6 +113,7 @@
 |#|anno-2070|Anno 2070|29,99€|75|2023-08-22 11h|2023-08-29 11h|
 |#|anno-2205|Anno 2205 - Standard Edition|39,99€|85|2023-08-22 11h|2023-08-29 11h|
 |#|arcadegeddon|Arcadegeddon|13,49€|25|2023-08-22 15h|2023-08-29 15h|
+|#|are-you-smarter-than-a-5th-grader-bc328a|Are You Smarter Than A 5th Grader|29,99€|34|2023-08-22 15h|2023-08-29 15h|
 |#|ghost-blood-91ed9f|Ghost Blood|3,59€|60|2023-08-22 15h|2023-08-29 15h|
 |#|kill-fish-1c85e9|Kill Fish|1,79€|50|2023-08-22 15h|2023-08-29 15h|
 |#|the-zombie-smasher-eeafeb|The Zombie Smasher|1,79€|50|2023-08-22 15h|2023-08-29 15h|
@@ -125,6 +127,7 @@
 |#|in-sound-mind|In Sound Mind|34,99€|90|2023-08-29 15h|2023-09-05 15h|
 |#|lost-words-beyond-the-page|Lost Words: Beyond the Page|14,99€|90|2023-08-29 15h|2023-09-05 15h|
 |#|override-2-super-mech-league|Override 2: Super Mech League|29,99€|85|2023-08-29 15h|2023-09-05 15h|
+|#|perish-390141|PERISH|19,99€|20|2023-08-29 15h|2023-09-05 15h|
 |#|reyna-darkness-0e1bb8|Reyna Darkness|24,65€|52|2023-08-31 18h|2023-09-30 18h|
 |#|flyto-c4d923|Flyto|12,59€|60|2023-08-31 23h|2023-09-14 23h|
 |#|sunlight-scream-de8642|Sunlight Scream|5,39€|15|2023-09-01 15h|2023-09-08 15h|
@@ -170,10 +173,12 @@
 |#|superliminal|Superliminal|15,99€|50|2023-09-07 17h|2023-09-17 17h|
 |#|toem|TOEM|15,99€|70|2023-09-11 16h|2023-09-24 16h|
 |#|apotheorasis-a33e73|Apotheorasis • Lab of the Blind Gods|9,75€|25|2023-09-14 15h|2023-09-28 15h|
+|#|arcrunner-61fee6|ArcRunner|19,99€|20|2023-09-14 15h|2023-09-28 15h|
 |#|brok-the-investigator-fb0513|BROK the InvestiGator|17,99€|30|2023-09-14 15h|2023-09-28 15h|
 |#|beacon-pines-629fc3|Beacon Pines|17,99€|30|2023-09-14 15h|2023-09-28 15h|
 |#|chess-ultra-91bba3|Chess Ultra|12,99€|60|2023-09-14 15h|2023-09-28 15h|
 |#|citizen-sleeper-944858|Citizen Sleeper|15,99€|40|2023-09-14 15h|2023-09-28 15h|
+|#|curse-of-the-sea-rats-8f28b1|Curse of the Sea Rats|17,99€|20|2023-09-14 15h|2023-09-28 15h|
 |#|elegies-aya-17c3f1|ELEGIES Aya|16,19€|10|2023-09-14 15h|2023-09-28 15h|
 |#|eigengrau-62aef0|Eigengrau|8,99€|20|2023-09-14 15h|2023-09-28 15h|
 |#|filthy-animals-f6c65c|Filthy Animals \| Heist Simulator|17,99€|50|2023-09-14 15h|2023-09-28 15h|

@@ -5,6 +5,7 @@
 |#|a-long-journey-to-an-uncertain-end-514c7e|A Long Journey to an Uncertain End|22,39€|20|2023-08-15 15h|2023-08-22 15h|
 |#|a-space-for-the-unbound-57e666|A Space for the Unbound|15,99€|25|2023-11-21 17h|2023-11-28 17h|
 |#|atone-heart-of-the-elder-tree-556763|ATONE: Heart of the Elder Tree|11,99€|75|2023-08-08 15h|2023-08-15 15h|
+|#|aces-of-the-luftwaffe-squadron-97086d|Aces of the Luftwaffe - Squadron Extended Edition|24,99€|66|2023-08-15 15h|2023-08-22 15h|
 |#|alan-wake-remastered|Alan Wake Remastered|29,99€|60|2023-09-05 15h|2023-09-12 15h|
 |#|alchemist-adventure-fa9fca|Alchemist Adventure|13,49€|65|2023-09-05 15h|2023-09-12 15h|
 |#|annas-quest-fbefa2|Anna's Quest|19,99€|90|2023-08-08 15h|2023-08-15 15h|
@@ -16,7 +17,9 @@
 |#|anodyne-2-return-to-dust|Anodyne 2: Return To Dust|16,79€|60|2023-08-08 15h|2023-08-15 15h|
 |#|apotheorasis-a33e73|Apotheorasis • Lab of the Blind Gods|9,75€|30|2023-08-08 15h|2023-08-15 15h|
 |#|apotheorasis-a33e73|Apotheorasis • Lab of the Blind Gods|9,75€|25|2023-09-14 15h|2023-09-28 15h|
+|#|arcrunner-61fee6|ArcRunner|19,99€|20|2023-09-14 15h|2023-09-28 15h|
 |#|arcadegeddon|Arcadegeddon|13,49€|25|2023-08-22 15h|2023-08-29 15h|
+|#|are-you-smarter-than-a-5th-grader-bc328a|Are You Smarter Than A 5th Grader|29,99€|34|2023-08-22 15h|2023-08-29 15h|
 |#|aspire-inas-tale-f77a17|Aspire Inas Tale|9,99€|75|2023-08-08 15h|2023-08-15 15h|
 |#|assassins-creed-valhalla|Assassin's Creed® Valhalla Standard Edition|59,99€|75|2023-08-08 15h|2023-08-15 15h|
 |#|avencast-rise-of-the-mage-4668a2|Avencast - Rise Of The Mage|3,99€|80|2023-08-29 15h|2023-09-05 15h|
@@ -42,6 +45,7 @@
 |#|covid-carl-7dd371|Covid Carl|3,59€|40|2023-09-05 15h|2023-09-12 15h|
 |#|cris-tales|Cris Tales|39,99€|80|2023-08-08 15h|2023-08-15 15h|
 |#|cris-tales|Cris Tales|39,99€|80|2023-08-29 15h|2023-09-05 15h|
+|#|curse-of-the-sea-rats-8f28b1|Curse of the Sea Rats|17,99€|20|2023-09-14 15h|2023-09-28 15h|
 |#|cyber-drift-6ac51b|Cyber Drift|6,29€|50|2023-09-02 17h|2023-10-02 17h|
 |#|destructure-among-debris-b4aaf8|DESTRUCTURE: Among Debris|7,19€|45|2023-08-08 15h|2023-08-15 15h|
 |#|deflector-fedbe0|Deflector|17,99€|30|2023-09-05 15h|2023-09-12 15h|
@@ -131,6 +135,7 @@
 |#|out-of-the-park-baseball-24-eb4cf8|Out of the Park Baseball 24|39,99€|50|2023-10-19 17h|2023-11-02 17h|
 |#|override-2-super-mech-league|Override 2: Super Mech League|29,99€|85|2023-08-08 15h|2023-08-15 15h|
 |#|override-2-super-mech-league|Override 2: Super Mech League|29,99€|85|2023-08-29 15h|2023-09-05 15h|
+|#|perish-390141|PERISH|19,99€|20|2023-08-29 15h|2023-09-05 15h|
 |#|paradise-killer-c3ea1c|Paradise Killer|15,99€|60|2023-09-14 15h|2023-09-28 15h|
 |#|pesterquest-de8729|Pesterquest|10,79€|80|2023-09-14 15h|2023-09-28 15h|
 |#|pile-up-b1e2af|Pile Up|14,99€|50|2023-08-08 15h|2023-08-15 15h|

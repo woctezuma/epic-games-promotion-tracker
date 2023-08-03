@@ -20,6 +20,7 @@
 |#|front-mission-1st-remake-124a24|FRONT MISSION 1st: Remake|31,39€|20|2023-08-15 15h|2023-08-22 15h|
 |#|alan-wake-remastered|Alan Wake Remastered|29,99€|60|2023-09-05 15h|2023-09-12 15h|
 |#|anno-2070|Anno 2070|29,99€|75|2023-08-22 11h|2023-08-29 11h|
+|#|are-you-smarter-than-a-5th-grader-bc328a|Are You Smarter Than A 5th Grader|29,99€|34|2023-08-22 15h|2023-08-29 15h|
 |#|goat-simulator-3|Goat Simulator 3|29,99€|40|2023-08-08 15h|2023-08-15 15h|
 |#|monopoly-madness|MONOPOLY MADNESS|29,99€|75|2023-08-15 15h|2023-08-22 15h|
 |#|noob-the-factionless-ac623f|NOOB - The Factionless|29,99€|20|2023-08-08 15h|2023-08-15 15h|
@@ -28,6 +29,7 @@
 |#|south-park-the-stick-of-truth|South Park™: The Stick of Truth™|29,99€|75|2023-08-15 15h|2023-08-22 15h|
 |#|tchia|Tchia|29,99€|34|2023-08-15 15h|2023-08-22 15h|
 |#|trine-5|Trine 5: A Clockwork Conspiracy|29,99€|20|2023-08-11 13h|2023-08-31 13h|
+|#|aces-of-the-luftwaffe-squadron-97086d|Aces of the Luftwaffe - Squadron Extended Edition|24,99€|66|2023-08-15 15h|2023-08-22 15h|
 |#|imagine-earth-7498e4|Imagine Earth|24,99€|60|2023-09-14 15h|2023-09-28 15h|
 |#|imagine-earth-7498e4|Imagine Earth|24,99€|60|2023-10-28 23h|2023-11-12 00h|
 |#|strayed-lights-351d29|Strayed Lights|24,99€|30|2023-08-08 15h|2023-08-15 15h|
@@ -38,11 +40,13 @@
 |#|duel-princess-ec50b3|Duel Princess|22,39€|40|2023-08-24 07h|2023-08-31 07h|
 |#|everdream-valley-916471|Everdream Valley|22,39€|25|2023-08-08 15h|2023-08-15 15h|
 |#|annas-quest-fbefa2|Anna's Quest|19,99€|90|2023-08-08 15h|2023-08-15 15h|
+|#|arcrunner-61fee6|ArcRunner|19,99€|20|2023-09-14 15h|2023-09-28 15h|
 |#|el-hijo-6b63c5|El Hijo – A Wild West Tale|19,99€|75|2023-08-08 15h|2023-08-15 15h|
 |#|godlike-burger-4150a0|Godlike Burger|19,99€|70|2023-08-08 15h|2023-08-15 15h|
 |#|insurmountable-b02c31|Insurmountable|19,99€|75|2023-08-15 15h|2023-08-22 15h|
 |#|life-of-delta-44f4e4|Life of Delta|19,99€|30|2023-08-08 15h|2023-08-15 15h|
 |#|one-lonely-outpost-12afa6|One Lonely Outpost|19,99€|20|2023-08-03 16h|2023-08-17 16h|
+|#|perish-390141|PERISH|19,99€|20|2023-08-29 15h|2023-09-05 15h|
 |#|poker-club-6e18ee|Poker Club|19,99€|45|2023-09-14 15h|2023-09-28 15h|
 |#|railgrade|RAILGRADE|19,99€|25|2023-08-03 13h|2023-08-10 03h|
 |#|rough-justice-84-89dd7a|Rough Justice: '84|19,99€|30|2023-08-15 15h|2023-08-22 15h|
@@ -55,6 +59,7 @@
 |#|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|85|2023-12-21 23h|2023-12-31 11h|
 |#|brok-the-investigator-fb0513|BROK the InvestiGator|17,99€|30|2023-09-14 15h|2023-09-28 15h|
 |#|beacon-pines-629fc3|Beacon Pines|17,99€|30|2023-09-14 15h|2023-09-28 15h|
+|#|curse-of-the-sea-rats-8f28b1|Curse of the Sea Rats|17,99€|20|2023-09-14 15h|2023-09-28 15h|
 |#|deflector-fedbe0|Deflector|17,99€|30|2023-09-05 15h|2023-09-12 15h|
 |#|ebola-3-2c79e9|EBOLA 3|17,99€|35|2023-09-05 15h|2023-09-12 15h|
 |#|filthy-animals-f6c65c|Filthy Animals \| Heist Simulator|17,99€|50|2023-09-14 15h|2023-09-28 15h|
