@@ -18,15 +18,6 @@
     "title": "A Hero's Rest"
   },
   {
-    "discountPercentage": 70,
-    "endDate": "2023-08-17T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "a-jugglers-tale",
-    "startDate": "2023-08-03T15:00:00.000Z",
-    "title": "A Juggler's Tale"
-  },
-  {
     "discountPercentage": 20,
     "endDate": "2023-08-22T15:00:00.000Z",
     "isFree": false,
@@ -295,15 +286,6 @@
     "slug": "blind-fate-edo-no-yami-87e748",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Blind Fate: Edo no Yami"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2023-08-10T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 1099,
-    "slug": "bloons-td-6-bf95a0",
-    "startDate": "2023-08-03T15:00:00.000Z",
-    "title": "Bloons TD 6"
   },
   {
     "discountPercentage": 50,
@@ -610,15 +592,6 @@
     "slug": "everlasting-guilt-213534",
     "startDate": "2023-08-08T15:00:00.000Z",
     "title": "Everlasting Guilt"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2023-08-17T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "far-lone-sails",
-    "startDate": "2023-08-03T15:00:00.000Z",
-    "title": "FAR: Lone Sails"
   },
   {
     "discountPercentage": 20,
@@ -1071,15 +1044,6 @@
     "title": "Life of Delta"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2023-08-10T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 1499,
-    "slug": "loop-hero",
-    "startDate": "2023-08-03T15:00:00.000Z",
-    "title": "Loop Hero"
-  },
-  {
     "discountPercentage": 30,
     "endDate": "2023-09-12T15:00:00.000Z",
     "isFree": false,
@@ -1222,15 +1186,6 @@
     "slug": "oirbo-c063b7",
     "startDate": "2023-08-19T00:00:00.000Z",
     "title": "Oirbo"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2023-08-17T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "one-lonely-outpost-12afa6",
-    "startDate": "2023-08-03T16:00:00.000Z",
-    "title": "One Lonely Outpost"
   },
   {
     "discountPercentage": 70,
@@ -1879,15 +1834,6 @@
     "slug": "the-wolf-among-us",
     "startDate": "2023-09-05T15:00:00.000Z",
     "title": "The Wolf Among Us"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2023-08-29T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 179,
-    "slug": "the-zombie-smasher-eeafeb",
-    "startDate": "2023-08-22T15:00:00.000Z",
-    "title": "The Zombie Smasher"
   },
   {
     "discountPercentage": 50,
