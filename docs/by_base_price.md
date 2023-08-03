@@ -49,7 +49,6 @@
 |#|godlike-burger-4150a0|Godlike Burger|19,99€|70|2023-08-08 15h|2023-08-15 15h|
 |#|insurmountable-b02c31|Insurmountable|19,99€|75|2023-08-15 15h|2023-08-22 15h|
 |#|life-of-delta-44f4e4|Life of Delta|19,99€|30|2023-08-08 15h|2023-08-15 15h|
-|#|one-lonely-outpost-12afa6|One Lonely Outpost|19,99€|20|2023-08-03 16h|2023-08-17 16h|
 |#|perish-390141|PERISH|19,99€|20|2023-08-29 15h|2023-09-05 15h|
 |#|poker-club-6e18ee|Poker Club|19,99€|45|2023-09-14 15h|2023-09-28 15h|
 |#|rough-justice-84-89dd7a|Rough Justice: '84|19,99€|30|2023-08-15 15h|2023-08-22 15h|
@@ -99,11 +98,8 @@
 |#|infindustry-cccc40|Infindustry|15,29€|50|2023-09-14 15h|2023-09-28 15h|
 |#|infindustry-cccc40|Infindustry|15,29€|50|2023-11-21 16h|2023-11-28 16h|
 |#|sir-whoopass-757c5c|Sir Whoopass - Immortal Death|15,29€|50|2023-08-08 14h|2023-08-10 22h|
-|#|a-jugglers-tale|A Juggler's Tale|14,99€|70|2023-08-03 15h|2023-08-17 15h|
 |#|anno-1404|Anno 1404 History Edition|14,99€|70|2023-08-22 11h|2023-08-29 11h|
-|#|far-lone-sails|FAR: Lone Sails|14,99€|80|2023-08-03 15h|2023-08-17 15h|
 |#|fabular-once-upon-a-spacetime-b73ba1|Fabular: Once Upon a Spacetime|14,99€|20|2023-09-14 15h|2023-09-28 15h|
-|#|loop-hero|Loop Hero|14,99€|100|2023-08-03 15h|2023-08-10 15h|
 |#|lost-words-beyond-the-page|Lost Words: Beyond the Page|14,99€|90|2023-08-08 15h|2023-08-15 15h|
 |#|lost-words-beyond-the-page|Lost Words: Beyond the Page|14,99€|90|2023-08-29 15h|2023-09-05 15h|
 |#|pile-up-b1e2af|Pile Up|14,99€|50|2023-08-08 15h|2023-08-15 15h|
@@ -136,7 +132,6 @@
 |#|what-lies-in-the-multiverse-f604fa|What Lies in the Multiverse|11,99€|80|2023-08-08 15h|2023-08-15 15h|
 |#|hiveswap-friendsim-ec9c82|Hiveswap Friendsim|11,69€|80|2023-09-14 15h|2023-09-28 15h|
 |#|stellar-interface-d14cc4|Stellar Interface|11,69€|75|2023-09-14 15h|2023-09-28 15h|
-|#|bloons-td-6-bf95a0|Bloons TD 6|10,99€|100|2023-08-03 15h|2023-08-10 15h|
 |#|pesterquest-de8729|Pesterquest|10,79€|80|2023-09-14 15h|2023-09-28 15h|
 |#|sleengster-92cdf8|Sleengster|10,79€|20|2023-08-07 14h|2023-09-06 14h|
 |#|anno-1701|Anno 1701 History Edition|9,99€|50|2023-08-22 11h|2023-08-29 11h|
@@ -238,5 +233,4 @@
 |#|need-for-spirit-drink-and-drive-simulator-db9660|Need for Spirit Drink and Drive Simulator|1,79€|45|2023-08-16 07h|2023-08-30 07h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|60|2023-08-08 07h|2023-08-22 07h|
 |#|spingun-843f78|SPINGUN|1,79€|35|2023-08-17 04h|2023-08-24 04h|
-|#|the-zombie-smasher-eeafeb|The Zombie Smasher|1,79€|50|2023-08-22 15h|2023-08-29 15h|
 |#|two-skateboards-driving-simulator-c0ea1f|Two Skateboards Driving Simulator|1,79€|55|2023-08-23 07h|2023-09-06 07h|
