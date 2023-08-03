@@ -54,6 +54,15 @@
     "title": "ATONE: Heart of the Elder Tree"
   },
   {
+    "discountPercentage": 34,
+    "endDate": "2023-08-22T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "above-and-beyond-bundle",
+    "startDate": "2023-08-15T15:00:00.000Z",
+    "title": "Above and Beyond Bundle"
+  },
+  {
     "discountPercentage": 66,
     "endDate": "2023-08-22T15:00:00.000Z",
     "isFree": false,
@@ -268,6 +277,15 @@
     "slug": "beacon-pines-629fc3",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Beacon Pines"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2023-08-22T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2799,
+    "slug": "beautiful-indie-worlds-bundle",
+    "startDate": "2023-08-15T15:00:00.000Z",
+    "title": "Beautiful Indie Worlds Bundle"
   },
   {
     "discountPercentage": 60,
@@ -990,6 +1008,15 @@
     "title": "Larva Mortus"
   },
   {
+    "discountPercentage": 45,
+    "endDate": "2023-08-24T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "lets-build-a-zoo",
+    "startDate": "2023-08-17T17:00:00.000Z",
+    "title": "Let's Build A Zoo"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2023-08-15T15:00:00.000Z",
     "isFree": false,
@@ -1242,6 +1269,15 @@
     "title": "Out of the Park Baseball 24"
   },
   {
+    "discountPercentage": 37,
+    "endDate": "2023-08-18T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2699,
+    "slug": "overdrift-festival-eb501d",
+    "startDate": "2023-08-04T15:00:00.000Z",
+    "title": "OverDrift Festival"
+  },
+  {
     "discountPercentage": 85,
     "endDate": "2023-08-15T15:00:00.000Z",
     "isFree": false,
@@ -1368,7 +1404,7 @@
     "title": "RedNeck Bowl Games"
   },
   {
-    "discountPercentage": 52,
+    "discountPercentage": 54,
     "endDate": "2023-09-30T18:00:00.000Z",
     "isFree": false,
     "originalPrice": 2465,
@@ -1690,6 +1726,15 @@
     "slug": "tear-of-time-lost-memory-add761",
     "startDate": "2023-10-11T19:00:00.000Z",
     "title": "Tear of Time - Lost memory"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "the-backroom-project-b6b434",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "The Backroom Project"
   },
   {
     "discountPercentage": 50,
