@@ -1,7 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|bloons-td-6-bf95a0|Bloons TD 6|10,99€|100|2023-08-03 15h|2023-08-10 15h|
-|#|loop-hero|Loop Hero|14,99€|100|2023-08-03 15h|2023-08-10 15h|
 |#|sir-whoopass-757c5c|Sir Whoopass - Immortal Death|15,29€|50|2023-08-08 14h|2023-08-10 22h|
 |#|electrician-simulator-164e9f|Electrician Simulator|16,19€|25|2023-08-04 16h|2023-08-11 16h|
 |#|atone-heart-of-the-elder-tree-556763|ATONE: Heart of the Elder Tree|11,99€|75|2023-08-08 15h|2023-08-15 15h|
@@ -62,11 +60,8 @@
 |#|youcandomino-04e596|YouCanDomino|3,59€|60|2023-08-08 15h|2023-08-15 15h|
 |#|zombie-rollerz-7aa027|Zombie Rollerz: Pinball Heroes|14,99€|80|2023-08-08 15h|2023-08-15 15h|
 |#|the-dragoness-command-of-the-flame-b3b544|The Dragoness Command Of The Flame|19,99€|10|2023-08-09 23h|2023-08-16 23h|
-|#|a-jugglers-tale|A Juggler's Tale|14,99€|70|2023-08-03 15h|2023-08-17 15h|
 |#|europa-universalis-iv|Europa Universalis IV|39,99€|100|2023-08-10 15h|2023-08-17 15h|
-|#|far-lone-sails|FAR: Lone Sails|14,99€|80|2023-08-03 15h|2023-08-17 15h|
 |#|orwell-keeping-an-eye-on-you|Orwell: Keeping an Eye on You|9,99€|100|2023-08-10 15h|2023-08-17 15h|
-|#|one-lonely-outpost-12afa6|One Lonely Outpost|19,99€|20|2023-08-03 16h|2023-08-17 16h|
 |#|overdrift-festival-eb501d|OverDrift Festival|26,99€|37|2023-08-04 15h|2023-08-18 15h|
 |#|journey-into-darkness-2b6bf8|Journey Into Darkness|4,49€|15|2023-08-04 09h|2023-08-20 16h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|60|2023-08-08 07h|2023-08-22 07h|
@@ -108,7 +103,6 @@
 |#|are-you-smarter-than-a-5th-grader-bc328a|Are You Smarter Than A 5th Grader|29,99€|34|2023-08-22 15h|2023-08-29 15h|
 |#|ghost-blood-91ed9f|Ghost Blood|3,59€|60|2023-08-22 15h|2023-08-29 15h|
 |#|kill-fish-1c85e9|Kill Fish|1,79€|50|2023-08-22 15h|2023-08-29 15h|
-|#|the-zombie-smasher-eeafeb|The Zombie Smasher|1,79€|50|2023-08-22 15h|2023-08-29 15h|
 |#|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-08-22 15h|2023-08-29 15h|
 |#|need-for-spirit-drink-and-drive-simulator-db9660|Need for Spirit Drink and Drive Simulator|1,79€|45|2023-08-16 07h|2023-08-30 07h|
 |#|duel-princess-ec50b3|Duel Princess|22,39€|40|2023-08-24 07h|2023-08-31 07h|

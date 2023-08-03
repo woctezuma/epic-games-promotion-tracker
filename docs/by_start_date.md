@@ -1,10 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|a-jugglers-tale|A Juggler's Tale|14,99€|70|2023-08-03 15h|2023-08-17 15h|
-|#|bloons-td-6-bf95a0|Bloons TD 6|10,99€|100|2023-08-03 15h|2023-08-10 15h|
-|#|far-lone-sails|FAR: Lone Sails|14,99€|80|2023-08-03 15h|2023-08-17 15h|
-|#|loop-hero|Loop Hero|14,99€|100|2023-08-03 15h|2023-08-10 15h|
-|#|one-lonely-outpost-12afa6|One Lonely Outpost|19,99€|20|2023-08-03 16h|2023-08-17 16h|
 |#|volley-pals-0120b4|Volley Pals|4,49€|35|2023-08-03 18h|2023-08-24 18h|
 |#|life-changer-64fc81|Life Changer|12,63€|22|2023-08-04 01h|2023-09-03 01h|
 |#|journey-into-darkness-2b6bf8|Journey Into Darkness|4,49€|15|2023-08-04 09h|2023-08-20 16h|
@@ -116,7 +111,6 @@
 |#|are-you-smarter-than-a-5th-grader-bc328a|Are You Smarter Than A 5th Grader|29,99€|34|2023-08-22 15h|2023-08-29 15h|
 |#|ghost-blood-91ed9f|Ghost Blood|3,59€|60|2023-08-22 15h|2023-08-29 15h|
 |#|kill-fish-1c85e9|Kill Fish|1,79€|50|2023-08-22 15h|2023-08-29 15h|
-|#|the-zombie-smasher-eeafeb|The Zombie Smasher|1,79€|50|2023-08-22 15h|2023-08-29 15h|
 |#|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-08-22 15h|2023-08-29 15h|
 |#|two-skateboards-driving-simulator-c0ea1f|Two Skateboards Driving Simulator|1,79€|55|2023-08-23 07h|2023-09-06 07h|
 |#|duel-princess-ec50b3|Duel Princess|22,39€|40|2023-08-24 07h|2023-08-31 07h|

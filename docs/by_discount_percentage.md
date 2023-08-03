@@ -1,8 +1,6 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|bloons-td-6-bf95a0|Bloons TD 6|10,99€|100|2023-08-03 15h|2023-08-10 15h|
 |#|europa-universalis-iv|Europa Universalis IV|39,99€|100|2023-08-10 15h|2023-08-17 15h|
-|#|loop-hero|Loop Hero|14,99€|100|2023-08-03 15h|2023-08-10 15h|
 |#|orwell-keeping-an-eye-on-you|Orwell: Keeping an Eye on You|9,99€|100|2023-08-10 15h|2023-08-17 15h|
 |#|bad-rats-revenge-7f0eed|Bad Rats Revenge|1,79€|95|2023-09-04 14h|2023-09-18 15h|
 |#|deponia-full-scrap-collection|Deponia: Full Scrap Collection|44,99€|91|2023-08-15 15h|2023-08-22 15h|
@@ -26,7 +24,6 @@
 |#|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|80|2023-11-05 23h|2023-11-17 23h|
 |#|cris-tales|Cris Tales|39,99€|80|2023-08-08 15h|2023-08-15 15h|
 |#|cris-tales|Cris Tales|39,99€|80|2023-08-29 15h|2023-09-05 15h|
-|#|far-lone-sails|FAR: Lone Sails|14,99€|80|2023-08-03 15h|2023-08-17 15h|
 |#|flatout-940461|Flatout|3,99€|80|2023-09-04 14h|2023-09-18 14h|
 |#|flatout-2-9ffdd6|Flatout 2|7,99€|80|2023-09-04 14h|2023-09-18 14h|
 |#|golf-club-wasteland-f6771e|Golf Club Nostalgia|9,99€|80|2023-08-08 15h|2023-08-15 15h|
@@ -64,7 +61,6 @@
 |#|stellar-interface-d14cc4|Stellar Interface|11,69€|75|2023-09-14 15h|2023-09-28 15h|
 |#|the-galactic-junkers-7fef21|The Galactic Junkers|13,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|the-hong-kong-massacre-8bdd14|The Hong Kong Massacre|15,99€|75|2023-08-08 15h|2023-08-15 15h|
-|#|a-jugglers-tale|A Juggler's Tale|14,99€|70|2023-08-03 15h|2023-08-17 15h|
 |#|anno-1404|Anno 1404 History Edition|14,99€|70|2023-08-22 11h|2023-08-29 11h|
 |#|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|70|2023-09-21 22h|2023-09-29 22h|
 |#|godlike-burger-4150a0|Godlike Burger|19,99€|70|2023-08-08 15h|2023-08-15 15h|
@@ -139,7 +135,6 @@
 |#|tabletop-playground-9623f1|Tabletop Playground|13,49€|50|2023-09-14 15h|2023-09-28 15h|
 |#|the-darkest-tales-7d0dab|The Darkest Tales|15,99€|50|2023-09-14 15h|2023-09-28 15h|
 |#|the-ultimate-trivia-challenge-c9cd44|The Ultimate Trivia Challenge|4,49€|50|2023-08-08 15h|2023-08-15 15h|
-|#|the-zombie-smasher-eeafeb|The Zombie Smasher|1,79€|50|2023-08-22 15h|2023-08-29 15h|
 |#|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-08-22 15h|2023-08-29 15h|
 |#|upaon-a-snakes-journey-672f92|Upaon A Snakes Journey|1,99€|50|2023-09-05 15h|2023-09-12 15h|
 |#|ww1-game-series-bundle|WW1 Game Series Bundle|59,99€|50|2023-08-08 15h|2023-08-15 15h|
@@ -216,7 +211,6 @@
 |#|fabular-once-upon-a-spacetime-b73ba1|Fabular: Once Upon a Spacetime|14,99€|20|2023-09-14 15h|2023-09-28 15h|
 |#|forest-fire-b4bb7e|Forest Fire|5,39€|20|2023-09-04 19h|2023-09-18 04h|
 |#|noob-the-factionless-ac623f|NOOB - The Factionless|29,99€|20|2023-08-08 15h|2023-08-15 15h|
-|#|one-lonely-outpost-12afa6|One Lonely Outpost|19,99€|20|2023-08-03 16h|2023-08-17 16h|
 |#|perish-390141|PERISH|19,99€|20|2023-08-29 15h|2023-09-05 15h|
 |#|soulvars-e95ea5|SOULVARS|17,99€|20|2023-08-15 00h|2023-08-28 00h|
 |#|sleengster-92cdf8|Sleengster|10,79€|20|2023-08-07 14h|2023-09-06 14h|

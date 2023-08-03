@@ -2,7 +2,6 @@
 |---|---|---|---|---|---|---|
 |#|n-verlore-verstand-1d7f5b|'n Verlore Verstand|13,49€|90|2023-09-05 15h|2023-09-12 15h|
 |#|a-heros-rest-67f117|A Hero's Rest|20,99€|20|2023-09-14 15h|2023-09-28 15h|
-|#|a-jugglers-tale|A Juggler's Tale|14,99€|70|2023-08-03 15h|2023-08-17 15h|
 |#|a-long-journey-to-an-uncertain-end-514c7e|A Long Journey to an Uncertain End|22,39€|20|2023-08-15 15h|2023-08-22 15h|
 |#|a-space-for-the-unbound-57e666|A Space for the Unbound|15,99€|25|2023-11-21 17h|2023-11-28 17h|
 |#|atone-heart-of-the-elder-tree-556763|ATONE: Heart of the Elder Tree|11,99€|75|2023-08-08 15h|2023-08-15 15h|
@@ -33,7 +32,6 @@
 |#|beacon-pines-629fc3|Beacon Pines|17,99€|30|2023-09-14 15h|2023-09-28 15h|
 |#|beautiful-indie-worlds-bundle|Beautiful Indie Worlds Bundle|27,99€|30|2023-08-15 15h|2023-08-22 15h|
 |#|blind-fate-edo-no-yami-87e748|Blind Fate: Edo no Yami|15,99€|60|2023-09-14 15h|2023-09-28 15h|
-|#|bloons-td-6-bf95a0|Bloons TD 6|10,99€|100|2023-08-03 15h|2023-08-10 15h|
 |#|boltbreak-c2bf02|BoltBreak|4,49€|50|2023-09-05 06h|2023-09-16 18h|
 |#|boltbreak-c2bf02|BoltBreak|4,49€|50|2023-11-01 06h|2023-11-16 05h|
 |#|boltbreak-c2bf02|BoltBreak|4,49€|75|2023-12-16 07h|2024-01-01 05h|
@@ -68,7 +66,6 @@
 |#|europa-universalis-iv|Europa Universalis IV|39,99€|100|2023-08-10 15h|2023-08-17 15h|
 |#|everdream-valley-916471|Everdream Valley|22,39€|25|2023-08-08 15h|2023-08-15 15h|
 |#|everlasting-guilt-213534|Everlasting Guilt|8,99€|50|2023-08-08 15h|2023-08-15 15h|
-|#|far-lone-sails|FAR: Lone Sails|14,99€|80|2023-08-03 15h|2023-08-17 15h|
 |#|front-mission-1st-remake-124a24|FRONT MISSION 1st: Remake|31,39€|20|2023-08-15 15h|2023-08-22 15h|
 |#|fabular-once-upon-a-spacetime-b73ba1|Fabular: Once Upon a Spacetime|14,99€|20|2023-09-14 15h|2023-09-28 15h|
 |#|fantasy-world-td-851287|Fantasy World TD|4,49€|35|2023-09-05 15h|2023-09-12 15h|
@@ -119,7 +116,6 @@
 |#|life-after-death-b4e964|Life After Death|4,49€|40|2023-10-09 00h|2023-11-02 01h|
 |#|life-changer-64fc81|Life Changer|12,63€|22|2023-08-04 01h|2023-09-03 01h|
 |#|life-of-delta-44f4e4|Life of Delta|19,99€|30|2023-08-08 15h|2023-08-15 15h|
-|#|loop-hero|Loop Hero|14,99€|100|2023-08-03 15h|2023-08-10 15h|
 |#|lost-eidolons|Lost Eidolons|34,99€|30|2023-09-05 15h|2023-09-12 15h|
 |#|lost-words-beyond-the-page|Lost Words: Beyond the Page|14,99€|90|2023-08-08 15h|2023-08-15 15h|
 |#|lost-words-beyond-the-page|Lost Words: Beyond the Page|14,99€|90|2023-08-29 15h|2023-09-05 15h|
@@ -136,7 +132,6 @@
 |#|noob-the-factionless-ac623f|NOOB - The Factionless|29,99€|20|2023-08-08 15h|2023-08-15 15h|
 |#|need-for-spirit-drink-and-drive-simulator-db9660|Need for Spirit Drink and Drive Simulator|1,79€|45|2023-08-16 07h|2023-08-30 07h|
 |#|oirbo-c063b7|Oirbo|13,49€|15|2023-08-19 00h|2023-08-28 00h|
-|#|one-lonely-outpost-12afa6|One Lonely Outpost|19,99€|20|2023-08-03 16h|2023-08-17 16h|
 |#|orwell-ignorance-is-strength-486264|Orwell: Ignorance is Strength|7,99€|70|2023-09-14 15h|2023-09-28 15h|
 |#|orwell-keeping-an-eye-on-you|Orwell: Keeping an Eye on You|9,99€|100|2023-08-10 15h|2023-08-17 15h|
 |#|out-of-the-park-baseball-24-eb4cf8|Out of the Park Baseball 24|39,99€|50|2023-09-07 17h|2023-09-18 17h|
@@ -209,7 +204,6 @@
 |#|the-unbeatable-path-8af8fc|The Unbeatable Path|17,99€|40|2023-10-26 16h|2023-11-02 21h|
 |#|the-unbeatable-path-8af8fc|The Unbeatable Path|17,99€|30|2023-12-21 18h|2024-01-04 21h|
 |#|the-wolf-among-us|The Wolf Among Us|14,99€|60|2023-09-05 15h|2023-09-12 15h|
-|#|the-zombie-smasher-eeafeb|The Zombie Smasher|1,79€|50|2023-08-22 15h|2023-08-29 15h|
 |#|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-08-22 15h|2023-08-29 15h|
 |#|thomas-tales-912c23|Thomas' Tales|4,49€|70|2023-09-04 04h|2023-09-11 23h|
 |#|thomas-tales-912c23|Thomas' Tales|4,49€|70|2023-10-16 04h|2023-10-23 23h|
