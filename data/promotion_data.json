@@ -612,6 +612,15 @@
     "title": "FRONT MISSION 1st: Remake"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "fabular-once-upon-a-spacetime-b73ba1",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Fabular: Once Upon a Spacetime"
+  },
+  {
     "discountPercentage": 35,
     "endDate": "2023-09-12T15:00:00.000Z",
     "isFree": false,
@@ -1323,15 +1332,6 @@
     "title": "Project First Contact"
   },
   {
-    "discountPercentage": 25,
-    "endDate": "2023-08-10T03:59:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "railgrade",
-    "startDate": "2023-08-03T13:00:00.000Z",
-    "title": "RAILGRADE"
-  },
-  {
     "discountPercentage": 66,
     "endDate": "2023-08-15T15:00:00.000Z",
     "isFree": false,
@@ -1692,15 +1692,6 @@
     "title": "Tear of Time - Lost memory"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2023-09-02T13:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 449,
-    "slug": "teslas-best-friend-c2acf4",
-    "startDate": "2023-08-03T13:00:00.000Z",
-    "title": "Tesla's Best Friend"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -1899,24 +1890,6 @@
     "title": "Tiny Thor"
   },
   {
-    "discountPercentage": 30,
-    "endDate": "2023-09-02T13:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 899,
-    "slug": "torch-cave-828b66",
-    "startDate": "2023-08-03T13:00:00.000Z",
-    "title": "Torch Cave"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2023-08-10T13:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1349,
-    "slug": "towerful-a7bde9",
-    "startDate": "2023-08-03T13:00:00.000Z",
-    "title": "Towerful"
-  },
-  {
     "discountPercentage": 20,
     "endDate": "2023-09-02T14:00:00.000Z",
     "isFree": false,
@@ -2016,12 +1989,21 @@
     "title": "VELONE"
   },
   {
-    "discountPercentage": 40,
+    "discountPercentage": 35,
     "endDate": "2023-08-15T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1799,
     "slug": "vaudeville-86cff0",
     "startDate": "2023-08-08T15:00:00.000Z",
+    "title": "Vaudeville"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "vaudeville-86cff0",
+    "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Vaudeville"
   },
   {
@@ -2122,5 +2104,14 @@
     "slug": "zombie-rollerz-7aa027",
     "startDate": "2023-08-08T15:00:00.000Z",
     "title": "Zombie Rollerz: Pinball Heroes"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "shapez-0929c9",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "shapez"
   }
 ]
