@@ -27,6 +27,15 @@
     "title": "A Long Journey to an Uncertain End"
   },
   {
+    "discountPercentage": 15,
+    "endDate": "2023-08-22T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 539,
+    "slug": "a-second-before-the-war-55b226",
+    "startDate": "2023-08-15T15:00:00.000Z",
+    "title": "A Second Before The War"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2023-11-28T17:00:00.000Z",
     "isFree": false,
@@ -475,6 +484,15 @@
     "slug": "deponia-full-scrap-collection",
     "startDate": "2023-08-15T15:00:00.000Z",
     "title": "Deponia: Full Scrap Collection"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "dojoran-1e6fb7",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Dojoran"
   },
   {
     "discountPercentage": 40,
@@ -972,6 +990,15 @@
     "title": "KORAL"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "kana-quest-7defa0",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Kana Quest"
+  },
+  {
     "discountPercentage": 77,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -1197,6 +1224,15 @@
     "title": "Need for Spirit Drink and Drive Simulator"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2023-08-16T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "noroy-06d946",
+    "startDate": "2023-08-09T17:00:00.000Z",
+    "title": "NoRoY"
+  },
+  {
     "discountPercentage": 15,
     "endDate": "2023-08-28T00:00:00.000Z",
     "isFree": false,
@@ -1204,6 +1240,15 @@
     "slug": "oirbo-c063b7",
     "startDate": "2023-08-19T00:00:00.000Z",
     "title": "Oirbo"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "onsen-master-9e1323",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Onsen Master"
   },
   {
     "discountPercentage": 70,
@@ -1321,6 +1366,15 @@
     "slug": "poker-club-6e18ee",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Poker Club"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "princess-farmer-bd4c4e",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Princess Farmer"
   },
   {
     "discountPercentage": 67,
@@ -1618,6 +1672,15 @@
     "slug": "stick-it-to-the-man",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Stick It To The Man!"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-09-12T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "strawhart-776f4d",
+    "startDate": "2023-09-05T15:00:00.000Z",
+    "title": "Strawhart"
   },
   {
     "discountPercentage": 30,
