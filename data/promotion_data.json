@@ -1980,15 +1980,6 @@
     "title": "Joggernauts"
   },
   {
-    "discountPercentage": 75,
-    "endDate": "2023-09-28T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "jotun",
-    "startDate": "2023-09-14T15:00:00.000Z",
-    "title": "Jotun: Valhalla Edition"
-  },
-  {
     "discountPercentage": 15,
     "endDate": "2023-10-12T09:00:00.000Z",
     "isFree": false,
@@ -2158,6 +2149,15 @@
     "slug": "lego-brawls",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "LEGO\u00ae Brawls"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "layers-of-fears-85a02b",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Layers of Fear"
   },
   {
     "discountPercentage": 45,
@@ -2527,15 +2527,6 @@
     "slug": "no-longer-home",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "No Longer Home"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2023-08-16T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 899,
-    "slug": "noroy-06d946",
-    "startDate": "2023-08-09T17:00:00.000Z",
-    "title": "NoRoY"
   },
   {
     "discountPercentage": 15,
@@ -3396,15 +3387,6 @@
     "discountPercentage": 75,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
-    "originalPrice": 2499,
-    "slug": "spiritfarer",
-    "startDate": "2023-09-14T15:00:00.000Z",
-    "title": "Spiritfarer\u00ae: Farewell Edition"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-09-28T15:00:00.000Z",
-    "isFree": false,
     "originalPrice": 999,
     "slug": "splinter-cell-chaos-theory",
     "startDate": "2023-09-14T15:00:00.000Z",
@@ -3508,15 +3490,6 @@
     "slug": "suicide-guy-9f7963",
     "startDate": "2023-09-21T23:00:00.000Z",
     "title": "Suicide Guy"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-09-28T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "sundered-eldritch-edition",
-    "startDate": "2023-09-14T15:00:00.000Z",
-    "title": "Sundered: Eldritch Edition"
   },
   {
     "discountPercentage": 15,
