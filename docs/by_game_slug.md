@@ -230,7 +230,6 @@
 |#|jackbox-party-pack-8|The Jackbox Party Pack 8|23,99€|40|2023-09-14 15h|2023-09-28 15h|
 |#|jackbox-party-pack-9|The Jackbox Party Pack 9|29,99€|35|2023-09-14 15h|2023-09-28 15h|
 |#|joggernauts-a7767f|Joggernauts|11,99€|80|2023-09-14 15h|2023-09-28 15h|
-|#|jotun|Jotun: Valhalla Edition|14,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|journey-into-darkness-2b6bf8|Journey Into Darkness|4,49€|15|2023-09-28 09h|2023-10-12 09h|
 |#|kana-quest-7defa0|Kana Quest|13,49€|50|2023-09-14 15h|2023-09-28 15h|
 |#|kapital-sparks-of-revolution-70f07b|Kapital: Sparks of Revolution|19,99€|75|2023-09-14 15h|2023-09-28 15h|
@@ -248,6 +247,7 @@
 |#|kitaria-fables|Kitaria Fables|19,99€|67|2023-09-14 15h|2023-09-28 15h|
 |#|koral-63ea73|KORAL|7,99€|70|2023-09-05 17h|2023-09-14 13h|
 |#|kraken-academy|Kraken Academy!!|14,99€|60|2023-09-14 15h|2023-09-28 15h|
+|#|layers-of-fears-85a02b|Layers of Fear|29,99€|20|2023-09-14 15h|2023-09-28 15h|
 |#|lego-brawls|LEGO® Brawls|7,99€|50|2023-09-14 15h|2023-09-28 15h|
 |#|lets-build-a-zoo|Let's Build A Zoo|15,99€|45|2023-08-17 17h|2023-08-24 17h|
 |#|liberte-96a5e5|Liberte|17,99€|45|2023-09-14 15h|2023-09-28 15h|
@@ -291,7 +291,6 @@
 |#|nexomon-extinction|Nexomon: Extinction|19,99€|60|2023-09-14 15h|2023-09-28 15h|
 |#|nira-02f6ee|Nira|7,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|no-longer-home|No Longer Home|12,49€|60|2023-09-14 15h|2023-09-28 15h|
-|#|noroy-06d946|NoRoY|8,99€|40|2023-08-09 17h|2023-08-16 17h|
 |#|nova-strike|Nova Strike|9,99€|15|2023-09-14 15h|2023-09-28 15h|
 |#|oddballers|OddBallers™|19,99€|50|2023-09-14 15h|2023-09-28 15h|
 |#|oirbo-c063b7|Oirbo|13,49€|15|2023-08-19 00h|2023-08-28 00h|
@@ -389,7 +388,6 @@
 |#|spingun-843f78|SPINGUN|1,79€|35|2023-08-17 04h|2023-08-24 04h|
 |#|spirit-of-the-island|Spirit of the Island|24,99€|65|2023-09-05 15h|2023-09-12 15h|
 |#|spirit-of-the-island|Spirit of the Island|24,99€|70|2023-10-18 15h|2023-11-01 15h|
-|#|spiritfarer|Spiritfarer®: Farewell Edition|24,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|splinter-cell|Tom Clancy's Splinter Cell|4,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|splinter-cell-chaos-theory|Splinter Cell Chaos Theory|9,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|splinter-cell-double-agent|Tom Clancy’s Splinter Cell Double Agent|4,99€|75|2023-09-14 15h|2023-09-28 15h|
@@ -405,7 +403,6 @@
 |#|stygian-reign-of-the-old-ones-56e1d7|Stygian: Reign of the Old Ones|19,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|suicide-guy-9f7963|Suicide Guy|7,19€|30|2023-08-10 00h|2023-08-22 23h|
 |#|suicide-guy-9f7963|Suicide Guy|7,19€|35|2023-09-21 23h|2023-09-30 23h|
-|#|sundered-eldritch-edition|Sundered: Eldritch Edition|19,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|sunlight-scream-de8642|Sunlight Scream|5,39€|15|2023-09-01 15h|2023-09-08 15h|
 |#|superliminal|Superliminal|15,99€|50|2023-09-07 17h|2023-09-17 17h|
 |#|superpower-3|SuperPower 3|29,99€|34|2023-09-14 15h|2023-09-28 15h|
