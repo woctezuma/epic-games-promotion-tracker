@@ -1,7 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|flat-heroes-fec628|Flat Heroes|9,99€|50|2023-08-09 23h|2023-08-23 22h|
-|#|the-dragoness-command-of-the-flame-b3b544|The Dragoness Command Of The Flame|19,99€|10|2023-08-09 23h|2023-08-16 23h|
 |#|suicide-guy-9f7963|Suicide Guy|7,19€|30|2023-08-10 00h|2023-08-22 23h|
 |#|backrooms-doors-248a0f|Backrooms Doors|0,89€|30|2023-08-10 07h|2023-08-17 07h|
 |#|europa-universalis-iv|Europa Universalis IV|39,99€|100|2023-08-10 15h|2023-08-17 15h|
