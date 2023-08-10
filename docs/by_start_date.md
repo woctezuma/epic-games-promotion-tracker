@@ -37,6 +37,7 @@
 |#|spingun-843f78|SPINGUN|1,79€|35|2023-08-17 04h|2023-08-24 04h|
 |#|marble-it-up-ultra-7b5692|Marble It Up! Ultra|26,99€|10|2023-08-17 07h|2023-08-24 06h|
 |#|black-book|Black Book|24,99€|100|2023-08-17 15h|2023-08-24 15h|
+|#|dodo-peak-159276|Dodo Peak|8,99€|100|2023-08-17 15h|2023-08-24 15h|
 |#|shadow-gambit-the-cursed-crew-0bca60|Shadow Gambit: The Cursed Crew|39,99€|10|2023-08-17 16h|2023-08-23 16h|
 |#|lets-build-a-zoo|Let's Build A Zoo|15,99€|45|2023-08-17 17h|2023-08-24 17h|
 |#|im-looking-for-3024-people-1cdae4|I'm looking for 3024 people|3,99€|30|2023-08-17 22h|2023-09-01 22h|
@@ -278,6 +279,10 @@
 |#|joggernauts-a7767f|Joggernauts|11,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|just-cause-4|Just Cause 4 Reloaded|32,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|kana-quest-7defa0|Kana Quest|13,49€|50|2023-09-14 15h|2023-09-28 15h|
+|#|kao-the-kangaroo-62abe3|Kao the Kangaroo|29,99€|55|2023-09-14 15h|2023-09-28 15h|
+|#|kao-the-kangaroo-2000-rerelease-1b53f5|Kao the Kangaroo - 2000 re-release|1,99€|50|2023-09-14 15h|2023-09-28 15h|
+|#|kao-the-kangaroo-mystery-of-the-volcano-4b433a|Kao the Kangaroo - Mystery of the Volcano|1,99€|50|2023-09-14 15h|2023-09-28 15h|
+|#|kao-the-kangaroo-round-2-5d4d25|Kao the Kangaroo - Round 2|1,99€|50|2023-09-14 15h|2023-09-28 15h|
 |#|kapital-sparks-of-revolution-70f07b|Kapital: Sparks of Revolution|19,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|kardboard-kings-0962f8|Kardboard Kings|15,99€|30|2023-09-14 15h|2023-09-28 15h|
 |#|keep-in-mind-remastered-6ee77a|Keep in Mind Remastered|1,59€|60|2023-09-14 15h|2023-09-28 15h|
@@ -388,6 +393,7 @@
 |#|spongebob-squarepants-battle-for-bikini-bottom-rehydrated|SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated|29,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|spongebob-squarepants-the-cosmic-shake|SpongeBob SquarePants: The Cosmic Shake|39,99€|50|2023-09-14 15h|2023-09-28 15h|
 |#|star-vikings-forever-215b84|Star Vikings Forever|7,99€|85|2023-09-14 15h|2023-09-28 15h|
+|#|steel-rats-445306|Steel Rats|9,99€|90|2023-09-14 15h|2023-09-28 15h|
 |#|steelrising|Steelrising|49,99€|60|2023-09-14 15h|2023-09-28 15h|
 |#|stellar-interface-d14cc4|Stellar Interface|11,69€|75|2023-09-14 15h|2023-09-28 15h|
 |#|stick-it-to-the-man|Stick It To The Man!|5,99€|80|2023-09-14 15h|2023-09-28 15h|
@@ -429,7 +435,7 @@
 |#|the-settlers|The Settlers®: New Allies|59,99€|40|2023-09-14 15h|2023-09-28 15h|
 |#|the-spectrum-retreat|The Spectrum Retreat|12,99€|65|2023-09-14 15h|2023-09-28 15h|
 |#|the-tale-of-bistun-9d6c5f|The Tale of Bistun|13,99€|44|2023-09-14 15h|2023-09-28 15h|
-|#|the-valiant|The Valiant|39,99€|40|2023-09-14 15h|2023-09-28 15h|
+|#|the-valiant|The Valiant|24,99€|40|2023-09-14 15h|2023-09-28 15h|
 |#|this-is-the-police|This Is The Police|14,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|this-is-the-police-2|This Is The Police 2|14,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|this-is-the-president|This Is the President|14,99€|67|2023-09-14 15h|2023-09-28 15h|
@@ -455,9 +461,13 @@
 |#|trials-rising|Trials Rising Standard Edition|19,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|trigon-ce1936|Trigon: Space Story|19,99€|60|2023-09-14 15h|2023-09-28 15h|
 |#|turnip-boy-commits-tax-evasion-fb2084|Turnip Boy Commits Tax Evasion|11,99€|66|2023-09-14 15h|2023-09-28 15h|
+|#|urban-trial-freestyle-b30b3e|Urban Trial Freestyle|6,99€|90|2023-09-14 15h|2023-09-28 15h|
+|#|urban-trial-playground-41e403|Urban Trial Playground|6,99€|85|2023-09-14 15h|2023-09-28 15h|
+|#|urban-trial-tricky-eb0205|Urban Trial Tricky Deluxe Edition|19,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|valiant-hearts|Valiant Hearts: The Great War|14,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|vaudeville-86cff0|Vaudeville|17,99€|40|2023-09-14 15h|2023-09-28 15h|
 |#|viscerafest|Viscerafest|14,99€|20|2023-09-14 15h|2023-09-28 15h|
+|#|voodolls-46c6a8|Voodolls|14,99€|40|2023-09-14 15h|2023-09-28 15h|
 |#|we-are-football|WE ARE FOOTBALL|24,99€|60|2023-09-14 15h|2023-09-28 15h|
 |#|wrc-10|WRC 10 FIA World Rally Championship|49,99€|70|2023-09-14 15h|2023-09-28 15h|
 |#|wrc-8|WRC 8 FIA World Rally Championship|29,99€|80|2023-09-14 15h|2023-09-28 15h|

@@ -3,3 +3,4 @@
 |#|europa-universalis-iv|Europa Universalis IV|39,99€|100|2023-08-10 15h|2023-08-17 15h|
 |#|orwell-keeping-an-eye-on-you|Orwell: Keeping an Eye on You|9,99€|100|2023-08-10 15h|2023-08-17 15h|
 |#|black-book|Black Book|24,99€|100|2023-08-17 15h|2023-08-24 15h|
+|#|dodo-peak-159276|Dodo Peak|8,99€|100|2023-08-17 15h|2023-08-24 15h|
