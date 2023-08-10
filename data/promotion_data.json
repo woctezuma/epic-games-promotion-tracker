@@ -1107,6 +1107,15 @@
     "title": "Disco Elysium - The Final Cut"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2023-08-24T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 899,
+    "slug": "dodo-peak-159276",
+    "startDate": "2023-08-17T15:00:00.000Z",
+    "title": "Dodo Peak"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -2113,6 +2122,42 @@
     "slug": "kana-quest-7defa0",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Kana Quest"
+  },
+  {
+    "discountPercentage": 55,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "kao-the-kangaroo-62abe3",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Kao the Kangaroo"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 199,
+    "slug": "kao-the-kangaroo-2000-rerelease-1b53f5",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Kao the Kangaroo - 2000 re-release"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 199,
+    "slug": "kao-the-kangaroo-mystery-of-the-volcano-4b433a",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Kao the Kangaroo - Mystery of the Volcano"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 199,
+    "slug": "kao-the-kangaroo-round-2-5d4d25",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Kao the Kangaroo - Round 2"
   },
   {
     "discountPercentage": 75,
@@ -3636,6 +3681,15 @@
     "title": "Star Vikings Forever"
   },
   {
+    "discountPercentage": 90,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "steel-rats-445306",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Steel Rats"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -4260,7 +4314,7 @@
     "discountPercentage": 40,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
-    "originalPrice": 3999,
+    "originalPrice": 2499,
     "slug": "the-valiant",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "The Valiant"
@@ -4644,6 +4698,33 @@
     "title": "Upaon A Snakes Journey"
   },
   {
+    "discountPercentage": 90,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 699,
+    "slug": "urban-trial-freestyle-b30b3e",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Urban Trial Freestyle"
+  },
+  {
+    "discountPercentage": 85,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 699,
+    "slug": "urban-trial-playground-41e403",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Urban Trial Playground"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "urban-trial-tricky-eb0205",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Urban Trial Tricky Deluxe Edition"
+  },
+  {
     "discountPercentage": 35,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -4687,6 +4768,15 @@
     "slug": "viscerafest",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Viscerafest"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "voodolls-46c6a8",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Voodolls"
   },
   {
     "discountPercentage": 60,
