@@ -1323,6 +1323,15 @@
     "title": "Evan's Remains"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "everlasting-guilt-213534",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Everlasting Guilt"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -1483,6 +1492,24 @@
     "slug": "filthy-animals-f6c65c",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Filthy Animals | Heist Simulator"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2023-08-26T07:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "the-last-hope-atomic-bomb-crypto-war-d307f6",
+    "startDate": "2023-08-19T07:00:00.000Z",
+    "title": "Find the Oil Racing Edition"
+  },
+  {
+    "discountPercentage": 34,
+    "endDate": "2023-08-19T07:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "fix-me-up-doc-dark-humor-9ebac0",
+    "startDate": "2023-08-12T07:00:00.000Z",
+    "title": "Fix Me Up Doc - Dark Humor"
   },
   {
     "discountPercentage": 80,
@@ -3924,6 +3951,15 @@
     "title": "The Division 2 Standard Edition"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2023-08-29T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "the-elder-scrolls-online",
+    "startDate": "2023-08-22T15:00:00.000Z",
+    "title": "The Elder Scrolls Online"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -4552,6 +4588,15 @@
     "slug": "trine-5",
     "startDate": "2023-08-11T13:00:00.000Z",
     "title": "Trine 5: A Clockwork Conspiracy"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-09-10T10:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2239,
+    "slug": "trinity-fusion-e036cf",
+    "startDate": "2023-08-11T13:00:00.000Z",
+    "title": "Trinity Fusion"
   },
   {
     "discountPercentage": 66,
