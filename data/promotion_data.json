@@ -450,13 +450,13 @@
     "title": "BROK the InvestiGator"
   },
   {
-    "discountPercentage": 30,
-    "endDate": "2023-08-17T07:00:00.000Z",
+    "discountPercentage": 80,
+    "endDate": "2023-09-07T17:00:00.000Z",
     "isFree": false,
-    "originalPrice": 89,
-    "slug": "backrooms-doors-248a0f",
-    "startDate": "2023-08-10T07:00:00.000Z",
-    "title": "Backrooms Doors"
+    "originalPrice": 5999,
+    "slug": "back-4-blood",
+    "startDate": "2023-08-31T17:00:00.000Z",
+    "title": "Back 4 Blood: Standard Edition"
   },
   {
     "discountPercentage": 95,
@@ -493,6 +493,33 @@
     "slug": "baldurs-gate-enhanced-edition",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Baldur's Gate: Enhanced Edition"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-09-07T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "batman-arkham-asylum",
+    "startDate": "2023-08-31T17:00:00.000Z",
+    "title": "Batman Arkham Asylum Game of the Year Edition"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-09-07T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "batman-arkham-city",
+    "startDate": "2023-08-31T17:00:00.000Z",
+    "title": "Batman Arkham City Game of the Year Edition"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2023-09-07T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "batman-arkham-knight",
+    "startDate": "2023-08-31T17:00:00.000Z",
+    "title": "Batman Arkham Knight"
   },
   {
     "discountPercentage": 75,
@@ -592,6 +619,15 @@
     "slug": "black-book",
     "startDate": "2023-08-17T15:00:00.000Z",
     "title": "Black Book"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "blair-witch",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Blair Witch"
   },
   {
     "discountPercentage": 60,
@@ -1666,6 +1702,15 @@
   },
   {
     "discountPercentage": 75,
+    "endDate": "2023-09-07T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "gotham-knights",
+    "startDate": "2023-08-31T17:00:00.000Z",
+    "title": "Gotham Knights"
+  },
+  {
+    "discountPercentage": 75,
     "endDate": "2023-09-19T10:00:00.000Z",
     "isFree": false,
     "originalPrice": 1199,
@@ -1726,6 +1771,15 @@
     "slug": "hiveswap-friendsim-ec9c82",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Hiveswap Friendsim"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2023-09-07T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "hogwarts-legacy",
+    "startDate": "2023-08-31T17:00:00.000Z",
+    "title": "Hogwarts Legacy"
   },
   {
     "discountPercentage": 70,
@@ -1980,6 +2034,15 @@
     "title": "Joggernauts"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "jotun",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Jotun: Valhalla Edition"
+  },
+  {
     "discountPercentage": 15,
     "endDate": "2023-10-12T09:00:00.000Z",
     "isFree": false,
@@ -1987,6 +2050,15 @@
     "slug": "journey-into-darkness-2b6bf8",
     "startDate": "2023-09-28T09:00:00.000Z",
     "title": "Journey Into Darkness"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3299,
+    "slug": "just-cause-4",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Just Cause 4 Reloaded"
   },
   {
     "discountPercentage": 70,
@@ -2142,6 +2214,33 @@
     "title": "Kraken Academy!!"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2023-09-07T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "lego-batman-2",
+    "startDate": "2023-08-31T17:00:00.000Z",
+    "title": "LEGO\u00ae Batman\u2122 2: DC Super Heroes"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-09-07T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "lego-batman-3",
+    "startDate": "2023-08-31T17:00:00.000Z",
+    "title": "LEGO\u00ae Batman\u2122 3: Beyond Gotham"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-09-07T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "lego-batman",
+    "startDate": "2023-08-31T17:00:00.000Z",
+    "title": "LEGO\u00ae Batman\u2122: The Videogame"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -2149,6 +2248,15 @@
     "slug": "lego-brawls",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "LEGO\u00ae Brawls"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2023-09-07T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "lego-star-wars-the-skywalker-saga",
+    "startDate": "2023-08-31T17:00:00.000Z",
+    "title": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   {
     "discountPercentage": 20,
@@ -2556,6 +2664,15 @@
     "title": "Nova Strike"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "outriders",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "OUTRIDERS"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -2563,6 +2680,15 @@
     "slug": "overpass",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "OVERPASS\u2122"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "observer-system-redux",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Observer: System Redux"
   },
   {
     "discountPercentage": 50,
@@ -3403,6 +3529,15 @@
   },
   {
     "discountPercentage": 75,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "spiritfarer",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Spiritfarer\u00ae: Farewell Edition"
+  },
+  {
+    "discountPercentage": 75,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 999,
@@ -3499,6 +3634,15 @@
     "slug": "suicide-guy-9f7963",
     "startDate": "2023-09-21T23:00:00.000Z",
     "title": "Suicide Guy"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "sundered-eldritch-edition",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Sundered: Eldritch Edition"
   },
   {
     "discountPercentage": 15,
@@ -3904,6 +4048,15 @@
     "slug": "the-magnificent-trufflepigs",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "The Magnificent Trufflepigs"
+  },
+  {
+    "discountPercentage": 44,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4799,
+    "slug": "the-medium",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "The Medium"
   },
   {
     "discountPercentage": 85,
