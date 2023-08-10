@@ -1116,6 +1116,15 @@
     "title": "Dread Templar"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2023-08-17T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "dros-6da0b2",
+    "startDate": "2023-08-11T01:30:00.000Z",
+    "title": "Dros"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -2313,6 +2322,15 @@
     "title": "Mall of Mayhem"
   },
   {
+    "discountPercentage": 10,
+    "endDate": "2023-08-24T06:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2699,
+    "slug": "marble-it-up-ultra-7b5692",
+    "startDate": "2023-08-17T07:00:00.000Z",
+    "title": "Marble It Up! Ultra"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2023-08-22T15:00:00.000Z",
     "isFree": false,
@@ -3472,15 +3490,6 @@
     "slug": "stygian-reign-of-the-old-ones-56e1d7",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Stygian: Reign of the Old Ones"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2023-08-22T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 719,
-    "slug": "suicide-guy-9f7963",
-    "startDate": "2023-08-10T00:00:00.000Z",
-    "title": "Suicide Guy"
   },
   {
     "discountPercentage": 35,
