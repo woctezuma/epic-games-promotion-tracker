@@ -1,6 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|backrooms-doors-248a0f|Backrooms Doors|0,89€|30|2023-08-10 07h|2023-08-17 07h|
 |#|europa-universalis-iv|Europa Universalis IV|39,99€|100|2023-08-10 15h|2023-08-17 15h|
 |#|orwell-keeping-an-eye-on-you|Orwell: Keeping an Eye on You|9,99€|100|2023-08-10 15h|2023-08-17 15h|
 |#|bus-world-5de29e|Bus World|17,99€|40|2023-08-10 16h|2023-08-17 16h|
@@ -67,6 +66,16 @@
 |#|rainbow-six-siege|Tom Clancy's Rainbow Six® Siege|19,99€|60|2023-08-29 18h|2023-09-05 18h|
 |#|two-skateboards-driving-simulator-c0ea1f|Two Skateboards Driving Simulator|1,79€|55|2023-08-23 07h|2023-09-06 07h|
 |#|outbreak-endless-nightmares-restless-dreams-40507b|Outbreak Endless Nightmares Restless Dreams|13,49€|40|2023-08-30 14h|2023-09-06 14h|
+|#|back-4-blood|Back 4 Blood: Standard Edition|59,99€|80|2023-08-31 17h|2023-09-07 17h|
+|#|batman-arkham-asylum|Batman Arkham Asylum Game of the Year Edition|19,99€|75|2023-08-31 17h|2023-09-07 17h|
+|#|batman-arkham-city|Batman Arkham City Game of the Year Edition|19,99€|75|2023-08-31 17h|2023-09-07 17h|
+|#|batman-arkham-knight|Batman Arkham Knight|19,99€|80|2023-08-31 17h|2023-09-07 17h|
+|#|gotham-knights|Gotham Knights|59,99€|75|2023-08-31 17h|2023-09-07 17h|
+|#|hogwarts-legacy|Hogwarts Legacy|59,99€|30|2023-08-31 17h|2023-09-07 17h|
+|#|lego-batman-2|LEGO® Batman™ 2: DC Super Heroes|19,99€|75|2023-08-31 17h|2023-09-07 17h|
+|#|lego-batman-3|LEGO® Batman™ 3: Beyond Gotham|19,99€|75|2023-08-31 17h|2023-09-07 17h|
+|#|lego-batman|LEGO® Batman™: The Videogame|19,99€|75|2023-08-31 17h|2023-09-07 17h|
+|#|lego-star-wars-the-skywalker-saga|LEGO® Star Wars™: The Skywalker Saga|49,99€|67|2023-08-31 17h|2023-09-07 17h|
 |#|sunlight-scream-de8642|Sunlight Scream|5,39€|15|2023-09-01 15h|2023-09-08 15h|
 |#|life-after-death-b4e964|Life After Death|4,49€|40|2023-08-20 00h|2023-09-09 00h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|35|2023-09-04 10h|2023-09-11 10h|
@@ -154,6 +163,7 @@
 |#|beyond-good-and-evil|Beyond Good & Evil|4,99€|70|2023-09-14 15h|2023-09-28 15h|
 |#|big-pharma|Big Pharma|19,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|biped|Biped|12,49€|70|2023-09-14 15h|2023-09-28 15h|
+|#|blair-witch|Blair Witch|29,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|blind-fate-edo-no-yami-87e748|Blind Fate: Edo no Yami|15,99€|60|2023-09-14 15h|2023-09-28 15h|
 |#|blood-bowl-3|Blood Bowl 3|29,99€|25|2023-09-14 15h|2023-09-28 15h|
 |#|bloons-td-6-bf95a0|Bloons TD 6|10,99€|40|2023-09-14 15h|2023-09-28 15h|
@@ -255,6 +265,7 @@
 |#|island-farmer-ce8ee6|Island Farmer|1,79€|30|2023-09-14 15h|2023-09-28 15h|
 |#|jackbox-party-pack-3|Jackbox Party Pack 3|22,99€|40|2023-09-14 15h|2023-09-28 15h|
 |#|joggernauts-a7767f|Joggernauts|11,99€|80|2023-09-14 15h|2023-09-28 15h|
+|#|just-cause-4|Just Cause 4 Reloaded|32,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|kana-quest-7defa0|Kana Quest|13,49€|50|2023-09-14 15h|2023-09-28 15h|
 |#|kapital-sparks-of-revolution-70f07b|Kapital: Sparks of Revolution|19,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|kardboard-kings-0962f8|Kardboard Kings|15,99€|30|2023-09-14 15h|2023-09-28 15h|
@@ -304,7 +315,9 @@
 |#|nira-02f6ee|Nira|7,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|no-longer-home|No Longer Home|12,49€|60|2023-09-14 15h|2023-09-28 15h|
 |#|nova-strike|Nova Strike|9,99€|15|2023-09-14 15h|2023-09-28 15h|
+|#|outriders|OUTRIDERS|39,99€|60|2023-09-14 15h|2023-09-28 15h|
 |#|overpass|OVERPASS™|39,99€|75|2023-09-14 15h|2023-09-28 15h|
+|#|observer-system-redux|Observer: System Redux|24,99€|50|2023-09-14 15h|2023-09-28 15h|
 |#|oddballers|OddBallers™|19,99€|50|2023-09-14 15h|2023-09-28 15h|
 |#|one-more-dungeon-2-532228|One More Dungeon 2|13,49€|50|2023-09-14 15h|2023-09-28 15h|
 |#|onsen-master-9e1323|Onsen Master|11,99€|30|2023-09-14 15h|2023-09-28 15h|
@@ -395,6 +408,7 @@
 |#|the-life-and-suffering-of-sir-brante|The Life and Suffering of Sir Brante|19,99€|60|2023-09-14 15h|2023-09-28 15h|
 |#|the-mageseeker-a-league-of-legends-story|The Mageseeker: A League of Legends Story™|29,99€|20|2023-09-14 15h|2023-09-28 15h|
 |#|the-magnificent-trufflepigs|The Magnificent Trufflepigs|9,99€|50|2023-09-14 15h|2023-09-28 15h|
+|#|the-medium|The Medium|47,99€|44|2023-09-14 15h|2023-09-28 15h|
 |#|the-metronomicon-766679|The Metronomicon|15,99€|85|2023-09-14 15h|2023-09-28 15h|
 |#|the-pale-beyond-e09cae|The Pale Beyond|17,99€|25|2023-09-14 15h|2023-09-28 15h|
 |#|the-pegasus-expedition-224279|The Pegasus Expedition|19,99€|15|2023-09-14 15h|2023-09-28 15h|
@@ -477,6 +491,7 @@
 |#|dark-light|Dark Light|15,29€|30|2023-10-18 15h|2023-11-01 15h|
 |#|gone-home|Gone Home|11,99€|75|2023-10-18 15h|2023-11-01 15h|
 |#|hordecore|HordeCore|9,99€|70|2023-10-18 15h|2023-11-01 15h|
+|#|jotun|Jotun: Valhalla Edition|14,99€|75|2023-10-18 15h|2023-11-01 15h|
 |#|noroy-06d946|NoRoY|8,99€|50|2023-10-18 15h|2023-11-01 15h|
 |#|pathfinder-wrath-of-the-righteous|Pathfinder: Wrath of the Righteous - Enhanced Edition|39,99€|70|2023-10-18 15h|2023-11-01 15h|
 |#|soma|SOMA|24,99€|80|2023-10-18 15h|2023-11-01 15h|
@@ -485,7 +500,9 @@
 |#|sherlock-holmes-the-awakened|Sherlock Holmes The Awakened|39,99€|40|2023-10-18 15h|2023-11-01 15h|
 |#|skotos-455463|Skotos|8,99€|50|2023-10-18 15h|2023-11-01 15h|
 |#|spirit-of-the-island|Spirit of the Island|24,99€|70|2023-10-18 15h|2023-11-01 15h|
+|#|spiritfarer|Spiritfarer®: Farewell Edition|24,99€|75|2023-10-18 15h|2023-11-01 15h|
 |#|stubbs-the-zombie-in-rebel-without-a-pulse|Stubbs the Zombie in Rebel Without a Pulse|15,99€|65|2023-10-18 15h|2023-11-01 15h|
+|#|sundered-eldritch-edition|Sundered: Eldritch Edition|19,99€|75|2023-10-18 15h|2023-11-01 15h|
 |#|tacoma|Tacoma|16,99€|75|2023-10-18 15h|2023-11-01 15h|
 |#|tandem-a-tale-of-shadows-c3f55e|Tandem: A Tale of Shadows|8,99€|50|2023-10-18 15h|2023-11-01 15h|
 |#|the-creepy-syndrome-90fc19|The Creepy Syndrome|4,49€|50|2023-10-18 15h|2023-11-01 15h|
