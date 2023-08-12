@@ -801,6 +801,15 @@
     "title": "Carto"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "chased-by-darkness-d00d26",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Chased by Darkness"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -1564,15 +1573,6 @@
     "slug": "the-last-hope-atomic-bomb-crypto-war-d307f6",
     "startDate": "2023-08-19T07:00:00.000Z",
     "title": "Find the Oil Racing Edition"
-  },
-  {
-    "discountPercentage": 34,
-    "endDate": "2023-08-19T07:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 269,
-    "slug": "fix-me-up-doc-dark-humor-9ebac0",
-    "startDate": "2023-08-12T07:00:00.000Z",
-    "title": "Fix Me Up Doc - Dark Humor"
   },
   {
     "discountPercentage": 80,
@@ -3015,6 +3015,15 @@
     "title": "Outbreak Contagious Memories"
   },
   {
+    "discountPercentage": 65,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2699,
+    "slug": "outbreak-contagious-memories-9e3c2a",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Outbreak Contagious Memories"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2023-11-01T14:00:00.000Z",
     "isFree": false,
@@ -3030,6 +3039,15 @@
     "originalPrice": 1349,
     "slug": "outbreak-endless-nightmares-restless-dreams-40507b",
     "startDate": "2023-08-30T14:00:00.000Z",
+    "title": "Outbreak Endless Nightmares Restless Dreams"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "outbreak-endless-nightmares-restless-dreams-40507b",
+    "startDate": "2023-10-18T15:00:00.000Z",
     "title": "Outbreak Endless Nightmares Restless Dreams"
   },
   {
@@ -3708,15 +3726,6 @@
     "title": "Skotos"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2023-08-18T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2200,
-    "slug": "slavicpunk-oldtimer-10ed1c",
-    "startDate": "2023-08-11T18:00:00.000Z",
-    "title": "SlavicPunk: Oldtimer"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -3823,6 +3832,15 @@
     "slug": "spirit-of-the-island",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "Spirit of the Island"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2023-08-21T22:30:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "spirit-of-the-north-f58a66",
+    "startDate": "2023-08-15T00:00:00.000Z",
+    "title": "Spirit of the North"
   },
   {
     "discountPercentage": 75,
@@ -4197,7 +4215,7 @@
     "discountPercentage": 70,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
-    "originalPrice": 999,
+    "originalPrice": 1349,
     "slug": "the-darkside-detective-02fd5a",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "The Darkside Detective"
