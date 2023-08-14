@@ -207,6 +207,15 @@
     "title": "Ancient Enemy"
   },
   {
+    "discountPercentage": 35,
+    "endDate": "2023-08-22T13:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 719,
+    "slug": "angelo-and-deemon-one-hell-of-a-quest-94d7e2",
+    "startDate": "2023-08-15T14:00:00.000Z",
+    "title": "Angelo and Deemon: One Hell of a Quest"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2023-08-29T11:00:00.000Z",
     "isFree": false,
@@ -801,6 +810,15 @@
     "title": "Carto"
   },
   {
+    "discountPercentage": 66,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "castlestorm2",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "CastleStorm 2"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -871,6 +889,15 @@
     "slug": "chronos-before-the-ashes",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Chronos: Before the Ashes"
+  },
+  {
+    "discountPercentage": 66,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "circus-electrique",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Circus Electrique"
   },
   {
     "discountPercentage": 40,
@@ -1233,6 +1260,15 @@
     "title": "Drawful 2"
   },
   {
+    "discountPercentage": 66,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "dread-nautical",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Dread Nautical"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -1456,6 +1492,15 @@
     "slug": "front-mission-1st-remake-124a24",
     "startDate": "2023-08-15T15:00:00.000Z",
     "title": "FRONT MISSION 1st: Remake"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2023-09-12T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 629,
+    "slug": "fur-squadron-0042b8",
+    "startDate": "2023-09-05T15:00:00.000Z",
+    "title": "FUR Squadron"
   },
   {
     "discountPercentage": 20,
@@ -1825,6 +1870,15 @@
     "slug": "gotham-knights",
     "startDate": "2023-08-31T17:00:00.000Z",
     "title": "Gotham Knights"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 6999,
+    "slug": "hitman-3-woa",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "HITMAN World of Assassination"
   },
   {
     "discountPercentage": 75,
@@ -2835,6 +2889,15 @@
     "title": "Need for Spirit Drink and Drive Simulator"
   },
   {
+    "discountPercentage": 34,
+    "endDate": "2023-09-02T07:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "need-for-spirit-offroad-edition-7eee16",
+    "startDate": "2023-08-26T07:00:00.000Z",
+    "title": "Need for Spirit: Off-Road Edition"
+  },
+  {
     "discountPercentage": 67,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -2959,6 +3022,15 @@
     "slug": "onsen-master-9e1323",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Onsen Master"
+  },
+  {
+    "discountPercentage": 66,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "operencia",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Operencia: The Stolen Sun"
   },
   {
     "discountPercentage": 70,
@@ -3456,6 +3528,15 @@
     "title": "Rising Hell"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-08-22T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "rogue-invader-68d438",
+    "startDate": "2023-08-15T15:00:00.000Z",
+    "title": "Rogue Invader"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -3517,6 +3598,15 @@
     "slug": "scary-and-dot-86b1ff",
     "startDate": "2023-10-01T22:00:00.000Z",
     "title": "SCARY AND DOT"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2699,
+    "slug": "snwbrd-freestyle-snowboarding-2803cf",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "SNWBRD: Freestyle Snowboarding"
   },
   {
     "discountPercentage": 80,
@@ -3724,6 +3814,15 @@
     "slug": "skotos-455463",
     "startDate": "2023-12-02T07:00:00.000Z",
     "title": "Skotos"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-08-23T23:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1259,
+    "slug": "skye-tales-02bf5b",
+    "startDate": "2023-08-16T23:00:00.000Z",
+    "title": "Skye Tales"
   },
   {
     "discountPercentage": 50,
@@ -4273,6 +4372,15 @@
     "slug": "the-galactic-junkers-7fef21",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "The Galactic Junkers"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-08-30T23:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "the-gravehouse-37f09e",
+    "startDate": "2023-08-15T23:00:00.000Z",
+    "title": "The Gravehouse"
   },
   {
     "discountPercentage": 50,
@@ -5283,6 +5391,15 @@
     "title": "Xenonauts 2"
   },
   {
+    "discountPercentage": 66,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4799,
+    "slug": "zen-triple-rpg-bundle",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "ZEN Triple RPG Bundle"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -5326,6 +5443,15 @@
     "slug": "shapez-0929c9",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "shapez"
+  },
+  {
+    "discountPercentage": 65,
+    "endDate": "2023-08-31T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "thehunter-call-of-the-wild",
+    "startDate": "2023-08-24T15:00:00.000Z",
+    "title": "theHunter: Call of the Wild\u2122"
   },
   {
     "discountPercentage": 42,
