@@ -3996,15 +3996,6 @@
     "title": "Skotos"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2023-08-23T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1259,
-    "slug": "skye-tales-02bf5b",
-    "startDate": "2023-08-16T23:00:00.000Z",
-    "title": "Skye Tales"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
