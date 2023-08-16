@@ -441,6 +441,15 @@
     "title": "Awesome Pea 2"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2023-08-23T08:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "aya-and-naya-b7791e",
+    "startDate": "2023-08-17T20:00:00.000Z",
+    "title": "Aya & Naya"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
