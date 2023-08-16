@@ -256,6 +256,7 @@
 |#|ironclads-ii-war-of-the-pacific-0b2081|Ironclads II War of the Pacific|8,99€|80|2023-09-04 14h|2023-09-18 04h|
 |#|island-cities-0a3026|Island Cities|1,79€|30|2023-09-05 15h|2023-09-12 15h|
 |#|island-farmer-ce8ee6|Island Farmer|1,79€|30|2023-09-14 15h|2023-09-28 15h|
+|#|its-a-wrap-f392ae|It's a Wrap!|16,19€|15|2023-08-23 17h|2023-08-30 17h|
 |#|jackbox-party-pack-3|Jackbox Party Pack 3|22,99€|40|2023-09-14 15h|2023-09-28 15h|
 |#|joggernauts-a7767f|Joggernauts|11,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|jotun|Jotun: Valhalla Edition|14,99€|75|2023-10-18 15h|2023-11-01 15h|
