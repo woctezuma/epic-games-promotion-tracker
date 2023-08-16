@@ -2,7 +2,6 @@
 |---|---|---|---|---|---|---|
 |#|aya-and-naya-b7791e|Aya & Naya|2,69€|20|2023-08-17 20h|2023-08-23 08h|
 |#|shadow-gambit-the-cursed-crew-0bca60|Shadow Gambit: The Cursed Crew|39,99€|10|2023-08-17 16h|2023-08-23 16h|
-|#|skye-tales-02bf5b|Skye Tales|12,59€|20|2023-08-16 23h|2023-08-23 23h|
 |#|spingun-843f78|SPINGUN|1,79€|35|2023-08-17 04h|2023-08-24 04h|
 |#|marble-it-up-ultra-7b5692|Marble It Up! Ultra|26,99€|10|2023-08-17 07h|2023-08-24 06h|
 |#|mortal-street-fighter-39c02b|Mortal Street Fighter|0,89€|20|2023-08-17 21h|2023-08-24 09h|
