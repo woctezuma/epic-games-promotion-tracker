@@ -2304,6 +2304,15 @@
     "title": "Island Farmer"
   },
   {
+    "discountPercentage": 15,
+    "endDate": "2023-08-30T17:30:00.000Z",
+    "isFree": false,
+    "originalPrice": 1619,
+    "slug": "its-a-wrap-f392ae",
+    "startDate": "2023-08-23T17:30:00.000Z",
+    "title": "It's a Wrap!"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
