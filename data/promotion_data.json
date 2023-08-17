@@ -189,6 +189,15 @@
     "title": "Amnesia: The Dark Descent"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "among-us",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Among Us"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -1902,7 +1911,7 @@
     "discountPercentage": 10,
     "endDate": "2023-08-29T17:00:00.000Z",
     "isFree": false,
-    "originalPrice": 2239,
+    "originalPrice": 2499,
     "slug": "fort-solis-9164ca",
     "startDate": "2023-08-22T17:00:00.000Z",
     "title": "Fort Solis"
@@ -3060,6 +3069,15 @@
     "title": "Men of War: Vietnam - Special edition"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2023-09-21T23:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "miasma-chronicles",
+    "startDate": "2023-09-07T16:00:00.000Z",
+    "title": "Miasma Chronicles"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -3283,6 +3301,15 @@
     "slug": "noroy-06d946",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "NoRoY"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-09-19T13:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "nour",
+    "startDate": "2023-09-12T13:00:00.000Z",
+    "title": "Nour: Play with Your Food"
   },
   {
     "discountPercentage": 15,
@@ -4278,7 +4305,7 @@
     "discountPercentage": 50,
     "endDate": "2023-09-12T15:00:00.000Z",
     "isFree": false,
-    "originalPrice": 2499,
+    "originalPrice": 1619,
     "slug": "spirit-of-the-island",
     "startDate": "2023-09-05T15:00:00.000Z",
     "title": "Spirit of the Island"
@@ -4287,7 +4314,7 @@
     "discountPercentage": 50,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
-    "originalPrice": 2499,
+    "originalPrice": 1619,
     "slug": "spirit-of-the-island",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "Spirit of the Island"
