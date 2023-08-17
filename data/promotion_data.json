@@ -2889,6 +2889,15 @@
     "title": "Lila's Sky Ark"
   },
   {
+    "discountPercentage": 15,
+    "endDate": "2023-10-26T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "lines-guarder-174742",
+    "startDate": "2023-09-26T17:00:00.000Z",
+    "title": "Line's Guarder"
+  },
+  {
     "discountPercentage": 66,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -3049,15 +3058,6 @@
     "slug": "men-of-war-vietnam-a61b4f",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Men of War: Vietnam - Special edition"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2023-09-22T08:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 4999,
-    "slug": "miasma-chronicles",
-    "startDate": "2023-09-07T16:00:00.000Z",
-    "title": "Miasma Chronicles"
   },
   {
     "discountPercentage": 75,
@@ -3622,7 +3622,7 @@
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1999,
-    "slug": "227fefdce66b4a6c84ccc877bb42659b",
+    "slug": "poker-club-6e18ee",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Poker Club"
   },
