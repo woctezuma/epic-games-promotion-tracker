@@ -4023,15 +4023,6 @@
     "title": "Sephonie"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2023-09-22T08:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2499,
-    "slug": "serial-cleaners",
-    "startDate": "2023-09-07T16:00:00.000Z",
-    "title": "Serial Cleaners"
-  },
-  {
     "discountPercentage": 55,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -4327,15 +4318,6 @@
     "slug": "strawhart-776f4d",
     "startDate": "2023-09-05T15:00:00.000Z",
     "title": "Strawhart"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2023-09-22T08:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3499,
-    "slug": "stray-blade",
-    "startDate": "2023-09-07T16:00:00.000Z",
-    "title": "Stray Blade"
   },
   {
     "discountPercentage": 65,
