@@ -630,15 +630,6 @@
     "title": "Biped"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2023-08-24T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 2499,
-    "slug": "black-book",
-    "startDate": "2023-08-17T15:00:00.000Z",
-    "title": "Black Book"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -1240,15 +1231,6 @@
     "slug": "disney-dreamlight-valley",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Disney Dreamlight Valley"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2023-08-24T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 899,
-    "slug": "dodo-peak-159276",
-    "startDate": "2023-08-17T15:00:00.000Z",
-    "title": "Dodo Peak"
   },
   {
     "discountPercentage": 50,
@@ -2158,6 +2140,15 @@
     "slug": "hogwarts-legacy",
     "startDate": "2023-08-31T17:00:00.000Z",
     "title": "Hogwarts Legacy"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2023-08-31T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 4599,
+    "slug": "homeworld-deserts-of-kharak",
+    "startDate": "2023-08-24T15:00:00.000Z",
+    "title": "Homeworld: Deserts of Kharak"
   },
   {
     "discountPercentage": 70,
@@ -4039,15 +4030,6 @@
     "slug": "seven-enhanced-edition-9ba7c7",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Seven - Enhanced Edition"
-  },
-  {
-    "discountPercentage": 10,
-    "endDate": "2023-08-23T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "shadow-gambit-the-cursed-crew-0bca60",
-    "startDate": "2023-08-17T16:00:00.000Z",
-    "title": "Shadow Gambit: The Cursed Crew"
   },
   {
     "discountPercentage": 75,
