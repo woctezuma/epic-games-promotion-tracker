@@ -21,6 +21,7 @@
 |#|the-elder-scrolls-online|The Elder Scrolls Online|19,99€|70|2023-08-22 15h|2023-08-29 15h|
 |#|thermonuclear-30a1d0|Thermonuclear|5,99€|50|2023-08-22 15h|2023-08-29 15h|
 |#|zerog-gunfight-6386d2|Zero-G Gunfight|4,49€|10|2023-08-22 15h|2023-08-29 15h|
+|#|fort-solis-9164ca|Fort Solis|22,39€|10|2023-08-22 17h|2023-08-29 17h|
 |#|its-a-wrap-f392ae|It's a Wrap!|16,19€|15|2023-08-23 17h|2023-08-30 17h|
 |#|duel-princess-ec50b3|Duel Princess|22,39€|40|2023-08-24 07h|2023-08-31 07h|
 |#|evalinathe-sorceress-a9a60a|Evalina The Sorceress|1,79€|30|2023-08-17 18h|2023-08-31 08h|
