@@ -70,7 +70,6 @@
 |#|beyond-good-and-evil|Beyond Good & Evil|4,99€|70|2023-09-14 15h|2023-09-28 15h|
 |#|big-pharma|Big Pharma|19,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|biped|Biped|12,49€|70|2023-09-14 15h|2023-09-28 15h|
-|#|black-book|Black Book|24,99€|100|2023-08-17 15h|2023-08-24 15h|
 |#|blair-witch|Blair Witch|29,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|blind-fate-edo-no-yami-87e748|Blind Fate: Edo no Yami|15,99€|60|2023-09-14 15h|2023-09-28 15h|
 |#|blood-bowl-3|Blood Bowl 3|29,99€|25|2023-09-14 15h|2023-09-28 15h|
@@ -138,7 +137,6 @@
 |#|disco-elysium|Disco Elysium - The Final Cut|39,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|disgaea-6-complete|Disgaea 6 Complete|59,99€|35|2023-10-02 17h|2023-10-16 17h|
 |#|disney-dreamlight-valley|Disney Dreamlight Valley|29,99€|30|2023-09-14 15h|2023-09-28 15h|
-|#|dodo-peak-159276|Dodo Peak|8,99€|100|2023-08-17 15h|2023-08-24 15h|
 |#|dojoran-1e6fb7|Dojoran|4,49€|50|2023-09-14 15h|2023-09-28 15h|
 |#|doki-doki-literature-club-plus|Doki Doki Literature Club Plus!|12,49€|20|2023-09-01 16h|2023-09-09 06h|
 |#|doki-doki-literature-club-plus|Doki Doki Literature Club Plus!|12,49€|25|2023-10-18 15h|2023-11-01 15h|
@@ -240,6 +238,7 @@
 |#|hextech-mayhem-a-league-of-legends-story |Hextech Mayhem: A League of Legends Story™|8,99€|50|2023-09-14 15h|2023-09-28 15h|
 |#|hiveswap-friendsim-ec9c82|Hiveswap Friendsim|11,69€|80|2023-09-14 15h|2023-09-28 15h|
 |#|hogwarts-legacy|Hogwarts Legacy|59,99€|30|2023-08-31 17h|2023-09-07 17h|
+|#|homeworld-deserts-of-kharak|Homeworld: Deserts of Kharak|45,99€|100|2023-08-24 15h|2023-08-31 15h|
 |#|hordecore|HordeCore|9,99€|70|2023-10-18 15h|2023-11-01 15h|
 |#|house-party-ae8b27|House Party|24,99€|50|2023-09-14 15h|2023-09-28 15h|
 |#|human-resource-machine|Human Resource Machine|11,99€|50|2023-09-14 15h|2023-09-28 15h|
@@ -449,7 +448,6 @@
 |#|sephonie-6ab6f7|Sephonie|15,99€|30|2023-09-14 15h|2023-09-28 15h|
 |#|session-skate-sim|Session: Skate Sim|39,99€|55|2023-09-14 15h|2023-09-28 15h|
 |#|seven-enhanced-edition-9ba7c7|Seven - Enhanced Edition|27,99€|77|2023-09-14 15h|2023-09-28 15h|
-|#|shadow-gambit-the-cursed-crew-0bca60|Shadow Gambit: The Cursed Crew|39,99€|10|2023-08-17 16h|2023-08-23 16h|
 |#|shadowhand|Shadowhand|11,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|sherlock-holmes-the-awakened|Sherlock Holmes The Awakened|39,99€|40|2023-10-18 15h|2023-11-01 15h|
 |#|shop-tycoon-prepare-your-wallet-e705ba|Shop Tycoon - Prepare Your Wallet|5,39€|90|2023-09-14 15h|2023-09-28 15h|
