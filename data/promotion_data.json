@@ -1800,15 +1800,6 @@
     "title": "Filthy Animals | Heist Simulator"
   },
   {
-    "discountPercentage": 35,
-    "endDate": "2023-08-26T07:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 179,
-    "slug": "the-last-hope-atomic-bomb-crypto-war-d307f6",
-    "startDate": "2023-08-19T07:00:00.000Z",
-    "title": "Find the Oil Racing Edition"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2023-09-18T14:00:00.000Z",
     "isFree": false,
@@ -1987,6 +1978,15 @@
     "slug": "genesis-noir",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Genesis Noir"
+  },
+  {
+    "discountPercentage": 45,
+    "endDate": "2023-09-21T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "geojelly-a44cfe",
+    "startDate": "2023-09-02T23:00:00.000Z",
+    "title": "GeoJelly"
   },
   {
     "discountPercentage": 60,
@@ -3394,15 +3394,6 @@
   },
   {
     "discountPercentage": 15,
-    "endDate": "2023-08-28T00:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1349,
-    "slug": "oirbo-c063b7",
-    "startDate": "2023-08-19T00:00:00.000Z",
-    "title": "Oirbo"
-  },
-  {
-    "discountPercentage": 15,
     "endDate": "2023-10-08T23:00:00.000Z",
     "isFree": false,
     "originalPrice": 1349,
@@ -4111,6 +4102,15 @@
     "slug": "scrapnaut",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "Scrapnaut"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "secret-doctrine-342083",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Secret Doctrine"
   },
   {
     "discountPercentage": 75,
@@ -5371,15 +5371,6 @@
     "slug": "trackmania-turbo",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Trackmania Turbo"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2023-09-02T14:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 719,
-    "slug": "tracks-of-triumph-7b2685",
-    "startDate": "2023-08-19T14:00:00.000Z",
-    "title": "Tracks of Triumph"
   },
   {
     "discountPercentage": 20,
