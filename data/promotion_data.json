@@ -145,11 +145,11 @@
   },
   {
     "discountPercentage": 65,
-    "endDate": "2023-09-12T15:00:00.000Z",
+    "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1349,
     "slug": "alchemist-adventure-fa9fca",
-    "startDate": "2023-09-05T15:00:00.000Z",
+    "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Alchemist Adventure"
   },
   {
@@ -214,6 +214,15 @@
     "slug": "ancient-enemy",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Ancient Enemy"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 719,
+    "slug": "angelo-and-deemon-one-hell-of-a-quest-94d7e2",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Angelo and Deemon: One Hell of a Quest"
   },
   {
     "discountPercentage": 70,
@@ -304,6 +313,15 @@
     "slug": "arcadegeddon",
     "startDate": "2023-08-22T15:00:00.000Z",
     "title": "Arcadegeddon"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-09-06T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "arctico-c29f1d",
+    "startDate": "2023-08-23T17:00:00.000Z",
+    "title": "Arctico"
   },
   {
     "discountPercentage": 34,
@@ -556,6 +574,15 @@
     "slug": "battle-chasers-nightwar",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Battle Chasers: Nightwar"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2023-09-12T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 359,
+    "slug": "battle-ram-d001fd",
+    "startDate": "2023-09-05T15:00:00.000Z",
+    "title": "Battle Ram"
   },
   {
     "discountPercentage": 35,
@@ -1152,6 +1179,15 @@
     "title": "Dead by Daylight"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "deadlink-6bb676",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Deadlink"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -1180,11 +1216,11 @@
   },
   {
     "discountPercentage": 30,
-    "endDate": "2023-09-12T15:00:00.000Z",
+    "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1799,
     "slug": "deflector-fedbe0",
-    "startDate": "2023-09-05T15:00:00.000Z",
+    "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Deflector"
   },
   {
@@ -2863,15 +2899,6 @@
   },
   {
     "discountPercentage": 40,
-    "endDate": "2023-09-09T00:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 449,
-    "slug": "life-after-death-b4e964",
-    "startDate": "2023-08-20T00:00:00.000Z",
-    "title": "Life After Death"
-  },
-  {
-    "discountPercentage": 40,
     "endDate": "2023-11-02T01:00:00.000Z",
     "isFree": false,
     "originalPrice": 449,
@@ -3823,6 +3850,15 @@
     "slug": "rebel-cops",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Rebel Cops"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "recollection-71f3a4",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Recollection"
   },
   {
     "discountPercentage": 67,
@@ -5049,15 +5085,6 @@
     "title": "The Settlers\u00ae: New Allies"
   },
   {
-    "discountPercentage": 31,
-    "endDate": "2023-09-12T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 719,
-    "slug": "the-silent-city-chapter-1-94a47d",
-    "startDate": "2023-09-05T15:00:00.000Z",
-    "title": "The Silent City Chapter 1"
-  },
-  {
     "discountPercentage": 65,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -5380,15 +5407,6 @@
     "slug": "tracks-of-triumph-retro-blast-d2c1c2",
     "startDate": "2023-09-04T14:00:00.000Z",
     "title": "Tracks of Triumph Retro Blast"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2023-09-18T14:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 719,
-    "slug": "tracks-of-triumph-summertime-001c7b",
-    "startDate": "2023-08-20T14:00:00.000Z",
-    "title": "Tracks of Triumph: Summertime"
   },
   {
     "discountPercentage": 60,
@@ -5796,12 +5814,12 @@
     "title": "Whispering Willows"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2023-09-12T15:00:00.000Z",
+    "discountPercentage": 35,
+    "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 989,
     "slug": "wonhon-a-vengeful-spirit-29e3c1",
-    "startDate": "2023-09-05T15:00:00.000Z",
+    "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Wonhon: A Vengeful Spirit"
   },
   {
@@ -5869,11 +5887,11 @@
   },
   {
     "discountPercentage": 25,
-    "endDate": "2023-09-12T15:00:00.000Z",
+    "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1799,
     "slug": "zelter-b3640a",
-    "startDate": "2023-09-05T15:00:00.000Z",
+    "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Zelter"
   },
   {
