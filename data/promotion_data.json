@@ -4032,6 +4032,15 @@
     "title": "Pathfinder: Wrath of the Righteous - Enhanced Edition"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "pato-box-311c99",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Pato Box"
+  },
+  {
     "discountPercentage": 10,
     "endDate": "2023-09-18T08:00:00.000Z",
     "isFree": false,
@@ -5820,6 +5829,15 @@
     "originalPrice": 449,
     "slug": "thomas-tales-912c23",
     "startDate": "2023-09-05T15:00:00.000Z",
+    "title": "Thomas' Tales"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2023-10-23T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "thomas-tales-912c23",
+    "startDate": "2023-10-16T04:00:00.000Z",
     "title": "Thomas' Tales"
   },
   {
