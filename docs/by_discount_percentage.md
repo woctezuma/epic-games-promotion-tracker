@@ -33,6 +33,7 @@
 |#|far-cry-new-dawn-complete|Far Cry New Dawn Complete|99,99€|85|2023-09-14 15h|2023-09-28 15h|
 |#|far-cry-new-dawn-ultimate|Far Cry New Dawn Ultimate|119,99€|85|2023-09-14 15h|2023-09-28 15h|
 |#|for-honor|For Honor Standard Edition|29,99€|85|2023-09-14 15h|2023-09-28 15h|
+|#|hot-wheels-unleashed|HOT WHEELS UNLEASHED™|49,99€|85|2023-09-14 15h|2023-09-28 15h|
 |#|immortals-fenyx-rising|Immortals Fenyx Rising Standard Edition|59,99€|85|2023-09-14 15h|2023-09-28 15h|
 |#|men-of-war-74bf75|Men of War|4,99€|85|2023-09-14 15h|2023-09-28 15h|
 |#|moonlighter|Moonlighter|19,99€|85|2023-09-14 15h|2023-09-28 15h|

@@ -32,6 +32,7 @@
 |#|rainbow-six-united-bundle|Tom Clancy's Rainbow Six® Siege & Tom Clancy's Rainbow Six® Extraction Deluxe United Bundle|59,99€|67|2023-09-14 15h|2023-09-28 15h|
 |#|ys-ix-monstrum-nox|Ys IX: Monstrum Nox|59,99€|40|2023-10-02 17h|2023-10-16 17h|
 |#|elex-ii|ELEX II|49,99€|60|2023-09-14 15h|2023-09-28 15h|
+|#|hot-wheels-unleashed|HOT WHEELS UNLEASHED™|49,99€|85|2023-09-14 15h|2023-09-28 15h|
 |#|kingdom-hearts-hd-1-5-2-5-remix|KINGDOM HEARTS HD 1.5+2.5 ReMIX|49,99€|50|2023-09-20 15h|2023-10-03 15h|
 |#|lego-star-wars-the-skywalker-saga|LEGO® Star Wars™: The Skywalker Saga|49,99€|67|2023-08-31 17h|2023-09-07 17h|
 |#|miasma-chronicles|Miasma Chronicles|49,99€|40|2023-09-07 16h|2023-09-22 07h|

@@ -294,6 +294,7 @@
 |#|gravity-circuit-489baa|Gravity Circuit|16,99€|20|2023-09-14 15h|2023-09-28 15h|
 |#|guild-of-ascension|Guild Of Ascension|14,99€|60|2023-09-14 15h|2023-09-28 15h|
 |#|hitman-3-woa|HITMAN World of Assassination|69,99€|50|2023-09-14 15h|2023-09-28 15h|
+|#|hot-wheels-unleashed|HOT WHEELS UNLEASHED™|49,99€|85|2023-09-14 15h|2023-09-28 15h|
 |#|haimrik-5f59a7|Haimrik|9,99€|90|2023-09-14 15h|2023-09-28 15h|
 |#|haven|Haven|24,99€|61|2023-09-14 15h|2023-09-28 15h|
 |#|hellslave-cc8a71|Hellslave|15,99€|60|2023-09-14 15h|2023-09-28 15h|
