@@ -36,6 +36,15 @@
     "title": "7,62 High Calibre"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "a-game-of-thrones-5858a3",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "A Game Of Thrones: The Board Game Digital Edition"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -405,15 +414,6 @@
     "title": "Assassin's Creed II Standard Edition"
   },
   {
-    "discountPercentage": 85,
-    "endDate": "2023-09-28T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "assassins-creed-origins",
-    "startDate": "2023-09-14T15:00:00.000Z",
-    "title": "Assassin's Creed Origins Standard Edition"
-  },
-  {
     "discountPercentage": 70,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -457,15 +457,6 @@
     "slug": "assassins-creed-3",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Assassin's Creed\u00ae III: Remastered"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2023-09-28T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "assassins-creed-odyssey",
-    "startDate": "2023-09-14T15:00:00.000Z",
-    "title": "Assassins Creed Odyssey Standard Edition"
   },
   {
     "discountPercentage": 60,
@@ -709,6 +700,24 @@
     "slug": "blair-witch",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Blair Witch"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-09-12T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "blazing-beaks-3d4864",
+    "startDate": "2023-09-05T15:00:00.000Z",
+    "title": "Blazing Beaks"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-10-20T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "blazing-beaks-3d4864",
+    "startDate": "2023-10-13T15:00:00.000Z",
+    "title": "Blazing Beaks"
   },
   {
     "discountPercentage": 60,
@@ -2106,15 +2115,6 @@
     "title": "Forspoken"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2023-08-29T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2499,
-    "slug": "fort-solis-9164ca",
-    "startDate": "2023-08-22T17:00:00.000Z",
-    "title": "Fort Solis"
-  },
-  {
     "discountPercentage": 25,
     "endDate": "2023-09-12T15:00:00.000Z",
     "isFree": false,
@@ -2158,6 +2158,15 @@
     "slug": "frostpunk",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Frostpunk"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2023-08-31T14:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1579,
+    "slug": "ginsha-604f11",
+    "startDate": "2023-08-24T15:00:00.000Z",
+    "title": "GINSHA"
   },
   {
     "discountPercentage": 20,
@@ -2275,6 +2284,15 @@
     "slug": "glitchhikers-the-spaces-between-3d7a5d",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Glitchhikers: The Spaces Between"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-09-25T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3499,
+    "slug": "gloomhaven-92f741",
+    "startDate": "2023-09-18T17:00:00.000Z",
+    "title": "Gloomhaven"
   },
   {
     "discountPercentage": 75,
@@ -4048,6 +4066,15 @@
     "slug": "pathfinder-wrath-of-the-righteous",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "Pathfinder: Wrath of the Righteous - Enhanced Edition"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2023-09-18T08:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1179,
+    "slug": "paw-paw-destiny-843848",
+    "startDate": "2023-09-11T08:00:00.000Z",
+    "title": "Paw Paw Destiny"
   },
   {
     "discountPercentage": 80,
@@ -5824,20 +5851,11 @@
   },
   {
     "discountPercentage": 70,
-    "endDate": "2023-09-11T23:00:00.000Z",
+    "endDate": "2023-09-12T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 449,
     "slug": "thomas-tales-912c23",
-    "startDate": "2023-09-04T04:00:00.000Z",
-    "title": "Thomas' Tales"
-  },
-  {
-    "discountPercentage": 70,
-    "endDate": "2023-10-23T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 449,
-    "slug": "thomas-tales-912c23",
-    "startDate": "2023-10-16T04:00:00.000Z",
+    "startDate": "2023-09-05T15:00:00.000Z",
     "title": "Thomas' Tales"
   },
   {
@@ -6039,15 +6057,6 @@
     "title": "Train Life: A Railway Simulator"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2023-09-26T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 4499,
-    "slug": "train-sim-world-4",
-    "startDate": "2023-08-22T17:00:00.000Z",
-    "title": "Train Sim World\u00ae 4: Standard Edition"
-  },
-  {
     "discountPercentage": 85,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -6109,15 +6118,6 @@
     "slug": "turnip-boy-commits-tax-evasion-fb2084",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Turnip Boy Commits Tax Evasion"
-  },
-  {
-    "discountPercentage": 55,
-    "endDate": "2023-09-06T07:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 179,
-    "slug": "two-skateboards-driving-simulator-c0ea1f",
-    "startDate": "2023-08-23T07:00:00.000Z",
-    "title": "Two Skateboards Driving Simulator"
   },
   {
     "discountPercentage": 40,
@@ -6336,24 +6336,6 @@
     "title": "Wanderlust: Travel Stories"
   },
   {
-    "discountPercentage": 85,
-    "endDate": "2023-09-28T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "watch-dogs-2",
-    "startDate": "2023-09-14T15:00:00.000Z",
-    "title": "Watch Dogs 2 Standard Edition"
-  },
-  {
-    "discountPercentage": 85,
-    "endDate": "2023-09-28T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "watch-dogs",
-    "startDate": "2023-09-14T15:00:00.000Z",
-    "title": "Watch Dogs Standard Edition"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -6361,15 +6343,6 @@
     "slug": "watch-dogs-legion--gold-edition",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Watch Dogs: Legion Gold Edition"
-  },
-  {
-    "discountPercentage": 85,
-    "endDate": "2023-09-28T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "watch-dogs-legion",
-    "startDate": "2023-09-14T15:00:00.000Z",
-    "title": "Watch Dogs: Legion Standard Edition"
   },
   {
     "discountPercentage": 80,
