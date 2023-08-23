@@ -324,15 +324,6 @@
     "title": "ArcRunner"
   },
   {
-    "discountPercentage": 75,
-    "endDate": "2023-09-06T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 899,
-    "slug": "arctico-c29f1d",
-    "startDate": "2023-08-23T17:00:00.000Z",
-    "title": "Arctico"
-  },
-  {
     "discountPercentage": 45,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -1557,15 +1548,6 @@
     "title": "Duel Princess"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2023-08-30T06:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "dust-fleet-620614",
-    "startDate": "2023-08-23T18:00:00.000Z",
-    "title": "Dust Fleet"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2023-09-12T15:00:00.000Z",
     "isFree": false,
@@ -2205,15 +2187,6 @@
     "title": "Gamedec - Definitive Edition"
   },
   {
-    "discountPercentage": 45,
-    "endDate": "2023-09-04T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "garbage-truck-driving-simulator-5dcc67",
-    "startDate": "2023-08-23T17:00:00.000Z",
-    "title": "Garbage Truck Driving Simulator"
-  },
-  {
     "discountPercentage": 70,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -2419,15 +2392,6 @@
     "slug": "horror-tales-the-wine-3ab2b2",
     "startDate": "2023-09-06T13:00:00.000Z",
     "title": "HORROR TALES The Wine"
-  },
-  {
-    "discountPercentage": 85,
-    "endDate": "2023-09-28T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 4999,
-    "slug": "hot-wheels-unleashed",
-    "startDate": "2023-09-14T15:00:00.000Z",
-    "title": "HOT WHEELS UNLEASHED\u2122"
   },
   {
     "discountPercentage": 15,
@@ -2770,15 +2734,6 @@
     "slug": "island-farmer-ce8ee6",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Island Farmer"
-  },
-  {
-    "discountPercentage": 15,
-    "endDate": "2023-08-30T17:30:00.000Z",
-    "isFree": false,
-    "originalPrice": 1619,
-    "slug": "its-a-wrap-f392ae",
-    "startDate": "2023-08-23T17:30:00.000Z",
-    "title": "It's a Wrap!"
   },
   {
     "discountPercentage": 40,
