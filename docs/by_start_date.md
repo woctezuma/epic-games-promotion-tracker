@@ -1,10 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|call-of-the-wild-the-angler|Call of the Wild: The Angler™|29,99€|50|2023-08-24 15h|2023-08-31 15h|
-|#|ginsha-604f11|GINSHA|15,79€|10|2023-08-24 15h|2023-08-31 14h|
-|#|homeworld-deserts-of-kharak|Homeworld: Deserts of Kharak|45,99€|100|2023-08-24 15h|2023-08-31 15h|
-|#|rage-2|RAGE 2|39,99€|75|2023-08-24 15h|2023-08-31 15h|
-|#|thehunter-call-of-the-wild|theHunter: Call of the Wild™|19,99€|65|2023-08-24 15h|2023-08-31 15h|
 |#|need-for-spirit-offroad-edition-7eee16|Need for Spirit: Off-Road Edition|2,69€|34|2023-08-26 07h|2023-09-02 07h|
 |#|dark-fantasy-jigsaw-puzzle-12769c|Dark Fantasy Jigsaw Puzzle|2,69€|25|2023-08-28 02h|2023-09-18 02h|
 |#|love-too-easily-1854cf|Love Too Easily|21,56€|25|2023-08-28 07h|2023-09-04 07h|
