@@ -1017,6 +1017,15 @@
     "title": "CastleStorm 2"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2023-09-07T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1199,
+    "slug": "cave-story-plus",
+    "startDate": "2023-08-31T15:00:00.000Z",
+    "title": "Cave Story+"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
