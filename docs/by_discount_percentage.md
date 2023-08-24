@@ -727,6 +727,7 @@
 |#|zoeti-3ccef9|Zoeti|15,99€|15|2023-09-14 15h|2023-09-28 15h|
 |#|elegies-aya-17c3f1|ELEGIES Aya|16,19€|10|2023-09-14 15h|2023-09-28 15h|
 |#|ginsha-604f11|GINSHA|15,79€|10|2023-08-24 15h|2023-08-31 14h|
+|#|love-too-easily-1854cf|Love Too Easily|21,56€|10|2023-08-25 04h|2023-09-01 04h|
 |#|paw-paw-destiny-843848|Paw Paw Destiny|11,79€|10|2023-09-11 08h|2023-09-18 08h|
 |#|serial-cleaners|Serial Cleaners|24,99€|10|2023-09-07 16h|2023-09-22 07h|
 |#|the-legend-of-heroes-trails-to-azure|The Legend of Heroes: Trails to Azure|39,99€|10|2023-10-02 17h|2023-10-16 17h|
