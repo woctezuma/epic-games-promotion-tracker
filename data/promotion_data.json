@@ -3258,6 +3258,15 @@
     "title": "Lost Words: Beyond the Page"
   },
   {
+    "discountPercentage": 10,
+    "endDate": "2023-09-01T04:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2156,
+    "slug": "love-too-easily-1854cf",
+    "startDate": "2023-08-25T04:00:00.000Z",
+    "title": "Love Too Easily"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
