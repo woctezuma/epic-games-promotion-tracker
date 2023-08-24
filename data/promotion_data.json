@@ -963,15 +963,6 @@
     "title": "Calico"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2023-08-31T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "call-of-the-wild-the-angler",
-    "startDate": "2023-08-24T15:00:00.000Z",
-    "title": "Call of the Wild: The Angler\u2122"
-  },
-  {
     "discountPercentage": 60,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -2277,15 +2268,6 @@
     "title": "Frostpunk"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2023-08-31T14:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1579,
-    "slug": "ginsha-604f11",
-    "startDate": "2023-08-24T15:00:00.000Z",
-    "title": "GINSHA"
-  },
-  {
     "discountPercentage": 20,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -2626,15 +2608,6 @@
     "slug": "hogwarts-legacy",
     "startDate": "2023-08-31T17:00:00.000Z",
     "title": "Hogwarts Legacy"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2023-08-31T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 4599,
-    "slug": "homeworld-deserts-of-kharak",
-    "startDate": "2023-08-24T15:00:00.000Z",
-    "title": "Homeworld: Deserts of Kharak"
   },
   {
     "discountPercentage": 60,
@@ -4462,15 +4435,6 @@
     "slug": "r-type-final-2",
     "startDate": "2023-10-02T17:00:00.000Z",
     "title": "R-Type Final 2"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-08-31T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "rage-2",
-    "startDate": "2023-08-24T15:00:00.000Z",
-    "title": "RAGE 2"
   },
   {
     "discountPercentage": 80,
@@ -7009,15 +6973,6 @@
     "slug": "terrorbane-437dd3",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "tERRORbane"
-  },
-  {
-    "discountPercentage": 65,
-    "endDate": "2023-08-31T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "thehunter-call-of-the-wild",
-    "startDate": "2023-08-24T15:00:00.000Z",
-    "title": "theHunter: Call of the Wild\u2122"
   },
   {
     "discountPercentage": 42,
