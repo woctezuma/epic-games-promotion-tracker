@@ -1638,6 +1638,15 @@
     "title": "Dread Templar"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 359,
+    "slug": "dream-magic-will-358429",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Dream magic will"
+  },
+  {
     "discountPercentage": 10,
     "endDate": "2023-09-12T15:00:00.000Z",
     "isFree": false,
@@ -1663,15 +1672,6 @@
     "slug": "druidstone-0697f7",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Druidstone: The Secret of the Menhir Forest"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2023-08-31T07:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2239,
-    "slug": "duel-princess-ec50b3",
-    "startDate": "2023-08-24T07:00:00.000Z",
-    "title": "Duel Princess"
   },
   {
     "discountPercentage": 50,
