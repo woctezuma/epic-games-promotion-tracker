@@ -189,6 +189,15 @@
     "title": "Alan Wake Remastered"
   },
   {
+    "discountPercentage": 66,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "alan-wake-remastered",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Alan Wake Remastered"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -405,6 +414,15 @@
     "title": "Assassin's Creed II Standard Edition"
   },
   {
+    "discountPercentage": 85,
+    "endDate": "2023-09-12T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "assassins-creed-origins",
+    "startDate": "2023-09-05T15:00:00.000Z",
+    "title": "Assassin's Creed Origins Standard Edition"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -448,6 +466,15 @@
     "slug": "assassins-creed-3",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Assassin's Creed\u00ae III: Remastered"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2023-09-12T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "assassins-creed-odyssey",
+    "startDate": "2023-09-05T15:00:00.000Z",
+    "title": "Assassins Creed Odyssey Standard Edition"
   },
   {
     "discountPercentage": 60,
@@ -675,6 +702,42 @@
     "title": "Big Pharma"
   },
   {
+    "discountPercentage": 85,
+    "endDate": "2023-09-19T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "bioshock-2-remastered",
+    "startDate": "2023-09-05T11:00:00.000Z",
+    "title": "BioShock 2 Remastered"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2023-09-19T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5497,
+    "slug": "bioshock-infinite-complete-edition",
+    "startDate": "2023-09-05T11:00:00.000Z",
+    "title": "BioShock Infinite: Complete Edition"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-09-19T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "bioshock-remastered",
+    "startDate": "2023-09-05T11:00:00.000Z",
+    "title": "BioShock Remastered"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2023-09-19T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "bioshock-the-collection",
+    "startDate": "2023-09-05T11:00:00.000Z",
+    "title": "BioShock: The Collection"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -783,6 +846,24 @@
     "title": "Bonfire Peaks"
   },
   {
+    "discountPercentage": 85,
+    "endDate": "2023-09-19T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "borderlands-3",
+    "startDate": "2023-09-05T11:00:00.000Z",
+    "title": "Borderlands 3"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-09-19T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "borderlands-the-handsome-collection",
+    "startDate": "2023-09-05T11:00:00.000Z",
+    "title": "Borderlands: The Handsome Collection"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2023-09-22T07:00:00.000Z",
     "isFree": false,
@@ -889,6 +970,24 @@
     "slug": "call-of-the-wild-the-angler",
     "startDate": "2023-08-24T15:00:00.000Z",
     "title": "Call of the Wild: The Angler\u2122"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "carcassonne",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Carcassonne"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2023-09-19T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "carnival-games",
+    "startDate": "2023-09-05T11:00:00.000Z",
+    "title": "Carnival Games"
   },
   {
     "discountPercentage": 60,
@@ -1305,6 +1404,15 @@
     "title": "Darksiders Warmastered Edition"
   },
   {
+    "discountPercentage": 67,
+    "endDate": "2023-09-07T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "days-gone",
+    "startDate": "2023-08-31T17:00:00.000Z",
+    "title": "Days Gone"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-09-14T03:00:00.000Z",
     "isFree": false,
@@ -1528,6 +1636,24 @@
     "slug": "dread-templar-d8e8fa",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Dread Templar"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2023-09-12T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 809,
+    "slug": "dream-of-tiny-snow-36f018",
+    "startDate": "2023-09-05T15:00:00.000Z",
+    "title": "Dream of Tiny Snow"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-09-26T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "dros-6da0b2",
+    "startDate": "2023-09-19T15:00:00.000Z",
+    "title": "Dros"
   },
   {
     "discountPercentage": 75,
@@ -2268,6 +2394,15 @@
     "title": "Gloomhaven"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2023-09-07T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "god-of-war",
+    "startDate": "2023-08-31T17:00:00.000Z",
+    "title": "God of War"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -2403,6 +2538,15 @@
     "title": "HOT WHEELS UNLEASHED\u2122"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2023-09-14T14:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "humankind",
+    "startDate": "2023-09-11T14:00:00.000Z",
+    "title": "HUMANKIND\u2122 Standard Edition"
+  },
+  {
     "discountPercentage": 15,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -2500,6 +2644,15 @@
     "slug": "hordecore",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "HordeCore"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2023-09-07T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "horizon-zero-dawn-complete-edition",
+    "startDate": "2023-08-31T17:00:00.000Z",
+    "title": "Horizon Zero Dawn\u2122 Complete Edition"
   },
   {
     "discountPercentage": 75,
@@ -2761,6 +2914,15 @@
     "slug": "joggernauts-a7767f",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Joggernauts"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-09-12T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "jotun",
+    "startDate": "2023-09-05T15:00:00.000Z",
+    "title": "Jotun: Valhalla Edition"
   },
   {
     "discountPercentage": 75,
@@ -3042,6 +3204,15 @@
     "title": "Kraken Academy!!"
   },
   {
+    "discountPercentage": 33,
+    "endDate": "2023-09-19T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "lego-2k-drive",
+    "startDate": "2023-09-05T11:00:00.000Z",
+    "title": "LEGO\u00ae 2K Drive"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2023-09-07T17:00:00.000Z",
     "isFree": false,
@@ -3303,6 +3474,42 @@
     "title": "Machinika Museum"
   },
   {
+    "discountPercentage": 67,
+    "endDate": "2023-09-19T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "mafia-ii-definitive-edition",
+    "startDate": "2023-09-05T11:00:00.000Z",
+    "title": "Mafia II: Definitive Edition"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2023-09-19T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "mafia-iii-definitive-edition",
+    "startDate": "2023-09-05T11:00:00.000Z",
+    "title": "Mafia III: Definitive Edition"
+  },
+  {
+    "discountPercentage": 65,
+    "endDate": "2023-09-19T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "mafia-definitive-edition",
+    "startDate": "2023-09-05T11:00:00.000Z",
+    "title": "Mafia: Definitive Edition"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2023-09-19T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "mafia-trilogy",
+    "startDate": "2023-09-05T11:00:00.000Z",
+    "title": "Mafia: Trilogy"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -3355,6 +3562,33 @@
     "slug": "mars-horizon",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Mars Horizon"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2023-09-19T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "marvels-midnight-suns",
+    "startDate": "2023-09-05T11:00:00.000Z",
+    "title": "Marvel's Midnight Suns"
+  },
+  {
+    "discountPercentage": 33,
+    "endDate": "2023-09-07T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "marvels-spider-man-remastered",
+    "startDate": "2023-08-31T17:00:00.000Z",
+    "title": "Marvel's Spider-Man Remastered"
+  },
+  {
+    "discountPercentage": 33,
+    "endDate": "2023-09-07T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "marvels-spider-man-miles-morales",
+    "startDate": "2023-08-31T17:00:00.000Z",
+    "title": "Marvel\u2019s Spider-Man: Miles Morales"
   },
   {
     "discountPercentage": 35,
@@ -3661,6 +3895,15 @@
     "slug": "new-super-luckys-tale",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "New Super Lucky's Tale"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-09-19T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "new-tales-from-the-borderlands",
+    "startDate": "2023-09-05T11:00:00.000Z",
+    "title": "New Tales from the Borderlands"
   },
   {
     "discountPercentage": 60,
@@ -4131,6 +4374,15 @@
     "title": "Power Vacuum"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2023-09-07T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "predator-hunting-grounds",
+    "startDate": "2023-08-31T17:00:00.000Z",
+    "title": "Predator: Hunting Grounds Standard Edition"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -4372,6 +4624,15 @@
     "slug": "restless-soul-d5baed",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Restless Soul"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-09-07T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "returnal",
+    "startDate": "2023-08-31T17:00:00.000Z",
+    "title": "Returnal\u2122"
   },
   {
     "discountPercentage": 66,
@@ -4626,6 +4887,15 @@
     "title": "SYMMETRY"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-09-07T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "sackboy-a-big-adventure",
+    "startDate": "2023-08-31T17:00:00.000Z",
+    "title": "Sackboy\u2122: A Big Adventure"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2023-10-16T17:00:00.000Z",
     "isFree": false,
@@ -4750,6 +5020,15 @@
     "slug": "shop-tycoon-prepare-your-wallet-e705ba",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Shop Tycoon - Prepare Your Wallet"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2023-09-19T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "sid-meiers-civilization-vi",
+    "startDate": "2023-09-05T11:00:00.000Z",
+    "title": "Sid Meier\u2019s Civilization\u00ae VI"
   },
   {
     "discountPercentage": 40,
@@ -4878,6 +5157,33 @@
     "title": "Song of Farca"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "sonic-colors-ultimate",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Sonic Colors: Ultimate"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "sonic-mania",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Sonic Mania"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "sonic-origins",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Sonic Origins"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -4957,6 +5263,15 @@
     "slug": "spirit-of-the-island",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "Spirit of the Island"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-09-12T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "spiritfarer",
+    "startDate": "2023-09-05T15:00:00.000Z",
+    "title": "Spiritfarer\u00ae: Farewell Edition"
   },
   {
     "discountPercentage": 75,
@@ -5095,6 +5410,15 @@
   },
   {
     "discountPercentage": 75,
+    "endDate": "2023-09-12T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "sundered-eldritch-edition",
+    "startDate": "2023-09-05T15:00:00.000Z",
+    "title": "Sundered: Eldritch Edition"
+  },
+  {
+    "discountPercentage": 75,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1999,
@@ -5220,6 +5544,15 @@
     "title": "Tails of Iron"
   },
   {
+    "discountPercentage": 25,
+    "endDate": "2023-09-19T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "tales-from-the-borderlands",
+    "startDate": "2023-09-05T11:00:00.000Z",
+    "title": "Tales from the Borderlands"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -5236,6 +5569,15 @@
     "slug": "tavern-master-ee18ab",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Tavern Master"
+  },
+  {
+    "discountPercentage": 45,
+    "endDate": "2023-10-09T04:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "teacup",
+    "startDate": "2023-10-02T13:00:00.000Z",
+    "title": "Teacup"
   },
   {
     "discountPercentage": 35,
@@ -5524,6 +5866,15 @@
     "slug": "the-last-photon-4bc2e9",
     "startDate": "2023-09-04T10:00:00.000Z",
     "title": "The Last Photon"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-09-07T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "the-last-of-us-part-1",
+    "startDate": "2023-08-31T17:00:00.000Z",
+    "title": "The Last of Us\u2122 Part I"
   },
   {
     "discountPercentage": 25,
@@ -5859,6 +6210,15 @@
     "title": "Through the Woods"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "ticket-to-ride",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Ticket to Ride"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -5875,6 +6235,24 @@
     "slug": "tiny-thor-76de1f",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Tiny Thor"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-09-19T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure",
+    "startDate": "2023-09-05T11:00:00.000Z",
+    "title": "Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2023-09-19T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "tiny-tinas-wonderlands",
+    "startDate": "2023-09-05T11:00:00.000Z",
+    "title": "Tiny Tina's Wonderlands"
   },
   {
     "discountPercentage": 75,
@@ -6112,6 +6490,15 @@
   },
   {
     "discountPercentage": 40,
+    "endDate": "2023-09-07T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "uncharted-legacy-of-thieves-collection",
+    "startDate": "2023-08-31T17:00:00.000Z",
+    "title": "UNCHARTED\u2122: Legacy of Thieves Collection"
+  },
+  {
+    "discountPercentage": 40,
     "endDate": "2023-09-12T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 799,
@@ -6327,6 +6714,24 @@
     "title": "Wanderlust: Travel Stories"
   },
   {
+    "discountPercentage": 85,
+    "endDate": "2023-09-12T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "watch-dogs-2",
+    "startDate": "2023-09-05T15:00:00.000Z",
+    "title": "Watch Dogs 2 Standard Edition"
+  },
+  {
+    "discountPercentage": 85,
+    "endDate": "2023-09-12T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "watch-dogs",
+    "startDate": "2023-09-05T15:00:00.000Z",
+    "title": "Watch Dogs Standard Edition"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -6334,6 +6739,15 @@
     "slug": "watch-dogs-legion--gold-edition",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Watch Dogs: Legion Gold Edition"
+  },
+  {
+    "discountPercentage": 85,
+    "endDate": "2023-09-12T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "watch-dogs-legion",
+    "startDate": "2023-09-05T15:00:00.000Z",
+    "title": "Watch Dogs: Legion Standard Edition"
   },
   {
     "discountPercentage": 80,
@@ -6478,6 +6892,24 @@
     "slug": "wreckfest",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Wreckfest"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-10-09T04:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1749,
+    "slug": "wytchwood",
+    "startDate": "2023-10-02T13:00:00.000Z",
+    "title": "Wytchwood"
+  },
+  {
+    "discountPercentage": 95,
+    "endDate": "2023-09-19T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "xcom-2",
+    "startDate": "2023-09-05T11:00:00.000Z",
+    "title": "XCOM\u00ae 2"
   },
   {
     "discountPercentage": 25,
