@@ -450,6 +450,7 @@
 |#|destroy-all-humans-2-reprobed|Destroy All Humans! 2 - Reprobed|39,99€|50|2023-09-14 15h|2023-09-28 15h|
 |#|dojoran-1e6fb7|Dojoran|4,49€|50|2023-09-14 15h|2023-09-28 15h|
 |#|drawful-2|Drawful 2|9,99€|50|2023-09-14 15h|2023-09-28 15h|
+|#|dream-magic-will-358429|Dream magic will|3,59€|50|2023-09-14 15h|2023-09-28 15h|
 |#|dying-light-2-stay-human  |Dying Light 2 Stay Human|59,99€|50|2023-09-05 15h|2023-09-12 15h|
 |#|dying-light-2-stay-human  |Dying Light 2 Stay Human|59,99€|50|2023-10-18 15h|2023-11-01 15h|
 |#|evans-remains|Evan's Remains|5,99€|50|2023-09-14 15h|2023-09-28 15h|
@@ -569,7 +570,6 @@
 |#|citizen-sleeper-944858|Citizen Sleeper|15,99€|40|2023-09-14 15h|2023-09-28 15h|
 |#|coffee-talk|Coffee Talk|9,99€|40|2023-11-21 17h|2023-11-28 17h|
 |#|dros-6da0b2|Dros|17,99€|40|2023-09-19 15h|2023-09-26 15h|
-|#|duel-princess-ec50b3|Duel Princess|22,39€|40|2023-08-24 07h|2023-08-31 07h|
 |#|eiyuden-chronicle-rising|Eiyuden Chronicle: Rising|14,99€|40|2023-09-07 16h|2023-09-22 07h|
 |#|gloomhaven-92f741|Gloomhaven|34,99€|40|2023-09-18 17h|2023-09-25 17h|
 |#|god-of-war|God of War|49,99€|40|2023-08-31 17h|2023-09-07 17h|

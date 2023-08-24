@@ -182,10 +182,10 @@
 |#|drawful-2|Drawful 2|9,99€|50|2023-09-14 15h|2023-09-28 15h|
 |#|dread-nautical|Dread Nautical|15,99€|66|2023-09-14 15h|2023-09-28 15h|
 |#|dread-templar-d8e8fa|Dread Templar|19,99€|30|2023-09-14 15h|2023-09-28 15h|
+|#|dream-magic-will-358429|Dream magic will|3,59€|50|2023-09-14 15h|2023-09-28 15h|
 |#|dream-of-tiny-snow-36f018|Dream of Tiny Snow|8,09€|10|2023-09-05 15h|2023-09-12 15h|
 |#|dros-6da0b2|Dros|17,99€|40|2023-09-19 15h|2023-09-26 15h|
 |#|druidstone-0697f7|Druidstone: The Secret of the Menhir Forest|19,99€|75|2023-09-14 15h|2023-09-28 15h|
-|#|duel-princess-ec50b3|Duel Princess|22,39€|40|2023-08-24 07h|2023-08-31 07h|
 |#|dying-light-2-stay-human  |Dying Light 2 Stay Human|59,99€|50|2023-09-05 15h|2023-09-12 15h|
 |#|dying-light-2-stay-human  |Dying Light 2 Stay Human|59,99€|50|2023-10-18 15h|2023-11-01 15h|
 |#|dying-light|Dying Light Enhanced Edition|29,99€|70|2023-09-05 15h|2023-09-12 15h|
