@@ -1017,6 +1017,15 @@
     "title": "Cave Story+"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "chaos-galaxy-a33dac",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Chaos Galaxy"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -1114,6 +1123,15 @@
     "slug": "citizen-sleeper-944858",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Citizen Sleeper"
+  },
+  {
+    "discountPercentage": 45,
+    "endDate": "2023-09-12T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "city-car-parking-simulator-231485",
+    "startDate": "2023-08-29T17:00:00.000Z",
+    "title": "City Car Parking Simulator"
   },
   {
     "discountPercentage": 25,
@@ -1296,6 +1314,15 @@
     "title": "DEATH STRANDING DIRECTOR'S CUT"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "deathloop",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "DEATHLOOP"
+  },
+  {
     "discountPercentage": 45,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -1303,6 +1330,15 @@
     "slug": "destructure-among-debris-b4aaf8",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "DESTRUCTURE: Among Debris"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "doom-3",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "DOOM 3"
   },
   {
     "discountPercentage": 35,
@@ -1537,6 +1573,24 @@
     "slug": "disgaea-6-complete",
     "startDate": "2023-10-02T17:00:00.000Z",
     "title": "Disgaea 6 Complete"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 8637,
+    "slug": "arkane-collection-bundle",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Dishonored & Prey: The Arkane Collection"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "dishonored-definitive-edition",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Dishonored - Definitive Edition"
   },
   {
     "discountPercentage": 30,
@@ -1791,6 +1845,15 @@
     "title": "ELEX II"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2023-09-05T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "echo-storm-4e5fbe",
+    "startDate": "2023-08-29T15:00:00.000Z",
+    "title": "Echo Storm"
+  },
+  {
     "discountPercentage": 65,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -1809,7 +1872,7 @@
     "title": "Effie"
   },
   {
-    "discountPercentage": 20,
+    "discountPercentage": 30,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 899,
@@ -2014,6 +2077,42 @@
     "slug": "fallen-legion-rise-to-glory-0ea64a",
     "startDate": "2023-10-02T17:00:00.000Z",
     "title": "Fallen Legion: Rise to Glory"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "fallout-2",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Fallout 2: A Post Nuclear Role Playing Game"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "fallout-tactics-brotherhood-of-steel",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Fallout Tactics: Brotherhood of Steel"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "fallout",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Fallout: A Post Nuclear Role Playing Game"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "fallout-new-vegas",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Fallout: New Vegas"
   },
   {
     "discountPercentage": 80,
@@ -2358,6 +2457,15 @@
     "title": "Ghostrunner"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "ghostwire-tokyo",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Ghostwire: Tokyo"
+  },
+  {
     "discountPercentage": 90,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -2590,6 +2698,15 @@
     "slug": "hextech-mayhem-a-league-of-legends-story ",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Hextech Mayhem: A League of Legends Story\u2122"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "hi-fi-rush",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Hi-Fi RUSH"
   },
   {
     "discountPercentage": 80,
@@ -4194,6 +4311,24 @@
     "title": "Overtop"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2023-09-18T00:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "oxide-room-104-4c1249",
+    "startDate": "2023-09-13T23:00:00.000Z",
+    "title": "Oxide Room 104"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "oxide-room-104-4c1249",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Oxide Room 104"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -4275,15 +4410,6 @@
     "title": "Pato Box"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2023-09-18T08:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1179,
-    "slug": "paw-paw-destiny-843848",
-    "startDate": "2023-09-11T08:00:00.000Z",
-    "title": "Paw Paw Destiny"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -4336,6 +4462,24 @@
     "slug": "poker-club-6e18ee",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Poker Club"
+  },
+  {
+    "discountPercentage": 45,
+    "endDate": "2023-09-12T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "police-car-escape-simulator-f9cd17",
+    "startDate": "2023-08-29T17:00:00.000Z",
+    "title": "Police Car Escape Simulator"
+  },
+  {
+    "discountPercentage": 45,
+    "endDate": "2023-09-15T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "police-car-suv-simulator-092560",
+    "startDate": "2023-08-31T17:00:00.000Z",
+    "title": "Police Car SUV Simulator"
   },
   {
     "discountPercentage": 30,
@@ -4426,6 +4570,15 @@
     "slug": "punch-club-2-fast-forward-46d985",
     "startDate": "2023-08-28T17:00:00.000Z",
     "title": "Punch Club 2: Fast Forward"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "quake-ii",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Quake II"
   },
   {
     "discountPercentage": 50,
@@ -4527,6 +4680,15 @@
     "title": "Re-Legion"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2023-09-15T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "real-drift-multiplayer-4bdd6d",
+    "startDate": "2023-08-31T17:00:00.000Z",
+    "title": "Real Drift Multiplayer"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -4579,6 +4741,15 @@
     "slug": "red-ronin-d2678c",
     "startDate": "2023-09-05T15:00:00.000Z",
     "title": "Red Ronin"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "redneck-bowl-games-d39874",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "RedNeck Bowl Games"
   },
   {
     "discountPercentage": 50,
@@ -4876,6 +5047,15 @@
     "slug": "saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited",
     "startDate": "2023-10-02T17:00:00.000Z",
     "title": "Saviors of Sapphire Wings & Strangers of Sword City Revisited"
+  },
+  {
+    "discountPercentage": 45,
+    "endDate": "2023-09-15T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "school-bus-driving-simulator-b878a8",
+    "startDate": "2023-08-31T17:00:00.000Z",
+    "title": "School Bus Driving Simulator"
   },
   {
     "discountPercentage": 67,
@@ -5679,6 +5859,15 @@
     "title": "The Dungeon of Naheulbeuk"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "skyrim",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "The Elder Scrolls V: Skyrim Special Edition"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -6201,6 +6390,24 @@
     "title": "Time Loader"
   },
   {
+    "discountPercentage": 85,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "timothy-vs-the-aliens-2f5b36",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Timothy vs the Aliens"
+  },
+  {
+    "discountPercentage": 85,
+    "endDate": "2023-11-12T12:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "timothy-vs-the-aliens-2f5b36",
+    "startDate": "2023-10-28T16:00:00.000Z",
+    "title": "Timothy vs the Aliens"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -6256,11 +6463,11 @@
   },
   {
     "discountPercentage": 60,
-    "endDate": "2023-09-05T18:00:00.000Z",
+    "endDate": "2023-09-05T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1999,
     "slug": "rainbow-six-siege",
-    "startDate": "2023-08-29T18:00:00.000Z",
+    "startDate": "2023-08-29T15:00:00.000Z",
     "title": "Tom Clancy's Rainbow Six\u00ae Siege"
   },
   {
