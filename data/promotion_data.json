@@ -4410,6 +4410,15 @@
     "title": "Pato Box"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2023-09-18T08:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "paw-paw-destiny-843848",
+    "startDate": "2023-09-11T08:00:00.000Z",
+    "title": "Paw Paw Destiny"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -5040,6 +5049,15 @@
     "title": "Sackboy\u2122: A Big Adventure"
   },
   {
+    "discountPercentage": 25,
+    "endDate": "2023-09-19T03:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "sailingera-450a80",
+    "startDate": "2023-09-12T03:00:00.000Z",
+    "title": "Sailing Era"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2023-10-16T17:00:00.000Z",
     "isFree": false,
@@ -5590,11 +5608,11 @@
   },
   {
     "discountPercentage": 15,
-    "endDate": "2023-09-08T15:00:00.000Z",
+    "endDate": "2023-10-08T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 539,
     "slug": "sunlight-scream-de8642",
-    "startDate": "2023-09-01T15:00:00.000Z",
+    "startDate": "2023-10-01T15:00:00.000Z",
     "title": "Sunlight Scream"
   },
   {
