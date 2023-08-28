@@ -1377,15 +1377,6 @@
     "title": "Dark Fantasy 2: Jigsaw Puzzle"
   },
   {
-    "discountPercentage": 25,
-    "endDate": "2023-09-18T02:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 269,
-    "slug": "dark-fantasy-jigsaw-puzzle-12769c",
-    "startDate": "2023-08-28T02:00:00.000Z",
-    "title": "Dark Fantasy Jigsaw Puzzle"
-  },
-  {
     "discountPercentage": 35,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -2232,6 +2223,15 @@
     "title": "Fishing - North Atlantic"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-10-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "flat-heroes-fec628",
+    "startDate": "2023-09-26T15:00:00.000Z",
+    "title": "Flat Heroes"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2023-09-18T14:00:00.000Z",
     "isFree": false,
@@ -2619,6 +2619,15 @@
     "title": "Guild Of Ascension"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "guild-of-dungeoneering-ultimate-edition",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Guild of Dungeoneering Ultimate Edition"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -2689,6 +2698,15 @@
     "slug": "hellslave-cc8a71",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Hellslave"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "heros-hour-871285",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Hero's Hour"
   },
   {
     "discountPercentage": 70,
@@ -3420,6 +3438,24 @@
     "title": "Layers of Fear"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "legend-of-grimrock",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Legend of Grimrock"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2399,
+    "slug": "legend-of-grimrock-2",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Legend of Grimrock 2"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2023-09-12T15:00:00.000Z",
     "isFree": false,
@@ -3535,15 +3571,6 @@
     "slug": "lost-words-beyond-the-page",
     "startDate": "2023-08-29T15:00:00.000Z",
     "title": "Lost Words: Beyond the Page"
-  },
-  {
-    "discountPercentage": 25,
-    "endDate": "2023-09-04T07:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2156,
-    "slug": "love-too-easily-1854cf",
-    "startDate": "2023-08-28T07:00:00.000Z",
-    "title": "Love Too Easily"
   },
   {
     "discountPercentage": 80,
@@ -3778,6 +3805,24 @@
     "slug": "miasma-chronicles",
     "startDate": "2023-09-07T16:00:00.000Z",
     "title": "Miasma Chronicles"
+  },
+  {
+    "discountPercentage": 66,
+    "endDate": "2023-09-18T08:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "midnight-ghost-hunt",
+    "startDate": "2023-09-14T17:00:00.000Z",
+    "title": "Midnight Ghost Hunt"
+  },
+  {
+    "discountPercentage": 66,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "midnight-ghost-hunt",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Midnight Ghost Hunt"
   },
   {
     "discountPercentage": 75,
@@ -5184,13 +5229,76 @@
     "title": "Shalnor Legends 2: Trials of Thunder"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2023-09-12T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4499,
+    "slug": "sherlock-holmes-chapter-one",
+    "startDate": "2023-09-05T15:00:00.000Z",
+    "title": "Sherlock Holmes Chapter One"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4499,
+    "slug": "sherlock-holmes-chapter-one",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Sherlock Holmes Chapter One"
+  },
+  {
     "discountPercentage": 40,
+    "endDate": "2023-09-12T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "sherlock-holmes-the-awakened",
+    "startDate": "2023-09-05T15:00:00.000Z",
+    "title": "Sherlock Holmes The Awakened"
+  },
+  {
+    "discountPercentage": 45,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 3999,
     "slug": "sherlock-holmes-the-awakened",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "Sherlock Holmes The Awakened"
+  },
+  {
+    "discountPercentage": 85,
+    "endDate": "2023-09-12T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "sherlock-holmes-crimes-and-punishments",
+    "startDate": "2023-09-05T15:00:00.000Z",
+    "title": "Sherlock Holmes: Crimes and Punishments"
+  },
+  {
+    "discountPercentage": 85,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "sherlock-holmes-crimes-and-punishments",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Sherlock Holmes: Crimes and Punishments"
+  },
+  {
+    "discountPercentage": 85,
+    "endDate": "2023-09-12T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "sherlock-holmes-the-devils-daughter",
+    "startDate": "2023-09-05T15:00:00.000Z",
+    "title": "Sherlock Holmes: The Devil's Daughter"
+  },
+  {
+    "discountPercentage": 85,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "sherlock-holmes-the-devils-daughter",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Sherlock Holmes: The Devil's Daughter"
   },
   {
     "discountPercentage": 90,
@@ -5427,24 +5535,6 @@
     "title": "Spinch"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2023-09-12T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1619,
-    "slug": "spirit-of-the-island",
-    "startDate": "2023-09-05T15:00:00.000Z",
-    "title": "Spirit of the Island"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2023-11-01T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1619,
-    "slug": "spirit-of-the-island",
-    "startDate": "2023-10-18T15:00:00.000Z",
-    "title": "Spirit of the Island"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2023-09-12T15:00:00.000Z",
     "isFree": false,
@@ -5622,6 +5712,15 @@
     "originalPrice": 899,
     "slug": "super-alloy-ranger-4252cc",
     "startDate": "2023-09-05T15:00:00.000Z",
+    "title": "Super Alloy Ranger"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "super-alloy-ranger-4252cc",
+    "startDate": "2023-10-18T15:00:00.000Z",
     "title": "Super Alloy Ranger"
   },
   {
@@ -5803,6 +5902,15 @@
     "slug": "terrain-of-magical-expertise",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Terrain of Magical Expertise"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3199,
+    "slug": "tetris-effect",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Tetris\u00ae Effect: Connected"
   },
   {
     "discountPercentage": 20,
@@ -6435,6 +6543,15 @@
     "title": "Ticket to Ride"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2239,
+    "slug": "timberborn",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Timberborn"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -6559,6 +6676,15 @@
     "slug": "splinter-cell-double-agent",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Tom Clancy\u2019s Splinter Cell Double Agent"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4499,
+    "slug": "tony-hawks-pro-skater-1-and-2",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Tony Hawk's\u2122 Pro Skater\u2122 1 + 2"
   },
   {
     "discountPercentage": 40,
