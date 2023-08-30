@@ -6642,6 +6642,15 @@
     "title": "Stray Blade"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "strayed-lights-351d29",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Strayed Lights"
+  },
+  {
     "discountPercentage": 65,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
