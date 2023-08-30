@@ -753,6 +753,7 @@
 |#|stranger-of-paradise-final-fantasy-origin|STRANGER OF PARADISE FINAL FANTASY ORIGIN|39,99€|30|2023-09-20 15h|2023-10-03 15h|
 |#|strawhart-776f4d|Strawhart|17,99€|50|2023-09-05 15h|2023-09-12 15h|
 |#|stray-blade|Stray Blade|34,99€|40|2023-09-07 16h|2023-09-22 07h|
+|#|strayed-lights-351d29|Strayed Lights|24,99€|30|2023-09-14 15h|2023-09-28 15h|
 |#|stubbs-the-zombie-in-rebel-without-a-pulse|Stubbs the Zombie in Rebel Without a Pulse|15,99€|65|2023-10-18 15h|2023-11-01 15h|
 |#|stygian-reign-of-the-old-ones-56e1d7|Stygian: Reign of the Old Ones|19,99€|80|2023-10-18 15h|2023-11-01 15h|
 |#|submerged-041523|Submerged|15,99€|90|2023-09-05 15h|2023-09-12 15h|

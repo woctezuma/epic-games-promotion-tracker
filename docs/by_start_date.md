@@ -650,6 +650,7 @@
 |#|stick-it-to-the-man|Stick It To The Man!|5,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|stillborn-slayer-298dd7|Stillborn Slayer|9,89€|10|2023-09-14 15h|2023-09-28 15h|
 |#|stranded-alien-dawn|Stranded: Alien Dawn|34,99€|20|2023-09-14 15h|2023-09-28 15h|
+|#|strayed-lights-351d29|Strayed Lights|24,99€|30|2023-09-14 15h|2023-09-28 15h|
 |#|superpower-3|SuperPower 3|29,99€|34|2023-09-14 15h|2023-09-28 15h|
 |#|surviving-mars|Surviving Mars|29,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|switchball-hd-6d3802|Switchball HD|8,09€|50|2023-09-14 15h|2023-09-28 15h|

@@ -846,6 +846,7 @@
 |#|stranger-of-paradise-final-fantasy-origin|STRANGER OF PARADISE FINAL FANTASY ORIGIN|39,99€|30|2023-09-20 15h|2023-10-03 15h|
 |#|sephonie-6ab6f7|Sephonie|15,99€|30|2023-09-14 15h|2023-09-28 15h|
 |#|starless-bb4b3c|Starless|5,99€|30|2023-09-14 15h|2023-09-28 15h|
+|#|strayed-lights-351d29|Strayed Lights|24,99€|30|2023-09-14 15h|2023-09-28 15h|
 |#|tt-isle-of-man-ride-on-the-edge-3|TT Isle of Man: Ride on the Edge 3|49,99€|30|2023-09-14 15h|2023-09-28 15h|
 |#|terra-invicta-5bbf09|Terra Invicta|39,99€|30|2023-09-12 15h|2023-09-19 15h|
 |#|the-lord-of-the-rings-gollum|The Lord of the Rings - Gollum™|49,99€|30|2023-09-14 15h|2023-09-28 15h|
