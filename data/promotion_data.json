@@ -6966,6 +6966,15 @@
     "title": "The Captain"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2023-09-07T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "the-captain-is-dead-b35c02",
+    "startDate": "2023-09-01T11:00:00.000Z",
+    "title": "The Captain is Dead"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -7027,15 +7036,6 @@
     "slug": "the-darkside-detective-a-fumble-in-the-dark-174fcf",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "The Darkside Detective A Fumble in the Dark"
-  },
-  {
-    "discountPercentage": 70,
-    "endDate": "2023-09-28T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "the-division-2",
-    "startDate": "2023-09-14T15:00:00.000Z",
-    "title": "The Division 2 Standard Edition"
   },
   {
     "discountPercentage": 65,
@@ -7738,15 +7738,6 @@
     "slug": "splinter-cell",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Tom Clancy's Splinter Cell"
-  },
-  {
-    "discountPercentage": 85,
-    "endDate": "2023-09-28T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "the-division",
-    "startDate": "2023-09-14T15:00:00.000Z",
-    "title": "Tom Clancy's The Division"
   },
   {
     "discountPercentage": 75,
