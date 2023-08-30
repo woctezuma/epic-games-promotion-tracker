@@ -62,7 +62,6 @@
 |#|borderlands-3|Borderlands 3|59,99€|85|2023-09-05 11h|2023-09-19 11h|
 |#|borderlands-the-handsome-collection|Borderlands: The Handsome Collection|59,99€|75|2023-09-05 11h|2023-09-19 11h|
 |#|carnival-games|Carnival Games|39,99€|80|2023-09-05 11h|2023-09-19 11h|
-|#|lego-2k-drive|LEGO® 2K Drive|59,99€|33|2023-09-05 11h|2023-09-19 11h|
 |#|mafia-ii-definitive-edition|Mafia II: Definitive Edition|29,99€|67|2023-09-05 11h|2023-09-19 11h|
 |#|mafia-iii-definitive-edition|Mafia III: Definitive Edition|29,99€|67|2023-09-05 11h|2023-09-19 11h|
 |#|mafia-definitive-edition|Mafia: Definitive Edition|39,99€|65|2023-09-05 11h|2023-09-19 11h|

@@ -32,7 +32,6 @@
 |#|kingdom-hearts-hd-2-8-final-chapter-prologue|KINGDOM HEARTS HD 2.8 Final Chapter Prologue|59,99€|50|2023-09-20 15h|2023-10-03 15h|
 |#|kingdom-hearts-iii|KINGDOM HEARTS III + Re Mind (DLC)|59,99€|50|2023-09-20 15h|2023-10-03 15h|
 |#|kingdom-hearts-melody-of-memory|KINGDOM HEARTS Melody of Memory|59,99€|50|2023-09-20 15h|2023-10-03 15h|
-|#|lego-2k-drive|LEGO® 2K Drive|59,99€|33|2023-09-05 11h|2023-09-19 11h|
 |#|mafia-trilogy|Mafia: Trilogy|59,99€|60|2023-09-05 11h|2023-09-19 11h|
 |#|marvels-midnight-suns|Marvel's Midnight Suns|59,99€|60|2023-09-05 11h|2023-09-19 11h|
 |#|marvels-spider-man-remastered|Marvel's Spider-Man Remastered|59,99€|33|2023-08-31 17h|2023-09-07 17h|

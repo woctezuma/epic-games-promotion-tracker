@@ -434,7 +434,6 @@
 |#|partisan-general-audience|Knights of Honor II: Sovereign|44,99€|50|2023-09-14 15h|2023-09-28 15h|
 |#|kombinara-e5baa8|Kombinera|11,99€|50|2023-09-14 15h|2023-09-28 15h|
 |#|kraken-academy|Kraken Academy!!|14,99€|60|2023-09-14 15h|2023-09-28 15h|
-|#|lego-2k-drive|LEGO® 2K Drive|59,99€|33|2023-09-05 11h|2023-09-19 11h|
 |#|lego-batman-2|LEGO® Batman™ 2: DC Super Heroes|19,99€|75|2023-08-31 17h|2023-09-07 17h|
 |#|lego-batman-3|LEGO® Batman™ 3: Beyond Gotham|19,99€|75|2023-08-31 17h|2023-09-07 17h|
 |#|lego-batman|LEGO® Batman™: The Videogame|19,99€|75|2023-08-31 17h|2023-09-07 17h|

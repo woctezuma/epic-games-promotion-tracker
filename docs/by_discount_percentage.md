@@ -806,7 +806,6 @@
 |#|deliver-us-mars|Deliver Us Mars|29,99€|33|2023-09-14 15h|2023-09-28 15h|
 |#|doors-paradox-5896c7|Doors - Paradox|13,49€|33|2023-10-03 15h|2023-10-10 15h|
 |#|elderand-09e6bc|Elderand|15,99€|33|2023-09-14 15h|2023-09-28 15h|
-|#|lego-2k-drive|LEGO® 2K Drive|59,99€|33|2023-09-05 11h|2023-09-19 11h|
 |#|marvels-spider-man-remastered|Marvel's Spider-Man Remastered|59,99€|33|2023-08-31 17h|2023-09-07 17h|
 |#|marvels-spider-man-miles-morales|Marvel’s Spider-Man: Miles Morales|49,99€|33|2023-08-31 17h|2023-09-07 17h|
 |#|ranch-simulator|Ranch Simulator|20,99€|33|2023-09-14 15h|2023-09-28 15h|
