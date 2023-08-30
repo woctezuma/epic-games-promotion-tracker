@@ -853,7 +853,6 @@
 |#|outbreak-lost-hope-broken-faith-77b3f9|Outbreak Lost Hope Broken Faith|8,99€|40|2023-10-11 14h|2023-10-18 14h|
 |#|teslas-best-friend-c2acf4|Tesla's Best Friend|4,49€|80|2023-10-03 14h|2023-10-18 14h|
 |#|torch-cave-828b66|Torch Cave|8,99€|40|2023-10-03 14h|2023-10-18 14h|
-|#|tracks-of-triumph-7b2685|Tracks of Triumph|7,19€|30|2023-10-03 14h|2023-10-18 14h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|70|2023-10-01 22h|2023-10-19 22h|
 |#|blazing-beaks-3d4864|Blazing Beaks|11,99€|75|2023-10-13 15h|2023-10-20 15h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|40|2023-10-11 19h|2023-10-22 19h|
