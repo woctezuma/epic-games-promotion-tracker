@@ -441,6 +441,7 @@
 |#|curse-of-the-sea-rats-8f28b1|Curse of the Sea Rats|17,99€|20|2023-09-14 15h|2023-09-28 15h|
 |#|deadlink-6bb676|Deadlink|17,99€|20|2023-09-14 15h|2023-09-28 15h|
 |#|deflector-fedbe0|Deflector|17,99€|30|2023-09-14 15h|2023-09-28 15h|
+|#|dinobreak-307b09|Dinobreak|17,99€|20|2023-10-04 14h|2023-10-11 14h|
 |#|dros-6da0b2|Dros|17,99€|40|2023-09-19 15h|2023-09-26 15h|
 |#|ebola-3-2c79e9|EBOLA 3|17,99€|35|2023-09-05 15h|2023-09-12 15h|
 |#|filthy-animals-f6c65c|Filthy Animals \| Heist Simulator|17,99€|50|2023-09-14 15h|2023-09-28 15h|

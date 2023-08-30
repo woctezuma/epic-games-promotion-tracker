@@ -205,6 +205,7 @@
 |#|destroy-all-humans|Destroy All Humans!|29,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|destroy-all-humans-2-reprobed|Destroy All Humans! 2 - Reprobed|39,99€|50|2023-09-14 15h|2023-09-28 15h|
 |#|destructure-among-debris-b4aaf8|DESTRUCTURE: Among Debris|7,19€|70|2023-09-14 15h|2023-09-28 15h|
+|#|dinobreak-307b09|Dinobreak|17,99€|20|2023-10-04 14h|2023-10-11 14h|
 |#|disaster-report-4-summer-memories|Disaster Report 4: Summer Memories|59,99€|67|2023-10-02 17h|2023-10-16 17h|
 |#|disciples-liberation|Disciples: Liberation|39,99€|50|2023-09-14 15h|2023-09-28 15h|
 |#|disco-elysium|Disco Elysium - The Final Cut|39,99€|75|2023-09-14 15h|2023-09-28 15h|
