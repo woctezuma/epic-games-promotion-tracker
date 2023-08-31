@@ -647,7 +647,7 @@
 |#|train-valley-2-3606da|Train Valley 2|13,49€|65|2023-09-14 15h|2023-09-28 15h|
 |#|terrorbane-437dd3|tERRORbane|13,49€|50|2023-09-14 15h|2023-09-28 15h|
 |#|bibots-aad4d0|Bibots|12,99€|40|2023-09-14 15h|2023-09-28 15h|
-|#|b84634385c6e4705869992cb7a21008d|Chess Ultra|12,99€|60|2023-09-14 15h|2023-09-28 15h|
+|#|chess-ultra-91bba3|Chess Ultra|12,99€|60|2023-09-14 15h|2023-09-28 15h|
 |#|chromagun|ChromaGun|12,99€|50|2023-09-14 15h|2023-09-28 15h|
 |#|deepest-chamber-f7085f|Deepest Chamber: Resurrection|12,99€|25|2023-09-14 15h|2023-09-28 15h|
 |#|ironcast|Ironcast|12,99€|80|2023-09-14 15h|2023-09-28 15h|
