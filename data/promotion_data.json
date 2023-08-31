@@ -594,6 +594,15 @@
     "title": "Avencast - Rise Of The Mage"
   },
   {
+    "discountPercentage": 51,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "avoid-it-df26e8",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Avoid It"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -1438,6 +1447,15 @@
     "slug": "coopvalor-2056-ukraine-ww3-718385",
     "startDate": "2023-09-19T15:00:00.000Z",
     "title": "CoopValor 2056: Ukraine WW3"
+  },
+  {
+    "discountPercentage": 69,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 359,
+    "slug": "corrupt-political-simulator-f94058",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Corrupt - Political Simulator"
   },
   {
     "discountPercentage": 70,
@@ -2610,6 +2628,15 @@
     "title": "Filthy Animals | Heist Simulator"
   },
   {
+    "discountPercentage": 85,
+    "endDate": "2023-10-11T07:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "the-last-hope-atomic-bomb-crypto-war-d307f6",
+    "startDate": "2023-09-27T07:00:00.000Z",
+    "title": "Find the Oil Racing Edition"
+  },
+  {
     "discountPercentage": 90,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -2626,6 +2653,15 @@
     "slug": "fishing-north-atlantic-9fbc5c",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Fishing - North Atlantic"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2023-10-03T07:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "fix-me-up-doc-dark-humor-9ebac0",
+    "startDate": "2023-09-19T07:00:00.000Z",
+    "title": "Fix Me Up Doc - Dark Humor"
   },
   {
     "discountPercentage": 50,
@@ -4329,6 +4365,15 @@
     "title": "Match Village"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2023-09-15T07:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 359,
+    "slug": "mechdefender-fb9793",
+    "startDate": "2023-09-08T07:00:00.000Z",
+    "title": "MechDefender"
+  },
+  {
     "discountPercentage": 85,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -4669,6 +4714,15 @@
     "slug": "necrosmith-b2ef15",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "Necrosmith"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2023-10-14T07:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "need-for-spirit-drink-and-drive-simulator-db9660",
+    "startDate": "2023-09-30T07:00:00.000Z",
+    "title": "Need for Spirit Drink and Drive Simulator"
   },
   {
     "discountPercentage": 67,
@@ -5319,6 +5373,15 @@
     "title": "Production Line"
   },
   {
+    "discountPercentage": 95,
+    "endDate": "2023-10-06T07:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "project-first-contact-ff7fdc",
+    "startDate": "2023-09-22T07:00:00.000Z",
+    "title": "Project First Contact"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -5965,6 +6028,15 @@
     "slug": "scrapnaut",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Scrapnaut"
+  },
+  {
+    "discountPercentage": 85,
+    "endDate": "2023-09-19T07:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "obelixes-tower-defense-0efb67",
+    "startDate": "2023-09-05T07:00:00.000Z",
+    "title": "Secret Agent 001"
   },
   {
     "discountPercentage": 50,
