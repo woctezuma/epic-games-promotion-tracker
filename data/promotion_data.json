@@ -2151,15 +2151,6 @@
     "title": "Dying Light Enhanced Edition"
   },
   {
-    "discountPercentage": 70,
-    "endDate": "2023-11-01T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "dying-light",
-    "startDate": "2023-10-18T15:00:00.000Z",
-    "title": "Dying Light Enhanced Edition"
-  },
-  {
     "discountPercentage": 53,
     "endDate": "2023-09-12T15:00:00.000Z",
     "isFree": false,
@@ -7128,12 +7119,12 @@
     "title": "Tetris\u00ae Effect: Connected"
   },
   {
-    "discountPercentage": 70,
-    "endDate": "2023-09-28T15:00:00.000Z",
+    "discountPercentage": 75,
+    "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1999,
     "slug": "the-alien-cube-789431",
-    "startDate": "2023-09-14T15:00:00.000Z",
+    "startDate": "2023-10-18T15:00:00.000Z",
     "title": "The Alien Cube"
   },
   {
