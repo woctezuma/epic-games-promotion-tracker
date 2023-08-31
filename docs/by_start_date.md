@@ -1,6 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|mokoko-x-e2b09d|Mokoko X|8,99€|50|2023-08-31 02h|2023-09-21 02h|
 |#|cave-story-plus|Cave Story+|11,99€|100|2023-08-31 15h|2023-09-07 15h|
 |#|back-4-blood|Back 4 Blood: Standard Edition|59,99€|80|2023-08-31 17h|2023-09-07 17h|
 |#|batman-arkham-asylum|Batman Arkham Asylum Game of the Year Edition|19,99€|75|2023-08-31 17h|2023-09-07 17h|
