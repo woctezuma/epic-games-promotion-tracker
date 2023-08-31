@@ -677,7 +677,6 @@
 |#|tavern-master-ee18ab|Tavern Master|11,99€|50|2023-09-14 15h|2023-09-28 15h|
 |#|terrain-of-magical-expertise|Terrain of Magical Expertise|19,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|tetris-effect|Tetris® Effect: Connected|31,99€|50|2023-09-14 15h|2023-09-28 15h|
-|#|the-alien-cube-789431|The Alien Cube|19,99€|70|2023-09-14 15h|2023-09-28 15h|
 |#|the-backroom-project-b6b434|The Backroom Project|8,99€|20|2023-09-14 15h|2023-09-28 15h|
 |#|the-captain|The Captain|15,99€|50|2023-09-14 15h|2023-09-28 15h|
 |#|the-case-of-the-golden-idol-ce58f7|The Case of the Golden Idol|17,99€|20|2023-09-14 15h|2023-09-28 15h|
@@ -902,7 +901,6 @@
 |#|dark-light|Dark Light|15,29€|30|2023-10-18 15h|2023-11-01 15h|
 |#|doki-doki-literature-club-plus|Doki Doki Literature Club Plus!|12,49€|25|2023-10-18 15h|2023-11-01 15h|
 |#|dying-light-2-stay-human  |Dying Light 2 Stay Human|59,99€|50|2023-10-18 15h|2023-11-01 15h|
-|#|dying-light|Dying Light Enhanced Edition|29,99€|70|2023-10-18 15h|2023-11-01 15h|
 |#|dying-light-franchise-bundle|Dying Light Franchise Bundle|85,99€|53|2023-10-18 15h|2023-11-01 15h|
 |#|forgive-me-father-133635|Forgive Me Father|19,99€|30|2023-10-18 15h|2023-11-01 15h|
 |#|ghostbusters-spirits-unleashed |Ghostbusters: Spirits Unleashed|17,99€|25|2023-10-18 15h|2023-11-01 15h|
@@ -944,6 +942,7 @@
 |#|superliminal|Superliminal|15,99€|50|2023-10-18 15h|2023-11-01 15h|
 |#|tacoma|Tacoma|16,99€|75|2023-10-18 15h|2023-11-01 15h|
 |#|tandem-a-tale-of-shadows-c3f55e|Tandem: A Tale of Shadows|8,99€|50|2023-10-18 15h|2023-11-01 15h|
+|#|the-alien-cube-789431|The Alien Cube|19,99€|75|2023-10-18 15h|2023-11-01 15h|
 |#|the-creepy-syndrome-90fc19|The Creepy Syndrome|4,49€|50|2023-10-18 15h|2023-11-01 15h|
 |#|the-flower-collectors|The Flower Collectors|14,99€|50|2023-10-18 15h|2023-11-01 15h|
 |#|the-lions-song|The Lion's Song|7,99€|60|2023-10-18 15h|2023-11-01 15h|
