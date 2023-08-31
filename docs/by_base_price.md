@@ -192,7 +192,6 @@
 |#|disney-dreamlight-valley|Disney Dreamlight Valley|29,99€|30|2023-09-14 15h|2023-09-28 15h|
 |#|dungeons-3|Dungeons 3|29,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|dying-light|Dying Light Enhanced Edition|29,99€|70|2023-09-05 15h|2023-09-12 15h|
-|#|dying-light|Dying Light Enhanced Edition|29,99€|70|2023-10-18 15h|2023-11-01 15h|
 |#|elex|ELEX|29,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|edge-of-eternity|Edge Of Eternity|29,99€|65|2023-09-14 15h|2023-09-28 15h|
 |#|endling-extinction-is-forever|Endling - Extinction is Forever|29,99€|34|2023-09-14 15h|2023-09-28 15h|
@@ -415,7 +414,7 @@
 |#|sundered-eldritch-edition|Sundered: Eldritch Edition|19,99€|75|2023-10-18 15h|2023-11-01 15h|
 |#|tales-from-the-borderlands|Tales from the Borderlands|19,99€|25|2023-09-05 11h|2023-09-19 11h|
 |#|terrain-of-magical-expertise|Terrain of Magical Expertise|19,99€|75|2023-09-14 15h|2023-09-28 15h|
-|#|the-alien-cube-789431|The Alien Cube|19,99€|70|2023-09-14 15h|2023-09-28 15h|
+|#|the-alien-cube-789431|The Alien Cube|19,99€|75|2023-10-18 15h|2023-11-01 15h|
 |#|the-life-and-suffering-of-sir-brante|The Life and Suffering of Sir Brante|19,99€|60|2023-09-14 15h|2023-09-28 15h|
 |#|the-pegasus-expedition-224279|The Pegasus Expedition|19,99€|15|2023-09-14 15h|2023-09-28 15h|
 |#|the-smurfs-mission-vileaf-b1b351|The Smurfs Mission Vileaf|19,99€|60|2023-09-14 15h|2023-09-28 15h|

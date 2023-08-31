@@ -239,7 +239,6 @@
 |#|dying-light-2-stay-human  |Dying Light 2 Stay Human|59,99€|50|2023-09-05 15h|2023-09-12 15h|
 |#|dying-light-2-stay-human  |Dying Light 2 Stay Human|59,99€|50|2023-10-18 15h|2023-11-01 15h|
 |#|dying-light|Dying Light Enhanced Edition|29,99€|70|2023-09-05 15h|2023-09-12 15h|
-|#|dying-light|Dying Light Enhanced Edition|29,99€|70|2023-10-18 15h|2023-11-01 15h|
 |#|dying-light-franchise-bundle|Dying Light Franchise Bundle|85,99€|53|2023-09-05 15h|2023-09-12 15h|
 |#|dying-light-franchise-bundle|Dying Light Franchise Bundle|85,99€|53|2023-10-18 15h|2023-11-01 15h|
 |#|dynopunk-2035f5|Dynopunk|14,79€|25|2023-09-14 15h|2023-09-28 15h|
@@ -792,7 +791,7 @@
 |#|terrain-of-magical-expertise|Terrain of Magical Expertise|19,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|teslas-best-friend-c2acf4|Tesla's Best Friend|4,49€|80|2023-10-03 14h|2023-10-18 14h|
 |#|tetris-effect|Tetris® Effect: Connected|31,99€|50|2023-09-14 15h|2023-09-28 15h|
-|#|the-alien-cube-789431|The Alien Cube|19,99€|70|2023-09-14 15h|2023-09-28 15h|
+|#|the-alien-cube-789431|The Alien Cube|19,99€|75|2023-10-18 15h|2023-11-01 15h|
 |#|the-backroom-project-b6b434|The Backroom Project|8,99€|20|2023-09-14 15h|2023-09-28 15h|
 |#|the-captain|The Captain|15,99€|50|2023-09-14 15h|2023-09-28 15h|
 |#|the-captain-is-dead-b35c02|The Captain is Dead|17,99€|40|2023-09-01 11h|2023-09-07 11h|
