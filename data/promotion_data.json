@@ -738,6 +738,24 @@
     "title": "Battle Ram"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "battlefield-v-definitive-edition",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Battlefield V Definitive Edition"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "battlefield-2042",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Battlefield\u2122 2042"
+  },
+  {
     "discountPercentage": 35,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -1764,6 +1782,15 @@
     "title": "Dead Age 2"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "dead-space",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Dead Space"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-09-14T03:00:00.000Z",
     "isFree": false,
@@ -2151,6 +2178,15 @@
     "title": "Dying Light Enhanced Edition"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "dying-light",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Dying Light Enhanced Edition"
+  },
+  {
     "discountPercentage": 53,
     "endDate": "2023-09-12T15:00:00.000Z",
     "isFree": false,
@@ -2176,6 +2212,15 @@
     "slug": "dynopunk-2035f5",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Dynopunk"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 6999,
+    "slug": "ea-sports-pga-tour",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "EA SPORTS\u2122 PGA TOUR\u2122"
   },
   {
     "discountPercentage": 35,
@@ -2230,6 +2275,15 @@
     "slug": "elex-ii",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "ELEX II"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2699,
+    "slug": "eastward",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Eastward"
   },
   {
     "discountPercentage": 65,
@@ -2383,6 +2437,15 @@
     "slug": "fist-forged-in-shadow-torch",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "F.I.S.T.: Forged In Shadow Torch"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 6999,
+    "slug": "f1-23",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "F1\u00ae 23"
   },
   {
     "discountPercentage": 15,
@@ -3627,6 +3690,15 @@
     "title": "Island Farmer"
   },
   {
+    "discountPercentage": 65,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "it-takes-two",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "It Takes Two"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -4392,6 +4464,15 @@
     "title": "Marvel\u2019s Spider-Man: Miles Morales"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "mass-effect-legendary-edition",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Mass Effect\u2122 Legendary Edition"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -4768,6 +4849,15 @@
     "slug": "necrosmith-b2ef15",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "Necrosmith"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 6999,
+    "slug": "need-for-speed-unbound",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Need for Speed\u2122 Unbound Standard Edition"
   },
   {
     "discountPercentage": 80,
@@ -5983,6 +6073,42 @@
     "slug": "space-elite-force-a00006",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "SPACE ELITE FORCE"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 6999,
+    "slug": "star-wars-jedi-survivor",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "STAR WARS Jedi: Survivor\u2122"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "star-wars-battlefront-2",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "STAR WARS\u2122 Battlefront\u2122 II: Celebration Edition"
+  },
+  {
+    "discountPercentage": 65,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "star-wars-battlefront",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "star-wars-squadrons",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "STAR WARS\u2122: Squadrons"
   },
   {
     "discountPercentage": 25,
@@ -7627,7 +7753,7 @@
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 799,
-    "slug": "e9bdfda4831a4c22b63b147aa11fa40a",
+    "slug": "the-silent-age-eb6972",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "The Silent Age"
   },
@@ -8503,6 +8629,15 @@
     "slug": "we-are-football",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "WE ARE FOOTBALL"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 6999,
+    "slug": "wild-hearts",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "WILD HEARTS\u2122 Standard Edition"
   },
   {
     "discountPercentage": 70,
