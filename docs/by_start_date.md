@@ -33,6 +33,8 @@
 |#|doki-doki-literature-club-plus|Doki Doki Literature Club Plus!|12,49€|20|2023-09-01 16h|2023-09-09 06h|
 |#|lifeless-planet-premier-edition|Lifeless Planet: Premier Edition|15,99€|80|2023-09-01 16h|2023-09-09 06h|
 |#|cyber-drift-6ac51b|Cyber Drift|6,29€|50|2023-09-02 17h|2023-10-02 17h|
+|#|dirt-bicycle-rider-simulator-19bff9|Dirt Bicycle Rider Simulator|0,89€|45|2023-09-02 17h|2023-09-17 17h|
+|#|real-motocross-driving-simulator-c8ff84|Real Motocross Driving Simulator|0,89€|45|2023-09-02 17h|2023-09-17 17h|
 |#|geojelly-a44cfe|GeoJelly|4,49€|45|2023-09-02 23h|2023-09-21 11h|
 |#|alex-kidd-in-miracle-world-dx|Alex Kidd in Miracle World DX|19,99€|70|2023-09-03 00h|2023-09-10 22h|
 |#|search-de9485|Nihilsearch|8,99€|65|2023-09-03 02h|2023-09-17 14h|

@@ -215,6 +215,7 @@
 |#|destroy-all-humans|Destroy All Humans!|29,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|destroy-all-humans-2-reprobed|Destroy All Humans! 2 - Reprobed|39,99€|50|2023-09-14 15h|2023-09-28 15h|
 |#|dinobreak-307b09|Dinobreak|17,99€|20|2023-10-04 14h|2023-10-11 14h|
+|#|dirt-bicycle-rider-simulator-19bff9|Dirt Bicycle Rider Simulator|0,89€|45|2023-09-02 17h|2023-09-17 17h|
 |#|disaster-report-4-summer-memories|Disaster Report 4: Summer Memories|59,99€|67|2023-10-02 17h|2023-10-16 17h|
 |#|disciples-liberation|Disciples: Liberation|39,99€|50|2023-09-14 15h|2023-09-28 15h|
 |#|disco-elysium|Disco Elysium - The Final Cut|39,99€|75|2023-09-14 15h|2023-09-28 15h|
@@ -637,6 +638,7 @@
 |#|rayman-origins|Rayman Origins|9,99€|70|2023-09-14 15h|2023-09-28 15h|
 |#|relegion-fe9684|Re-Legion|9,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|real-drift-multiplayer-4bdd6d|Real Drift Multiplayer|1,79€|60|2023-08-31 17h|2023-09-15 17h|
+|#|real-motocross-driving-simulator-c8ff84|Real Motocross Driving Simulator|0,89€|45|2023-09-02 17h|2023-09-17 17h|
 |#|realpolitiks-2|Realpolitiks II|24,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|rebel-cops|Rebel Cops|9,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|recollection-71f3a4|Recollection|4,49€|25|2023-09-14 15h|2023-09-28 15h|
