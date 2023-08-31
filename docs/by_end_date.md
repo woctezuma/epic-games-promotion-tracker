@@ -151,7 +151,6 @@
 |#|deltav-rings-of-saturn-4cd187|ΔV: Rings of Saturn|8,99€|42|2023-09-12 15h|2023-09-19 15h|
 |#|gravity-oddity-a66e76|Gravity Oddity|13,49€|10|2023-09-13 14h|2023-09-20 10h|
 |#|outbreak-the-nightmare-chronicles-reinvestigated-b631d4|Outbreak The Nightmare Chronicles Reinvestigated|8,99€|40|2023-09-13 14h|2023-09-20 14h|
-|#|mokoko-x-e2b09d|Mokoko X|8,99€|50|2023-08-31 02h|2023-09-21 02h|
 |#|geojelly-a44cfe|GeoJelly|4,49€|45|2023-09-02 23h|2023-09-21 11h|
 |#|abzu|ABZU|15,99€|75|2023-09-07 16h|2023-09-21 23h|
 |#|brothers-a-tale-of-two-sons|Brothers - A Tale of Two Sons|14,99€|80|2023-09-07 16h|2023-09-22 07h|
