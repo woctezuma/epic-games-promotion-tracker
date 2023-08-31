@@ -7119,6 +7119,15 @@
     "title": "Tetris\u00ae Effect: Connected"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2023-09-12T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "the-alien-cube-789431",
+    "startDate": "2023-09-05T15:00:00.000Z",
+    "title": "The Alien Cube"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -7408,11 +7417,20 @@
   },
   {
     "discountPercentage": 70,
-    "endDate": "2023-09-28T15:00:00.000Z",
+    "endDate": "2023-09-12T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1199,
     "slug": "the-land-of-pain-d6a3ed",
-    "startDate": "2023-09-14T15:00:00.000Z",
+    "startDate": "2023-09-05T15:00:00.000Z",
+    "title": "The Land of Pain"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "the-land-of-pain-d6a3ed",
+    "startDate": "2023-10-18T15:00:00.000Z",
     "title": "The Land of Pain"
   },
   {
@@ -7609,7 +7627,7 @@
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 799,
-    "slug": "the-silent-age-eb6972",
+    "slug": "e9bdfda4831a4c22b63b147aa11fa40a",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "The Silent Age"
   },
