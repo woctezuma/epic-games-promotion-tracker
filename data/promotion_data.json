@@ -261,6 +261,15 @@
     "title": "Alchemist Adventure"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2023-09-10T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "alex-kidd-in-miracle-world-dx",
+    "startDate": "2023-09-03T00:00:00.000Z",
+    "title": "Alex Kidd in Miracle World DX"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -1246,7 +1255,7 @@
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1299,
-    "slug": "chess-ultra-91bba3",
+    "slug": "b84634385c6e4705869992cb7a21008d",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Chess Ultra"
   },
@@ -1375,6 +1384,15 @@
     "slug": "coffee-talk",
     "startDate": "2023-11-21T17:00:00.000Z",
     "title": "Coffee Talk"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2023-09-12T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "colt-canyon",
+    "startDate": "2023-09-05T15:00:00.000Z",
+    "title": "Colt Canyon"
   },
   {
     "discountPercentage": 75,
@@ -1735,6 +1753,15 @@
     "slug": "dead-age-f46c67",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Dead Age"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2023-09-12T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "dead-age-2",
+    "startDate": "2023-09-05T15:00:00.000Z",
+    "title": "Dead Age 2"
   },
   {
     "discountPercentage": 50,
@@ -2410,6 +2437,15 @@
     "slug": "final-fantasy-vii-remake-intergrade",
     "startDate": "2023-09-20T15:00:00.000Z",
     "title": "FINAL FANTASY VII REMAKE INTERGRADE"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2023-09-17T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1699,
+    "slug": "foreclosed",
+    "startDate": "2023-09-10T00:00:00.000Z",
+    "title": "FORECLOSED"
   },
   {
     "discountPercentage": 20,
@@ -3357,6 +3393,15 @@
     "title": "Human Resource Machine"
   },
   {
+    "discountPercentage": 66,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "hundred-days-winemaking-simulator",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Hundred Days - Winemaking Simulator"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -3409,6 +3454,15 @@
     "slug": "il2-sturmovik-1946-4afaf1",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "IL-2 Sturmovik: 1946"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2023-09-12T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "industria",
+    "startDate": "2023-09-05T15:00:00.000Z",
+    "title": "INDUSTRIA"
   },
   {
     "discountPercentage": 70,
@@ -4482,6 +4536,15 @@
     "title": "Might and Magic: Heroes VII - Ultimate Edition"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "milky-way-prince-the-vampire-star",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Milky Way Prince \u2013 The Vampire Star"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -5182,6 +5245,15 @@
     "slug": "pathfinder-wrath-of-the-righteous",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "Pathfinder: Wrath of the Righteous - Enhanced Edition"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1529,
+    "slug": "pathway",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Pathway"
   },
   {
     "discountPercentage": 50,
@@ -5940,6 +6012,24 @@
     "title": "STRANGER OF PARADISE FINAL FANTASY ORIGIN"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2299,
+    "slug": "superhot",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "SUPERHOT"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "superhot-mind-control-delete",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "SUPERHOT: Mind Control Delete"
+  },
+  {
     "discountPercentage": 77,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -5976,6 +6066,15 @@
     "title": "Saints Row"
   },
   {
+    "discountPercentage": 45,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "saturnalia",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Saturnalia"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2023-10-16T17:00:00.000Z",
     "isFree": false,
@@ -5983,6 +6082,15 @@
     "slug": "saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited",
     "startDate": "2023-10-02T17:00:00.000Z",
     "title": "Saviors of Sapphire Wings & Strangers of Sword City Revisited"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2023-09-19T13:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "scarlet-hood-and-the-wicked-wood",
+    "startDate": "2023-09-05T13:00:00.000Z",
+    "title": "Scarlet Hood and the Wicked Wood"
   },
   {
     "discountPercentage": 80,
@@ -6370,6 +6478,15 @@
     "slug": "slime-rancher-2",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Slime Rancher 2"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-10-01T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "smalland",
+    "startDate": "2023-09-24T00:00:00.000Z",
+    "title": "Smalland: Survive the Wilds"
   },
   {
     "discountPercentage": 50,
@@ -7605,6 +7722,69 @@
     "title": "The Valiant"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "walking-dead-definitive-series",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "The Walking Dead : The Definitive Series"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "walking-dead-a-new-frontier",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "The Walking Dead: A New Frontier"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "walking-dead-final-season",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "The Walking Dead: Final Season"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "walking-dead-michonne",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "The Walking Dead: Michonne - A Telltale Miniseries"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "walking-dead-season-one",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "The Walking Dead: Season One"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "walking-dead-season-two",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "The Walking Dead: Season Two"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4996,
+    "slug": "the-witcher-3-wild-hunt",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "The Witcher 3: Wild Hunt \u2013 Complete Edition"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -8071,6 +8251,15 @@
     "slug": "tropico-6",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Tropico 6"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2023-09-18T13:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "truberbrook",
+    "startDate": "2023-09-04T13:00:00.000Z",
+    "title": "Tr\u00fcberbrook"
   },
   {
     "discountPercentage": 66,
