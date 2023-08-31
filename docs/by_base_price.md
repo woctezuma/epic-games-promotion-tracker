@@ -414,6 +414,7 @@
 |#|sundered-eldritch-edition|Sundered: Eldritch Edition|19,99€|75|2023-10-18 15h|2023-11-01 15h|
 |#|tales-from-the-borderlands|Tales from the Borderlands|19,99€|25|2023-09-05 11h|2023-09-19 11h|
 |#|terrain-of-magical-expertise|Terrain of Magical Expertise|19,99€|75|2023-09-14 15h|2023-09-28 15h|
+|#|the-alien-cube-789431|The Alien Cube|19,99€|70|2023-09-05 15h|2023-09-12 15h|
 |#|the-alien-cube-789431|The Alien Cube|19,99€|75|2023-10-18 15h|2023-11-01 15h|
 |#|the-life-and-suffering-of-sir-brante|The Life and Suffering of Sir Brante|19,99€|60|2023-09-14 15h|2023-09-28 15h|
 |#|the-pegasus-expedition-224279|The Pegasus Expedition|19,99€|15|2023-09-14 15h|2023-09-28 15h|
@@ -698,7 +699,8 @@
 |#|shadowhand|Shadowhand|11,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|spinch-239b03|Spinch|11,99€|55|2023-09-14 15h|2023-09-28 15h|
 |#|tavern-master-ee18ab|Tavern Master|11,99€|50|2023-09-14 15h|2023-09-28 15h|
-|#|the-land-of-pain-d6a3ed|The Land of Pain|11,99€|70|2023-09-14 15h|2023-09-28 15h|
+|#|the-land-of-pain-d6a3ed|The Land of Pain|11,99€|70|2023-09-05 15h|2023-09-12 15h|
+|#|the-land-of-pain-d6a3ed|The Land of Pain|11,99€|75|2023-10-18 15h|2023-11-01 15h|
 |#|they-always-run-965bb3|They Always Run|11,99€|70|2023-09-14 15h|2023-09-28 15h|
 |#|torchlight|Torchlight|11,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|turnip-boy-commits-tax-evasion-fb2084|Turnip Boy Commits Tax Evasion|11,99€|66|2023-09-14 15h|2023-09-28 15h|
@@ -834,7 +836,7 @@
 |#|the-crows-eye-af7d60|The Crows Eye|7,99€|55|2023-09-14 15h|2023-09-28 15h|
 |#|the-dark-prophecy-2193c4|The Dark Prophecy|7,99€|60|2023-09-14 15h|2023-09-28 15h|
 |#|the-lions-song|The Lion's Song|7,99€|60|2023-10-18 15h|2023-11-01 15h|
-|#|the-silent-age-eb6972|The Silent Age|7,99€|80|2023-09-14 15h|2023-09-28 15h|
+|#|e9bdfda4831a4c22b63b147aa11fa40a|The Silent Age|7,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|the-uncertain-last-quiet-day|The Uncertain: Last Quiet Day|7,99€|85|2023-10-18 15h|2023-11-01 15h|
 |#|the-uncertain-light-at-the-end|The Uncertain: Light at the End|7,99€|85|2023-10-18 15h|2023-11-01 15h|
 |#|train-valley-ead642|Train Valley|7,99€|85|2023-09-14 15h|2023-09-28 15h|
