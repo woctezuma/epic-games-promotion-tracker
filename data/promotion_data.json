@@ -3519,6 +3519,15 @@
     "title": "INDUSTRIA"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "inside",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "INSIDE"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -4266,6 +4275,15 @@
     "title": "Lila's Sky Ark"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "limbo",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Limbo"
+  },
+  {
     "discountPercentage": 15,
     "endDate": "2023-10-26T17:00:00.000Z",
     "isFree": false,
@@ -4282,6 +4300,15 @@
     "slug": "little-inferno",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Little Inferno"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1299,
+    "slug": "little-orpheus-bdd666",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Little Orpheus"
   },
   {
     "discountPercentage": 90,
@@ -6606,6 +6633,15 @@
     "title": "Smalland: Survive the Wilds"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "snake-pass-52e630",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Snake Pass"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -7684,6 +7720,15 @@
     "slug": "the-metronomicon-766679",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "The Metronomicon"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2699,
+    "slug": "the-outlast-trials",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "The Outlast Trials"
   },
   {
     "discountPercentage": 25,
@@ -9007,6 +9052,15 @@
     "slug": "zombie-rollerz-7aa027",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Zombie Rollerz: Pinball Heroes"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "zool-redimensioned-5c52a7",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Zool Redimensioned"
   },
   {
     "discountPercentage": 65,
