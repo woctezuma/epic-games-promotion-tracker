@@ -6790,7 +6790,7 @@
     "endDate": "2023-09-12T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1599,
-    "slug": "e5803cceebde4222b9089d9d8d72c57c",
+    "slug": "submerged-041523",
     "startDate": "2023-09-05T15:00:00.000Z",
     "title": "Submerged"
   },
@@ -7648,60 +7648,6 @@
     "slug": "the-valiant",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "The Valiant"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-11-01T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 4999,
-    "slug": "walking-dead-definitive-series",
-    "startDate": "2023-10-18T15:00:00.000Z",
-    "title": "The Walking Dead : The Definitive Series"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-11-01T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "walking-dead-a-new-frontier",
-    "startDate": "2023-10-18T15:00:00.000Z",
-    "title": "The Walking Dead: A New Frontier"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-11-01T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "walking-dead-final-season",
-    "startDate": "2023-10-18T15:00:00.000Z",
-    "title": "The Walking Dead: Final Season"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-11-01T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "walking-dead-michonne",
-    "startDate": "2023-10-18T15:00:00.000Z",
-    "title": "The Walking Dead: Michonne - A Telltale Miniseries"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-11-01T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "walking-dead-season-one",
-    "startDate": "2023-10-18T15:00:00.000Z",
-    "title": "The Walking Dead: Season One"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-11-01T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "walking-dead-season-two",
-    "startDate": "2023-10-18T15:00:00.000Z",
-    "title": "The Walking Dead: Season Two"
   },
   {
     "discountPercentage": 70,
