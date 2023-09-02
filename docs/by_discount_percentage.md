@@ -34,7 +34,7 @@
 |#|silence-57bc4e|Silence|19,99€|90|2023-09-14 15h|2023-09-28 15h|
 |#|sine-mora-ex-d4fd23|Sine Mora Ex|9,99€|90|2023-09-14 15h|2023-09-28 15h|
 |#|steel-rats-445306|Steel Rats|9,99€|90|2023-09-14 15h|2023-09-28 15h|
-|#|e5803cceebde4222b9089d9d8d72c57c|Submerged|15,99€|90|2023-09-05 15h|2023-09-12 15h|
+|#|submerged-041523|Submerged|15,99€|90|2023-09-05 15h|2023-09-12 15h|
 |#|submerged-hidden-depths-6065a1|Submerged: Hidden Depths|23,99€|90|2023-09-05 15h|2023-09-12 15h|
 |#|the-impossible-fcebf7|THE IMPOSSIBLE|4,49€|90|2023-09-14 15h|2023-09-28 15h|
 |#|the-suicide-of-rachel-foster-1dc01b|The Suicide of Rachel Foster|16,99€|90|2023-09-14 15h|2023-09-28 15h|
@@ -307,12 +307,6 @@
 |#|skyrim|The Elder Scrolls V: Skyrim Special Edition|39,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|the-galactic-junkers-7fef21|The Galactic Junkers|13,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|the-land-of-pain-d6a3ed|The Land of Pain|11,99€|75|2023-10-18 15h|2023-11-01 15h|
-|#|walking-dead-definitive-series|The Walking Dead : The Definitive Series|49,99€|75|2023-10-18 15h|2023-11-01 15h|
-|#|walking-dead-a-new-frontier|The Walking Dead: A New Frontier|14,99€|75|2023-10-18 15h|2023-11-01 15h|
-|#|walking-dead-final-season|The Walking Dead: Final Season|19,99€|75|2023-10-18 15h|2023-11-01 15h|
-|#|walking-dead-michonne|The Walking Dead: Michonne - A Telltale Miniseries|14,99€|75|2023-10-18 15h|2023-11-01 15h|
-|#|walking-dead-season-one|The Walking Dead: Season One|14,99€|75|2023-10-18 15h|2023-11-01 15h|
-|#|walking-dead-season-two|The Walking Dead: Season Two|14,99€|75|2023-10-18 15h|2023-11-01 15h|
 |#|this-is-the-police|This Is The Police|14,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|this-is-the-police-2|This Is The Police 2|14,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|titan-quest|Titan Quest Anniversary Edition|19,99€|75|2023-09-14 15h|2023-09-28 15h|

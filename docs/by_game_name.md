@@ -754,7 +754,7 @@
 |#|strayed-lights-351d29|Strayed Lights|24,99€|30|2023-09-14 15h|2023-09-28 15h|
 |#|stubbs-the-zombie-in-rebel-without-a-pulse|Stubbs the Zombie in Rebel Without a Pulse|15,99€|65|2023-10-18 15h|2023-11-01 15h|
 |#|stygian-reign-of-the-old-ones-56e1d7|Stygian: Reign of the Old Ones|19,99€|80|2023-10-18 15h|2023-11-01 15h|
-|#|e5803cceebde4222b9089d9d8d72c57c|Submerged|15,99€|90|2023-09-05 15h|2023-09-12 15h|
+|#|submerged-041523|Submerged|15,99€|90|2023-09-05 15h|2023-09-12 15h|
 |#|submerged-hidden-depths-6065a1|Submerged: Hidden Depths|23,99€|90|2023-09-05 15h|2023-09-12 15h|
 |#|suicide-guy-9f7963|Suicide Guy|7,19€|35|2023-09-21 23h|2023-09-30 23h|
 |#|sundered-eldritch-edition|Sundered: Eldritch Edition|19,99€|75|2023-09-05 15h|2023-09-12 15h|
@@ -850,12 +850,6 @@
 |#|the-uncertain-light-at-the-end|The Uncertain: Light at the End|7,99€|85|2023-10-18 15h|2023-11-01 15h|
 |#|the-unfinished-swan|The Unfinished Swan|13,99€|70|2023-09-14 15h|2023-09-28 15h|
 |#|the-valiant|The Valiant|24,99€|40|2023-09-14 15h|2023-09-28 15h|
-|#|walking-dead-definitive-series|The Walking Dead : The Definitive Series|49,99€|75|2023-10-18 15h|2023-11-01 15h|
-|#|walking-dead-a-new-frontier|The Walking Dead: A New Frontier|14,99€|75|2023-10-18 15h|2023-11-01 15h|
-|#|walking-dead-final-season|The Walking Dead: Final Season|19,99€|75|2023-10-18 15h|2023-11-01 15h|
-|#|walking-dead-michonne|The Walking Dead: Michonne - A Telltale Miniseries|14,99€|75|2023-10-18 15h|2023-11-01 15h|
-|#|walking-dead-season-one|The Walking Dead: Season One|14,99€|75|2023-10-18 15h|2023-11-01 15h|
-|#|walking-dead-season-two|The Walking Dead: Season Two|14,99€|75|2023-10-18 15h|2023-11-01 15h|
 |#|the-witcher-3-wild-hunt|The Witcher 3: Wild Hunt – Complete Edition|49,96€|70|2023-09-14 15h|2023-09-28 15h|
 |#|the-wizard-and-the-slug-482a09|The Wizard and The Slug|3,99€|60|2023-09-14 15h|2023-09-28 15h|
 |#|the-wolf-among-us|The Wolf Among Us|14,99€|60|2023-09-05 15h|2023-09-12 15h|

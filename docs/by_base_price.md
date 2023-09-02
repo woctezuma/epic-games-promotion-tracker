@@ -76,7 +76,6 @@
 |#|steelrising|Steelrising|49,99€|60|2023-09-14 15h|2023-09-28 15h|
 |#|tt-isle-of-man-ride-on-the-edge-3|TT Isle of Man: Ride on the Edge 3|49,99€|30|2023-09-14 15h|2023-09-28 15h|
 |#|the-lord-of-the-rings-gollum|The Lord of the Rings - Gollum™|49,99€|30|2023-09-14 15h|2023-09-28 15h|
-|#|walking-dead-definitive-series|The Walking Dead : The Definitive Series|49,99€|75|2023-10-18 15h|2023-11-01 15h|
 |#|ghost-recon-wildlands|Tom Clancy's Ghost Recon Wildlands Standard Edition|49,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|tyranny|Tyranny - Gold Edition|49,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|vampire-the-masquerade-swansong|Vampire: The Masquerade – Swansong|49,99€|40|2023-10-18 15h|2023-11-01 15h|
@@ -418,7 +417,6 @@
 |#|the-life-and-suffering-of-sir-brante|The Life and Suffering of Sir Brante|19,99€|60|2023-09-14 15h|2023-09-28 15h|
 |#|the-pegasus-expedition-224279|The Pegasus Expedition|19,99€|15|2023-09-14 15h|2023-09-28 15h|
 |#|the-smurfs-mission-vileaf-b1b351|The Smurfs Mission Vileaf|19,99€|60|2023-09-14 15h|2023-09-28 15h|
-|#|walking-dead-final-season|The Walking Dead: Final Season|19,99€|75|2023-10-18 15h|2023-11-01 15h|
 |#|through-the-woods-4dad49|Through the Woods|19,99€|80|2023-10-18 15h|2023-11-01 15h|
 |#|tiny-thor-76de1f|Tiny Thor|19,99€|25|2023-09-14 15h|2023-09-28 15h|
 |#|titan-quest|Titan Quest Anniversary Edition|19,99€|75|2023-09-14 15h|2023-09-28 15h|
@@ -529,7 +527,7 @@
 |#|song-of-farca-1eb3f2|Song of Farca|15,99€|70|2023-09-14 15h|2023-09-28 15h|
 |#|spelldrifter|Spelldrifter|15,99€|100|2023-09-07 15h|2023-09-14 15h|
 |#|stubbs-the-zombie-in-rebel-without-a-pulse|Stubbs the Zombie in Rebel Without a Pulse|15,99€|65|2023-10-18 15h|2023-11-01 15h|
-|#|e5803cceebde4222b9089d9d8d72c57c|Submerged|15,99€|90|2023-09-05 15h|2023-09-12 15h|
+|#|submerged-041523|Submerged|15,99€|90|2023-09-05 15h|2023-09-12 15h|
 |#|superliminal|Superliminal|15,99€|50|2023-09-07 17h|2023-09-17 17h|
 |#|superliminal|Superliminal|15,99€|50|2023-10-18 15h|2023-11-01 15h|
 |#|toem|TOEM|15,99€|70|2023-09-11 16h|2023-09-24 16h|
@@ -579,10 +577,6 @@
 |#|space-rangers-hd-a-war-apart-455702|Space Rangers HD A War Apart|14,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|the-flower-collectors|The Flower Collectors|14,99€|50|2023-10-18 15h|2023-11-01 15h|
 |#|the-plane-effect|The Plane Effect|14,99€|67|2023-09-14 15h|2023-09-28 15h|
-|#|walking-dead-a-new-frontier|The Walking Dead: A New Frontier|14,99€|75|2023-10-18 15h|2023-11-01 15h|
-|#|walking-dead-michonne|The Walking Dead: Michonne - A Telltale Miniseries|14,99€|75|2023-10-18 15h|2023-11-01 15h|
-|#|walking-dead-season-one|The Walking Dead: Season One|14,99€|75|2023-10-18 15h|2023-11-01 15h|
-|#|walking-dead-season-two|The Walking Dead: Season Two|14,99€|75|2023-10-18 15h|2023-11-01 15h|
 |#|the-wolf-among-us|The Wolf Among Us|14,99€|60|2023-09-05 15h|2023-09-12 15h|
 |#|the-wolf-among-us|The Wolf Among Us|14,99€|60|2023-10-18 15h|2023-11-01 15h|
 |#|this-is-the-police|This Is The Police|14,99€|75|2023-09-14 15h|2023-09-28 15h|
