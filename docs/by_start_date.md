@@ -1,9 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|koral-63ea73|KORAL|7,99€|70|2023-09-05 17h|2023-09-14 13h|
-|#|xuan-yuan-sword-7-22c442|Xuan-Yuan Sword VII|31,39€|20|2023-09-06 02h|2023-09-13 02h|
-|#|sailingera-450a80|Sailing Era|19,99€|25|2023-09-06 04h|2023-09-19 03h|
-|#|horror-tales-the-wine-3ab2b2|HORROR TALES The Wine|11,99€|75|2023-09-06 13h|2023-09-19 10h|
 |#|monster-harvest-75f018|Monster Harvest|13,99€|75|2023-09-07 00h|2023-09-10 22h|
 |#|bridge-constructor-the-walking-dead|Bridge Constructor: The Walking Dead|9,99€|85|2023-09-07 13h|2023-10-07 13h|
 |#|pumpkin-jack|Pumpkin Jack|29,99€|70|2023-09-07 13h|2023-09-14 13h|
@@ -32,6 +28,7 @@
 |#|superliminal|Superliminal|15,99€|50|2023-09-07 17h|2023-09-17 17h|
 |#|tannenberg|Tannenberg|19,99€|80|2023-09-07 17h|2023-09-18 17h|
 |#|verdun|Verdun|19,99€|80|2023-09-07 17h|2023-09-18 17h|
+|#|eternal-evil-ca15ca|Eternal Evil|17,99€|15|2023-09-07 19h|2023-09-15 06h|
 |#|mechdefender-fb9793|MechDefender|3,59€|40|2023-09-08 07h|2023-09-15 07h|
 |#|geometric-sniper-z-ef97ef|Geometric Sniper - Z|4,49€|30|2023-09-08 17h|2023-09-15 17h|
 |#|deathrun-tv-db074f|DEATHRUN TV|11,99€|75|2023-09-10 00h|2023-09-17 22h|
@@ -56,6 +53,7 @@
 |#|outbreak-the-nightmare-chronicles-reinvestigated-b631d4|Outbreak The Nightmare Chronicles Reinvestigated|8,99€|40|2023-09-13 14h|2023-09-20 14h|
 |#|oxide-room-104-4c1249|Oxide Room 104|17,99€|70|2023-09-13 23h|2023-09-18 00h|
 |#|thunder-ray-e9a2e3|Thunder Ray|13,49€|10|2023-09-14 12h|2023-09-21 12h|
+|#|12-orbits-c48266|12 orbits|1,79€|50|2023-09-14 15h|2023-09-28 15h|
 |#|7-billion-humans|7 Billion Humans|11,99€|50|2023-09-14 15h|2023-09-28 15h|
 |#|762-high-calibre-762-hard-life-93f60a|7,62 High Calibre|4,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|a-game-of-thrones-5858a3|A Game Of Thrones: The Board Game Digital Edition|19,99€|50|2023-09-14 15h|2023-09-28 15h|
@@ -79,6 +77,7 @@
 |#|arcrunner-61fee6|ArcRunner|19,99€|20|2023-09-14 15h|2023-09-28 15h|
 |#|art-of-rally|Art of Rally|24,99€|45|2023-09-14 15h|2023-09-28 15h|
 |#|as-far-as-the-eye|As Far As The Eye|20,99€|75|2023-09-14 15h|2023-09-28 15h|
+|#|ash-of-gods-the-way-58bd36|Ash of Gods: The Way|24,50€|15|2023-09-14 15h|2023-09-28 15h|
 |#|ashen|Ashen|37,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|ashwalkers|Ashwalkers|11,99€|70|2023-09-14 15h|2023-09-28 15h|
 |#|assassins-creed-chronicles-trilogy|Assassin's Creed Chronicles – Trilogy|24,99€|70|2023-09-14 15h|2023-09-28 15h|
@@ -436,8 +435,7 @@
 |#|perimeter-emperors-testament-af1efc|Perimeter: Emperor's Testament|3,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|pesterquest-de8729|Pesterquest|10,79€|80|2023-09-14 15h|2023-09-28 15h|
 |#|planescape-torment-enhanced-edition|Planescape: Torment: Enhanced Edition|15,99€|70|2023-09-14 15h|2023-09-28 15h|
-|#|play-with-me-escape-room-586cc4|Play with Me - Escape Room|2,69€|87|2023-09-14 15h|2023-09-28 15h|
-|#|227fefdce66b4a6c84ccc877bb42659b|Poker Club|19,99€|45|2023-09-14 15h|2023-09-28 15h|
+|#|poker-club-6e18ee|Poker Club|19,99€|45|2023-09-14 15h|2023-09-28 15h|
 |#|port-royale-4|Port Royale 4|39,99€|67|2023-09-14 15h|2023-09-28 15h|
 |#|potion-permit|Potion Permit|15,99€|30|2023-09-14 15h|2023-09-28 15h|
 |#|power-vacuum-3b662e|Power Vacuum|9,89€|70|2023-09-14 15h|2023-09-28 15h|
@@ -708,6 +706,7 @@
 |#|coopvalor-2056-ukraine-ww3-718385|CoopValor 2056: Ukraine WW3|3,59€|25|2023-09-19 15h|2023-09-26 15h|
 |#|dros-6da0b2|Dros|17,99€|45|2023-09-19 15h|2023-09-26 15h|
 |#|far-lone-sails|FAR: Lone Sails|14,99€|80|2023-09-19 15h|2023-09-26 15h|
+|#|return-to-monkey-island-f4af79|Return to Monkey Island|22,99€|30|2023-09-19 15h|2023-09-26 15h|
 |#|the-expanse-a-telltale-series|The Expanse - A Telltale Series|39,99€|38|2023-09-19 15h|2023-09-26 15h|
 |#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2023-09-19 22h|2023-10-04 22h|
 |#|cyberpunk-2077|Cyberpunk 2077|59,99€|40|2023-09-20 15h|2023-09-26 18h|
@@ -800,6 +799,7 @@
 |#|dying-light-2-stay-human  |Dying Light 2 Stay Human|59,99€|50|2023-10-18 15h|2023-11-01 15h|
 |#|dying-light|Dying Light Enhanced Edition|29,99€|70|2023-10-18 15h|2023-11-01 15h|
 |#|dying-light-franchise-bundle|Dying Light Franchise Bundle|85,99€|53|2023-10-18 15h|2023-11-01 15h|
+|#|eternal-evil-ca15ca|Eternal Evil|17,99€|25|2023-10-18 15h|2023-11-01 15h|
 |#|forgive-me-father-133635|Forgive Me Father|19,99€|30|2023-10-18 15h|2023-11-01 15h|
 |#|ghostbusters-spirits-unleashed |Ghostbusters: Spirits Unleashed|17,99€|25|2023-10-18 15h|2023-11-01 15h|
 |#|gone-home|Gone Home|11,99€|75|2023-10-18 15h|2023-11-01 15h|
@@ -820,6 +820,7 @@
 |#|outbreak-endless-nightmares-restless-dreams-40507b|Outbreak Endless Nightmares Restless Dreams|13,49€|50|2023-10-18 15h|2023-11-01 15h|
 |#|oxide-room-104-4c1249|Oxide Room 104|17,99€|75|2023-10-18 15h|2023-11-01 15h|
 |#|pathfinder-wrath-of-the-righteous|Pathfinder: Wrath of the Righteous - Enhanced Edition|39,99€|70|2023-10-18 15h|2023-11-01 15h|
+|#|play-with-me-escape-room-586cc4|Play with Me - Escape Room|2,69€|90|2023-10-18 15h|2023-11-01 15h|
 |#|redneck-bowl-games-d39874|RedNeck Bowl Games|17,99€|50|2023-10-18 15h|2023-11-01 15h|
 |#|remnant-2|Remnant 2|49,99€|20|2023-10-18 15h|2023-11-01 15h|
 |#|ring-of-pain|Ring of Pain|19,99€|60|2023-10-18 15h|2023-11-01 15h|
@@ -859,6 +860,7 @@
 |#|your-computer-might-be-at-risk-c5dea9|Your Computer Might Be At Risk|10,79€|30|2023-10-18 15h|2023-11-01 15h|
 |#|zombi|ZOMBI|15,99€|75|2023-10-18 15h|2023-11-01 15h|
 |#|zerog-gunfight-6386d2|Zero-G Gunfight|4,49€|10|2023-10-18 15h|2023-11-01 15h|
+|#|forklift-2024-the-simulation-eb32c5|Forklift 2024 - The Simulation|13,49€|35|2023-10-18 23h|2023-10-23 23h|
 |#|out-of-the-park-baseball-24-eb4cf8|Out of the Park Baseball 24|39,99€|50|2023-10-19 17h|2023-11-02 17h|
 |#|outbreak-devious-beginnings-5c0af8|Outbreak Devious Beginnings|8,99€|40|2023-10-25 14h|2023-11-01 14h|
 |#|timothy-vs-the-aliens-2f5b36|Timothy vs the Aliens|13,49€|85|2023-10-28 16h|2023-11-12 12h|
@@ -880,3 +882,13 @@
 |#|im-looking-for-3024-people-1cdae4|I'm looking for 3024 people|3,99€|30|2023-12-02 22h|2023-12-17 22h|
 |#|elegies-aya-17c3f1|ELEGIES Aya|16,19€|15|2023-12-21 16h|2024-01-11 16h|
 |#|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|85|2023-12-21 23h|2023-12-31 11h|
+|#|mallofmayhem-15344c|Mall of Mayhem|8,99€|50|2024-01-01 07h|2024-01-30 23h|
+|#|skotos-455463|Skotos|8,99€|50|2024-02-01 07h|2024-02-29 23h|
+|#|boltbreak-c2bf02|BoltBreak|8,99€|50|2024-03-01 07h|2024-03-30 22h|
+|#|mallofmayhem-15344c|Mall of Mayhem|8,99€|50|2024-04-01 06h|2024-04-30 10h|
+|#|skotos-455463|Skotos|8,99€|50|2024-05-01 06h|2024-05-30 22h|
+|#|boltbreak-c2bf02|BoltBreak|8,99€|50|2024-06-01 06h|2024-06-30 22h|
+|#|mallofmayhem-15344c|Mall of Mayhem|8,99€|50|2024-07-01 06h|2024-07-30 22h|
+|#|skotos-455463|Skotos|8,99€|50|2024-08-01 06h|2024-08-30 22h|
+|#|boltbreak-c2bf02|BoltBreak|8,99€|50|2024-09-01 06h|2024-09-30 22h|
+|#|mallofmayhem-15344c|Mall of Mayhem|8,99€|50|2024-10-01 06h|2024-10-30 22h|
