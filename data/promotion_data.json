@@ -10,6 +10,15 @@
   },
   {
     "discountPercentage": 50,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "12-orbits-c48266",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "12 orbits"
+  },
+  {
+    "discountPercentage": 50,
     "endDate": "2023-10-02T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 999,
@@ -376,6 +385,15 @@
     "slug": "as-far-as-the-eye",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "As Far As The Eye"
+  },
+  {
+    "discountPercentage": 15,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2450,
+    "slug": "ash-of-gods-the-way-58bd36",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Ash of Gods: The Way"
   },
   {
     "discountPercentage": 75,
@@ -807,6 +825,33 @@
     "originalPrice": 899,
     "slug": "boltbreak-c2bf02",
     "startDate": "2023-12-01T07:00:00.000Z",
+    "title": "BoltBreak"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-03-30T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "boltbreak-c2bf02",
+    "startDate": "2024-03-01T07:00:00.000Z",
+    "title": "BoltBreak"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-06-30T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "boltbreak-c2bf02",
+    "startDate": "2024-06-01T06:00:00.000Z",
+    "title": "BoltBreak"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-09-30T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "boltbreak-c2bf02",
+    "startDate": "2024-09-01T06:00:00.000Z",
     "title": "BoltBreak"
   },
   {
@@ -2034,6 +2079,24 @@
     "title": "Epistory - Typing Chronicles"
   },
   {
+    "discountPercentage": 15,
+    "endDate": "2023-09-15T06:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "eternal-evil-ca15ca",
+    "startDate": "2023-09-07T19:00:00.000Z",
+    "title": "Eternal Evil"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "eternal-evil-ca15ca",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Eternal Evil"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -2448,6 +2511,15 @@
     "title": "Forgive Me Father"
   },
   {
+    "discountPercentage": 35,
+    "endDate": "2023-10-23T23:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "forklift-2024-the-simulation-eb32c5",
+    "startDate": "2023-10-18T23:00:00.000Z",
+    "title": "Forklift 2024 - The Simulation"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -2779,15 +2851,6 @@
     "slug": "hitman-3-woa",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "HITMAN World of Assassination"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-09-19T10:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1199,
-    "slug": "horror-tales-the-wine-3ab2b2",
-    "startDate": "2023-09-06T13:00:00.000Z",
-    "title": "HORROR TALES The Wine"
   },
   {
     "discountPercentage": 85,
@@ -3330,15 +3393,6 @@
     "title": "KINGDOM HEARTS Melody of Memory"
   },
   {
-    "discountPercentage": 70,
-    "endDate": "2023-09-14T13:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "koral-63ea73",
-    "startDate": "2023-09-05T17:00:00.000Z",
-    "title": "KORAL"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -3786,6 +3840,42 @@
     "originalPrice": 899,
     "slug": "mallofmayhem-15344c",
     "startDate": "2023-10-01T06:00:00.000Z",
+    "title": "Mall of Mayhem"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-30T23:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "mallofmayhem-15344c",
+    "startDate": "2024-01-01T07:00:00.000Z",
+    "title": "Mall of Mayhem"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-04-30T10:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "mallofmayhem-15344c",
+    "startDate": "2024-04-01T06:00:00.000Z",
+    "title": "Mall of Mayhem"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-07-30T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "mallofmayhem-15344c",
+    "startDate": "2024-07-01T06:00:00.000Z",
+    "title": "Mall of Mayhem"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-10-30T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "mallofmayhem-15344c",
+    "startDate": "2024-10-01T06:00:00.000Z",
     "title": "Mall of Mayhem"
   },
   {
@@ -4716,12 +4806,12 @@
     "title": "Planescape: Torment: Enhanced Edition"
   },
   {
-    "discountPercentage": 87,
-    "endDate": "2023-09-28T15:00:00.000Z",
+    "discountPercentage": 90,
+    "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 269,
     "slug": "play-with-me-escape-room-586cc4",
-    "startDate": "2023-09-14T15:00:00.000Z",
+    "startDate": "2023-10-18T15:00:00.000Z",
     "title": "Play with Me - Escape Room"
   },
   {
@@ -4729,7 +4819,7 @@
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1999,
-    "slug": "227fefdce66b4a6c84ccc877bb42659b",
+    "slug": "poker-club-6e18ee",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Poker Club"
   },
@@ -5103,6 +5193,15 @@
     "title": "Retrowave Rider"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2023-09-26T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2299,
+    "slug": "return-to-monkey-island-f4af79",
+    "startDate": "2023-09-19T15:00:00.000Z",
+    "title": "Return to Monkey Island"
+  },
+  {
     "discountPercentage": 66,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -5427,15 +5526,6 @@
     "title": "SYMMETRY"
   },
   {
-    "discountPercentage": 25,
-    "endDate": "2023-09-19T03:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "sailingera-450a80",
-    "startDate": "2023-09-06T04:30:00.000Z",
-    "title": "Sailing Era"
-  },
-  {
     "discountPercentage": 67,
     "endDate": "2023-09-19T15:00:00.000Z",
     "isFree": false,
@@ -5703,6 +5793,33 @@
     "originalPrice": 899,
     "slug": "skotos-455463",
     "startDate": "2023-11-01T06:00:00.000Z",
+    "title": "Skotos"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-02-29T23:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "skotos-455463",
+    "startDate": "2024-02-01T07:00:00.000Z",
+    "title": "Skotos"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-05-30T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "skotos-455463",
+    "startDate": "2024-05-01T06:00:00.000Z",
+    "title": "Skotos"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-08-30T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "skotos-455463",
+    "startDate": "2024-08-01T06:00:00.000Z",
     "title": "Skotos"
   },
   {
@@ -7783,15 +7900,6 @@
     "slug": "wytchwood",
     "startDate": "2023-10-02T13:00:00.000Z",
     "title": "Wytchwood"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2023-09-13T02:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3139,
-    "slug": "xuan-yuan-sword-7-22c442",
-    "startDate": "2023-09-06T02:00:00.000Z",
-    "title": "Xuan-Yuan Sword VII"
   },
   {
     "discountPercentage": 40,
