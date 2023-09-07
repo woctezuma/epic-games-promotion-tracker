@@ -4095,6 +4095,15 @@
     "title": "Mars Horizon"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2023-09-19T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "marvels-guardians-of-the-galaxy",
+    "startDate": "2023-09-12T15:00:00.000Z",
+    "title": "Marvel's Guardians of the Galaxy"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -6649,6 +6658,15 @@
     "slug": "switchball-hd-6d3802",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Switchball HD"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-10-15T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "sword-and-fairy-inn-2-39760f",
+    "startDate": "2023-10-08T16:00:00.000Z",
+    "title": "Sword and Fairy Inn 2"
   },
   {
     "discountPercentage": 60,
