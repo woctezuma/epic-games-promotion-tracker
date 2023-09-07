@@ -302,6 +302,7 @@
 |#|frostpunk|Frostpunk|27,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|full-moon-rush-15f674|Full Moon Rush|4,49€|10|2023-09-14 15h|2023-09-28 15h|
 |#|galactic-civilizations-iii|Galactic Civilizations III|20,99€|50|2023-09-14 15h|2023-09-28 15h|
+|#|galacticdefender-0d9f3d|Galactic Defender|4,49€|50|2023-09-19 15h|2023-09-26 15h|
 |#|gamedec|Gamedec - Definitive Edition|29,99€|55|2023-09-14 15h|2023-09-28 15h|
 |#|genesis-noir|Genesis Noir|14,49€|70|2023-09-14 15h|2023-09-28 15h|
 |#|geometric-sniper-z-ef97ef|Geometric Sniper - Z|4,49€|30|2023-09-08 17h|2023-09-15 17h|
@@ -522,6 +523,7 @@
 |#|noroy-06d946|NoRoY|8,99€|50|2023-10-18 15h|2023-11-01 15h|
 |#|nour|Nour: Play with Your Food|13,49€|20|2023-09-12 13h|2023-09-19 13h|
 |#|nova-strike|Nova Strike|9,99€|15|2023-09-14 15h|2023-09-28 15h|
+|#|number-one-fighter-26f88c|Number One Fighter|8,99€|50|2023-10-03 15h|2023-10-10 15h|
 |#|observer-system-redux|Observer: System Redux|24,99€|50|2023-09-14 15h|2023-09-28 15h|
 |#|octopath-traveler|OCTOPATH TRAVELER™|59,99€|50|2023-09-20 15h|2023-10-03 15h|
 |#|oddballers|OddBallers™|19,99€|50|2023-09-14 15h|2023-09-28 15h|
@@ -594,6 +596,7 @@
 |#|r-type-final-2|R-Type Final 2|39,99€|50|2023-10-02 17h|2023-10-16 17h|
 |#|rad-rodgers-radical-edition-8f66a7|Rad Rodgers - Radical Edition|19,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|radioactive-dwarfs-evil-from-the-sewers-b43f18|Radioactive Dwarfs - Evil From The Sewers|3,99€|80|2023-09-14 15h|2023-09-28 15h|
+|#|railgrade|RAILGRADE|26,99€|25|2023-09-19 15h|2023-09-26 15h|
 |#|railway-empire|Railway Empire|29,99€|70|2023-09-14 15h|2023-09-28 15h|
 |#|railway-empire-2-01|Railway Empire 2|49,99€|10|2023-09-14 15h|2023-09-28 15h|
 |#|rain-world-4c860c|Rain World|22,39€|60|2023-09-14 15h|2023-09-28 15h|
@@ -784,7 +787,7 @@
 |#|the-dungeon-of-naheulbeuk|The Dungeon of Naheulbeuk|34,99€|65|2023-09-14 15h|2023-09-28 15h|
 |#|the-elder-scrolls-online|The Elder Scrolls Online|19,99€|70|2023-09-28 15h|2023-10-10 15h|
 |#|the-entropy-centre-40bccd|The Entropy Centre|24,99€|50|2023-09-14 15h|2023-09-28 15h|
-|#|the-expanse-a-telltale-series|The Expanse - A Telltale Series|39,99€|38|2023-09-19 15h|2023-09-26 15h|
+|#|the-expanse-a-telltale-series|The Expanse - A Telltale Series|39,99€|40|2023-09-19 15h|2023-09-26 15h|
 |#|the-flower-collectors|The Flower Collectors|14,99€|50|2023-10-18 15h|2023-11-01 15h|
 |#|the-forest-cathedral-54f32c|The Forest Cathedral|13,49€|35|2023-10-02 13h|2023-10-09 04h|
 |#|the-forgotten-city|The Forgotten City|24,99€|55|2023-09-14 15h|2023-09-28 15h|
