@@ -1,6 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|monster-harvest-75f018|Monster Harvest|13,99€|75|2023-09-07 00h|2023-09-10 22h|
 |#|bridge-constructor-the-walking-dead|Bridge Constructor: The Walking Dead|9,99€|85|2023-09-07 13h|2023-10-07 13h|
 |#|pumpkin-jack|Pumpkin Jack|29,99€|70|2023-09-07 13h|2023-09-14 13h|
 |#|the-fabled-woods|The Fabled Woods|9,99€|80|2023-09-07 13h|2023-10-07 13h|
@@ -111,7 +110,6 @@
 |#|bassmaster-fishing-2022-ec4015|Bassmaster® Fishing|24,99€|65|2023-09-14 15h|2023-09-28 15h|
 |#|battle-chasers-nightwar|Battle Chasers: Nightwar|29,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|battlefield-v-definitive-edition|Battlefield V Definitive Edition|49,99€|80|2023-09-14 15h|2023-09-28 15h|
-|#|battlefield-2042|Battlefield™ 2042|59,99€|70|2023-09-14 15h|2023-09-28 15h|
 |#|beacon-pines-629fc3|Beacon Pines|17,99€|30|2023-09-14 15h|2023-09-28 15h|
 |#|bee-simulator|Bee Simulator|19,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|behind-the-frame-the-finest-scenery|Behind the Frame: The Finest Scenery|10,79€|35|2023-09-14 15h|2023-09-28 15h|
@@ -329,7 +327,6 @@
 |#|inertial-drift|Inertial Drift|15,99€|67|2023-09-14 15h|2023-09-28 15h|
 |#|infindustry-cccc40|Infindustry|15,29€|50|2023-09-14 15h|2023-09-28 15h|
 |#|innerspace|InnerSpace|19,99€|95|2023-09-14 15h|2023-09-28 15h|
-|#|insurgency-sandstorm|Insurgency: Sandstorm|29,99€|67|2023-09-14 15h|2023-09-28 15h|
 |#|iratus-d0e5ba|Iratus: Lord of the Dead|29,99€|85|2023-09-14 15h|2023-09-28 15h|
 |#|iron-danger-b4320c|Iron Danger|19,98€|90|2023-09-14 15h|2023-09-28 15h|
 |#|iron-harvest|Iron Harvest|29,99€|80|2023-09-14 15h|2023-09-28 15h|
@@ -757,7 +754,6 @@
 |#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2023-09-19 22h|2023-10-04 22h|
 |#|cyberpunk-2077|Cyberpunk 2077|59,99€|40|2023-09-20 15h|2023-09-26 18h|
 |#|dragon-quest-xi-s-echoes-of-an-elusive-age|DRAGON QUEST® XI S: Echoes of an Elusive Age™|39,99€|35|2023-09-20 15h|2023-10-03 15h|
-|#|final-fantasy-vii-remake-intergrade|FINAL FANTASY VII REMAKE INTERGRADE|79,99€|43|2023-09-20 15h|2023-10-03 15h|
 |#|forspoken|Forspoken|79,99€|50|2023-09-20 15h|2023-10-03 15h|
 |#|kingdom-hearts-hd-1-5-2-5-remix|KINGDOM HEARTS HD 1.5+2.5 ReMIX|49,99€|50|2023-09-20 15h|2023-10-03 15h|
 |#|kingdom-hearts-hd-2-8-final-chapter-prologue|KINGDOM HEARTS HD 2.8 Final Chapter Prologue|59,99€|50|2023-09-20 15h|2023-10-03 15h|
