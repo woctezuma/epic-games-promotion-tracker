@@ -1,23 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|lempo-a6a67d|Lempo|19,99€|10|2023-09-07 15h|2023-09-14 15h|
-|#|spelldrifter|Spelldrifter|15,99€|100|2023-09-07 15h|2023-09-14 15h|
-|#|abzu|ABZU|15,99€|75|2023-09-07 16h|2023-09-21 23h|
-|#|brothers-a-tale-of-two-sons|Brothers - A Tale of Two Sons|14,99€|80|2023-09-07 16h|2023-09-22 07h|
-|#|control|Control|31,99€|75|2023-09-07 16h|2023-09-22 07h|
-|#|crime-boss|Crime Boss: Rockay City|39,99€|30|2023-09-07 16h|2023-09-22 07h|
-|#|death-stranding-directors-cut|DEATH STRANDING DIRECTOR'S CUT|39,99€|50|2023-09-07 16h|2023-09-22 07h|
-|#|eiyuden-chronicle-rising|Eiyuden Chronicle: Rising|14,99€|40|2023-09-07 16h|2023-09-22 07h|
-|#|ghostrunner|Ghostrunner|29,99€|70|2023-09-07 16h|2023-09-22 07h|
-|#|horace|Horace|14,99€|60|2023-09-07 16h|2023-09-22 07h|
-|#|journey-to-the-savage-planet|Journey to the Savage Planet|29,99€|70|2023-09-07 16h|2023-09-22 07h|
-|#|last-day-of-june|Last Day of June|19,99€|75|2023-09-07 16h|2023-09-22 07h|
-|#|miasma-chronicles|Miasma Chronicles|49,99€|40|2023-09-07 16h|2023-09-22 07h|
-|#|open-country|Open Country|14,99€|60|2023-09-07 16h|2023-09-22 07h|
-|#|rescue-party-live|Rescue Party: Live!|9,99€|50|2023-09-07 16h|2023-09-22 07h|
-|#|rogue-spirit|Rogue Spirit|19,99€|40|2023-09-07 16h|2023-09-22 07h|
-|#|serial-cleaners|Serial Cleaners|24,99€|10|2023-09-07 16h|2023-09-22 07h|
-|#|stray-blade|Stray Blade|34,99€|40|2023-09-07 16h|2023-09-22 07h|
 |#|isonzo|Isonzo|29,99€|50|2023-09-07 17h|2023-09-18 17h|
 |#|out-of-the-park-baseball-24-eb4cf8|Out of the Park Baseball 24|39,99€|50|2023-09-07 17h|2023-09-18 17h|
 |#|superliminal|Superliminal|15,99€|50|2023-09-07 17h|2023-09-17 17h|
@@ -32,6 +14,7 @@
 |#|paw-paw-destiny-843848|Paw Paw Destiny|13,49€|30|2023-09-11 08h|2023-09-18 08h|
 |#|aerial-knights-never-yield|Aerial_Knight's Never Yield|11,99€|70|2023-09-11 10h|2023-10-02 13h|
 |#|humankind|HUMANKIND™ Standard Edition|49,99€|80|2023-09-11 14h|2023-09-14 14h|
+|#|amnesia-the-bunker-9d5799|Amnesia: The Bunker|22,39€|20|2023-09-11 15h|2023-09-18 15h|
 |#|toem|TOEM|15,99€|70|2023-09-11 16h|2023-09-24 16h|
 |#|nour|Nour: Play with Your Food|13,49€|20|2023-09-12 13h|2023-09-19 13h|
 |#|busway-islands-puzzle-91287d|Busway Islands - Puzzle|2,69€|40|2023-09-12 15h|2023-09-19 15h|
@@ -53,6 +36,7 @@
 |#|12-orbits-c48266|12 orbits|1,79€|50|2023-09-14 15h|2023-09-28 15h|
 |#|7-billion-humans|7 Billion Humans|11,99€|50|2023-09-14 15h|2023-09-28 15h|
 |#|762-high-calibre-762-hard-life-93f60a|7,62 High Calibre|4,99€|80|2023-09-14 15h|2023-09-28 15h|
+|#|911-operator-585edd|911 Operator|13,49€|100|2023-09-14 15h|2023-09-21 15h|
 |#|a-game-of-thrones-5858a3|A Game Of Thrones: The Board Game Digital Edition|19,99€|50|2023-09-14 15h|2023-09-28 15h|
 |#|a-good-snowman-is-hard-to-build|A Good Snowman is Hard to Build|13,49€|70|2023-09-14 15h|2023-09-28 15h|
 |#|a-monsters-expedition|A Monster's Expedition|22,39€|40|2023-09-14 15h|2023-09-28 15h|
