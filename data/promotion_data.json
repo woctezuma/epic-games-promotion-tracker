@@ -2727,6 +2727,15 @@
     "title": "Galactic Civilizations III"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-09-26T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "galacticdefender-0d9f3d",
+    "startDate": "2023-09-19T15:00:00.000Z",
+    "title": "Galactic Defender"
+  },
+  {
     "discountPercentage": 55,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -4618,6 +4627,15 @@
   },
   {
     "discountPercentage": 50,
+    "endDate": "2023-10-10T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "number-one-fighter-26f88c",
+    "startDate": "2023-10-03T15:00:00.000Z",
+    "title": "Number One Fighter"
+  },
+  {
+    "discountPercentage": 50,
     "endDate": "2023-10-03T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 5999,
@@ -5236,6 +5254,15 @@
     "slug": "r-type-final-2",
     "startDate": "2023-10-02T17:00:00.000Z",
     "title": "R-Type Final 2"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2023-09-26T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2699,
+    "slug": "railgrade",
+    "startDate": "2023-09-19T15:00:00.000Z",
+    "title": "RAILGRADE"
   },
   {
     "discountPercentage": 80,
@@ -6993,7 +7020,7 @@
     "title": "The Entropy Centre"
   },
   {
-    "discountPercentage": 38,
+    "discountPercentage": 40,
     "endDate": "2023-09-26T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 3999,
