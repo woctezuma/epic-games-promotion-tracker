@@ -3204,6 +3204,15 @@
     "title": "Human Resource Machine"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-09-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "human-resource-machine",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "Human Resource Machine"
+  },
+  {
     "discountPercentage": 66,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -4905,7 +4914,7 @@
     "title": "Paladin Dream"
   },
   {
-    "discountPercentage": 40,
+    "discountPercentage": 50,
     "endDate": "2023-10-17T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 899,
