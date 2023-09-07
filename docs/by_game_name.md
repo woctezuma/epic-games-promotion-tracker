@@ -183,7 +183,6 @@
 |#|darksiders3|Darksiders III|39,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|darksiders|Darksiders Warmastered Edition|19,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|dead-age-f46c67|Dead Age|14,99€|90|2023-09-14 15h|2023-09-28 15h|
-|#|dead-island-2|Dead Island 2|59,99€|30|2023-09-14 15h|2023-09-28 15h|
 |#|dead-space|Dead Space|59,99€|40|2023-09-14 15h|2023-09-28 15h|
 |#|deadlink-6bb676|Deadlink|17,99€|20|2023-09-14 15h|2023-09-28 15h|
 |#|deceive-inc|Deceive Inc.|19,99€|25|2023-09-14 15h|2023-09-28 15h|

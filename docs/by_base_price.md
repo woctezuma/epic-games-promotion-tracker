@@ -19,7 +19,6 @@
 |#|battlefield-2042|Battlefield™ 2042|59,99€|70|2023-09-14 15h|2023-09-28 15h|
 |#|cyberpunk-2077|Cyberpunk 2077|59,99€|40|2023-09-20 15h|2023-09-26 18h|
 |#|deathloop|DEATHLOOP|59,99€|75|2023-09-14 15h|2023-09-28 15h|
-|#|dead-island-2|Dead Island 2|59,99€|30|2023-09-14 15h|2023-09-28 15h|
 |#|dead-space|Dead Space|59,99€|40|2023-09-14 15h|2023-09-28 15h|
 |#|disaster-report-4-summer-memories|Disaster Report 4: Summer Memories|59,99€|67|2023-10-02 17h|2023-10-16 17h|
 |#|disgaea-6-complete|Disgaea 6 Complete|59,99€|35|2023-10-02 17h|2023-10-16 17h|

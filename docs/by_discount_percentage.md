@@ -804,7 +804,6 @@
 |#|children-of-silentown-52cc21|Children of Silentown|19,99€|30|2023-09-14 15h|2023-09-28 15h|
 |#|crime-boss|Crime Boss: Rockay City|39,99€|30|2023-09-07 16h|2023-09-22 07h|
 |#|dark-light|Dark Light|15,29€|30|2023-10-18 15h|2023-11-01 15h|
-|#|dead-island-2|Dead Island 2|59,99€|30|2023-09-14 15h|2023-09-28 15h|
 |#|deflector-fedbe0|Deflector|17,99€|30|2023-09-14 15h|2023-09-28 15h|
 |#|disney-dreamlight-valley|Disney Dreamlight Valley|29,99€|30|2023-09-14 15h|2023-09-28 15h|
 |#|distant-worlds-2|Distant Worlds 2|39,99€|30|2023-09-14 15h|2023-09-28 15h|
