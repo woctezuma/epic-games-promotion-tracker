@@ -711,15 +711,6 @@
     "title": "Battlefield V Definitive Edition"
   },
   {
-    "discountPercentage": 70,
-    "endDate": "2023-09-28T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "battlefield-2042",
-    "startDate": "2023-09-14T15:00:00.000Z",
-    "title": "Battlefield\u2122 2042"
-  },
-  {
     "discountPercentage": 35,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -2331,15 +2322,6 @@
     "title": "FAR: Lone Sails"
   },
   {
-    "discountPercentage": 43,
-    "endDate": "2023-10-03T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 7999,
-    "slug": "final-fantasy-vii-remake-intergrade",
-    "startDate": "2023-09-20T15:00:00.000Z",
-    "title": "FINAL FANTASY VII REMAKE INTERGRADE"
-  },
-  {
     "discountPercentage": 70,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -3366,15 +3348,6 @@
     "title": "InnerSpace"
   },
   {
-    "discountPercentage": 67,
-    "endDate": "2023-09-28T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "insurgency-sandstorm",
-    "startDate": "2023-09-14T15:00:00.000Z",
-    "title": "Insurgency: Sandstorm"
-  },
-  {
     "discountPercentage": 85,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -4273,15 +4246,6 @@
     "slug": "model-builder-f9b456",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Model Builder"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-09-10T22:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1399,
-    "slug": "monster-harvest-75f018",
-    "startDate": "2023-09-07T00:00:00.000Z",
-    "title": "Monster Harvest"
   },
   {
     "discountPercentage": 75,
