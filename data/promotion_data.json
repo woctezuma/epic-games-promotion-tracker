@@ -1647,15 +1647,6 @@
     "title": "Dead Age"
   },
   {
-    "discountPercentage": 30,
-    "endDate": "2023-09-28T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "dead-island-2",
-    "startDate": "2023-09-14T15:00:00.000Z",
-    "title": "Dead Island 2"
-  },
-  {
     "discountPercentage": 40,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
