@@ -54,6 +54,15 @@
     "title": "7,62 High Calibre"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2023-09-21T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1349,
+    "slug": "911-operator-585edd",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "911 Operator"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -142,15 +151,6 @@
     "slug": "a-total-war-saga-troy",
     "startDate": "2023-09-21T17:00:00.000Z",
     "title": "A Total War Saga: TROY"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-09-21T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1599,
-    "slug": "abzu",
-    "startDate": "2023-09-07T16:00:00.000Z",
-    "title": "ABZU"
   },
   {
     "discountPercentage": 90,
@@ -304,6 +304,15 @@
     "slug": "amnesia-rebirth",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "Amnesia: Rebirth"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-09-18T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2239,
+    "slug": "amnesia-the-bunker-9d5799",
+    "startDate": "2023-09-11T15:00:00.000Z",
+    "title": "Amnesia: The Bunker"
   },
   {
     "discountPercentage": 25,
@@ -945,15 +954,6 @@
     "title": "Breakout: Recharged"
   },
   {
-    "discountPercentage": 80,
-    "endDate": "2023-09-22T07:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "brothers-a-tale-of-two-sons",
-    "startDate": "2023-09-07T16:00:00.000Z",
-    "title": "Brothers - A Tale of Two Sons"
-  },
-  {
     "discountPercentage": 40,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -1350,15 +1350,6 @@
     "title": "Conglomerate 451"
   },
   {
-    "discountPercentage": 75,
-    "endDate": "2023-09-22T07:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3199,
-    "slug": "control",
-    "startDate": "2023-09-07T16:00:00.000Z",
-    "title": "Control"
-  },
-  {
     "discountPercentage": 25,
     "endDate": "2023-09-26T15:00:00.000Z",
     "isFree": false,
@@ -1411,15 +1402,6 @@
     "slug": "covid-carl-7dd371",
     "startDate": "2023-10-29T10:00:00.000Z",
     "title": "Covid Carl"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2023-09-22T07:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "crime-boss",
-    "startDate": "2023-09-07T16:00:00.000Z",
-    "title": "Crime Boss: Rockay City"
   },
   {
     "discountPercentage": 70,
@@ -1483,15 +1465,6 @@
     "slug": "cyberpunk-2077",
     "startDate": "2023-09-20T15:00:00.000Z",
     "title": "Cyberpunk 2077"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2023-09-22T07:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "death-stranding-directors-cut",
-    "startDate": "2023-09-07T16:00:00.000Z",
-    "title": "DEATH STRANDING DIRECTOR'S CUT"
   },
   {
     "discountPercentage": 75,
@@ -2104,15 +2077,6 @@
     "slug": "eigengrau-62aef0",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Eigengrau"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2023-09-22T07:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "eiyuden-chronicle-rising",
-    "startDate": "2023-09-07T16:00:00.000Z",
-    "title": "Eiyuden Chronicle: Rising"
   },
   {
     "discountPercentage": 33,
@@ -2790,15 +2754,6 @@
     "title": "Ghostbusters: Spirits Unleashed"
   },
   {
-    "discountPercentage": 70,
-    "endDate": "2023-09-22T07:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "ghostrunner",
-    "startDate": "2023-09-07T16:00:00.000Z",
-    "title": "Ghostrunner"
-  },
-  {
     "discountPercentage": 60,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -3139,15 +3094,6 @@
     "slug": "hood-outlaws-and-legends",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Hood: Outlaws & Legends"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2023-09-22T07:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "horace",
-    "startDate": "2023-09-07T16:00:00.000Z",
-    "title": "Horace"
   },
   {
     "discountPercentage": 70,
@@ -3492,15 +3438,6 @@
     "title": "Journey Into Darkness"
   },
   {
-    "discountPercentage": 70,
-    "endDate": "2023-09-22T07:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "journey-to-the-savage-planet",
-    "startDate": "2023-09-07T16:00:00.000Z",
-    "title": "Journey to the Savage Planet"
-  },
-  {
     "discountPercentage": 67,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -3807,15 +3744,6 @@
     "title": "Larva Mortus"
   },
   {
-    "discountPercentage": 75,
-    "endDate": "2023-09-22T07:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "last-day-of-june",
-    "startDate": "2023-09-07T16:00:00.000Z",
-    "title": "Last Day of June"
-  },
-  {
     "discountPercentage": 25,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -3859,15 +3787,6 @@
     "slug": "legend-of-keepers",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Legend of Keepers"
-  },
-  {
-    "discountPercentage": 10,
-    "endDate": "2023-09-14T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "lempo-a6a67d",
-    "startDate": "2023-09-07T15:00:00.000Z",
-    "title": "Lempo"
   },
   {
     "discountPercentage": 45,
@@ -4210,15 +4129,6 @@
     "slug": "metro-simulator-2-532ff8",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Metro Simulator 2"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2023-09-22T07:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 4999,
-    "slug": "miasma-chronicles",
-    "startDate": "2023-09-07T16:00:00.000Z",
-    "title": "Miasma Chronicles"
   },
   {
     "discountPercentage": 66,
@@ -4705,15 +4615,6 @@
     "slug": "onsen-master-9e1323",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Onsen Master"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2023-09-22T07:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "open-country",
-    "startDate": "2023-09-07T16:00:00.000Z",
-    "title": "Open Country"
   },
   {
     "discountPercentage": 66,
@@ -5472,15 +5373,6 @@
     "title": "Remnant: From the Ashes"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2023-09-22T07:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "rescue-party-live",
-    "startDate": "2023-09-07T16:00:00.000Z",
-    "title": "Rescue Party: Live!"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -5668,15 +5560,6 @@
     "slug": "rogue-lords",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Rogue Lords"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2023-09-22T07:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "rogue-spirit",
-    "startDate": "2023-09-07T16:00:00.000Z",
-    "title": "Rogue Spirit"
   },
   {
     "discountPercentage": 65,
@@ -5965,15 +5848,6 @@
     "slug": "sephonie-6ab6f7",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Sephonie"
-  },
-  {
-    "discountPercentage": 10,
-    "endDate": "2023-09-22T07:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2499,
-    "slug": "serial-cleaners",
-    "startDate": "2023-09-07T16:00:00.000Z",
-    "title": "Serial Cleaners"
   },
   {
     "discountPercentage": 55,
@@ -6417,15 +6291,6 @@
     "title": "SpellForce: Conquest of Eo"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2023-09-14T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 1599,
-    "slug": "spelldrifter",
-    "startDate": "2023-09-07T15:00:00.000Z",
-    "title": "Spelldrifter"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -6568,15 +6433,6 @@
     "slug": "stranded-alien-dawn",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Stranded: Alien Dawn"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2023-09-22T07:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3499,
-    "slug": "stray-blade",
-    "startDate": "2023-09-07T16:00:00.000Z",
-    "title": "Stray Blade"
   },
   {
     "discountPercentage": 30,
