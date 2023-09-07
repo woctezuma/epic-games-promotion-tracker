@@ -105,7 +105,6 @@
 |#|boom-blaster-f3c6e0|Boom Blaster|3,59€|75|2023-09-14 15h|2023-09-28 15h|
 |#|bramble-the-mountain-king-c0d1c6|Bramble The Mountain King|26,99€|40|2023-09-17 00h|2023-09-24 22h|
 |#|breakout-recharged|Breakout: Recharged|8,99€|40|2023-09-14 15h|2023-09-28 15h|
-|#|bridge-constructor-the-walking-dead|Bridge Constructor: The Walking Dead|9,99€|85|2023-09-07 13h|2023-10-07 13h|
 |#|brothers-a-tale-of-two-sons|Brothers - A Tale of Two Sons|14,99€|80|2023-09-07 16h|2023-09-22 07h|
 |#|bucket-knight-1ac30c|Bucket Knight|4,49€|40|2023-09-14 15h|2023-09-28 15h|
 |#|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|70|2023-09-21 22h|2023-09-29 22h|
@@ -267,6 +266,7 @@
 |#|fall-of-light-darkest-edition-055f95|Fall of Light: Darkest Edition|14,99€|85|2023-09-14 15h|2023-09-28 15h|
 |#|fallen-legion-revenants-a2c944|Fallen Legion Revenants|39,99€|35|2023-10-02 17h|2023-10-16 17h|
 |#|fallen-legion-rise-to-glory-0ea64a|Fallen Legion: Rise to Glory|29,99€|35|2023-10-02 17h|2023-10-16 17h|
+|#|falling-out-cb0814|Falling Out|13,49€|25|2023-09-14 15h|2023-09-28 15h|
 |#|fallout-2|Fallout 2: A Post Nuclear Role Playing Game|9,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|fallout-tactics-brotherhood-of-steel|Fallout Tactics: Brotherhood of Steel|9,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|fallout|Fallout: A Post Nuclear Role Playing Game|9,99€|75|2023-09-14 15h|2023-09-28 15h|
@@ -501,6 +501,7 @@
 |#|need-for-speed-unbound|Need for Speed™ Unbound Standard Edition|69,99€|70|2023-09-14 15h|2023-09-28 15h|
 |#|need-for-spirit-drink-and-drive-simulator-db9660|Need for Spirit Drink and Drive Simulator|1,79€|80|2023-09-30 07h|2023-10-14 07h|
 |#|neighbours-back-from-hell|Neighbours back From Hell|14,99€|67|2023-09-14 15h|2023-09-28 15h|
+|#|neuronet-mendax-proxy|NeuroNet: Mendax Proxy|17,99€|35|2023-09-12 15h|2023-09-19 15h|
 |#|neurodeck|Neurodeck|11,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|new-super-luckys-tale|New Super Lucky's Tale|27,99€|70|2023-09-14 15h|2023-09-28 15h|
 |#|nexomon-extinction|Nexomon: Extinction|19,99€|60|2023-09-14 15h|2023-09-28 15h|
@@ -562,6 +563,7 @@
 |#|perimeter-emperors-testament-af1efc|Perimeter: Emperor's Testament|3,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|pesterquest-de8729|Pesterquest|10,79€|80|2023-09-14 15h|2023-09-28 15h|
 |#|planescape-torment-enhanced-edition|Planescape: Torment: Enhanced Edition|15,99€|70|2023-09-14 15h|2023-09-28 15h|
+|#|planet-cube-edge-aac6d5|Planet Cube - Edge|13,49€|25|2023-09-26 15h|2023-10-03 15h|
 |#|play-with-me-escape-room-586cc4|Play with Me - Escape Room|2,69€|90|2023-10-18 15h|2023-11-01 15h|
 |#|poker-club-6e18ee|Poker Club|19,99€|45|2023-09-14 15h|2023-09-28 15h|
 |#|port-royale-4|Port Royale 4|39,99€|67|2023-09-14 15h|2023-09-28 15h|
@@ -578,7 +580,6 @@
 |#|project-first-contact-ff7fdc|Project First Contact|2,69€|95|2023-09-22 07h|2023-10-06 07h|
 |#|project-pastorate-6e8765|Project Pastorate|1,59€|50|2023-09-14 15h|2023-09-28 15h|
 |#|protocorgi|ProtoCorgi|6,99€|70|2023-09-14 15h|2023-09-28 15h|
-|#|pumpkin-jack|Pumpkin Jack|29,99€|70|2023-09-07 13h|2023-09-14 13h|
 |#|quake-ii|Quake II|9,99€|60|2023-09-14 15h|2023-09-28 15h|
 |#|r-type-final-2|R-Type Final 2|39,99€|50|2023-10-02 17h|2023-10-16 17h|
 |#|rayman-legends|RAYMAN® LEGENDS|19,99€|80|2023-09-14 15h|2023-09-28 15h|
@@ -681,6 +682,7 @@
 |#|siege-survival-gloria-victis|Siege Survival - Gloria Victis|24,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|silence-57bc4e|Silence|19,99€|90|2023-09-14 15h|2023-09-28 15h|
 |#|sine-mora-ex-d4fd23|Sine Mora Ex|9,99€|90|2023-09-14 15h|2023-09-28 15h|
+|#|sir-whoopass-757c5c|Sir Whoopass - Immortal Death|15,29€|50|2023-09-14 15h|2023-09-28 15h|
 |#|skotos-455463|Skotos|8,99€|50|2023-11-01 06h|2023-11-30 23h|
 |#|skotos-455463|Skotos|8,99€|50|2024-02-01 07h|2024-02-29 23h|
 |#|skotos-455463|Skotos|8,99€|50|2024-05-01 06h|2024-05-30 22h|
@@ -776,7 +778,6 @@
 |#|skyrim|The Elder Scrolls V: Skyrim Special Edition|39,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|the-entropy-centre-40bccd|The Entropy Centre|24,99€|50|2023-09-14 15h|2023-09-28 15h|
 |#|the-expanse-a-telltale-series|The Expanse - A Telltale Series|39,99€|38|2023-09-19 15h|2023-09-26 15h|
-|#|the-fabled-woods|The Fabled Woods|9,99€|80|2023-09-07 13h|2023-10-07 13h|
 |#|the-flower-collectors|The Flower Collectors|14,99€|50|2023-10-18 15h|2023-11-01 15h|
 |#|the-forest-cathedral-54f32c|The Forest Cathedral|13,49€|35|2023-10-02 13h|2023-10-09 04h|
 |#|the-forgotten-city|The Forgotten City|24,99€|55|2023-09-14 15h|2023-09-28 15h|
@@ -820,7 +821,6 @@
 |#|the-surge-2-e7df70|The Surge 2|29,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|the-tale-of-bistun-9d6c5f|The Tale of Bistun|13,99€|44|2023-09-14 15h|2023-09-28 15h|
 |#|the-telltale-batman|The Telltale Batman Shadows Edition|24,99€|60|2023-09-14 15h|2023-09-28 15h|
-|#|the-textorcist|The Textorcist: The Story of Ray Bibbia|14,99€|80|2023-09-07 13h|2023-09-14 13h|
 |#|the-unbeatable-path-8af8fc|The Unbeatable Path|17,99€|40|2023-10-18 15h|2023-11-01 15h|
 |#|the-uncertain-last-quiet-day|The Uncertain: Last Quiet Day|7,99€|85|2023-10-18 15h|2023-11-01 15h|
 |#|the-uncertain-light-at-the-end|The Uncertain: Light at the End|7,99€|85|2023-10-18 15h|2023-11-01 15h|

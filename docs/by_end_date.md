@@ -1,7 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|pumpkin-jack|Pumpkin Jack|29,99€|70|2023-09-07 13h|2023-09-14 13h|
-|#|the-textorcist|The Textorcist: The Story of Ray Bibbia|14,99€|80|2023-09-07 13h|2023-09-14 13h|
 |#|humankind|HUMANKIND™ Standard Edition|49,99€|80|2023-09-11 14h|2023-09-14 14h|
 |#|lempo-a6a67d|Lempo|19,99€|10|2023-09-07 15h|2023-09-14 15h|
 |#|spelldrifter|Spelldrifter|15,99€|100|2023-09-07 15h|2023-09-14 15h|
@@ -24,6 +22,7 @@
 |#|busway-islands-puzzle-91287d|Busway Islands - Puzzle|2,69€|40|2023-09-12 15h|2023-09-19 15h|
 |#|horse-tales-emerald-valley-ranch-240ae8|Horse Tales - Emerald Valley Ranch|29,99€|60|2023-09-12 15h|2023-09-19 15h|
 |#|marvels-guardians-of-the-galaxy|Marvel's Guardians of the Galaxy|59,99€|70|2023-09-12 15h|2023-09-19 15h|
+|#|neuronet-mendax-proxy|NeuroNet: Mendax Proxy|17,99€|35|2023-09-12 15h|2023-09-19 15h|
 |#|out-of-line-209cbb|Out of Line|7,19€|40|2023-09-12 15h|2023-09-19 15h|
 |#|saints-row|Saints Row|59,99€|67|2023-09-12 15h|2023-09-19 15h|
 |#|terra-invicta-5bbf09|Terra Invicta|39,99€|30|2023-09-12 15h|2023-09-19 15h|
@@ -256,6 +255,7 @@
 |#|fabular-once-upon-a-spacetime-b73ba1|Fabular: Once Upon a Spacetime|14,99€|20|2023-09-14 15h|2023-09-28 15h|
 |#|faces-of-war-3c2686|Faces of War|4,99€|85|2023-09-14 15h|2023-09-28 15h|
 |#|fall-of-light-darkest-edition-055f95|Fall of Light: Darkest Edition|14,99€|85|2023-09-14 15h|2023-09-28 15h|
+|#|falling-out-cb0814|Falling Out|13,49€|25|2023-09-14 15h|2023-09-28 15h|
 |#|fallout-2|Fallout 2: A Post Nuclear Role Playing Game|9,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|fallout-tactics-brotherhood-of-steel|Fallout Tactics: Brotherhood of Steel|9,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|fallout|Fallout: A Post Nuclear Role Playing Game|9,99€|75|2023-09-14 15h|2023-09-28 15h|
@@ -565,6 +565,7 @@
 |#|siege-survival-gloria-victis|Siege Survival - Gloria Victis|24,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|silence-57bc4e|Silence|19,99€|90|2023-09-14 15h|2023-09-28 15h|
 |#|sine-mora-ex-d4fd23|Sine Mora Ex|9,99€|90|2023-09-14 15h|2023-09-28 15h|
+|#|sir-whoopass-757c5c|Sir Whoopass - Immortal Death|15,29€|50|2023-09-14 15h|2023-09-28 15h|
 |#| skabma-snowfall|Skábma - Snowfall|19,99€|55|2023-09-14 15h|2023-09-28 15h|
 |#|slime-rancher|Slime Rancher|19,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|slime-rancher-2|Slime Rancher 2|23,99€|25|2023-09-14 15h|2023-09-28 15h|
@@ -773,14 +774,13 @@
 |#|kingdom-hearts-melody-of-memory|KINGDOM HEARTS Melody of Memory|59,99€|50|2023-09-20 15h|2023-10-03 15h|
 |#|neo-the-world-ends-with-you|NEO: The World Ends with You|59,99€|50|2023-09-20 15h|2023-10-03 15h|
 |#|octopath-traveler|OCTOPATH TRAVELER™|59,99€|50|2023-09-20 15h|2023-10-03 15h|
+|#|planet-cube-edge-aac6d5|Planet Cube - Edge|13,49€|25|2023-09-26 15h|2023-10-03 15h|
 |#|spingun-843f78|SPINGUN|1,79€|40|2023-09-26 15h|2023-10-03 15h|
 |#|stranger-of-paradise-final-fantasy-origin|STRANGER OF PARADISE FINAL FANTASY ORIGIN|39,99€|30|2023-09-20 15h|2023-10-03 15h|
 |#|volley-pals-0120b4|Volley Pals|4,49€|40|2023-09-26 15h|2023-10-03 15h|
 |#|outbreak-epidemic-viral-terror-54b6e9|Outbreak Epidemic Viral Terror|8,99€|40|2023-09-27 14h|2023-10-04 14h|
 |#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2023-09-19 22h|2023-10-04 22h|
 |#|project-first-contact-ff7fdc|Project First Contact|2,69€|95|2023-09-22 07h|2023-10-06 07h|
-|#|bridge-constructor-the-walking-dead|Bridge Constructor: The Walking Dead|9,99€|85|2023-09-07 13h|2023-10-07 13h|
-|#|the-fabled-woods|The Fabled Woods|9,99€|80|2023-09-07 13h|2023-10-07 13h|
 |#|sunlight-scream-de8642|Sunlight Scream|5,39€|15|2023-10-01 15h|2023-10-08 15h|
 |#|oirbo-c063b7|Oirbo|13,49€|15|2023-09-28 01h|2023-10-08 23h|
 |#|apico-f6e18b|APICO|15,99€|40|2023-10-02 13h|2023-10-09 04h|
