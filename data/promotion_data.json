@@ -2259,15 +2259,6 @@
     "title": "F1\u00ae Manager 2023"
   },
   {
-    "discountPercentage": 80,
-    "endDate": "2023-09-28T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "far-cry-4",
-    "startDate": "2023-09-14T15:00:00.000Z",
-    "title": "FAR CRY 4"
-  },
-  {
     "discountPercentage": 60,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -2421,24 +2412,6 @@
     "title": "Fantasy Wars"
   },
   {
-    "discountPercentage": 70,
-    "endDate": "2023-09-28T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "far-cry",
-    "startDate": "2023-09-14T15:00:00.000Z",
-    "title": "Far Cry"
-  },
-  {
-    "discountPercentage": 70,
-    "endDate": "2023-09-28T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "far-cry-2",
-    "startDate": "2023-09-14T15:00:00.000Z",
-    "title": "Far Cry 2: Standard Edition"
-  },
-  {
     "discountPercentage": 85,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -2473,15 +2446,6 @@
     "slug": "far-cry-primal",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Far Cry Primal Standard Edition"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-09-28T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "far-cry-3",
-    "startDate": "2023-09-14T15:00:00.000Z",
-    "title": "Far Cry\u00ae3 Standard Edition"
   },
   {
     "discountPercentage": 75,
@@ -2725,15 +2689,6 @@
     "slug": "genesis-noir",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Genesis Noir"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2023-09-15T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 449,
-    "slug": "geometric-sniper-z-ef97ef",
-    "startDate": "2023-09-08T17:00:00.000Z",
-    "title": "Geometric Sniper - Z"
   },
   {
     "discountPercentage": 80,
