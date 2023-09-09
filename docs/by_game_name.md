@@ -251,7 +251,6 @@
 |#|fist-forged-in-shadow-torch|F.I.S.T.: Forged In Shadow Torch|29,99€|55|2023-09-14 15h|2023-09-28 15h|
 |#|f1-23|F1® 23|69,99€|40|2023-09-14 15h|2023-09-28 15h|
 |#|f1-manager-2023|F1® Manager 2023|54,99€|15|2023-09-14 15h|2023-09-28 15h|
-|#|far-cry-4|FAR CRY 4|29,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|far-changing-tides|FAR: Changing Tides|19,99€|60|2023-09-14 15h|2023-09-28 15h|
 |#|far-lone-sails|FAR: Lone Sails|14,99€|80|2023-09-19 15h|2023-09-26 15h|
 |#|final-fantasy-vii-remake-intergrade|FINAL FANTASY VII REMAKE INTERGRADE|79,99€|43|2023-09-20 15h|2023-10-03 15h|
@@ -269,13 +268,10 @@
 |#|fallout|Fallout: A Post Nuclear Role Playing Game|9,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|fallout-new-vegas|Fallout: New Vegas|9,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|fantasy-wars-ec9601|Fantasy Wars|4,99€|80|2023-09-14 15h|2023-09-28 15h|
-|#|far-cry|Far Cry|9,99€|70|2023-09-14 15h|2023-09-28 15h|
-|#|far-cry-2|Far Cry 2: Standard Edition|9,99€|70|2023-09-14 15h|2023-09-28 15h|
 |#|far-cry-new-dawn-complete|Far Cry New Dawn Complete|99,99€|85|2023-09-14 15h|2023-09-28 15h|
 |#|far-cry-new-dawn|Far Cry New Dawn Standard Edition|44,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|far-cry-new-dawn-ultimate|Far Cry New Dawn Ultimate|119,99€|85|2023-09-14 15h|2023-09-28 15h|
 |#|far-cry-primal|Far Cry Primal Standard Edition|29,99€|75|2023-09-14 15h|2023-09-28 15h|
-|#|far-cry-3|Far Cry®3 Standard Edition|19,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|fell-seal-arbiters-mark|Fell Seal: Arbiter's Mark|29,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|figment|Figment|19,99€|65|2023-09-14 15h|2023-09-28 15h|
 |#|figment2-creed-valley|Figment 2: Creed Valley|24,99€|40|2023-09-14 15h|2023-09-28 15h|
@@ -303,7 +299,6 @@
 |#|galacticdefender-0d9f3d|Galactic Defender|4,49€|50|2023-09-19 15h|2023-09-26 15h|
 |#|gamedec|Gamedec - Definitive Edition|29,99€|55|2023-09-14 15h|2023-09-28 15h|
 |#|genesis-noir|Genesis Noir|14,49€|70|2023-09-14 15h|2023-09-28 15h|
-|#|geometric-sniper-z-ef97ef|Geometric Sniper - Z|4,49€|30|2023-09-08 17h|2023-09-15 17h|
 |#|ghost-recon-breakpoint|Ghost Recon Breakpoint Standard Edition|59,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|ghost-recon-future-soldier|Ghost Recon Future Soldier: Ultimate Edition|29,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|ghostbusters-spirits-unleashed |Ghostbusters: Spirits Unleashed|17,99€|25|2023-10-18 15h|2023-11-01 15h|

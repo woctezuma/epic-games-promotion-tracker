@@ -264,10 +264,6 @@
 |#|fallout-tactics-brotherhood-of-steel|Fallout Tactics: Brotherhood of Steel|9,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|fantasy-wars-ec9601|Fantasy Wars|4,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|far-changing-tides|FAR: Changing Tides|19,99€|60|2023-09-14 15h|2023-09-28 15h|
-|#|far-cry|Far Cry|9,99€|70|2023-09-14 15h|2023-09-28 15h|
-|#|far-cry-2|Far Cry 2: Standard Edition|9,99€|70|2023-09-14 15h|2023-09-28 15h|
-|#|far-cry-3|Far Cry®3 Standard Edition|19,99€|75|2023-09-14 15h|2023-09-28 15h|
-|#|far-cry-4|FAR CRY 4|29,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|far-cry-new-dawn|Far Cry New Dawn Standard Edition|44,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|far-cry-new-dawn-complete|Far Cry New Dawn Complete|99,99€|85|2023-09-14 15h|2023-09-28 15h|
 |#|far-cry-new-dawn-ultimate|Far Cry New Dawn Ultimate|119,99€|85|2023-09-14 15h|2023-09-28 15h|
@@ -302,7 +298,6 @@
 |#|galacticdefender-0d9f3d|Galactic Defender|4,49€|50|2023-09-19 15h|2023-09-26 15h|
 |#|gamedec|Gamedec - Definitive Edition|29,99€|55|2023-09-14 15h|2023-09-28 15h|
 |#|genesis-noir|Genesis Noir|14,49€|70|2023-09-14 15h|2023-09-28 15h|
-|#|geometric-sniper-z-ef97ef|Geometric Sniper - Z|4,49€|30|2023-09-08 17h|2023-09-15 17h|
 |#|ghost-recon-breakpoint|Ghost Recon Breakpoint Standard Edition|59,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|ghost-recon-future-soldier|Ghost Recon Future Soldier: Ultimate Edition|29,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|ghost-recon-wildlands|Tom Clancy's Ghost Recon Wildlands Standard Edition|49,99€|80|2023-09-14 15h|2023-09-28 15h|

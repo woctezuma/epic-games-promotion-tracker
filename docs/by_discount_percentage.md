@@ -84,7 +84,6 @@
 |#|cryofall-331358|CryoFall|19,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|cyber-hook-064d2c|Cyber Hook|11,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|double-cross-08a736|Double Cross|15,99€|80|2023-09-14 15h|2023-09-28 15h|
-|#|far-cry-4|FAR CRY 4|29,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|far-lone-sails|FAR: Lone Sails|14,99€|80|2023-09-19 15h|2023-09-26 15h|
 |#|foreclosed|FORECLOSED|16,99€|80|2023-09-10 00h|2023-09-17 22h|
 |#|fantasy-wars-ec9601|Fantasy Wars|4,99€|80|2023-09-14 15h|2023-09-28 15h|
@@ -238,7 +237,6 @@
 |#|fallout|Fallout: A Post Nuclear Role Playing Game|9,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|fallout-new-vegas|Fallout: New Vegas|9,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|far-cry-primal|Far Cry Primal Standard Edition|29,99€|75|2023-09-14 15h|2023-09-28 15h|
-|#|far-cry-3|Far Cry®3 Standard Edition|19,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|fell-seal-arbiters-mark|Fell Seal: Arbiter's Mark|29,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|from-dust|From Dust|9,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|ghost-recon-future-soldier|Ghost Recon Future Soldier: Ultimate Edition|29,99€|75|2023-09-14 15h|2023-09-28 15h|
@@ -345,8 +343,6 @@
 |#|donut-county|Donut County|12,29€|70|2023-09-14 15h|2023-09-28 15h|
 |#|dying-light|Dying Light Enhanced Edition|29,99€|70|2023-10-18 15h|2023-11-01 15h|
 |#|focus-indies-bundle|FOCUS INDIES BUNDLE: Curse of the Dead Gods + Shady Part of Me + Aeon Must Die!|39,99€|70|2023-09-14 15h|2023-09-28 15h|
-|#|far-cry|Far Cry|9,99€|70|2023-09-14 15h|2023-09-28 15h|
-|#|far-cry-2|Far Cry 2: Standard Edition|9,99€|70|2023-09-14 15h|2023-09-28 15h|
 |#|genesis-noir|Genesis Noir|14,49€|70|2023-09-14 15h|2023-09-28 15h|
 |#|godlike-burger-4150a0|Godlike Burger|19,99€|70|2023-09-14 15h|2023-09-28 15h|
 |#|gorogoa|Gorogoa|13,99€|70|2023-09-14 15h|2023-09-28 15h|
@@ -805,7 +801,6 @@
 |#|dread-templar-d8e8fa|Dread Templar|19,99€|30|2023-09-14 15h|2023-09-28 15h|
 |#|eigengrau-62aef0|Eigengrau|8,99€|30|2023-09-14 15h|2023-09-28 15h|
 |#|forgive-me-father-133635|Forgive Me Father|19,99€|30|2023-10-18 15h|2023-11-01 15h|
-|#|geometric-sniper-z-ef97ef|Geometric Sniper - Z|4,49€|30|2023-09-08 17h|2023-09-15 17h|
 |#|hotel-renovator|Hotel Renovator|24,99€|30|2023-09-14 15h|2023-09-28 15h|
 |#|im-looking-for-3024-people-1cdae4|I'm looking for 3024 people|3,99€|30|2023-10-01 22h|2023-10-31 22h|
 |#|im-looking-for-3024-people-1cdae4|I'm looking for 3024 people|3,99€|30|2023-12-02 22h|2023-12-17 22h|
