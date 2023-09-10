@@ -1,10 +1,7 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
 |#|humankind|HUMANKIND™ Standard Edition|49,99€|80|2023-09-11 14h|2023-09-14 14h|
-|#|deathrun-tv-db074f|DEATHRUN TV|11,99€|75|2023-09-10 00h|2023-09-17 22h|
-|#|foreclosed|FORECLOSED|16,99€|80|2023-09-10 00h|2023-09-17 22h|
 |#|oxide-room-104-4c1249|Oxide Room 104|17,99€|70|2023-09-13 23h|2023-09-18 00h|
-|#|dark-fantasy-2-jigsaw-puzzle-d65d41|Dark Fantasy 2: Jigsaw Puzzle|2,69€|25|2023-09-10 14h|2023-09-18 02h|
 |#|midnight-ghost-hunt|Midnight Ghost Hunt|19,99€|66|2023-09-14 17h|2023-09-18 08h|
 |#|paw-paw-destiny-843848|Paw Paw Destiny|13,49€|30|2023-09-11 08h|2023-09-18 08h|
 |#|apotheorasis-a33e73|Apotheorasis • Lab of the Blind Gods|9,75€|42|2023-09-16 12h|2023-09-18 12h|
@@ -29,7 +26,9 @@
 |#|gravity-oddity-a66e76|Gravity Oddity|13,49€|10|2023-09-13 14h|2023-09-20 10h|
 |#|outbreak-the-nightmare-chronicles-reinvestigated-b631d4|Outbreak The Nightmare Chronicles Reinvestigated|8,99€|40|2023-09-13 14h|2023-09-20 14h|
 |#|thunder-ray-e9a2e3|Thunder Ray|13,49€|10|2023-09-14 12h|2023-09-21 12h|
+|#|cataire-6ce6b7|CATAIRE|0,89€|10|2023-09-14 13h|2023-09-21 13h|
 |#|911-operator-585edd|911 Operator|13,49€|100|2023-09-14 15h|2023-09-21 15h|
+|#|spinner-invaders-d453e7|Spinner Invaders|4,49€|40|2023-09-15 08h|2023-09-22 07h|
 |#|car-mechanic-city-driving-4996c5|Car Mechanic - City Driving|0,89€|30|2023-09-17 23h|2023-09-23 23h|
 |#|toem|TOEM|15,99€|70|2023-09-11 16h|2023-09-24 16h|
 |#|bramble-the-mountain-king-c0d1c6|Bramble The Mountain King|26,99€|40|2023-09-17 00h|2023-09-24 22h|
@@ -804,6 +803,7 @@
 |#|survive-on-raft-9845bd|Survive on Raft|8,99€|10|2023-10-12 17h|2023-10-19 17h|
 |#|blazing-beaks-3d4864|Blazing Beaks|11,99€|75|2023-10-13 15h|2023-10-20 15h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|40|2023-10-11 19h|2023-10-22 19h|
+|#|aya-and-naya-b7791e|Aya & Naya|2,69€|30|2023-09-22 22h|2023-10-22 22h|
 |#|thomas-tales-912c23|Thomas' Tales|4,49€|70|2023-10-16 04h|2023-10-23 11h|
 |#|forklift-2024-the-simulation-eb32c5|Forklift 2024 - The Simulation|13,49€|35|2023-10-18 23h|2023-10-23 23h|
 |#|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|50|2023-10-17 15h|2023-10-24 15h|

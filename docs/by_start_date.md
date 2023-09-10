@@ -1,8 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|deathrun-tv-db074f|DEATHRUN TV|11,99€|75|2023-09-10 00h|2023-09-17 22h|
-|#|foreclosed|FORECLOSED|16,99€|80|2023-09-10 00h|2023-09-17 22h|
-|#|dark-fantasy-2-jigsaw-puzzle-d65d41|Dark Fantasy 2: Jigsaw Puzzle|2,69€|25|2023-09-10 14h|2023-09-18 02h|
 |#|paw-paw-destiny-843848|Paw Paw Destiny|13,49€|30|2023-09-11 08h|2023-09-18 08h|
 |#|aerial-knights-never-yield|Aerial_Knight's Never Yield|11,99€|70|2023-09-11 10h|2023-10-02 13h|
 |#|humankind|HUMANKIND™ Standard Edition|49,99€|80|2023-09-11 14h|2023-09-14 14h|
@@ -30,6 +27,7 @@
 |#|outbreak-the-nightmare-chronicles-reinvestigated-b631d4|Outbreak The Nightmare Chronicles Reinvestigated|8,99€|40|2023-09-13 14h|2023-09-20 14h|
 |#|oxide-room-104-4c1249|Oxide Room 104|17,99€|70|2023-09-13 23h|2023-09-18 00h|
 |#|thunder-ray-e9a2e3|Thunder Ray|13,49€|10|2023-09-14 12h|2023-09-21 12h|
+|#|cataire-6ce6b7|CATAIRE|0,89€|10|2023-09-14 13h|2023-09-21 13h|
 |#|12-orbits-c48266|12 orbits|1,79€|50|2023-09-14 15h|2023-09-28 15h|
 |#|7-billion-humans|7 Billion Humans|11,99€|50|2023-09-14 15h|2023-09-28 15h|
 |#|762-high-calibre-762-hard-life-93f60a|7,62 High Calibre|4,99€|80|2023-09-14 15h|2023-09-28 15h|
@@ -710,6 +708,7 @@
 |#|terrorbane-437dd3|tERRORbane|13,49€|50|2023-09-14 15h|2023-09-28 15h|
 |#|midnight-ghost-hunt|Midnight Ghost Hunt|19,99€|66|2023-09-14 17h|2023-09-18 08h|
 |#|we-were-here-forever|We Were Here Forever|17,99€|35|2023-09-14 17h|2023-09-28 17h|
+|#|spinner-invaders-d453e7|Spinner Invaders|4,49€|40|2023-09-15 08h|2023-09-22 07h|
 |#|overtop-ed5e49|Overtop|4,49€|90|2023-09-15 22h|2023-10-01 22h|
 |#|apotheorasis-a33e73|Apotheorasis • Lab of the Blind Gods|9,75€|42|2023-09-16 12h|2023-09-18 12h|
 |#|bramble-the-mountain-king-c0d1c6|Bramble The Mountain King|26,99€|40|2023-09-17 00h|2023-09-24 22h|
@@ -745,6 +744,7 @@
 |#|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|70|2023-09-21 22h|2023-09-29 22h|
 |#|suicide-guy-9f7963|Suicide Guy|7,19€|35|2023-09-21 23h|2023-09-30 23h|
 |#|project-first-contact-ff7fdc|Project First Contact|2,69€|95|2023-09-22 07h|2023-10-06 07h|
+|#|aya-and-naya-b7791e|Aya & Naya|2,69€|30|2023-09-22 22h|2023-10-22 22h|
 |#|smalland|Smalland: Survive the Wilds|24,99€|40|2023-09-24 00h|2023-10-01 22h|
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2023-09-24 22h|2023-10-09 22h|
 |#|60-parsecs-0481c5|60 Parsecs!|9,99€|50|2023-09-25 15h|2023-10-02 15h|
