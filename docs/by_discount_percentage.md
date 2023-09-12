@@ -60,7 +60,9 @@
 |#|sherlock-holmes-the-devils-daughter|Sherlock Holmes: The Devil's Daughter|29,99€|85|2023-10-18 15h|2023-11-01 15h|
 |#|star-vikings-forever-215b84|Star Vikings Forever|7,99€|85|2023-09-14 15h|2023-09-28 15h|
 |#|the-metronomicon-766679|The Metronomicon|15,99€|85|2023-09-14 15h|2023-09-28 15h|
+|#|the-uncertain-last-quiet-day|The Uncertain: Last Quiet Day|7,99€|85|2023-09-13 10h|2023-09-18 10h|
 |#|the-uncertain-last-quiet-day|The Uncertain: Last Quiet Day|7,99€|85|2023-10-18 15h|2023-11-01 15h|
+|#|the-uncertain-light-at-the-end|The Uncertain: Light at the End|7,99€|85|2023-09-13 10h|2023-09-18 10h|
 |#|the-uncertain-light-at-the-end|The Uncertain: Light at the End|7,99€|85|2023-10-18 15h|2023-11-01 15h|
 |#|timothy-vs-the-aliens-2f5b36|Timothy vs the Aliens|13,49€|85|2023-09-14 15h|2023-09-28 15h|
 |#|timothy-vs-the-aliens-2f5b36|Timothy vs the Aliens|13,49€|85|2023-10-28 16h|2023-11-12 12h|
@@ -159,7 +161,6 @@
 |#|space-trader-merchant-marine-0426a8|Space Trader - Merchant Marine|3,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|stick-it-to-the-man|Stick It To The Man!|5,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|stygian-reign-of-the-old-ones-56e1d7|Stygian: Reign of the Old Ones|19,99€|80|2023-10-18 15h|2023-11-01 15h|
-|#|the-dawning-clocks-of-time-a52f59|The Dawning Clocks of Time|44,99€|80|2023-09-12 15h|2023-09-19 15h|
 |#|the-kings-bird-a5b589|The King's Bird|15,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|the-silent-age-eb6972|The Silent Age|7,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|the-surge|The Surge|14,99€|80|2023-09-14 15h|2023-09-28 15h|
@@ -242,6 +243,7 @@
 |#|goetia-2-97b0ff|Goetia 2|9,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|gone-home|Gone Home|11,99€|75|2023-10-18 15h|2023-11-01 15h|
 |#|hob|Hob|19,99€|75|2023-09-14 15h|2023-09-28 15h|
+|#|hordecore|HordeCore|9,99€|75|2023-09-13 10h|2023-09-18 10h|
 |#|horror-story-hallowseed|Horror Story: Hallowseed|19,99€|75|2023-10-18 15h|2023-11-01 15h|
 |#|il2-sturmovik-1946-4afaf1|IL-2 Sturmovik: 1946|9,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|inside|INSIDE|19,99€|75|2023-09-14 15h|2023-09-28 15h|
@@ -325,6 +327,7 @@
 |#|assassins-creed-2|Assassin's Creed II Standard Edition|9,99€|70|2023-09-14 15h|2023-09-28 15h|
 |#|assassins-creed-rogue|Assassin's Creed Rogue Standard Edition|19,99€|70|2023-09-14 15h|2023-09-28 15h|
 |#|assassins-creed-1|Assassin's Creed® I: Director's Cut|9,99€|70|2023-09-14 15h|2023-09-28 15h|
+|#|backrooms-realm-of-shadows-1ca413|Backrooms: Realm of Shadows|7,19€|70|2023-10-18 15h|2023-11-01 15h|
 |#|baldurs-gate-2-enhanced-edition|Baldur's Gate II: Enhanced Edition|15,99€|70|2023-09-14 15h|2023-09-28 15h|
 |#|baldurs-gate-enhanced-edition|Baldur's Gate: Enhanced Edition|15,99€|70|2023-09-14 15h|2023-09-28 15h|
 |#|banners-of-ruin|Banners of Ruin|17,99€|70|2023-09-14 15h|2023-09-28 15h|
@@ -354,13 +357,13 @@
 |#|kine|Kine|11,99€|70|2023-09-14 15h|2023-09-28 15h|
 |#|legend-of-grimrock|Legend of Grimrock|11,99€|70|2023-09-14 15h|2023-09-28 15h|
 |#|legend-of-grimrock-2|Legend of Grimrock 2|23,99€|70|2023-09-14 15h|2023-09-28 15h|
-|#|marvels-guardians-of-the-galaxy|Marvel's Guardians of the Galaxy|59,99€|70|2023-09-12 15h|2023-09-19 15h|
 |#|milky-way-prince-the-vampire-star|Milky Way Prince – The Vampire Star|14,99€|70|2023-10-18 15h|2023-11-01 15h|
 |#|necromunda-hired-gun|Necromunda: Hired Gun|39,99€|70|2023-09-14 15h|2023-09-28 15h|
 |#|need-for-speed-unbound|Need for Speed™ Unbound Standard Edition|69,99€|70|2023-09-14 15h|2023-09-28 15h|
 |#|new-super-luckys-tale|New Super Lucky's Tale|27,99€|70|2023-09-14 15h|2023-09-28 15h|
 |#|orwell-ignorance-is-strength-486264|Orwell: Ignorance is Strength|7,99€|70|2023-09-14 15h|2023-09-28 15h|
 |#|oxide-room-104-4c1249|Oxide Room 104|17,99€|70|2023-09-13 23h|2023-09-18 00h|
+|#|pathfinder-wrath-of-the-righteous|Pathfinder: Wrath of the Righteous - Enhanced Edition|39,99€|70|2023-09-13 10h|2023-09-18 10h|
 |#|pathfinder-wrath-of-the-righteous|Pathfinder: Wrath of the Righteous - Enhanced Edition|39,99€|70|2023-10-18 15h|2023-11-01 15h|
 |#|planescape-torment-enhanced-edition|Planescape: Torment: Enhanced Edition|15,99€|70|2023-09-14 15h|2023-09-28 15h|
 |#|power-vacuum-3b662e|Power Vacuum|9,89€|70|2023-09-14 15h|2023-09-28 15h|
@@ -402,7 +405,6 @@
 |#|paramnesia-a49100|Paramnesia|2,39€|67|2023-09-14 15h|2023-09-28 15h|
 |#|port-royale-4|Port Royale 4|39,99€|67|2023-09-14 15h|2023-09-28 15h|
 |#|red-dead-redemption-2|Red Dead Redemption 2|59,99€|67|2023-09-14 15h|2023-09-28 15h|
-|#|saints-row|Saints Row|59,99€|67|2023-09-12 15h|2023-09-19 15h|
 |#|scott-pilgrim-vs-the-world-the-game|Scott Pilgrim vs. The World: The Game – Complete Edition|14,99€|67|2023-09-14 15h|2023-09-28 15h|
 |#|spacebase-startopia|Spacebase Startopia - Standard Edition|39,99€|67|2023-09-14 15h|2023-09-28 15h|
 |#|the-legend-of-heroes-trails-of-cold-steel-iii|The Legend of Heroes: Trails of Cold Steel III|59,99€|67|2023-10-02 17h|2023-10-16 17h|
@@ -469,12 +471,12 @@
 |#|cyanide-happiness-freakpocalypse|Cyanide & Happiness - Freakpocalypse (Episode 1)|15,99€|60|2023-10-18 15h|2023-11-01 15h|
 |#|elex-ii|ELEX II|49,99€|60|2023-09-14 15h|2023-09-28 15h|
 |#|far-changing-tides|FAR: Changing Tides|19,99€|60|2023-09-14 15h|2023-09-28 15h|
+|#|fusion-paradox-31b28a|Fusion Paradox|8,99€|60|2023-09-26 15h|2023-10-03 15h|
 |#|ghostwire-tokyo|Ghostwire: Tokyo|59,99€|60|2023-09-14 15h|2023-09-28 15h|
 |#|guild-of-ascension|Guild Of Ascension|14,99€|60|2023-09-14 15h|2023-09-28 15h|
 |#|hellslave-cc8a71|Hellslave|15,99€|60|2023-09-14 15h|2023-09-28 15h|
 |#|hercule-poirot-the-first-cases-584238|Hercule Poirot - The First Cases|19,99€|60|2023-09-14 15h|2023-09-28 15h|
 |#|hirilun-d92aa3|Hirilun|7,99€|60|2023-09-14 15h|2023-09-28 15h|
-|#|horse-tales-emerald-valley-ranch-240ae8|Horse Tales - Emerald Valley Ranch|29,99€|60|2023-09-12 15h|2023-09-19 15h|
 |#|i-am-dead|I Am Dead|18,99€|60|2023-09-14 15h|2023-09-28 15h|
 |#|imagine-earth-7498e4|Imagine Earth|24,99€|60|2023-09-14 15h|2023-09-28 15h|
 |#|keep-in-mind-remastered-6ee77a|Keep in Mind Remastered|1,59€|60|2023-09-14 15h|2023-09-28 15h|
@@ -663,6 +665,7 @@
 |#|jackbox-party-pack-4|The Jackbox Party Pack 4|22,99€|50|2023-09-14 15h|2023-09-28 15h|
 |#|the-legend-of-heroes-trails-of-cold-steel-iv|The Legend of Heroes: Trails of Cold Steel IV|59,99€|50|2023-10-02 17h|2023-10-16 17h|
 |#|the-magnificent-trufflepigs|The Magnificent Trufflepigs|9,99€|50|2023-09-14 15h|2023-09-28 15h|
+|#|the-vale-shadow-of-the-crown|The Vale: Shadow of the Crown|15,99€|50|2023-09-14 15h|2023-09-28 15h|
 |#|tony-hawks-pro-skater-1-and-2|Tony Hawk's™ Pro Skater™ 1 + 2|44,99€|50|2023-09-14 15h|2023-09-28 15h|
 |#|tropico-5|Tropico 5|19,99€|50|2023-09-14 15h|2023-09-28 15h|
 |#|untitled-goose-game|Untitled Goose Game|15,99€|50|2023-09-14 15h|2023-09-28 15h|
@@ -691,7 +694,6 @@
 |#|the-tale-of-bistun-9d6c5f|The Tale of Bistun|13,99€|44|2023-09-14 15h|2023-09-28 15h|
 |#|final-fantasy-vii-remake-intergrade|FINAL FANTASY VII REMAKE INTERGRADE|79,99€|43|2023-09-20 15h|2023-10-03 15h|
 |#|apotheorasis-a33e73|Apotheorasis • Lab of the Blind Gods|9,75€|42|2023-09-16 12h|2023-09-18 12h|
-|#|deltav-rings-of-saturn-4cd187|ΔV: Rings of Saturn|8,99€|42|2023-09-12 15h|2023-09-19 15h|
 |#|a-monsters-expedition|A Monster's Expedition|22,39€|40|2023-09-14 15h|2023-09-28 15h|
 |#|apico-f6e18b|APICO|15,99€|40|2023-10-02 13h|2023-10-09 04h|
 |#|aerial-platforms-119f15|Aerial Platforms|8,09€|40|2023-10-10 15h|2023-10-17 15h|
@@ -706,7 +708,6 @@
 |#|bramble-the-mountain-king-c0d1c6|Bramble The Mountain King|26,99€|40|2023-09-17 00h|2023-09-24 22h|
 |#|breakout-recharged|Breakout: Recharged|8,99€|40|2023-09-14 15h|2023-09-28 15h|
 |#|bucket-knight-1ac30c|Bucket Knight|4,49€|40|2023-09-14 15h|2023-09-28 15h|
-|#|busway-islands-puzzle-91287d|Busway Islands - Puzzle|2,69€|40|2023-09-12 15h|2023-09-19 15h|
 |#|cafe-owner-simulator-749e0f|Cafe Owner Simulator|14,49€|40|2023-09-14 15h|2023-09-28 15h|
 |#|caverns-of-mars-recharged-6686f6|Caverns of Mars Recharged|8,99€|40|2023-09-14 15h|2023-09-28 15h|
 |#|centipede-recharged|Centipede: Recharged|8,99€|40|2023-09-14 15h|2023-09-28 15h|
@@ -725,14 +726,13 @@
 |#|jackbox-party-pack-3|Jackbox Party Pack 3|22,99€|40|2023-09-14 15h|2023-09-28 15h|
 |#|life-after-death-b4e964|Life After Death|4,49€|40|2023-10-09 00h|2023-11-02 01h|
 |#|murder-is-game-over-255da8|Murder Is Game Over|3,99€|40|2023-09-14 15h|2023-09-28 15h|
-|#|out-of-line-209cbb|Out of Line|7,19€|40|2023-09-12 15h|2023-09-19 15h|
 |#|outbreak-devious-beginnings-5c0af8|Outbreak Devious Beginnings|8,99€|40|2023-10-25 14h|2023-11-01 14h|
 |#|outbreak-epidemic-viral-terror-54b6e9|Outbreak Epidemic Viral Terror|8,99€|40|2023-09-27 14h|2023-10-04 14h|
 |#|outbreak-lost-hope-broken-faith-77b3f9|Outbreak Lost Hope Broken Faith|8,99€|40|2023-10-11 14h|2023-10-18 14h|
 |#|outbreak-the-new-nightmare-revisited-90517a|Outbreak The New Nightmare Revisited|8,99€|40|2023-11-08 15h|2023-11-15 15h|
 |#|outbreak-the-nightmare-chronicles-reinvestigated-b631d4|Outbreak The Nightmare Chronicles Reinvestigated|8,99€|40|2023-09-13 14h|2023-09-20 14h|
 |#|outerwilds|Outer Wilds|22,99€|40|2023-09-14 15h|2023-09-28 15h|
-|#|potion-craft-7656a2|Potion Craft: Alchemist Simulator|11,99€|40|2023-09-14 17h|2023-09-21 17h|
+|#|potion-craft-7656a2|Potion Craft: Alchemist Simulator|11,99€|40|2023-09-14 17h|2023-09-21 15h|
 |#|revita-d8ff55|Revita|16,99€|40|2023-09-14 15h|2023-09-28 15h|
 |#|rising-hell-253707|Rising Hell|7,99€|40|2023-11-21 17h|2023-11-28 17h|
 |#|spingun-843f78|SPINGUN|1,79€|40|2023-09-26 15h|2023-10-03 15h|
@@ -773,7 +773,6 @@
 |#|grime|GRIME|19,99€|35|2023-09-14 15h|2023-09-28 15h|
 |#|glitchhikers-the-spaces-between-3d7a5d|Glitchhikers: The Spaces Between|9,99€|35|2023-09-14 15h|2023-09-28 15h|
 |#|gold-rush-classic-34d7d5|Gold Rush! Classic|2,69€|35|2023-09-14 15h|2023-09-28 15h|
-|#|neuronet-mendax-proxy|NeuroNet: Mendax Proxy|17,99€|35|2023-09-12 15h|2023-09-19 15h|
 |#|nocturnal-ef3fa0|Nocturnal|16,99€|35|2023-09-14 15h|2023-09-28 15h|
 |#|recall-113630|RECALL|15,99€|35|2023-10-02 13h|2023-10-09 04h|
 |#|run-the-world-inbetween-399e64|RUN - The world in-between|9,99€|35|2023-09-14 15h|2023-09-28 15h|
@@ -794,7 +793,6 @@
 |#|homestead-arcana-60ff39|Homestead Arcana|19,99€|33|2023-10-01 18h|2023-10-14 18h|
 |#|ranch-simulator|Ranch Simulator|20,99€|33|2023-09-14 15h|2023-09-28 15h|
 |#|the-great-war-western-front|The Great War: Western Front™|34,99€|33|2023-09-14 15h|2023-09-28 15h|
-|#|vagrus-the-riven-realms-c635d5|Vagrus - The Riven Realms|26,99€|33|2023-09-12 15h|2023-09-19 15h|
 |#|a-heros-rest-67f117|A Hero's Rest|20,99€|30|2023-10-18 15h|2023-11-01 15h|
 |#|aya-and-naya-b7791e|Aya & Naya|2,69€|30|2023-09-22 22h|2023-10-22 22h|
 |#|brok-the-investigator-fb0513|BROK the InvestiGator|17,99€|30|2023-09-14 15h|2023-09-28 15h|
@@ -829,7 +827,6 @@
 |#|starless-bb4b3c|Starless|5,99€|30|2023-09-14 15h|2023-09-28 15h|
 |#|strayed-lights-351d29|Strayed Lights|24,99€|30|2023-09-14 15h|2023-09-28 15h|
 |#|tt-isle-of-man-ride-on-the-edge-3|TT Isle of Man: Ride on the Edge 3|49,99€|30|2023-09-14 15h|2023-09-28 15h|
-|#|terra-invicta-5bbf09|Terra Invicta|39,99€|30|2023-09-12 15h|2023-09-19 15h|
 |#|the-devils-face-356c31|The Devil's Face|3,59€|30|2023-10-18 15h|2023-11-01 15h|
 |#|the-lord-of-the-rings-gollum|The Lord of the Rings - Gollum™|49,99€|30|2023-09-14 15h|2023-09-28 15h|
 |#|ungate-df09c8|Ungate|22,39€|30|2023-10-18 15h|2023-11-01 15h|
@@ -886,7 +883,6 @@
 |#|medieval-delivery-938731|Medieval Delivery|8,99€|20|2023-10-03 15h|2023-10-10 15h|
 |#|mount-and-blade-2|Mount & Blade II: Bannerlord|49,99€|20|2023-09-14 15h|2023-09-28 15h|
 |#|noob-the-factionless-ac623f|NOOB - The Factionless|29,99€|20|2023-09-14 15h|2023-09-28 15h|
-|#|nour|Nour: Play with Your Food|13,49€|20|2023-09-12 13h|2023-09-19 13h|
 |#|outliver-tribulations-679884|Outliver: Tribulation|7,19€|20|2023-09-14 15h|2023-09-28 15h|
 |#|paquerette-down-the-bunburrows-2fd777|Paquerette Down the Bunburrows|11,99€|20|2023-09-14 15h|2023-09-28 15h|
 |#|remnant-2|Remnant 2|49,99€|20|2023-10-18 15h|2023-11-01 15h|
@@ -904,8 +900,7 @@
 |#|the-outlast-trials|The Outlast Trials|26,99€|20|2023-10-18 15h|2023-11-01 15h|
 |#|the-red-exile-67804a|The Red Exile: Survival Horror|4,49€|20|2023-09-20 22h|2023-09-27 22h|
 |#|timberborn|Timberborn|22,39€|20|2023-09-14 15h|2023-09-28 15h|
-|#|tortuga-a-pirates-tale-e02635|Tortuga - A Pirate's Tale|24,99€|20|2023-09-12 15h|2023-09-19 15h|
-|#|touch-type-tale|Touch Type Tale|19,99€|20|2023-09-12 15h|2023-09-19 15h|
+|#|tortuga-a-pirates-tale-e02635|Tortuga - A Pirate's Tale|24,99€|20|2023-09-26 15h|2023-10-03 15h|
 |#|tour-de-france-2023|Tour de France 2023|39,99€|20|2023-09-14 15h|2023-09-28 15h|
 |#|urban-tale-75b4f0|Urban Tale|12,59€|20|2023-09-14 15h|2023-09-28 15h|
 |#|viscerafest|Viscerafest|14,99€|20|2023-09-14 15h|2023-09-28 15h|
@@ -929,6 +924,7 @@
 |#|gravity-oddity-a66e76|Gravity Oddity|13,49€|10|2023-09-13 14h|2023-09-20 10h|
 |#|mr-run-and-jump-91ed30|Mr. Run and Jump|22,39€|10|2023-09-14 15h|2023-09-28 15h|
 |#|murder-is-game-over-streaming-death-951812|Murder Is Game Over - Streaming Death|4,49€|10|2023-09-14 15h|2023-09-28 15h|
+|#|planeticusgame-5dd84a|Planeticus|6,29€|10|2023-10-17 15h|2023-10-24 15h|
 |#|probo-rush-b3ee54|Probo Rush|4,49€|10|2023-09-14 15h|2023-09-28 15h|
 |#|railway-empire-2-01|Railway Empire 2|49,99€|10|2023-09-14 15h|2023-09-28 15h|
 |#|stillborn-slayer-298dd7|Stillborn Slayer|9,89€|10|2023-09-14 15h|2023-09-28 15h|

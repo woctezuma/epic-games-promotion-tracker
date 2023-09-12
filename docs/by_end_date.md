@@ -2,26 +2,17 @@
 |---|---|---|---|---|---|---|
 |#|oxide-room-104-4c1249|Oxide Room 104|17,99€|70|2023-09-13 23h|2023-09-18 00h|
 |#|midnight-ghost-hunt|Midnight Ghost Hunt|19,99€|66|2023-09-14 17h|2023-09-18 08h|
+|#|hordecore|HordeCore|9,99€|75|2023-09-13 10h|2023-09-18 10h|
+|#|pathfinder-wrath-of-the-righteous|Pathfinder: Wrath of the Righteous - Enhanced Edition|39,99€|70|2023-09-13 10h|2023-09-18 10h|
+|#|the-uncertain-last-quiet-day|The Uncertain: Last Quiet Day|7,99€|85|2023-09-13 10h|2023-09-18 10h|
+|#|the-uncertain-light-at-the-end|The Uncertain: Light at the End|7,99€|85|2023-09-13 10h|2023-09-18 10h|
 |#|apotheorasis-a33e73|Apotheorasis • Lab of the Blind Gods|9,75€|42|2023-09-16 12h|2023-09-18 12h|
-|#|nour|Nour: Play with Your Food|13,49€|20|2023-09-12 13h|2023-09-19 13h|
-|#|busway-islands-puzzle-91287d|Busway Islands - Puzzle|2,69€|40|2023-09-12 15h|2023-09-19 15h|
-|#|horse-tales-emerald-valley-ranch-240ae8|Horse Tales - Emerald Valley Ranch|29,99€|60|2023-09-12 15h|2023-09-19 15h|
-|#|marvels-guardians-of-the-galaxy|Marvel's Guardians of the Galaxy|59,99€|70|2023-09-12 15h|2023-09-19 15h|
-|#|neuronet-mendax-proxy|NeuroNet: Mendax Proxy|17,99€|35|2023-09-12 15h|2023-09-19 15h|
-|#|out-of-line-209cbb|Out of Line|7,19€|40|2023-09-12 15h|2023-09-19 15h|
-|#|saints-row|Saints Row|59,99€|67|2023-09-12 15h|2023-09-19 15h|
-|#|terra-invicta-5bbf09|Terra Invicta|39,99€|30|2023-09-12 15h|2023-09-19 15h|
-|#|the-dawning-clocks-of-time-a52f59|The Dawning Clocks of Time|44,99€|80|2023-09-12 15h|2023-09-19 15h|
-|#|tortuga-a-pirates-tale-e02635|Tortuga - A Pirate's Tale|24,99€|20|2023-09-12 15h|2023-09-19 15h|
-|#|touch-type-tale|Touch Type Tale|19,99€|20|2023-09-12 15h|2023-09-19 15h|
-|#|vagrus-the-riven-realms-c635d5|Vagrus - The Riven Realms|26,99€|33|2023-09-12 15h|2023-09-19 15h|
-|#|deltav-rings-of-saturn-4cd187|ΔV: Rings of Saturn|8,99€|42|2023-09-12 15h|2023-09-19 15h|
 |#|gravity-oddity-a66e76|Gravity Oddity|13,49€|10|2023-09-13 14h|2023-09-20 10h|
 |#|outbreak-the-nightmare-chronicles-reinvestigated-b631d4|Outbreak The Nightmare Chronicles Reinvestigated|8,99€|40|2023-09-13 14h|2023-09-20 14h|
 |#|thunder-ray-e9a2e3|Thunder Ray|13,49€|10|2023-09-14 12h|2023-09-21 12h|
 |#|cataire-6ce6b7|CATAIRE|0,89€|10|2023-09-14 13h|2023-09-21 13h|
 |#|911-operator-585edd|911 Operator|13,49€|100|2023-09-14 15h|2023-09-21 15h|
-|#|potion-craft-7656a2|Potion Craft: Alchemist Simulator|11,99€|40|2023-09-14 17h|2023-09-21 17h|
+|#|potion-craft-7656a2|Potion Craft: Alchemist Simulator|11,99€|40|2023-09-14 17h|2023-09-21 15h|
 |#|spinner-invaders-d453e7|Spinner Invaders|4,49€|40|2023-09-15 13h|2023-09-22 01h|
 |#|car-mechanic-city-driving-4996c5|Car Mechanic - City Driving|0,89€|30|2023-09-17 23h|2023-09-23 23h|
 |#|bramble-the-mountain-king-c0d1c6|Bramble The Mountain King|26,99€|40|2023-09-17 00h|2023-09-24 22h|
@@ -629,6 +620,7 @@
 |#|the-tale-of-bistun-9d6c5f|The Tale of Bistun|13,99€|44|2023-09-14 15h|2023-09-28 15h|
 |#|the-telltale-batman|The Telltale Batman Shadows Edition|24,99€|60|2023-09-14 15h|2023-09-28 15h|
 |#|the-unfinished-swan|The Unfinished Swan|13,99€|70|2023-09-14 15h|2023-09-28 15h|
+|#|the-vale-shadow-of-the-crown|The Vale: Shadow of the Crown|15,99€|50|2023-09-14 15h|2023-09-28 15h|
 |#|the-valiant|The Valiant|24,99€|40|2023-09-14 15h|2023-09-28 15h|
 |#|the-witcher-3-wild-hunt|The Witcher 3: Wild Hunt – Complete Edition|49,96€|70|2023-09-14 15h|2023-09-28 15h|
 |#|the-wizard-and-the-slug-482a09|The Wizard and The Slug|3,99€|60|2023-09-14 15h|2023-09-28 15h|
@@ -738,6 +730,7 @@
 |#|front-mission-1st-remake-124a24|FRONT MISSION 1st: Remake|31,39€|20|2023-09-26 15h|2023-10-03 15h|
 |#|flat-heroes-fec628|Flat Heroes|9,99€|50|2023-09-26 15h|2023-10-03 15h|
 |#|forspoken|Forspoken|79,99€|50|2023-09-20 15h|2023-10-03 15h|
+|#|fusion-paradox-31b28a|Fusion Paradox|8,99€|60|2023-09-26 15h|2023-10-03 15h|
 |#|kingdom-hearts-hd-1-5-2-5-remix|KINGDOM HEARTS HD 1.5+2.5 ReMIX|49,99€|50|2023-09-20 15h|2023-10-03 15h|
 |#|kingdom-hearts-hd-2-8-final-chapter-prologue|KINGDOM HEARTS HD 2.8 Final Chapter Prologue|59,99€|50|2023-09-20 15h|2023-10-03 15h|
 |#|kingdom-hearts-iii|KINGDOM HEARTS III + Re Mind (DLC)|59,99€|50|2023-09-20 15h|2023-10-03 15h|
@@ -748,6 +741,7 @@
 |#|spingun-843f78|SPINGUN|1,79€|40|2023-09-26 15h|2023-10-03 15h|
 |#|stranger-of-paradise-final-fantasy-origin|STRANGER OF PARADISE FINAL FANTASY ORIGIN|39,99€|30|2023-09-20 15h|2023-10-03 15h|
 |#|the-division|Tom Clancy's The Division|29,99€|85|2023-09-26 15h|2023-10-03 15h|
+|#|tortuga-a-pirates-tale-e02635|Tortuga - A Pirate's Tale|24,99€|20|2023-09-26 15h|2023-10-03 15h|
 |#|volley-pals-0120b4|Volley Pals|4,49€|40|2023-09-26 15h|2023-10-03 15h|
 |#|outbreak-epidemic-viral-terror-54b6e9|Outbreak Epidemic Viral Terror|8,99€|40|2023-09-27 14h|2023-10-04 14h|
 |#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2023-09-19 22h|2023-10-04 22h|
@@ -812,6 +806,7 @@
 |#|indies-lies-57f843|Indies Lies|13,49€|25|2023-10-16 16h|2023-10-23 16h|
 |#|forklift-2024-the-simulation-eb32c5|Forklift 2024 - The Simulation|13,49€|35|2023-10-18 23h|2023-10-23 23h|
 |#|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|50|2023-10-17 15h|2023-10-24 15h|
+|#|planeticusgame-5dd84a|Planeticus|6,29€|10|2023-10-17 15h|2023-10-24 15h|
 |#|lines-guarder-174742|Line's Guarder|8,99€|15|2023-09-26 17h|2023-10-26 17h|
 |#|mallofmayhem-15344c|Mall of Mayhem|8,99€|50|2023-10-01 06h|2023-10-30 23h|
 |#|im-looking-for-3024-people-1cdae4|I'm looking for 3024 people|3,99€|30|2023-10-01 22h|2023-10-31 22h|
@@ -827,6 +822,7 @@
 |#|angelo-and-deemon-one-hell-of-a-quest-94d7e2|Angelo and Deemon: One Hell of a Quest|7,19€|40|2023-10-18 15h|2023-11-01 15h|
 |#|apotheorasis-a33e73|Apotheorasis • Lab of the Blind Gods|9,75€|35|2023-10-18 15h|2023-11-01 15h|
 |#|astronite-edc4d8|Astronite|13,49€|50|2023-10-18 15h|2023-11-01 15h|
+|#|backrooms-realm-of-shadows-1ca413|Backrooms: Realm of Shadows|7,19€|70|2023-10-18 15h|2023-11-01 15h|
 |#|beach-invasion-1944-d654d6|Beach Invasion 1944|8,99€|35|2023-10-18 15h|2023-11-01 15h|
 |#|chased-by-darkness-d00d26|Chased by Darkness|4,49€|40|2023-10-18 15h|2023-11-01 15h|
 |#|county-hospital-aa8e79|County Hospital|4,49€|20|2023-10-18 15h|2023-11-01 15h|
