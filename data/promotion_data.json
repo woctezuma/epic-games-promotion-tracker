@@ -4797,15 +4797,6 @@
     "title": "Overtop"
   },
   {
-    "discountPercentage": 70,
-    "endDate": "2023-09-18T00:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1799,
-    "slug": "oxide-room-104-4c1249",
-    "startDate": "2023-09-13T23:00:00.000Z",
-    "title": "Oxide Room 104"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
