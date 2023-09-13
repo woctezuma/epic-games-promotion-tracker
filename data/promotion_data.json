@@ -7866,6 +7866,15 @@
     "title": "Tropico 6"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2023-09-25T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2450,
+    "slug": "turbo-overkill-c5e3c7",
+    "startDate": "2023-09-18T17:00:00.000Z",
+    "title": "Turbo Overkill"
+  },
+  {
     "discountPercentage": 66,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
