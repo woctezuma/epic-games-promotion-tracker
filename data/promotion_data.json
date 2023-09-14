@@ -414,6 +414,15 @@
     "title": "ArcRunner"
   },
   {
+    "discountPercentage": 35,
+    "endDate": "2023-10-10T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "arcadegeddon",
+    "startDate": "2023-10-03T15:00:00.000Z",
+    "title": "Arcadegeddon"
+  },
+  {
     "discountPercentage": 45,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
@@ -3625,6 +3634,15 @@
     "slug": "kholat-3f394b",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Kholat"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "killing-floor-2",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Killing Floor 2"
   },
   {
     "discountPercentage": 70,
