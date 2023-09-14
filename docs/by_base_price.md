@@ -249,6 +249,7 @@
 |#|house-party-ae8b27|House Party|24,99€|50|2023-09-14 15h|2023-09-28 15h|
 |#|imagine-earth-7498e4|Imagine Earth|24,99€|60|2023-09-14 15h|2023-09-28 15h|
 |#|imagine-earth-7498e4|Imagine Earth|24,99€|55|2023-10-28 23h|2023-11-08 00h|
+|#|killing-floor-2|Killing Floor 2|24,99€|80|2023-10-18 15h|2023-11-01 15h|
 |#|lords-and-villeins-746931|Lords and Villeins|24,99€|50|2023-09-14 15h|2023-09-28 15h|
 |#|new-joe-and-mac-caveman-ninja-bbaa73|NEW Joe and Mac Caveman Ninja|24,99€|50|2023-09-14 15h|2023-09-28 15h|
 |#|observer-system-redux|Observer: System Redux|24,99€|50|2023-09-14 15h|2023-09-28 15h|
@@ -594,6 +595,7 @@
 |#|911-operator-585edd|911 Operator|13,49€|100|2023-09-14 15h|2023-09-21 15h|
 |#|a-good-snowman-is-hard-to-build|A Good Snowman is Hard to Build|13,49€|70|2023-09-14 15h|2023-09-28 15h|
 |#|alchemist-adventure-fa9fca|Alchemist Adventure|13,49€|65|2023-09-14 15h|2023-09-28 15h|
+|#|arcadegeddon|Arcadegeddon|13,49€|35|2023-10-03 15h|2023-10-10 15h|
 |#|astronite-edc4d8|Astronite|13,49€|50|2023-10-18 15h|2023-11-01 15h|
 |#|chaos-galaxy-a33dac|Chaos Galaxy|13,49€|60|2023-09-14 15h|2023-09-28 15h|
 |#|cosmic-express|Cosmic Express|13,49€|70|2023-09-14 15h|2023-09-28 15h|
