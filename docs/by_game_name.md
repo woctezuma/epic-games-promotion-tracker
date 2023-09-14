@@ -46,6 +46,7 @@
 |#|apotheorasis-a33e73|Apotheorasis • Lab of the Blind Gods|9,75€|35|2023-10-18 15h|2023-11-01 15h|
 |#|aquanox-deep-descent|Aquanox Deep Descent|29,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|arcrunner-61fee6|ArcRunner|19,99€|20|2023-09-14 15h|2023-09-28 15h|
+|#|arcadegeddon|Arcadegeddon|13,49€|35|2023-10-03 15h|2023-10-10 15h|
 |#|art-of-rally|Art of Rally|24,99€|45|2023-09-14 15h|2023-09-28 15h|
 |#|as-far-as-the-eye|As Far As The Eye|20,99€|75|2023-09-14 15h|2023-09-28 15h|
 |#|ash-of-gods-the-way-58bd36|Ash of Gods: The Way|24,50€|15|2023-09-14 15h|2023-09-28 15h|
@@ -403,6 +404,7 @@
 |#|keep-in-mind-remastered-6ee77a|Keep in Mind Remastered|1,59€|60|2023-09-14 15h|2023-09-28 15h|
 |#|ken-follets-the-pillars-of-the-earth|Ken Follett's The Pillars of the Earth|19,99€|90|2023-09-14 15h|2023-09-28 15h|
 |#|kholat-3f394b|Kholat|17,99€|77|2023-09-14 15h|2023-09-28 15h|
+|#|killing-floor-2|Killing Floor 2|24,99€|80|2023-10-18 15h|2023-11-01 15h|
 |#|kine|Kine|11,99€|70|2023-09-14 15h|2023-09-28 15h|
 |#|kings-bounty-ii|King's Bounty II|39,99€|80|2023-09-14 15h|2023-09-28 15h|
 |#|kings-bounty-armored-princess-2fbc57|King's Bounty: Armored Princess|9,99€|80|2023-09-14 15h|2023-09-28 15h|
