@@ -1026,15 +1026,6 @@
     "title": "Bus World"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2023-09-21T13:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "cataire-6ce6b7",
-    "startDate": "2023-09-14T13:00:00.000Z",
-    "title": "CATAIRE"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2023-11-19T14:00:00.000Z",
     "isFree": false,
@@ -3103,15 +3094,6 @@
     "slug": "hob",
     "startDate": "2023-09-14T15:00:00.000Z",
     "title": "Hob"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2023-09-21T13:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2239,
-    "slug": "homeseek-243763",
-    "startDate": "2023-09-14T13:00:00.000Z",
-    "title": "Homeseek"
   },
   {
     "discountPercentage": 33,
@@ -5209,6 +5191,15 @@
     "slug": "recall-113630",
     "startDate": "2023-10-02T13:00:00.000Z",
     "title": "RECALL"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-09-21T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "remedium-811743",
+    "startDate": "2023-09-14T15:00:00.000Z",
+    "title": "REMEDIUM"
   },
   {
     "discountPercentage": 45,
