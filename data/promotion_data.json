@@ -7533,15 +7533,6 @@
     "title": "Through the Woods"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2023-09-21T12:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1349,
-    "slug": "thunder-ray-e9a2e3",
-    "startDate": "2023-09-14T12:00:00.000Z",
-    "title": "Thunder Ray"
-  },
-  {
     "discountPercentage": 20,
     "endDate": "2023-09-28T15:00:00.000Z",
     "isFree": false,
