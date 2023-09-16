@@ -1,7 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|overtop-ed5e49|Overtop|4,49€|90|2023-09-15 22h|2023-10-01 22h|
-|#|apotheorasis-a33e73|Apotheorasis • Lab of the Blind Gods|9,75€|42|2023-09-16 12h|2023-09-18 12h|
 |#|bramble-the-mountain-king-c0d1c6|Bramble The Mountain King|26,99€|40|2023-09-17 00h|2023-09-24 22h|
 |#|car-mechanic-city-driving-4996c5|Car Mechanic - City Driving|0,89€|30|2023-09-17 23h|2023-09-23 23h|
 |#|real-car-parking-2024-authentic-simulation-d48d0c|Real Car Parking: 2024 Authentic Simulation|2,69€|40|2023-09-18 07h|2023-09-25 07h|
@@ -16,6 +14,7 @@
 |#|coopvalor-2056-ukraine-ww3-718385|CoopValor 2056: Ukraine WW3|3,59€|25|2023-09-19 15h|2023-09-26 15h|
 |#|dros-6da0b2|Dros|17,99€|45|2023-09-19 15h|2023-09-26 15h|
 |#|far-lone-sails|FAR: Lone Sails|14,99€|80|2023-09-19 15h|2023-09-26 15h|
+|#|kits-61b565|KITS|13,49€|50|2023-09-19 15h|2023-09-26 15h|
 |#|railgrade|RAILGRADE|26,99€|25|2023-09-19 15h|2023-09-26 15h|
 |#|return-to-monkey-island-f4af79|Return to Monkey Island|22,99€|30|2023-09-19 15h|2023-09-26 15h|
 |#|the-expanse-a-telltale-series|The Expanse - A Telltale Series|39,99€|40|2023-09-19 15h|2023-09-26 15h|
