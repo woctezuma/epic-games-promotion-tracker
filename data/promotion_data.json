@@ -63,6 +63,15 @@
     "title": "A Total War Saga: TROY"
   },
   {
+    "discountPercentage": 35,
+    "endDate": "2023-09-26T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1579,
+    "slug": "alan13-reformation-d4ec20",
+    "startDate": "2023-09-21T17:00:00.000Z",
+    "title": "ALAN-13 Reformation"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2023-10-09T04:00:00.000Z",
     "isFree": false,
@@ -70,15 +79,6 @@
     "slug": "apico-f6e18b",
     "startDate": "2023-10-02T13:00:00.000Z",
     "title": "APICO"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2023-10-17T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 809,
-    "slug": "aerial-platforms-119f15",
-    "startDate": "2023-10-10T15:00:00.000Z",
-    "title": "Aerial Platforms"
   },
   {
     "discountPercentage": 67,
@@ -286,15 +286,6 @@
     "slug": "bosorka-c0e6b6",
     "startDate": "2023-09-19T15:00:00.000Z",
     "title": "Bosorka"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2023-09-24T22:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2699,
-    "slug": "bramble-the-mountain-king-c0d1c6",
-    "startDate": "2023-09-17T00:00:00.000Z",
-    "title": "Bramble The Mountain King"
   },
   {
     "discountPercentage": 70,
@@ -1161,6 +1152,15 @@
     "title": "Mall of Mayhem"
   },
   {
+    "discountPercentage": 35,
+    "endDate": "2023-10-24T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 359,
+    "slug": "match-village-5f41dd",
+    "startDate": "2023-10-17T15:00:00.000Z",
+    "title": "Match Village"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2023-10-10T15:00:00.000Z",
     "isFree": false,
@@ -1557,6 +1557,15 @@
     "title": "SOMA"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-10-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "space-war-infinity-024a8f",
+    "startDate": "2023-09-26T15:00:00.000Z",
+    "title": "SPACE WAR - INFINITY"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2023-10-03T15:00:00.000Z",
     "isFree": false,
@@ -1692,7 +1701,7 @@
     "title": "Song Of The Prairie"
   },
   {
-    "discountPercentage": 40,
+    "discountPercentage": 50,
     "endDate": "2023-10-31T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 449,
@@ -2026,7 +2035,7 @@
   },
   {
     "discountPercentage": 20,
-    "endDate": "2023-09-27T22:00:00.000Z",
+    "endDate": "2023-10-20T22:00:00.000Z",
     "isFree": false,
     "originalPrice": 449,
     "slug": "the-red-exile-67804a",
