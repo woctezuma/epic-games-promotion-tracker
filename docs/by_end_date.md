@@ -1,7 +1,6 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
 |#|car-mechanic-city-driving-4996c5|Car Mechanic - City Driving|0,89€|30|2023-09-17 23h|2023-09-23 23h|
-|#|bramble-the-mountain-king-c0d1c6|Bramble The Mountain King|26,99€|40|2023-09-17 00h|2023-09-24 22h|
 |#|real-car-parking-2024-authentic-simulation-d48d0c|Real Car Parking: 2024 Authentic Simulation|2,69€|40|2023-09-18 07h|2023-09-25 07h|
 |#|the-repair-house-349cf9|The Repair House: Restoration Sim|19,99€|20|2023-09-18 09h|2023-09-25 09h|
 |#|gloomhaven-92f741|Gloomhaven|34,99€|40|2023-09-18 17h|2023-09-25 17h|
@@ -16,8 +15,8 @@
 |#|railgrade|RAILGRADE|26,99€|25|2023-09-19 15h|2023-09-26 15h|
 |#|return-to-monkey-island-f4af79|Return to Monkey Island|22,99€|30|2023-09-19 15h|2023-09-26 15h|
 |#|the-expanse-a-telltale-series|The Expanse - A Telltale Series|39,99€|40|2023-09-19 15h|2023-09-26 15h|
+|#|alan13-reformation-d4ec20|ALAN-13 Reformation|15,79€|35|2023-09-21 17h|2023-09-26 17h|
 |#|evil-wizard-e4f80f|Evil Wizard|17,99€|20|2023-09-20 16h|2023-09-27 05h|
-|#|the-red-exile-67804a|The Red Exile: Survival Horror|4,49€|20|2023-09-20 22h|2023-09-27 22h|
 |#|out-of-line-209cbb|Out of Line|7,19€|100|2023-09-21 15h|2023-09-28 15h|
 |#|spirit-of-the-island|Spirit of the Island|16,19€|50|2023-09-18 16h|2023-09-28 15h|
 |#|forest-quartet-5d03e3|The Forest Quartet|8,99€|100|2023-09-21 15h|2023-09-28 15h|
@@ -48,6 +47,7 @@
 |#|neo-the-world-ends-with-you|NEO: The World Ends with You|59,99€|50|2023-09-20 15h|2023-10-03 15h|
 |#|octopath-traveler|OCTOPATH TRAVELER™|59,99€|50|2023-09-20 15h|2023-10-03 15h|
 |#|planet-cube-edge-aac6d5|Planet Cube - Edge|13,49€|25|2023-09-26 15h|2023-10-03 15h|
+|#|space-war-infinity-024a8f|SPACE WAR - INFINITY|1,79€|50|2023-09-26 15h|2023-10-03 15h|
 |#|spingun-843f78|SPINGUN|1,79€|40|2023-09-26 15h|2023-10-03 15h|
 |#|stranger-of-paradise-final-fantasy-origin|STRANGER OF PARADISE FINAL FANTASY ORIGIN|39,99€|30|2023-09-20 15h|2023-10-03 15h|
 |#|the-division|Tom Clancy's The Division|29,99€|85|2023-09-26 15h|2023-10-03 15h|
@@ -105,7 +105,6 @@
 |#|the-legend-of-heroes-trails-of-cold-steel-iv|The Legend of Heroes: Trails of Cold Steel IV|59,99€|50|2023-10-02 17h|2023-10-16 17h|
 |#|the-legend-of-heroes-trails-to-azure|The Legend of Heroes: Trails to Azure|39,99€|10|2023-10-02 17h|2023-10-16 17h|
 |#|ys-ix-monstrum-nox|Ys IX: Monstrum Nox|59,99€|40|2023-10-02 17h|2023-10-16 17h|
-|#|aerial-platforms-119f15|Aerial Platforms|8,09€|40|2023-10-10 15h|2023-10-17 15h|
 |#|far-cry-4|FAR CRY 4|29,99€|80|2023-10-10 15h|2023-10-17 15h|
 |#|far-cry|Far Cry|9,99€|70|2023-10-10 15h|2023-10-17 15h|
 |#|far-cry-2|Far Cry 2: Standard Edition|9,99€|70|2023-10-10 15h|2023-10-17 15h|
@@ -117,6 +116,7 @@
 |#|outbreak-lost-hope-broken-faith-77b3f9|Outbreak Lost Hope Broken Faith|8,99€|40|2023-10-11 14h|2023-10-18 14h|
 |#|survive-on-raft-9845bd|Survive on Raft|8,99€|10|2023-10-12 17h|2023-10-19 17h|
 |#|blazing-beaks-3d4864|Blazing Beaks|11,99€|75|2023-10-13 15h|2023-10-20 15h|
+|#|the-red-exile-67804a|The Red Exile: Survival Horror|4,49€|20|2023-09-20 22h|2023-10-20 22h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|40|2023-10-11 19h|2023-10-22 19h|
 |#|aya-and-naya-b7791e|Aya & Naya|2,69€|30|2023-09-22 22h|2023-10-22 22h|
 |#|thomas-tales-912c23|Thomas' Tales|4,49€|70|2023-10-16 04h|2023-10-23 11h|
@@ -124,10 +124,11 @@
 |#|forklift-2024-the-simulation-eb32c5|Forklift 2024 - The Simulation|13,49€|35|2023-10-18 23h|2023-10-23 23h|
 |#|deceive-inc|Deceive Inc.|19,99€|50|2023-10-17 15h|2023-10-24 15h|
 |#|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|50|2023-10-17 15h|2023-10-24 15h|
+|#|match-village-5f41dd|Match Village|3,59€|35|2023-10-17 15h|2023-10-24 15h|
 |#|planeticusgame-5dd84a|Planeticus|6,29€|10|2023-10-17 15h|2023-10-24 15h|
 |#|lines-guarder-174742|Line's Guarder|8,99€|15|2023-09-26 17h|2023-10-26 17h|
 |#|mallofmayhem-15344c|Mall of Mayhem|8,99€|75|2023-10-01 06h|2023-10-30 23h|
-|#|spinner-invaders-d453e7|Spinner Invaders|4,49€|40|2023-10-24 15h|2023-10-31 15h|
+|#|spinner-invaders-d453e7|Spinner Invaders|4,49€|50|2023-10-24 15h|2023-10-31 15h|
 |#|im-looking-for-3024-people-1cdae4|I'm looking for 3024 people|3,99€|30|2023-10-01 22h|2023-10-31 22h|
 |#|outbreak-devious-beginnings-5c0af8|Outbreak Devious Beginnings|8,99€|40|2023-10-25 14h|2023-11-01 14h|
 |#|n-verlore-verstand-1d7f5b|'n Verlore Verstand|13,49€|90|2023-10-18 15h|2023-11-01 15h|

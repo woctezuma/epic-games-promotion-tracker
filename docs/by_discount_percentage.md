@@ -132,10 +132,12 @@
 |#|palladium-adventure-in-greece-f1ee1b|Palladium: Adventure in Greece|8,99€|50|2023-10-10 15h|2023-10-17 15h|
 |#|r-type-final-2|R-Type Final 2|39,99€|50|2023-10-02 17h|2023-10-16 17h|
 |#|redneck-bowl-games-d39874|RedNeck Bowl Games|17,99€|50|2023-10-18 15h|2023-11-01 15h|
+|#|space-war-infinity-024a8f|SPACE WAR - INFINITY|1,79€|50|2023-09-26 15h|2023-10-03 15h|
 |#|skotos-455463|Skotos|8,99€|50|2023-11-01 06h|2023-11-30 23h|
 |#|skotos-455463|Skotos|8,99€|50|2024-02-01 07h|2024-02-29 23h|
 |#|skotos-455463|Skotos|8,99€|50|2024-05-01 06h|2024-05-30 22h|
 |#|skotos-455463|Skotos|8,99€|50|2024-08-01 06h|2024-08-30 22h|
+|#|spinner-invaders-d453e7|Spinner Invaders|4,49€|50|2023-10-24 15h|2023-10-31 15h|
 |#|spirit-of-the-island|Spirit of the Island|16,19€|50|2023-09-18 16h|2023-09-28 15h|
 |#|superliminal|Superliminal|15,99€|50|2023-10-18 15h|2023-11-01 15h|
 |#|trex-dinosaur-game-d30355|T-Rex Dinosaur Game|0,89€|50|2023-10-01 22h|2023-10-17 22h|
@@ -155,9 +157,7 @@
 |#|tormented-souls|Tormented Souls|19,99€|45|2023-10-18 15h|2023-11-01 15h|
 |#|final-fantasy-vii-remake-intergrade|FINAL FANTASY VII REMAKE INTERGRADE|79,99€|43|2023-09-20 15h|2023-10-03 15h|
 |#|apico-f6e18b|APICO|15,99€|40|2023-10-02 13h|2023-10-09 04h|
-|#|aerial-platforms-119f15|Aerial Platforms|8,09€|40|2023-10-10 15h|2023-10-17 15h|
 |#|angelo-and-deemon-one-hell-of-a-quest-94d7e2|Angelo and Deemon: One Hell of a Quest|7,19€|40|2023-10-18 15h|2023-11-01 15h|
-|#|bramble-the-mountain-king-c0d1c6|Bramble The Mountain King|26,99€|40|2023-09-17 00h|2023-09-24 22h|
 |#|chased-by-darkness-d00d26|Chased by Darkness|4,49€|40|2023-10-18 15h|2023-11-01 15h|
 |#|coffee-talk|Coffee Talk|9,99€|40|2023-11-21 17h|2023-11-28 17h|
 |#|covid-carl-7dd371|Covid Carl|3,59€|40|2023-10-29 10h|2023-11-04 10h|
@@ -174,7 +174,6 @@
 |#|rising-hell-253707|Rising Hell|7,99€|40|2023-11-21 17h|2023-11-28 17h|
 |#|spingun-843f78|SPINGUN|1,79€|40|2023-09-26 15h|2023-10-03 15h|
 |#|smalland|Smalland: Survive the Wilds|24,99€|40|2023-09-24 00h|2023-10-01 22h|
-|#|spinner-invaders-d453e7|Spinner Invaders|4,49€|40|2023-10-24 15h|2023-10-31 15h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|40|2023-10-11 19h|2023-10-22 19h|
 |#|the-expanse-a-telltale-series|The Expanse - A Telltale Series|39,99€|40|2023-09-19 15h|2023-09-26 15h|
 |#|the-unbeatable-path-8af8fc|The Unbeatable Path|17,99€|40|2023-10-18 15h|2023-11-01 15h|
@@ -183,6 +182,7 @@
 |#|volley-pals-0120b4|Volley Pals|4,49€|40|2023-09-26 15h|2023-10-03 15h|
 |#|wytchwood|Wytchwood|17,49€|40|2023-10-02 13h|2023-10-09 04h|
 |#|ys-ix-monstrum-nox|Ys IX: Monstrum Nox|59,99€|40|2023-10-02 17h|2023-10-16 17h|
+|#|alan13-reformation-d4ec20|ALAN-13 Reformation|15,79€|35|2023-09-21 17h|2023-09-26 17h|
 |#|apotheorasis-a33e73|Apotheorasis • Lab of the Blind Gods|9,75€|35|2023-10-18 15h|2023-11-01 15h|
 |#|arcadegeddon|Arcadegeddon|13,49€|35|2023-10-03 15h|2023-10-10 15h|
 |#|beach-invasion-1944-d654d6|Beach Invasion 1944|8,99€|35|2023-10-18 15h|2023-11-01 15h|
@@ -193,6 +193,7 @@
 |#|fallen-legion-revenants-a2c944|Fallen Legion Revenants|39,99€|35|2023-10-02 17h|2023-10-16 17h|
 |#|fallen-legion-rise-to-glory-0ea64a|Fallen Legion: Rise to Glory|29,99€|35|2023-10-02 17h|2023-10-16 17h|
 |#|forklift-2024-the-simulation-eb32c5|Forklift 2024 - The Simulation|13,49€|35|2023-10-18 23h|2023-10-23 23h|
+|#|match-village-5f41dd|Match Village|3,59€|35|2023-10-17 15h|2023-10-24 15h|
 |#|recall-113630|RECALL|15,99€|35|2023-10-02 13h|2023-10-09 04h|
 |#|suicide-guy-9f7963|Suicide Guy|7,19€|35|2023-09-21 23h|2023-09-30 23h|
 |#|the-forest-cathedral-54f32c|The Forest Cathedral|13,49€|35|2023-10-02 13h|2023-10-09 04h|
@@ -241,7 +242,7 @@
 |#|sword-and-fairy-inn-2-39760f|Sword and Fairy Inn 2|17,99€|20|2023-10-08 16h|2023-10-15 16h|
 |#|the-legend-of-heroes-trails-into-reverie|The Legend of Heroes: Trails into Reverie|59,99€|20|2023-10-02 17h|2023-10-16 17h|
 |#|the-outlast-trials|The Outlast Trials|26,99€|20|2023-10-18 15h|2023-11-01 15h|
-|#|the-red-exile-67804a|The Red Exile: Survival Horror|4,49€|20|2023-09-20 22h|2023-09-27 22h|
+|#|the-red-exile-67804a|The Red Exile: Survival Horror|4,49€|20|2023-09-20 22h|2023-10-20 22h|
 |#|the-repair-house-349cf9|The Repair House: Restoration Sim|19,99€|20|2023-09-18 09h|2023-09-25 09h|
 |#|tortuga-a-pirates-tale-e02635|Tortuga - A Pirate's Tale|24,99€|20|2023-09-26 15h|2023-10-03 15h|
 |#|turbo-overkill-c5e3c7|Turbo Overkill|24,50€|20|2023-09-18 17h|2023-09-25 17h|

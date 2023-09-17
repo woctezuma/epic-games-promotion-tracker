@@ -1,6 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|bramble-the-mountain-king-c0d1c6|Bramble The Mountain King|26,99€|40|2023-09-17 00h|2023-09-24 22h|
 |#|car-mechanic-city-driving-4996c5|Car Mechanic - City Driving|0,89€|30|2023-09-17 23h|2023-09-23 23h|
 |#|real-car-parking-2024-authentic-simulation-d48d0c|Real Car Parking: 2024 Authentic Simulation|2,69€|40|2023-09-18 07h|2023-09-25 07h|
 |#|the-repair-house-349cf9|The Repair House: Restoration Sim|19,99€|20|2023-09-18 09h|2023-09-25 09h|
@@ -31,10 +30,11 @@
 |#|octopath-traveler|OCTOPATH TRAVELER™|59,99€|50|2023-09-20 15h|2023-10-03 15h|
 |#|stranger-of-paradise-final-fantasy-origin|STRANGER OF PARADISE FINAL FANTASY ORIGIN|39,99€|30|2023-09-20 15h|2023-10-03 15h|
 |#|evil-wizard-e4f80f|Evil Wizard|17,99€|20|2023-09-20 16h|2023-09-27 05h|
-|#|the-red-exile-67804a|The Red Exile: Survival Horror|4,49€|20|2023-09-20 22h|2023-09-27 22h|
+|#|the-red-exile-67804a|The Red Exile: Survival Horror|4,49€|20|2023-09-20 22h|2023-10-20 22h|
 |#|out-of-line-209cbb|Out of Line|7,19€|100|2023-09-21 15h|2023-09-28 15h|
 |#|forest-quartet-5d03e3|The Forest Quartet|8,99€|100|2023-09-21 15h|2023-09-28 15h|
 |#|a-total-war-saga-troy|A Total War Saga: TROY|49,99€|50|2023-09-21 17h|2023-09-28 17h|
+|#|alan13-reformation-d4ec20|ALAN-13 Reformation|15,79€|35|2023-09-21 17h|2023-09-26 17h|
 |#|total-war-warhammer|Total War: WARHAMMER|59,99€|75|2023-09-21 17h|2023-09-28 17h|
 |#|total-war-warhammer-ii|Total War: WARHAMMER II|59,99€|66|2023-09-21 17h|2023-09-28 17h|
 |#|total-war-warhammer-3|Total War: WARHAMMER III|59,99€|40|2023-09-21 17h|2023-09-28 17h|
@@ -53,6 +53,7 @@
 |#|fusion-paradox-31b28a|Fusion Paradox|8,99€|60|2023-09-26 15h|2023-10-03 15h|
 |#|guacamelee-stce-7cdbc8|Guacamelee! Super Turbo Championship Edition|14,79€|65|2023-09-26 15h|2023-10-03 15h|
 |#|planet-cube-edge-aac6d5|Planet Cube - Edge|13,49€|25|2023-09-26 15h|2023-10-03 15h|
+|#|space-war-infinity-024a8f|SPACE WAR - INFINITY|1,79€|50|2023-09-26 15h|2023-10-03 15h|
 |#|spingun-843f78|SPINGUN|1,79€|40|2023-09-26 15h|2023-10-03 15h|
 |#|the-division|Tom Clancy's The Division|29,99€|85|2023-09-26 15h|2023-10-03 15h|
 |#|tortuga-a-pirates-tale-e02635|Tortuga - A Pirate's Tale|24,99€|20|2023-09-26 15h|2023-10-03 15h|
@@ -111,7 +112,6 @@
 |#|dinobreak-307b09|Dinobreak|17,99€|20|2023-10-04 14h|2023-10-11 14h|
 |#|sword-and-fairy-inn-2-39760f|Sword and Fairy Inn 2|17,99€|20|2023-10-08 16h|2023-10-15 16h|
 |#|life-after-death-b4e964|Life After Death|4,49€|40|2023-10-09 00h|2023-11-02 01h|
-|#|aerial-platforms-119f15|Aerial Platforms|8,09€|40|2023-10-10 15h|2023-10-17 15h|
 |#|far-cry-4|FAR CRY 4|29,99€|80|2023-10-10 15h|2023-10-17 15h|
 |#|far-cry|Far Cry|9,99€|70|2023-10-10 15h|2023-10-17 15h|
 |#|far-cry-2|Far Cry 2: Standard Edition|9,99€|70|2023-10-10 15h|2023-10-17 15h|
@@ -127,6 +127,7 @@
 |#|indies-lies-57f843|Indies Lies|13,49€|25|2023-10-16 16h|2023-10-23 16h|
 |#|deceive-inc|Deceive Inc.|19,99€|50|2023-10-17 15h|2023-10-24 15h|
 |#|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|50|2023-10-17 15h|2023-10-24 15h|
+|#|match-village-5f41dd|Match Village|3,59€|35|2023-10-17 15h|2023-10-24 15h|
 |#|planeticusgame-5dd84a|Planeticus|6,29€|10|2023-10-17 15h|2023-10-24 15h|
 |#|n-verlore-verstand-1d7f5b|'n Verlore Verstand|13,49€|90|2023-10-18 15h|2023-11-01 15h|
 |#|a-heros-rest-67f117|A Hero's Rest|20,99€|30|2023-10-18 15h|2023-11-01 15h|
@@ -224,7 +225,7 @@
 |#|out-of-the-park-baseball-24-eb4cf8|Out of the Park Baseball 24|39,99€|50|2023-10-19 17h|2023-11-02 17h|
 |#|the-gravehouse-37f09e|The Gravehouse|8,99€|50|2023-10-19 23h|2023-11-04 00h|
 |#|cataire-6ce6b7|CATAIRE|0,89€|80|2023-10-21 13h|2023-11-19 14h|
-|#|spinner-invaders-d453e7|Spinner Invaders|4,49€|40|2023-10-24 15h|2023-10-31 15h|
+|#|spinner-invaders-d453e7|Spinner Invaders|4,49€|50|2023-10-24 15h|2023-10-31 15h|
 |#|outbreak-devious-beginnings-5c0af8|Outbreak Devious Beginnings|8,99€|40|2023-10-25 14h|2023-11-01 14h|
 |#|dros-6da0b2|Dros|17,99€|55|2023-10-28 00h|2023-11-11 00h|
 |#|timothy-vs-the-aliens-2f5b36|Timothy vs the Aliens|13,49€|85|2023-10-28 16h|2023-11-12 12h|
