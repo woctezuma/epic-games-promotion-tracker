@@ -198,15 +198,6 @@
     "title": "Aya & Naya"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2023-10-04T22:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "backrooms-doors-248a0f",
-    "startDate": "2023-09-19T22:00:00.000Z",
-    "title": "Backrooms Doors"
-  },
-  {
     "discountPercentage": 70,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -423,24 +414,6 @@
     "title": "Cyanide & Happiness - Freakpocalypse (Episode 1)"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2023-10-01T10:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "cyberpunk-2077",
-    "startDate": "2023-09-20T08:00:00.000Z",
-    "title": "Cyberpunk 2077"
-  },
-  {
-    "discountPercentage": 35,
-    "endDate": "2023-10-03T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "dragon-quest-xi-s-echoes-of-an-elusive-age",
-    "startDate": "2023-09-20T15:00:00.000Z",
-    "title": "DRAGON QUEST\u00ae XI S: Echoes of an Elusive Age\u2122"
-  },
-  {
     "discountPercentage": 35,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -594,15 +567,6 @@
     "title": "Eternal Evil"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2023-09-27T05:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1799,
-    "slug": "evil-wizard-e4f80f",
-    "startDate": "2023-09-20T16:00:00.000Z",
-    "title": "Evil Wizard"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2023-10-17T15:00:00.000Z",
     "isFree": false,
@@ -610,15 +574,6 @@
     "slug": "far-cry-4",
     "startDate": "2023-10-10T15:00:00.000Z",
     "title": "FAR CRY 4"
-  },
-  {
-    "discountPercentage": 43,
-    "endDate": "2023-10-03T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 7999,
-    "slug": "final-fantasy-vii-remake-intergrade",
-    "startDate": "2023-09-20T15:00:00.000Z",
-    "title": "FINAL FANTASY VII REMAKE INTERGRADE"
   },
   {
     "discountPercentage": 20,
@@ -727,15 +682,6 @@
     "slug": "forklift-2024-the-simulation-eb32c5",
     "startDate": "2023-10-18T23:00:00.000Z",
     "title": "Forklift 2024 - The Simulation"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2023-10-03T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 7999,
-    "slug": "forspoken",
-    "startDate": "2023-09-20T15:00:00.000Z",
-    "title": "Forspoken"
   },
   {
     "discountPercentage": 20,
@@ -963,42 +909,6 @@
     "title": "Journey Into Darkness"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2023-10-03T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 4999,
-    "slug": "kingdom-hearts-hd-1-5-2-5-remix",
-    "startDate": "2023-09-20T15:00:00.000Z",
-    "title": "KINGDOM HEARTS HD 1.5+2.5 ReMIX"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2023-10-03T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "kingdom-hearts-hd-2-8-final-chapter-prologue",
-    "startDate": "2023-09-20T15:00:00.000Z",
-    "title": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2023-10-03T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "kingdom-hearts-iii",
-    "startDate": "2023-09-20T15:00:00.000Z",
-    "title": "KINGDOM HEARTS III + Re Mind (DLC)"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2023-10-03T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "kingdom-hearts-melody-of-memory",
-    "startDate": "2023-09-20T15:00:00.000Z",
-    "title": "KINGDOM HEARTS Melody of Memory"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -1078,6 +988,15 @@
     "slug": "lovecraft-untold-stories-2-a0857a",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "Lovecraft's Untold Stories 2"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-10-02T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "lunarlux-41403d",
+    "startDate": "2023-09-25T16:00:00.000Z",
+    "title": "LunarLux"
   },
   {
     "discountPercentage": 75,
@@ -1179,6 +1098,15 @@
     "title": "Milky Way Prince \u2013 The Vampire Star"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2023-10-05T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1679,
+    "slug": "model-builder-f9b456",
+    "startDate": "2023-09-28T15:00:00.000Z",
+    "title": "Model Builder"
+  },
+  {
     "discountPercentage": 15,
     "endDate": "2023-10-05T17:00:00.000Z",
     "isFree": false,
@@ -1186,15 +1114,6 @@
     "slug": "mystery-in-the-office-f629ad",
     "startDate": "2023-09-28T17:00:00.000Z",
     "title": "Mystery in the Office"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2023-10-03T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "neo-the-world-ends-with-you",
-    "startDate": "2023-09-20T15:00:00.000Z",
-    "title": "NEO: The World Ends with You"
   },
   {
     "discountPercentage": 80,
@@ -1224,6 +1143,15 @@
     "title": "Need for Spirit Drink and Drive Simulator"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2023-11-07T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2799,
+    "slug": "new-super-luckys-tale",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "New Super Lucky's Tale"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -1231,15 +1159,6 @@
     "slug": "noroy-06d946",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "NoRoY"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2023-10-03T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "octopath-traveler",
-    "startDate": "2023-09-20T15:00:00.000Z",
-    "title": "OCTOPATH TRAVELER\u2122"
   },
   {
     "discountPercentage": 15,
@@ -1375,6 +1294,15 @@
     "slug": "pathfinder-wrath-of-the-righteous",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "Pathfinder: Wrath of the Righteous - Enhanced Edition"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2023-10-05T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 699,
+    "slug": "pilgrims-6d250f",
+    "startDate": "2023-09-21T23:00:00.000Z",
+    "title": "Pilgrims"
   },
   {
     "discountPercentage": 25,
@@ -1557,13 +1485,22 @@
     "title": "STASIS : BONE TOTEM"
   },
   {
-    "discountPercentage": 30,
-    "endDate": "2023-10-03T15:00:00.000Z",
+    "discountPercentage": 85,
+    "endDate": "2023-10-04T23:00:00.000Z",
     "isFree": false,
-    "originalPrice": 3999,
-    "slug": "stranger-of-paradise-final-fantasy-origin",
-    "startDate": "2023-09-20T15:00:00.000Z",
-    "title": "STRANGER OF PARADISE FINAL FANTASY ORIGIN"
+    "originalPrice": 499,
+    "slug": "samorost-2-1b9bb1",
+    "startDate": "2023-09-21T23:00:00.000Z",
+    "title": "Samorost 2"
+  },
+  {
+    "discountPercentage": 85,
+    "endDate": "2023-10-04T23:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "samorost-3-0c4489",
+    "startDate": "2023-09-21T23:00:00.000Z",
+    "title": "Samorost 3"
   },
   {
     "discountPercentage": 45,
