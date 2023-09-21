@@ -8,6 +8,7 @@
 |#|total-war-warhammer-ii|Total War: WARHAMMER II|59,99€|66|2023-09-21 17h|2023-09-28 17h|
 |#|total-war-warhammer-3|Total War: WARHAMMER III|59,99€|40|2023-09-21 17h|2023-09-28 17h|
 |#|vcb-why-city-4k-68d7f2|VCB Why City 4k|4,49€|40|2023-09-22 13h|2023-09-29 13h|
+|#|road-defense-outsiders-22e4ba|Road Defense: Outsiders|2,99€|20|2023-09-22 19h|2023-09-29 19h|
 |#|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|70|2023-09-21 22h|2023-09-29 22h|
 |#|suicide-guy-9f7963|Suicide Guy|7,19€|35|2023-09-21 23h|2023-09-30 23h|
 |#|smalland|Smalland: Survive the Wilds|24,99€|40|2023-09-24 00h|2023-10-01 22h|
@@ -24,6 +25,7 @@
 |#|planet-cube-edge-aac6d5|Planet Cube - Edge|13,49€|25|2023-09-26 15h|2023-10-03 15h|
 |#|space-war-infinity-024a8f|SPACE WAR - INFINITY|1,79€|50|2023-09-26 15h|2023-10-03 15h|
 |#|spingun-843f78|SPINGUN|1,79€|40|2023-09-26 15h|2023-10-03 15h|
+|#|tank-battle-1944-f7e87a|Tank Battle 1944|7,19€|20|2023-09-26 15h|2023-10-03 15h|
 |#|the-division|Tom Clancy's The Division|29,99€|85|2023-09-26 15h|2023-10-03 15h|
 |#|tortuga-a-pirates-tale-e02635|Tortuga - A Pirate's Tale|24,99€|20|2023-09-26 15h|2023-10-03 15h|
 |#|volley-pals-0120b4|Volley Pals|4,49€|40|2023-09-26 15h|2023-10-03 15h|
@@ -230,7 +232,7 @@
 |#|cataire-6ce6b7|CATAIRE|0,89€|80|2023-10-21 13h|2023-11-19 14h|
 |#|ginsha-604f11|GINSHA|15,79€|13|2023-11-13 16h|2023-11-21 16h|
 |#|overtop-ed5e49|Overtop|4,49€|90|2023-11-03 22h|2023-11-23 22h|
-|#|infindustry-cccc40|Infindustry|15,29€|50|2023-11-21 16h|2023-11-28 16h|
+|#|3d3b96f8181042ad9ff9f06aca3f4a4e|Infindustry|15,29€|50|2023-11-21 16h|2023-11-28 16h|
 |#|a-space-for-the-unbound-57e666|A Space for the Unbound|15,99€|25|2023-11-21 17h|2023-11-28 17h|
 |#|coffee-talk|Coffee Talk|9,99€|40|2023-11-21 17h|2023-11-28 17h|
 |#|rising-hell-253707|Rising Hell|7,99€|40|2023-11-21 17h|2023-11-28 17h|

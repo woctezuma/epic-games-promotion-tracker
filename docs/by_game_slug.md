@@ -1,5 +1,6 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
+|#|3d3b96f8181042ad9ff9f06aca3f4a4e|Infindustry|15,29€|50|2023-11-21 16h|2023-11-28 16h|
 |#|60-parsecs-0481c5|60 Parsecs!|9,99€|50|2023-09-25 15h|2023-10-02 15h|
 |#|60-seconds-reatomized-91ffa3|60 Seconds! Reatomized|9,99€|50|2023-09-25 15h|2023-10-02 15h|
 |#|911-operator-585edd|911 Operator|13,49€|50|2023-10-23 14h|2023-10-30 15h|
@@ -100,7 +101,6 @@
 |#|im-looking-for-3024-people-1cdae4|I'm looking for 3024 people|3,99€|30|2023-12-02 22h|2023-12-17 22h|
 |#|imagine-earth-7498e4|Imagine Earth|24,99€|55|2023-10-28 23h|2023-11-08 00h|
 |#|indies-lies-57f843|Indies Lies|13,49€|25|2023-10-16 16h|2023-10-23 16h|
-|#|infindustry-cccc40|Infindustry|15,29€|50|2023-11-21 16h|2023-11-28 16h|
 |#|insurmountable-b02c31|Insurmountable|19,99€|75|2023-09-22 15h|2023-10-17 15h|
 |#|jotun|Jotun: Valhalla Edition|14,99€|75|2023-10-18 15h|2023-11-01 15h|
 |#|journey-into-darkness-2b6bf8|Journey Into Darkness|4,49€|15|2023-09-28 09h|2023-10-12 09h|
@@ -163,6 +163,7 @@
 |#|ring-of-pain|Ring of Pain|19,99€|60|2023-10-18 15h|2023-11-01 15h|
 |#|rising-hell-253707|Rising Hell|7,99€|40|2023-11-21 17h|2023-11-28 17h|
 |#|rising-mist-36ba97|Rising Mist|13,49€|30|2023-10-18 15h|2023-11-01 15h|
+|#|road-defense-outsiders-22e4ba|Road Defense: Outsiders|2,99€|20|2023-09-22 19h|2023-09-29 19h|
 |#|rough-justice-84-89dd7a|Rough Justice: '84|19,99€|30|2023-09-22 15h|2023-10-17 15h|
 |#|samorost-2-1b9bb1|Samorost 2|4,99€|85|2023-09-21 23h|2023-10-04 23h|
 |#|samorost-3-0c4489|Samorost 3|19,99€|85|2023-09-21 23h|2023-10-04 23h|
@@ -197,6 +198,7 @@
 |#|sword-and-fairy-inn-2-39760f|Sword and Fairy Inn 2|17,99€|20|2023-10-08 16h|2023-10-15 16h|
 |#|tacoma|Tacoma|16,99€|75|2023-10-18 15h|2023-11-01 15h|
 |#|tandem-a-tale-of-shadows-c3f55e|Tandem: A Tale of Shadows|8,99€|50|2023-10-18 15h|2023-11-01 15h|
+|#|tank-battle-1944-f7e87a|Tank Battle 1944|7,19€|20|2023-09-26 15h|2023-10-03 15h|
 |#|teacup|Teacup|7,99€|45|2023-10-02 13h|2023-10-09 04h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|40|2023-10-11 19h|2023-10-22 19h|
 |#|the-alien-cube-789431|The Alien Cube|19,99€|75|2023-10-18 15h|2023-11-01 15h|
