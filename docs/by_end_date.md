@@ -1,8 +1,6 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
 |#|alan13-reformation-d4ec20|ALAN-13 Reformation|15,79€|35|2023-09-21 17h|2023-09-26 17h|
-|#|out-of-line-209cbb|Out of Line|7,19€|100|2023-09-21 15h|2023-09-28 15h|
-|#|forest-quartet-5d03e3|The Forest Quartet|8,99€|100|2023-09-21 15h|2023-09-28 15h|
 |#|a-total-war-saga-troy|A Total War Saga: TROY|49,99€|50|2023-09-21 17h|2023-09-28 17h|
 |#|total-war-warhammer|Total War: WARHAMMER|59,99€|75|2023-09-21 17h|2023-09-28 17h|
 |#|total-war-warhammer-ii|Total War: WARHAMMER II|59,99€|66|2023-09-21 17h|2023-09-28 17h|
@@ -34,6 +32,7 @@
 |#|samorost-3-0c4489|Samorost 3|19,99€|85|2023-09-21 23h|2023-10-04 23h|
 |#|pilgrims-6d250f|Pilgrims|6,99€|80|2023-09-21 23h|2023-10-05 11h|
 |#|model-builder-f9b456|Model Builder|16,79€|100|2023-09-28 15h|2023-10-05 15h|
+|#|soulstice|Soulstice|39,99€|100|2023-09-28 15h|2023-10-05 15h|
 |#|mystery-in-the-office-f629ad|Mystery in the Office|1,99€|15|2023-09-28 17h|2023-10-05 17h|
 |#|song-of-the-prairie-424643|Song Of The Prairie|19,50€|10|2023-09-21 22h|2023-10-05 22h|
 |#|project-first-contact-ff7fdc|Project First Contact|2,69€|95|2023-09-22 07h|2023-10-06 07h|
