@@ -1206,15 +1206,6 @@
     "title": "Oirbo"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2023-09-28T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 719,
-    "slug": "out-of-line-209cbb",
-    "startDate": "2023-09-21T15:00:00.000Z",
-    "title": "Out of Line"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2023-11-02T17:00:00.000Z",
     "isFree": false,
@@ -1665,6 +1656,15 @@
     "title": "Song Of The Prairie"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2023-10-05T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 3999,
+    "slug": "soulstice",
+    "startDate": "2023-09-28T15:00:00.000Z",
+    "title": "Soulstice"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-11-07T16:00:00.000Z",
     "isFree": false,
@@ -1897,15 +1897,6 @@
     "slug": "the-forest-cathedral-54f32c",
     "startDate": "2023-10-02T13:00:00.000Z",
     "title": "The Forest Cathedral"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2023-09-28T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 899,
-    "slug": "forest-quartet-5d03e3",
-    "startDate": "2023-09-21T15:00:00.000Z",
-    "title": "The Forest Quartet"
   },
   {
     "discountPercentage": 50,
