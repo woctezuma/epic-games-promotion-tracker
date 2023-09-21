@@ -576,6 +576,15 @@
     "title": "Eternal Evil"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-10-30T21:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "evalinathe-sorceress-a9a60a",
+    "startDate": "2023-09-30T22:00:00.000Z",
+    "title": "Evalina The Sorceress"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2023-10-17T15:00:00.000Z",
     "isFree": false,
