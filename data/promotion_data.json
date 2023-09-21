@@ -1467,6 +1467,15 @@
     "title": "Rising Mist"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2023-10-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "rough-justice-84-89dd7a",
+    "startDate": "2023-09-22T15:00:00.000Z",
+    "title": "Rough Justice: '84"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2023-10-13T22:00:00.000Z",
     "isFree": false,
@@ -2230,6 +2239,15 @@
     "slug": "when-the-past-was-around-3071e0",
     "startDate": "2023-11-21T17:00:00.000Z",
     "title": "When the Past was Around"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2023-10-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "wildcat-gun-machine-c66c4e",
+    "startDate": "2023-09-22T15:00:00.000Z",
+    "title": "Wildcat Gun Machine"
   },
   {
     "discountPercentage": 40,
