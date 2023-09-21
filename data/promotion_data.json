@@ -522,6 +522,15 @@
     "title": "Doors - Paradox"
   },
   {
+    "discountPercentage": 10,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 809,
+    "slug": "dream-of-tiny-snow-36f018",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Dream of Tiny Snow"
+  },
+  {
     "discountPercentage": 55,
     "endDate": "2023-11-11T00:00:00.000Z",
     "isFree": false,
