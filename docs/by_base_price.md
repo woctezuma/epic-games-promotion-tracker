@@ -69,6 +69,7 @@
 |#|lunarlux-41403d|LunarLux|19,99€|20|2023-09-25 16h|2023-10-02 16h|
 |#|midnight-ghost-hunt|Midnight Ghost Hunt|19,99€|66|2023-10-18 15h|2023-11-01 15h|
 |#|ring-of-pain|Ring of Pain|19,99€|60|2023-10-18 15h|2023-11-01 15h|
+|#|rough-justice-84-89dd7a|Rough Justice: '84|19,99€|30|2023-09-22 15h|2023-10-17 15h|
 |#|samorost-3-0c4489|Samorost 3|19,99€|85|2023-09-21 23h|2023-10-04 23h|
 |#|saturnalia|Saturnalia|19,99€|45|2023-10-18 15h|2023-11-01 15h|
 |#|stygian-reign-of-the-old-ones-56e1d7|Stygian: Reign of the Old Ones|19,99€|80|2023-10-18 15h|2023-11-01 15h|
@@ -129,6 +130,7 @@
 |#|walking-dead-season-one|The Walking Dead: Season One|14,99€|90|2023-10-01 18h|2023-10-14 18h|
 |#|walking-dead-season-two|The Walking Dead: Season Two|14,99€|80|2023-10-01 18h|2023-10-14 18h|
 |#|the-wolf-among-us|The Wolf Among Us|14,99€|60|2023-10-18 15h|2023-11-01 15h|
+|#|wildcat-gun-machine-c66c4e|Wildcat Gun Machine|14,99€|80|2023-09-22 15h|2023-10-17 15h|
 |#|guacamelee-stce-7cdbc8|Guacamelee! Super Turbo Championship Edition|14,79€|65|2023-09-26 15h|2023-10-03 15h|
 |#|among-the-sleep-enhanced-edition|Among the Sleep - Enhanced Edition|13,99€|75|2023-10-18 15h|2023-11-01 15h|
 |#|n-verlore-verstand-1d7f5b|'n Verlore Verstand|13,49€|90|2023-10-18 15h|2023-11-01 15h|

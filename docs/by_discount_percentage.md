@@ -43,6 +43,7 @@
 |#|walking-dead-season-two|The Walking Dead: Season Two|14,99€|80|2023-10-01 18h|2023-10-14 18h|
 |#|this-war-of-mine|This War of Mine|18,99€|80|2023-10-18 15h|2023-11-01 15h|
 |#|through-the-woods-4dad49|Through the Woods|19,99€|80|2023-10-18 15h|2023-11-01 15h|
+|#|wildcat-gun-machine-c66c4e|Wildcat Gun Machine|14,99€|80|2023-09-22 15h|2023-10-17 15h|
 |#|among-the-sleep-enhanced-edition|Among the Sleep - Enhanced Edition|13,99€|75|2023-10-18 15h|2023-11-01 15h|
 |#|blazing-beaks-3d4864|Blazing Beaks|11,99€|75|2023-10-13 15h|2023-10-20 15h|
 |#|far-cry-6|Far Cry 6 Standard Edition|59,99€|75|2023-10-10 15h|2023-10-17 15h|
@@ -206,6 +207,7 @@
 |#|im-looking-for-3024-people-1cdae4|I'm looking for 3024 people|3,99€|30|2023-10-01 22h|2023-10-31 22h|
 |#|im-looking-for-3024-people-1cdae4|I'm looking for 3024 people|3,99€|30|2023-12-02 22h|2023-12-17 22h|
 |#|rising-mist-36ba97|Rising Mist|13,49€|30|2023-10-18 15h|2023-11-01 15h|
+|#|rough-justice-84-89dd7a|Rough Justice: '84|19,99€|30|2023-09-22 15h|2023-10-17 15h|
 |#|the-devils-face-356c31|The Devil's Face|3,59€|30|2023-10-18 15h|2023-11-01 15h|
 |#|ungate-df09c8|Ungate|22,39€|30|2023-10-18 15h|2023-11-01 15h|
 |#|when-the-past-was-around-3071e0|When the Past was Around|5,99€|30|2023-11-21 17h|2023-11-28 17h|

@@ -94,6 +94,8 @@
 |#|gravity-circuit-489baa|Gravity Circuit|16,99€|20|2023-10-10 15h|2023-10-17 15h|
 |#|insurmountable-b02c31|Insurmountable|19,99€|75|2023-09-22 15h|2023-10-17 15h|
 |#|palladium-adventure-in-greece-f1ee1b|Palladium: Adventure in Greece|8,99€|50|2023-10-10 15h|2023-10-17 15h|
+|#|rough-justice-84-89dd7a|Rough Justice: '84|19,99€|30|2023-09-22 15h|2023-10-17 15h|
+|#|wildcat-gun-machine-c66c4e|Wildcat Gun Machine|14,99€|80|2023-09-22 15h|2023-10-17 15h|
 |#|trex-dinosaur-game-d30355|T-Rex Dinosaur Game|0,89€|50|2023-10-01 22h|2023-10-17 22h|
 |#|outbreak-lost-hope-broken-faith-77b3f9|Outbreak Lost Hope Broken Faith|8,99€|40|2023-10-11 14h|2023-10-18 14h|
 |#|survive-on-raft-9845bd|Survive on Raft|8,99€|10|2023-10-12 17h|2023-10-19 17h|

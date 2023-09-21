@@ -16,6 +16,8 @@
 |#|project-first-contact-ff7fdc|Project First Contact|2,69€|95|2023-09-22 07h|2023-10-06 07h|
 |#|vcb-why-city-4k-68d7f2|VCB Why City 4k|4,49€|40|2023-09-22 13h|2023-09-29 13h|
 |#|insurmountable-b02c31|Insurmountable|19,99€|75|2023-09-22 15h|2023-10-17 15h|
+|#|rough-justice-84-89dd7a|Rough Justice: '84|19,99€|30|2023-09-22 15h|2023-10-17 15h|
+|#|wildcat-gun-machine-c66c4e|Wildcat Gun Machine|14,99€|80|2023-09-22 15h|2023-10-17 15h|
 |#|aya-and-naya-b7791e|Aya & Naya|2,69€|30|2023-09-22 22h|2023-10-22 22h|
 |#|smalland|Smalland: Survive the Wilds|24,99€|40|2023-09-24 00h|2023-10-01 22h|
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2023-09-24 22h|2023-10-09 22h|
