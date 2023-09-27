@@ -9,6 +9,15 @@
     "title": "'n Verlore Verstand"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2023-10-14T04:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "9-years-of-shadows-a40c92",
+    "startDate": "2023-09-29T16:00:00.000Z",
+    "title": "9 Years of Shadows"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-10-30T15:00:00.000Z",
     "isFree": false,
@@ -610,6 +619,15 @@
     "slug": "dros-6da0b2",
     "startDate": "2023-10-28T00:00:00.000Z",
     "title": "Dros"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-10-14T04:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "dust-fleet-620614",
+    "startDate": "2023-09-29T16:00:00.000Z",
+    "title": "Dust Fleet"
   },
   {
     "discountPercentage": 50,
@@ -2176,6 +2194,15 @@
     "slug": "the-elder-scrolls-online",
     "startDate": "2023-09-28T15:00:00.000Z",
     "title": "The Elder Scrolls Online"
+  },
+  {
+    "discountPercentage": 15,
+    "endDate": "2023-10-11T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1619,
+    "slug": "the-fabulous-fear-machine-8e7c6b",
+    "startDate": "2023-10-04T16:00:00.000Z",
+    "title": "The Fabulous Fear Machine"
   },
   {
     "discountPercentage": 50,
