@@ -45,6 +45,15 @@
     "title": "APICO"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2023-11-07T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "adventures-of-chris-64c13b",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "Adventures of Chris"
+  },
+  {
     "discountPercentage": 67,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -207,6 +216,15 @@
     "title": "Before Your Eyes"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2023-11-07T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "bite-the-bullet-22fa1f",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "Bite the Bullet"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2023-10-20T15:00:00.000Z",
     "isFree": false,
@@ -214,6 +232,15 @@
     "slug": "blazing-beaks-3d4864",
     "startDate": "2023-10-13T15:00:00.000Z",
     "title": "Blazing Beaks"
+  },
+  {
+    "discountPercentage": 66,
+    "endDate": "2023-11-07T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "blue-fire-9c1dac",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "Blue Fire"
   },
   {
     "discountPercentage": 50,
@@ -387,6 +414,15 @@
     "title": "Cyanide & Happiness - Freakpocalypse (Episode 1)"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2023-11-07T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "cyber-hook-064d2c",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "Cyber Hook"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2023-10-31T07:00:00.000Z",
     "isFree": false,
@@ -549,6 +585,15 @@
     "title": "Doors - Paradox"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2023-11-07T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "double-cross-08a736",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "Double Cross"
+  },
+  {
     "discountPercentage": 10,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -610,6 +655,15 @@
     "slug": "el-hijo-6b63c5",
     "startDate": "2023-10-10T15:00:00.000Z",
     "title": "El Hijo \u2013 A Wild West Tale"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-11-07T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "elderand-09e6bc",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "Elderand"
   },
   {
     "discountPercentage": 25,
@@ -999,6 +1053,15 @@
     "title": "Iron Dungeon"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2023-11-07T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "joggernauts-a7767f",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "Joggernauts"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -1126,6 +1189,15 @@
   },
   {
     "discountPercentage": 80,
+    "endDate": "2023-11-07T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "lilas-sky-ark-610f75",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "Lila's Sky Ark"
+  },
+  {
+    "discountPercentage": 80,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1499,
@@ -1150,6 +1222,15 @@
     "slug": "musynx-fb5190",
     "startDate": "2023-09-28T04:00:00.000Z",
     "title": "MUSYNX"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2023-11-07T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "mable-and-the-wood-9bd697",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "Mable & The Wood"
   },
   {
     "discountPercentage": 75,
@@ -1321,6 +1402,15 @@
     "slug": "new-super-luckys-tale",
     "startDate": "2023-10-31T15:00:00.000Z",
     "title": "New Super Lucky's Tale"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2023-11-07T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "nira-02f6ee",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "Nira"
   },
   {
     "discountPercentage": 50,
@@ -1566,6 +1656,15 @@
     "title": "RECALL"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2023-11-07T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "rez-plz-324485",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "REZ PLZ"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2023-10-14T18:00:00.000Z",
     "isFree": false,
@@ -1636,6 +1735,15 @@
     "slug": "remnant-2",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "Remnant 2"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2023-11-07T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "restless-soul-d5baed",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "Restless Soul"
   },
   {
     "discountPercentage": 75,
@@ -2106,6 +2214,15 @@
     "title": "The Gravehouse"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2023-11-07T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "the-kings-bird-a5b589",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "The King's Bird"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -2383,6 +2500,24 @@
     "slug": "turbo-overkill-c5e3c7",
     "startDate": "2023-10-26T17:00:00.000Z",
     "title": "Turbo Overkill"
+  },
+  {
+    "discountPercentage": 66,
+    "endDate": "2023-11-07T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "turnip-boy-commits-tax-evasion-fb2084",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "Turnip Boy Commits Tax Evasion"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "ugly-da09b2",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Ugly"
   },
   {
     "discountPercentage": 40,
