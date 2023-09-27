@@ -1962,15 +1962,6 @@
     "title": "Sniper Hunter Shooter"
   },
   {
-    "discountPercentage": 45,
-    "endDate": "2023-10-13T22:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "sniper-wild-west-shooting-simulator-e3378a",
-    "startDate": "2023-09-27T22:00:00.000Z",
-    "title": "Sniper Wild West Shooting Simulator"
-  },
-  {
     "discountPercentage": 100,
     "endDate": "2023-10-05T15:00:00.000Z",
     "isFree": true,
