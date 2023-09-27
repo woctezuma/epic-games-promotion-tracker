@@ -230,6 +230,7 @@
 |#|doors-paradox-5896c7|Doors - Paradox|13,49€|33|2023-10-03 15h|2023-10-10 15h|
 |#|homestead-arcana-60ff39|Homestead Arcana|19,99€|33|2023-10-01 18h|2023-10-14 18h|
 |#|universe-sandbox|Universe Sandbox|28,99€|33|2023-10-18 15h|2023-11-01 15h|
+|#|9-years-of-shadows-a40c92|9 Years of Shadows|19,99€|30|2023-09-29 16h|2023-10-14 04h|
 |#|a-heros-rest-67f117|A Hero's Rest|20,99€|30|2023-10-18 15h|2023-11-01 15h|
 |#|brok-the-investigator-fb0513|BROK the InvestiGator|17,99€|30|2023-10-31 15h|2023-11-07 16h|
 |#|dark-light|Dark Light|15,29€|30|2023-10-18 15h|2023-11-01 15h|
@@ -268,6 +269,7 @@
 |#|county-hospital-aa8e79|County Hospital|4,49€|20|2023-10-18 15h|2023-11-01 15h|
 |#|death-trash|Death Trash|19,99€|20|2023-10-18 15h|2023-11-01 15h|
 |#|dinobreak-307b09|Dinobreak|17,99€|20|2023-10-04 14h|2023-10-11 14h|
+|#|dust-fleet-620614|Dust Fleet|19,99€|20|2023-09-29 16h|2023-10-14 04h|
 |#|ginsha-604f11|GINSHA|15,79€|20|2023-12-21 16h|2024-01-15 16h|
 |#|gravity-circuit-489baa|Gravity Circuit|16,99€|20|2023-10-10 15h|2023-10-17 15h|
 |#|medieval-delivery-938731|Medieval Delivery|8,99€|20|2023-10-03 15h|2023-10-10 15h|
@@ -284,6 +286,7 @@
 |#|mystery-in-the-office-f629ad|Mystery in the Office|1,99€|15|2023-09-28 17h|2023-10-05 17h|
 |#|oirbo-c063b7|Oirbo|13,49€|15|2023-09-28 01h|2023-10-08 23h|
 |#|sunlight-scream-de8642|Sunlight Scream|5,39€|15|2023-10-01 15h|2023-10-08 15h|
+|#|the-fabulous-fear-machine-8e7c6b|The Fabulous Fear Machine|16,19€|15|2023-10-04 16h|2023-10-11 16h|
 |#|ginsha-604f11|GINSHA|15,79€|13|2023-11-13 16h|2023-11-21 16h|
 |#|ginsha-604f11|GINSHA|15,79€|12|2023-10-03 15h|2023-10-10 15h|
 |#|diluvian-ultra-a5ad8c|Diluvian Ultra|9,99€|10|2023-09-28 17h|2023-10-05 17h|
