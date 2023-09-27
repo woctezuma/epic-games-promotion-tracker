@@ -927,6 +927,15 @@
     "title": "Ghostbusters: Spirits Unleashed"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2023-10-12T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1999,
+    "slug": "godlike-burger-4150a0",
+    "startDate": "2023-10-05T15:00:00.000Z",
+    "title": "Godlike Burger"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
