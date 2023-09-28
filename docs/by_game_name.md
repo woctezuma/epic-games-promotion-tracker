@@ -161,7 +161,6 @@
 |#|new-super-luckys-tale|New Super Lucky's Tale|27,99€|70|2023-10-31 15h|2023-11-07 16h|
 |#|nira-02f6ee|Nira|7,99€|80|2023-10-31 15h|2023-11-07 16h|
 |#|noroy-06d946|NoRoY|8,99€|50|2023-10-18 15h|2023-11-01 15h|
-|#|oirbo-c063b7|Oirbo|13,49€|15|2023-09-28 01h|2023-10-08 23h|
 |#|old-world|Old World|39,99€|25|2023-10-04 17h|2023-10-11 17h|
 |#|one-hand-clapping|One Hand Clapping|14,99€|67|2023-10-10 15h|2023-10-17 15h|
 |#|out-of-the-park-baseball-24-eb4cf8|Out of the Park Baseball 24|39,99€|50|2023-10-19 17h|2023-11-02 17h|
