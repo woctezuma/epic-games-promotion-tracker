@@ -252,6 +252,15 @@
     "title": "Blazing Beaks"
   },
   {
+    "discountPercentage": 35,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "bloodshore-939cb0",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Bloodshore"
+  },
+  {
     "discountPercentage": 66,
     "endDate": "2023-11-07T16:00:00.000Z",
     "isFree": false,
@@ -655,15 +664,6 @@
     "slug": "dros-6da0b2",
     "startDate": "2023-10-28T00:00:00.000Z",
     "title": "Dros"
-  },
-  {
-    "discountPercentage": 10,
-    "endDate": "2023-11-09T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 4999,
-    "slug": "dungeons-4-595454",
-    "startDate": "2023-09-28T17:00:00.000Z",
-    "title": "Dungeons 4"
   },
   {
     "discountPercentage": 20,
@@ -1206,6 +1206,15 @@
     "title": "Last Labyrinth"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "late-shift-8b0634",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Late Shift"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -1474,6 +1483,15 @@
     "slug": "new-super-luckys-tale",
     "startDate": "2023-10-31T15:00:00.000Z",
     "title": "New Super Lucky's Tale"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "night-book-77f2c7",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Night Book"
   },
   {
     "discountPercentage": 80,
@@ -2241,6 +2259,15 @@
     "title": "The Creepy Syndrome"
   },
   {
+    "discountPercentage": 85,
+    "endDate": "2023-11-07T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "the-dawning-clocks-of-time-a52f59",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "The Dawning Clocks of Time"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -2302,6 +2329,15 @@
     "slug": "the-gravehouse-37f09e",
     "startDate": "2023-10-19T23:00:00.000Z",
     "title": "The Gravehouse"
+  },
+  {
+    "discountPercentage": 15,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "the-isle-tide-hotel-adf588",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "The Isle Tide Hotel"
   },
   {
     "discountPercentage": 80,
@@ -2401,6 +2437,15 @@
     "slug": "the-shape-of-things-dc5b26",
     "startDate": "2023-10-03T15:00:00.000Z",
     "title": "The Shape of Things"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "the-shapeshifting-detective-ef0f21",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "The Shapeshifting Detective"
   },
   {
     "discountPercentage": 85,
