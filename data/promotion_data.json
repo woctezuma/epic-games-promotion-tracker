@@ -387,6 +387,15 @@
     "title": "City of Brass"
   },
   {
+    "discountPercentage": 78,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "close-to-the-sun",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Close To The Sun"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2023-11-28T17:00:00.000Z",
     "isFree": false,
@@ -466,6 +475,15 @@
     "slug": "dark-light",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "Dark Light"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "days-gone",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Days Gone"
   },
   {
     "discountPercentage": 30,
@@ -576,15 +594,6 @@
     "title": "Doki Doki Literature Club Plus!"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2023-10-03T22:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2499,
-    "slug": "dolphin-spirit-ocean-mission-2d0f3b",
-    "startDate": "2023-09-28T08:00:00.000Z",
-    "title": "Dolphin Spirit - Ocean Mission"
-  },
-  {
     "discountPercentage": 33,
     "endDate": "2023-10-10T15:00:00.000Z",
     "isFree": false,
@@ -619,6 +628,15 @@
     "slug": "dros-6da0b2",
     "startDate": "2023-10-28T00:00:00.000Z",
     "title": "Dros"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2023-11-09T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "dungeons-4-595454",
+    "startDate": "2023-09-28T17:00:00.000Z",
+    "title": "Dungeons 4"
   },
   {
     "discountPercentage": 20,
@@ -1305,6 +1323,15 @@
     "title": "Marble It Up! Ultra"
   },
   {
+    "discountPercentage": 43,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "martha-is-dead",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Martha Is Dead"
+  },
+  {
     "discountPercentage": 35,
     "endDate": "2023-10-24T15:00:00.000Z",
     "isFree": false,
@@ -1683,6 +1710,15 @@
     "title": "Rainbow Billy: The Curse of the Leviathan"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2023-11-07T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "ratchet-clank-rift-apart",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "Ratchet & Clank: Rift Apart"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -1753,6 +1789,15 @@
     "slug": "restless-soul-d5baed",
     "startDate": "2023-10-31T15:00:00.000Z",
     "title": "Restless Soul"
+  },
+  {
+    "discountPercentage": 33,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "returnal",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Returnal\u2122"
   },
   {
     "discountPercentage": 75,
@@ -2241,6 +2286,15 @@
     "title": "The Land of Pain"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "the-last-of-us-part-1",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "The Last of Us\u2122 Part I"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2023-10-16T17:00:00.000Z",
     "isFree": false,
@@ -2311,6 +2365,15 @@
     "slug": "the-shape-of-things-dc5b26",
     "startDate": "2023-10-03T15:00:00.000Z",
     "title": "The Shape of Things"
+  },
+  {
+    "discountPercentage": 85,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1899,
+    "slug": "the-town-of-light",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "The Town of Light"
   },
   {
     "discountPercentage": 40,
@@ -2428,6 +2491,15 @@
     "slug": "thomas-tales-912c23",
     "startDate": "2023-10-16T04:00:00.000Z",
     "title": "Thomas' Tales"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "those-who-remain",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Those Who Remain"
   },
   {
     "discountPercentage": 80,
@@ -2671,5 +2743,14 @@
     "slug": "zerog-gunfight-6386d2",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "Zero-G Gunfight"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "while-true-learn",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "while True: learn()"
   }
 ]
