@@ -72,6 +72,15 @@
     "title": "Alan Wake Remastered"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2023-11-07T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "alchemist-adventure-fa9fca",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "Alchemist Adventure"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -505,6 +514,15 @@
   },
   {
     "discountPercentage": 20,
+    "endDate": "2023-11-07T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "deadlink-6bb676",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "Deadlink"
+  },
+  {
+    "discountPercentage": 20,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1999,
@@ -520,6 +538,15 @@
     "slug": "deceive-inc",
     "startDate": "2023-10-17T15:00:00.000Z",
     "title": "Deceive Inc."
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2023-11-07T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "deflector-fedbe0",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "Deflector"
   },
   {
     "discountPercentage": 45,
@@ -1098,6 +1125,15 @@
     "title": "Iron Dungeon"
   },
   {
+    "discountPercentage": 35,
+    "endDate": "2023-10-10T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "jack-move-8f3b25",
+    "startDate": "2023-10-03T15:00:00.000Z",
+    "title": "Jack Move"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2023-11-07T16:00:00.000Z",
     "isFree": false,
@@ -1456,6 +1492,15 @@
     "slug": "noroy-06d946",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "NoRoY"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-10-10T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "nova-lands-4d1788",
+    "startDate": "2023-10-03T15:00:00.000Z",
+    "title": "Nova Lands"
   },
   {
     "discountPercentage": 25,
@@ -2466,6 +2511,15 @@
     "title": "Them and Us"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "there-is-no-light-4eadf2",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "There Is No Light"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -2692,6 +2746,15 @@
   },
   {
     "discountPercentage": 40,
+    "endDate": "2023-11-07T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 989,
+    "slug": "wonhon-a-vengeful-spirit-29e3c1",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "Wonhon: A Vengeful Spirit"
+  },
+  {
+    "discountPercentage": 40,
     "endDate": "2023-10-09T04:00:00.000Z",
     "isFree": false,
     "originalPrice": 1749,
@@ -2725,6 +2788,15 @@
     "slug": "zombi",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "ZOMBI"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2023-11-07T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "zelter-b3640a",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "Zelter"
   },
   {
     "discountPercentage": 10,
