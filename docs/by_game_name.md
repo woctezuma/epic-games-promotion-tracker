@@ -254,7 +254,7 @@
 |#|the-fabulous-fear-machine-8e7c6b|The Fabulous Fear Machine|16,19€|15|2023-10-04 16h|2023-10-11 16h|
 |#|the-flower-collectors|The Flower Collectors|14,99€|50|2023-10-18 15h|2023-11-01 15h|
 |#|the-forest-cathedral-54f32c|The Forest Cathedral|13,49€|35|2023-10-02 13h|2023-10-09 04h|
-|#|bfd136c022d84738ae8a25f1cee84bac|The Forest Quartet|8,99€|50|2023-10-31 15h|2023-11-07 16h|
+|#|forest-quartet-5d03e3|The Forest Quartet|8,99€|50|2023-10-31 15h|2023-11-07 16h|
 |#|the-gravehouse-37f09e|The Gravehouse|8,99€|50|2023-10-19 23h|2023-11-04 00h|
 |#|the-kings-bird-a5b589|The King's Bird|15,99€|80|2023-10-31 15h|2023-11-07 16h|
 |#|the-land-of-pain-d6a3ed|The Land of Pain|11,99€|75|2023-10-18 15h|2023-11-01 15h|
