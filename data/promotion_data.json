@@ -1449,15 +1449,6 @@
     "title": "NoRoY"
   },
   {
-    "discountPercentage": 15,
-    "endDate": "2023-10-08T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1349,
-    "slug": "oirbo-c063b7",
-    "startDate": "2023-09-28T01:00:00.000Z",
-    "title": "Oirbo"
-  },
-  {
     "discountPercentage": 25,
     "endDate": "2023-10-11T17:00:00.000Z",
     "isFree": false,
