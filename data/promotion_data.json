@@ -1584,6 +1584,15 @@
     "title": "Mountain Bicycle Rider Simulator"
   },
   {
+    "discountPercentage": 66,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "nadir-a-grimdark-deckbuilder-c70747",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Nadir - A Grimdark Deckbuilder"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -1600,15 +1609,6 @@
     "slug": "necrosmith-b2ef15",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "Necrosmith"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2023-10-14T07:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 179,
-    "slug": "need-for-spirit-drink-and-drive-simulator-db9660",
-    "startDate": "2023-09-30T07:00:00.000Z",
-    "title": "Need for Spirit Drink and Drive Simulator"
   },
   {
     "discountPercentage": 70,
@@ -2851,15 +2851,6 @@
     "slug": "tribes-of-midgard",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "Tribes of Midgard"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2023-10-06T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 989,
-    "slug": "tribu-55feb1",
-    "startDate": "2023-09-29T23:00:00.000Z",
-    "title": "Tribu"
   },
   {
     "discountPercentage": 60,
