@@ -1,8 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|evalinathe-sorceress-a9a60a|Evalina The Sorceress|1,79€|50|2023-09-30 22h|2023-10-30 21h|
-|#|mallofmayhem-15344c|Mall of Mayhem|8,99€|75|2023-10-01 06h|2023-10-30 23h|
-|#|sunlight-scream-de8642|Sunlight Scream|5,39€|15|2023-10-01 15h|2023-10-08 15h|
 |#|dirt-bike-racer-simulator-4c49b5|Dirt Bike Racer Simulator|0,89€|40|2023-10-01 17h|2023-10-15 17h|
 |#|football-stars-legend-24-1b101c|Football Stars Legend 24|0,89€|40|2023-10-01 17h|2023-10-15 17h|
 |#|mountain-bicycle-rider-simulator-e52374|Mountain Bicycle Rider Simulator|0,89€|40|2023-10-01 17h|2023-10-15 17h|
@@ -49,6 +46,7 @@
 |#|ys-ix-monstrum-nox|Ys IX: Monstrum Nox|59,99€|40|2023-10-02 17h|2023-10-16 17h|
 |#|time-on-frog-island-b3ad0d|Time on Frog Island|15,99€|70|2023-10-03 00h|2023-10-09 10h|
 |#|life-changer-64fc81|Life Changer|12,63€|22|2023-10-03 04h|2023-10-18 04h|
+|#|oli-one-sneak-in-98322c|Oli One: Sneak In|4,49€|80|2023-10-03 10h|2023-11-01 23h|
 |#|game-dev-masters-f5d8f9|Game Dev Masters|13,49€|40|2023-10-03 14h|2023-10-10 13h|
 |#|arcadegeddon|Arcadegeddon|13,49€|35|2023-10-03 15h|2023-10-10 15h|
 |#|arcatronz-2bb3f2|Arcatron-Z|6,29€|40|2023-10-03 15h|2023-10-10 15h|
@@ -98,6 +96,7 @@
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|40|2023-10-11 19h|2023-10-22 19h|
 |#|dwerve-29930b|Dwerve|17,99€|15|2023-10-12 16h|2023-10-19 16h|
 |#|survive-on-raft-9845bd|Survive on Raft|8,99€|10|2023-10-12 17h|2023-10-19 17h|
+|#|fur-squadron-0042b8|FUR Squadron|6,29€|35|2023-10-12 22h|2023-10-19 22h|
 |#|blazing-beaks-3d4864|Blazing Beaks|11,99€|75|2023-10-13 15h|2023-10-20 15h|
 |#|polygon-survival-2374fc|Polygon Survival|0,89€|30|2023-10-14 15h|2023-10-20 15h|
 |#|alex-kidd-in-miracle-world-dx|Alex Kidd in Miracle World DX|19,99€|70|2023-10-15 00h|2023-10-22 11h|
@@ -313,12 +312,14 @@
 |#|who-pressed-mute-on-uncle-marucs-ee90a4|Who Pressed Mute on Uncle Marcus?|9,99€|35|2023-10-31 15h|2023-11-07 16h|
 |#|wonhon-a-vengeful-spirit-29e3c1|Wonhon: A Vengeful Spirit|9,89€|40|2023-10-31 15h|2023-11-07 16h|
 |#|zelter-b3640a|Zelter|17,99€|30|2023-10-31 15h|2023-11-07 16h|
-|#|skotos-455463|Skotos|8,99€|50|2023-11-01 06h|2023-11-30 23h|
+|#|skotos-455463|Skotos|5,39€|50|2023-11-01 06h|2023-11-30 23h|
 |#|hitman-3-woa|HITMAN World of Assassination|69,99€|60|2023-11-03 14h|2023-11-10 14h|
 |#|overtop-ed5e49|Overtop|4,49€|90|2023-11-03 22h|2023-11-23 22h|
 |#|smalland|Smalland: Survive the Wilds|24,99€|20|2023-11-05 01h|2023-11-12 12h|
 |#|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|80|2023-11-05 23h|2023-11-17 23h|
+|#|everlasting-guilt-213534|Everlasting Guilt|8,99€|50|2023-11-07 16h|2023-11-14 16h|
 |#|immortals-fenyx-rising|Immortals Fenyx Rising Standard Edition|59,99€|85|2023-11-07 16h|2023-11-14 16h|
+|#|spingun-843f78|SPINGUN|1,79€|50|2023-11-07 16h|2023-11-14 16h|
 |#|ten-dates-9a188a|Ten Dates|15,29€|20|2023-11-07 16h|2023-11-14 16h|
 |#|tribu-55feb1|Tribu|9,89€|60|2023-11-07 16h|2023-11-14 16h|
 |#|outbreak-the-new-nightmare-revisited-90517a|Outbreak The New Nightmare Revisited|8,99€|40|2023-11-08 15h|2023-11-15 15h|
@@ -332,20 +333,20 @@
 |#|rising-hell-253707|Rising Hell|7,99€|40|2023-11-21 17h|2023-11-28 17h|
 |#|when-the-past-was-around-3071e0|When the Past was Around|5,99€|30|2023-11-21 17h|2023-11-28 17h|
 |#|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|50|2023-11-28 16h|2023-12-05 16h|
-|#|boltbreak-c2bf02|BoltBreak|8,99€|50|2023-12-01 07h|2023-12-30 23h|
+|#|boltbreak-c2bf02|BoltBreak|5,39€|50|2023-12-01 07h|2023-12-30 23h|
 |#|im-looking-for-3024-people-1cdae4|I'm looking for 3024 people|3,99€|30|2023-12-02 22h|2023-12-17 22h|
 |#|life-after-death-b4e964|Life After Death|4,49€|40|2023-12-06 01h|2023-12-26 01h|
 |#|elegies-aya-17c3f1|ELEGIES Aya|16,19€|15|2023-12-21 16h|2024-01-11 16h|
 |#|ginsha-604f11|GINSHA|15,79€|20|2023-12-21 16h|2024-01-15 16h|
 |#|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|85|2023-12-21 23h|2023-12-31 11h|
 |#|mallofmayhem-15344c|Mall of Mayhem|8,99€|50|2024-01-01 07h|2024-01-30 23h|
-|#|skotos-455463|Skotos|8,99€|50|2024-02-01 07h|2024-02-29 23h|
+|#|skotos-455463|Skotos|5,39€|50|2024-02-01 07h|2024-02-29 23h|
 |#|ginsha-604f11|GINSHA|15,79€|23|2024-02-19 16h|2024-02-29 16h|
-|#|boltbreak-c2bf02|BoltBreak|8,99€|50|2024-03-01 07h|2024-03-30 22h|
+|#|boltbreak-c2bf02|BoltBreak|5,39€|50|2024-03-01 07h|2024-03-30 22h|
 |#|mallofmayhem-15344c|Mall of Mayhem|8,99€|50|2024-04-01 06h|2024-04-30 10h|
-|#|skotos-455463|Skotos|8,99€|50|2024-05-01 06h|2024-05-30 22h|
-|#|boltbreak-c2bf02|BoltBreak|8,99€|50|2024-06-01 06h|2024-06-30 22h|
+|#|skotos-455463|Skotos|5,39€|50|2024-05-01 06h|2024-05-30 22h|
+|#|boltbreak-c2bf02|BoltBreak|5,39€|50|2024-06-01 06h|2024-06-30 22h|
 |#|mallofmayhem-15344c|Mall of Mayhem|8,99€|50|2024-07-01 06h|2024-07-30 22h|
-|#|skotos-455463|Skotos|8,99€|50|2024-08-01 06h|2024-08-30 22h|
-|#|boltbreak-c2bf02|BoltBreak|8,99€|50|2024-09-01 06h|2024-09-30 22h|
+|#|skotos-455463|Skotos|5,39€|50|2024-08-01 06h|2024-08-30 22h|
+|#|boltbreak-c2bf02|BoltBreak|5,39€|50|2024-09-01 06h|2024-09-30 22h|
 |#|mallofmayhem-15344c|Mall of Mayhem|8,99€|50|2024-10-01 06h|2024-10-30 22h|

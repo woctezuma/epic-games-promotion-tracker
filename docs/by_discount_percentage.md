@@ -41,6 +41,7 @@
 |#|metro-simulator-494510|Metro Simulator|13,49€|80|2023-10-18 15h|2023-11-01 15h|
 |#|necroworm-5784e5|NecroWorm|3,99€|80|2023-10-18 15h|2023-11-01 15h|
 |#|nira-02f6ee|Nira|7,99€|80|2023-10-31 15h|2023-11-07 16h|
+|#|oli-one-sneak-in-98322c|Oli One: Sneak In|4,49€|80|2023-10-03 10h|2023-11-01 23h|
 |#|rez-plz-324485|REZ PLZ|11,99€|80|2023-10-31 15h|2023-11-07 16h|
 |#|restless-soul-d5baed|Restless Soul|11,99€|80|2023-10-31 15h|2023-11-07 16h|
 |#|soma|SOMA|24,99€|80|2023-10-18 15h|2023-11-01 15h|
@@ -64,7 +65,6 @@
 |#|gone-home|Gone Home|11,99€|75|2023-10-18 15h|2023-11-01 15h|
 |#|horror-story-hallowseed|Horror Story: Hallowseed|19,99€|75|2023-10-18 15h|2023-11-01 15h|
 |#|jotun|Jotun: Valhalla Edition|14,99€|75|2023-10-18 15h|2023-11-01 15h|
-|#|mallofmayhem-15344c|Mall of Mayhem|8,99€|75|2023-10-01 06h|2023-10-30 23h|
 |#|monster-harvest-75f018|Monster Harvest|13,99€|75|2023-10-22 00h|2023-10-28 23h|
 |#|oxide-room-104-4c1249|Oxide Room 104|17,99€|75|2023-10-18 15h|2023-11-01 15h|
 |#|rainbow-billy-the-curse-of-the-leviathan|Rainbow Billy: The Curse of the Leviathan|17,99€|75|2023-10-01 18h|2023-10-14 18h|
@@ -144,10 +144,10 @@
 |#|911-operator-585edd|911 Operator|13,49€|50|2023-10-23 14h|2023-10-30 15h|
 |#|astronite-edc4d8|Astronite|13,49€|50|2023-10-18 15h|2023-11-01 15h|
 |#|bob-a-thousand-lives-802452|Bob A thousand lives - Enhanced Edition|8,99€|50|2023-10-18 15h|2023-11-01 15h|
-|#|boltbreak-c2bf02|BoltBreak|8,99€|50|2023-12-01 07h|2023-12-30 23h|
-|#|boltbreak-c2bf02|BoltBreak|8,99€|50|2024-03-01 07h|2024-03-30 22h|
-|#|boltbreak-c2bf02|BoltBreak|8,99€|50|2024-06-01 06h|2024-06-30 22h|
-|#|boltbreak-c2bf02|BoltBreak|8,99€|50|2024-09-01 06h|2024-09-30 22h|
+|#|boltbreak-c2bf02|BoltBreak|5,39€|50|2023-12-01 07h|2023-12-30 23h|
+|#|boltbreak-c2bf02|BoltBreak|5,39€|50|2024-03-01 07h|2024-03-30 22h|
+|#|boltbreak-c2bf02|BoltBreak|5,39€|50|2024-06-01 06h|2024-06-30 22h|
+|#|boltbreak-c2bf02|BoltBreak|5,39€|50|2024-09-01 06h|2024-09-30 22h|
 |#|calico|Calico|9,99€|50|2023-10-02 13h|2023-10-09 04h|
 |#|choochoo-charles-0eece5|Choo-Choo Charles|17,99€|50|2023-10-18 15h|2023-11-01 15h|
 |#|dead-by-daylight|Dead by Daylight|19,99€|50|2023-10-18 15h|2023-11-01 15h|
@@ -155,7 +155,7 @@
 |#|demon-turf|Demon Turf|21,99€|50|2023-10-31 15h|2023-11-07 16h|
 |#|dying-light-2-stay-human  |Dying Light 2 Stay Human|59,99€|50|2023-10-18 15h|2023-11-01 15h|
 |#|elderand-09e6bc|Elderand|15,99€|50|2023-10-31 15h|2023-11-07 16h|
-|#|evalinathe-sorceress-a9a60a|Evalina The Sorceress|1,79€|50|2023-09-30 22h|2023-10-30 21h|
+|#|everlasting-guilt-213534|Everlasting Guilt|8,99€|50|2023-11-07 16h|2023-11-14 16h|
 |#|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|50|2023-10-17 15h|2023-10-24 15h|
 |#|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|50|2023-11-28 16h|2023-12-05 16h|
 |#|grindstone|Grindstone|15,99€|50|2023-10-24 15h|2023-10-31 15h|
@@ -174,12 +174,13 @@
 |#|pile-up-b1e2af|Pile Up|14,99€|50|2023-10-10 15h|2023-10-17 15h|
 |#|r-type-final-2|R-Type Final 2|39,99€|50|2023-10-02 17h|2023-10-16 17h|
 |#|redneck-bowl-games-d39874|RedNeck Bowl Games|17,99€|50|2023-10-18 15h|2023-11-01 15h|
+|#|spingun-843f78|SPINGUN|1,79€|50|2023-11-07 16h|2023-11-14 16h|
 |#|scarf-dd1030|Scarf|14,99€|50|2023-10-03 15h|2023-10-10 15h|
 |#|sir-whoopass-757c5c|Sir Whoopass - Immortal Death|15,29€|50|2023-11-10 18h|2023-11-20 00h|
-|#|skotos-455463|Skotos|8,99€|50|2023-11-01 06h|2023-11-30 23h|
-|#|skotos-455463|Skotos|8,99€|50|2024-02-01 07h|2024-02-29 23h|
-|#|skotos-455463|Skotos|8,99€|50|2024-05-01 06h|2024-05-30 22h|
-|#|skotos-455463|Skotos|8,99€|50|2024-08-01 06h|2024-08-30 22h|
+|#|skotos-455463|Skotos|5,39€|50|2023-11-01 06h|2023-11-30 23h|
+|#|skotos-455463|Skotos|5,39€|50|2024-02-01 07h|2024-02-29 23h|
+|#|skotos-455463|Skotos|5,39€|50|2024-05-01 06h|2024-05-30 22h|
+|#|skotos-455463|Skotos|5,39€|50|2024-08-01 06h|2024-08-30 22h|
 |#|spinner-invaders-d453e7|Spinner Invaders|4,49€|50|2023-10-31 15h|2023-11-07 16h|
 |#|superliminal|Superliminal|15,99€|50|2023-10-18 15h|2023-11-01 15h|
 |#|switchball-hd-6d3802|Switchball HD|8,09€|50|2023-11-10 00h|2023-11-27 00h|
@@ -250,6 +251,7 @@
 |#|dark-fantasy-jigsaw-puzzle-12769c|Dark Fantasy Jigsaw Puzzle|2,69€|35|2023-10-18 15h|2023-11-01 15h|
 |#|deexit-eternal-matters-da8992|De-Exit - Eternal Matters|19,99€|35|2023-10-18 15h|2023-11-01 15h|
 |#|disgaea-6-complete|Disgaea 6 Complete|59,99€|35|2023-10-02 17h|2023-10-16 17h|
+|#|fur-squadron-0042b8|FUR Squadron|6,29€|35|2023-10-12 22h|2023-10-19 22h|
 |#|fallen-legion-revenants-a2c944|Fallen Legion Revenants|39,99€|35|2023-10-02 17h|2023-10-16 17h|
 |#|fallen-legion-rise-to-glory-0ea64a|Fallen Legion: Rise to Glory|29,99€|35|2023-10-02 17h|2023-10-16 17h|
 |#|five-dates-60ef51|Five Dates|9,99€|35|2023-10-31 15h|2023-11-07 16h|
@@ -337,7 +339,6 @@
 |#|dwerve-29930b|Dwerve|17,99€|15|2023-10-12 16h|2023-10-19 16h|
 |#|elegies-aya-17c3f1|ELEGIES Aya|16,19€|15|2023-12-21 16h|2024-01-11 16h|
 |#|hyperviolent-5d1983|HYPERVIOLENT|14,99€|15|2023-10-18 15h|2023-11-01 15h|
-|#|sunlight-scream-de8642|Sunlight Scream|5,39€|15|2023-10-01 15h|2023-10-08 15h|
 |#|the-fabulous-fear-machine-8e7c6b|The Fabulous Fear Machine|16,19€|15|2023-10-04 16h|2023-10-11 16h|
 |#|ginsha-604f11|GINSHA|15,79€|13|2023-11-13 16h|2023-11-21 16h|
 |#|ginsha-604f11|GINSHA|15,79€|12|2023-10-03 15h|2023-10-10 15h|

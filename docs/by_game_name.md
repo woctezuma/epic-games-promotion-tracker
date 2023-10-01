@@ -35,10 +35,10 @@
 |#|blossom-tales-ii-the-minotaur-prince-e74c95|Blossom Tales II The Minotaur Prince|12,49€|35|2023-10-17 15h|2023-10-24 15h|
 |#|blue-fire-9c1dac|Blue Fire|15,99€|66|2023-10-31 15h|2023-11-07 16h|
 |#|bob-a-thousand-lives-802452|Bob A thousand lives - Enhanced Edition|8,99€|50|2023-10-18 15h|2023-11-01 15h|
-|#|boltbreak-c2bf02|BoltBreak|8,99€|50|2023-12-01 07h|2023-12-30 23h|
-|#|boltbreak-c2bf02|BoltBreak|8,99€|50|2024-03-01 07h|2024-03-30 22h|
-|#|boltbreak-c2bf02|BoltBreak|8,99€|50|2024-06-01 06h|2024-06-30 22h|
-|#|boltbreak-c2bf02|BoltBreak|8,99€|50|2024-09-01 06h|2024-09-30 22h|
+|#|boltbreak-c2bf02|BoltBreak|5,39€|50|2023-12-01 07h|2023-12-30 23h|
+|#|boltbreak-c2bf02|BoltBreak|5,39€|50|2024-03-01 07h|2024-03-30 22h|
+|#|boltbreak-c2bf02|BoltBreak|5,39€|50|2024-06-01 06h|2024-06-30 22h|
+|#|boltbreak-c2bf02|BoltBreak|5,39€|50|2024-09-01 06h|2024-09-30 22h|
 |#|bramble-the-mountain-king-c0d1c6|Bramble The Mountain King|26,99€|40|2023-10-29 00h|2023-11-05 12h|
 |#|breathedge|Breathedge|24,99€|70|2023-10-03 15h|2023-10-10 15h|
 |#|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|80|2023-11-05 23h|2023-11-17 23h|
@@ -92,10 +92,11 @@
 |#|elderand-09e6bc|Elderand|15,99€|50|2023-10-31 15h|2023-11-07 16h|
 |#|eternal-evil-ca15ca|Eternal Evil|17,99€|25|2023-10-18 15h|2023-11-01 15h|
 |#|europa-universalis-iv|Europa Universalis IV|39,99€|65|2023-10-30 17h|2023-11-08 17h|
-|#|evalinathe-sorceress-a9a60a|Evalina The Sorceress|1,79€|50|2023-09-30 22h|2023-10-30 21h|
+|#|everlasting-guilt-213534|Everlasting Guilt|8,99€|50|2023-11-07 16h|2023-11-14 16h|
 |#|eyes-in-the-dark|Eyes in the Dark|12,50€|66|2023-10-18 15h|2023-11-01 15h|
 |#|far-cry-4|FAR CRY 4|29,99€|80|2023-10-10 15h|2023-10-17 15h|
 |#|foreclosed|FORECLOSED|16,99€|80|2023-10-22 00h|2023-10-29 23h|
+|#|fur-squadron-0042b8|FUR Squadron|6,29€|35|2023-10-12 22h|2023-10-19 22h|
 |#|fallen-legion-revenants-a2c944|Fallen Legion Revenants|39,99€|35|2023-10-02 17h|2023-10-16 17h|
 |#|fallen-legion-rise-to-glory-0ea64a|Fallen Legion: Rise to Glory|29,99€|35|2023-10-02 17h|2023-10-16 17h|
 |#|far-cry|Far Cry|9,99€|70|2023-10-10 15h|2023-10-17 15h|
@@ -160,7 +161,6 @@
 |#|lovecraft-untold-stories-2-a0857a|Lovecraft's Untold Stories 2|19,99€|66|2023-10-18 15h|2023-11-01 15h|
 |#|mable-and-the-wood-9bd697|Mable & The Wood|11,99€|80|2023-10-31 15h|2023-11-07 16h|
 |#|maid-of-sker-2ae24e|Maid of Sker|19,99€|35|2023-10-18 15h|2023-11-01 15h|
-|#|mallofmayhem-15344c|Mall of Mayhem|8,99€|75|2023-10-01 06h|2023-10-30 23h|
 |#|mallofmayhem-15344c|Mall of Mayhem|8,99€|50|2024-01-01 07h|2024-01-30 23h|
 |#|mallofmayhem-15344c|Mall of Mayhem|8,99€|50|2024-04-01 06h|2024-04-30 10h|
 |#|mallofmayhem-15344c|Mall of Mayhem|8,99€|50|2024-07-01 06h|2024-07-30 22h|
@@ -186,6 +186,7 @@
 |#|noroy-06d946|NoRoY|8,99€|50|2023-10-18 15h|2023-11-01 15h|
 |#|nova-lands-4d1788|Nova Lands|19,99€|20|2023-10-03 15h|2023-10-10 15h|
 |#|old-world|Old World|39,99€|25|2023-10-04 17h|2023-10-11 17h|
+|#|oli-one-sneak-in-98322c|Oli One: Sneak In|4,49€|80|2023-10-03 10h|2023-11-01 23h|
 |#|one-hand-clapping|One Hand Clapping|14,99€|67|2023-10-10 15h|2023-10-17 15h|
 |#|out-of-the-park-baseball-24-eb4cf8|Out of the Park Baseball 24|39,99€|50|2023-10-19 17h|2023-11-02 17h|
 |#|outbreak-contagious-memories-9e3c2a|Outbreak Contagious Memories|26,99€|65|2023-10-18 15h|2023-11-01 15h|
@@ -228,6 +229,7 @@
 |#|rising-mist-36ba97|Rising Mist|13,49€|30|2023-10-18 15h|2023-11-01 15h|
 |#|snwbrd-freestyle-snowboarding-2803cf|SNWBRD: Freestyle Snowboarding|26,99€|25|2023-10-29 04h|2023-11-12 16h|
 |#|soma|SOMA|24,99€|80|2023-10-18 15h|2023-11-01 15h|
+|#|spingun-843f78|SPINGUN|1,79€|50|2023-11-07 16h|2023-11-14 16h|
 |#|stasis-bone-totem-ca8320|STASIS : BONE TOTEM|17,99€|25|2023-10-18 15h|2023-11-01 15h|
 |#|saturnalia|Saturnalia|19,99€|45|2023-10-18 15h|2023-11-01 15h|
 |#|saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited|Saviors of Sapphire Wings & Strangers of Sword City Revisited|49,99€|60|2023-10-02 17h|2023-10-16 17h|
@@ -237,10 +239,10 @@
 |#|sherlock-holmes-crimes-and-punishments|Sherlock Holmes: Crimes and Punishments|29,99€|85|2023-10-18 15h|2023-11-01 15h|
 |#|sherlock-holmes-the-devils-daughter|Sherlock Holmes: The Devil's Daughter|29,99€|85|2023-10-18 15h|2023-11-01 15h|
 |#|sir-whoopass-757c5c|Sir Whoopass - Immortal Death|15,29€|50|2023-11-10 18h|2023-11-20 00h|
-|#|skotos-455463|Skotos|8,99€|50|2023-11-01 06h|2023-11-30 23h|
-|#|skotos-455463|Skotos|8,99€|50|2024-02-01 07h|2024-02-29 23h|
-|#|skotos-455463|Skotos|8,99€|50|2024-05-01 06h|2024-05-30 22h|
-|#|skotos-455463|Skotos|8,99€|50|2024-08-01 06h|2024-08-30 22h|
+|#|skotos-455463|Skotos|5,39€|50|2023-11-01 06h|2023-11-30 23h|
+|#|skotos-455463|Skotos|5,39€|50|2024-02-01 07h|2024-02-29 23h|
+|#|skotos-455463|Skotos|5,39€|50|2024-05-01 06h|2024-05-30 22h|
+|#|skotos-455463|Skotos|5,39€|50|2024-08-01 06h|2024-08-30 22h|
 |#|skydrift-infinity-c4ca37|SkyDrift Infinity|9,99€|40|2023-10-03 15h|2023-10-10 15h|
 |#|smalland|Smalland: Survive the Wilds|24,99€|20|2023-11-05 01h|2023-11-12 12h|
 |#|sniper-hunter-shooter-5cda66|Sniper Hunter Shooter|0,89€|40|2023-10-01 17h|2023-10-15 17h|
@@ -253,7 +255,6 @@
 |#|submerged-hidden-depths-6065a1|Submerged: Hidden Depths|23,99€|90|2023-10-17 15h|2023-10-24 15h|
 |#|suchart-genius-artist-simulator|SuchArt: Genius Artist Simulator|24,99€|45|2023-10-03 15h|2023-10-10 15h|
 |#|sundered-eldritch-edition|Sundered: Eldritch Edition|19,99€|75|2023-10-18 15h|2023-11-01 15h|
-|#|sunlight-scream-de8642|Sunlight Scream|5,39€|15|2023-10-01 15h|2023-10-08 15h|
 |#|super-alloy-ranger-4252cc|Super Alloy Ranger|8,99€|20|2023-10-18 15h|2023-11-01 15h|
 |#|superliminal|Superliminal|15,99€|50|2023-10-18 15h|2023-11-01 15h|
 |#|survive-on-raft-9845bd|Survive on Raft|8,99€|10|2023-10-12 17h|2023-10-19 17h|
