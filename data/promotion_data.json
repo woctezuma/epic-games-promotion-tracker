@@ -318,7 +318,7 @@
     "discountPercentage": 50,
     "endDate": "2023-12-30T23:00:00.000Z",
     "isFree": false,
-    "originalPrice": 899,
+    "originalPrice": 539,
     "slug": "boltbreak-c2bf02",
     "startDate": "2023-12-01T07:00:00.000Z",
     "title": "BoltBreak"
@@ -327,7 +327,7 @@
     "discountPercentage": 50,
     "endDate": "2024-03-30T22:00:00.000Z",
     "isFree": false,
-    "originalPrice": 899,
+    "originalPrice": 539,
     "slug": "boltbreak-c2bf02",
     "startDate": "2024-03-01T07:00:00.000Z",
     "title": "BoltBreak"
@@ -336,7 +336,7 @@
     "discountPercentage": 50,
     "endDate": "2024-06-30T22:00:00.000Z",
     "isFree": false,
-    "originalPrice": 899,
+    "originalPrice": 539,
     "slug": "boltbreak-c2bf02",
     "startDate": "2024-06-01T06:00:00.000Z",
     "title": "BoltBreak"
@@ -345,7 +345,7 @@
     "discountPercentage": 50,
     "endDate": "2024-09-30T22:00:00.000Z",
     "isFree": false,
-    "originalPrice": 899,
+    "originalPrice": 539,
     "slug": "boltbreak-c2bf02",
     "startDate": "2024-09-01T06:00:00.000Z",
     "title": "BoltBreak"
@@ -829,12 +829,12 @@
   },
   {
     "discountPercentage": 50,
-    "endDate": "2023-10-30T21:00:00.000Z",
+    "endDate": "2023-11-14T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": 179,
-    "slug": "evalinathe-sorceress-a9a60a",
-    "startDate": "2023-09-30T22:00:00.000Z",
-    "title": "Evalina The Sorceress"
+    "originalPrice": 899,
+    "slug": "everlasting-guilt-213534",
+    "startDate": "2023-11-07T16:00:00.000Z",
+    "title": "Everlasting Guilt"
   },
   {
     "discountPercentage": 66,
@@ -862,6 +862,15 @@
     "slug": "foreclosed",
     "startDate": "2023-10-22T00:30:00.000Z",
     "title": "FORECLOSED"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2023-10-19T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 629,
+    "slug": "fur-squadron-0042b8",
+    "startDate": "2023-10-12T22:00:00.000Z",
+    "title": "FUR Squadron"
   },
   {
     "discountPercentage": 35,
@@ -1440,15 +1449,6 @@
     "title": "Maid of Sker"
   },
   {
-    "discountPercentage": 75,
-    "endDate": "2023-10-30T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 899,
-    "slug": "mallofmayhem-15344c",
-    "startDate": "2023-10-01T06:00:00.000Z",
-    "title": "Mall of Mayhem"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-01-30T23:00:00.000Z",
     "isFree": false,
@@ -1672,6 +1672,15 @@
     "slug": "old-world",
     "startDate": "2023-10-04T17:00:00.000Z",
     "title": "Old World"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2023-11-01T23:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "oli-one-sneak-in-98322c",
+    "startDate": "2023-10-03T10:00:00.000Z",
+    "title": "Oli One: Sneak In"
   },
   {
     "discountPercentage": 67,
@@ -2052,6 +2061,15 @@
     "title": "SOMA"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-11-14T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "spingun-843f78",
+    "startDate": "2023-11-07T16:00:00.000Z",
+    "title": "SPINGUN"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -2136,7 +2154,7 @@
     "discountPercentage": 50,
     "endDate": "2023-11-30T23:00:00.000Z",
     "isFree": false,
-    "originalPrice": 899,
+    "originalPrice": 539,
     "slug": "skotos-455463",
     "startDate": "2023-11-01T06:00:00.000Z",
     "title": "Skotos"
@@ -2145,7 +2163,7 @@
     "discountPercentage": 50,
     "endDate": "2024-02-29T23:00:00.000Z",
     "isFree": false,
-    "originalPrice": 899,
+    "originalPrice": 539,
     "slug": "skotos-455463",
     "startDate": "2024-02-01T07:00:00.000Z",
     "title": "Skotos"
@@ -2154,7 +2172,7 @@
     "discountPercentage": 50,
     "endDate": "2024-05-30T22:00:00.000Z",
     "isFree": false,
-    "originalPrice": 899,
+    "originalPrice": 539,
     "slug": "skotos-455463",
     "startDate": "2024-05-01T06:00:00.000Z",
     "title": "Skotos"
@@ -2163,7 +2181,7 @@
     "discountPercentage": 50,
     "endDate": "2024-08-30T22:00:00.000Z",
     "isFree": false,
-    "originalPrice": 899,
+    "originalPrice": 539,
     "slug": "skotos-455463",
     "startDate": "2024-08-01T06:00:00.000Z",
     "title": "Skotos"
@@ -2275,15 +2293,6 @@
     "slug": "sundered-eldritch-edition",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "Sundered: Eldritch Edition"
-  },
-  {
-    "discountPercentage": 15,
-    "endDate": "2023-10-08T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 539,
-    "slug": "sunlight-scream-de8642",
-    "startDate": "2023-10-01T15:00:00.000Z",
-    "title": "Sunlight Scream"
   },
   {
     "discountPercentage": 20,
