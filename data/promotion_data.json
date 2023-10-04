@@ -720,6 +720,15 @@
     "title": "Deadwater Saloon"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2023-10-24T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "death-crown-b2f5cd",
+    "startDate": "2023-10-17T15:00:00.000Z",
+    "title": "Death Crown"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -2869,6 +2878,15 @@
     "slug": "tormented-souls",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "Tormented Souls"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2023-10-13T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "treasure-of-the-giantess-60391f",
+    "startDate": "2023-10-06T22:00:00.000Z",
+    "title": "Treasure Of The Giantess"
   },
   {
     "discountPercentage": 66,
