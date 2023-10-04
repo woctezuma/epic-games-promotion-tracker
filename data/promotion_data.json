@@ -1146,7 +1146,7 @@
     "discountPercentage": 10,
     "endDate": "2023-11-02T17:00:00.000Z",
     "isFree": false,
-    "originalPrice": 0,
+    "originalPrice": 3999,
     "slug": "gangs-of-sherwood",
     "startDate": "2023-10-05T17:00:00.000Z",
     "title": "Gangs of Sherwood"
