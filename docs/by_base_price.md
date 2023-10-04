@@ -21,7 +21,6 @@
 |#|alien-isolation|Alien: Isolation|39,99€|66|2023-10-18 15h|2023-11-01 15h|
 |#|asterix-and-obelix-xxxl-the-ram-of-hibernia-3eb1f4|Asterix and Obelix XXXL - The Ram of Hibernia|39,99€|60|2023-10-24 15h|2023-10-31 15h|
 |#|europa-universalis-iv|Europa Universalis IV|39,99€|65|2023-10-30 17h|2023-11-08 17h|
-|#|old-world|Old World|39,99€|25|2023-10-04 17h|2023-10-11 17h|
 |#|out-of-the-park-baseball-24-eb4cf8|Out of the Park Baseball 24|39,99€|50|2023-10-19 17h|2023-11-02 17h|
 |#|pathfinder-wrath-of-the-righteous|Pathfinder: Wrath of the Righteous - Enhanced Edition|39,99€|70|2023-10-18 15h|2023-11-01 15h|
 |#|scorn|Scorn|39,99€|60|2023-10-18 15h|2023-11-01 15h|
@@ -114,6 +113,7 @@
 |#|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|85|2023-12-21 23h|2023-12-31 11h|
 |#|the-town-of-light|The Town of Light|18,99€|85|2023-10-18 15h|2023-11-01 15h|
 |#|this-war-of-mine|This War of Mine|18,99€|80|2023-10-18 15h|2023-11-01 15h|
+|#|1775-rebellion-aa5b41|1775 Rebellion|17,99€|20|2023-10-13 11h|2023-10-19 11h|
 |#|brok-the-investigator-fb0513|BROK the InvestiGator|17,99€|30|2023-10-31 15h|2023-11-07 16h|
 |#|bus-world-5de29e|Bus World|17,99€|70|2023-10-31 15h|2023-11-07 16h|
 |#|choochoo-charles-0eece5|Choo-Choo Charles|17,99€|50|2023-10-18 15h|2023-11-01 15h|
@@ -284,11 +284,13 @@
 |#|undergrave-4d084b|Undergrave|7,99€|50|2023-10-18 15h|2023-11-01 15h|
 |#|ancient-battle-rome-9b7099|Ancient Battle Rome|7,19€|20|2023-10-13 15h|2023-10-19 15h|
 |#|angelo-and-deemon-one-hell-of-a-quest-94d7e2|Angelo and Deemon: One Hell of a Quest|7,19€|40|2023-10-18 15h|2023-11-01 15h|
+|#|civil-war-gettysburg-a557a0|Civil War Gettysburg|7,19€|20|2023-10-16 15h|2023-10-22 15h|
 |#|civil-war-1862-f542d2|Civil War: 1862|7,19€|20|2023-11-14 16h|2023-11-21 16h|
 |#|delivery-from-the-pain-73198e|Delivery from the Pain|7,19€|45|2023-10-18 15h|2023-11-01 15h|
 |#|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|50|2023-10-17 15h|2023-10-24 15h|
 |#|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|50|2023-11-28 16h|2023-12-05 16h|
 |#|tank-battle-1944-f7e87a|Tank Battle 1944|7,19€|20|2023-11-07 16h|2023-11-14 16h|
+|#|tank-battle-north-africa-552efe|Tank Battle North Africa|7,19€|20|2023-10-13 11h|2023-10-19 11h|
 |#|cyber-drift-6ac51b|Cyber Drift|6,29€|50|2023-11-02 16h|2023-11-17 16h|
 |#|fur-squadron-0042b8|FUR Squadron|6,29€|35|2023-10-12 22h|2023-10-19 22h|
 |#|planeticusgame-5dd84a|Planeticus|6,29€|10|2023-10-17 15h|2023-10-24 15h|
@@ -325,10 +327,13 @@
 |#|ravens-hike-c34341|Ravens Hike|3,19€|75|2023-10-18 15h|2023-11-01 15h|
 |#|dark-fantasy-2-jigsaw-puzzle-d65d41|Dark Fantasy 2: Jigsaw Puzzle|2,69€|35|2023-10-18 15h|2023-11-01 15h|
 |#|dark-fantasy-jigsaw-puzzle-12769c|Dark Fantasy Jigsaw Puzzle|2,69€|35|2023-10-18 15h|2023-11-01 15h|
+|#|dolmenjord-viking-islands-965b06|Dolmenjord - Viking Islands|2,69€|30|2023-10-31 15h|2023-11-07 16h|
 |#|play-with-me-escape-room-586cc4|Play with Me - Escape Room|2,69€|90|2023-10-18 15h|2023-11-01 15h|
 |#|necrosmith-b2ef15|Necrosmith|2,39€|45|2023-10-18 15h|2023-11-01 15h|
-|#|buddy-and-friends-in-halloween-192190|Buddy and Friends in Halloween|1,99€|20|2023-10-24 15h|2023-10-31 15h|
+|#|buddy-and-friends-in-halloween-192190|Buddy and Friends in Halloween|1,99€|30|2023-10-24 15h|2023-10-31 15h|
 |#|upaon-a-snakes-journey-672f92|Upaon A Snakes Journey|1,99€|70|2023-10-18 15h|2023-11-01 15h|
+|#|island-cities-0a3026|Island Cities|1,79€|30|2023-10-17 15h|2023-10-24 15h|
+|#|island-farmer-ce8ee6|Island Farmer|1,79€|30|2023-11-14 16h|2023-11-21 16h|
 |#|real-drift-multiplayer-4bdd6d|Real Drift Multiplayer|1,79€|80|2023-10-15 17h|2023-10-31 17h|
 |#|spingun-843f78|SPINGUN|1,79€|50|2023-11-07 16h|2023-11-14 16h|
 |#|cataire-6ce6b7|CATAIRE|0,89€|80|2023-10-21 13h|2023-11-19 14h|
@@ -336,7 +341,6 @@
 |#|dirt-bicycle-rider-simulator-19bff9|Dirt Bicycle Rider Simulator|0,89€|60|2023-10-17 17h|2023-10-31 17h|
 |#|extreme-bus-driver-simulator-b7a96d|Extreme Bus Driver 2024|0,89€|50|2023-10-30 17h|2023-11-15 17h|
 |#|fastest-cars-traffic-racer-d363db|Fastest Cars Traffic Racer|0,89€|50|2023-10-11 17h|2023-10-31 17h|
-|#|garbage-truck-driving-simulator-5dcc67|Garbage Truck Driving Simulator|0,89€|45|2023-10-04 17h|2023-10-31 17h|
 |#|police-car-escape-simulator-f9cd17|Police Car Escape Simulator|0,89€|70|2023-10-12 17h|2023-10-31 17h|
 |#|police-car-suv-simulator-092560|Police Car SUV Simulator|0,89€|45|2023-10-15 17h|2023-10-31 17h|
 |#|polygon-survival-2374fc|Polygon Survival|0,89€|30|2023-10-14 15h|2023-10-20 15h|

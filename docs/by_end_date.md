@@ -1,6 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|old-world|Old World|39,99€|25|2023-10-04 17h|2023-10-11 17h|
 |#|godlike-burger-4150a0|Godlike Burger|19,99€|100|2023-10-05 15h|2023-10-12 15h|
 |#|knight-vs-giant-the-broken-excalibur-230c5c|Knight vs Giant: The Broken Excalibur|19,99€|10|2023-10-05 16h|2023-10-12 16h|
 |#|sword-and-fairy-inn-2-39760f|Sword and Fairy Inn 2|17,99€|20|2023-10-08 16h|2023-10-15 16h|
@@ -27,6 +26,8 @@
 |#|yooka-laylee|Yooka-Laylee|39,99€|80|2023-10-10 15h|2023-10-17 15h|
 |#|outbreak-lost-hope-broken-faith-77b3f9|Outbreak Lost Hope Broken Faith|8,99€|40|2023-10-11 14h|2023-10-18 14h|
 |#|the-front-3a8219|The Front|17,99€|20|2023-10-11 15h|2023-10-18 15h|
+|#|1775-rebellion-aa5b41|1775 Rebellion|17,99€|20|2023-10-13 11h|2023-10-19 11h|
+|#|tank-battle-north-africa-552efe|Tank Battle North Africa|7,19€|20|2023-10-13 11h|2023-10-19 11h|
 |#|ancient-battle-rome-9b7099|Ancient Battle Rome|7,19€|20|2023-10-13 15h|2023-10-19 15h|
 |#|dwerve-29930b|Dwerve|17,99€|15|2023-10-12 16h|2023-10-19 16h|
 |#|survive-on-raft-9845bd|Survive on Raft|8,99€|10|2023-10-12 17h|2023-10-19 17h|
@@ -35,6 +36,7 @@
 |#|polygon-survival-2374fc|Polygon Survival|0,89€|30|2023-10-14 15h|2023-10-20 15h|
 |#|alex-kidd-in-miracle-world-dx|Alex Kidd in Miracle World DX|19,99€|70|2023-10-15 00h|2023-10-22 11h|
 |#|vlad-circus-descend-into-madness-9d1ed2|Vlad Circus - Descend Into Madness|17,99€|20|2023-10-16 13h|2023-10-22 13h|
+|#|civil-war-gettysburg-a557a0|Civil War Gettysburg|7,19€|20|2023-10-16 15h|2023-10-22 15h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|40|2023-10-11 19h|2023-10-22 19h|
 |#|thomas-tales-912c23|Thomas' Tales|4,49€|70|2023-10-16 04h|2023-10-23 11h|
 |#|indies-lies-57f843|Indies Lies|13,49€|25|2023-10-16 16h|2023-10-23 16h|
@@ -46,6 +48,7 @@
 |#|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|50|2023-10-17 15h|2023-10-24 15h|
 |#|geometric-sniper-z-ef97ef|Geometric Sniper - Z|4,49€|35|2023-10-17 15h|2023-10-24 15h|
 |#|house-flipper|House Flipper|24,50€|60|2023-10-17 15h|2023-10-24 15h|
+|#|island-cities-0a3026|Island Cities|1,79€|30|2023-10-17 15h|2023-10-24 15h|
 |#|match-village-5f41dd|Match Village|3,59€|35|2023-10-17 15h|2023-10-24 15h|
 |#|planeticusgame-5dd84a|Planeticus|6,29€|10|2023-10-17 15h|2023-10-24 15h|
 |#|ride-5|RIDE 5|59,99€|30|2023-10-17 15h|2023-10-24 15h|
@@ -61,14 +64,13 @@
 |#|911-operator-585edd|911 Operator|13,49€|50|2023-10-23 14h|2023-10-30 15h|
 |#|deeeer-simulator-9bfc4a|DEEEER Simulator: Your Average Everyday Deer Game|13,49€|40|2023-10-17 07h|2023-10-31 07h|
 |#|asterix-and-obelix-xxxl-the-ram-of-hibernia-3eb1f4|Asterix and Obelix XXXL - The Ram of Hibernia|39,99€|60|2023-10-24 15h|2023-10-31 15h|
-|#|buddy-and-friends-in-halloween-192190|Buddy and Friends in Halloween|1,99€|20|2023-10-24 15h|2023-10-31 15h|
+|#|buddy-and-friends-in-halloween-192190|Buddy and Friends in Halloween|1,99€|30|2023-10-24 15h|2023-10-31 15h|
 |#|grindstone|Grindstone|15,99€|50|2023-10-24 15h|2023-10-31 15h|
 |#|lego-builders-journey|LEGO® Builder's Journey|16,99€|66|2023-10-24 15h|2023-10-31 15h|
 |#|terra-invicta-5bbf09|Terra Invicta|39,99€|30|2023-10-24 15h|2023-10-31 15h|
 |#|city-car-parking-simulator-231485|City Car Parking Simulator|0,89€|45|2023-10-12 17h|2023-10-31 17h|
 |#|dirt-bicycle-rider-simulator-19bff9|Dirt Bicycle Rider Simulator|0,89€|60|2023-10-17 17h|2023-10-31 17h|
 |#|fastest-cars-traffic-racer-d363db|Fastest Cars Traffic Racer|0,89€|50|2023-10-11 17h|2023-10-31 17h|
-|#|garbage-truck-driving-simulator-5dcc67|Garbage Truck Driving Simulator|0,89€|45|2023-10-04 17h|2023-10-31 17h|
 |#|police-car-escape-simulator-f9cd17|Police Car Escape Simulator|0,89€|70|2023-10-12 17h|2023-10-31 17h|
 |#|police-car-suv-simulator-092560|Police Car SUV Simulator|0,89€|45|2023-10-15 17h|2023-10-31 17h|
 |#|real-drift-multiplayer-4bdd6d|Real Drift Multiplayer|1,79€|80|2023-10-15 17h|2023-10-31 17h|
@@ -263,6 +265,7 @@
 |#|deadlink-6bb676|Deadlink|17,99€|20|2023-10-31 15h|2023-11-07 16h|
 |#|deflector-fedbe0|Deflector|17,99€|30|2023-10-31 15h|2023-11-07 16h|
 |#|demon-turf|Demon Turf|21,99€|50|2023-10-31 15h|2023-11-07 16h|
+|#|dolmenjord-viking-islands-965b06|Dolmenjord - Viking Islands|2,69€|30|2023-10-31 15h|2023-11-07 16h|
 |#|double-cross-08a736|Double Cross|15,99€|80|2023-10-31 15h|2023-11-07 16h|
 |#|elderand-09e6bc|Elderand|15,99€|50|2023-10-31 15h|2023-11-07 16h|
 |#|figment|Figment|19,99€|65|2023-10-31 15h|2023-11-07 16h|
@@ -317,6 +320,7 @@
 |#|sir-whoopass-757c5c|Sir Whoopass - Immortal Death|15,29€|50|2023-11-10 18h|2023-11-20 00h|
 |#|civil-war-1862-f542d2|Civil War: 1862|7,19€|20|2023-11-14 16h|2023-11-21 16h|
 |#|ginsha-604f11|GINSHA|15,79€|13|2023-11-13 16h|2023-11-21 16h|
+|#|island-farmer-ce8ee6|Island Farmer|1,79€|30|2023-11-14 16h|2023-11-21 16h|
 |#|overtop-ed5e49|Overtop|4,49€|90|2023-11-03 22h|2023-11-23 22h|
 |#|switchball-hd-6d3802|Switchball HD|8,09€|50|2023-11-10 00h|2023-11-27 00h|
 |#|infindustry-cccc40|Infindustry|15,29€|50|2023-11-21 16h|2023-11-28 16h|

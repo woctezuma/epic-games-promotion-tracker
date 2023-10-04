@@ -219,7 +219,6 @@
 |#|city-car-parking-simulator-231485|City Car Parking Simulator|0,89€|45|2023-10-12 17h|2023-10-31 17h|
 |#|delivery-from-the-pain-73198e|Delivery from the Pain|7,19€|45|2023-10-18 15h|2023-11-01 15h|
 |#|figment2-creed-valley|Figment 2: Creed Valley|24,99€|45|2023-10-31 15h|2023-11-07 16h|
-|#|garbage-truck-driving-simulator-5dcc67|Garbage Truck Driving Simulator|0,89€|45|2023-10-04 17h|2023-10-31 17h|
 |#|necrosmith-b2ef15|Necrosmith|2,39€|45|2023-10-18 15h|2023-11-01 15h|
 |#|police-car-suv-simulator-092560|Police Car SUV Simulator|0,89€|45|2023-10-15 17h|2023-10-31 17h|
 |#|real-motocross-driving-simulator-c8ff84|Real Motocross Driving Simulator|0,89€|45|2023-10-17 17h|2023-10-31 17h|
@@ -269,12 +268,16 @@
 |#|returnal|Returnal™|59,99€|33|2023-10-18 15h|2023-11-01 15h|
 |#|universe-sandbox|Universe Sandbox|28,99€|33|2023-10-18 15h|2023-11-01 15h|
 |#|brok-the-investigator-fb0513|BROK the InvestiGator|17,99€|30|2023-10-31 15h|2023-11-07 16h|
+|#|buddy-and-friends-in-halloween-192190|Buddy and Friends in Halloween|1,99€|30|2023-10-24 15h|2023-10-31 15h|
 |#|dark-light|Dark Light|15,29€|30|2023-10-18 15h|2023-11-01 15h|
 |#|dead-island-2|Dead Island 2|59,99€|30|2023-10-18 15h|2023-11-01 15h|
 |#|deflector-fedbe0|Deflector|17,99€|30|2023-10-31 15h|2023-11-07 16h|
+|#|dolmenjord-viking-islands-965b06|Dolmenjord - Viking Islands|2,69€|30|2023-10-31 15h|2023-11-07 16h|
 |#|electrician-simulator-164e9f|Electrician Simulator|16,19€|30|2023-10-10 15h|2023-10-17 15h|
 |#|forgive-me-father-133635|Forgive Me Father|19,99€|30|2023-10-18 15h|2023-11-01 15h|
 |#|im-looking-for-3024-people-1cdae4|I'm looking for 3024 people|3,99€|30|2023-12-02 22h|2023-12-17 22h|
+|#|island-cities-0a3026|Island Cities|1,79€|30|2023-10-17 15h|2023-10-24 15h|
+|#|island-farmer-ce8ee6|Island Farmer|1,79€|30|2023-11-14 16h|2023-11-21 16h|
 |#|learning-factory-4d2213|Learning Factory|13,49€|30|2023-10-18 15h|2023-11-01 15h|
 |#|polygon-survival-2374fc|Polygon Survival|0,89€|30|2023-10-14 15h|2023-10-20 15h|
 |#|ride-5|RIDE 5|59,99€|30|2023-10-17 15h|2023-10-24 15h|
@@ -303,15 +306,15 @@
 |#|layers-of-fears-85a02b|Layers of Fear|29,99€|25|2023-10-28 15h|2023-11-04 15h|
 |#|lines-guarder-174742|Line's Guarder|8,99€|25|2023-11-26 16h|2023-12-11 16h|
 |#|mia-and-the-dragon-princess-f4e1d0|Mia and the Dragon Princess|12,59€|25|2023-10-10 15h|2023-10-17 15h|
-|#|old-world|Old World|39,99€|25|2023-10-04 17h|2023-10-11 17h|
 |#|pc-building-simulator-2|PC Building Simulator 2|24,99€|25|2023-10-31 15h|2023-11-07 16h|
 |#|snwbrd-freestyle-snowboarding-2803cf|SNWBRD: Freestyle Snowboarding|26,99€|25|2023-10-29 04h|2023-11-12 16h|
 |#|ugly-da09b2|Ugly|17,99€|25|2023-10-18 15h|2023-11-01 15h|
 |#|xenonauts-2-42a236|Xenonauts 2|39,99€|25|2023-10-17 15h|2023-10-24 15h|
 |#|ginsha-604f11|GINSHA|15,79€|23|2024-02-19 16h|2024-02-29 16h|
+|#|1775-rebellion-aa5b41|1775 Rebellion|17,99€|20|2023-10-13 11h|2023-10-19 11h|
 |#|a-long-journey-to-an-uncertain-end-514c7e|A Long Journey to an Uncertain End|22,39€|20|2023-10-10 15h|2023-10-17 15h|
 |#|ancient-battle-rome-9b7099|Ancient Battle Rome|7,19€|20|2023-10-13 15h|2023-10-19 15h|
-|#|buddy-and-friends-in-halloween-192190|Buddy and Friends in Halloween|1,99€|20|2023-10-24 15h|2023-10-31 15h|
+|#|civil-war-gettysburg-a557a0|Civil War Gettysburg|7,19€|20|2023-10-16 15h|2023-10-22 15h|
 |#|civil-war-1862-f542d2|Civil War: 1862|7,19€|20|2023-11-14 16h|2023-11-21 16h|
 |#|county-hospital-aa8e79|County Hospital|4,49€|20|2023-10-18 15h|2023-11-01 15h|
 |#|deadlink-6bb676|Deadlink|17,99€|20|2023-10-31 15h|2023-11-07 16h|
@@ -327,6 +330,7 @@
 |#|super-alloy-ranger-4252cc|Super Alloy Ranger|8,99€|20|2023-10-18 15h|2023-11-01 15h|
 |#|sword-and-fairy-inn-2-39760f|Sword and Fairy Inn 2|17,99€|20|2023-10-08 16h|2023-10-15 16h|
 |#|tank-battle-1944-f7e87a|Tank Battle 1944|7,19€|20|2023-11-07 16h|2023-11-14 16h|
+|#|tank-battle-north-africa-552efe|Tank Battle North Africa|7,19€|20|2023-10-13 11h|2023-10-19 11h|
 |#|ten-dates-9a188a|Ten Dates|15,29€|20|2023-11-07 16h|2023-11-14 16h|
 |#|the-bookwalker-cd43ce|The Bookwalker: Thief of Tales|14,79€|20|2023-10-18 15h|2023-11-01 15h|
 |#|the-front-3a8219|The Front|17,99€|20|2023-10-11 15h|2023-10-18 15h|
