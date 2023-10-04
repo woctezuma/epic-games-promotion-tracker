@@ -9,6 +9,15 @@
     "title": "'n Verlore Verstand"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2023-10-19T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "1775-rebellion-aa5b41",
+    "startDate": "2023-10-13T11:00:00.000Z",
+    "title": "1775 Rebellion"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-10-30T15:00:00.000Z",
     "isFree": false,
@@ -432,7 +441,7 @@
     "title": "Bud Spencer and Terence Hill - Slaps and Beans"
   },
   {
-    "discountPercentage": 20,
+    "discountPercentage": 30,
     "endDate": "2023-10-31T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 199,
@@ -520,6 +529,15 @@
     "slug": "city-of-brass",
     "startDate": "2023-10-17T15:00:00.000Z",
     "title": "City of Brass"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-10-22T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 719,
+    "slug": "civil-war-gettysburg-a557a0",
+    "startDate": "2023-10-16T15:00:00.000Z",
+    "title": "Civil War Gettysburg"
   },
   {
     "discountPercentage": 20,
@@ -763,6 +781,15 @@
     "slug": "doki-doki-literature-club-plus",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "Doki Doki Literature Club Plus!"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2023-11-07T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "dolmenjord-viking-islands-965b06",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "Dolmenjord - Viking Islands"
   },
   {
     "discountPercentage": 80,
@@ -1116,15 +1143,6 @@
     "title": "Gangs of Sherwood"
   },
   {
-    "discountPercentage": 45,
-    "endDate": "2023-10-31T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "garbage-truck-driving-simulator-5dcc67",
-    "startDate": "2023-10-04T17:00:00.000Z",
-    "title": "Garbage Truck Driving Simulator"
-  },
-  {
     "discountPercentage": 35,
     "endDate": "2023-10-24T15:00:00.000Z",
     "isFree": false,
@@ -1375,6 +1393,24 @@
     "slug": "into-the-breach",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "Into the Breach"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2023-10-24T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "island-cities-0a3026",
+    "startDate": "2023-10-17T15:00:00.000Z",
+    "title": "Island Cities"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2023-11-21T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "island-farmer-ce8ee6",
+    "startDate": "2023-11-14T16:00:00.000Z",
+    "title": "Island Farmer"
   },
   {
     "discountPercentage": 80,
@@ -1798,15 +1834,6 @@
     "slug": "observer-system-redux",
     "startDate": "2023-10-28T15:00:00.000Z",
     "title": "Observer: System Redux"
-  },
-  {
-    "discountPercentage": 25,
-    "endDate": "2023-10-11T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "old-world",
-    "startDate": "2023-10-04T17:00:00.000Z",
-    "title": "Old World"
   },
   {
     "discountPercentage": 67,
@@ -2509,6 +2536,15 @@
     "slug": "tank-battle-1944-f7e87a",
     "startDate": "2023-11-07T16:00:00.000Z",
     "title": "Tank Battle 1944"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-10-19T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 719,
+    "slug": "tank-battle-north-africa-552efe",
+    "startDate": "2023-10-13T11:00:00.000Z",
+    "title": "Tank Battle North Africa"
   },
   {
     "discountPercentage": 40,
