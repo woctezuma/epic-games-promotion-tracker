@@ -1359,15 +1359,6 @@
     "title": "Gigapocalypse"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2023-10-12T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 1999,
-    "slug": "godlike-burger-4150a0",
-    "startDate": "2023-10-05T15:00:00.000Z",
-    "title": "Godlike Burger"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -1692,15 +1683,6 @@
     "title": "Killing Floor 2"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2023-10-12T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "knight-vs-giant-the-broken-excalibur-230c5c",
-    "startDate": "2023-10-05T16:00:00.000Z",
-    "title": "Knight vs Giant: The Broken Excalibur"
-  },
-  {
     "discountPercentage": 66,
     "endDate": "2023-10-31T15:00:00.000Z",
     "isFree": false,
@@ -1834,6 +1816,15 @@
     "slug": "lovecraft-untold-stories-2-a0857a",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "Lovecraft's Untold Stories 2"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-11-14T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 499,
+    "slug": "luckygoal-201ee6",
+    "startDate": "2023-11-07T16:00:00.000Z",
+    "title": "Lucky Goal"
   },
   {
     "discountPercentage": 80,
