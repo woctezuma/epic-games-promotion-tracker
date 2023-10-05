@@ -2880,6 +2880,15 @@
     "title": "Tormented Souls"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2023-11-13T05:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "mistborn-tower-defense-2816ff",
+    "startDate": "2023-11-05T04:00:00.000Z",
+    "title": "Tower Defense 3D Fusion"
+  },
+  {
     "discountPercentage": 10,
     "endDate": "2023-10-13T22:00:00.000Z",
     "isFree": false,
