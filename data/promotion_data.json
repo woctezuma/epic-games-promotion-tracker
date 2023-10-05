@@ -693,6 +693,15 @@
     "title": "De-Exit - Eternal Matters"
   },
   {
+    "discountPercentage": 90,
+    "endDate": "2023-11-07T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "dead-age-f46c67",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "Dead Age"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -1188,6 +1197,15 @@
     "title": "Giana Sisters \u2013 Twisted Dreams"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2023-10-24T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "gigapocalypse-fdc53b",
+    "startDate": "2023-10-17T15:00:00.000Z",
+    "title": "Gigapocalypse"
+  },
+  {
     "discountPercentage": 100,
     "endDate": "2023-10-12T15:00:00.000Z",
     "isFree": true,
@@ -1267,6 +1285,15 @@
     "slug": "happys-humble-burger-farm-d16675",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "Happy's Humble Burger Farm"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-11-07T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "hell-pie-edc41f",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "Hell Pie"
   },
   {
     "discountPercentage": 75,
