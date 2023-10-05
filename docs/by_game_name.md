@@ -54,6 +54,7 @@
 |#|bus-world-5de29e|Bus World|17,99€|70|2023-10-31 15h|2023-11-07 16h|
 |#|cataire-6ce6b7|CATAIRE|0,89€|80|2023-10-21 13h|2023-11-19 14h|
 |#|candle-knight-b52970|Candle Knight|13,49€|25|2023-10-18 15h|2023-11-01 15h|
+|#|chaos-galaxy-a33dac|Chaos Galaxy|13,49€|60|2023-10-31 15h|2023-11-07 16h|
 |#|chased-by-darkness-d00d26|Chased by Darkness|4,49€|40|2023-10-18 15h|2023-11-01 15h|
 |#|chivalry-2|Chivalry 2|35,99€|60|2023-10-18 15h|2023-11-01 15h|
 |#|choochoo-charles-0eece5|Choo-Choo Charles|17,99€|50|2023-10-18 15h|2023-11-01 15h|

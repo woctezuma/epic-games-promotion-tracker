@@ -263,6 +263,7 @@
 |#|bite-the-bullet-22fa1f|Bite the Bullet|11,99€|80|2023-10-31 15h|2023-11-07 16h|
 |#|blue-fire-9c1dac|Blue Fire|15,99€|66|2023-10-31 15h|2023-11-07 16h|
 |#|bus-world-5de29e|Bus World|17,99€|70|2023-10-31 15h|2023-11-07 16h|
+|#|chaos-galaxy-a33dac|Chaos Galaxy|13,49€|60|2023-10-31 15h|2023-11-07 16h|
 |#|cyber-hook-064d2c|Cyber Hook|11,99€|80|2023-10-31 15h|2023-11-07 16h|
 |#|deadlink-6bb676|Deadlink|17,99€|20|2023-10-31 15h|2023-11-07 16h|
 |#|deflector-fedbe0|Deflector|17,99€|30|2023-10-31 15h|2023-11-07 16h|

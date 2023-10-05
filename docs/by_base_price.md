@@ -197,6 +197,7 @@
 |#|alchemist-adventure-fa9fca|Alchemist Adventure|13,49€|60|2023-10-31 15h|2023-11-07 16h|
 |#|astronite-edc4d8|Astronite|13,49€|50|2023-10-18 15h|2023-11-01 15h|
 |#|candle-knight-b52970|Candle Knight|13,49€|25|2023-10-18 15h|2023-11-01 15h|
+|#|chaos-galaxy-a33dac|Chaos Galaxy|13,49€|60|2023-10-31 15h|2023-11-07 16h|
 |#|deeeer-simulator-9bfc4a|DEEEER Simulator: Your Average Everyday Deer Game|13,49€|40|2023-10-17 07h|2023-10-31 07h|
 |#|deadwater-saloon-391b9d|Deadwater Saloon|13,49€|65|2023-10-22 14h|2023-11-05 02h|
 |#|forklift-2024-the-simulation-eb32c5|Forklift 2024 - The Simulation|13,49€|35|2023-10-18 23h|2023-10-23 23h|
