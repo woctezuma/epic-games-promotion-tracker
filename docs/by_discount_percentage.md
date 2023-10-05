@@ -1,7 +1,6 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
 |#|blazing-sails|Blazing Sails|14,79€|100|2023-10-12 15h|2023-10-19 15h|
-|#|godlike-burger-4150a0|Godlike Burger|19,99€|100|2023-10-05 15h|2023-10-12 15h|
 |#|qube-ultimate-bundle|Q.U.B.E. ULTIMATE BUNDLE|44,99€|100|2023-10-12 15h|2023-10-19 15h|
 |#|n-verlore-verstand-1d7f5b|'n Verlore Verstand|13,49€|90|2023-10-18 15h|2023-11-01 15h|
 |#|city-of-brass|City of Brass|15,99€|90|2023-10-17 15h|2023-10-24 15h|
@@ -361,6 +360,7 @@
 |#|gravity-circuit-489baa|Gravity Circuit|16,99€|20|2023-10-10 15h|2023-10-17 15h|
 |#|hunt-the-night-3f1eb5|Hunt the Night|17,99€|20|2023-10-18 15h|2023-11-01 15h|
 |#|loretta-0099a6|Loretta|13,49€|20|2023-10-18 15h|2023-11-01 15h|
+|#|luckygoal-201ee6|Lucky Goal|4,99€|20|2023-11-07 16h|2023-11-14 16h|
 |#|perish-390141|PERISH|19,99€|20|2023-10-18 15h|2023-11-01 15h|
 |#|ratchet-clank-rift-apart|Ratchet & Clank: Rift Apart|59,99€|20|2023-10-31 15h|2023-11-07 16h|
 |#|remnant-2|Remnant 2|49,99€|20|2023-10-18 15h|2023-11-01 15h|
@@ -383,7 +383,6 @@
 |#|ginsha-604f11|GINSHA|15,79€|13|2023-11-13 16h|2023-11-21 16h|
 |#|dream-of-tiny-snow-36f018|Dream of Tiny Snow|8,09€|10|2023-10-18 15h|2023-11-01 15h|
 |#|gangs-of-sherwood|Gangs of Sherwood|39,99€|10|2023-10-05 17h|2023-11-02 17h|
-|#|knight-vs-giant-the-broken-excalibur-230c5c|Knight vs Giant: The Broken Excalibur|19,99€|10|2023-10-05 16h|2023-10-12 16h|
 |#|planeticusgame-5dd84a|Planeticus|6,29€|10|2023-10-17 15h|2023-10-24 15h|
 |#|survive-on-raft-9845bd|Survive on Raft|8,99€|10|2023-10-12 17h|2023-10-19 17h|
 |#|treasure-of-the-giantess-60391f|Treasure Of The Giantess|8,99€|10|2023-10-06 22h|2023-10-13 22h|
