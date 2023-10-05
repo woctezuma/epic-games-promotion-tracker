@@ -378,6 +378,15 @@
     "title": "Blazing Beaks"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2023-10-19T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1479,
+    "slug": "blazing-sails",
+    "startDate": "2023-10-12T15:00:00.000Z",
+    "title": "Blazing Sails"
+  },
+  {
     "discountPercentage": 35,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -1377,6 +1386,24 @@
     "title": "Gotham Knights"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-11-07T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "grand-theft-auto-v",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "Grand Theft Auto V: Premium Edition"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-11-07T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "grand-theft-auto-the-trilogy-the-definitive-edition",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "Grand Theft Auto: The Trilogy \u2013 The Definitive Edition"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2023-10-17T15:00:00.000Z",
     "isFree": false,
@@ -2275,6 +2302,15 @@
     "slug": "pumpkin-jack",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "Pumpkin Jack"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2023-10-19T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 4499,
+    "slug": "qube-ultimate-bundle",
+    "startDate": "2023-10-12T15:00:00.000Z",
+    "title": "Q.U.B.E. ULTIMATE BUNDLE"
   },
   {
     "discountPercentage": 60,
