@@ -828,6 +828,15 @@
     "title": "Double Cross"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2023-10-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "dr-fetus-mean-meat-machine-d6a29e",
+    "startDate": "2023-10-10T15:00:00.000Z",
+    "title": "Dr. Fetus' Mean Meat Machine"
+  },
+  {
     "discountPercentage": 10,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
