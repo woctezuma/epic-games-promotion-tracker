@@ -56,6 +56,7 @@
 |#|snwbrd-freestyle-snowboarding-2803cf|SNWBRD: Freestyle Snowboarding|26,99€|25|2023-10-29 04h|2023-11-12 16h|
 |#|the-outlast-trials|The Outlast Trials|26,99€|20|2023-10-18 15h|2023-11-01 15h|
 |#|amnesia-rebirth|Amnesia: Rebirth|24,99€|80|2023-10-18 15h|2023-11-01 15h|
+|#|aquatico-b4f0ce|Aquatico|24,99€|50|2023-10-15 22h|2023-10-22 22h|
 |#|asterix-and-obelix-slap-them-all-458670|Asterix and Obelix Slap Them All|24,99€|70|2023-11-07 16h|2023-11-14 16h|
 |#|black-book|Black Book|24,99€|55|2023-10-18 15h|2023-11-01 15h|
 |#|figment2-creed-valley|Figment 2: Creed Valley|24,99€|45|2023-10-31 15h|2023-11-07 16h|
@@ -162,6 +163,7 @@
 |#|lost-ruins-d6233b|Lost Ruins|15,99€|50|2023-10-18 15h|2023-11-01 15h|
 |#|nadir-a-grimdark-deckbuilder-c70747|Nadir - A Grimdark Deckbuilder|15,99€|66|2023-10-18 15h|2023-11-01 15h|
 |#|outlast|Outlast|15,99€|85|2023-10-18 15h|2023-11-01 15h|
+|#|patron-4ab1c1|Patron|15,99€|70|2023-10-15 22h|2023-10-22 22h|
 |#|redout-enhanced-edition|Redout: Enhanced Edition|15,99€|75|2023-10-18 15h|2023-11-01 15h|
 |#|spirit-of-the-north-f58a66|Spirit of the North|15,99€|70|2023-10-08 00h|2023-10-15 22h|
 |#|stubbs-the-zombie-in-rebel-without-a-pulse|Stubbs the Zombie in Rebel Without a Pulse|15,99€|65|2023-10-18 15h|2023-11-01 15h|

@@ -47,6 +47,8 @@
 |#|real-drift-multiplayer-4bdd6d|Real Drift Multiplayer|1,79€|80|2023-10-15 17h|2023-10-31 17h|
 |#|real-drift-multiplayer-2-bdc182|Real Drift Multiplayer 2|0,89€|50|2023-10-15 17h|2023-10-31 17h|
 |#|school-bus-driving-simulator-b878a8|School Bus Driving Simulator|0,89€|70|2023-10-15 17h|2023-10-31 17h|
+|#|aquatico-b4f0ce|Aquatico|24,99€|50|2023-10-15 22h|2023-10-22 22h|
+|#|patron-4ab1c1|Patron|15,99€|70|2023-10-15 22h|2023-10-22 22h|
 |#|thomas-tales-912c23|Thomas' Tales|4,49€|70|2023-10-16 04h|2023-10-23 11h|
 |#|vlad-circus-descend-into-madness-9d1ed2|Vlad Circus - Descend Into Madness|17,99€|20|2023-10-16 13h|2023-10-22 13h|
 |#|civil-war-gettysburg-a557a0|Civil War Gettysburg|7,19€|20|2023-10-16 15h|2023-10-22 15h|
