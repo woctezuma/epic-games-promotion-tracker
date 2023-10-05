@@ -135,6 +135,7 @@
 |#|werewolf-the-apocalypse-earthblood|Werewolf: The Apocalypse – Earthblood|29,99€|65|2023-10-18 15h|2023-11-01 15h|
 |#|alchemist-adventure-fa9fca|Alchemist Adventure|13,49€|60|2023-10-31 15h|2023-11-07 16h|
 |#|asterix-and-obelix-xxxl-the-ram-of-hibernia-3eb1f4|Asterix and Obelix XXXL - The Ram of Hibernia|39,99€|60|2023-10-24 15h|2023-10-31 15h|
+|#|chaos-galaxy-a33dac|Chaos Galaxy|13,49€|60|2023-10-31 15h|2023-11-07 16h|
 |#|chivalry-2|Chivalry 2|35,99€|60|2023-10-18 15h|2023-11-01 15h|
 |#|cyanide-happiness-freakpocalypse|Cyanide & Happiness - Freakpocalypse (Episode 1)|15,99€|60|2023-10-18 15h|2023-11-01 15h|
 |#|dirt-bicycle-rider-simulator-19bff9|Dirt Bicycle Rider Simulator|0,89€|60|2023-10-17 17h|2023-10-31 17h|
