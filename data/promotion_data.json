@@ -198,6 +198,15 @@
     "title": "Apotheorasis \u2022 Lab of the Blind Gods"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-10-22T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "aquatico-b4f0ce",
+    "startDate": "2023-10-15T22:00:00.000Z",
+    "title": "Aquatico"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2023-10-17T15:00:00.000Z",
     "isFree": false,
@@ -2023,6 +2032,15 @@
     "slug": "pathfinder-wrath-of-the-righteous",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "Pathfinder: Wrath of the Righteous - Enhanced Edition"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2023-10-22T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "patron-4ab1c1",
+    "startDate": "2023-10-15T22:00:00.000Z",
+    "title": "Patron"
   },
   {
     "discountPercentage": 50,
