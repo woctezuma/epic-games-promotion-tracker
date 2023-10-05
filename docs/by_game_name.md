@@ -42,6 +42,7 @@
 |#|black-book|Black Book|24,99€|55|2023-10-18 15h|2023-11-01 15h|
 |#|blair-witch|Blair Witch|29,99€|80|2023-10-28 15h|2023-11-04 15h|
 |#|blazing-beaks-3d4864|Blazing Beaks|11,99€|75|2023-10-13 15h|2023-10-20 15h|
+|#|blazing-sails|Blazing Sails|14,79€|100|2023-10-12 15h|2023-10-19 15h|
 |#|bloodshore-939cb0|Bloodshore|9,99€|35|2023-10-18 15h|2023-11-01 15h|
 |#|blossom-tales-ii-the-minotaur-prince-e74c95|Blossom Tales II The Minotaur Prince|12,49€|35|2023-10-17 15h|2023-10-24 15h|
 |#|blue-fire-9c1dac|Blue Fire|15,99€|66|2023-10-31 15h|2023-11-07 16h|
@@ -153,6 +154,8 @@
 |#|godlike-burger-4150a0|Godlike Burger|19,99€|100|2023-10-05 15h|2023-10-12 15h|
 |#|gone-home|Gone Home|11,99€|75|2023-10-18 15h|2023-11-01 15h|
 |#|gotham-knights|Gotham Knights|59,99€|75|2023-10-18 15h|2023-11-01 15h|
+|#|grand-theft-auto-v|Grand Theft Auto V: Premium Edition|29,99€|50|2023-10-31 15h|2023-11-07 16h|
+|#|grand-theft-auto-the-trilogy-the-definitive-edition|Grand Theft Auto: The Trilogy – The Definitive Edition|59,99€|50|2023-10-31 15h|2023-11-07 16h|
 |#|gravity-circuit-489baa|Gravity Circuit|16,99€|20|2023-10-10 15h|2023-10-17 15h|
 |#|grindstone|Grindstone|15,99€|50|2023-10-24 15h|2023-10-31 15h|
 |#|hitman-3-woa|HITMAN World of Assassination|69,99€|60|2023-11-03 14h|2023-11-10 14h|
@@ -253,6 +256,7 @@
 |#|prey|Prey|39,99€|75|2023-10-18 15h|2023-11-01 15h|
 |#|production-line|Production Line|20,99€|70|2023-10-31 15h|2023-11-07 16h|
 |#|pumpkin-jack|Pumpkin Jack|29,99€|75|2023-10-18 15h|2023-11-01 15h|
+|#|qube-ultimate-bundle|Q.U.B.E. ULTIMATE BUNDLE|44,99€|100|2023-10-12 15h|2023-10-19 15h|
 |#|quake|Quake|9,99€|60|2023-10-18 15h|2023-11-01 15h|
 |#|rez-plz-324485|REZ PLZ|11,99€|80|2023-10-31 15h|2023-11-07 16h|
 |#|ride-5|RIDE 5|59,99€|30|2023-10-17 15h|2023-10-24 15h|
