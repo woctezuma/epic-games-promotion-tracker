@@ -486,6 +486,15 @@
     "title": "Candle Knight"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2023-11-07T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "chaos-galaxy-a33dac",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "Chaos Galaxy"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
