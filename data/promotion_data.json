@@ -28,6 +28,15 @@
   },
   {
     "discountPercentage": 20,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2450,
+    "slug": "a-heros-rest-67f117",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "A Hero's Rest"
+  },
+  {
+    "discountPercentage": 20,
     "endDate": "2023-10-17T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 2239,
@@ -639,6 +648,15 @@
     "title": "Colt Canyon"
   },
   {
+    "discountPercentage": 90,
+    "endDate": "2023-11-07T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 359,
+    "slug": "corrupt-political-simulator-f94058",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "Corrupt - Political Simulator"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -1080,6 +1098,15 @@
     "title": "Eternal Evil"
   },
   {
+    "discountPercentage": 25,
+    "endDate": "2023-10-31T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "eternights-c2fbca",
+    "startDate": "2023-10-24T15:00:00.000Z",
+    "title": "Eternights"
+  },
+  {
     "discountPercentage": 65,
     "endDate": "2023-11-08T17:00:00.000Z",
     "isFree": false,
@@ -1224,6 +1251,15 @@
     "title": "Figment 2: Creed Valley"
   },
   {
+    "discountPercentage": 90,
+    "endDate": "2023-11-21T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "the-last-hope-atomic-bomb-crypto-war-d307f6",
+    "startDate": "2023-11-14T16:00:00.000Z",
+    "title": "Find the Oil Racing Edition"
+  },
+  {
     "discountPercentage": 35,
     "endDate": "2023-11-07T16:00:00.000Z",
     "isFree": false,
@@ -1231,6 +1267,15 @@
     "slug": "five-dates-60ef51",
     "startDate": "2023-10-31T15:00:00.000Z",
     "title": "Five Dates"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2023-11-14T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "fix-me-up-doc-dark-humor-9ebac0",
+    "startDate": "2023-11-07T16:00:00.000Z",
+    "title": "Fix Me Up Doc - Dark Humor"
   },
   {
     "discountPercentage": 40,
@@ -1278,6 +1323,15 @@
     "title": "Fortune Follow: The Mansion"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2023-11-14T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "fusion-paradox-31b28a",
+    "startDate": "2023-11-07T16:00:00.000Z",
+    "title": "Fusion Paradox"
+  },
+  {
     "discountPercentage": 13,
     "endDate": "2023-11-21T16:00:00.000Z",
     "isFree": false,
@@ -1312,15 +1366,6 @@
     "slug": "gamedec",
     "startDate": "2023-10-31T15:00:00.000Z",
     "title": "Gamedec - Definitive Edition"
-  },
-  {
-    "discountPercentage": 10,
-    "endDate": "2023-11-02T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "gangs-of-sherwood",
-    "startDate": "2023-10-05T17:00:00.000Z",
-    "title": "Gangs of Sherwood"
   },
   {
     "discountPercentage": 35,
@@ -1836,6 +1881,15 @@
     "title": "Mable & The Wood"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2023-10-17T06:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1169,
+    "slug": "mage-math-b7ca14",
+    "startDate": "2023-10-09T07:00:00.000Z",
+    "title": "Mage Math"
+  },
+  {
     "discountPercentage": 35,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -1908,6 +1962,15 @@
     "title": "Mayhem in Single Valley"
   },
   {
+    "discountPercentage": 68,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 359,
+    "slug": "mechdefender-fb9793",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "MechDefender"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -1962,6 +2025,15 @@
     "title": "Monster Harvest"
   },
   {
+    "discountPercentage": 10,
+    "endDate": "2023-10-19T14:30:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "moons-of-ardan-d4f9a3",
+    "startDate": "2023-10-12T14:30:00.000Z",
+    "title": "Moons of Ardan"
+  },
+  {
     "discountPercentage": 77,
     "endDate": "2023-11-14T16:00:00.000Z",
     "isFree": false,
@@ -2005,6 +2077,15 @@
     "slug": "necrosmith-b2ef15",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "Necrosmith"
+  },
+  {
+    "discountPercentage": 77,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "need-for-spirit-offroad-edition-7eee16",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Need for Spirit: Off-Road Edition"
   },
   {
     "discountPercentage": 70,
@@ -2547,6 +2628,15 @@
     "title": "Scorn"
   },
   {
+    "discountPercentage": 69,
+    "endDate": "2023-10-31T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "obelixes-tower-defense-0efb67",
+    "startDate": "2023-10-24T15:00:00.000Z",
+    "title": "Secret Agent 001"
+  },
+  {
     "discountPercentage": 77,
     "endDate": "2023-11-14T16:00:00.000Z",
     "isFree": false,
@@ -2916,6 +3006,15 @@
     "title": "The Creepy Syndrome"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2023-10-21T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 6999,
+    "slug": "the-crew-motorfest",
+    "startDate": "2023-10-14T17:00:00.000Z",
+    "title": "The Crew\u2122 Motorfest Standard Edition"
+  },
+  {
     "discountPercentage": 85,
     "endDate": "2023-11-07T16:00:00.000Z",
     "isFree": false,
@@ -3267,6 +3366,15 @@
     "title": "Turnip Boy Commits Tax Evasion"
   },
   {
+    "discountPercentage": 88,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "two-skateboards-driving-simulator-c0ea1f",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Two Skateboards Driving Simulator"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -3400,6 +3508,15 @@
     "slug": "wonhon-a-vengeful-spirit-29e3c1",
     "startDate": "2023-10-31T15:00:00.000Z",
     "title": "Wonhon: A Vengeful Spirit"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "world-war-z",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "World War Z Aftermath"
   },
   {
     "discountPercentage": 60,
