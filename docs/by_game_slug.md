@@ -2,6 +2,7 @@
 |---|---|---|---|---|---|---|
 |#|1775-rebellion-aa5b41|1775 Rebellion|17,99€|20|2023-10-13 11h|2023-10-19 11h|
 |#|911-operator-585edd|911 Operator|13,49€|50|2023-10-23 14h|2023-10-30 15h|
+|#|a-heros-rest-67f117|A Hero's Rest|24,50€|20|2023-10-18 15h|2023-11-01 15h|
 |#|a-long-journey-to-an-uncertain-end-514c7e|A Long Journey to an Uncertain End|22,39€|20|2023-10-10 15h|2023-10-17 15h|
 |#|a-space-for-the-unbound-57e666|A Space for the Unbound|15,99€|25|2023-11-21 17h|2023-11-28 17h|
 |#|ad-infinitum|Ad Infinitum|34,99€|30|2023-10-24 15h|2023-10-31 15h|
@@ -70,6 +71,7 @@
 |#|close-to-the-sun|Close To The Sun|19,99€|78|2023-10-18 15h|2023-11-01 15h|
 |#|coffee-talk|Coffee Talk|9,99€|40|2023-11-21 17h|2023-11-28 17h|
 |#|colt-canyon|Colt Canyon|14,99€|75|2023-10-17 15h|2023-10-24 15h|
+|#|corrupt-political-simulator-f94058|Corrupt - Political Simulator|3,59€|90|2023-10-31 15h|2023-11-07 16h|
 |#|county-hospital-aa8e79|County Hospital|4,49€|20|2023-10-18 15h|2023-11-01 15h|
 |#|covid-carl-7dd371|Covid Carl|3,59€|40|2023-10-29 10h|2023-11-04 10h|
 |#|cursed-castilla-maldita-castilla-ex-adaa43|Cursed Castilla (Maldita Castilla EX)|11,99€|50|2023-10-18 15h|2023-11-01 15h|
@@ -119,6 +121,7 @@
 |#|elegies-aya-17c3f1|ELEGIES Aya|16,19€|15|2023-12-21 16h|2024-01-11 16h|
 |#|elven-rivers-the-forgotten-lands-collectors-edition-13f068|Elven Rivers. The Forgotten Lands Collector's Edition|11,69€|70|2023-10-10 15h|2023-10-17 15h|
 |#|eternal-evil-ca15ca|Eternal Evil|17,99€|25|2023-10-18 15h|2023-11-01 15h|
+|#|eternights-c2fbca|Eternights|29,99€|25|2023-10-24 15h|2023-10-31 15h|
 |#|europa-universalis-iv|Europa Universalis IV|39,99€|65|2023-10-30 17h|2023-11-08 17h|
 |#|everlasting-guilt-213534|Everlasting Guilt|8,99€|50|2023-11-07 16h|2023-11-14 16h|
 |#|expedition-zero-d2c4c3|Expedition Zero|15,99€|50|2023-10-18 15h|2023-11-01 15h|
@@ -134,6 +137,7 @@
 |#|figment|Figment|19,99€|65|2023-10-31 15h|2023-11-07 16h|
 |#|figment2-creed-valley|Figment 2: Creed Valley|24,99€|45|2023-10-31 15h|2023-11-07 16h|
 |#|five-dates-60ef51|Five Dates|9,99€|35|2023-10-31 15h|2023-11-07 16h|
+|#|fix-me-up-doc-dark-humor-9ebac0|Fix Me Up Doc - Dark Humor|2,69€|80|2023-11-07 16h|2023-11-14 16h|
 |#|fly-corp-398021|Fly Corp|10,79€|40|2023-10-18 15h|2023-11-01 15h|
 |#|foreclosed|FORECLOSED|16,99€|80|2023-10-22 00h|2023-10-29 23h|
 |#|forest-quartet-5d03e3|The Forest Quartet|8,99€|50|2023-10-31 15h|2023-11-07 16h|
@@ -142,8 +146,8 @@
 |#|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|50|2023-10-17 15h|2023-10-24 15h|
 |#|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|50|2023-11-28 16h|2023-12-05 16h|
 |#|fur-squadron-0042b8|FUR Squadron|6,29€|35|2023-10-12 22h|2023-10-19 22h|
+|#|fusion-paradox-31b28a|Fusion Paradox|8,99€|60|2023-11-07 16h|2023-11-14 16h|
 |#|gamedec|Gamedec - Definitive Edition|29,99€|55|2023-10-31 15h|2023-11-07 16h|
-|#|gangs-of-sherwood|Gangs of Sherwood|39,99€|10|2023-10-05 17h|2023-11-02 17h|
 |#|geometric-sniper-z-ef97ef|Geometric Sniper - Z|4,49€|35|2023-10-17 15h|2023-10-24 15h|
 |#|ghostbusters-spirits-unleashed |Ghostbusters: Spirits Unleashed|17,99€|25|2023-10-18 15h|2023-11-01 15h|
 |#|giana-sisters-twisted-dreams-9124c7|Giana Sisters – Twisted Dreams|14,99€|90|2023-10-18 15h|2023-11-01 15h|
@@ -204,6 +208,7 @@
 |#|lovecrafts-untold-stories|Lovecraft's Untold Stories|14,99€|80|2023-10-18 15h|2023-11-01 15h|
 |#|luckygoal-201ee6|Lucky Goal|4,99€|20|2023-11-07 16h|2023-11-14 16h|
 |#|mable-and-the-wood-9bd697|Mable & The Wood|11,99€|80|2023-10-31 15h|2023-11-07 16h|
+|#|mage-math-b7ca14|Mage Math|11,69€|80|2023-10-09 07h|2023-10-17 06h|
 |#|maid-of-sker-2ae24e|Maid of Sker|19,99€|35|2023-10-18 15h|2023-11-01 15h|
 |#|mallofmayhem-15344c|Mall of Mayhem|8,99€|50|2024-01-01 07h|2024-01-30 23h|
 |#|mallofmayhem-15344c|Mall of Mayhem|8,99€|50|2024-04-01 06h|2024-04-30 10h|
@@ -212,6 +217,7 @@
 |#|martha-is-dead|Martha Is Dead|29,99€|43|2023-10-18 15h|2023-11-01 15h|
 |#|match-village-5f41dd|Match Village|3,59€|35|2023-10-17 15h|2023-10-24 15h|
 |#|mayhem-in-single-valley|Mayhem in Single Valley|11,99€|75|2023-10-18 15h|2023-11-01 15h|
+|#|mechdefender-fb9793|MechDefender|3,59€|68|2023-10-18 15h|2023-11-01 15h|
 |#|metro-simulator-2-532ff8|Metro Simulator 2|13,49€|70|2023-10-31 15h|2023-11-07 16h|
 |#|metro-simulator-494510|Metro Simulator|13,49€|80|2023-10-18 15h|2023-11-01 15h|
 |#|mia-and-the-dragon-princess-f4e1d0|Mia and the Dragon Princess|12,59€|25|2023-10-10 15h|2023-10-17 15h|
@@ -219,16 +225,19 @@
 |#|milky-way-prince-the-vampire-star|Milky Way Prince – The Vampire Star|14,99€|70|2023-10-18 15h|2023-11-01 15h|
 |#|mistborn-tower-defense-2816ff|Tower Defense 3D Fusion|4,49€|60|2023-11-05 04h|2023-11-13 05h|
 |#|monster-harvest-75f018|Monster Harvest|13,99€|75|2023-10-22 00h|2023-10-28 23h|
+|#|moons-of-ardan-d4f9a3|Moons of Ardan|19,99€|10|2023-10-12 14h|2023-10-19 14h|
 |#|my-memory-of-us-709675|My Memory of Us|13,99€|77|2023-11-07 16h|2023-11-14 16h|
 |#|mystery-solitaire-grimms-tales-244e2a|Mystery Solitaire. Grimm's Tales|4,49€|70|2023-10-18 15h|2023-11-01 15h|
 |#|n-verlore-verstand-1d7f5b|'n Verlore Verstand|13,49€|90|2023-10-18 15h|2023-11-01 15h|
 |#|nadir-a-grimdark-deckbuilder-c70747|Nadir - A Grimdark Deckbuilder|15,99€|66|2023-10-18 15h|2023-11-01 15h|
 |#|necrosmith-b2ef15|Necrosmith|2,39€|45|2023-10-18 15h|2023-11-01 15h|
 |#|necroworm-5784e5|NecroWorm|3,99€|80|2023-10-18 15h|2023-11-01 15h|
+|#|need-for-spirit-offroad-edition-7eee16|Need for Spirit: Off-Road Edition|2,69€|77|2023-10-18 15h|2023-11-01 15h|
 |#|new-super-luckys-tale|New Super Lucky's Tale|27,99€|70|2023-10-31 15h|2023-11-07 16h|
 |#|night-book-77f2c7|Night Book|9,99€|35|2023-10-18 15h|2023-11-01 15h|
 |#|nira-02f6ee|Nira|7,99€|80|2023-10-31 15h|2023-11-07 16h|
 |#|noroy-06d946|NoRoY|8,99€|50|2023-10-18 15h|2023-11-01 15h|
+|#|obelixes-tower-defense-0efb67|Secret Agent 001|1,79€|69|2023-10-24 15h|2023-10-31 15h|
 |#|observer-system-redux|Observer: System Redux|24,99€|60|2023-10-28 15h|2023-11-04 15h|
 |#|one-hand-clapping|One Hand Clapping|14,99€|67|2023-10-10 15h|2023-10-17 15h|
 |#|out-of-the-park-baseball-24-eb4cf8|Out of the Park Baseball 24|39,99€|50|2023-10-19 17h|2023-11-02 17h|
@@ -325,6 +334,7 @@
 |#|the-bunker-03b712|The Bunker|9,99€|35|2023-10-18 15h|2023-11-01 15h|
 |#|the-complex-0ca5bb|The Complex|9,99€|35|2023-10-18 15h|2023-11-01 15h|
 |#|the-creepy-syndrome-90fc19|The Creepy Syndrome|4,49€|50|2023-10-18 15h|2023-11-01 15h|
+|#|the-crew-motorfest|The Crew™ Motorfest Standard Edition|69,99€|20|2023-10-14 17h|2023-10-21 16h|
 |#|the-dawning-clocks-of-time-a52f59|The Dawning Clocks of Time|17,99€|85|2023-10-31 15h|2023-11-07 16h|
 |#|the-devils-face-356c31|The Devil's Face|3,59€|30|2023-10-18 15h|2023-11-01 15h|
 |#|the-fabled-woods|The Fabled Woods|9,99€|80|2023-11-14 16h|2023-11-21 16h|
@@ -334,6 +344,7 @@
 |#|the-isle-tide-hotel-adf588|The Isle Tide Hotel|17,99€|20|2023-10-18 15h|2023-11-01 15h|
 |#|the-kings-bird-a5b589|The King's Bird|15,99€|80|2023-10-31 15h|2023-11-07 16h|
 |#|the-land-of-pain-d6a3ed|The Land of Pain|11,99€|75|2023-10-18 15h|2023-11-01 15h|
+|#|the-last-hope-atomic-bomb-crypto-war-d307f6|Find the Oil Racing Edition|1,79€|90|2023-11-14 16h|2023-11-21 16h|
 |#|the-last-of-us-part-1|The Last of Us™ Part I|59,99€|20|2023-10-18 15h|2023-11-01 15h|
 |#|the-lions-song|The Lion's Song|7,99€|60|2023-10-18 15h|2023-11-01 15h|
 |#|the-medium|The Medium|47,99€|50|2023-10-28 15h|2023-11-04 15h|
@@ -363,6 +374,7 @@
 |#|turbo-overkill-c5e3c7|Turbo Overkill|24,50€|20|2023-10-26 17h|2023-11-01 15h|
 |#|turnip-boy-commits-tax-evasion-fb2084|Turnip Boy Commits Tax Evasion|11,99€|66|2023-10-31 15h|2023-11-07 16h|
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2023-11-11 22h|2023-11-29 22h|
+|#|two-skateboards-driving-simulator-c0ea1f|Two Skateboards Driving Simulator|1,79€|88|2023-10-18 15h|2023-11-01 15h|
 |#|ugly-da09b2|Ugly|17,99€|25|2023-10-18 15h|2023-11-01 15h|
 |#|undergrave-4d084b|Undergrave|7,99€|50|2023-10-18 15h|2023-11-01 15h|
 |#|underworld-defense-9a270a|Underworld Defense|4,49€|50|2023-10-18 15h|2023-11-01 15h|
@@ -380,6 +392,7 @@
 |#|who-pressed-mute-on-uncle-marucs-ee90a4|Who Pressed Mute on Uncle Marcus?|9,99€|35|2023-10-31 15h|2023-11-07 16h|
 |#|wonhon-a-vengeful-spirit-29e3c1|Wonhon: A Vengeful Spirit|9,89€|40|2023-10-31 15h|2023-11-07 16h|
 |#|world-of-contraptions-6dbc07|World of Contraptions|8,99€|60|2023-10-17 15h|2023-10-24 15h|
+|#|world-war-z|World War Z Aftermath|39,99€|40|2023-10-18 15h|2023-11-01 15h|
 |#|xenonauts-2-42a236|Xenonauts 2|39,99€|25|2023-10-17 15h|2023-10-24 15h|
 |#|xiii-07f8c3|XIII|19,99€|75|2023-10-10 15h|2023-10-17 15h|
 |#|yooka-laylee|Yooka-Laylee|39,99€|80|2023-10-10 15h|2023-10-17 15h|
