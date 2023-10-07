@@ -237,6 +237,15 @@
     "discountPercentage": 80,
     "endDate": "2023-10-17T15:00:00.000Z",
     "isFree": false,
+    "originalPrice": 899,
+    "slug": "arctico-c29f1d",
+    "startDate": "2023-10-10T15:00:00.000Z",
+    "title": "Arctico"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2023-10-17T15:00:00.000Z",
+    "isFree": false,
     "originalPrice": 1999,
     "slug": "arkanoid-eternal-battle-e1b089",
     "startDate": "2023-10-10T15:00:00.000Z",
@@ -2691,6 +2700,15 @@
     "title": "Sherlock Holmes: The Devil's Daughter"
   },
   {
+    "discountPercentage": 90,
+    "endDate": "2023-11-14T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 539,
+    "slug": "shop-tycoon-prepare-your-wallet-e705ba",
+    "startDate": "2023-10-28T15:00:00.000Z",
+    "title": "Shop Tycoon - Prepare Your Wallet"
+  },
+  {
     "discountPercentage": 42,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -2878,6 +2896,15 @@
     "slug": "sword-and-fairy-inn-2-39760f",
     "startDate": "2023-10-08T16:00:00.000Z",
     "title": "Sword and Fairy Inn 2"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2023-11-14T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "the-impossible-fcebf7",
+    "startDate": "2023-10-28T15:00:00.000Z",
+    "title": "THE IMPOSSIBLE"
   },
   {
     "discountPercentage": 50,
@@ -3294,15 +3321,6 @@
     "title": "Tower Defense 3D Fusion"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2023-10-13T22:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 899,
-    "slug": "treasure-of-the-giantess-60391f",
-    "startDate": "2023-10-06T22:00:00.000Z",
-    "title": "Treasure Of The Giantess"
-  },
-  {
     "discountPercentage": 66,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -3589,6 +3607,15 @@
     "slug": "zerog-gunfight-6386d2",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "Zero-G Gunfight"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-10-17T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 219,
+    "slug": "jampjjj-7c830e",
+    "startDate": "2023-10-10T15:00:00.000Z",
+    "title": "maze horror\uff5e\u8ff7\u5bae\u30db\u30e9\u30fc\uff5e"
   },
   {
     "discountPercentage": 30,
