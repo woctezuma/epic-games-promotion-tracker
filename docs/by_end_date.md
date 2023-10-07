@@ -1,10 +1,10 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|treasure-of-the-giantess-60391f|Treasure Of The Giantess|8,99€|10|2023-10-06 22h|2023-10-13 22h|
 |#|sword-and-fairy-inn-2-39760f|Sword and Fairy Inn 2|17,99€|20|2023-10-08 16h|2023-10-15 16h|
 |#|spirit-of-the-north-f58a66|Spirit of the North|15,99€|70|2023-10-08 00h|2023-10-15 22h|
 |#|mage-math-b7ca14|Mage Math|11,69€|80|2023-10-09 07h|2023-10-17 06h|
 |#|a-long-journey-to-an-uncertain-end-514c7e|A Long Journey to an Uncertain End|22,39€|20|2023-10-10 15h|2023-10-17 15h|
+|#|arctico-c29f1d|Arctico|8,99€|80|2023-10-10 15h|2023-10-17 15h|
 |#|arkanoid-eternal-battle-e1b089|Arkanoid - Eternal Battle|19,99€|80|2023-10-10 15h|2023-10-17 15h|
 |#|asterigos-424313|Asterigos: Curse of the Stars|34,99€|45|2023-10-10 15h|2023-10-17 15h|
 |#|baby-storm-426245|Baby Storm|16,19€|50|2023-10-10 15h|2023-10-17 15h|
@@ -25,6 +25,7 @@
 |#|pile-up-b1e2af|Pile Up|14,99€|50|2023-10-10 15h|2023-10-17 15h|
 |#|xiii-07f8c3|XIII|19,99€|75|2023-10-10 15h|2023-10-17 15h|
 |#|yooka-laylee|Yooka-Laylee|39,99€|80|2023-10-10 15h|2023-10-17 15h|
+|#|jampjjj-7c830e|maze horror～迷宮ホラー～|2,19€|50|2023-10-10 15h|2023-10-17 15h|
 |#|outbreak-lost-hope-broken-faith-77b3f9|Outbreak Lost Hope Broken Faith|8,99€|40|2023-10-11 14h|2023-10-18 14h|
 |#|the-front-3a8219|The Front|17,99€|20|2023-10-11 15h|2023-10-18 15h|
 |#|1775-rebellion-aa5b41|1775 Rebellion|17,99€|20|2023-10-13 11h|2023-10-19 11h|
@@ -355,6 +356,8 @@
 |#|my-memory-of-us-709675|My Memory of Us|13,99€|77|2023-11-07 16h|2023-11-14 16h|
 |#|spingun-843f78|SPINGUN|1,79€|50|2023-11-07 16h|2023-11-14 16h|
 |#|seven-enhanced-edition-9ba7c7|Seven - Enhanced Edition|27,99€|77|2023-11-07 16h|2023-11-14 16h|
+|#|shop-tycoon-prepare-your-wallet-e705ba|Shop Tycoon - Prepare Your Wallet|5,39€|90|2023-10-28 15h|2023-11-14 16h|
+|#|the-impossible-fcebf7|THE IMPOSSIBLE|4,49€|90|2023-10-28 15h|2023-11-14 16h|
 |#|tank-battle-1944-f7e87a|Tank Battle 1944|7,19€|20|2023-11-07 16h|2023-11-14 16h|
 |#|ten-dates-9a188a|Ten Dates|15,29€|20|2023-11-07 16h|2023-11-14 16h|
 |#|tribu-55feb1|Tribu|9,89€|60|2023-11-07 16h|2023-11-14 16h|

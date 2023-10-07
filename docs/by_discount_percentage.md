@@ -10,8 +10,10 @@
 |#|giana-sisters-twisted-dreams-9124c7|Giana Sisters – Twisted Dreams|14,99€|90|2023-10-18 15h|2023-11-01 15h|
 |#|overtop-ed5e49|Overtop|4,49€|90|2023-11-03 22h|2023-11-23 22h|
 |#|play-with-me-escape-room-586cc4|Play with Me - Escape Room|2,69€|90|2023-10-18 15h|2023-11-01 15h|
+|#|shop-tycoon-prepare-your-wallet-e705ba|Shop Tycoon - Prepare Your Wallet|5,39€|90|2023-10-28 15h|2023-11-14 16h|
 |#|submerged-041523|Submerged|15,99€|90|2023-10-17 15h|2023-10-24 15h|
 |#|submerged-hidden-depths-6065a1|Submerged: Hidden Depths|23,99€|90|2023-10-17 15h|2023-10-24 15h|
+|#|the-impossible-fcebf7|THE IMPOSSIBLE|4,49€|90|2023-10-28 15h|2023-11-14 16h|
 |#|truberbrook|Trüberbrook|29,99€|90|2023-10-25 15h|2023-11-15 16h|
 |#|two-skateboards-driving-simulator-c0ea1f|Two Skateboards Driving Simulator|1,79€|88|2023-10-18 15h|2023-11-01 15h|
 |#|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|85|2023-12-21 23h|2023-12-31 11h|
@@ -29,6 +31,7 @@
 |#|amnesia-a-machine-for-pigs|Amnesia: A Machine for Pigs|15,99€|80|2023-10-18 15h|2023-11-01 15h|
 |#|amnesia-rebirth|Amnesia: Rebirth|24,99€|80|2023-10-18 15h|2023-11-01 15h|
 |#|amnesia-the-dark-descent|Amnesia: The Dark Descent|15,99€|80|2023-10-18 15h|2023-11-01 15h|
+|#|arctico-c29f1d|Arctico|8,99€|80|2023-10-10 15h|2023-10-17 15h|
 |#|arkanoid-eternal-battle-e1b089|Arkanoid - Eternal Battle|19,99€|80|2023-10-10 15h|2023-10-17 15h|
 |#|back-4-blood|Back 4 Blood: Standard Edition|59,99€|80|2023-10-18 15h|2023-11-01 15h|
 |#|batman-arkham-knight|Batman Arkham Knight|19,99€|80|2023-10-18 15h|2023-11-01 15h|
@@ -259,6 +262,7 @@
 |#|the-medium|The Medium|47,99€|50|2023-10-28 15h|2023-11-04 15h|
 |#|undergrave-4d084b|Undergrave|7,99€|50|2023-10-18 15h|2023-11-01 15h|
 |#|underworld-defense-9a270a|Underworld Defense|4,49€|50|2023-10-18 15h|2023-11-01 15h|
+|#|jampjjj-7c830e|maze horror～迷宮ホラー～|2,19€|50|2023-10-10 15h|2023-10-17 15h|
 |#|asterigos-424313|Asterigos: Curse of the Stars|34,99€|45|2023-10-10 15h|2023-10-17 15h|
 |#|city-car-parking-simulator-231485|City Car Parking Simulator|0,89€|45|2023-10-12 17h|2023-10-31 17h|
 |#|delivery-from-the-pain-73198e|Delivery from the Pain|7,19€|45|2023-10-18 15h|2023-11-01 15h|
@@ -398,5 +402,4 @@
 |#|moons-of-ardan-d4f9a3|Moons of Ardan|19,99€|10|2023-10-12 14h|2023-10-19 14h|
 |#|planeticusgame-5dd84a|Planeticus|6,29€|10|2023-10-17 15h|2023-10-24 15h|
 |#|survive-on-raft-9845bd|Survive on Raft|8,99€|10|2023-10-12 17h|2023-10-19 17h|
-|#|treasure-of-the-giantess-60391f|Treasure Of The Giantess|8,99€|10|2023-10-06 22h|2023-10-13 22h|
 |#|zerog-gunfight-6386d2|Zero-G Gunfight|4,49€|10|2023-10-18 15h|2023-11-01 15h|
