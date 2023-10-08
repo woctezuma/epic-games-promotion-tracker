@@ -1,7 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|sword-and-fairy-inn-2-39760f|Sword and Fairy Inn 2|17,99€|20|2023-10-08 16h|2023-10-15 16h|
-|#|spirit-of-the-north-f58a66|Spirit of the North|15,99€|70|2023-10-08 00h|2023-10-15 22h|
 |#|mage-math-b7ca14|Mage Math|11,69€|80|2023-10-09 07h|2023-10-17 06h|
 |#|a-long-journey-to-an-uncertain-end-514c7e|A Long Journey to an Uncertain End|22,39€|20|2023-10-10 15h|2023-10-17 15h|
 |#|arctico-c29f1d|Arctico|8,99€|80|2023-10-10 15h|2023-10-17 15h|
@@ -66,6 +64,7 @@
 |#|ride-5|RIDE 5|59,99€|30|2023-10-17 15h|2023-10-24 15h|
 |#|submerged-041523|Submerged|15,99€|90|2023-10-17 15h|2023-10-24 15h|
 |#|submerged-hidden-depths-6065a1|Submerged: Hidden Depths|23,99€|90|2023-10-17 15h|2023-10-24 15h|
+|#|trifox-b361b7|Trifox|15,99€|60|2023-10-17 15h|2023-10-24 15h|
 |#|world-of-contraptions-6dbc07|World of Contraptions|8,99€|60|2023-10-17 15h|2023-10-24 15h|
 |#|xenonauts-2-42a236|Xenonauts 2|39,99€|25|2023-10-17 15h|2023-10-24 15h|
 |#|monster-harvest-75f018|Monster Harvest|13,99€|75|2023-10-22 00h|2023-10-28 23h|
@@ -94,7 +93,7 @@
 |#|school-bus-driving-simulator-b878a8|School Bus Driving Simulator|0,89€|70|2023-10-15 17h|2023-10-31 17h|
 |#|outbreak-devious-beginnings-5c0af8|Outbreak Devious Beginnings|8,99€|40|2023-10-25 14h|2023-11-01 14h|
 |#|n-verlore-verstand-1d7f5b|'n Verlore Verstand|13,49€|90|2023-10-18 15h|2023-11-01 15h|
-|#|a-heros-rest-67f117|A Hero's Rest|24,50€|20|2023-10-18 15h|2023-11-01 15h|
+|#|a-heros-rest-67f117|A Hero's Rest: An RPG Town Simulator|24,50€|20|2023-10-18 15h|2023-11-01 15h|
 |#|agatha-christie-hercule-poirot-london-cases-c81a32|Agatha Christie - Hercule Poirot: The London Case|29,99€|25|2023-10-18 15h|2023-11-01 15h|
 |#|alan-wake-remastered|Alan Wake Remastered|29,99€|67|2023-10-18 15h|2023-11-01 15h|
 |#|alfredhitchockvertigo-c58904|Alfred Hitchcock - Vertigo|19,99€|67|2023-10-18 15h|2023-11-01 15h|

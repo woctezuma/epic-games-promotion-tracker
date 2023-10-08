@@ -135,7 +135,6 @@
 |#|production-line|Production Line|20,99€|70|2023-10-31 15h|2023-11-07 16h|
 |#|school-bus-driving-simulator-b878a8|School Bus Driving Simulator|0,89€|70|2023-10-15 17h|2023-10-31 17h|
 |#|shadows-price-for-our-sins-29e42e|Shadows. Price For Our Sins|5,39€|70|2023-10-18 15h|2023-11-01 15h|
-|#|spirit-of-the-north-f58a66|Spirit of the North|15,99€|70|2023-10-08 00h|2023-10-15 22h|
 |#|them-and-us-7c9c73|Them and Us|35,99€|70|2023-10-18 15h|2023-11-01 15h|
 |#|thomas-tales-912c23|Thomas' Tales|4,49€|70|2023-10-16 04h|2023-10-23 11h|
 |#|upaon-a-snakes-journey-672f92|Upaon A Snakes Journey|1,99€|70|2023-10-18 15h|2023-11-01 15h|
@@ -188,6 +187,7 @@
 |#|the-wolf-among-us|The Wolf Among Us|14,99€|60|2023-10-18 15h|2023-11-01 15h|
 |#|mistborn-tower-defense-2816ff|Tower Defense 3D Fusion|4,49€|60|2023-11-05 04h|2023-11-13 05h|
 |#|tribu-55feb1|Tribu|9,89€|60|2023-11-07 16h|2023-11-14 16h|
+|#|trifox-b361b7|Trifox|15,99€|60|2023-10-17 15h|2023-10-24 15h|
 |#|unspottable|Unspottable|9,99€|60|2023-10-19 23h|2023-10-30 00h|
 |#|world-of-contraptions-6dbc07|World of Contraptions|8,99€|60|2023-10-17 15h|2023-10-24 15h|
 |#|black-book|Black Book|24,99€|55|2023-10-18 15h|2023-11-01 15h|
@@ -364,7 +364,7 @@
 |#|xenonauts-2-42a236|Xenonauts 2|39,99€|25|2023-10-17 15h|2023-10-24 15h|
 |#|ginsha-604f11|GINSHA|15,79€|23|2024-02-19 16h|2024-02-29 16h|
 |#|1775-rebellion-aa5b41|1775 Rebellion|17,99€|20|2023-10-13 11h|2023-10-19 11h|
-|#|a-heros-rest-67f117|A Hero's Rest|24,50€|20|2023-10-18 15h|2023-11-01 15h|
+|#|a-heros-rest-67f117|A Hero's Rest: An RPG Town Simulator|24,50€|20|2023-10-18 15h|2023-11-01 15h|
 |#|a-long-journey-to-an-uncertain-end-514c7e|A Long Journey to an Uncertain End|22,39€|20|2023-10-10 15h|2023-10-17 15h|
 |#|ancient-battle-rome-9b7099|Ancient Battle Rome|7,19€|20|2023-10-13 15h|2023-10-19 15h|
 |#|civil-war-gettysburg-a557a0|Civil War Gettysburg|7,19€|20|2023-10-16 15h|2023-10-22 15h|
@@ -382,7 +382,6 @@
 |#|remnant-2|Remnant 2|49,99€|20|2023-10-18 15h|2023-11-01 15h|
 |#|smalland|Smalland: Survive the Wilds|24,99€|20|2023-11-05 01h|2023-11-12 12h|
 |#|super-alloy-ranger-4252cc|Super Alloy Ranger|8,99€|20|2023-10-18 15h|2023-11-01 15h|
-|#|sword-and-fairy-inn-2-39760f|Sword and Fairy Inn 2|17,99€|20|2023-10-08 16h|2023-10-15 16h|
 |#|tank-battle-1944-f7e87a|Tank Battle 1944|7,19€|20|2023-11-07 16h|2023-11-14 16h|
 |#|tank-battle-north-africa-552efe|Tank Battle North Africa|7,19€|20|2023-10-13 11h|2023-10-19 11h|
 |#|ten-dates-9a188a|Ten Dates|15,29€|20|2023-11-07 16h|2023-11-14 16h|
