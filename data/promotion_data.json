@@ -33,7 +33,7 @@
     "originalPrice": 2450,
     "slug": "a-heros-rest-67f117",
     "startDate": "2023-10-18T15:00:00.000Z",
-    "title": "A Hero's Rest"
+    "title": "A Hero's Rest: An RPG Town Simulator"
   },
   {
     "discountPercentage": 20,
@@ -2790,15 +2790,6 @@
     "title": "Spinner Invaders"
   },
   {
-    "discountPercentage": 70,
-    "endDate": "2023-10-15T22:30:00.000Z",
-    "isFree": false,
-    "originalPrice": 1599,
-    "slug": "spirit-of-the-north-f58a66",
-    "startDate": "2023-10-08T00:30:00.000Z",
-    "title": "Spirit of the North"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -2887,15 +2878,6 @@
     "slug": "switchball-hd-6d3802",
     "startDate": "2023-11-10T00:00:00.000Z",
     "title": "Switchball HD"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2023-10-15T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1799,
-    "slug": "sword-and-fairy-inn-2-39760f",
-    "startDate": "2023-10-08T16:00:00.000Z",
-    "title": "Sword and Fairy Inn 2"
   },
   {
     "discountPercentage": 90,
@@ -3337,6 +3319,15 @@
     "slug": "tribu-55feb1",
     "startDate": "2023-11-07T16:00:00.000Z",
     "title": "Tribu"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2023-10-24T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "trifox-b361b7",
+    "startDate": "2023-10-17T15:00:00.000Z",
+    "title": "Trifox"
   },
   {
     "discountPercentage": 75,
