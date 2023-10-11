@@ -220,6 +220,7 @@
 |#|extreme-bus-driver-simulator-b7a96d|Extreme Bus Driver 2024|0,89€|50|2023-10-30 17h|2023-11-15 17h|
 |#|fastest-cars-traffic-racer-d363db|Fastest Cars Traffic Racer|0,89€|50|2023-10-11 17h|2023-10-31 17h|
 |#|flame-keeper-fc7a6d|Flame Keeper|11,99€|50|2023-10-31 15h|2023-11-07 16h|
+|#|flat-heroes-fec628|Flat Heroes|9,99€|50|2023-11-07 16h|2023-11-14 16h|
 |#|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|50|2023-10-17 15h|2023-10-24 15h|
 |#|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|50|2023-11-28 16h|2023-12-05 16h|
 |#|grand-theft-auto-v|Grand Theft Auto V: Premium Edition|29,99€|50|2023-10-31 15h|2023-11-07 16h|
@@ -247,7 +248,6 @@
 |#|redneck-bowl-games-d39874|RedNeck Bowl Games|17,99€|50|2023-10-18 15h|2023-11-01 15h|
 |#|spingun-843f78|SPINGUN|1,79€|50|2023-11-07 16h|2023-11-14 16h|
 |#|sir-whoopass-757c5c|Sir Whoopass - Immortal Death|15,29€|50|2023-11-10 18h|2023-11-20 00h|
-|#|skotos-455463|Skotos|5,39€|50|2023-11-01 06h|2023-11-30 23h|
 |#|skotos-455463|Skotos|5,39€|50|2024-02-01 07h|2024-02-29 23h|
 |#|skotos-455463|Skotos|5,39€|50|2024-05-01 06h|2024-05-30 22h|
 |#|skotos-455463|Skotos|5,39€|50|2024-08-01 06h|2024-08-30 22h|
@@ -292,9 +292,9 @@
 |#|marvels-spider-man-remastered|Marvel's Spider-Man Remastered|59,99€|40|2023-10-17 15h|2023-10-24 15h|
 |#|marvels-spider-man-miles-morales|Marvel’s Spider-Man: Miles Morales|49,99€|40|2023-10-17 15h|2023-10-24 15h|
 |#|outbreak-devious-beginnings-5c0af8|Outbreak Devious Beginnings|8,99€|40|2023-10-25 14h|2023-11-01 14h|
-|#|outbreak-lost-hope-broken-faith-77b3f9|Outbreak Lost Hope Broken Faith|8,99€|40|2023-10-11 14h|2023-10-18 14h|
 |#|outbreak-the-new-nightmare-revisited-90517a|Outbreak The New Nightmare Revisited|8,99€|40|2023-11-08 15h|2023-11-15 15h|
 |#|rising-hell-253707|Rising Hell|7,99€|40|2023-11-21 17h|2023-11-28 17h|
+|#|strayed-lights-351d29|Strayed Lights|24,99€|40|2023-10-31 15h|2023-11-07 16h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|40|2023-10-11 19h|2023-10-22 19h|
 |#|the-shapeshifting-detective-ef0f21|The Shapeshifting Detective|9,99€|40|2023-10-18 15h|2023-11-01 15h|
 |#|the-unbeatable-path-8af8fc|The Unbeatable Path|17,99€|40|2023-10-18 15h|2023-11-01 15h|
@@ -302,7 +302,6 @@
 |#|vampire-the-masquerade-swansong|Vampire: The Masquerade – Swansong|49,99€|40|2023-10-18 15h|2023-11-01 15h|
 |#|wonhon-a-vengeful-spirit-29e3c1|Wonhon: A Vengeful Spirit|9,89€|40|2023-10-31 15h|2023-11-07 16h|
 |#|world-war-z|World War Z Aftermath|39,99€|40|2023-10-18 15h|2023-11-01 15h|
-|#|anime-vs-evil-apocalypse-4c8f91|Anime vs Evil: Apocalypse|22,39€|35|2023-10-11 07h|2023-10-18 07h|
 |#|apotheorasis-a33e73|Apotheorasis • Lab of the Blind Gods|9,75€|35|2023-10-18 15h|2023-11-01 15h|
 |#|beach-invasion-1944-d654d6|Beach Invasion 1944|8,99€|35|2023-10-18 15h|2023-11-01 15h|
 |#|bloodshore-939cb0|Bloodshore|9,99€|35|2023-10-18 15h|2023-11-01 15h|
@@ -344,6 +343,7 @@
 |#|stasis-bone-totem-ca8320|STASIS : BONE TOTEM|17,99€|30|2023-10-18 15h|2023-11-01 15h|
 |#|terra-invicta-5bbf09|Terra Invicta|39,99€|30|2023-10-24 15h|2023-10-31 15h|
 |#|the-alchemist-of-ars-magna-e68b84|The Alchemist of Ars Magna|35,99€|30|2023-10-17 15h|2023-10-24 15h|
+|#|timewell_trail_of_celestes-0c45ea|Timewell: Trail Of Celestes|19,99€|30|2023-10-18 15h|2023-11-01 15h|
 |#|ungate-df09c8|Ungate|22,39€|30|2023-10-18 15h|2023-11-01 15h|
 |#|urban-tale-75b4f0|Urban Tale|12,59€|30|2023-11-07 16h|2023-11-14 16h|
 |#|when-the-past-was-around-3071e0|When the Past was Around|5,99€|30|2023-11-21 17h|2023-11-28 17h|
@@ -380,12 +380,18 @@
 |#|death-trash|Death Trash|19,99€|20|2023-10-18 15h|2023-11-01 15h|
 |#|forest-grove-6b05cf|Forest Grove|17,99€|20|2023-11-28 13h|2023-12-05 13h|
 |#|ginsha-604f11|GINSHA|15,79€|20|2023-12-21 16h|2024-01-15 16h|
+|#|gardenia-630482|Gardenia|8,99€|20|2023-10-17 15h|2023-10-24 15h|
+|#|haunted-house-c5a71b|Haunted House|17,99€|20|2023-10-12 07h|2023-10-19 07h|
 |#|hunt-the-night-3f1eb5|Hunt the Night|17,99€|20|2023-10-18 15h|2023-11-01 15h|
+|#|inside-soccer-2bf632|Inside Soccer|4,49€|20|2023-10-17 15h|2023-10-24 15h|
 |#|loretta-0099a6|Loretta|13,49€|20|2023-10-18 15h|2023-11-01 15h|
 |#|luckygoal-201ee6|Lucky Goal|4,99€|20|2023-11-07 16h|2023-11-14 16h|
 |#|perish-390141|PERISH|19,99€|20|2023-10-18 15h|2023-11-01 15h|
 |#|ratchet-clank-rift-apart|Ratchet & Clank: Rift Apart|59,99€|20|2023-10-31 15h|2023-11-07 16h|
 |#|remnant-2|Remnant 2|49,99€|20|2023-10-18 15h|2023-11-01 15h|
+|#|saboteur-ii-avenging-angel-33e83c|Saboteur II Avenging Angel|7,19€|20|2023-10-17 15h|2023-10-24 15h|
+|#|saboteur-sio-123236|Saboteur SiO|9,89€|20|2023-10-17 15h|2023-10-24 15h|
+|#|saboteur-f3d01d|Saboteur!|7,19€|20|2023-10-17 15h|2023-10-24 15h|
 |#|smalland|Smalland: Survive the Wilds|24,99€|20|2023-11-05 01h|2023-11-12 12h|
 |#|super-alloy-ranger-4252cc|Super Alloy Ranger|8,99€|20|2023-10-18 15h|2023-11-01 15h|
 |#|tank-battle-1944-f7e87a|Tank Battle 1944|7,19€|20|2023-11-07 16h|2023-11-14 16h|
@@ -393,7 +399,6 @@
 |#|ten-dates-9a188a|Ten Dates|15,29€|20|2023-11-07 16h|2023-11-14 16h|
 |#|the-bookwalker-cd43ce|The Bookwalker: Thief of Tales|14,79€|20|2023-10-18 15h|2023-11-01 15h|
 |#|the-crew-motorfest|The Crew™ Motorfest Standard Edition|69,99€|20|2023-10-14 17h|2023-10-21 16h|
-|#|the-front-3a8219|The Front|17,99€|20|2023-10-11 15h|2023-10-18 15h|
 |#|the-isle-tide-hotel-adf588|The Isle Tide Hotel|17,99€|20|2023-10-18 15h|2023-11-01 15h|
 |#|the-last-of-us-part-1|The Last of Us™ Part I|59,99€|20|2023-10-18 15h|2023-11-01 15h|
 |#|the-outlast-trials|The Outlast Trials|26,99€|20|2023-10-18 15h|2023-11-01 15h|
@@ -403,9 +408,11 @@
 |#|elegies-aya-17c3f1|ELEGIES Aya|16,19€|15|2023-12-21 16h|2024-01-11 16h|
 |#|hyperviolent-5d1983|HYPERVIOLENT|14,99€|15|2023-10-18 15h|2023-11-01 15h|
 |#|oirbo-c063b7|Oirbo|13,49€|15|2023-11-14 16h|2023-11-21 16h|
+|#|skotos-455463|Skotos|5,39€|15|2023-11-01 06h|2023-11-30 23h|
 |#|ginsha-604f11|GINSHA|15,79€|13|2023-11-13 16h|2023-11-21 16h|
 |#|dream-of-tiny-snow-36f018|Dream of Tiny Snow|8,09€|10|2023-10-18 15h|2023-11-01 15h|
 |#|moons-of-ardan-d4f9a3|Moons of Ardan|19,99€|10|2023-10-12 14h|2023-10-19 14h|
 |#|planeticusgame-5dd84a|Planeticus|6,29€|10|2023-10-17 15h|2023-10-24 15h|
+|#|shadow-gambit-the-cursed-crew-0bca60|Shadow Gambit: The Cursed Crew|39,99€|10|2023-10-18 15h|2023-11-01 15h|
 |#|survive-on-raft-9845bd|Survive on Raft|8,99€|10|2023-10-12 17h|2023-10-19 17h|
 |#|zerog-gunfight-6386d2|Zero-G Gunfight|4,49€|10|2023-10-18 15h|2023-11-01 15h|
