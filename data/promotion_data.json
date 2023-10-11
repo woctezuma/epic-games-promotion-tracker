@@ -72,6 +72,15 @@
     "title": "Adventures of Chris"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "aegis-descent-a1f5a0",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Aegis Descent"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2023-11-14T16:00:00.000Z",
     "isFree": false,
@@ -1204,15 +1213,6 @@
     "slug": "fallout-3-game-of-the-year-edition",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "Fallout 3: Game of the Year Edition"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2023-10-31T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "fastest-cars-traffic-racer-d363db",
-    "startDate": "2023-10-11T17:00:00.000Z",
-    "title": "Fastest Cars Traffic Racer"
   },
   {
     "discountPercentage": 65,
@@ -3166,6 +3166,15 @@
     "slug": "the-devils-face-356c31",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "The Devil's Face"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2023-10-26T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1999,
+    "slug": "the-evil-within",
+    "startDate": "2023-10-19T15:00:00.000Z",
+    "title": "The Evil Within"
   },
   {
     "discountPercentage": 80,
