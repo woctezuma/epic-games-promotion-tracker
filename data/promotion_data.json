@@ -198,15 +198,6 @@
     "title": "Angelo and Deemon: One Hell of a Quest"
   },
   {
-    "discountPercentage": 35,
-    "endDate": "2023-10-18T07:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2239,
-    "slug": "anime-vs-evil-apocalypse-4c8f91",
-    "startDate": "2023-10-11T07:00:00.000Z",
-    "title": "Anime vs Evil: Apocalypse"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2023-11-07T16:00:00.000Z",
     "isFree": false,
@@ -1278,6 +1269,15 @@
     "title": "Flame Keeper"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-11-14T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "flat-heroes-fec628",
+    "startDate": "2023-11-07T16:00:00.000Z",
+    "title": "Flat Heroes"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -1375,6 +1375,15 @@
     "slug": "gamedec",
     "startDate": "2023-10-31T15:00:00.000Z",
     "title": "Gamedec - Definitive Edition"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-10-24T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "gardenia-630482",
+    "startDate": "2023-10-17T15:00:00.000Z",
+    "title": "Gardenia"
   },
   {
     "discountPercentage": 35,
@@ -1519,6 +1528,15 @@
     "slug": "happys-humble-burger-farm-d16675",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "Happy's Humble Burger Farm"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-10-19T07:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "haunted-house-c5a71b",
+    "startDate": "2023-10-12T07:00:00.000Z",
+    "title": "Haunted House"
   },
   {
     "discountPercentage": 50,
@@ -1672,6 +1690,15 @@
     "slug": "infindustry-cccc40",
     "startDate": "2023-11-21T16:00:00.000Z",
     "title": "Infindustry"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-10-24T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "inside-soccer-2bf632",
+    "startDate": "2023-10-17T15:00:00.000Z",
+    "title": "Inside Soccer"
   },
   {
     "discountPercentage": 25,
@@ -2224,15 +2251,6 @@
   },
   {
     "discountPercentage": 40,
-    "endDate": "2023-10-18T14:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 899,
-    "slug": "outbreak-lost-hope-broken-faith-77b3f9",
-    "startDate": "2023-10-11T14:00:00.000Z",
-    "title": "Outbreak Lost Hope Broken Faith"
-  },
-  {
-    "discountPercentage": 40,
     "endDate": "2023-11-15T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 899,
@@ -2637,6 +2655,33 @@
     "title": "SYMMETRY"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2023-10-24T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 719,
+    "slug": "saboteur-ii-avenging-angel-33e83c",
+    "startDate": "2023-10-17T15:00:00.000Z",
+    "title": "Saboteur II Avenging Angel"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-10-24T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 989,
+    "slug": "saboteur-sio-123236",
+    "startDate": "2023-10-17T15:00:00.000Z",
+    "title": "Saboteur SiO"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-10-24T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 719,
+    "slug": "saboteur-f3d01d",
+    "startDate": "2023-10-17T15:00:00.000Z",
+    "title": "Saboteur!"
+  },
+  {
     "discountPercentage": 45,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -2680,6 +2725,15 @@
     "slug": "seven-enhanced-edition-9ba7c7",
     "startDate": "2023-11-07T16:00:00.000Z",
     "title": "Seven - Enhanced Edition"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "shadow-gambit-the-cursed-crew-0bca60",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Shadow Gambit: The Cursed Crew"
   },
   {
     "discountPercentage": 70,
@@ -2754,7 +2808,7 @@
     "title": "Sir Whoopass - Immortal Death"
   },
   {
-    "discountPercentage": 50,
+    "discountPercentage": 15,
     "endDate": "2023-11-30T23:00:00.000Z",
     "isFree": false,
     "originalPrice": 539,
@@ -2851,6 +2905,15 @@
     "slug": "strawhart-776f4d",
     "startDate": "2023-10-17T15:00:00.000Z",
     "title": "Strawhart"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-11-07T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "strayed-lights-351d29",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "Strayed Lights"
   },
   {
     "discountPercentage": 65,
@@ -3132,15 +3195,6 @@
     "title": "The Forest Quartet"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2023-10-18T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1799,
-    "slug": "the-front-3a8219",
-    "startDate": "2023-10-11T15:00:00.000Z",
-    "title": "The Front"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2023-11-04T00:00:00.000Z",
     "isFree": false,
@@ -3346,6 +3400,15 @@
     "slug": "through-the-woods-4dad49",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "Through the Woods"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "timewell_trail_of_celestes-0c45ea",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Timewell: Trail Of Celestes"
   },
   {
     "discountPercentage": 85,
