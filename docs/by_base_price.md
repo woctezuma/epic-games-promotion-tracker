@@ -128,7 +128,6 @@
 |#|lovecraft-untold-stories-2-a0857a|Lovecraft's Untold Stories 2|19,99€|66|2023-10-18 15h|2023-11-01 15h|
 |#|maid-of-sker-2ae24e|Maid of Sker|19,99€|35|2023-10-18 15h|2023-11-01 15h|
 |#|midnight-ghost-hunt|Midnight Ghost Hunt|19,99€|66|2023-10-18 15h|2023-11-01 15h|
-|#|moons-of-ardan-d4f9a3|Moons of Ardan|19,99€|10|2023-10-12 14h|2023-10-19 14h|
 |#|perish-390141|PERISH|19,99€|20|2023-10-18 15h|2023-11-01 15h|
 |#|paper-cut-mansion-2c67e2|Paper Cut Mansion|19,99€|50|2023-10-18 15h|2023-11-01 15h|
 |#|pascals-wager|Pascal's Wager: Definitive Edition|19,99€|50|2023-10-18 15h|2023-11-01 15h|
