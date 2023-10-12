@@ -148,6 +148,7 @@
 |#|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|50|2023-11-28 16h|2023-12-05 16h|
 |#|fur-squadron-0042b8|FUR Squadron|6,29€|35|2023-10-12 22h|2023-10-19 22h|
 |#|fusion-paradox-31b28a|Fusion Paradox|8,99€|60|2023-11-07 16h|2023-11-14 16h|
+|#|galacticdefender-0d9f3d|Galactic Defender|1,79€|40|2023-10-17 15h|2023-10-24 15h|
 |#|gamedec|Gamedec - Definitive Edition|29,99€|55|2023-10-31 15h|2023-11-07 16h|
 |#|gardenia-630482|Gardenia|8,99€|20|2023-10-17 15h|2023-10-24 15h|
 |#|geometric-sniper-z-ef97ef|Geometric Sniper - Z|4,49€|35|2023-10-17 15h|2023-10-24 15h|
@@ -244,6 +245,7 @@
 |#|nira-02f6ee|Nira|7,99€|80|2023-10-31 15h|2023-11-07 16h|
 |#|noroy-06d946|NoRoY|8,99€|50|2023-10-18 15h|2023-11-01 15h|
 |#|nostalgic-train-32f08a|NOSTALGIC TRAIN|10,79€|35|2023-10-17 15h|2023-10-24 15h|
+|#|number-one-fighter-26f88c|Number One Fighter|4,49€|50|2023-10-17 15h|2023-10-24 15h|
 |#|obelixes-tower-defense-0efb67|Secret Agent 001|1,79€|69|2023-10-24 15h|2023-10-31 15h|
 |#|observer-system-redux|Observer: System Redux|24,99€|60|2023-10-28 15h|2023-11-04 15h|
 |#|oirbo-c063b7|Oirbo|13,49€|15|2023-11-14 16h|2023-11-21 16h|

@@ -241,6 +241,7 @@
 |#|mallofmayhem-15344c|Mall of Mayhem|8,99€|50|2024-10-01 06h|2024-10-30 22h|
 |#|search-de9485|Nihilsearch|8,99€|50|2023-10-20 02h|2023-10-29 14h|
 |#|noroy-06d946|NoRoY|8,99€|50|2023-10-18 15h|2023-11-01 15h|
+|#|number-one-fighter-26f88c|Number One Fighter|4,49€|50|2023-10-17 15h|2023-10-24 15h|
 |#|out-of-the-park-baseball-24-eb4cf8|Out of the Park Baseball 24|39,99€|50|2023-10-19 17h|2023-11-02 17h|
 |#|outbreak-endless-nightmares-restless-dreams-40507b|Outbreak Endless Nightmares Restless Dreams|13,49€|50|2023-10-18 15h|2023-11-01 15h|
 |#|paper-cut-mansion-2c67e2|Paper Cut Mansion|19,99€|50|2023-10-18 15h|2023-11-01 15h|
@@ -288,6 +289,7 @@
 |#|duel-princess-ec50b3|Duel Princess|22,39€|40|2023-10-17 15h|2023-10-24 15h|
 |#|everdream-valley-916471|Everdream Valley|22,39€|40|2023-10-31 15h|2023-11-07 16h|
 |#|fly-corp-398021|Fly Corp|10,79€|40|2023-10-18 15h|2023-11-01 15h|
+|#|galacticdefender-0d9f3d|Galactic Defender|1,79€|40|2023-10-17 15h|2023-10-24 15h|
 |#|late-shift-8b0634|Late Shift|9,99€|40|2023-10-18 15h|2023-11-01 15h|
 |#|life-after-death-b4e964|Life After Death|4,49€|40|2023-12-06 01h|2023-12-26 01h|
 |#|marvels-spider-man-remastered|Marvel's Spider-Man Remastered|59,99€|40|2023-10-17 15h|2023-10-24 15h|

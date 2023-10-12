@@ -372,6 +372,7 @@
 |#|inside-soccer-2bf632|Inside Soccer|4,49€|20|2023-10-17 15h|2023-10-24 15h|
 |#|life-after-death-b4e964|Life After Death|4,49€|40|2023-12-06 01h|2023-12-26 01h|
 |#|mystery-solitaire-grimms-tales-244e2a|Mystery Solitaire. Grimm's Tales|4,49€|70|2023-10-18 15h|2023-11-01 15h|
+|#|number-one-fighter-26f88c|Number One Fighter|4,49€|50|2023-10-17 15h|2023-10-24 15h|
 |#|overtop-ed5e49|Overtop|4,49€|90|2023-11-03 22h|2023-11-23 22h|
 |#|recollection-71f3a4|Recollection|4,49€|30|2023-10-31 15h|2023-11-07 16h|
 |#|spinner-invaders-d453e7|Spinner Invaders|4,49€|50|2023-10-31 15h|2023-11-07 16h|
@@ -399,6 +400,7 @@
 |#|buddy-and-friends-in-halloween-192190|Buddy and Friends in Halloween|1,99€|30|2023-10-24 15h|2023-10-31 15h|
 |#|upaon-a-snakes-journey-672f92|Upaon A Snakes Journey|1,99€|70|2023-10-18 15h|2023-11-01 15h|
 |#|the-last-hope-atomic-bomb-crypto-war-d307f6|Find the Oil Racing Edition|1,79€|90|2023-11-14 16h|2023-11-21 16h|
+|#|galacticdefender-0d9f3d|Galactic Defender|1,79€|40|2023-10-17 15h|2023-10-24 15h|
 |#|island-cities-0a3026|Island Cities|1,79€|30|2023-10-17 15h|2023-10-24 15h|
 |#|island-farmer-ce8ee6|Island Farmer|1,79€|30|2023-11-14 16h|2023-11-21 16h|
 |#|real-drift-multiplayer-4bdd6d|Real Drift Multiplayer|1,79€|80|2023-10-15 17h|2023-10-31 17h|
