@@ -46,6 +46,15 @@
   },
   {
     "discountPercentage": 75,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "ape-out",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "APE OUT"
+  },
+  {
+    "discountPercentage": 75,
     "endDate": "2023-11-07T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1199,
@@ -396,6 +405,15 @@
     "title": "Blazing Sails"
   },
   {
+    "discountPercentage": 10,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "bleak-sword-dx-5b2d4c",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Bleak Sword DX"
+  },
+  {
     "discountPercentage": 35,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -529,6 +547,15 @@
     "slug": "bus-world-5de29e",
     "startDate": "2023-10-31T15:00:00.000Z",
     "title": "Bus World"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "carrion",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "CARRION"
   },
   {
     "discountPercentage": 80,
@@ -925,6 +952,15 @@
     "slug": "death-trash",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "Death Trash"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "deaths-door",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Death's Door"
   },
   {
     "discountPercentage": 50,
@@ -1539,15 +1575,6 @@
     "title": "Happy's Humble Burger Farm"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2023-10-19T07:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1799,
-    "slug": "haunted-house-c5a71b",
-    "startDate": "2023-10-12T07:00:00.000Z",
-    "title": "Haunted House"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2023-11-07T16:00:00.000Z",
     "isFree": false,
@@ -1699,6 +1726,15 @@
     "slug": "infindustry-cccc40",
     "startDate": "2023-11-21T16:00:00.000Z",
     "title": "Infindustry"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1998,
+    "slug": "inscryption-6b29ab",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Inscryption"
   },
   {
     "discountPercentage": 20,
@@ -1888,6 +1924,15 @@
     "slug": "lines-guarder-174742",
     "startDate": "2023-11-26T16:00:00.000Z",
     "title": "Line's Guarder"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "loop-hero",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Loop Hero"
   },
   {
     "discountPercentage": 20,
@@ -2212,6 +2257,15 @@
     "slug": "number-one-fighter-26f88c",
     "startDate": "2023-10-17T15:00:00.000Z",
     "title": "Number One Fighter"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2099,
+    "slug": "observation",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Observation"
   },
   {
     "discountPercentage": 60,
@@ -2914,6 +2968,15 @@
     "slug": "stellar-interface-d14cc4",
     "startDate": "2023-10-31T15:00:00.000Z",
     "title": "Stellar Interface"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "stories-untold",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Stories Untold"
   },
   {
     "discountPercentage": 60,
@@ -3625,6 +3688,15 @@
     "slug": "vlad-circus-descend-into-madness-9d1ed2",
     "startDate": "2023-10-16T13:00:00.000Z",
     "title": "Vlad Circus - Descend Into Madness"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "weird-west-906661",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Weird West: Definitive Edition"
   },
   {
     "discountPercentage": 65,
