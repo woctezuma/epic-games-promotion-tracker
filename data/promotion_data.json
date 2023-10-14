@@ -54,6 +54,15 @@
     "title": "APE OUT"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2023-11-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "art-is-rifle-897224",
+    "startDate": "2023-11-21T15:00:00.000Z",
+    "title": "ART IS RIFLE"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2023-11-07T15:00:00.000Z",
     "isFree": false,
@@ -376,6 +385,15 @@
     "slug": "biped",
     "startDate": "2023-10-28T19:00:00.000Z",
     "title": "Biped"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2023-11-01T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "birch-simulator-21969e",
+    "startDate": "2023-10-26T16:00:00.000Z",
+    "title": "Birch Simulator"
   },
   {
     "discountPercentage": 80,
@@ -1503,15 +1521,6 @@
     "title": "God's Trigger"
   },
   {
-    "discountPercentage": 25,
-    "endDate": "2023-10-21T10:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "golden-light-f543b3",
-    "startDate": "2023-10-14T16:00:00.000Z",
-    "title": "Golden Light"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2023-11-07T15:00:00.000Z",
     "isFree": false,
@@ -2527,15 +2536,6 @@
     "slug": "police-car-suv-simulator-092560",
     "startDate": "2023-10-15T17:00:00.000Z",
     "title": "Police Car SUV Simulator"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2023-10-20T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "polygon-survival-2374fc",
-    "startDate": "2023-10-14T15:00:00.000Z",
-    "title": "Polygon Survival"
   },
   {
     "discountPercentage": 75,
