@@ -135,15 +135,6 @@
     "title": "Alchemist Adventure"
   },
   {
-    "discountPercentage": 70,
-    "endDate": "2023-10-22T11:30:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "alex-kidd-in-miracle-world-dx",
-    "startDate": "2023-10-15T00:30:00.000Z",
-    "title": "Alex Kidd in Miracle World DX"
-  },
-  {
     "discountPercentage": 67,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -592,6 +583,15 @@
     "slug": "candle-knight-b52970",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "Candle Knight"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2023-11-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "cepheus-protocol-388fe9",
+    "startDate": "2023-10-18T15:00:00.000Z",
+    "title": "Cepheus Protocol"
   },
   {
     "discountPercentage": 60,
@@ -1242,6 +1242,15 @@
     "title": "Extreme Bus Driver 2024"
   },
   {
+    "discountPercentage": 85,
+    "endDate": "2023-11-21T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "extreme-offroad-racing-439263",
+    "startDate": "2023-11-14T15:00:00.000Z",
+    "title": "Extreme Offroad Racing"
+  },
+  {
     "discountPercentage": 66,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -1357,6 +1366,24 @@
     "slug": "fly-corp-398021",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "Fly Corp"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-11-15T05:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 539,
+    "slug": "forest-fire-b4bb7e",
+    "startDate": "2023-10-18T04:00:00.000Z",
+    "title": "Forest Fire"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2024-01-01T06:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 539,
+    "slug": "forest-fire-b4bb7e",
+    "startDate": "2023-12-17T06:00:00.000Z",
+    "title": "Forest Fire"
   },
   {
     "discountPercentage": 20,
@@ -3292,15 +3319,6 @@
     "slug": "the-creepy-syndrome-90fc19",
     "startDate": "2023-10-18T15:00:00.000Z",
     "title": "The Creepy Syndrome"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2023-10-21T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 6999,
-    "slug": "the-crew-motorfest",
-    "startDate": "2023-10-14T17:00:00.000Z",
-    "title": "The Crew\u2122 Motorfest Standard Edition"
   },
   {
     "discountPercentage": 85,
