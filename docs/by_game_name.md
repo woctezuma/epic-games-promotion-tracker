@@ -134,7 +134,7 @@
 |#|life-after-death-b4e964|Life After Death|4,49€|40|2023-12-06 01h|2023-12-26 01h|
 |#|lilas-sky-ark-610f75|Lila's Sky Ark|11,99€|80|2023-10-31 15h|2023-11-07 15h|
 |#|lines-guarder-174742|Line's Guarder|8,99€|25|2023-11-26 16h|2023-12-11 16h|
-|#|luckygoal-201ee6|Lucky Goal|4,99€|20|2023-11-07 15h|2023-11-14 15h|
+|#|luckygoal-201ee6|Lucky Goal|4,99€|30|2023-11-07 15h|2023-11-14 15h|
 |#|mable-and-the-wood-9bd697|Mable & The Wood|11,99€|80|2023-10-31 15h|2023-11-07 15h|
 |#|madden-nfl-24|Madden NFL 24|69,99€|35|2023-10-28 15h|2023-11-11 16h|
 |#|mallofmayhem-15344c|Mall of Mayhem|8,99€|17|2024-01-01 07h|2024-01-30 23h|
