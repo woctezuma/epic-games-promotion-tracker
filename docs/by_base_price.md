@@ -58,6 +58,7 @@
 |#|othercide-19bfa0|Othercide|29,99€|80|2023-10-31 16h|2023-11-09 23h|
 |#|snowrunner|SnowRunner|29,99€|50|2023-10-31 16h|2023-11-09 23h|
 |#|sonic-origins|Sonic Origins|29,99€|25|2023-11-21 16h|2023-11-28 16h|
+|#|the-evil-within-2|The Evil Within 2|29,99€|100|2023-10-26 15h|2023-11-02 15h|
 |#|the-surge-2-e7df70|The Surge 2|29,99€|80|2023-10-31 16h|2023-11-09 23h|
 |#|truberbrook|Trüberbrook|29,99€|90|2023-10-25 15h|2023-11-15 16h|
 |#|voidtrain|Voidtrain|29,99€|20|2023-11-14 15h|2023-11-21 15h|
@@ -208,6 +209,7 @@
 |#|outbreak-the-new-nightmare-revisited-90517a|Outbreak The New Nightmare Revisited|8,99€|40|2023-11-08 15h|2023-11-15 15h|
 |#|palladium-adventure-in-greece-f1ee1b|Palladium: Adventure in Greece|8,99€|50|2023-11-21 15h|2023-11-28 15h|
 |#|shrommzzz-426bcd|Shrommzzz|8,99€|50|2023-11-21 15h|2023-11-28 15h|
+|#|tandem-a-tale-of-shadows-c3f55e|Tandem: A Tale of Shadows|8,99€|100|2023-10-26 15h|2023-11-02 15h|
 |#|forest-quartet-5d03e3|The Forest Quartet|8,99€|50|2023-10-31 15h|2023-11-07 15h|
 |#|the-gravehouse-37f09e|The Gravehouse|8,99€|50|2023-10-19 23h|2023-11-04 00h|
 |#|zero-conflict-td-3e5c49|Zero Conflict TD|8,99€|30|2023-11-08 15h|2023-12-08 15h|
