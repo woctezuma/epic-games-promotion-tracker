@@ -49,6 +49,8 @@
 |#|rogue-spirit|Rogue Spirit|19,99€|40|2023-10-25 01h|2023-11-01 23h|
 |#|serial-cleaners|Serial Cleaners|24,99€|70|2023-10-25 01h|2023-11-01 23h|
 |#|stray-blade|Stray Blade|34,99€|60|2023-10-25 01h|2023-11-01 23h|
+|#|tandem-a-tale-of-shadows-c3f55e|Tandem: A Tale of Shadows|8,99€|100|2023-10-26 15h|2023-11-02 15h|
+|#|the-evil-within-2|The Evil Within 2|29,99€|100|2023-10-26 15h|2023-11-02 15h|
 |#|out-of-the-park-baseball-24-eb4cf8|Out of the Park Baseball 24|39,99€|50|2023-10-19 17h|2023-11-02 17h|
 |#|the-gravehouse-37f09e|The Gravehouse|8,99€|50|2023-10-19 23h|2023-11-04 00h|
 |#|covid-carl-7dd371|Covid Carl|3,59€|40|2023-10-29 10h|2023-11-04 10h|
