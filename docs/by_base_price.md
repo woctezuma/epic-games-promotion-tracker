@@ -65,6 +65,7 @@
 |#|roboquest-9ad17a|Roboquest|22,39€|20|2023-11-07 14h|2023-11-14 14h|
 |#|democracy-4|Democracy 4|21,99€|70|2023-10-31 15h|2023-11-07 15h|
 |#|demon-turf|Demon Turf|21,99€|50|2023-10-31 15h|2023-11-07 15h|
+|#|anno-mutationem-ef8b9e|ANNO Mutationem|20,99€|40|2023-11-21 15h|2023-11-28 15h|
 |#|production-line|Production Line|20,99€|70|2023-10-31 15h|2023-11-07 15h|
 |#|big-pharma|Big Pharma|19,99€|70|2023-10-31 15h|2023-11-07 15h|
 |#|curious-expedition-2-8cb901|Curious Expedition 2|19,99€|55|2023-10-23 16h|2023-11-06 17h|
