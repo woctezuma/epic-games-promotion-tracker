@@ -783,6 +783,15 @@
     "title": "FORECLOSED"
   },
   {
+    "discountPercentage": 33,
+    "endDate": "2023-12-05T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3139,
+    "slug": "front-mission-1st-remake-124a24",
+    "startDate": "2023-11-28T15:00:00.000Z",
+    "title": "FRONT MISSION 1st: Remake"
+  },
+  {
     "discountPercentage": 65,
     "endDate": "2023-11-07T15:00:00.000Z",
     "isFree": false,
