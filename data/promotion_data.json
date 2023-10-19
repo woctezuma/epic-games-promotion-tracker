@@ -774,15 +774,6 @@
     "title": "Endling - Extinction is Forever"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2023-10-26T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 1799,
-    "slug": "eternal-threads-197169",
-    "startDate": "2023-10-19T15:00:00.000Z",
-    "title": "Eternal Threads"
-  },
-  {
     "discountPercentage": 25,
     "endDate": "2023-10-31T15:00:00.000Z",
     "isFree": false,
@@ -1296,15 +1287,6 @@
     "title": "LEGO\u00ae Builder's Journey"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2023-10-26T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "laika-3293ee",
-    "startDate": "2023-10-19T15:00:00.000Z",
-    "title": "Laika: Aged Through Blood"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2023-11-22T04:59:00.000Z",
     "isFree": false,
@@ -1368,7 +1350,7 @@
     "title": "Line's Guarder"
   },
   {
-    "discountPercentage": 30,
+    "discountPercentage": 40,
     "endDate": "2023-11-14T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 499,
@@ -2113,15 +2095,6 @@
     "slug": "the-dawning-clocks-of-time-a52f59",
     "startDate": "2023-10-31T15:00:00.000Z",
     "title": "The Dawning Clocks of Time"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2023-10-26T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 1999,
-    "slug": "the-evil-within",
-    "startDate": "2023-10-19T15:00:00.000Z",
-    "title": "The Evil Within"
   },
   {
     "discountPercentage": 100,
