@@ -1,5 +1,14 @@
 [
   {
+    "discountPercentage": 75,
+    "endDate": "2023-10-31T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3399,
+    "slug": "3DMark",
+    "startDate": "2023-10-24T15:00:00.000Z",
+    "title": "3DMark"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-10-30T15:00:00.000Z",
     "isFree": false,
