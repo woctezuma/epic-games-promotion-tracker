@@ -45,6 +45,15 @@
     "title": "ALAN-13 Reformation"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2023-11-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2099,
+    "slug": "anno-mutationem-ef8b9e",
+    "startDate": "2023-11-21T15:00:00.000Z",
+    "title": "ANNO Mutationem"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2023-11-28T15:00:00.000Z",
     "isFree": false,
