@@ -603,6 +603,15 @@
     "title": "Double Cross"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-11-07T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 359,
+    "slug": "dream-magic-will-358429",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "Dream magic will"
+  },
+  {
     "discountPercentage": 55,
     "endDate": "2023-11-11T00:00:00.000Z",
     "isFree": false,
