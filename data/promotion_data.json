@@ -2070,6 +2070,15 @@
     "title": "TV Head: Eight Pages"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2023-11-02T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 899,
+    "slug": "tandem-a-tale-of-shadows-c3f55e",
+    "startDate": "2023-10-26T15:00:00.000Z",
+    "title": "Tandem: A Tale of Shadows"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2023-11-14T15:00:00.000Z",
     "isFree": false,
@@ -2113,6 +2122,15 @@
     "slug": "the-evil-within",
     "startDate": "2023-10-19T15:00:00.000Z",
     "title": "The Evil Within"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2023-11-02T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 2999,
+    "slug": "the-evil-within-2",
+    "startDate": "2023-10-26T15:00:00.000Z",
+    "title": "The Evil Within 2"
   },
   {
     "discountPercentage": 80,
