@@ -24,6 +24,7 @@
 |#|curious-expedition-2-8cb901|Curious Expedition 2|19,99€|55|2023-10-23 16h|2023-11-06 17h|
 |#|lego-bricktales-7ccf9b|LEGO® Bricktales|29,99€|50|2023-10-23 16h|2023-11-06 17h|
 |#|planet-of-lana-a9febe|Planet of Lana|19,99€|25|2023-10-23 18h|2023-11-06 17h|
+|#|3DMark|3DMark|33,99€|75|2023-10-24 15h|2023-10-31 15h|
 |#|above-and-beyond-bundle|Above and Beyond Bundle|29,99€|34|2023-10-24 15h|2023-10-31 15h|
 |#|ad-infinitum|Ad Infinitum|34,99€|30|2023-10-24 15h|2023-10-31 15h|
 |#|aerial-platforms-119f15|Aerial Platforms|5,39€|50|2023-10-24 15h|2023-10-31 15h|
