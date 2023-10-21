@@ -459,15 +459,6 @@
     "title": "Bus World"
   },
   {
-    "discountPercentage": 80,
-    "endDate": "2023-11-19T14:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "cataire-6ce6b7",
-    "startDate": "2023-10-21T13:00:00.000Z",
-    "title": "CATAIRE"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2023-11-09T23:59:00.000Z",
     "isFree": false,
@@ -1420,6 +1411,15 @@
     "slug": "layers-of-fears-85a02b",
     "startDate": "2023-10-28T15:00:00.000Z",
     "title": "Layers of Fear"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2023-10-31T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "liberated-f13008",
+    "startDate": "2023-10-24T15:00:00.000Z",
+    "title": "Liberated"
   },
   {
     "discountPercentage": 50,
@@ -2536,15 +2536,6 @@
     "slug": "zelter-b3640a",
     "startDate": "2023-10-31T15:00:00.000Z",
     "title": "Zelter"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2023-12-08T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 899,
-    "slug": "zero-conflict-td-3e5c49",
-    "startDate": "2023-11-08T15:00:00.000Z",
-    "title": "Zero Conflict TD"
   },
   {
     "discountPercentage": 80,
