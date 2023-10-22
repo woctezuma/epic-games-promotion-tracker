@@ -50,6 +50,7 @@
 |#|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|85|2023-12-21 23h|2023-12-31 11h|
 |#|buddy-and-friends-in-halloween-192190|Buddy and Friends in Halloween|1,99€|30|2023-10-24 15h|2023-10-31 15h|
 |#|bus-world-5de29e|Bus World|17,99€|70|2023-10-31 15h|2023-11-07 15h|
+|#|busway-islands-puzzle-91287d|Busway Islands - Puzzle|2,69€|40|2023-10-24 15h|2023-10-31 15h|
 |#|call-of-cthulhu-8e5446|Call of Cthulhu|19,99€|75|2023-10-31 16h|2023-11-09 23h|
 |#|chants-of-sennaar|Chants of Sennaar|19,99€|20|2023-10-31 16h|2023-11-09 23h|
 |#|chaos-galaxy-a33dac|Chaos Galaxy|13,49€|60|2023-10-31 15h|2023-11-07 15h|
@@ -67,12 +68,10 @@
 |#|cyber-drift-6ac51b|Cyber Drift|6,29€|50|2023-11-02 16h|2023-11-17 16h|
 |#|cyber-hook-064d2c|Cyber Hook|11,99€|80|2023-10-31 15h|2023-11-07 15h|
 |#|death-stranding-directors-cut|DEATH STRANDING DIRECTOR'S CUT|39,99€|50|2023-10-25 01h|2023-11-01 23h|
-|#|deathrun-tv-db074f|DEATHRUN TV|11,99€|75|2023-10-22 00h|2023-10-29 23h|
 |#|disc-room|DISC ROOM|14,99€|67|2023-10-24 15h|2023-10-31 15h|
 |#|dead-age-f46c67|Dead Age|14,99€|90|2023-10-31 15h|2023-11-07 15h|
 |#|dead-space|Dead Space|59,99€|40|2023-10-28 15h|2023-11-11 16h|
 |#|deadlink-6bb676|Deadlink|17,99€|20|2023-10-31 15h|2023-11-07 15h|
-|#|deadwater-saloon-391b9d|Deadwater Saloon|13,49€|65|2023-10-22 14h|2023-11-05 02h|
 |#|deflector-fedbe0|Deflector|17,99€|30|2023-10-31 15h|2023-11-07 15h|
 |#|democracy-4|Democracy 4|21,99€|70|2023-10-31 15h|2023-11-07 15h|
 |#|demon-turf|Demon Turf|21,99€|50|2023-10-31 15h|2023-11-07 15h|
@@ -98,7 +97,6 @@
 |#|extreme-offroad-racing-439263|Extreme Offroad Racing|8,99€|85|2023-11-14 15h|2023-11-21 15h|
 |#|f1-23|F1® 23|69,99€|50|2023-10-28 15h|2023-11-11 16h|
 |#|focus-indies-bundle|FOCUS INDIES BUNDLE: Curse of the Dead Gods + Shady Part of Me + Aeon Must Die!|39,99€|68|2023-10-31 16h|2023-11-09 23h|
-|#|foreclosed|FORECLOSED|16,99€|80|2023-10-22 00h|2023-10-29 23h|
 |#|front-mission-1st-remake-124a24|FRONT MISSION 1st: Remake|31,39€|33|2023-11-28 15h|2023-12-05 15h|
 |#|figment|Figment|19,99€|65|2023-10-31 15h|2023-11-07 15h|
 |#|figment2-creed-valley|Figment 2: Creed Valley|24,99€|45|2023-10-31 15h|2023-11-07 15h|
@@ -154,6 +152,7 @@
 |#|lego-bricktales-7ccf9b|LEGO® Bricktales|29,99€|50|2023-10-23 16h|2023-11-06 17h|
 |#|lego-builders-journey|LEGO® Builder's Journey|16,99€|66|2023-10-24 15h|2023-10-31 15h|
 |#|lake|Lake|19,99€|50|2023-11-15 05h|2023-11-22 04h|
+|#|lamoneo-2fb334|Lamoneo|8,09€|45|2023-10-31 15h|2023-11-07 15h|
 |#|last-day-of-june|Last Day of June|19,99€|75|2023-10-25 01h|2023-11-01 23h|
 |#|layers-of-fears-85a02b|Layers of Fear|29,99€|25|2023-10-28 15h|2023-11-04 15h|
 |#|liberated-f13008|Liberated|15,99€|80|2023-10-24 15h|2023-10-31 15h|
@@ -171,7 +170,6 @@
 |#|mass-effect-legendary-edition|Mass Effect™ Legendary Edition|59,99€|84|2023-10-28 15h|2023-11-11 16h|
 |#|metro-simulator-2-532ff8|Metro Simulator 2|13,49€|70|2023-10-31 15h|2023-11-07 15h|
 |#|miasma-chronicles|Miasma Chronicles|49,99€|60|2023-10-24 15h|2023-10-31 15h|
-|#|monster-harvest-75f018|Monster Harvest|13,99€|75|2023-10-22 00h|2023-10-28 23h|
 |#|mudrunner|MudRunner|19,99€|80|2023-10-31 16h|2023-11-09 23h|
 |#|my-memory-of-us-709675|My Memory of Us|13,99€|77|2023-11-07 15h|2023-11-14 15h|
 |#|my-time-at-portia|My Time At Portia|29,99€|80|2023-10-31 16h|2023-11-09 23h|
@@ -206,6 +204,7 @@
 |#|roboquest-9ad17a|Roboquest|22,39€|20|2023-11-07 14h|2023-11-14 14h|
 |#|rogue-spirit|Rogue Spirit|19,99€|40|2023-10-25 01h|2023-11-01 23h|
 |#|snwbrd-freestyle-snowboarding-2803cf|SNWBRD: Freestyle Snowboarding|26,99€|25|2023-10-29 04h|2023-11-12 16h|
+|#|space-elite-force-a00006|SPACE ELITE FORCE|2,69€|50|2023-11-07 15h|2023-11-14 15h|
 |#|spingun-843f78|SPINGUN|1,79€|50|2023-11-07 15h|2023-11-14 15h|
 |#|star-wars-jedi-fallen-order|STAR WARS Jedi: Fallen Order Standard Edition|39,99€|75|2023-10-28 15h|2023-11-11 16h|
 |#|star-wars-jedi-survivor|STAR WARS Jedi: Survivor™|69,99€|35|2023-10-28 15h|2023-11-11 16h|
@@ -246,6 +245,7 @@
 |#|tank-battle-1944-f7e87a|Tank Battle 1944|7,19€|20|2023-11-07 15h|2023-11-14 15h|
 |#|ten-dates-9a188a|Ten Dates|15,29€|20|2023-11-07 15h|2023-11-14 15h|
 |#|terra-invicta-5bbf09|Terra Invicta|39,99€|30|2023-10-24 15h|2023-10-31 15h|
+|#|the-backroom-project-b6b434|The Backroom Project|8,99€|25|2023-10-31 15h|2023-11-07 15h|
 |#|the-dawning-clocks-of-time-a52f59|The Dawning Clocks of Time|17,99€|85|2023-10-31 15h|2023-11-07 15h|
 |#|the-evil-within-2|The Evil Within 2|29,99€|100|2023-10-26 15h|2023-11-02 15h|
 |#|the-fabled-woods|The Fabled Woods|9,99€|80|2023-11-14 15h|2023-11-21 15h|

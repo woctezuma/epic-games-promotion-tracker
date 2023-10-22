@@ -143,7 +143,6 @@
 |#|liberte-96a5e5|Liberte|17,99€|50|2023-10-31 15h|2023-11-07 15h|
 |#|the-dawning-clocks-of-time-a52f59|The Dawning Clocks of Time|17,99€|85|2023-10-31 15h|2023-11-07 15h|
 |#|zelter-b3640a|Zelter|17,99€|30|2023-10-31 15h|2023-11-07 15h|
-|#|foreclosed|FORECLOSED|16,99€|80|2023-10-22 00h|2023-10-29 23h|
 |#|lego-builders-journey|LEGO® Builder's Journey|16,99€|66|2023-10-24 15h|2023-10-31 15h|
 |#|the-suicide-of-rachel-foster-1dc01b|The Suicide of Rachel Foster|16,99€|90|2023-10-29 04h|2023-11-18 18h|
 |#|elegies-aya-17c3f1|ELEGIES Aya|16,19€|20|2023-10-31 15h|2023-11-07 15h|
@@ -177,12 +176,10 @@
 |#|velone-3c0487|VELONE|14,99€|77|2023-10-29 04h|2023-11-18 18h|
 |#|warpips-57e2c4|Warpips|14,99€|80|2023-10-29 04h|2023-11-18 18h|
 |#|zombie-rollerz-7aa027|Zombie Rollerz: Pinball Heroes|14,99€|80|2023-10-29 04h|2023-11-18 18h|
-|#|monster-harvest-75f018|Monster Harvest|13,99€|75|2023-10-22 00h|2023-10-28 23h|
 |#|my-memory-of-us-709675|My Memory of Us|13,99€|77|2023-11-07 15h|2023-11-14 15h|
 |#|911-operator-585edd|911 Operator|13,49€|50|2023-10-23 14h|2023-10-30 15h|
 |#|alchemist-adventure-fa9fca|Alchemist Adventure|13,49€|60|2023-10-31 15h|2023-11-07 15h|
 |#|chaos-galaxy-a33dac|Chaos Galaxy|13,49€|60|2023-10-31 15h|2023-11-07 15h|
-|#|deadwater-saloon-391b9d|Deadwater Saloon|13,49€|65|2023-10-22 14h|2023-11-05 02h|
 |#|gray-dawn-a0cc44|Gray Dawn|13,49€|25|2023-11-14 15h|2023-11-21 15h|
 |#|metro-simulator-2-532ff8|Metro Simulator 2|13,49€|70|2023-10-31 15h|2023-11-07 15h|
 |#|oirbo-c063b7|Oirbo|13,49€|15|2023-11-14 15h|2023-11-21 15h|
@@ -195,7 +192,6 @@
 |#|aerial-knights-never-yield|Aerial_Knight's Never Yield|11,99€|70|2023-11-07 15h|2023-11-14 15h|
 |#|bite-the-bullet-22fa1f|Bite the Bullet|11,99€|80|2023-10-31 15h|2023-11-07 15h|
 |#|cyber-hook-064d2c|Cyber Hook|11,99€|80|2023-10-31 15h|2023-11-07 15h|
-|#|deathrun-tv-db074f|DEATHRUN TV|11,99€|75|2023-10-22 00h|2023-10-29 23h|
 |#|flame-keeper-fc7a6d|Flame Keeper|11,99€|50|2023-10-31 15h|2023-11-07 15h|
 |#|jars-e39063|JARS|11,99€|75|2023-10-29 04h|2023-11-18 18h|
 |#|joggernauts-a7767f|Joggernauts|11,99€|80|2023-10-31 15h|2023-11-07 15h|
@@ -233,7 +229,9 @@
 |#|palladium-adventure-in-greece-f1ee1b|Palladium: Adventure in Greece|8,99€|50|2023-11-21 15h|2023-11-28 15h|
 |#|shrommzzz-426bcd|Shrommzzz|8,99€|50|2023-11-21 15h|2023-11-28 15h|
 |#|tandem-a-tale-of-shadows-c3f55e|Tandem: A Tale of Shadows|8,99€|100|2023-10-26 15h|2023-11-02 15h|
+|#|the-backroom-project-b6b434|The Backroom Project|8,99€|25|2023-10-31 15h|2023-11-07 15h|
 |#|forest-quartet-5d03e3|The Forest Quartet|8,99€|50|2023-10-31 15h|2023-11-07 15h|
+|#|lamoneo-2fb334|Lamoneo|8,09€|45|2023-10-31 15h|2023-11-07 15h|
 |#|switchball-hd-6d3802|Switchball HD|8,09€|50|2023-11-10 00h|2023-11-27 00h|
 |#|nira-02f6ee|Nira|7,99€|80|2023-10-31 15h|2023-11-07 15h|
 |#|rising-hell-253707|Rising Hell|7,99€|40|2023-11-21 17h|2023-11-28 17h|
@@ -271,9 +269,11 @@
 |#|desktop-girlfriend-neo-136f5a|Desktop Girlfriend NEO|3,59€|22|2023-10-25 04h|2023-10-31 16h|
 |#|dream-magic-will-358429|Dream magic will|3,59€|50|2023-10-31 15h|2023-11-07 15h|
 |#|road-defense-outsiders-22e4ba|Road Defense: Outsiders|2,99€|20|2023-10-31 15h|2023-11-07 15h|
+|#|busway-islands-puzzle-91287d|Busway Islands - Puzzle|2,69€|40|2023-10-24 15h|2023-10-31 15h|
 |#|dolmenjord-viking-islands-965b06|Dolmenjord - Viking Islands|2,69€|30|2023-10-31 15h|2023-11-07 15h|
 |#|fix-me-up-doc-dark-humor-9ebac0|Fix Me Up Doc - Dark Humor|2,69€|80|2023-11-07 15h|2023-11-14 15h|
 |#|gold-rush-classic-34d7d5|Gold Rush! Classic|2,69€|40|2023-11-07 15h|2023-11-14 15h|
+|#|space-elite-force-a00006|SPACE ELITE FORCE|2,69€|50|2023-11-07 15h|2023-11-14 15h|
 |#|buddy-and-friends-in-halloween-192190|Buddy and Friends in Halloween|1,99€|30|2023-10-24 15h|2023-10-31 15h|
 |#|the-last-hope-atomic-bomb-crypto-war-d307f6|Find the Oil Racing Edition|1,79€|90|2023-11-14 15h|2023-11-21 15h|
 |#|island-farmer-ce8ee6|Island Farmer|1,79€|30|2023-11-14 15h|2023-11-21 15h|
