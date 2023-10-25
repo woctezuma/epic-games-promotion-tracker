@@ -148,6 +148,8 @@
 |#|iron-danger-b4320c|Iron Danger|19,98€|90|2023-10-29 04h|2023-11-18 18h|
 |#|shadow-tactics-aikos-choice-5678c1|Shadow Tactics - Aiko's Choice|19,98€|66|2023-10-29 04h|2023-11-18 18h|
 |#|townsmen-a-kingdom-rebuilt-07c09d|Townsmen - A Kingdom Rebuilt|19,98€|75|2023-10-31 15h|2023-11-07 15h|
+|#|kujlevka-9b53bb|Kujlevka|19,50€|30|2023-10-31 15h|2023-11-07 15h|
+|#|kujlevka-9b53bb|Kujlevka|19,50€|35|2023-12-13 16h|2024-01-10 16h|
 |#|art-is-rifle-897224|ART IS RIFLE|17,99€|30|2023-11-21 15h|2023-11-28 15h|
 |#|brok-the-investigator-fb0513|BROK the InvestiGator|17,99€|30|2023-10-31 15h|2023-11-07 15h|
 |#|brok-the-investigator-fb0513|BROK the InvestiGator|17,99€|30|2023-12-13 16h|2024-01-10 16h|
@@ -223,6 +225,8 @@
 |#|joggernauts-a7767f|Joggernauts|11,99€|80|2023-10-31 15h|2023-11-07 15h|
 |#|lilas-sky-ark-610f75|Lila's Sky Ark|11,99€|80|2023-10-31 15h|2023-11-07 15h|
 |#|mable-and-the-wood-9bd697|Mable & The Wood|11,99€|80|2023-10-31 15h|2023-11-07 15h|
+|#|power-to-the-people-dfb0f9|Power to the People|11,99€|45|2023-10-31 15h|2023-11-07 15h|
+|#|power-to-the-people-dfb0f9|Power to the People|11,99€|45|2023-12-13 16h|2024-01-10 16h|
 |#|rez-plz-324485|REZ PLZ|11,99€|80|2023-10-31 15h|2023-11-07 15h|
 |#|restless-soul-d5baed|Restless Soul|11,99€|80|2023-10-31 15h|2023-11-07 15h|
 |#|turnip-boy-commits-tax-evasion-fb2084|Turnip Boy Commits Tax Evasion|11,99€|66|2023-10-31 15h|2023-11-07 15h|
