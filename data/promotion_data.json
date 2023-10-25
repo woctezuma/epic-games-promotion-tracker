@@ -369,6 +369,15 @@
     "title": "BROK the InvestiGator"
   },
   {
+    "discountPercentage": 90,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "bad-rats-show-1b74cf",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Bad Rats Show"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2023-11-11T16:00:00.000Z",
     "isFree": false,
@@ -673,6 +682,15 @@
     "slug": "cryofall-331358",
     "startDate": "2023-10-29T04:00:00.000Z",
     "title": "CryoFall"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "culpa-innata-8997ac",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Culpa Innata"
   },
   {
     "discountPercentage": 65,
@@ -1069,6 +1087,24 @@
     "slug": "flat-heroes-fec628",
     "startDate": "2023-11-07T15:00:00.000Z",
     "title": "Flat Heroes"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "flatout-940461",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Flatout"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "flatout-2-9ffdd6",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Flatout 2"
   },
   {
     "discountPercentage": 85,
@@ -1908,6 +1944,15 @@
     "title": "Prince of Persia: Warrior Within Standard Edition"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "prince-of-qin-3bb44c",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Prince of Qin"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2023-11-07T15:00:00.000Z",
     "isFree": false,
@@ -2428,6 +2473,15 @@
     "slug": "tank-battle-1944-f7e87a",
     "startDate": "2023-11-07T15:00:00.000Z",
     "title": "Tank Battle 1944"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2399,
+    "slug": "tank-warfare-tunisia-1943-62f6e9",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Tank Warfare -  Tunisia 1943"
   },
   {
     "discountPercentage": 45,
