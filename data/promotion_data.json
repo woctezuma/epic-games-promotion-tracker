@@ -540,6 +540,24 @@
     "title": "Bus World"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2023-11-07T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1449,
+    "slug": "cafe-owner-simulator-749e0f",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "Cafe Owner Simulator"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1449,
+    "slug": "cafe-owner-simulator-749e0f",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Cafe Owner Simulator"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2023-11-07T16:00:00.000Z",
     "isFree": false,
@@ -2698,6 +2716,24 @@
     "slug": "urban-tale-75b4f0",
     "startDate": "2023-11-07T15:00:00.000Z",
     "title": "Urban Tale"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-11-07T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1449,
+    "slug": "urbek-city-builder-17cf7d",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "Urbek City Builder"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1449,
+    "slug": "urbek-city-builder-17cf7d",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Urbek City Builder"
   },
   {
     "discountPercentage": 77,
