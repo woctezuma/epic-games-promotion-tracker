@@ -1458,6 +1458,24 @@
     "title": "Kholat"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2023-11-07T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1950,
+    "slug": "kujlevka-9b53bb",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "Kujlevka"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1950,
+    "slug": "kujlevka-9b53bb",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Kujlevka"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-11-22T04:59:00.000Z",
     "isFree": false,
@@ -1843,6 +1861,24 @@
     "slug": "planeticusgame-5dd84a",
     "startDate": "2023-11-28T15:00:00.000Z",
     "title": "Planeticus"
+  },
+  {
+    "discountPercentage": 45,
+    "endDate": "2023-11-07T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "power-to-the-people-dfb0f9",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "Power to the People"
+  },
+  {
+    "discountPercentage": 45,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "power-to-the-people-dfb0f9",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Power to the People"
   },
   {
     "discountPercentage": 80,
