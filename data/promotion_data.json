@@ -729,6 +729,15 @@
     "title": "Deadlink"
   },
   {
+    "discountPercentage": 65,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "deadwater-saloon-391b9d",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Deadwater Saloon"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2023-11-11T16:00:00.000Z",
     "isFree": false,
@@ -2140,6 +2149,15 @@
     "slug": "shop-tycoon-prepare-your-wallet-e705ba",
     "startDate": "2023-10-28T15:00:00.000Z",
     "title": "Shop Tycoon - Prepare Your Wallet"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2899,
+    "slug": "showgunners-cbc083",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Showgunners"
   },
   {
     "discountPercentage": 50,
