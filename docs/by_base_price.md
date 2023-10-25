@@ -191,6 +191,10 @@
 |#|valiant-hearts|Valiant Hearts: The Great War|14,99€|75|2023-11-06 15h|2023-11-12 15h|
 |#|warpips-57e2c4|Warpips|14,99€|80|2023-10-29 04h|2023-11-18 18h|
 |#|zombie-rollerz-7aa027|Zombie Rollerz: Pinball Heroes|14,99€|80|2023-10-29 04h|2023-11-18 18h|
+|#|cafe-owner-simulator-749e0f|Cafe Owner Simulator|14,49€|40|2023-10-31 15h|2023-11-07 15h|
+|#|cafe-owner-simulator-749e0f|Cafe Owner Simulator|14,49€|50|2023-12-13 16h|2024-01-10 16h|
+|#|urbek-city-builder-17cf7d|Urbek City Builder|14,49€|40|2023-10-31 15h|2023-11-07 15h|
+|#|urbek-city-builder-17cf7d|Urbek City Builder|14,49€|40|2023-12-13 16h|2024-01-10 16h|
 |#|my-memory-of-us-709675|My Memory of Us|13,99€|77|2023-11-07 15h|2023-11-14 15h|
 |#|alchemist-adventure-fa9fca|Alchemist Adventure|13,49€|60|2023-10-31 15h|2023-11-07 15h|
 |#|chaos-galaxy-a33dac|Chaos Galaxy|13,49€|60|2023-10-31 15h|2023-11-07 15h|
