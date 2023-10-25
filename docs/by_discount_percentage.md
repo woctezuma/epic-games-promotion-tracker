@@ -169,6 +169,7 @@
 |#|imagine-earth-7498e4|Imagine Earth|24,99€|55|2023-12-13 16h|2024-01-10 16h|
 |#|a-plague-tale-requiem|A Plague Tale: Requiem|49,99€|50|2023-10-31 16h|2023-11-07 16h|
 |#|anno-1701|Anno 1701 History Edition|9,99€|50|2023-11-06 15h|2023-11-12 15h|
+|#|cafe-owner-simulator-749e0f|Cafe Owner Simulator|14,49€|50|2023-12-13 16h|2024-01-10 16h|
 |#|children-of-silentown-52cc21|Children of Silentown|19,99€|50|2023-10-29 04h|2023-11-18 18h|
 |#|crime-boss|Crime Boss: Rockay City|39,99€|50|2023-11-07 15h|2023-11-14 15h|
 |#|cyber-drift-6ac51b|Cyber Drift|6,29€|50|2023-11-02 16h|2023-11-17 16h|
@@ -214,6 +215,7 @@
 |#|anno-mutationem-ef8b9e|ANNO Mutationem|20,99€|40|2023-12-28 16h|2024-01-06 16h|
 |#|assassins-creed-valhalla-watch-dogs-legion-bundle|Assassin’s Creed Valhalla + Watch Dogs: Legion Bundle|109,99€|40|2023-11-06 15h|2023-11-12 15h|
 |#|bramble-the-mountain-king-c0d1c6|Bramble The Mountain King|26,99€|40|2023-10-29 00h|2023-11-05 12h|
+|#|cafe-owner-simulator-749e0f|Cafe Owner Simulator|14,49€|40|2023-10-31 15h|2023-11-07 15h|
 |#|coffee-talk|Coffee Talk|9,99€|40|2023-11-21 17h|2023-11-28 17h|
 |#|covid-carl-7dd371|Covid Carl|3,59€|40|2023-10-29 10h|2023-11-04 10h|
 |#|creepy-tale-058ebd|Creepy Tale|4,49€|40|2023-10-26 17h|2023-11-02 17h|
@@ -232,6 +234,8 @@
 |#|strike-force-kitty-4603e5|StrikeForce Kitty|5,39€|40|2023-10-26 17h|2023-11-02 17h|
 |#|suicide-guy-9f7963|Suicide Guy|7,19€|40|2023-11-07 15h|2023-11-14 15h|
 |#|the-lord-of-the-rings-gollum|The Lord of the Rings - Gollum™|49,99€|40|2023-10-29 04h|2023-11-18 18h|
+|#|urbek-city-builder-17cf7d|Urbek City Builder|14,49€|40|2023-10-31 15h|2023-11-07 15h|
+|#|urbek-city-builder-17cf7d|Urbek City Builder|14,49€|40|2023-12-13 16h|2024-01-10 16h|
 |#|wonhon-a-vengeful-spirit-29e3c1|Wonhon: A Vengeful Spirit|9,89€|40|2023-10-31 15h|2023-11-07 15h|
 |#|five-dates-60ef51|Five Dates|9,99€|35|2023-10-31 15h|2023-11-07 15h|
 |#|horse-club-adventures-19e7a0|HORSE CLUB Adventures|17,99€|35|2023-11-28 15h|2023-12-05 15h|

@@ -59,6 +59,8 @@
 |#|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|80|2023-11-05 23h|2023-11-17 23h|
 |#|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|85|2023-12-21 23h|2023-12-31 11h|
 |#|bus-world-5de29e|Bus World|17,99€|70|2023-10-31 15h|2023-11-07 15h|
+|#|cafe-owner-simulator-749e0f|Cafe Owner Simulator|14,49€|40|2023-10-31 15h|2023-11-07 15h|
+|#|cafe-owner-simulator-749e0f|Cafe Owner Simulator|14,49€|50|2023-12-13 16h|2024-01-10 16h|
 |#|call-of-cthulhu-8e5446|Call of Cthulhu|19,99€|75|2023-10-31 16h|2023-11-07 16h|
 |#|chants-of-sennaar|Chants of Sennaar|19,99€|20|2023-10-31 16h|2023-11-07 16h|
 |#|chaos-galaxy-a33dac|Chaos Galaxy|13,49€|60|2023-10-31 15h|2023-11-07 15h|
@@ -299,6 +301,8 @@
 |#|unrailed-e19729|Unrailed!|19,99€|75|2023-10-29 04h|2023-11-18 18h|
 |#|urban-tale-75b4f0|Urban Tale|12,59€|30|2023-10-31 15h|2023-11-07 15h|
 |#|urban-tale-75b4f0|Urban Tale|12,59€|30|2023-11-07 15h|2023-11-14 15h|
+|#|urbek-city-builder-17cf7d|Urbek City Builder|14,49€|40|2023-10-31 15h|2023-11-07 15h|
+|#|urbek-city-builder-17cf7d|Urbek City Builder|14,49€|40|2023-12-13 16h|2024-01-10 16h|
 |#|valiant-hearts|Valiant Hearts: The Great War|14,99€|75|2023-11-06 15h|2023-11-12 15h|
 |#|vampyr|Vampyr|39,99€|80|2023-10-31 16h|2023-11-07 16h|
 |#|velone-3c0487|VELONE|14,99€|77|2023-10-29 04h|2023-11-18 18h|
