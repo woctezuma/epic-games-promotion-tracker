@@ -774,6 +774,15 @@
     "title": "Call of Cthulhu"
   },
   {
+    "discountPercentage": 25,
+    "endDate": "2023-11-07T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "call-of-the-wild-the-angler",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "Call of the Wild: The Angler\u2122"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2023-11-07T16:00:00.000Z",
     "isFree": false,
@@ -834,6 +843,15 @@
     "originalPrice": 3999,
     "slug": "conan-exiles",
     "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "Conan Exiles"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "conan-exiles",
+    "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Conan Exiles"
   },
   {
@@ -1465,6 +1483,15 @@
     "slug": "fortune-follow-the-mansion-bad0b2",
     "startDate": "2023-11-28T16:00:00.000Z",
     "title": "Fortune Follow: The Mansion"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2799,
+    "slug": "frostpunk",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Frostpunk"
   },
   {
     "discountPercentage": 60,
@@ -2106,6 +2133,15 @@
     "title": "Mia and the Dragon Princess"
   },
   {
+    "discountPercentage": 85,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "moonlighter",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Moonlighter"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -2131,6 +2167,24 @@
     "slug": "mudrunner",
     "startDate": "2023-10-31T16:00:00.000Z",
     "title": "MudRunner"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2023-11-07T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3499,
+    "slug": "mutant-year-zero",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "Mutant Year Zero: Road to Eden"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3499,
+    "slug": "mutant-year-zero",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Mutant Year Zero: Road to Eden"
   },
   {
     "discountPercentage": 77,
@@ -3328,6 +3382,15 @@
     "slug": "the-uncertain-light-at-the-end",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "The Uncertain: Light at the End"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1899,
+    "slug": "this-war-of-mine",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "This War of Mine"
   },
   {
     "discountPercentage": 20,
