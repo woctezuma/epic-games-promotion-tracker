@@ -702,15 +702,6 @@
     "title": "Bramble The Mountain King"
   },
   {
-    "discountPercentage": 70,
-    "endDate": "2023-11-21T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2499,
-    "slug": "breathedge",
-    "startDate": "2023-11-14T15:00:00.000Z",
-    "title": "Breathedge"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2023-11-14T15:00:00.000Z",
     "isFree": false,
@@ -1845,15 +1836,6 @@
     "title": "JARS"
   },
   {
-    "discountPercentage": 35,
-    "endDate": "2023-11-21T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "jack-move-8f3b25",
-    "startDate": "2023-11-14T15:00:00.000Z",
-    "title": "Jack Move"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2023-11-07T15:00:00.000Z",
     "isFree": false,
@@ -2268,15 +2250,6 @@
     "title": "Nira"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2023-11-21T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "nova-lands-4d1788",
-    "startDate": "2023-11-14T15:00:00.000Z",
-    "title": "Nova Lands"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2023-11-28T16:00:00.000Z",
     "isFree": false,
@@ -2527,15 +2500,6 @@
     "slug": "production-line",
     "startDate": "2023-10-31T15:00:00.000Z",
     "title": "Production Line"
-  },
-  {
-    "discountPercentage": 10,
-    "endDate": "2023-11-21T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "quasimorph-6d2b87",
-    "startDate": "2023-11-14T15:00:00.000Z",
-    "title": "Quasimorph"
   },
   {
     "discountPercentage": 30,
@@ -2826,6 +2790,15 @@
     "title": "Scrapnaut"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "secret-doctrine-342083",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Secret Doctrine"
+  },
+  {
     "discountPercentage": 77,
     "endDate": "2023-11-07T15:00:00.000Z",
     "isFree": false,
@@ -3094,15 +3067,6 @@
     "slug": "strike-force-kitty-4603e5",
     "startDate": "2023-10-26T17:00:00.000Z",
     "title": "StrikeForce Kitty"
-  },
-  {
-    "discountPercentage": 45,
-    "endDate": "2023-11-21T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2499,
-    "slug": "suchart-genius-artist-simulator",
-    "startDate": "2023-11-14T15:00:00.000Z",
-    "title": "SuchArt: Genius Artist Simulator"
   },
   {
     "discountPercentage": 40,
@@ -3609,15 +3573,6 @@
     "title": "Trigon: Space Story"
   },
   {
-    "discountPercentage": 60,
-    "endDate": "2023-11-21T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "tunche",
-    "startDate": "2023-11-14T15:00:00.000Z",
-    "title": "Tunche"
-  },
-  {
     "discountPercentage": 20,
     "endDate": "2023-11-01T15:00:00.000Z",
     "isFree": false,
@@ -3751,15 +3706,6 @@
     "slug": "vampyr",
     "startDate": "2023-10-31T16:00:00.000Z",
     "title": "Vampyr"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2023-11-21T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "voidtrain",
-    "startDate": "2023-11-14T15:00:00.000Z",
-    "title": "Voidtrain"
   },
   {
     "discountPercentage": 45,
