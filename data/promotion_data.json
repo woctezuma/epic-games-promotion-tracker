@@ -190,6 +190,15 @@
   },
   {
     "discountPercentage": 80,
+    "endDate": "2023-11-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 599,
+    "slug": "ankh-3-295256",
+    "startDate": "2023-10-30T14:00:00.000Z",
+    "title": "Ankh 3: Battle of the Gods"
+  },
+  {
+    "discountPercentage": 80,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 599,
@@ -322,6 +331,33 @@
     "slug": "are-you-smarter-than-a-5th-grader-bc328a",
     "startDate": "2023-10-31T15:00:00.000Z",
     "title": "Are You Smarter Than A 5th Grader"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2239,
+    "slug": "ash-of-gods-redemption-e0b97d",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Ash of Gods: Redemption"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-11-07T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2450,
+    "slug": "ash-of-gods-the-way-58bd36",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "Ash of Gods: The Way"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2450,
+    "slug": "ash-of-gods-the-way-58bd36",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Ash of Gods: The Way"
   },
   {
     "discountPercentage": 75,
@@ -639,6 +675,15 @@
     "title": "Bad Rats Show"
   },
   {
+    "discountPercentage": 90,
+    "endDate": "2023-11-07T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 359,
+    "slug": "battle-ram-d001fd",
+    "startDate": "2023-10-31T15:00:00.000Z",
+    "title": "Battle Ram"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2023-11-11T16:00:00.000Z",
     "isFree": false,
@@ -691,15 +736,6 @@
     "slug": "biped",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Biped"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2023-11-01T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "birch-simulator-21969e",
-    "startDate": "2023-10-26T16:00:00.000Z",
-    "title": "Birch Simulator"
   },
   {
     "discountPercentage": 80,
@@ -1015,6 +1051,15 @@
     "slug": "curse-of-the-dead-gods",
     "startDate": "2023-10-31T16:00:00.000Z",
     "title": "Curse of the Dead Gods"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-04T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "cursed-castilla-maldita-castilla-ex-adaa43",
+    "startDate": "2023-12-21T17:00:00.000Z",
+    "title": "Cursed Castilla (Maldita Castilla EX)"
   },
   {
     "discountPercentage": 60,
@@ -1591,6 +1636,15 @@
     "slug": "flatout-940461",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Flatout"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2023-11-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "flatout-2-9ffdd6",
+    "startDate": "2023-10-30T14:00:00.000Z",
+    "title": "Flatout 2"
   },
   {
     "discountPercentage": 80,
@@ -2178,15 +2232,6 @@
     "title": "Liberte"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2023-12-26T01:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 449,
-    "slug": "life-after-death-b4e964",
-    "startDate": "2023-12-06T01:00:00.000Z",
-    "title": "Life After Death"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -2509,6 +2554,15 @@
     "slug": "oirbo-c063b7",
     "startDate": "2023-11-14T15:00:00.000Z",
     "title": "Oirbo"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-01-04T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "one-military-camp-8db1f6",
+    "startDate": "2023-12-21T17:00:00.000Z",
+    "title": "One Military Camp"
   },
   {
     "discountPercentage": 20,
@@ -3285,6 +3339,24 @@
     "title": "South Park\u2122: The Stick of Truth\u2122"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2023-11-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 79,
+    "slug": "space-empires-i-02f40b",
+    "startDate": "2023-10-30T14:00:00.000Z",
+    "title": "Space Empires I"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2023-11-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 159,
+    "slug": "space-empires-ii-1fece2",
+    "startDate": "2023-10-30T14:00:00.000Z",
+    "title": "Space Empires II"
+  },
+  {
     "discountPercentage": 90,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -3292,6 +3364,15 @@
     "slug": "space-empires-ii-1fece2",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Space Empires II"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2023-11-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 159,
+    "slug": "space-empires-iii-38e873",
+    "startDate": "2023-10-30T14:00:00.000Z",
+    "title": "Space Empires III"
   },
   {
     "discountPercentage": 80,
@@ -3358,6 +3439,15 @@
   },
   {
     "discountPercentage": 75,
+    "endDate": "2023-11-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "steel-fury-kharkov-1942-cdfbd6",
+    "startDate": "2023-10-30T14:00:00.000Z",
+    "title": "Steel Fury Kharkov 1942"
+  },
+  {
+    "discountPercentage": 75,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 399,
@@ -3420,6 +3510,15 @@
     "title": "Suicide Guy"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-01-04T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "super-hydorah-56d575",
+    "startDate": "2023-12-21T17:00:00.000Z",
+    "title": "Super Hydorah"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -3463,15 +3562,6 @@
     "slug": "tails-of-iron-587abd",
     "startDate": "2023-11-21T15:00:00.000Z",
     "title": "Tails of Iron"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2023-11-02T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 899,
-    "slug": "tandem-a-tale-of-shadows-c3f55e",
-    "startDate": "2023-10-26T15:00:00.000Z",
-    "title": "Tandem: A Tale of Shadows"
   },
   {
     "discountPercentage": 20,
@@ -3598,15 +3688,6 @@
     "slug": "the-eternal-cylinder",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "The Eternal Cylinder"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2023-11-02T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 2999,
-    "slug": "the-evil-within-2",
-    "startDate": "2023-10-26T15:00:00.000Z",
-    "title": "The Evil Within 2"
   },
   {
     "discountPercentage": 80,
