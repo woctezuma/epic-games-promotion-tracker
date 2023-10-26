@@ -121,6 +121,7 @@
 |#|warhammer-age-of-sigmar-storm-ground|Warhammer Age of Sigmar: Storm Ground|19,99€|80|2023-10-31 16h|2023-11-07 16h|
 |#|imagine-earth-7498e4|Imagine Earth|24,99€|55|2023-10-28 23h|2023-11-08 00h|
 |#|europa-universalis-iv|Europa Universalis IV|39,99€|65|2023-10-30 17h|2023-11-08 17h|
+|#|turnip-boy-commits-tax-evasion-fb2084|Turnip Boy Commits Tax Evasion|11,99€|100|2023-11-02 15h|2023-11-09 16h|
 |#|focus-indies-bundle|FOCUS INDIES BUNDLE: Curse of the Dead Gods + Shady Part of Me + Aeon Must Die!|39,99€|68|2023-10-31 16h|2023-11-09 23h|
 |#|mudrunner|MudRunner|19,99€|80|2023-10-31 16h|2023-11-09 23h|
 |#|hitman-3-woa|HITMAN World of Assassination|69,99€|60|2023-11-03 14h|2023-11-10 14h|

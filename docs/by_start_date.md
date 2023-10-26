@@ -169,6 +169,7 @@
 |#|vampyr|Vampyr|39,99€|80|2023-10-31 16h|2023-11-07 16h|
 |#|warhammer-age-of-sigmar-storm-ground|Warhammer Age of Sigmar: Storm Ground|19,99€|80|2023-10-31 16h|2023-11-07 16h|
 |#|skotos-455463|Skotos|5,39€|17|2023-11-01 06h|2023-11-30 23h|
+|#|turnip-boy-commits-tax-evasion-fb2084|Turnip Boy Commits Tax Evasion|11,99€|100|2023-11-02 15h|2023-11-09 16h|
 |#|cyber-drift-6ac51b|Cyber Drift|6,29€|50|2023-11-02 16h|2023-11-17 16h|
 |#|hitman-3-woa|HITMAN World of Assassination|69,99€|60|2023-11-03 14h|2023-11-10 14h|
 |#|ranch-simulator|Ranch Simulator|20,99€|50|2023-11-03 17h|2023-11-10 17h|
