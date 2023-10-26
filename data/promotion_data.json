@@ -144,6 +144,24 @@
     "title": "Aliens: Dark Descent"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "ankh-2-d45050",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Ankh 2: Heart of Osiris"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 599,
+    "slug": "ankh-3-295256",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Ankh 3: Battle of the Gods"
+  },
+  {
     "discountPercentage": 90,
     "endDate": "2023-11-18T18:00:00.000Z",
     "isFree": false,
@@ -801,6 +819,15 @@
     "title": "Children of Silentown"
   },
   {
+    "discountPercentage": 77,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "city-of-gangsters-6c2974",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "City of Gangsters"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2023-12-12T16:00:00.000Z",
     "isFree": false,
@@ -1042,6 +1069,24 @@
     "slug": "deponia-the-complete-journey",
     "startDate": "2023-10-29T04:00:00.000Z",
     "title": "Deponia: The Complete Journey"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 499,
+    "slug": "disciples-rise-of-the-elves-gold-669f54",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Disciples Rise of the Elves Gold"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "disciples-sacred-lands-gold-6bf43b",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Disciples Sacred Lands Gold"
   },
   {
     "discountPercentage": 60,
@@ -1357,6 +1402,15 @@
     "slug": "figment2-creed-valley",
     "startDate": "2023-10-31T15:00:00.000Z",
     "title": "Figment 2: Creed Valley"
+  },
+  {
+    "discountPercentage": 78,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1699,
+    "slug": "filament-332a92",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Filament"
   },
   {
     "discountPercentage": 90,
@@ -1735,6 +1789,15 @@
     "slug": "im-looking-for-3024-people-1cdae4",
     "startDate": "2023-12-02T22:00:00.000Z",
     "title": "I'm looking for 3024 people"
+  },
+  {
+    "discountPercentage": 43,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3499,
+    "slug": "ixion-88cda4",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "IXION"
   },
   {
     "discountPercentage": 55,
@@ -2502,6 +2565,15 @@
     "title": "Production Line"
   },
   {
+    "discountPercentage": 82,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "project-highrise-a567e8",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Project Highrise"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -2563,6 +2635,15 @@
     "slug": "rayman-origins",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Rayman Origins"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1699,
+    "slug": "recipe-for-disaster-83726f",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Recipe for Disaster"
   },
   {
     "discountPercentage": 30,
@@ -2799,6 +2880,15 @@
     "title": "Secret Doctrine"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 629,
+    "slug": "secret-of-dream-947b85",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Secret of Dream"
+  },
+  {
     "discountPercentage": 77,
     "endDate": "2023-11-07T15:00:00.000Z",
     "isFree": false,
@@ -3006,6 +3096,42 @@
     "title": "South Park\u2122: The Stick of Truth\u2122"
   },
   {
+    "discountPercentage": 90,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 159,
+    "slug": "space-empires-ii-1fece2",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Space Empires II"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 159,
+    "slug": "space-empires-iii-38e873",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Space Empires III"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "space-empires-iv-74dacf",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Space Empires IV"
+  },
+  {
+    "discountPercentage": 85,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "space-empires-v-0319fd",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Space Empires V"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-11-07T15:00:00.000Z",
     "isFree": false,
@@ -3042,6 +3168,15 @@
     "title": "Splinter Cell Chaos Theory"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "steel-fury-kharkov-1942-cdfbd6",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Steel Fury Kharkov 1942"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2023-11-07T15:00:00.000Z",
     "isFree": false,
@@ -3076,6 +3211,15 @@
     "slug": "suicide-guy-9f7963",
     "startDate": "2023-11-07T15:00:00.000Z",
     "title": "Suicide Guy"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "sweet-dreams-alex-7c602d",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Sweet Dreams Alex"
   },
   {
     "discountPercentage": 50,
@@ -3715,6 +3859,15 @@
     "slug": "wild-hearts",
     "startDate": "2023-10-28T15:00:00.000Z",
     "title": "WILD HEARTS\u2122 Standard Edition"
+  },
+  {
+    "discountPercentage": 85,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "warhammer-mechanicus-0e4b71",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Warhammer 40,000: Mechanicus - Standard Edition"
   },
   {
     "discountPercentage": 80,
