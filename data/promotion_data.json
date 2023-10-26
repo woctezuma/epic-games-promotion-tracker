@@ -1,5 +1,14 @@
 [
   {
+    "discountPercentage": 20,
+    "endDate": "2023-12-05T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "1775-rebellion-aa5b41",
+    "startDate": "2023-11-28T15:00:00.000Z",
+    "title": "1775 Rebellion"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2023-11-07T16:00:00.000Z",
     "isFree": false,
@@ -601,6 +610,15 @@
     "slug": "children-of-silentown-52cc21",
     "startDate": "2023-10-29T04:00:00.000Z",
     "title": "Children of Silentown"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-12-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 719,
+    "slug": "civil-war-gettysburg-a557a0",
+    "startDate": "2023-12-05T16:00:00.000Z",
+    "title": "Civil War Gettysburg"
   },
   {
     "discountPercentage": 20,
@@ -2482,6 +2500,15 @@
     "slug": "tank-battle-1944-f7e87a",
     "startDate": "2023-11-07T15:00:00.000Z",
     "title": "Tank Battle 1944"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-12-05T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 719,
+    "slug": "tank-battle-north-africa-552efe",
+    "startDate": "2023-11-28T15:00:00.000Z",
+    "title": "Tank Battle North Africa"
   },
   {
     "discountPercentage": 70,
