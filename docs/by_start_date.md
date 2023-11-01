@@ -6,6 +6,7 @@
 |#|hitman-3-woa|HITMAN World of Assassination|69,99€|60|2023-11-03 14h|2023-11-10 14h|
 |#|ranch-simulator|Ranch Simulator|20,99€|50|2023-11-03 17h|2023-11-10 17h|
 |#|a-knights-quest|A Knights Quest|24,99€|90|2023-11-03 18h|2023-11-18 18h|
+|#|delicious-dungeon-eee7e6|Delicious Dungeon|12,59€|15|2023-11-03 18h|2023-11-10 17h|
 |#|for-the-king|For The King|19,99€|75|2023-11-03 18h|2023-11-18 18h|
 |#|hue|Hue|11,99€|80|2023-11-03 18h|2023-11-18 18h|
 |#|just-die-already|Just Die Already|13,99€|70|2023-11-03 18h|2023-11-18 18h|
