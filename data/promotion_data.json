@@ -36,6 +36,15 @@
     "title": "7 Billion Humans"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2023-11-21T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "a-good-snowman-is-hard-to-build",
+    "startDate": "2023-11-14T15:00:00.000Z",
+    "title": "A Good Snowman is Hard to Build"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -52,6 +61,15 @@
     "slug": "a-knights-quest",
     "startDate": "2023-11-03T18:00:00.000Z",
     "title": "A Knights Quest"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-11-21T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2239,
+    "slug": "a-monsters-expedition",
+    "startDate": "2023-11-14T15:00:00.000Z",
+    "title": "A Monster's Expedition"
   },
   {
     "discountPercentage": 25,
@@ -97,6 +115,15 @@
     "slug": "absolute-drift",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Absolute Drift"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "access-denied-escape-1d486e",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Access Denied Escape"
   },
   {
     "discountPercentage": 30,
@@ -747,6 +774,15 @@
     "title": "BoltBreak"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-11-21T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "bonfire-peaks",
+    "startDate": "2023-11-14T15:00:00.000Z",
+    "title": "Bonfire Peaks"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2023-11-28T15:00:00.000Z",
     "isFree": false,
@@ -808,6 +844,15 @@
     "slug": "bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b",
     "startDate": "2023-12-21T23:00:00.000Z",
     "title": "Bud Spencer and Terence Hill - Slaps and Beans"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "bugsnax",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Bugsnax"
   },
   {
     "discountPercentage": 50,
@@ -900,6 +945,15 @@
     "title": "Conan Exiles"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2023-11-21T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "cosmic-express",
+    "startDate": "2023-11-14T15:00:00.000Z",
+    "title": "Cosmic Express"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-11-14T15:00:00.000Z",
     "isFree": false,
@@ -979,15 +1033,6 @@
     "slug": "death-trash",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Death Trash"
-  },
-  {
-    "discountPercentage": 25,
-    "endDate": "2023-11-10T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1799,
-    "slug": "delicious-dungeon-eee7e6",
-    "startDate": "2023-11-03T18:00:00.000Z",
-    "title": "Delicious Dungeon"
   },
   {
     "discountPercentage": 50,
@@ -1089,6 +1134,15 @@
     "title": "Down in Bermuda"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "drawful-2",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Drawful 2"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2023-11-06T23:00:00.000Z",
     "isFree": false,
@@ -1168,15 +1222,6 @@
     "slug": "extreme-offroad-racing-439263",
     "startDate": "2023-11-14T15:00:00.000Z",
     "title": "Extreme Offroad Racing"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2023-11-09T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 2999,
-    "slug": "fist-forged-in-shadow-torch",
-    "startDate": "2023-11-02T15:00:00.000Z",
-    "title": "F.I.S.T.: Forged In Shadow Torch"
   },
   {
     "discountPercentage": 80,
@@ -1402,6 +1447,15 @@
     "slug": "forest-grove-6b05cf",
     "startDate": "2023-11-28T13:00:00.000Z",
     "title": "Forest Grove"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-11-14T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 719,
+    "slug": "forklift-simulator-2023-b1d538",
+    "startDate": "2023-11-07T15:00:00.000Z",
+    "title": "Forklift Simulator 2023"
   },
   {
     "discountPercentage": 50,
@@ -1773,6 +1827,15 @@
     "title": "Island Farmer"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2299,
+    "slug": "jackbox-party-pack-3",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Jackbox Party Pack 3"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -1972,11 +2035,20 @@
   },
   {
     "discountPercentage": 40,
-    "endDate": "2023-11-14T15:00:00.000Z",
+    "endDate": "2023-11-13T00:00:00.000Z",
     "isFree": false,
     "originalPrice": 499,
     "slug": "luckygoal-201ee6",
-    "startDate": "2023-11-07T15:00:00.000Z",
+    "startDate": "2023-11-07T00:00:00.000Z",
+    "title": "Lucky Goal"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 499,
+    "slug": "luckygoal-201ee6",
+    "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Lucky Goal"
   },
   {
@@ -2068,15 +2140,6 @@
     "slug": "martian-invaders-2bc51f",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Martian Invaders"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2023-11-12T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "marvels-guardians-of-the-galaxy",
-    "startDate": "2023-10-31T17:00:00.000Z",
-    "title": "Marvel's Guardians of the Galaxy"
   },
   {
     "discountPercentage": 75,
@@ -2178,15 +2241,6 @@
     "title": "Mutant Year Zero: Road to Eden"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2023-11-07T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 989,
-    "slug": "my-demon-wife-0d2461",
-    "startDate": "2023-10-31T17:00:00.000Z",
-    "title": "My Demon Wife"
-  },
-  {
     "discountPercentage": 85,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -2194,6 +2248,15 @@
     "slug": "my-memory-of-us-709675",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "My Memory of Us"
+  },
+  {
+    "discountPercentage": 33,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2699,
+    "slug": "mythforce-d2710b",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "MythForce"
   },
   {
     "discountPercentage": 40,
@@ -2275,6 +2338,15 @@
     "slug": "one-military-camp-8db1f6",
     "startDate": "2023-12-21T17:00:00.000Z",
     "title": "One Military Camp"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "one-more-dungeon-2-532228",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "One More Dungeon 2"
   },
   {
     "discountPercentage": 60,
@@ -2628,6 +2700,15 @@
     "title": "Retro Racers 2"
   },
   {
+    "discountPercentage": 66,
+    "endDate": "2024-01-05T18:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2465,
+    "slug": "reyna-darkness-0e1bb8",
+    "startDate": "2023-12-06T18:00:00.000Z",
+    "title": "Reyna Darkness"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2023-11-12T15:00:00.000Z",
     "isFree": false,
@@ -2653,15 +2734,6 @@
     "slug": "rise-of-industry-0af838",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Rise of Industry"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2023-11-12T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "rise-of-the-tomb-raider",
-    "startDate": "2023-10-31T17:00:00.000Z",
-    "title": "Rise of the Tomb Raider: 20 Year Celebration"
   },
   {
     "discountPercentage": 80,
@@ -2707,6 +2779,15 @@
     "slug": "rogue-legacy-2",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Rogue Legacy 2"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2449,
+    "slug": "season",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "SEASON\u00ae: A letter to the future"
   },
   {
     "discountPercentage": 50,
@@ -2827,15 +2908,6 @@
   },
   {
     "discountPercentage": 75,
-    "endDate": "2023-11-12T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "shadow-of-the-tomb-raider",
-    "startDate": "2023-10-31T17:00:00.000Z",
-    "title": "Shadow of the Tomb Raider: Definitive Edition"
-  },
-  {
-    "discountPercentage": 75,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 3999,
@@ -2869,15 +2941,6 @@
     "slug": "sir-whoopass-757c5c",
     "startDate": "2023-11-10T18:00:00.000Z",
     "title": "Sir Whoopass - Immortal Death"
-  },
-  {
-    "discountPercentage": 17,
-    "endDate": "2023-11-30T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 539,
-    "slug": "skotos-455463",
-    "startDate": "2023-11-01T06:00:00.000Z",
-    "title": "Skotos"
   },
   {
     "discountPercentage": 16,
@@ -2914,6 +2977,15 @@
     "slug": "smalland",
     "startDate": "2023-11-05T01:00:00.000Z",
     "title": "Smalland: Survive the Wilds"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-11-21T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "sokobond",
+    "startDate": "2023-11-14T15:00:00.000Z",
+    "title": "Sokobond"
   },
   {
     "discountPercentage": 70,
@@ -3321,15 +3393,6 @@
     "title": "Ten Dates"
   },
   {
-    "discountPercentage": 34,
-    "endDate": "2023-11-08T12:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2699,
-    "slug": "tennis-elbow-manager-2-17a1a0",
-    "startDate": "2023-11-01T12:00:00.000Z",
-    "title": "Tennis Elbow Manager 2"
-  },
-  {
     "discountPercentage": 40,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -3445,6 +3508,87 @@
     "slug": "the-isle-tide-hotel-adf588",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "The Isle Tide Hotel"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2299,
+    "slug": "jackbox-party-pack-1",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "The Jackbox Party Pack"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3499,
+    "slug": "the-jackbox-party-pack-10-c6f152",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "The Jackbox Party Pack 10"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2299,
+    "slug": "jackbox-party-pack-2",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "The Jackbox Party Pack 2"
+  },
+  {
+    "discountPercentage": 45,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2299,
+    "slug": "jackbox-party-pack-4",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "The Jackbox Party Pack 4"
+  },
+  {
+    "discountPercentage": 45,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "jackbox-party-pack-5",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "The Jackbox Party Pack 5"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "jackbox-party-pack-6",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "The Jackbox Party Pack 6"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2399,
+    "slug": "jackbox-party-pack-7",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "The Jackbox Party Pack 7"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2399,
+    "slug": "jackbox-party-pack-8",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "The Jackbox Party Pack 8"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "jackbox-party-pack-9",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "The Jackbox Party Pack 9"
   },
   {
     "discountPercentage": 80,
@@ -3763,15 +3907,6 @@
   },
   {
     "discountPercentage": 80,
-    "endDate": "2023-11-12T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "tomb-raider",
-    "startDate": "2023-10-31T17:00:00.000Z",
-    "title": "Tomb Raider GAME OF THE YEAR EDITION"
-  },
-  {
-    "discountPercentage": 80,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1999,
@@ -3796,6 +3931,15 @@
     "slug": "tortuga-a-pirates-tale-e02635",
     "startDate": "2023-11-06T16:00:00.000Z",
     "title": "Tortuga - A Pirate's Tale"
+  },
+  {
+    "discountPercentage": 85,
+    "endDate": "2023-11-27T18:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "mistborn-tower-defense-2816ff",
+    "startDate": "2023-11-24T18:00:00.000Z",
+    "title": "Tower Defense 3D Fusion"
   },
   {
     "discountPercentage": 60,
