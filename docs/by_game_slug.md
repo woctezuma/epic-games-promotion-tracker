@@ -127,7 +127,6 @@
 |#|double-cross-08a736|Double Cross|15,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|down-in-bermuda|Down in Bermuda|15,99€|90|2023-12-13 16h|2024-01-10 16h|
 |#|drawful-2|Drawful 2|9,99€|50|2023-12-13 16h|2024-01-10 16h|
-|#|dude-where-is-my-beer-2455aa|Dude, Where Is My Beer?|13,49€|25|2023-11-01 17h|2023-11-06 23h|
 |#|dungeons-3|Dungeons 3|29,99€|75|2023-11-06 16h|2023-11-12 16h|
 |#|dungeons-3|Dungeons 3|29,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|effie-f06e3c|Effie|16,79€|75|2023-12-13 16h|2024-01-10 16h|

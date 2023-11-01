@@ -269,7 +269,6 @@
 |#|cosmic-express|Cosmic Express|13,49€|75|2023-11-14 15h|2023-11-21 15h|
 |#|deadwater-saloon-391b9d|Deadwater Saloon|13,49€|65|2023-12-13 16h|2024-01-10 16h|
 |#|doors-paradox-5896c7|Doors - Paradox|13,49€|40|2023-12-13 16h|2024-01-10 16h|
-|#|dude-where-is-my-beer-2455aa|Dude, Where Is My Beer?|13,49€|25|2023-11-01 17h|2023-11-06 23h|
 |#|falling-out-cb0814|Falling Out|13,49€|50|2023-12-13 16h|2024-01-10 16h|
 |#|game-dev-masters-f5d8f9|Game Dev Masters|13,49€|50|2023-11-14 15h|2023-11-21 15h|
 |#|gray-dawn-a0cc44|Gray Dawn|13,49€|25|2023-11-14 15h|2023-11-21 15h|

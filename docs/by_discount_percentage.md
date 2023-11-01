@@ -426,7 +426,6 @@
 |#|ash-of-gods-the-way-58bd36|Ash of Gods: The Way|24,50€|25|2023-12-13 16h|2024-01-10 16h|
 |#|curse-of-the-sea-rats-8f28b1|Curse of the Sea Rats|17,99€|25|2023-12-13 16h|2024-01-10 16h|
 |#|doki-doki-literature-club-plus|Doki Doki Literature Club Plus!|12,49€|25|2023-12-13 16h|2024-01-10 16h|
-|#|dude-where-is-my-beer-2455aa|Dude, Where Is My Beer?|13,49€|25|2023-11-01 17h|2023-11-06 23h|
 |#|ghostbusters-spirits-unleashed |Ghostbusters: Spirits Unleashed Ecto Edition|17,99€|25|2023-12-13 16h|2024-01-10 16h|
 |#|gray-dawn-a0cc44|Gray Dawn|13,49€|25|2023-11-14 15h|2023-11-21 15h|
 |#|lines-guarder-174742|Line's Guarder|8,99€|25|2023-11-26 16h|2023-12-11 16h|
