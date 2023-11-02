@@ -393,7 +393,6 @@
 |#|universe-sandbox|Universe Sandbox|28,99€|33|2023-12-13 16h|2024-01-10 16h|
 |#|vagrus-the-riven-realms-c635d5|Vagrus - The Riven Realms|26,99€|33|2023-11-07 15h|2023-11-14 15h|
 |#|a-heros-rest-67f117|A Hero's Rest: An RPG Town Simulator|24,50€|30|2023-12-13 16h|2024-01-10 16h|
-|#|achilles-legends-untold-bb77ad|Achilles Legends Untold|22,99€|30|2023-11-02 13h|2023-11-16 11h|
 |#|brok-the-investigator-fb0513|BROK the InvestiGator|17,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|boxville-2b75d3|Boxville|8,99€|30|2023-11-21 15h|2023-11-28 15h|
 |#|brick-breaker-premium-f28b1e|Brick Breaker Premium|0,89€|30|2023-12-13 16h|2024-01-10 16h|

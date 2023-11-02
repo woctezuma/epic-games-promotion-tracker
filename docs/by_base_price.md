@@ -142,7 +142,6 @@
 |#|the-eternal-cylinder|The Eternal Cylinder|23,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|jackbox-party-pack-7|The Jackbox Party Pack 7|23,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|jackbox-party-pack-8|The Jackbox Party Pack 8|23,99€|40|2023-12-13 16h|2024-01-10 16h|
-|#|achilles-legends-untold-bb77ad|Achilles Legends Untold|22,99€|30|2023-11-02 13h|2023-11-16 11h|
 |#|jackbox-party-pack-3|Jackbox Party Pack 3|22,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|jackbox-party-pack-1|The Jackbox Party Pack|22,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|jackbox-party-pack-2|The Jackbox Party Pack 2|22,99€|50|2023-12-13 16h|2024-01-10 16h|
