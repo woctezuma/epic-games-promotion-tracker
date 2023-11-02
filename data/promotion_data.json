@@ -1017,6 +1017,15 @@
     "title": "Cyber Hook"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2239,
+    "slug": "dinosaurs-mision-dino-camp-acded6",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "DINOSAURS: Mission Dino Camp"
+  },
+  {
     "discountPercentage": 65,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -1998,6 +2007,15 @@
     "title": "Liberte"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2023-12-22T01:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "life-after-death-b4e964",
+    "startDate": "2023-12-02T01:00:00.000Z",
+    "title": "Life After Death"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -2851,6 +2869,15 @@
     "slug": "saboteur-f3d01d",
     "startDate": "2023-11-28T15:00:00.000Z",
     "title": "Saboteur!"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "sailingera-450a80",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Sailing Era"
   },
   {
     "discountPercentage": 67,
