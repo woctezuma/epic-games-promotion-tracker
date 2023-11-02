@@ -318,7 +318,6 @@
 |#|space-empires-v-0319fd|Space Empires V|11,99€|85|2023-12-13 16h|2024-01-10 16h|
 |#|tavern-master-ee18ab|Tavern Master|11,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|they-always-run-965bb3|They Always Run|11,99€|55|2023-12-13 16h|2024-01-10 16h|
-|#|turnip-boy-commits-tax-evasion-fb2084|Turnip Boy Commits Tax Evasion|11,99€|100|2023-11-02 15h|2023-11-09 16h|
 |#|turnip-boy-commits-tax-evasion-fb2084|Turnip Boy Commits Tax Evasion|11,99€|66|2023-12-13 16h|2024-01-10 16h|
 |#|scrapnaut|Scrapnaut|10,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|anno-1701|Anno 1701 History Edition|9,99€|50|2023-11-06 15h|2023-11-12 15h|
@@ -417,7 +416,6 @@
 |#|tank-battle-north-africa-552efe|Tank Battle North Africa|7,19€|20|2023-11-28 15h|2023-12-05 15h|
 |#|superbrothers-sword-and-sworcery-ep|Superbrothers: Sword & Sworcery EP|6,99€|60|2023-11-21 15h|2023-11-28 15h|
 |#|wall-world-02e132|Wall World|6,89€|25|2023-12-13 16h|2024-01-10 16h|
-|#|cyber-drift-6ac51b|Cyber Drift|6,29€|50|2023-11-02 16h|2023-11-17 16h|
 |#|i-want-to-be-alive-0fcb6e|I Want to be Alive|6,29€|40|2023-12-13 16h|2024-01-10 16h|
 |#|planeticusgame-5dd84a|Planeticus|6,29€|15|2023-12-13 16h|2024-01-10 16h|
 |#|secret-of-dream-947b85|Secret of Dream|6,29€|80|2023-12-13 16h|2024-01-10 16h|
@@ -479,6 +477,7 @@
 |#|vectoroids-e30c27|Vectoroids|1,79€|30|2023-12-13 16h|2024-01-10 16h|
 |#|space-empires-ii-1fece2|Space Empires II|1,59€|90|2023-12-13 16h|2024-01-10 16h|
 |#|space-empires-iii-38e873|Space Empires III|1,59€|80|2023-12-13 16h|2024-01-10 16h|
+|#|anonymous-hunting-simulator-5eac14|ANONYMOUS HUNTING SIMULATOR|0,89€|30|2023-11-10 10h|2023-11-16 10h|
 |#|brick-breaker-premium-f28b1e|Brick Breaker Premium|0,89€|30|2023-12-13 16h|2024-01-10 16h|
 |#|brick-breaker-premium-2-bede72|Brick Breaker Premium 2|0,89€|30|2023-12-13 16h|2024-01-10 16h|
 |#|brick-breaker-premium-3-2ae7ce|Brick Breaker Premium 3|0,89€|30|2023-12-13 16h|2024-01-10 16h|

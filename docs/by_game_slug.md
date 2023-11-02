@@ -27,6 +27,7 @@
 |#|anno-mutationem-ef8b9e|ANNO Mutationem|20,99€|40|2023-11-21 15h|2023-11-28 15h|
 |#|anno-mutationem-ef8b9e|ANNO Mutationem|20,99€|40|2023-12-28 16h|2024-01-06 16h|
 |#|anodyne-2-return-to-dust|Anodyne 2: Return To Dust|16,79€|60|2023-12-13 16h|2024-01-10 16h|
+|#|anonymous-hunting-simulator-5eac14|ANONYMOUS HUNTING SIMULATOR|0,89€|30|2023-11-10 10h|2023-11-16 10h|
 |#|apotheorasis-a33e73|Apotheorasis • Lab of the Blind Gods|9,75€|45|2023-12-13 16h|2024-01-10 16h|
 |#|arcadegeddon|Arcadegeddon|13,49€|50|2023-12-13 16h|2024-01-10 16h|
 |#|arcrunner-61fee6|ArcRunner|19,99€|20|2023-12-13 16h|2024-01-10 16h|
@@ -110,7 +111,6 @@
 |#|curse-of-the-sea-rats-8f28b1|Curse of the Sea Rats|17,99€|25|2023-12-13 16h|2024-01-10 16h|
 |#|cursed-castilla-maldita-castilla-ex-adaa43|Cursed Castilla (Maldita Castilla EX)|11,99€|50|2023-12-21 17h|2024-01-04 17h|
 |#|cyanide-happiness-freakpocalypse|Cyanide & Happiness - Freakpocalypse (Episode 1)|15,99€|60|2023-12-13 16h|2024-01-10 16h|
-|#|cyber-drift-6ac51b|Cyber Drift|6,29€|50|2023-11-02 16h|2023-11-17 16h|
 |#|cyber-hook-064d2c|Cyber Hook|11,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|deadwater-saloon-391b9d|Deadwater Saloon|13,49€|65|2023-12-13 16h|2024-01-10 16h|
 |#|death-trash|Death Trash|19,99€|20|2023-12-13 16h|2024-01-10 16h|
@@ -459,7 +459,6 @@
 |#|trivia-king-982cec|Trivia King|0,89€|30|2023-12-13 16h|2024-01-10 16h|
 |#|tropico-5|Tropico 5|19,99€|50|2023-11-06 16h|2023-11-12 16h|
 |#|tropico-6|Tropico 6|39,99€|60|2023-11-06 16h|2023-11-12 16h|
-|#|turnip-boy-commits-tax-evasion-fb2084|Turnip Boy Commits Tax Evasion|11,99€|100|2023-11-02 15h|2023-11-09 16h|
 |#|turnip-boy-commits-tax-evasion-fb2084|Turnip Boy Commits Tax Evasion|11,99€|66|2023-12-13 16h|2024-01-10 16h|
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2023-11-11 22h|2023-11-29 22h|
 |#|ugly-da09b2|Ugly|17,99€|25|2023-12-13 16h|2024-01-10 16h|
