@@ -99,6 +99,15 @@
     "title": "ANNO Mutationem"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2023-11-16T10:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "anonymous-hunting-simulator-5eac14",
+    "startDate": "2023-11-10T10:00:00.000Z",
+    "title": "ANONYMOUS HUNTING SIMULATOR"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -988,15 +997,6 @@
     "slug": "cyanide-happiness-freakpocalypse",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Cyanide & Happiness - Freakpocalypse (Episode 1)"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2023-11-17T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 629,
-    "slug": "cyber-drift-6ac51b",
-    "startDate": "2023-11-02T16:00:00.000Z",
-    "title": "Cyber Drift"
   },
   {
     "discountPercentage": 80,
@@ -4120,15 +4120,6 @@
     "slug": "tropico-6",
     "startDate": "2023-11-06T16:00:00.000Z",
     "title": "Tropico 6"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2023-11-09T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 1199,
-    "slug": "turnip-boy-commits-tax-evasion-fb2084",
-    "startDate": "2023-11-02T15:00:00.000Z",
-    "title": "Turnip Boy Commits Tax Evasion"
   },
   {
     "discountPercentage": 66,
