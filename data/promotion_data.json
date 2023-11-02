@@ -1233,6 +1233,15 @@
     "title": "Extreme Offroad Racing"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "fist-forged-in-shadow-torch",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "F.I.S.T.: Forged In Shadow Torch"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -2968,6 +2977,15 @@
     "slug": "shadow-of-the-tomb-raider",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Shadow of the Tomb Raider: Definitive Edition"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-12-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "sherlock-holmes-the-awakened",
+    "startDate": "2023-12-05T16:00:00.000Z",
+    "title": "Sherlock Holmes The Awakened"
   },
   {
     "discountPercentage": 40,
