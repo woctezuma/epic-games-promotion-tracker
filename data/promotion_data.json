@@ -54,15 +54,6 @@
     "title": "A Hero's Rest: An RPG Town Simulator"
   },
   {
-    "discountPercentage": 90,
-    "endDate": "2023-11-18T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2499,
-    "slug": "a-knights-quest",
-    "startDate": "2023-11-03T18:00:00.000Z",
-    "title": "A Knights Quest"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2023-11-21T15:00:00.000Z",
     "isFree": false,
@@ -310,7 +301,7 @@
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1999,
-    "slug": "fc0b6335d0df49d5a5376fa29d50a60e",
+    "slug": "arcrunner-61fee6",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "ArcRunner"
   },
@@ -666,6 +657,15 @@
     "title": "BROK the InvestiGator"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-11-25T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "backrooms-doors-248a0f",
+    "startDate": "2023-11-07T22:00:00.000Z",
+    "title": "Backrooms Doors"
+  },
+  {
     "discountPercentage": 90,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -736,6 +736,15 @@
     "slug": "biped",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Biped"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-12-25T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "birch-simulator-21969e",
+    "startDate": "2023-12-03T22:00:00.000Z",
+    "title": "Birch Simulator"
   },
   {
     "discountPercentage": 80,
@@ -955,6 +964,24 @@
   },
   {
     "discountPercentage": 50,
+    "endDate": "2023-11-27T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "car-mechanic-city-driving-4996c5",
+    "startDate": "2023-11-07T22:00:00.000Z",
+    "title": "Car Mechanic - City Driving"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-11-21T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 79,
+    "slug": "car-tuning-simulator-38ddaf",
+    "startDate": "2023-11-07T22:00:00.000Z",
+    "title": "Car Tuning Simulator"
+  },
+  {
+    "discountPercentage": 50,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 899,
@@ -997,6 +1024,15 @@
     "slug": "child-of-light",
     "startDate": "2023-11-21T16:00:00.000Z",
     "title": "Child of Light: Ultimate Edition"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "choochoo-charles-0eece5",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Choo-Choo Charles"
   },
   {
     "discountPercentage": 77,
@@ -1051,6 +1087,15 @@
     "slug": "conan-exiles",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Conan Exiles"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-11-14T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2399,
+    "slug": "conway-disappearance-5d6354",
+    "startDate": "2023-11-07T15:00:00.000Z",
+    "title": "Conway: Disappearance at Dahlia View"
   },
   {
     "discountPercentage": 75,
@@ -1150,15 +1195,6 @@
     "slug": "death-trash",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Death Trash"
-  },
-  {
-    "discountPercentage": 15,
-    "endDate": "2023-11-10T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1259,
-    "slug": "delicious-dungeon-eee7e6",
-    "startDate": "2023-11-03T18:00:00.000Z",
-    "title": "Delicious Dungeon"
   },
   {
     "discountPercentage": 50,
@@ -1276,6 +1312,15 @@
     "slug": "drawful-2",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Drawful 2"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "druidstone-0697f7",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Druidstone: The Secret of the Menhir Forest"
   },
   {
     "discountPercentage": 75,
@@ -1575,15 +1620,6 @@
     "title": "For Honor Standard Edition"
   },
   {
-    "discountPercentage": 75,
-    "endDate": "2023-11-18T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "for-the-king",
-    "startDate": "2023-11-03T18:00:00.000Z",
-    "title": "For The King"
-  },
-  {
     "discountPercentage": 20,
     "endDate": "2024-01-01T06:00:00.000Z",
     "isFree": false,
@@ -1681,6 +1717,15 @@
     "slug": "ginsha-604f11",
     "startDate": "2024-02-19T16:00:00.000Z",
     "title": "GINSHA"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-12-05T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "galacticdefender-0d9f3d",
+    "startDate": "2023-11-28T15:00:00.000Z",
+    "title": "Galactic Defender"
   },
   {
     "discountPercentage": 50,
@@ -1854,6 +1899,15 @@
     "title": "Haunted House"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2023-12-21T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 159,
+    "slug": "he-will-shoot-46efff",
+    "startDate": "2023-12-07T22:00:00.000Z",
+    "title": "He Will Shoot"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -1861,15 +1915,6 @@
     "slug": "hordecore",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "HordeCore"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2023-11-18T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1199,
-    "slug": "hue",
-    "startDate": "2023-11-03T18:00:00.000Z",
-    "title": "Hue"
   },
   {
     "discountPercentage": 66,
@@ -2007,6 +2052,15 @@
     "title": "Island Farmer"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2023-12-09T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 159,
+    "slug": "it-follows-you-b11f3e",
+    "startDate": "2023-11-21T22:00:00.000Z",
+    "title": "It follows you"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -2050,15 +2104,6 @@
     "slug": "just-cause-4",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Just Cause 4 Reloaded"
-  },
-  {
-    "discountPercentage": 70,
-    "endDate": "2023-11-18T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1399,
-    "slug": "just-die-already",
-    "startDate": "2023-11-03T18:00:00.000Z",
-    "title": "Just Die Already"
   },
   {
     "discountPercentage": 75,
@@ -2167,15 +2212,6 @@
     "slug": "late-shift-8b0634",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Late Shift"
-  },
-  {
-    "discountPercentage": 66,
-    "endDate": "2023-11-18T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "lawn-mowing-simulator-838bf3",
-    "startDate": "2023-11-03T18:00:00.000Z",
-    "title": "Lawn Mowing Simulator"
   },
   {
     "discountPercentage": 75,
@@ -2466,6 +2502,15 @@
     "title": "Missile Command: Recharged2022"
   },
   {
+    "discountPercentage": 90,
+    "endDate": "2023-11-14T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 539,
+    "slug": "mobilisation-78891a",
+    "startDate": "2023-11-07T15:00:00.000Z",
+    "title": "Mobilization"
+  },
+  {
     "discountPercentage": 85,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -2556,11 +2601,20 @@
     "title": "Nexomon: Extinction"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-11-29T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "nextbots-in-the-backrooms-b5677b",
+    "startDate": "2023-11-09T22:00:00.000Z",
+    "title": "Nextbots In The Backrooms"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 999,
-    "slug": "8e64b69b21554d49a6bbe53d083f9503",
+    "slug": "night-book-77f2c7",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Night Book"
   },
@@ -2646,13 +2700,22 @@
     "title": "Outbreak The New Nightmare Revisited"
   },
   {
-    "discountPercentage": 90,
-    "endDate": "2023-11-23T22:00:00.000Z",
+    "discountPercentage": 80,
+    "endDate": "2024-01-21T22:00:00.000Z",
     "isFree": false,
     "originalPrice": 449,
     "slug": "overtop-ed5e49",
-    "startDate": "2023-11-03T22:00:00.000Z",
+    "startDate": "2024-01-01T22:00:00.000Z",
     "title": "Overtop"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "oxide-room-104-4c1249",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Oxide Room 104"
   },
   {
     "discountPercentage": 10,
@@ -2752,6 +2815,15 @@
     "slug": "poker-club-6e18ee",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Poker Club"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-12-13T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "polygon-survival-2374fc",
+    "startDate": "2023-11-21T22:00:00.000Z",
+    "title": "Polygon Survival"
   },
   {
     "discountPercentage": 70,
@@ -2943,15 +3015,6 @@
     "title": "Railway Empire 2"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2023-11-10T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2099,
-    "slug": "ranch-simulator",
-    "startDate": "2023-11-03T17:00:00.000Z",
-    "title": "Ranch Simulator"
-  },
-  {
     "discountPercentage": 20,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -2986,6 +3049,15 @@
     "slug": "recipe-for-disaster-83726f",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Recipe for Disaster"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "redneck-bowl-games-d39874",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "RedNeck Bowl Games"
   },
   {
     "discountPercentage": 75,
@@ -3094,6 +3166,15 @@
     "slug": "rogue-legacy-2",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Rogue Legacy 2"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2023-12-09T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "scary-and-dot-86b1ff",
+    "startDate": "2023-11-14T22:00:00.000Z",
+    "title": "SCARY AND DOT"
   },
   {
     "discountPercentage": 40,
@@ -3235,7 +3316,7 @@
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 899,
-    "slug": "157faa7e41244a6fabc846a99504b047",
+    "slug": "secret-doctrine-342083",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Secret Doctrine"
   },
@@ -3700,11 +3781,29 @@
   },
   {
     "discountPercentage": 50,
+    "endDate": "2023-12-07T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "trex-dinosaur-game-d30355",
+    "startDate": "2023-11-17T22:00:00.000Z",
+    "title": "T-Rex Dinosaur Game"
+  },
+  {
+    "discountPercentage": 50,
     "endDate": "2023-11-29T22:00:00.000Z",
     "isFree": false,
     "originalPrice": 89,
     "slug": "tv-head-eight-pages-85b4f3",
     "startDate": "2023-11-11T22:00:00.000Z",
+    "title": "TV Head: Eight Pages"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-19T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "tv-head-eight-pages-85b4f3",
+    "startDate": "2023-12-29T22:00:00.000Z",
     "title": "TV Head: Eight Pages"
   },
   {
@@ -4239,6 +4338,15 @@
     "title": "Time Loader"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "timothy-vs-the-aliens-2f5b36",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Timothy vs the Aliens"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2023-12-12T16:00:00.000Z",
     "isFree": false,
@@ -4516,6 +4624,15 @@
     "slug": "tropico-6",
     "startDate": "2023-11-06T16:00:00.000Z",
     "title": "Tropico 6"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2023-11-21T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 599,
+    "slug": "true-hate-007027",
+    "startDate": "2023-11-07T22:00:00.000Z",
+    "title": "True Hate"
   },
   {
     "discountPercentage": 66,
