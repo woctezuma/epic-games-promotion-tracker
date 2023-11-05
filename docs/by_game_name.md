@@ -12,6 +12,8 @@
 |#|anno-mutationem-ef8b9e|ANNO Mutationem|20,99€|40|2023-12-28 16h|2024-01-06 16h|
 |#|anonymous-hunting-simulator-5eac14|ANONYMOUS HUNTING SIMULATOR|0,89€|30|2023-11-10 10h|2023-11-16 10h|
 |#|art-is-rifle-897224|ART IS RIFLE|17,99€|40|2023-12-13 16h|2024-01-10 16h|
+|#|atom-rpg-3adb54|ATOM RPG|14,99€|70|2023-12-13 16h|2024-01-10 16h|
+|#|atom-rpg-trudograd-a97244|ATOM RPG Trudograd|10,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|absolute-drift|Absolute Drift|11,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|access-denied-escape-1d486e|Access Denied Escape|4,49€|40|2023-12-13 16h|2024-01-10 16h|
 |#|aces-of-the-luftwaffe-squadron-97086d|Aces of the Luftwaffe - Squadron Extended Edition|24,99€|66|2023-11-28 15h|2023-12-05 15h|
@@ -104,6 +106,7 @@
 |#|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|80|2023-11-05 23h|2023-11-17 23h|
 |#|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|85|2023-12-21 23h|2023-12-31 11h|
 |#|bugsnax|Bugsnax|19,99€|50|2023-12-13 16h|2024-01-10 16h|
+|#|cataire-6ce6b7|CATAIRE|0,89€|90|2023-12-26 16h|2024-01-10 16h|
 |#|chuchel-203808|CHUCHEL|9,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|cafe-owner-simulator-749e0f|Cafe Owner Simulator|14,49€|50|2023-12-13 16h|2024-01-10 16h|
 |#|call-of-the-wild-the-angler|Call of the Wild: The Angler™|29,99€|34|2023-12-13 16h|2024-01-10 16h|
@@ -154,6 +157,8 @@
 |#|eigengrau-62aef0|Eigengrau|8,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|el-hijo-6b63c5|El Hijo – A Wild West Tale|19,99€|60|2023-11-21 15h|2023-11-28 15h|
 |#|elderand-09e6bc|Elderand|15,99€|50|2023-12-13 16h|2024-01-10 16h|
+|#|enchanted-portals-65ca68|Enchanted Portals|19,50€|40|2023-11-21 15h|2023-11-28 15h|
+|#|enchanted-portals-65ca68|Enchanted Portals|19,50€|40|2023-12-29 04h|2024-01-10 04h|
 |#|eternights-c2fbca|Eternights|29,99€|33|2023-12-13 16h|2024-01-10 16h|
 |#|everlasting-guilt-213534|Everlasting Guilt|8,99€|50|2023-11-07 15h|2023-11-14 15h|
 |#|extreme-offroad-racing-439263|Extreme Offroad Racing|8,99€|85|2023-11-14 15h|2023-11-21 15h|
@@ -312,6 +317,7 @@
 |#|planescape-torment-enhanced-edition|Planescape: Torment: Enhanced Edition|15,99€|65|2023-12-13 16h|2024-01-10 16h|
 |#|planet-cube-edge-aac6d5|Planet Cube - Edge|13,49€|33|2023-12-13 16h|2024-01-10 16h|
 |#|planeticusgame-5dd84a|Planeticus|6,29€|15|2023-12-13 16h|2024-01-10 16h|
+|#|play-with-me-escape-room-586cc4|Play with Me - Escape Room|2,69€|90|2023-12-13 16h|2024-01-10 16h|
 |#|poker-club-6e18ee|Poker Club|19,99€|45|2023-12-13 16h|2024-01-10 16h|
 |#|polygon-survival-2374fc|Polygon Survival|0,89€|50|2023-11-21 22h|2023-12-13 22h|
 |#|port-royale-4|Port Royale 4|39,99€|70|2023-11-06 16h|2023-11-12 16h|
@@ -374,6 +380,7 @@
 |#|seven-enhanced-edition-9ba7c7|Seven - Enhanced Edition|27,99€|85|2023-12-13 16h|2024-01-10 16h|
 |#|shadow-of-the-tomb-raider|Shadow of the Tomb Raider: Definitive Edition|39,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|sherlock-holmes-the-awakened|Sherlock Holmes The Awakened|39,99€|50|2023-12-05 16h|2023-12-12 16h|
+|#|shop-tycoon-prepare-your-wallet-e705ba|Shop Tycoon - Prepare Your Wallet|5,39€|90|2023-12-14 16h|2024-01-10 16h|
 |#|showgunners-cbc083|Showgunners|28,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|shrommzzz-426bcd|Shrommzzz|8,99€|50|2023-11-21 15h|2023-11-28 15h|
 |#|sifu|Sifu|39,99€|40|2023-11-06 23h|2023-11-12 23h|
@@ -383,7 +390,6 @@
 |#|skotos-455463|Skotos|5,39€|15|2024-05-01 06h|2024-05-30 22h|
 |#|skotos-455463|Skotos|5,39€|15|2024-08-01 06h|2024-08-30 22h|
 |#|skydrift-infinity-c4ca37|SkyDrift Infinity|9,99€|34|2023-11-21 15h|2023-11-28 15h|
-|#|smalland|Smalland: Survive the Wilds|24,99€|20|2023-11-05 01h|2023-11-12 12h|
 |#|sokobond|Sokobond|13,49€|75|2023-11-14 15h|2023-11-21 15h|
 |#|song-of-farca-1eb3f2|Song of Farca|19,50€|70|2023-12-13 16h|2024-01-10 16h|
 |#|sonic-colors-ultimate|Sonic Colors: Ultimate|39,99€|60|2023-12-13 16h|2024-01-10 16h|
@@ -421,6 +427,7 @@
 |#|sweet-dreams-alex-7c602d|Sweet Dreams Alex|13,49€|25|2023-12-13 16h|2024-01-10 16h|
 |#|switchball-hd-6d3802|Switchball HD|8,09€|50|2023-11-10 00h|2023-11-27 00h|
 |#|trex-dinosaur-game-d30355|T-Rex Dinosaur Game|0,89€|50|2023-11-17 22h|2023-12-07 22h|
+|#|the-impossible-fcebf7|THE IMPOSSIBLE|4,49€|90|2023-12-14 16h|2024-01-10 16h|
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2023-11-11 22h|2023-11-29 22h|
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2023-12-29 22h|2024-01-19 22h|
 |#|tabletop-playground-9623f1|Tabletop Playground|13,49€|50|2023-12-13 16h|2024-01-10 16h|
@@ -449,6 +456,8 @@
 |#|the-eternal-cylinder|The Eternal Cylinder|23,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|the-fabled-woods|The Fabled Woods|9,99€|80|2023-11-14 15h|2023-11-21 15h|
 |#|the-flower-collectors|The Flower Collectors|14,99€|60|2023-12-13 16h|2024-01-10 16h|
+|#|the-future-project-f19b52|The Future Project|8,99€|40|2023-11-07 15h|2023-11-14 15h|
+|#|the-future-project-f19b52|The Future Project|8,99€|50|2023-12-18 14h|2024-01-06 04h|
 |#|the-isle-tide-hotel-adf588|The Isle Tide Hotel|17,99€|20|2023-12-13 16h|2024-01-10 16h|
 |#|jackbox-party-pack-1|The Jackbox Party Pack|22,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|the-jackbox-party-pack-10-c6f152|The Jackbox Party Pack 10|34,99€|20|2023-12-13 16h|2024-01-10 16h|
