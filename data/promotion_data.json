@@ -108,6 +108,24 @@
     "title": "ART IS RIFLE"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "atom-rpg-3adb54",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "ATOM RPG"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1099,
+    "slug": "atom-rpg-trudograd-a97244",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "ATOM RPG Trudograd"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -936,6 +954,15 @@
     "title": "Bugsnax"
   },
   {
+    "discountPercentage": 90,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "cataire-6ce6b7",
+    "startDate": "2023-12-26T16:00:00.000Z",
+    "title": "CATAIRE"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -1384,6 +1411,24 @@
     "slug": "elderand-09e6bc",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Elderand"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-11-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1950,
+    "slug": "enchanted-portals-65ca68",
+    "startDate": "2023-11-21T15:00:00.000Z",
+    "title": "Enchanted Portals"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-01-10T04:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1950,
+    "slug": "enchanted-portals-65ca68",
+    "startDate": "2023-12-29T04:00:00.000Z",
+    "title": "Enchanted Portals"
   },
   {
     "discountPercentage": 33,
@@ -2808,6 +2853,15 @@
     "title": "Planeticus"
   },
   {
+    "discountPercentage": 90,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "play-with-me-escape-room-586cc4",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Play with Me - Escape Room"
+  },
+  {
     "discountPercentage": 45,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -3366,6 +3420,15 @@
     "title": "Sherlock Holmes The Awakened"
   },
   {
+    "discountPercentage": 90,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 539,
+    "slug": "shop-tycoon-prepare-your-wallet-e705ba",
+    "startDate": "2023-12-14T16:00:00.000Z",
+    "title": "Shop Tycoon - Prepare Your Wallet"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -3445,15 +3508,6 @@
     "slug": "skydrift-infinity-c4ca37",
     "startDate": "2023-11-21T15:00:00.000Z",
     "title": "SkyDrift Infinity"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2023-11-12T12:30:00.000Z",
-    "isFree": false,
-    "originalPrice": 2499,
-    "slug": "smalland",
-    "startDate": "2023-11-05T01:00:00.000Z",
-    "title": "Smalland: Survive the Wilds"
   },
   {
     "discountPercentage": 75,
@@ -3789,6 +3843,15 @@
     "title": "T-Rex Dinosaur Game"
   },
   {
+    "discountPercentage": 90,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "the-impossible-fcebf7",
+    "startDate": "2023-12-14T16:00:00.000Z",
+    "title": "THE IMPOSSIBLE"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-11-29T22:00:00.000Z",
     "isFree": false,
@@ -4039,6 +4102,24 @@
     "slug": "the-flower-collectors",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "The Flower Collectors"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-11-14T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "the-future-project-f19b52",
+    "startDate": "2023-11-07T15:00:00.000Z",
+    "title": "The Future Project"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-06T04:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "the-future-project-f19b52",
+    "startDate": "2023-12-18T14:00:00.000Z",
+    "title": "The Future Project"
   },
   {
     "discountPercentage": 20,
