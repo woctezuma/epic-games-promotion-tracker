@@ -565,6 +565,8 @@
 |#|bloodshore-939cb0|Bloodshore|9,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|card-shark-8f95f0|Card Shark|19,50€|40|2023-12-13 16h|2024-01-10 16h|
 |#|coffee-talk|Coffee Talk|9,99€|40|2023-11-21 17h|2023-11-28 17h|
+|#|creepy-tale-058ebd|Creepy Tale|4,49€|40|2023-12-13 16h|2024-01-10 16h|
+|#|creepy-tale-3-ingrid-penance-1daff4|Creepy Tale 3 - Ingrid Penance|8,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|dead-island-2|Dead Island 2|59,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|dinobreak-307b09|Dinobreak|17,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|doors-paradox-5896c7|Doors - Paradox|13,49€|40|2023-12-13 16h|2024-01-10 16h|
@@ -589,6 +591,7 @@
 |#|night-book-77f2c7|Night Book|9,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|one-military-camp-8db1f6|One Military Camp|24,99€|40|2023-12-21 17h|2024-01-04 17h|
 |#|outerwilds|Outer Wilds|22,99€|40|2023-12-13 16h|2024-01-10 16h|
+|#|picklock-33eab8|Picklock|5,39€|40|2023-12-13 16h|2024-01-10 16h|
 |#|return-to-monkey-island-f4af79|Return to Monkey Island|22,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|rising-hell-253707|Rising Hell|7,99€|40|2023-11-21 17h|2023-11-28 17h|
 |#|rogue-legacy-2|Rogue Legacy 2|19,99€|40|2023-12-13 16h|2024-01-10 16h|
@@ -596,6 +599,7 @@
 |#|saints-row|Saints Row|29,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|shalnor-legends-2-fea913|Shalnor Legends 2: Trials of Thunder|13,49€|40|2023-12-13 16h|2024-01-10 16h|
 |#|showgunners-cbc083|Showgunners|28,99€|40|2023-12-13 16h|2024-01-10 16h|
+|#|strike-force-kitty-4603e5|StrikeForce Kitty|5,39€|40|2023-12-13 16h|2024-01-10 16h|
 |#|the-bunker-03b712|The Bunker|9,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|the-crew-motorfest|The Crew™ Motorfest Standard Edition|69,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|jackbox-party-pack-6|The Jackbox Party Pack 6|24,99€|40|2023-12-13 16h|2024-01-10 16h|
@@ -773,6 +777,7 @@
 |#|diluvian-ultra-a5ad8c|Diluvian Ultra|9,99€|10|2023-12-13 16h|2024-01-10 16h|
 |#|full-moon-rush-15f674|Full Moon Rush|4,49€|10|2023-12-13 16h|2024-01-10 16h|
 |#|haunted-house-c5a71b|Haunted House|17,99€|10|2023-12-13 16h|2024-01-10 16h|
+|#|hero-survival-4de339|Hero Survival|5,39€|10|2023-12-13 16h|2024-01-10 16h|
 |#|iron-dungeon-4345a1|Iron Dungeon|8,99€|10|2023-12-13 16h|2024-01-10 16h|
 |#|molten-horn-e846ef|Molten Horn|7,19€|10|2023-11-09 18h|2023-11-16 18h|
 |#|oxygen-cocktail-20cd1c|Oxygen Cocktail|5,39€|10|2023-11-16 18h|2023-11-23 18h|
