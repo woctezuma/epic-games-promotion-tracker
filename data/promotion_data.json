@@ -873,6 +873,15 @@
     "title": "Brick Breaker Premium 3"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "bridge-constructor-the-walking-dead",
+    "startDate": "2023-12-15T16:00:00.000Z",
+    "title": "Bridge Constructor: The Walking Dead"
+  },
+  {
     "discountPercentage": 85,
     "endDate": "2023-12-31T11:00:00.000Z",
     "isFree": false,
@@ -2304,6 +2313,15 @@
     "title": "Hob"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-11-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "homestead-arcana-60ff39",
+    "startDate": "2023-11-21T15:00:00.000Z",
+    "title": "Homestead Arcana"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -2410,6 +2428,15 @@
     "slug": "icewind-dale-enhanced-edition",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Icewind Dale: Enhanced Edition"
+  },
+  {
+    "discountPercentage": 15,
+    "endDate": "2023-11-16T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2239,
+    "slug": "ikonei-island-an-earthlock-adventure-fa1620",
+    "startDate": "2023-11-09T11:00:00.000Z",
+    "title": "Ikonei Island: An Earthlock Adventure"
   },
   {
     "discountPercentage": 55,
@@ -3960,6 +3987,15 @@
     "title": "ProtoCorgi"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "pumpkin-jack",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Pumpkin Jack"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -5382,6 +5418,15 @@
     "title": "The Fabled Woods"
   },
   {
+    "discountPercentage": 90,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "the-fabled-woods",
+    "startDate": "2023-12-22T16:00:00.000Z",
+    "title": "The Fabled Woods"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -5686,6 +5731,15 @@
     "slug": "the-talos-principle",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "The Talos Principle"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "the-textorcist",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "The Textorcist: The Story of Ray Bibbia"
   },
   {
     "discountPercentage": 85,
@@ -6376,7 +6430,7 @@
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 2999,
-    "slug": "f37159d9bd96489ab1b99bdad1ee796c",
+    "slug": "warhammer-mechanicus-0e4b71",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Warhammer 40,000: Mechanicus - Standard Edition"
   },
@@ -6523,6 +6577,15 @@
     "slug": "wreckfest",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Wreckfest"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2023-11-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "wrestlequest-324fb5",
+    "startDate": "2023-11-21T15:00:00.000Z",
+    "title": "WrestleQuest"
   },
   {
     "discountPercentage": 50,
