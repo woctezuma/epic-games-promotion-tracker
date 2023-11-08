@@ -1179,6 +1179,24 @@
     "title": "Cosmic Express"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "creepy-tale-058ebd",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Creepy Tale"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "creepy-tale-3-ingrid-penance-1daff4",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Creepy Tale 3 - Ingrid Penance"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -2374,6 +2392,15 @@
     "slug": "hell-pie-edc41f",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Hell Pie"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 539,
+    "slug": "hero-survival-4de339",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Hero Survival"
   },
   {
     "discountPercentage": 50,
@@ -4005,6 +4032,15 @@
     "title": "Perimeter: Emperor's Testament"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 539,
+    "slug": "picklock-33eab8",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Picklock"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -5299,6 +5335,15 @@
     "slug": "story-craft-6bfcfb",
     "startDate": "2023-11-14T15:00:00.000Z",
     "title": "Story Craft"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 539,
+    "slug": "strike-force-kitty-4603e5",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "StrikeForce Kitty"
   },
   {
     "discountPercentage": 60,
