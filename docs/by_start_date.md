@@ -1,7 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|mordhau|MORDHAU|26,99€|66|2023-11-08 23h|2023-11-12 23h|
-|#|mordhau--editor|MORDHAU Editor|0,00€|66|2023-11-08 23h|2023-11-12 23h|
 |#|demon-turf-neon-splash-7ed9b5|Demon Turf Neon Splash|4,49€|30|2023-11-09 01h|2023-11-12 01h|
 |#|ikonei-island-an-earthlock-adventure-fa1620|Ikonei Island: An Earthlock Adventure|22,39€|15|2023-11-09 11h|2023-11-16 11h|
 |#|the-outer-worlds-spacers-choice-edition|The Outer Worlds: Spacer's Choice Edition|59,99€|34|2023-11-09 15h|2023-11-12 15h|

@@ -358,9 +358,7 @@
 |#|lumote|Lumote: The Mastermote Chronicles|19,99€|65|2023-12-13 16h|2024-01-10 16h|
 |#|monopoly-madness|MONOPOLY MADNESS|29,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|monopoly-plus-monopoly-madness-bundle|MONOPOLY PLUS + MONOPOLY Madness|39,99€|70|2023-11-21 16h|2023-11-28 16h|
-|#|mordhau|MORDHAU|26,99€|66|2023-11-08 23h|2023-11-12 23h|
 |#|mordhau|MORDHAU|26,99€|80|2023-12-13 16h|2024-01-10 16h|
-|#|mordhau--editor|MORDHAU Editor|0,00€|66|2023-11-08 23h|2023-11-12 23h|
 |#|mable-and-the-wood-9bd697|Mable & The Wood|11,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|maid-of-sker-2ae24e|Maid of Sker|19,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|mallofmayhem-15344c|Mall of Mayhem|5,39€|17|2024-01-01 07h|2024-01-30 23h|
