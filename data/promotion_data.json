@@ -225,6 +225,15 @@
     "title": "Aground"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "alan-wake-2",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Alan Wake 2"
+  },
+  {
     "discountPercentage": 67,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -3634,6 +3643,15 @@
     "slug": "mythforce-d2710b",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "MythForce"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2023-11-22T14:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2419,
+    "slug": "naheulbeuks-dungeon-master-b2694b",
+    "startDate": "2023-11-15T14:00:00.000Z",
+    "title": "Naheulbeuk's Dungeon Master"
   },
   {
     "discountPercentage": 90,
