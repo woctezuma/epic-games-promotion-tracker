@@ -2520,6 +2520,15 @@
     "title": "Horror Story: Hallowseed"
   },
   {
+    "discountPercentage": 10,
+    "endDate": "2024-01-29T08:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "the-howl-ee6924",
+    "startDate": "2023-11-28T00:00:00.000Z",
+    "title": "Howl"
+  },
+  {
     "discountPercentage": 66,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
