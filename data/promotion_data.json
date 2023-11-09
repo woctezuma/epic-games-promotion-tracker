@@ -720,6 +720,15 @@
     "title": "Black Book"
   },
   {
+    "discountPercentage": 25,
+    "endDate": "2023-11-17T04:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 539,
+    "slug": "black-hair-girl-is-best-girl-415031",
+    "startDate": "2023-11-10T04:00:00.000Z",
+    "title": "Black Hair Girl is Best Girl"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
