@@ -648,6 +648,15 @@
     "title": "Beach Invasion 1944"
   },
   {
+    "discountPercentage": 66,
+    "endDate": "2023-11-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "before-your-eyes",
+    "startDate": "2023-11-21T15:00:00.000Z",
+    "title": "Before Your Eyes"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -4320,6 +4329,15 @@
     "title": "RUINER"
   },
   {
+    "discountPercentage": 85,
+    "endDate": "2023-11-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "rainbow-billy-the-curse-of-the-leviathan",
+    "startDate": "2023-11-21T15:00:00.000Z",
+    "title": "Rainbow Billy: The Curse of the Leviathan"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -5670,6 +5688,15 @@
     "title": "Terrain of Magical Expertise"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2023-11-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1249,
+    "slug": "the-big-con",
+    "startDate": "2023-11-21T15:00:00.000Z",
+    "title": "The Big Con"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -6163,6 +6190,60 @@
     "slug": "the-valiant",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "The Valiant"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2023-11-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "walking-dead-definitive-series",
+    "startDate": "2023-11-21T15:00:00.000Z",
+    "title": "The Walking Dead : The Definitive Series"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-11-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "walking-dead-a-new-frontier",
+    "startDate": "2023-11-21T15:00:00.000Z",
+    "title": "The Walking Dead: A New Frontier"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-11-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "walking-dead-final-season",
+    "startDate": "2023-11-21T15:00:00.000Z",
+    "title": "The Walking Dead: Final Season"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-11-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "walking-dead-michonne",
+    "startDate": "2023-11-21T15:00:00.000Z",
+    "title": "The Walking Dead: Michonne - A Telltale Miniseries"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-11-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "walking-dead-season-one",
+    "startDate": "2023-11-21T15:00:00.000Z",
+    "title": "The Walking Dead: Season One"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2023-11-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "walking-dead-season-two",
+    "startDate": "2023-11-21T15:00:00.000Z",
+    "title": "The Walking Dead: Season Two"
   },
   {
     "discountPercentage": 75,
