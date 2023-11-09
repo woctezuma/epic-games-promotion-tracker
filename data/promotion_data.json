@@ -2610,15 +2610,6 @@
     "title": "Icewind Dale: Enhanced Edition"
   },
   {
-    "discountPercentage": 15,
-    "endDate": "2023-11-16T11:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2239,
-    "slug": "ikonei-island-an-earthlock-adventure-fa1620",
-    "startDate": "2023-11-09T11:00:00.000Z",
-    "title": "Ikonei Island: An Earthlock Adventure"
-  },
-  {
     "discountPercentage": 55,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -4392,6 +4383,15 @@
     "title": "Ratchet & Clank: Rift Apart"
   },
   {
+    "discountPercentage": 65,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 319,
+    "slug": "ravens-hike-c34341",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Ravens Hike"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -4444,6 +4444,15 @@
     "slug": "red-dust-5e7397",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Red Dust"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 599,
+    "slug": "red-ronin-d2678c",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Red Ronin"
   },
   {
     "discountPercentage": 60,
@@ -6768,6 +6777,15 @@
     "title": "UltraGoodness 2"
   },
   {
+    "discountPercentage": 55,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "undergrave-4d084b",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Undergrave"
+  },
+  {
     "discountPercentage": 33,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -6784,6 +6802,15 @@
     "slug": "universe-sandbox",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Universe Sandbox"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 199,
+    "slug": "upaon-a-snakes-journey-672f92",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Upaon A Snakes Journey"
   },
   {
     "discountPercentage": 90,
