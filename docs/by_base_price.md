@@ -622,6 +622,7 @@
 |#|naval-combat-package-34e444|Fleet Command|7,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|gravitar-recharged-e606fe|Gravitar Recharged|7,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|hirilun-d92aa3|Hirilun|7,99€|65|2023-12-13 16h|2024-01-10 16h|
+|#|the-howl-ee6924|Howl|7,99€|10|2023-11-28 00h|2024-01-29 08h|
 |#|lego-brawls|LEGO® Brawls|7,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|men-of-war-condemned-heroes-5947be|Men of War Condemned Heroes|7,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|missile-command-recharged-2022-33e34b|Missile Command: Recharged2022|7,99€|50|2023-12-13 16h|2024-01-10 16h|
