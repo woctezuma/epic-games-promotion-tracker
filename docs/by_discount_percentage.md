@@ -293,6 +293,7 @@
 |#|terrain-of-magical-expertise|Terrain of Magical Expertise|19,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|the-alien-cube-789431|The Alien Cube|19,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|the-big-con|The Big Con|12,49€|75|2023-11-21 15h|2023-11-28 15h|
+|#|the-house-of-da-vinci-eb6e37|The House of Da Vinci|19,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|the-land-of-pain-d6a3ed|The Land of Pain|11,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|the-messenger|The Messenger|16,79€|75|2023-12-13 16h|2024-01-10 16h|
 |#|walking-dead-a-new-frontier|The Walking Dead: A New Frontier|14,99€|75|2023-11-21 15h|2023-11-28 15h|
@@ -421,6 +422,7 @@
 |#|shame-legacy-ef1b66|Shame Legacy|22,39€|65|2023-11-14 15h|2023-11-21 15h|
 |#|the-callisto-protocol|The Callisto Protocol|59,99€|65|2023-12-13 16h|2024-01-10 16h|
 |#|the-dark-prophecy-2193c4|The Dark Prophecy|7,99€|65|2023-12-13 16h|2024-01-10 16h|
+|#|the-house-of-da-vinci-2-970dc3|The House of Da Vinci 2|19,99€|65|2023-12-13 16h|2024-01-10 16h|
 |#|the-spectrum-retreat|The Spectrum Retreat|12,99€|65|2023-12-13 16h|2024-01-10 16h|
 |#|the-wizard-and-the-slug-482a09|The Wizard and The Slug|3,99€|65|2023-12-13 16h|2024-01-10 16h|
 |#|tour-de-france-2022-8bb5fb|Tour de France 2022|39,99€|65|2023-12-13 16h|2024-01-10 16h|
@@ -568,7 +570,6 @@
 |#|super-hydorah-56d575|Super Hydorah|19,99€|50|2023-12-21 17h|2024-01-04 17h|
 |#|trex-dinosaur-game-d30355|T-Rex Dinosaur Game|0,89€|50|2023-11-17 22h|2023-12-07 22h|
 |#|tohu|TOHU|12,99€|50|2023-12-13 16h|2024-01-10 16h|
-|#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2023-11-11 22h|2023-11-29 22h|
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2023-12-29 22h|2024-01-19 22h|
 |#|tabletop-playground-9623f1|Tabletop Playground|13,49€|50|2023-12-13 16h|2024-01-10 16h|
 |#|tavern-master-ee18ab|Tavern Master|11,99€|50|2023-12-13 16h|2024-01-10 16h|
@@ -607,6 +608,7 @@
 |#|jackbox-party-pack-5|The Jackbox Party Pack 5|24,99€|45|2023-12-13 16h|2024-01-10 16h|
 |#|tour-de-france-2023|Tour de France 2023|39,99€|45|2023-12-13 16h|2024-01-10 16h|
 |#|ixion-88cda4|IXION|34,99€|43|2023-12-13 16h|2024-01-10 16h|
+|#|1428-shadows-over-silesia-266e5f|1428: Shadows over Silesia|26,99€|40|2023-12-01 14h|2023-12-08 14h|
 |#|anno-mutationem-ef8b9e|ANNO Mutationem|20,99€|40|2023-11-21 15h|2023-11-28 15h|
 |#|anno-mutationem-ef8b9e|ANNO Mutationem|20,99€|40|2023-12-28 16h|2024-01-06 16h|
 |#|art-is-rifle-897224|ART IS RIFLE|17,99€|40|2023-12-13 16h|2024-01-10 16h|
@@ -683,6 +685,7 @@
 |#|system-shock|System Shock|39,99€|35|2023-12-13 16h|2024-01-10 16h|
 |#|tchia|Tchia|29,99€|35|2023-12-13 16h|2024-01-10 16h|
 |#|ten-dates-9a188a|Ten Dates|15,29€|35|2023-12-13 16h|2024-01-10 16h|
+|#|the-house-of-da-vinci-3-b0c022|The House of Da Vinci 3|19,99€|35|2023-12-13 16h|2024-01-10 16h|
 |#|while-true-learn|while True: learn()|9,99€|35|2023-12-13 16h|2024-01-10 16h|
 |#|amber-1e2240|Amber|26,99€|34|2024-02-14 13h|2024-02-20 13h|
 |#|call-of-the-wild-the-angler|Call of the Wild: The Angler™|29,99€|34|2023-12-13 16h|2024-01-10 16h|
@@ -772,8 +775,10 @@
 |#|wall-world-02e132|Wall World|6,89€|25|2023-12-13 16h|2024-01-10 16h|
 |#|xenonauts-2-42a236|Xenonauts 2|39,99€|25|2023-12-13 16h|2024-01-10 16h|
 |#|ginsha-604f11|GINSHA|15,79€|23|2024-02-19 16h|2024-02-29 16h|
+|#|life-changer-64fc81|Life Changer|12,63€|22|2023-11-17 17h|2023-12-08 17h|
 |#|moons-of-ardan-d4f9a3|Moons of Ardan|19,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|1775-rebellion-aa5b41|1775 Rebellion|17,99€|20|2023-11-28 15h|2023-12-05 15h|
+|#|a-second-before-the-war-55b226|A Second Before The War|5,39€|20|2023-11-16 00h|2023-12-06 00h|
 |#|alan-wake-2|Alan Wake 2|49,99€|20|2023-12-13 16h|2024-01-10 16h|
 |#|arcrunner-61fee6|ArcRunner|19,99€|20|2023-12-13 16h|2024-01-10 16h|
 |#|assassins-creed-mirage|Assassin's Creed® Mirage|49,99€|20|2023-12-13 16h|2024-01-10 16h|
@@ -793,7 +798,6 @@
 |#|gardenia-630482|Gardenia|8,99€|20|2023-11-28 15h|2023-12-05 15h|
 |#|gardenia-630482|Gardenia|8,99€|20|2024-01-05 23h|2024-02-04 23h|
 |#|going-medieval|Going Medieval|24,49€|20|2023-12-13 16h|2024-01-10 16h|
-|#|hanoi-puzzles-solid-match-6a9e0c|Hanoi Puzzles - Solid Match|2,69€|20|2023-11-11 18h|2023-11-18 17h|
 |#|horizon-chase-2|Horizon Chase 2|24,99€|20|2023-12-13 16h|2024-01-10 16h|
 |#|laika-3293ee|Laika: Aged Through Blood|19,99€|20|2023-12-13 16h|2024-01-10 16h|
 |#|medieval-delivery-938731|Medieval Delivery|8,99€|20|2023-11-14 15h|2023-11-21 15h|

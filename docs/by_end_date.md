@@ -1,6 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|hanoi-puzzles-solid-match-6a9e0c|Hanoi Puzzles - Solid Match|2,69€|20|2023-11-11 18h|2023-11-18 17h|
 |#|there-is-no-game-wrong-dimension-d2782b|There Is No Game - Wrong Dimension|11,69€|10|2023-11-13 18h|2023-11-20 18h|
 |#|a-good-snowman-is-hard-to-build|A Good Snowman is Hard to Build|13,49€|75|2023-11-14 15h|2023-11-21 15h|
 |#|a-monsters-expedition|A Monster's Expedition|22,39€|50|2023-11-14 15h|2023-11-21 15h|
@@ -88,7 +87,6 @@
 |#|when-the-past-was-around-3071e0|When the Past was Around|5,99€|30|2023-11-21 17h|2023-11-28 17h|
 |#|starship-troopers-extermination-57f59d|Starship Troopers: Extermination|26,99€|25|2023-11-21 18h|2023-11-28 18h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|45|2023-11-21 22h|2023-11-28 22h|
-|#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2023-11-11 22h|2023-11-29 22h|
 |#|forest-grove-6b05cf|Forest Grove|17,99€|20|2023-11-28 13h|2023-12-05 13h|
 |#|1775-rebellion-aa5b41|1775 Rebellion|17,99€|20|2023-11-28 15h|2023-12-05 15h|
 |#|aces-of-the-luftwaffe-squadron-97086d|Aces of the Luftwaffe - Squadron Extended Edition|24,99€|66|2023-11-28 15h|2023-12-05 15h|
@@ -106,7 +104,10 @@
 |#|scarf-dd1030|Scarf|14,99€|50|2023-11-28 15h|2023-12-05 15h|
 |#|tank-battle-north-africa-552efe|Tank Battle North Africa|7,19€|20|2023-11-28 15h|2023-12-05 15h|
 |#|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|50|2023-11-28 16h|2023-12-05 16h|
+|#|a-second-before-the-war-55b226|A Second Before The War|5,39€|20|2023-11-16 00h|2023-12-06 00h|
 |#|trex-dinosaur-game-d30355|T-Rex Dinosaur Game|0,89€|50|2023-11-17 22h|2023-12-07 22h|
+|#|1428-shadows-over-silesia-266e5f|1428: Shadows over Silesia|26,99€|40|2023-12-01 14h|2023-12-08 14h|
+|#|life-changer-64fc81|Life Changer|12,63€|22|2023-11-17 17h|2023-12-08 17h|
 |#|aya-and-naya-b7791e|Aya & Naya|2,69€|10|2023-11-24 22h|2023-12-09 22h|
 |#|it-follows-you-b11f3e|It follows you|1,59€|70|2023-11-21 22h|2023-12-09 22h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|70|2023-11-14 22h|2023-12-09 22h|
@@ -699,6 +700,9 @@
 |#|the-falconeer|The Falconeer: Standard Edition|19,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|the-flower-collectors|The Flower Collectors|14,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|the-guild-3|The Guild 3|29,99€|60|2023-12-13 16h|2024-01-10 16h|
+|#|the-house-of-da-vinci-eb6e37|The House of Da Vinci|19,99€|75|2023-12-13 16h|2024-01-10 16h|
+|#|the-house-of-da-vinci-2-970dc3|The House of Da Vinci 2|19,99€|65|2023-12-13 16h|2024-01-10 16h|
+|#|the-house-of-da-vinci-3-b0c022|The House of Da Vinci 3|19,99€|35|2023-12-13 16h|2024-01-10 16h|
 |#|the-isle-tide-hotel-adf588|The Isle Tide Hotel|17,99€|20|2023-12-13 16h|2024-01-10 16h|
 |#|jackbox-party-pack-1|The Jackbox Party Pack|22,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|the-jackbox-party-pack-10-c6f152|The Jackbox Party Pack 10|34,99€|20|2023-12-13 16h|2024-01-10 16h|
