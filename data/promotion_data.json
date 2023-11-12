@@ -36,6 +36,15 @@
     "title": "100 Worlds - Escape the room"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2023-12-08T14:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2699,
+    "slug": "1428-shadows-over-silesia-266e5f",
+    "startDate": "2023-12-01T14:00:00.000Z",
+    "title": "1428: Shadows over Silesia"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2023-12-05T15:00:00.000Z",
     "isFree": false,
@@ -106,6 +115,15 @@
     "slug": "a-monsters-expedition",
     "startDate": "2023-11-14T15:00:00.000Z",
     "title": "A Monster's Expedition"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2023-12-06T00:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 539,
+    "slug": "a-second-before-the-war-55b226",
+    "startDate": "2023-11-16T00:00:00.000Z",
+    "title": "A Second Before The War"
   },
   {
     "discountPercentage": 25,
@@ -2556,15 +2574,6 @@
     "title": "Haimrik"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2023-11-18T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 269,
-    "slug": "hanoi-puzzles-solid-match-6a9e0c",
-    "startDate": "2023-11-11T18:00:00.000Z",
-    "title": "Hanoi Puzzles - Solid Match"
-  },
-  {
     "discountPercentage": 10,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -3301,6 +3310,15 @@
     "slug": "life-after-death-b4e964",
     "startDate": "2024-03-11T01:00:00.000Z",
     "title": "Life After Death"
+  },
+  {
+    "discountPercentage": 22,
+    "endDate": "2023-12-08T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1263,
+    "slug": "life-changer-64fc81",
+    "startDate": "2023-11-17T17:00:00.000Z",
+    "title": "Life Changer"
   },
   {
     "discountPercentage": 80,
@@ -5932,15 +5950,6 @@
   },
   {
     "discountPercentage": 50,
-    "endDate": "2023-11-29T22:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "tv-head-eight-pages-85b4f3",
-    "startDate": "2023-11-11T22:00:00.000Z",
-    "title": "TV Head: Eight Pages"
-  },
-  {
-    "discountPercentage": 50,
     "endDate": "2024-01-19T22:00:00.000Z",
     "isFree": false,
     "originalPrice": 89,
@@ -6244,6 +6253,33 @@
     "slug": "the-guild-3",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "The Guild 3"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "the-house-of-da-vinci-eb6e37",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "The House of Da Vinci"
+  },
+  {
+    "discountPercentage": 65,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "the-house-of-da-vinci-2-970dc3",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "The House of Da Vinci 2"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "the-house-of-da-vinci-3-b0c022",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "The House of Da Vinci 3"
   },
   {
     "discountPercentage": 20,
