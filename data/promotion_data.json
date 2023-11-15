@@ -3438,6 +3438,15 @@
     "title": "Judas"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2023-11-29T12:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "jump-challenge-228ff0",
+    "startDate": "2023-11-23T18:00:00.000Z",
+    "title": "Jump Challenge!"
+  },
+  {
     "discountPercentage": 85,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
