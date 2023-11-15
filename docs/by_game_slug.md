@@ -512,7 +512,6 @@
 |#|necrosmith-b2ef15|Necrosmith|2,39€|40|2023-12-13 16h|2024-01-10 16h|
 |#|necrovision-657441|NecroVision|4,99€|90|2023-12-13 16h|2024-01-10 16h|
 |#|necrovision-lost-company-6896c2|NecroVisioN: Lost Company|6,99€|90|2023-12-13 16h|2024-01-10 16h|
-|#|need-for-spirit-drink-and-drive-simulator-db9660|Need for Spirit Drink and Drive Simulator|1,79€|90|2023-11-15 23h|2023-11-29 23h|
 |#|need-for-spirit-offroad-edition-7eee16|Need for Spirit: Off-Road Edition|2,69€|95|2023-12-01 23h|2023-12-15 23h|
 |#|neon-blight-6fe11b|Neon Blight|19,99€|75|2023-12-21 14h|2024-01-06 05h|
 |#|neurodeck|Neurodeck|11,99€|80|2023-12-13 16h|2024-01-10 16h|

@@ -1,6 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|need-for-spirit-drink-and-drive-simulator-db9660|Need for Spirit Drink and Drive Simulator|1,79€|90|2023-11-15 23h|2023-11-29 23h|
 |#|a-second-before-the-war-55b226|A Second Before The War|5,39€|20|2023-11-16 00h|2023-12-06 00h|
 |#|test-dd068f|field peas~Sayaendou~|4,49€|50|2023-11-16 15h|2023-12-16 15h|
 |#|jampjjj-7c830e|maze horror～迷宮ホラー～|2,19€|30|2023-11-16 15h|2023-12-15 15h|
