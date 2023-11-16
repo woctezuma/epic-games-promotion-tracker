@@ -909,6 +909,15 @@
     "title": "Blanc"
   },
   {
+    "discountPercentage": 35,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1479,
+    "slug": "blazing-sails",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Blazing Sails"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -1341,15 +1350,6 @@
     "title": "City of Beats"
   },
   {
-    "discountPercentage": 77,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "city-of-gangsters-6c2974",
-    "startDate": "2023-12-13T16:00:00.000Z",
-    "title": "City of Gangsters"
-  },
-  {
     "discountPercentage": 20,
     "endDate": "2023-12-12T16:00:00.000Z",
     "isFree": false,
@@ -1456,6 +1456,15 @@
     "slug": "conan-exiles",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Conan Exiles"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "conarium",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Conarium"
   },
   {
     "discountPercentage": 85,
@@ -1594,6 +1603,15 @@
   },
   {
     "discountPercentage": 50,
+    "endDate": "2023-11-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "cyberpunk-2077",
+    "startDate": "2023-11-21T15:00:00.000Z",
+    "title": "Cyberpunk 2077"
+  },
+  {
+    "discountPercentage": 50,
     "endDate": "2024-01-10T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 5999,
@@ -1699,6 +1717,15 @@
     "slug": "darksiders",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Darksiders Warmastered Edition"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "days-gone",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Days Gone"
   },
   {
     "discountPercentage": 20,
@@ -2529,15 +2556,6 @@
     "title": "Firegirl: Hack 'n Splash Rescue DX"
   },
   {
-    "discountPercentage": 60,
-    "endDate": "2023-12-12T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2239,
-    "slug": "fishing-north-atlantic-9fbc5c",
-    "startDate": "2023-12-05T16:00:00.000Z",
-    "title": "Fishing - North Atlantic"
-  },
-  {
     "discountPercentage": 40,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -2862,6 +2880,15 @@
     "title": "Gigapocalypse"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "god-of-war",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "God of War"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -3031,15 +3058,6 @@
     "slug": "he-will-shoot-46efff",
     "startDate": "2023-12-07T22:00:00.000Z",
     "title": "He Will Shoot"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2499,
-    "slug": "hell-pie-edc41f",
-    "startDate": "2023-12-13T16:00:00.000Z",
-    "title": "Hell Pie"
   },
   {
     "discountPercentage": 34,
@@ -3472,15 +3490,6 @@
     "slug": "kana-quest-7defa0",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Kana Quest"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "kao-the-kangaroo-62abe3",
-    "startDate": "2023-12-13T16:00:00.000Z",
-    "title": "Kao the Kangaroo"
   },
   {
     "discountPercentage": 50,
@@ -4102,6 +4111,24 @@
     "slug": "marvels-guardians-of-the-galaxy",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Marvel's Guardians of the Galaxy"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "marvels-spider-man-remastered",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Marvel's Spider-Man Remastered"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "marvels-spider-man-miles-morales",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Marvel\u2019s Spider-Man: Miles Morales"
   },
   {
     "discountPercentage": 40,
@@ -5553,6 +5580,15 @@
     "title": "Return to Monkey Island"
   },
   {
+    "discountPercentage": 33,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "returnal",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Returnal\u2122"
+  },
+  {
     "discountPercentage": 66,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -5875,6 +5911,15 @@
     "slug": "saboteur-f3d01d",
     "startDate": "2024-01-05T23:00:00.000Z",
     "title": "Saboteur!"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "sackboy-a-big-adventure",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Sackboy\u2122: A Big Adventure"
   },
   {
     "discountPercentage": 30,
@@ -6289,6 +6334,33 @@
     "slug": "slaycation-paradise-47a603",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Slaycation Paradise"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "slime-rancher",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Slime Rancher"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3599,
+    "slug": "slime-rancher-and-slime-rancher-2",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Slime Rancher & Slime Rancher 2 Bundle"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2399,
+    "slug": "slime-rancher-2",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Slime Rancher 2"
   },
   {
     "discountPercentage": 50,
@@ -7173,6 +7245,15 @@
     "title": "The Eternal Cylinder"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2239,
+    "slug": "the-expanse-a-telltale-series",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "The Expanse - A Telltale Series"
+  },
+  {
     "discountPercentage": 90,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -7398,6 +7479,15 @@
     "title": "The Last Worker"
   },
   {
+    "discountPercentage": 33,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "the-last-of-us-part-1",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "The Last of Us\u2122 Part I"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -7585,6 +7675,15 @@
     "slug": "the-silent-age-eb6972",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "The Silent Age"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2199,
+    "slug": "the-sojourn",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "The Sojourn"
   },
   {
     "discountPercentage": 65,
@@ -8082,6 +8181,15 @@
     "title": "Tomb Raider GAME OF THE YEAR EDITION"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4499,
+    "slug": "tony-hawks-pro-skater-1-and-2",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Tony Hawk's\u2122 Pro Skater\u2122 1 + 2"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -8413,6 +8521,15 @@
     "slug": "tyrants-blessing-02fddd",
     "startDate": "2023-12-21T14:00:00.000Z",
     "title": "Tyrants Blessing"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "uncharted-legacy-of-thieves-collection",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "UNCHARTED\u2122: Legacy of Thieves Collection"
   },
   {
     "discountPercentage": 60,
