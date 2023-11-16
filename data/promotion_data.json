@@ -1350,6 +1350,15 @@
     "title": "City of Beats"
   },
   {
+    "discountPercentage": 77,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "city-of-gangsters-6c2974",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "City of Gangsters"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2023-12-12T16:00:00.000Z",
     "isFree": false,
@@ -2556,6 +2565,15 @@
     "title": "Firegirl: Hack 'n Splash Rescue DX"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2023-12-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2239,
+    "slug": "fishing-north-atlantic-9fbc5c",
+    "startDate": "2023-12-05T16:00:00.000Z",
+    "title": "Fishing - North Atlantic"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -2698,6 +2716,15 @@
     "slug": "frostpunk",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Frostpunk"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "fuga-melodies-of-steel-2-a756d1",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Fuga: Melodies of Steel 2"
   },
   {
     "discountPercentage": 10,
@@ -3058,6 +3085,15 @@
     "slug": "he-will-shoot-46efff",
     "startDate": "2023-12-07T22:00:00.000Z",
     "title": "He Will Shoot"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "hell-pie-edc41f",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Hell Pie"
   },
   {
     "discountPercentage": 34,
@@ -3490,6 +3526,15 @@
     "slug": "kana-quest-7defa0",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Kana Quest"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "kao-the-kangaroo-62abe3",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Kao the Kangaroo"
   },
   {
     "discountPercentage": 50,
