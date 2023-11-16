@@ -1,7 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|earthlock-e7d979|EARTHLOCK|26,99€|100|2023-11-16 16h|2023-11-23 16h|
-|#|surviving-the-aftermath|Surviving the Aftermath|29,99€|100|2023-11-16 16h|2023-11-23 16h|
 |#|oxygen-cocktail-20cd1c|Oxygen Cocktail|5,39€|10|2023-11-16 18h|2023-11-23 18h|
 |#|fur-squadron-0042b8|FUR Squadron|6,29€|40|2023-11-19 23h|2023-11-26 23h|
 |#|arons-adventure-1e76cd|Aron's Adventure: Magic Reborn|17,99€|25|2023-11-20 14h|2023-11-27 14h|
@@ -76,6 +74,7 @@
 |#|total-war-warhammer-3|Total War: WARHAMMER III|59,99€|35|2023-11-21 18h|2023-11-28 18h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|45|2023-11-21 22h|2023-11-28 22h|
 |#|jump-challenge-228ff0|Jump Challenge!|2,69€|40|2023-11-23 18h|2023-11-29 12h|
+|#|deliver-us-mars|Deliver Us Mars|29,99€|100|2023-11-23 16h|2023-11-30 16h|
 |#|orten-was-the-case-d108fb|Orten Was The Case|13,49€|10|2023-11-29 00h|2023-12-05 11h|
 |#|forest-grove-6b05cf|Forest Grove|17,99€|20|2023-11-28 13h|2023-12-05 13h|
 |#|1775-rebellion-aa5b41|1775 Rebellion|17,99€|20|2023-11-28 15h|2023-12-05 15h|
@@ -115,12 +114,10 @@
 |#|polygon-survival-2374fc|Polygon Survival|0,89€|50|2023-11-21 22h|2023-12-13 22h|
 |#|dead-by-daylight|Dead by Daylight|19,99€|50|2023-12-01 16h|2023-12-14 16h|
 |#|obelixes-tower-defense-0efb67|Secret Agent 001|1,79€|90|2023-11-30 23h|2023-12-14 23h|
-|#|jampjjj-7c830e|maze horror～迷宮ホラー～|2,19€|30|2023-11-16 15h|2023-12-15 15h|
 |#|im-looking-for-3024-people-1cdae4|I'm looking for 3024 people|3,99€|50|2023-11-30 22h|2023-12-15 22h|
 |#|mechdefender-fb9793|MechDefender|3,59€|90|2023-12-01 23h|2023-12-15 23h|
 |#|need-for-spirit-offroad-edition-7eee16|Need for Spirit: Off-Road Edition|2,69€|95|2023-12-01 23h|2023-12-15 23h|
 |#|two-skateboards-driving-simulator-c0ea1f|Two Skateboards Driving Simulator|1,79€|90|2023-12-01 23h|2023-12-15 23h|
-|#|test-dd068f|field peas~Sayaendou~|4,49€|50|2023-11-16 15h|2023-12-16 15h|
 |#|aquatico-b4f0ce|Aquatico|24,99€|50|2023-12-10 23h|2023-12-17 23h|
 |#|patron-4ab1c1|Patron|15,99€|75|2023-12-10 23h|2023-12-17 23h|
 |#|dr-fetus-mean-meat-machine-d6a29e|Dr. Fetus' Mean Meat Machine|9,99€|44|2023-11-21 16h|2023-12-21 16h|

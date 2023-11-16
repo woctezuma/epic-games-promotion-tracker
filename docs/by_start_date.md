@@ -1,9 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|test-dd068f|field peas~Sayaendou~|4,49€|50|2023-11-16 15h|2023-12-16 15h|
-|#|jampjjj-7c830e|maze horror～迷宮ホラー～|2,19€|30|2023-11-16 15h|2023-12-15 15h|
-|#|earthlock-e7d979|EARTHLOCK|26,99€|100|2023-11-16 16h|2023-11-23 16h|
-|#|surviving-the-aftermath|Surviving the Aftermath|29,99€|100|2023-11-16 16h|2023-11-23 16h|
 |#|oxygen-cocktail-20cd1c|Oxygen Cocktail|5,39€|10|2023-11-16 18h|2023-11-23 18h|
 |#|life-changer-64fc81|Life Changer|12,63€|22|2023-11-17 17h|2023-12-08 17h|
 |#|trex-dinosaur-game-d30355|T-Rex Dinosaur Game|0,89€|50|2023-11-17 22h|2023-12-07 22h|
@@ -82,6 +78,7 @@
 |#|it-follows-you-b11f3e|It follows you|1,59€|70|2023-11-21 22h|2023-12-09 22h|
 |#|polygon-survival-2374fc|Polygon Survival|0,89€|50|2023-11-21 22h|2023-12-13 22h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|45|2023-11-21 22h|2023-11-28 22h|
+|#|deliver-us-mars|Deliver Us Mars|29,99€|100|2023-11-23 16h|2023-11-30 16h|
 |#|jump-challenge-228ff0|Jump Challenge!|2,69€|40|2023-11-23 18h|2023-11-29 12h|
 |#|mistborn-tower-defense-2816ff|Tower Defense 3D Fusion|1,79€|85|2023-11-24 18h|2023-11-27 18h|
 |#|aya-and-naya-b7791e|Aya & Naya|2,69€|10|2023-11-24 22h|2023-12-09 22h|
