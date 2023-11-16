@@ -225,6 +225,15 @@
     "title": "Adventures of Chris"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 539,
+    "slug": "aerial-platforms-119f15",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Aerial Platforms"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -7189,6 +7198,15 @@
     "slug": "the-flower-collectors",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "The Flower Collectors"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2023-11-28T18:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "the-front-3a8219",
+    "startDate": "2023-11-21T18:00:00.000Z",
+    "title": "The Front"
   },
   {
     "discountPercentage": 50,
