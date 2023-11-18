@@ -54,6 +54,15 @@
     "title": "1775 Rebellion"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2023-12-14T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "3d-chess-online-615201",
+    "startDate": "2023-12-01T17:00:00.000Z",
+    "title": "3D Chess Online"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -963,6 +972,15 @@
     "title": "Blanc"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "blazing-beaks-3d4864",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Blazing Beaks"
+  },
+  {
     "discountPercentage": 35,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -1233,6 +1251,24 @@
     "title": "Bugsnax"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2023-12-14T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "bus-simulator-car-driving-40dbef",
+    "startDate": "2023-12-01T17:00:00.000Z",
+    "title": "Bus Simulator Car Driving"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "bus-world-5de29e",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Bus World"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -1294,6 +1330,15 @@
     "slug": "card-shark-8f95f0",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Card Shark"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-12-14T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "cargo-truck-simulator-2023-ff83fb",
+    "startDate": "2023-12-01T17:00:00.000Z",
+    "title": "Cargo Truck Simulator 2023"
   },
   {
     "discountPercentage": 70,
@@ -1438,6 +1483,15 @@
     "slug": "citizen-sleeper-944858",
     "startDate": "2023-12-05T16:00:00.000Z",
     "title": "Citizen Sleeper"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-12-14T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "city-ambulance-car-driving-1d3872",
+    "startDate": "2023-12-01T17:00:00.000Z",
+    "title": "City Ambulance Car Driving"
   },
   {
     "discountPercentage": 30,
@@ -2061,6 +2115,15 @@
     "title": "Dinobreak"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2023-11-30T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "dirt-bike-racer-simulator-4c49b5",
+    "startDate": "2023-11-21T17:00:00.000Z",
+    "title": "Dirt Bike Racer Simulator"
+  },
+  {
     "discountPercentage": 67,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -2257,6 +2320,15 @@
     "slug": "dynopunk-2035f5",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Dynopunk"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-12-14T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "e30-drift-car-simulator-2d2977",
+    "startDate": "2023-12-01T17:00:00.000Z",
+    "title": "E30 Drift Car Simulator"
   },
   {
     "discountPercentage": 40,
@@ -2473,6 +2545,15 @@
     "slug": "expeditions-viking",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Expeditions: Viking"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-12-14T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "extreme-car-drift-simulator-cbd3c8",
+    "startDate": "2023-12-01T17:00:00.000Z",
+    "title": "Extreme Car Drift Simulator"
   },
   {
     "discountPercentage": 66,
@@ -2781,6 +2862,15 @@
     "title": "Flower"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1079,
+    "slug": "fly-corp-398021",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Fly Corp"
+  },
+  {
     "discountPercentage": 85,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -2995,6 +3085,15 @@
     "slug": "gamedec",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Gamedec - Definitive Edition"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-12-14T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "gangster-city-mafia-car-driving-88434c",
+    "startDate": "2023-12-01T17:00:00.000Z",
+    "title": "Gangster City Mafia Car Driving"
   },
   {
     "discountPercentage": 20,
@@ -4131,15 +4230,6 @@
     "title": "Life After Death"
   },
   {
-    "discountPercentage": 22,
-    "endDate": "2023-12-08T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1263,
-    "slug": "life-changer-64fc81",
-    "startDate": "2023-11-17T17:00:00.000Z",
-    "title": "Life Changer"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -4545,6 +4635,24 @@
     "title": "Metro Last Light Redux"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "metro-simulator-494510",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Metro Simulator"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "metro-simulator-2-532ff8",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Metro Simulator 2"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -4725,6 +4833,15 @@
     "title": "Mount & Blade II: Bannerlord"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2023-11-30T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "mountain-bicycle-rider-simulator-e52374",
+    "startDate": "2023-11-21T17:00:00.000Z",
+    "title": "Mountain Bicycle Rider Simulator"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -4840,6 +4957,15 @@
     "slug": "mythforce-d2710b",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "MythForce"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1079,
+    "slug": "nostalgic-train-32f08a",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "NOSTALGIC TRAIN"
   },
   {
     "discountPercentage": 90,
@@ -5004,6 +5130,15 @@
     "title": "Nova Strike"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-12-05T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "number-one-fighter-26f88c",
+    "startDate": "2023-11-28T15:00:00.000Z",
+    "title": "Number One Fighter"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -5038,6 +5173,15 @@
     "slug": "oddballers",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "OddBallers\u2122"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-12-14T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "offroad-jeep-4x4-car-driving-simulator-2a3e3d",
+    "startDate": "2023-12-01T17:00:00.000Z",
+    "title": "Offroad Jeep 4x4 Car Driving Simulator"
   },
   {
     "discountPercentage": 66,
@@ -5479,6 +5623,24 @@
     "slug": "poker-club-6e18ee",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Poker Club"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-11-30T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "police-car-armored-cop-simulator-60b997",
+    "startDate": "2023-11-21T17:00:00.000Z",
+    "title": "Police Car Armored Cop Simulator"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-11-30T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "police-car-simulator-d57d15",
+    "startDate": "2023-11-21T17:00:00.000Z",
+    "title": "Police Car Simulator"
   },
   {
     "discountPercentage": 50,
@@ -6462,6 +6624,15 @@
     "title": "Scrapnaut"
   },
   {
+    "discountPercentage": 35,
+    "endDate": "2023-11-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "sea-of-dreams-32035a",
+    "startDate": "2023-11-21T15:00:00.000Z",
+    "title": "Sea of Dreams"
+  },
+  {
     "discountPercentage": 90,
     "endDate": "2023-12-14T23:00:00.000Z",
     "isFree": false,
@@ -6757,6 +6928,15 @@
     "slug": "slime-rancher-2",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Slime Rancher 2"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-11-30T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "sniper-hunter-shooter-5cda66",
+    "startDate": "2023-11-21T17:00:00.000Z",
+    "title": "Sniper Hunter Shooter"
   },
   {
     "discountPercentage": 50,
@@ -7344,13 +7524,13 @@
     "title": "System Shock"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2023-12-07T22:00:00.000Z",
+    "discountPercentage": 60,
+    "endDate": "2024-01-06T05:00:00.000Z",
     "isFree": false,
-    "originalPrice": 89,
-    "slug": "trex-dinosaur-game-d30355",
-    "startDate": "2023-11-17T22:00:00.000Z",
-    "title": "T-Rex Dinosaur Game"
+    "originalPrice": 1999,
+    "slug": "terracotta-72cc62",
+    "startDate": "2023-12-21T14:00:00.000Z",
+    "title": "TERRACOTTA"
   },
   {
     "discountPercentage": 90,
@@ -7450,6 +7630,15 @@
     "slug": "tavern-master-ee18ab",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Tavern Master"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-11-30T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "taxi-driver-simulator-car-parking-c5f70f",
+    "startDate": "2023-11-21T17:00:00.000Z",
+    "title": "Taxi Driver Simulator Car Parking"
   },
   {
     "discountPercentage": 35,
@@ -8982,6 +9171,15 @@
     "title": "Troublemaker"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2023-11-30T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "truck-simulator-ultimate-3d-fafeaa",
+    "startDate": "2023-11-21T17:00:00.000Z",
+    "title": "Truck Simulator Ultimate 3D"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -9079,6 +9277,15 @@
     "slug": "ugly-da09b2",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Ugly"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-11-30T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "ultimate-flight-simulator-pro-8f1009",
+    "startDate": "2023-11-21T17:00:00.000Z",
+    "title": "Ultimate Flight Simulator Pro"
   },
   {
     "discountPercentage": 80,
@@ -9187,6 +9394,15 @@
     "slug": "urbek-city-builder-17cf7d",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Urbek City Builder"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "vcb-why-city-4k-68d7f2",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "VCB Why City 4k"
   },
   {
     "discountPercentage": 75,
@@ -9648,7 +9864,7 @@
     "title": "WrestleQuest"
   },
   {
-    "discountPercentage": 12,
+    "discountPercentage": 34,
     "endDate": "2023-11-28T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1349,
