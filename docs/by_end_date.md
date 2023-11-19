@@ -136,6 +136,7 @@
 |#|extreme-car-drift-simulator-cbd3c8|Extreme Car Drift Simulator|0,89€|40|2023-12-01 17h|2023-12-14 17h|
 |#|gangster-city-mafia-car-driving-88434c|Gangster City Mafia Car Driving|0,89€|40|2023-12-01 17h|2023-12-14 17h|
 |#|offroad-jeep-4x4-car-driving-simulator-2a3e3d|Offroad Jeep 4x4 Car Driving Simulator|0,89€|40|2023-12-01 17h|2023-12-14 17h|
+|#|evalinathe-sorceress-a9a60a|Evalina The Sorceress|1,79€|15|2023-11-29 22h|2023-12-14 22h|
 |#|obelixes-tower-defense-0efb67|Secret Agent 001|1,79€|90|2023-11-30 23h|2023-12-14 23h|
 |#|im-looking-for-3024-people-1cdae4|I'm looking for 3024 people|3,99€|50|2023-11-30 22h|2023-12-15 22h|
 |#|mechdefender-fb9793|MechDefender|3,59€|90|2023-12-01 23h|2023-12-15 23h|
@@ -723,6 +724,7 @@
 |#|redout-enhanced-edition|Redout: Enhanced Edition|15,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|redout-space-assault|Redout: Space Assault|7,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|relicta|Relicta|19,99€|90|2023-12-13 16h|2024-01-10 16h|
+|#|remains-dcb937|Remains|5,39€|30|2023-12-13 16h|2024-01-10 16h|
 |#|remnant-2|Remnant 2|49,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|remnant-from-the-ashes|Remnant: From the Ashes|39,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|restless-soul-d5baed|Restless Soul|11,99€|80|2023-12-13 16h|2024-01-10 16h|
@@ -1084,6 +1086,7 @@
 |#|watch-dogs-legion--ultimate-edition|Watch Dogs: Legion Ultimate Edition|119,99€|80|2023-12-28 17h|2024-01-10 17h|
 |#|elegies-aya-17c3f1|ELEGIES Aya|16,19€|15|2023-12-21 16h|2024-01-11 16h|
 |#|compass-of-the-destiny-istanbul-598642|Compass of the Destiny: Istanbul|14,79€|30|2024-01-04 21h|2024-01-11 21h|
+|#|eden-island-8cd344|Eden Island|8,99€|30|2024-01-10 12h|2024-01-15 15h|
 |#|ginsha-604f11|GINSHA|15,79€|20|2023-12-21 16h|2024-01-15 16h|
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2023-12-29 22h|2024-01-19 22h|
 |#|overtop-ed5e49|Overtop|4,49€|80|2024-01-01 22h|2024-01-21 22h|
