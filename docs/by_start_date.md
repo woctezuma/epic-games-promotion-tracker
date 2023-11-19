@@ -117,6 +117,7 @@
 |#|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|50|2023-11-28 16h|2023-12-05 16h|
 |#|orten-was-the-case-d108fb|Orten Was The Case|13,49€|10|2023-11-29 00h|2023-12-05 11h|
 |#|search-de9485|Nihilsearch|8,99€|65|2023-11-29 08h|2023-12-10 15h|
+|#|evalinathe-sorceress-a9a60a|Evalina The Sorceress|1,79€|15|2023-11-29 22h|2023-12-14 22h|
 |#|ultros-general-audience-prepurchase|Ultros|24,99€|10|2023-11-30 21h|2024-02-13 08h|
 |#|im-looking-for-3024-people-1cdae4|I'm looking for 3024 people|3,99€|50|2023-11-30 22h|2023-12-15 22h|
 |#|obelixes-tower-defense-0efb67|Secret Agent 001|1,79€|90|2023-11-30 23h|2023-12-14 23h|
@@ -658,6 +659,7 @@
 |#|redout-enhanced-edition|Redout: Enhanced Edition|15,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|redout-space-assault|Redout: Space Assault|7,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|relicta|Relicta|19,99€|90|2023-12-13 16h|2024-01-10 16h|
+|#|remains-dcb937|Remains|5,39€|30|2023-12-13 16h|2024-01-10 16h|
 |#|remnant-2|Remnant 2|49,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|remnant-from-the-ashes|Remnant: From the Ashes|39,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|restless-soul-d5baed|Restless Soul|11,99€|80|2023-12-13 16h|2024-01-10 16h|
@@ -1094,6 +1096,7 @@
 |#|saboteur-ii-avenging-angel-33e83c|Saboteur II Avenging Angel|7,19€|20|2024-01-05 23h|2024-02-04 23h|
 |#|saboteur-sio-123236|Saboteur SiO|9,89€|20|2024-01-05 23h|2024-02-04 23h|
 |#|saboteur-f3d01d|Saboteur!|7,19€|20|2024-01-05 23h|2024-02-04 23h|
+|#|eden-island-8cd344|Eden Island|8,99€|30|2024-01-10 12h|2024-01-15 15h|
 |#|life-after-death-b4e964|Life After Death|4,49€|40|2024-01-22 01h|2024-02-10 01h|
 |#|skotos-455463|Skotos|5,39€|16|2024-02-01 07h|2024-02-29 23h|
 |#|amber-1e2240|Amber|26,99€|34|2024-02-14 13h|2024-02-20 13h|

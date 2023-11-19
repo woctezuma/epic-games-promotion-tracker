@@ -846,6 +846,7 @@
 |#|caverns-of-mars-recharged-6686f6|Caverns of Mars Recharged|8,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|centipede-recharged|Centipede: Recharged|8,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|creepy-tale-3-ingrid-penance-1daff4|Creepy Tale 3 - Ingrid Penance|8,99€|40|2023-12-13 16h|2024-01-10 16h|
+|#|eden-island-8cd344|Eden Island|8,99€|30|2024-01-10 12h|2024-01-15 15h|
 |#|eigengrau-62aef0|Eigengrau|8,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|forklift-extreme-deluxe-edition-50689a|Forklift Extreme - Deluxe Edition|8,99€|90|2023-12-13 16h|2024-01-10 16h|
 |#|gardenia-630482|Gardenia|8,99€|20|2023-11-28 15h|2023-12-05 15h|
@@ -955,6 +956,7 @@
 |#|mallofmayhem-15344c|Mall of Mayhem|5,39€|19|2024-07-01 06h|2024-07-30 22h|
 |#|mallofmayhem-15344c|Mall of Mayhem|5,39€|17|2024-10-01 06h|2024-10-30 22h|
 |#|picklock-33eab8|Picklock|5,39€|40|2023-12-13 16h|2024-01-10 16h|
+|#|remains-dcb937|Remains|5,39€|30|2023-12-13 16h|2024-01-10 16h|
 |#|shop-tycoon-prepare-your-wallet-e705ba|Shop Tycoon - Prepare Your Wallet|5,39€|90|2023-12-14 16h|2024-01-10 16h|
 |#|skotos-455463|Skotos|5,39€|16|2024-02-01 07h|2024-02-29 23h|
 |#|skotos-455463|Skotos|5,39€|15|2024-05-01 06h|2024-05-30 22h|
@@ -1056,6 +1058,7 @@
 |#|kao-the-kangaroo-round-2-5d4d25|Kao the Kangaroo - Round 2|1,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|upaon-a-snakes-journey-672f92|Upaon A Snakes Journey|1,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|bad-rats-show-1b74cf|Bad Rats Show|1,79€|90|2023-12-13 16h|2024-01-10 16h|
+|#|evalinathe-sorceress-a9a60a|Evalina The Sorceress|1,79€|15|2023-11-29 22h|2023-12-14 22h|
 |#|galacticdefender-0d9f3d|Galactic Defender|1,79€|50|2023-11-28 15h|2023-12-05 15h|
 |#|island-cities-0a3026|Island Cities|1,79€|30|2023-11-28 15h|2023-12-05 15h|
 |#|kill-fish-1c85e9|Kill Fish|1,79€|50|2023-12-13 16h|2024-01-10 16h|

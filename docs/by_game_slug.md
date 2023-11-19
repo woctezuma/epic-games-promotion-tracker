@@ -262,6 +262,7 @@
 |#|ebenezer-and-the-invisible-world-9241e7|Ebenezer and the Invisible World|19,99€|20|2023-12-13 16h|2024-01-10 16h|
 |#|ebola-2-b61221|EBOLA 2|13,49€|40|2023-12-13 16h|2024-01-10 16h|
 |#|ebola-3-2c79e9|EBOLA 3|17,99€|40|2023-12-13 16h|2024-01-10 16h|
+|#|eden-island-8cd344|Eden Island|8,99€|30|2024-01-10 12h|2024-01-15 15h|
 |#|edge-of-galaxy-092087|Edge Of Galaxy|6,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|effie-f06e3c|Effie|16,79€|75|2023-12-13 16h|2024-01-10 16h|
 |#|eigengrau-62aef0|Eigengrau|8,99€|30|2023-12-13 16h|2024-01-10 16h|
@@ -282,6 +283,7 @@
 |#|eternights-c2fbca|Eternights|29,99€|33|2023-12-13 16h|2024-01-10 16h|
 |#|etherborn-00f378|Etherborn|13,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|europa-universalis-iv|Europa Universalis IV|39,99€|70|2023-12-13 16h|2024-01-10 16h|
+|#|evalinathe-sorceress-a9a60a|Evalina The Sorceress|1,79€|15|2023-11-29 22h|2023-12-14 22h|
 |#|expeditions-conquistador|Expeditions: Conquistador|19,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|expeditions-rome|Expeditions: Rome|44,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|expeditions-viking|Expeditions: Viking|29,99€|75|2023-12-13 16h|2024-01-10 16h|
@@ -686,6 +688,7 @@
 |#|redout-space-assault|Redout: Space Assault|7,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|relegion-fe9684|Re-Legion|9,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|relicta|Relicta|19,99€|90|2023-12-13 16h|2024-01-10 16h|
+|#|remains-dcb937|Remains|5,39€|30|2023-12-13 16h|2024-01-10 16h|
 |#|remnant-2|Remnant 2|49,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|remnant-from-the-ashes|Remnant: From the Ashes|39,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|replikator-6adddc|REPLIKATOR|9,99€|55|2023-12-13 16h|2024-01-10 16h|
