@@ -90,6 +90,15 @@
     "title": "9 Years of Shadows"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "a-game-of-thrones-5858a3",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "A Game Of Thrones: The Board Game Digital Edition"
+  },
+  {
     "discountPercentage": 35,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -261,6 +270,24 @@
     "title": "Against the Storm"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "agatha-christie-hercule-poirot-london-cases-c81a32",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Agatha Christie - Hercule Poirot: The London Case"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "agatha-christie-murder-on-the-orient-express-a53833",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Agatha Christie - Murder on the Orient Express"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -322,6 +349,15 @@
     "slug": "alex-kidd-in-miracle-world-dx",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Alex Kidd in Miracle World DX"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "alfredhitchockvertigo-c58904",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Alfred Hitchcock - Vertigo"
   },
   {
     "discountPercentage": 75,
@@ -511,6 +547,15 @@
     "slug": "arcadegeddon",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Arcadegeddon"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "arkanoid-eternal-battle-e1b089",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Arkanoid - Eternal Battle"
   },
   {
     "discountPercentage": 45,
@@ -718,6 +763,24 @@
     "slug": "asterix-and-obelix-heroes",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Asterix and Obelix Heroes"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "asterix-and-obelix-slap-them-all-2-0ca63e",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Asterix and Obelix Slap Them All 2"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "asterix-and-obelix-xxxl-the-ram-of-hibernia-3eb1f4",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Asterix and Obelix XXXL - The Ram of Hibernia"
   },
   {
     "discountPercentage": 50,
@@ -2475,6 +2538,15 @@
     "title": "Dolmenjord - Viking Islands"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "dolphin-spirit-ocean-mission-2d0f3b",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Dolphin Spirit - Ocean Mission"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -3573,6 +3645,15 @@
     "title": "Gigapocalypse"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3499,
+    "slug": "gloomhaven-92f741",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Gloomhaven"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -3870,6 +3951,15 @@
     "title": "Hellpoint"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "hercule-poirot-the-first-cases-584238",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Hercule Poirot - The First Cases"
+  },
+  {
     "discountPercentage": 10,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -3994,6 +4084,15 @@
     "slug": "horror-story-hallowseed",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Horror Story: Hallowseed"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "horse-tales-emerald-valley-ranch-240ae8",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Horse Tales - Emerald Valley Ranch"
   },
   {
     "discountPercentage": 50,
@@ -4174,6 +4273,15 @@
     "slug": "insectipede-a2174d",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Insectipede"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "inspector-gadget-mad-time-party-1dc812",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Inspector Gadget - Mad Time Party"
   },
   {
     "discountPercentage": 80,
@@ -4669,6 +4777,15 @@
     "slug": "kombinara-e5baa8",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Kombinera"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-11-28T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "kredolis-cbd516",
+    "startDate": "2023-11-23T17:00:00.000Z",
+    "title": "Kredolis"
   },
   {
     "discountPercentage": 35,
@@ -5643,6 +5760,24 @@
     "title": "NEO: The World Ends with You"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "new-joe-and-mac-caveman-ninja-bbaa73",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "NEW Joe and Mac Caveman Ninja"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "noob-the-factionless-ac623f",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "NOOB - The Factionless"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -5974,6 +6109,15 @@
     "slug": "open-country",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Open Country"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "operation-wolf-returns-first-mission-vr-446fba",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Operation Wolf Returns: First Mission VR"
   },
   {
     "discountPercentage": 10,
@@ -8298,6 +8442,15 @@
     "title": "Surviving Mars"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2239,
+    "slug": "survivor-castaway-island-16f672",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Survivor - Castaway Island"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -8512,6 +8665,15 @@
     "slug": "terra-nil-508d16",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Terra Nil"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "terraforming-mars-18c3ad",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Terraforming Mars"
   },
   {
     "discountPercentage": 75,
@@ -9223,6 +9385,24 @@
     "slug": "the-silent-age-eb6972",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "The Silent Age"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "the-smurfs-2-the-prisonner-of-the-green-stone-ba4653",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "The Smurfs 2 - The Prisoner of the Green Stone"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "the-smurfs-mission-vileaf-b1b351",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "The Smurfs Mission Vileaf"
   },
   {
     "discountPercentage": 75,
@@ -10663,6 +10843,15 @@
     "slug": "xcom-2",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "XCOM\u00ae 2"
+  },
+  {
+    "discountPercentage": 85,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "xiii-07f8c3",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "XIII"
   },
   {
     "discountPercentage": 25,
