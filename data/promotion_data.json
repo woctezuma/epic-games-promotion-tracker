@@ -8856,6 +8856,15 @@
     "title": "The Ecdysis"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "the-elder-scrolls-online",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "The Elder Scrolls Online"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -8872,6 +8881,24 @@
     "slug": "the-eternal-cylinder",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "The Eternal Cylinder"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "the-evil-within",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "The Evil Within"
+  },
+  {
+    "discountPercentage": 85,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "the-evil-within-2",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "The Evil Within 2"
   },
   {
     "discountPercentage": 40,
@@ -9403,6 +9430,15 @@
     "slug": "the-spectrum-retreat",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "The Spectrum Retreat"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "the-sports-trivia-challenge-86c29f",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "The Sports Trivia Challenge"
   },
   {
     "discountPercentage": 85,
