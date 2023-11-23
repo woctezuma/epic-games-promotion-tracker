@@ -24,6 +24,7 @@
 |#|horse-club-adventures-2-hazelwood-stories-b257d3|HORSE CLUB Adventures 2 - Hazelwood Stories|17,99€|35|2023-11-28 15h|2023-12-05 15h|
 |#|island-cities-0a3026|Island Cities|1,79€|30|2023-11-28 15h|2023-12-05 15h|
 |#|match-village-5f41dd|Match Village|3,59€|35|2023-11-28 15h|2023-12-05 15h|
+|#|metamorphosis-547d51|Metamorphosis|22,39€|50|2023-11-28 15h|2023-12-05 15h|
 |#|monsters-of-mican-02e3ee|Monsters of Mican|8,99€|25|2023-11-28 15h|2023-12-05 15h|
 |#|number-one-fighter-26f88c|Number One Fighter|4,49€|50|2023-11-28 15h|2023-12-05 15h|
 |#|outcore-desktop-adventure-eb3aff|Outcore - Desktop Adventure|8,99€|30|2023-11-28 15h|2023-12-05 15h|
