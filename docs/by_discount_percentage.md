@@ -93,7 +93,6 @@
 |#|train-valley-ead642|Train Valley|7,99€|85|2023-12-13 16h|2024-01-10 16h|
 |#|urban-trial-playground-41e403|Urban Trial Playground|6,99€|85|2023-12-13 16h|2024-01-10 16h|
 |#|wrc-8|WRC 8 FIA World Rally Championship|29,99€|85|2023-12-13 16h|2024-01-10 16h|
-|#|warhammer-mechanicus-0e4b71|Warhammer 40,000: Mechanicus - Standard Edition|29,99€|85|2023-12-13 16h|2024-01-10 16h|
 |#|watch-dogs-2|Watch Dogs 2 Standard Edition|59,99€|85|2023-12-13 16h|2024-01-10 16h|
 |#|watch-dogs|Watch Dogs Standard Edition|29,99€|85|2023-12-13 16h|2024-01-10 16h|
 |#|watch-dogs-legion|Watch Dogs: Legion Standard Edition|59,99€|85|2023-12-13 16h|2024-01-10 16h|
@@ -102,7 +101,6 @@
 |#|xiii-07f8c3|XIII|19,99€|85|2023-12-13 16h|2024-01-10 16h|
 |#|encased|Encased|29,99€|84|2023-12-13 16h|2024-01-10 16h|
 |#|siege-survival-gloria-victis|Siege Survival - Gloria Victis|24,99€|84|2023-12-13 16h|2024-01-10 16h|
-|#|rise-of-industry-0af838|Rise of Industry|29,99€|83|2023-12-13 16h|2024-01-10 16h|
 |#|project-highrise-a567e8|Project Highrise|19,99€|82|2023-12-13 16h|2024-01-10 16h|
 |#|762-high-calibre-762-hard-life-93f60a|7,62 High Calibre|4,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|adventures-of-chris-64c13b|Adventures of Chris|11,99€|80|2023-12-13 16h|2024-01-10 16h|
@@ -249,9 +247,7 @@
 |#|watch-dogs-legion--ultimate-edition|Watch Dogs: Legion Ultimate Edition|119,99€|80|2023-12-28 17h|2024-01-10 17h|
 |#|yooka-laylee|Yooka-Laylee|39,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|thehunter-call-of-the-wild|theHunter: Call of the Wild™|19,99€|80|2023-12-13 16h|2024-01-10 16h|
-|#|filament-332a92|Filament|16,99€|78|2023-12-13 16h|2024-01-10 16h|
 |#|those-who-remain|Those Who Remain|19,99€|78|2023-12-13 16h|2024-01-10 16h|
-|#|city-of-gangsters-6c2974|City of Gangsters|29,99€|77|2023-12-13 16h|2024-01-10 16h|
 |#|nioh-the-complete-edition|Nioh: The Complete Edition|49,99€|77|2023-12-13 16h|2024-01-10 16h|
 |#|3DMark|3DMark|33,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|abzu|ABZU|15,99€|75|2023-12-13 16h|2024-01-10 16h|
@@ -474,10 +470,8 @@
 |#|pathfinder-wrath-of-the-righteous|Pathfinder: Wrath of the Righteous - Enhanced Edition|39,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|pumpkin-jack|Pumpkin Jack|29,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|rayman-origins|Rayman Origins|9,99€|70|2023-12-13 16h|2024-01-10 16h|
-|#|recipe-for-disaster-83726f|Recipe for Disaster|16,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|remnant-from-the-ashes|Remnant: From the Ashes|39,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|reyna-darkness-0e1bb8|Reyna Darkness|24,65€|70|2023-12-06 18h|2024-01-05 18h|
-|#|ring-of-pain|Ring of Pain|19,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|rollercoaster-tycoon-3-complete-edition|RollerCoaster Tycoon 3 Complete Edition|19,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|superhot|SUPERHOT|22,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|samorost-2-1b9bb1|Samorost 2|4,99€|70|2023-12-13 16h|2024-01-10 16h|
@@ -506,7 +500,6 @@
 |#|blood-and-zombies-4273b6|Blood and Zombies|14,99€|67|2023-12-21 14h|2024-01-06 05h|
 |#|clouzy-c67f4b|Clouzy|11,99€|67|2023-12-21 14h|2024-01-06 05h|
 |#|disc-room|DISC ROOM|14,99€|67|2023-12-13 16h|2024-01-10 16h|
-|#|doom-64|DOOM 64|4,99€|67|2023-12-13 16h|2024-01-10 16h|
 |#|disaster-report-4-summer-memories|Disaster Report 4: Summer Memories|59,99€|67|2023-12-13 16h|2024-01-10 16h|
 |#|fallout-3-game-of-the-year-edition|Fallout 3: Game of the Year Edition|19,99€|67|2023-12-13 16h|2024-01-10 16h|
 |#|funtasia-furry-road-bd0756|Funtasia|14,99€|67|2023-12-21 14h|2024-01-06 05h|
