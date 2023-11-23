@@ -261,6 +261,15 @@
     "title": "Aerial_Knight's Never Yield"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "afterparty",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Afterparty"
+  },
+  {
     "discountPercentage": 35,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -1254,6 +1263,15 @@
     "discountPercentage": 50,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
+    "originalPrice": 1599,
+    "slug": "boyfriend-dungeon",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Boyfriend Dungeon"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
     "originalPrice": 2699,
     "slug": "bramble-the-mountain-king-c0d1c6",
     "startDate": "2023-12-13T16:00:00.000Z",
@@ -1447,6 +1465,15 @@
     "slug": "call-of-the-wild-the-angler",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Call of the Wild: The Angler\u2122"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "carcassonne",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Carcassonne"
   },
   {
     "discountPercentage": 40,
@@ -5022,6 +5049,15 @@
     "title": "Lost Abroad Cafe - A Language Learning Management"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3499,
+    "slug": "lost-eidolons",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Lost Eidolons"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -6273,6 +6309,15 @@
     "title": "Overtop"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "oxenfree",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Oxenfree"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -6660,6 +6705,15 @@
     "title": "Punch Club 2: Fast Forward"
   },
   {
+    "discountPercentage": 35,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "pupperazzi",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Pupperazzi"
+  },
+  {
     "discountPercentage": 67,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -6739,6 +6793,15 @@
     "slug": "rage-2",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "RAGE 2"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2699,
+    "slug": "railgrade",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "RAILGRADE"
   },
   {
     "discountPercentage": 80,
@@ -8478,6 +8541,15 @@
     "title": "Swordship"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "syberia-the-world-before",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Syberia: The World Before"
+  },
+  {
     "discountPercentage": 35,
     "endDate": "2024-01-06T05:00:00.000Z",
     "isFree": false,
@@ -8692,6 +8764,15 @@
     "slug": "terrordrome-reign-of-terror-a75c3a",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Terrordrome - Reign of the Legends"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3199,
+    "slug": "tetris-effect",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Tetris\u00ae Effect: Connected"
   },
   {
     "discountPercentage": 75,
@@ -10618,6 +10699,15 @@
     "slug": "warhammer-mechanicus-0e4b71",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Warhammer 40,000: Mechanicus - Standard Edition"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-01-04T18:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "warhammer-age-of-sigmar-realms-of-ruin",
+    "startDate": "2023-12-21T18:00:00.000Z",
+    "title": "Warhammer Age of Sigmar: Realms of Ruin"
   },
   {
     "discountPercentage": 80,
