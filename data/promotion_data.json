@@ -1683,6 +1683,15 @@
     "title": "City of Beats"
   },
   {
+    "discountPercentage": 77,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "city-of-gangsters-6c2974",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "City of Gangsters"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2023-12-12T16:00:00.000Z",
     "isFree": false,
@@ -2023,6 +2032,15 @@
     "slug": "doom-3",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "DOOM 3"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 499,
+    "slug": "doom-64",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "DOOM 64"
   },
   {
     "discountPercentage": 60,
@@ -3186,6 +3204,15 @@
     "title": "Figment 2: Creed Valley"
   },
   {
+    "discountPercentage": 78,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1699,
+    "slug": "filament-332a92",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Filament"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -3769,6 +3796,15 @@
     "slug": "guardians-of-hyelore-0b07d3",
     "startDate": "2023-12-21T14:00:00.000Z",
     "title": "Guardians of Hyelore"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2023-12-07T03:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1619,
+    "slug": "haak-1401cb",
+    "startDate": "2023-11-30T03:00:00.000Z",
+    "title": "HAAK"
   },
   {
     "discountPercentage": 35,
@@ -6822,6 +6858,15 @@
     "title": "Rebel Cops"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1699,
+    "slug": "recipe-for-disaster-83726f",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Recipe for Disaster"
+  },
+  {
     "discountPercentage": 33,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -7054,6 +7099,24 @@
     "slug": "rignroll-522598",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Rig'n'Roll"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "ring-of-pain",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Ring of Pain"
+  },
+  {
+    "discountPercentage": 83,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "rise-of-industry-0af838",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Rise of Industry"
   },
   {
     "discountPercentage": 80,
@@ -10555,6 +10618,15 @@
     "slug": "warhammer-40000-gladius-relics-of-war",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Warhammer 40,000: Gladius - Relics of War"
+  },
+  {
+    "discountPercentage": 85,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "warhammer-mechanicus-0e4b71",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Warhammer 40,000: Mechanicus - Standard Edition"
   },
   {
     "discountPercentage": 80,
