@@ -3834,6 +3834,15 @@
     "title": "HAAK"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 6999,
+    "slug": "hitman-3-woa",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "HITMAN World of Assassination"
+  },
+  {
     "discountPercentage": 35,
     "endDate": "2023-12-05T15:00:00.000Z",
     "isFree": false,
@@ -4237,6 +4246,15 @@
     "slug": "industria",
     "startDate": "2023-11-26T16:00:00.000Z",
     "title": "INDUSTRIA"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "inside",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "INSIDE"
   },
   {
     "discountPercentage": 43,
@@ -5002,6 +5020,15 @@
     "slug": "lilas-sky-ark-610f75",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Lila's Sky Ark"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "limbo",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Limbo"
   },
   {
     "discountPercentage": 25,
