@@ -764,6 +764,7 @@
 |#|luckygoal-201ee6|Lucky Goal|4,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|maid-of-sker-2ae24e|Maid of Sker|19,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|marble-it-up-ultra-7b5692|Marble It Up! Ultra|26,99€|50|2023-12-13 16h|2024-01-10 16h|
+|#|metamorphosis-547d51|Metamorphosis|22,39€|50|2023-11-28 15h|2023-12-05 15h|
 |#|missile-command-recharged-2022-33e34b|Missile Command: Recharged2022|7,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|model-builder-f9b456|Model Builder|16,79€|50|2023-12-13 16h|2024-01-10 16h|
 |#|monster-outbreak-2e8c08|Monster Outbreak|14,99€|50|2023-12-21 14h|2024-01-06 05h|

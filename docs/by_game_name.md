@@ -604,6 +604,7 @@
 |#|men-of-war-condemned-heroes-5947be|Men of War Condemned Heroes|7,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|men-of-war-red-tide-984ee6|Men of War: Red Tide|4,99€|90|2023-12-13 16h|2024-01-10 16h|
 |#|men-of-war-vietnam-a61b4f|Men of War: Vietnam - Special edition|8,99€|80|2023-12-13 16h|2024-01-10 16h|
+|#|metamorphosis-547d51|Metamorphosis|22,39€|50|2023-11-28 15h|2023-12-05 15h|
 |#|metro-2033-redux|Metro 2033 Redux|19,99€|90|2023-12-13 16h|2024-01-10 16h|
 |#|metro-exodus|Metro Exodus Standard Edition|29,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|metro-last-light-redux|Metro Last Light Redux|19,99€|90|2023-12-13 16h|2024-01-10 16h|
