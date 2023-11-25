@@ -936,15 +936,6 @@
     "title": "Awesome Pea 2"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2023-12-09T22:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 269,
-    "slug": "aya-and-naya-b7791e",
-    "startDate": "2023-11-24T22:00:00.000Z",
-    "title": "Aya & Naya"
-  },
-  {
     "discountPercentage": 60,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -1296,7 +1287,7 @@
     "title": "Bob A thousand lives - Enhanced Edition"
   },
   {
-    "discountPercentage": 20,
+    "discountPercentage": 19,
     "endDate": "2023-12-30T23:00:00.000Z",
     "isFree": false,
     "originalPrice": 539,
@@ -4041,6 +4032,24 @@
     "title": "Gray Dawn"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1950,
+    "slug": "guacamelee-2-ac4977",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Guacamelee! 2"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1479,
+    "slug": "guacamelee-stce-7cdbc8",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Guacamelee! Super Turbo Championship Edition"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-01-06T05:00:00.000Z",
     "isFree": false,
@@ -4597,6 +4606,15 @@
     "slug": "insectipede-a2174d",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Insectipede"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-12-05T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "inside-soccer-2bf632",
+    "startDate": "2023-11-28T15:00:00.000Z",
+    "title": "Inside Soccer"
   },
   {
     "discountPercentage": 40,
@@ -6714,6 +6732,15 @@
     "title": "Outlast 2"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1169,
+    "slug": "outlive-e2f5b1",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Outlive"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -8118,6 +8145,15 @@
     "title": "Scott Pilgrim vs. The World: The Game \u2013 Complete Edition"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1699,
+    "slug": "scourgebringer",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Scourgebringer"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -8404,6 +8440,15 @@
     "slug": "skotos-455463",
     "startDate": "2024-08-01T06:00:00.000Z",
     "title": "Skotos"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": " skabma-snowfall",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Sk\u00e1bma - Snowfall"
   },
   {
     "discountPercentage": 80,
@@ -9585,6 +9630,15 @@
     "title": "The Forest Quartet"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "the-forgotten-city",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "The Forgotten City"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-01-06T04:00:00.000Z",
     "isFree": false,
@@ -10672,15 +10726,6 @@
     "slug": "tour-de-france-2023",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Tour de France 2023"
-  },
-  {
-    "discountPercentage": 85,
-    "endDate": "2023-11-27T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 179,
-    "slug": "mistborn-tower-defense-2816ff",
-    "startDate": "2023-11-24T18:00:00.000Z",
-    "title": "Tower Defense 3D Fusion"
   },
   {
     "discountPercentage": 60,
