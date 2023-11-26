@@ -10,7 +10,7 @@
 |#|762-high-calibre-762-hard-life-93f60a|7,62 High Calibre|4,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|9-years-of-shadows-a40c92|9 Years of Shadows|19,99€|30|2023-12-21 14h|2024-01-06 05h|
 |#|a-game-of-thrones-5858a3|A Game Of Thrones: The Board Game Digital Edition|19,99€|50|2023-12-13 16h|2024-01-10 16h|
-|#|a-heros-rest-67f117|A Hero's Rest: An RPG Town Simulator|24,50€|35|2023-12-13 16h|2024-01-10 16h|
+|#|a-heros-rest-67f117|A Hero's Rest: An RPG Town Simulator|24,50€|25|2023-12-13 16h|2024-01-10 16h|
 |#|a-knights-quest|A Knights Quest|24,99€|90|2023-12-18 18h|2024-01-17 18h|
 |#|a-long-journey-to-an-uncertain-end-514c7e|A Long Journey to an Uncertain End|22,39€|25|2023-12-13 16h|2024-01-10 16h|
 |#|a-plague-tale-bundle|A Plague Tale Bundle|69,99€|55|2023-12-13 16h|2024-01-10 16h|
@@ -137,6 +137,7 @@
 |#|blind-fate-edo-no-yami-87e748|Blind Fate: Edo no Yami|15,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|blood-and-zombies-4273b6|Blood and Zombies|14,99€|67|2023-12-21 14h|2024-01-06 05h|
 |#|blood-bowl-3|Blood Bowl 3|29,99€|30|2023-12-13 16h|2024-01-10 16h|
+|#|blood-hunting-cec461|Blood Hunting|17,99€|30|2023-11-29 05h|2023-12-29 05h|
 |#|bloodshore-939cb0|Bloodshore|9,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|bloons-td-6-bf95a0|Bloons TD 6|10,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|blossom-tales-ii-the-minotaur-prince-e74c95|Blossom Tales II The Minotaur Prince|12,49€|35|2023-12-13 16h|2024-01-10 16h|
@@ -508,7 +509,6 @@
 |#|il2-sturmovik-1946-4afaf1|IL-2 Sturmovik: 1946|9,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|im-looking-for-3024-people-1cdae4|I'm looking for 3024 people|3,99€|50|2023-11-30 22h|2023-12-15 22h|
 |#|imagine-earth-7498e4|Imagine Earth|24,99€|55|2023-12-13 16h|2024-01-10 16h|
-|#|industria|INDUSTRIA|19,99€|60|2023-11-26 16h|2023-12-25 16h|
 |#|inertial-drift|Inertial Drift|15,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|innerspace|InnerSpace|19,99€|95|2023-12-13 16h|2024-01-10 16h|
 |#|inscryption-6b29ab|Inscryption|19,98€|40|2023-12-13 16h|2024-01-10 16h|
@@ -560,6 +560,7 @@
 |#|keep-in-mind-remastered-6ee77a|Keep in Mind Remastered|1,59€|60|2023-12-13 16h|2024-01-10 16h|
 |#|kerbal-space-program|Kerbal Space Program|39,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|kerbal-space-program-2|Kerbal Space Program 2|49,99€|20|2023-12-13 16h|2024-01-10 16h|
+|#|keywe-c3a70e|KeyWe|19,99€|66|2023-12-13 16h|2024-01-10 16h|
 |#|kholat-3f394b|Kholat|17,99€|88|2023-12-13 16h|2024-01-10 16h|
 |#|kill-fish-1c85e9|Kill Fish|1,79€|50|2023-12-13 16h|2024-01-10 16h|
 |#|kill-it-with-fire|Kill It With Fire|11,99€|75|2023-12-13 16h|2024-01-10 16h|
@@ -603,9 +604,9 @@
 |#|life-after-death-b4e964|Life After Death|4,49€|40|2024-01-22 01h|2024-02-10 01h|
 |#|life-after-death-b4e964|Life After Death|4,49€|40|2024-03-11 01h|2024-04-04 00h|
 |#|lifeless-planet-premier-edition|Lifeless Planet: Premier Edition|15,99€|80|2023-12-13 16h|2024-01-10 16h|
+|#|lifespace-traveler-1cc49a|Lifespace Traveler|13,49€|50|2023-12-05 16h|2023-12-12 16h|
 |#|lilas-sky-ark-610f75|Lila's Sky Ark|11,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|limbo|Limbo|9,99€|75|2023-12-13 16h|2024-01-10 16h|
-|#|lines-guarder-174742|Line's Guarder|8,99€|25|2023-11-26 16h|2023-12-11 16h|
 |#|little-inferno|Little Inferno|11,99€|66|2023-12-13 16h|2024-01-10 16h|
 |#|loop-hero|Loop Hero|14,99€|67|2023-12-13 16h|2024-01-10 16h|
 |#|lords-and-villeins-746931|Lords and Villeins|24,99€|50|2023-12-13 16h|2024-01-10 16h|
@@ -613,7 +614,7 @@
 |#|lost-eidolons|Lost Eidolons|34,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|lovecraft-untold-stories-2-a0857a|Lovecraft's Untold Stories 2|19,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|lovecrafts-untold-stories|Lovecraft's Untold Stories|14,99€|80|2023-12-13 16h|2024-01-10 16h|
-|#|luckygoal-201ee6|Lucky Goal|4,99€|50|2023-12-13 16h|2024-01-10 16h|
+|#|luckygoal-201ee6|Lucky Goal|4,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|lumote|Lumote: The Mastermote Chronicles|19,99€|65|2023-12-13 16h|2024-01-10 16h|
 |#|lunarlux-41403d|LunarLux|19,99€|25|2023-12-21 14h|2024-01-06 05h|
 |#|mable-and-the-wood-9bd697|Mable & The Wood|11,99€|80|2023-12-13 16h|2024-01-10 16h|
@@ -1126,6 +1127,7 @@
 |#|the-plane-effect|The Plane Effect|14,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|the-red-exile-67804a|The Red Exile: Survival Horror|4,49€|25|2023-12-13 16h|2024-01-10 16h|
 |#|the-red-lantern|The Red Lantern|19,99€|70|2023-12-13 16h|2024-01-10 16h|
+|#|the-repair-house-349cf9|The Repair House: Restoration Sim|19,99€|33|2023-12-13 16h|2024-01-10 16h|
 |#|the-riftbreaker|The Riftbreaker|29,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|the-settlers|The Settlers®: New Allies|59,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|the-shapeshifting-detective-ef0f21|The Shapeshifting Detective|9,99€|50|2023-12-13 16h|2024-01-10 16h|

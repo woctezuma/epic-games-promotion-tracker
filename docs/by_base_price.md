@@ -388,7 +388,7 @@
 |#|wrath-aeon-of-ruin|Wrath: Aeon of Ruin|24,99€|20|2023-12-13 16h|2024-01-10 16h|
 |#|zorro-the-chronicles|Zorro The Chronicles|24,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|reyna-darkness-0e1bb8|Reyna Darkness|24,65€|70|2023-12-06 18h|2024-01-05 18h|
-|#|a-heros-rest-67f117|A Hero's Rest: An RPG Town Simulator|24,50€|35|2023-12-13 16h|2024-01-10 16h|
+|#|a-heros-rest-67f117|A Hero's Rest: An RPG Town Simulator|24,50€|25|2023-12-13 16h|2024-01-10 16h|
 |#|ash-of-gods-the-way-58bd36|Ash of Gods: The Way|24,50€|25|2023-12-13 16h|2024-01-10 16h|
 |#|goblins-of-elderstone-330b84|Goblins of Elderstone|24,50€|25|2023-12-13 16h|2024-01-10 16h|
 |#|land-of-the-vikings-d542d8|Land of the Vikings|24,50€|25|2023-12-13 16h|2024-01-10 16h|
@@ -513,7 +513,6 @@
 |#|hood-outlaws-and-legends|Hood: Outlaws & Legends|19,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|horror-story-hallowseed|Horror Story: Hallowseed|19,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|hundred-days-winemaking-simulator|Hundred Days - Winemaking Simulator|19,99€|66|2023-12-22 07h|2024-01-07 23h|
-|#|industria|INDUSTRIA|19,99€|60|2023-11-26 16h|2023-12-25 16h|
 |#|inside|INSIDE|19,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|innerspace|InnerSpace|19,99€|95|2023-12-13 16h|2024-01-10 16h|
 |#|insurmountable-b02c31|Insurmountable|19,99€|80|2023-12-13 16h|2024-01-10 16h|
@@ -521,6 +520,7 @@
 |#|jitsu-squad-af3f2f|Jitsu Squad|19,99€|100|2023-11-30 16h|2023-12-07 16h|
 |#|kapital-sparks-of-revolution-70f07b|Kapital: Sparks of Revolution|19,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|kaze-and-the-wild-masks-94a27d|Kaze and the Wild Masks|19,99€|10|2023-11-30 08h|2023-12-07 08h|
+|#|keywe-c3a70e|KeyWe|19,99€|66|2023-12-13 16h|2024-01-10 16h|
 |#|kitaria-fables|Kitaria Fables|19,99€|67|2023-12-13 16h|2024-01-10 16h|
 |#|knight-vs-giant-the-broken-excalibur-230c5c|Knight vs Giant: The Broken Excalibur|19,99€|15|2023-12-13 16h|2024-01-10 16h|
 |#|laika-3293ee|Laika: Aged Through Blood|19,99€|20|2023-12-13 16h|2024-01-10 16h|
@@ -595,6 +595,7 @@
 |#|the-life-and-suffering-of-sir-brante|The Life and Suffering of Sir Brante|19,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|the-pegasus-expedition-224279|The Pegasus Expedition|19,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|the-red-lantern|The Red Lantern|19,99€|70|2023-12-13 16h|2024-01-10 16h|
+|#|the-repair-house-349cf9|The Repair House: Restoration Sim|19,99€|33|2023-12-13 16h|2024-01-10 16h|
 |#|the-smurfs-mission-vileaf-b1b351|The Smurfs Mission Vileaf|19,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|those-who-remain|Those Who Remain|19,99€|78|2023-12-13 16h|2024-01-10 16h|
 |#|through-the-woods-4dad49|Through the Woods|19,99€|80|2023-12-13 16h|2024-01-10 16h|
@@ -647,6 +648,7 @@
 |#|brok-the-investigator-fb0513|BROK the InvestiGator|17,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|banners-of-ruin|Banners of Ruin|17,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|beacon-pines-629fc3|Beacon Pines|17,99€|40|2023-11-28 15h|2023-12-05 15h|
+|#|blood-hunting-cec461|Blood Hunting|17,99€|30|2023-11-29 05h|2023-12-29 05h|
 |#|bus-world-5de29e|Bus World|17,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|cepheus-protocol-388fe9|Cepheus Protocol|17,99€|15|2023-12-13 16h|2024-01-10 16h|
 |#|choochoo-charles-0eece5|Choo-Choo Charles|17,99€|50|2023-12-13 16h|2024-01-10 16h|
@@ -867,6 +869,7 @@
 |#|i-am-future-cozy-apocalypse-survival-6b452c|I Am Future - Cozy Apocalypse Survival|13,49€|35|2023-12-13 16h|2024-01-10 16h|
 |#|kana-quest-7defa0|Kana Quest|13,49€|50|2023-12-13 16h|2024-01-10 16h|
 |#|learning-factory-4d2213|Learning Factory|13,49€|35|2023-12-13 16h|2024-01-10 16h|
+|#|lifespace-traveler-1cc49a|Lifespace Traveler|13,49€|50|2023-12-05 16h|2023-12-12 16h|
 |#|metro-simulator-494510|Metro Simulator|13,49€|80|2023-12-13 16h|2024-01-10 16h|
 |#|metro-simulator-2-532ff8|Metro Simulator 2|13,49€|70|2023-12-13 16h|2024-01-10 16h|
 |#|oirbo-c063b7|Oirbo|13,49€|20|2023-12-22 00h|2023-12-31 12h|
@@ -1053,7 +1056,6 @@
 |#|heroines-of-swords-and-spells-0db5cd|Heroines of Swords & Spells + Green Furies DLC|8,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|hextech-mayhem-a-league-of-legends-story |Hextech Mayhem: A League of Legends Story™|8,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|iron-dungeon-4345a1|Iron Dungeon|8,99€|10|2023-12-13 16h|2024-01-10 16h|
-|#|lines-guarder-174742|Line's Guarder|8,99€|25|2023-11-26 16h|2023-12-11 16h|
 |#|medieval-delivery-938731|Medieval Delivery|8,99€|25|2023-12-13 16h|2024-01-10 16h|
 |#|men-of-war-vietnam-a61b4f|Men of War: Vietnam - Special edition|8,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|monsters-of-mican-02e3ee|Monsters of Mican|8,99€|25|2023-11-28 15h|2023-12-05 15h|
@@ -1171,7 +1173,7 @@
 |#|faces-of-war-3c2686|Faces of War|4,99€|85|2023-12-13 16h|2024-01-10 16h|
 |#|fantasy-wars-ec9601|Fantasy Wars|4,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|kao-the-kangaroo-trilogy|Kao the Kangaroo Trilogy|4,99€|50|2023-12-13 16h|2024-01-10 16h|
-|#|luckygoal-201ee6|Lucky Goal|4,99€|50|2023-12-13 16h|2024-01-10 16h|
+|#|luckygoal-201ee6|Lucky Goal|4,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|men-of-war-74bf75|Men of War|4,99€|85|2023-12-13 16h|2024-01-10 16h|
 |#|men-of-war-red-tide-984ee6|Men of War: Red Tide|4,99€|90|2023-12-13 16h|2024-01-10 16h|
 |#|necrovision-657441|NecroVision|4,99€|90|2023-12-13 16h|2024-01-10 16h|
