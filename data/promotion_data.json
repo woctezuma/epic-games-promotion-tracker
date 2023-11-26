@@ -99,7 +99,7 @@
     "title": "A Game Of Thrones: The Board Game Digital Edition"
   },
   {
-    "discountPercentage": 35,
+    "discountPercentage": 25,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 2450,
@@ -1231,6 +1231,15 @@
     "slug": "blood-bowl-3",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Blood Bowl 3\t"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2023-12-29T05:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "blood-hunting-cec461",
+    "startDate": "2023-11-29T05:00:00.000Z",
+    "title": "Blood Hunting"
   },
   {
     "discountPercentage": 67,
@@ -4527,15 +4536,6 @@
     "title": "IL-2 Sturmovik: 1946"
   },
   {
-    "discountPercentage": 60,
-    "endDate": "2023-12-25T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "industria",
-    "startDate": "2023-11-26T16:00:00.000Z",
-    "title": "INDUSTRIA"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -4977,6 +4977,15 @@
     "title": "Kerbal Space Program 2"
   },
   {
+    "discountPercentage": 66,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "keywe-c3a70e",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "KeyWe"
+  },
+  {
     "discountPercentage": 88,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -5337,6 +5346,15 @@
     "title": "Lifeless Planet: Premier Edition"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-12-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "lifespace-traveler-1cc49a",
+    "startDate": "2023-12-05T16:00:00.000Z",
+    "title": "Lifespace Traveler"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -5353,15 +5371,6 @@
     "slug": "limbo",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Limbo"
-  },
-  {
-    "discountPercentage": 25,
-    "endDate": "2023-12-11T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 899,
-    "slug": "lines-guarder-174742",
-    "startDate": "2023-11-26T16:00:00.000Z",
-    "title": "Line's Guarder"
   },
   {
     "discountPercentage": 66,
@@ -5427,7 +5436,7 @@
     "title": "Lovecraft's Untold Stories 2"
   },
   {
-    "discountPercentage": 50,
+    "discountPercentage": 40,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 499,
@@ -10060,6 +10069,15 @@
     "slug": "the-red-lantern",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "The Red Lantern"
+  },
+  {
+    "discountPercentage": 33,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "the-repair-house-349cf9",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "The Repair House: Restoration Sim"
   },
   {
     "discountPercentage": 40,
