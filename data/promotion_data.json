@@ -27,15 +27,6 @@
     "title": "1428: Shadows over Silesia"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2023-12-05T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1799,
-    "slug": "1775-rebellion-aa5b41",
-    "startDate": "2023-11-28T15:00:00.000Z",
-    "title": "1775 Rebellion"
-  },
-  {
     "discountPercentage": 40,
     "endDate": "2023-12-14T17:00:00.000Z",
     "isFree": false,
@@ -63,12 +54,30 @@
     "title": "688(I) Hunter/Killer"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "combat-naval-package-hunter-killer-685f4a",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "688(I) Hunter/Killer"
+  },
+  {
     "discountPercentage": 66,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1199,
     "slug": "7-billion-humans",
     "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "7 Billion Humans"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "7-billion-humans",
+    "startDate": "2024-02-09T16:00:00.000Z",
     "title": "7 Billion Humans"
   },
   {
@@ -250,15 +259,6 @@
     "slug": "access-denied-escape-1d486e",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Access Denied Escape"
-  },
-  {
-    "discountPercentage": 66,
-    "endDate": "2023-12-05T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2499,
-    "slug": "aces-of-the-luftwaffe-squadron-97086d",
-    "startDate": "2023-11-28T15:00:00.000Z",
-    "title": "Aces of the Luftwaffe - Squadron Extended Edition"
   },
   {
     "discountPercentage": 40,
@@ -457,6 +457,51 @@
     "slug": "amber-1e2240",
     "startDate": "2024-02-14T13:00:00.000Z",
     "title": "Amber"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "amnesia-a-machine-for-pigs",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Amnesia: A Machine for Pigs"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "amnesia-rebirth",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Amnesia: Rebirth"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2239,
+    "slug": "amnesia-the-bunker-9d5799",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Amnesia: The Bunker"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "amnesia-the-dark-descent",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Amnesia: The Dark Descent"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1399,
+    "slug": "among-the-sleep-enhanced-edition",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Among the Sleep - Enhanced Edition"
   },
   {
     "discountPercentage": 75,
@@ -873,6 +918,15 @@
     "title": "Assassin\u2019s Creed\u00ae Valhalla + Immortals Fenyx Rising\u2122 Bundle"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "astalon-tears-of-the-earth-1b2279",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Astalon -Tears of the Earth-"
+  },
+  {
     "discountPercentage": 45,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -925,15 +979,6 @@
     "slug": "astrea-six-sided-oracles-33c949",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Astrea Six Sided Oracles"
-  },
-  {
-    "discountPercentage": 70,
-    "endDate": "2023-12-05T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3499,
-    "slug": "astria-ascending",
-    "startDate": "2023-11-28T15:00:00.000Z",
-    "title": "Astria Ascending"
   },
   {
     "discountPercentage": 50,
@@ -999,6 +1044,15 @@
     "title": "BROK the InvestiGator"
   },
   {
+    "discountPercentage": 85,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "back-4-blood",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Back 4 Blood: Standard Edition"
+  },
+  {
     "discountPercentage": 90,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -1044,6 +1098,51 @@
     "title": "Banners of Ruin"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "batbarian-testament-of-the-primordials-cae61e",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Batbarian: Testament of the Primordials"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "batman-arkham-asylum",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Batman Arkham Asylum Game of the Year Edition"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "batman-arkham-city",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Batman Arkham City Game of the Year Edition"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "batman-arkham-knight",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Batman Arkham Knight"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "batora-lost-haven-1773c3",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Batora: Lost Haven"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -1060,15 +1159,6 @@
     "slug": "beach-invasion-1944-d654d6",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Beach Invasion 1944"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2023-12-05T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1799,
-    "slug": "beacon-pines-629fc3",
-    "startDate": "2023-11-28T15:00:00.000Z",
-    "title": "Beacon Pines"
   },
   {
     "discountPercentage": 30,
@@ -1131,6 +1221,15 @@
     "originalPrice": 799,
     "slug": "big-mutha-truckers-990060",
     "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Big Mutha Truckers 2"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "big-mutha-truckers-990060",
+    "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Big Mutha Truckers 2"
   },
   {
@@ -1231,6 +1330,15 @@
     "slug": "black-widow-recharged",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Black Widow: Recharged"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "blair-witch",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Blair Witch"
   },
   {
     "discountPercentage": 50,
@@ -1422,6 +1530,15 @@
     "title": "Borderlands: The Handsome Collection"
   },
   {
+    "discountPercentage": 25,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 539,
+    "slug": "bosorka-c0e6b6",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Bosorka"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -1546,6 +1663,15 @@
     "slug": "buddy-and-friends-in-halloween-192190",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Buddy and Friends in Halloween"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "bug-fables-the-everlasting-sapling-851aa9",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Bug Fables -The Everlasting Sapling-"
   },
   {
     "discountPercentage": 50,
@@ -1809,12 +1935,30 @@
     "title": "Chernobylite"
   },
   {
+    "discountPercentage": 55,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "chernobylite",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Chernobylite"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1299,
     "slug": "chess-ultra-91bba3",
     "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Chess Ultra"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1299,
+    "slug": "chess-ultra-91bba3",
+    "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Chess Ultra"
   },
   {
@@ -2016,15 +2160,6 @@
     "title": "Company of Crime"
   },
   {
-    "discountPercentage": 25,
-    "endDate": "2023-12-05T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1479,
-    "slug": "compass-of-the-destiny-istanbul-598642",
-    "startDate": "2023-11-28T15:00:00.000Z",
-    "title": "Compass of the Destiny: Istanbul"
-  },
-  {
     "discountPercentage": 30,
     "endDate": "2024-01-11T21:00:00.000Z",
     "isFree": false,
@@ -2115,6 +2250,15 @@
     "title": "Creepy Tale 3 - Ingrid Penance"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T23:59:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "crime-boss",
+    "startDate": "2023-12-15T16:00:00.000Z",
+    "title": "Crime Boss: Rockay City"
+  },
+  {
     "discountPercentage": 55,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -2139,6 +2283,15 @@
     "originalPrice": 999,
     "slug": "culpa-innata-8997ac",
     "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Culpa Innata"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "culpa-innata-8997ac",
+    "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Culpa Innata"
   },
   {
@@ -2347,6 +2500,24 @@
     "slug": "danger-forever-a10e7e",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Danger Forever"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dangerous-waters-61ea56",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Dangerous Waters"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "dangerous-waters-61ea56",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Dangerous Waters"
   },
   {
     "discountPercentage": 75,
@@ -2574,15 +2745,6 @@
     "title": "Deflector"
   },
   {
-    "discountPercentage": 70,
-    "endDate": "2023-12-05T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2499,
-    "slug": "deliver-us-the-moon",
-    "startDate": "2023-11-28T15:00:00.000Z",
-    "title": "Deliver Us The Moon"
-  },
-  {
     "discountPercentage": 55,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -2715,6 +2877,15 @@
     "originalPrice": 499,
     "slug": "disciples-rise-of-the-elves-gold-669f54",
     "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Disciples Rise of the Elves Gold"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 499,
+    "slug": "disciples-rise-of-the-elves-gold-669f54",
+    "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Disciples Rise of the Elves Gold"
   },
   {
@@ -2943,6 +3114,15 @@
     "title": "Druidstone: The Secret of the Menhir Forest"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2239,
+    "slug": "dungeon-drafters-82c40a",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Dungeon Drafters"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -2950,6 +3130,15 @@
     "slug": "dungeons-3",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Dungeons 3"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "cd4304b032534cf89a166241c23b32d5-03",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Dungeons 4"
   },
   {
     "discountPercentage": 20,
@@ -3103,6 +3292,15 @@
     "slug": "elderand-09e6bc",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Elderand"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "eldest-souls-83e12a",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Eldest Souls"
   },
   {
     "discountPercentage": 40,
@@ -3339,13 +3537,13 @@
     "title": "FORECLOSED"
   },
   {
-    "discountPercentage": 33,
-    "endDate": "2023-12-05T15:00:00.000Z",
+    "discountPercentage": 20,
+    "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": 3139,
-    "slug": "front-mission-1st-remake-124a24",
-    "startDate": "2023-11-28T15:00:00.000Z",
-    "title": "FRONT MISSION 1st: Remake"
+    "originalPrice": 1499,
+    "slug": "fabular-once-upon-a-spacetime-b73ba1",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Fabular: Once Upon a Spacetime"
   },
   {
     "discountPercentage": 85,
@@ -3619,6 +3817,15 @@
   },
   {
     "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "flatout-940461",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Flatout"
+  },
+  {
+    "discountPercentage": 80,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 799,
@@ -3628,11 +3835,29 @@
   },
   {
     "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "flatout-2-9ffdd6",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Flatout 2"
+  },
+  {
+    "discountPercentage": 80,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 799,
     "slug": "naval-combat-package-34e444",
     "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Fleet Command"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "naval-combat-package-34e444",
+    "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Fleet Command"
   },
   {
@@ -3690,15 +3915,6 @@
     "title": "Forest Fire"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2023-12-05T13:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1799,
-    "slug": "forest-grove-6b05cf",
-    "startDate": "2023-11-28T13:00:00.000Z",
-    "title": "Forest Grove"
-  },
-  {
     "discountPercentage": 40,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -3724,6 +3940,15 @@
     "slug": "forgive-me-father-2-ea03a5",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Forgive Me Father 2"
+  },
+  {
+    "discountPercentage": 65,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "forgotten-fields-260a8a",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Forgotten Fields"
   },
   {
     "discountPercentage": 90,
@@ -3762,13 +3987,13 @@
     "title": "Fort Solis"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2023-12-05T16:00:00.000Z",
+    "discountPercentage": 40,
+    "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": 719,
-    "slug": "fortune-follow-the-mansion-bad0b2",
-    "startDate": "2023-11-28T16:00:00.000Z",
-    "title": "Fortune Follow: The Mansion"
+    "originalPrice": 1199,
+    "slug": "frogun-9cf69e",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Frogun"
   },
   {
     "discountPercentage": 75,
@@ -3786,6 +4011,15 @@
     "originalPrice": 2799,
     "slug": "frostpunk",
     "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Frostpunk"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2799,
+    "slug": "frostpunk",
+    "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Frostpunk"
   },
   {
@@ -3861,15 +4095,6 @@
     "title": "GRIME"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2023-12-05T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 179,
-    "slug": "galacticdefender-0d9f3d",
-    "startDate": "2023-11-28T15:00:00.000Z",
-    "title": "Galactic Defender"
-  },
-  {
     "discountPercentage": 60,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -3886,15 +4111,6 @@
     "slug": "gangster-city-mafia-car-driving-88434c",
     "startDate": "2023-12-01T17:00:00.000Z",
     "title": "Gangster City Mafia Car Driving"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2023-12-05T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 899,
-    "slug": "gardenia-630482",
-    "startDate": "2023-11-28T15:00:00.000Z",
-    "title": "Gardenia"
   },
   {
     "discountPercentage": 20,
@@ -3952,6 +4168,15 @@
   },
   {
     "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "ghost-master-2-7b7040",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Ghost Master"
+  },
+  {
+    "discountPercentage": 80,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 5999,
@@ -3979,6 +4204,15 @@
   },
   {
     "discountPercentage": 40,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "ghostrunner-2",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Ghostrunner 2"
+  },
+  {
+    "discountPercentage": 30,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 3999,
@@ -4140,6 +4374,15 @@
     "title": "Gorogoa"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "gotham-knights",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Gotham Knights"
+  },
+  {
     "discountPercentage": 33,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -4194,11 +4437,29 @@
     "title": "Gray Dawn"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "gray-dawn-a0cc44",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Gray Dawn"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "greak-memories-of-azur-e05a8d",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Greak: Memories of Azur"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1950,
-    "slug": "3f2a5aef96e0474792dbcfa974fb39cc",
+    "slug": "guacamelee-2-ac4977",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Guacamelee! 2"
   },
@@ -4207,7 +4468,7 @@
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1479,
-    "slug": "b9d3ef2617e0479c827b861baceba0a9",
+    "slug": "guacamelee-stce-7cdbc8",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Guacamelee! Super Turbo Championship Edition"
   },
@@ -4230,6 +4491,15 @@
     "title": "Guild Of Ascension"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "guild-of-dungeoneering-ultimate-edition",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Guild of Dungeoneering Ultimate Edition"
+  },
+  {
     "discountPercentage": 35,
     "endDate": "2023-12-07T03:00:00.000Z",
     "isFree": false,
@@ -4242,28 +4512,19 @@
     "discountPercentage": 60,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
+    "originalPrice": 1199,
+    "slug": "henchman-story-327af4",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "HENCHMAN STORY"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
     "originalPrice": 6999,
     "slug": "hitman-3-woa",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "HITMAN World of Assassination"
-  },
-  {
-    "discountPercentage": 35,
-    "endDate": "2023-12-05T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1799,
-    "slug": "horse-club-adventures-19e7a0",
-    "startDate": "2023-11-28T15:00:00.000Z",
-    "title": "HORSE CLUB Adventures"
-  },
-  {
-    "discountPercentage": 35,
-    "endDate": "2023-12-05T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1799,
-    "slug": "horse-club-adventures-2-hazelwood-stories-b257d3",
-    "startDate": "2023-11-28T15:00:00.000Z",
-    "title": "HORSE CLUB Adventures 2 - Hazelwood Stories"
   },
   {
     "discountPercentage": 85,
@@ -4482,6 +4743,15 @@
     "title": "Hob"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "hogwarts-legacy",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Hogwarts Legacy"
+  },
+  {
     "discountPercentage": 90,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -4581,15 +4851,6 @@
     "title": "House Party"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2024-01-29T08:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "the-howl-ee6924",
-    "startDate": "2023-11-28T00:00:00.000Z",
-    "title": "Howl"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2024-01-17T18:00:00.000Z",
     "isFree": false,
@@ -4608,6 +4869,15 @@
     "title": "Human Resource Machine"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "human-resource-machine",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Human Resource Machine"
+  },
+  {
     "discountPercentage": 66,
     "endDate": "2024-01-07T23:08:00.000Z",
     "isFree": false,
@@ -4615,6 +4885,15 @@
     "slug": "hundred-days-winemaking-simulator",
     "startDate": "2023-12-22T07:00:00.000Z",
     "title": "Hundred Days - Winemaking Simulator"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "hunt-the-night-3f1eb5",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Hunt the Night"
   },
   {
     "discountPercentage": 80,
@@ -4680,6 +4959,15 @@
     "title": "I'm looking for 3024 people"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "im-looking-for-3024-people-1cdae4",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "I'm looking for 3024 people"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -4725,6 +5013,15 @@
     "title": "Imagine Earth"
   },
   {
+    "discountPercentage": 55,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "imagine-earth-7498e4",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Imagine Earth"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -4741,6 +5038,15 @@
     "slug": "inertial-drift",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Inertial Drift"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1529,
+    "slug": "infindustry-cccc40",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Infindustry"
   },
   {
     "discountPercentage": 95,
@@ -4771,15 +5077,6 @@
   },
   {
     "discountPercentage": 40,
-    "endDate": "2023-12-05T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 449,
-    "slug": "inside-soccer-2bf632",
-    "startDate": "2023-11-28T15:00:00.000Z",
-    "title": "Inside Soccer"
-  },
-  {
-    "discountPercentage": 40,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 2999,
@@ -4804,6 +5101,24 @@
     "slug": "insurmountable-b02c31",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Insurmountable"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "into-the-breach",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Into the Breach"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "into-the-breach",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Into the Breach"
   },
   {
     "discountPercentage": 10,
@@ -4833,13 +5148,58 @@
     "title": "Ironcast"
   },
   {
-    "discountPercentage": 30,
-    "endDate": "2023-12-05T15:00:00.000Z",
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": 179,
-    "slug": "island-cities-0a3026",
-    "startDate": "2023-11-28T15:00:00.000Z",
-    "title": "Island Cities"
+    "originalPrice": 1299,
+    "slug": "ironcast",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Ironcast"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "ironclads-american-civil-war-ii-publisher-ed91f6",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Ironclads II American Civil War"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "ironclads-american-civil-war-ii-publisher-ed91f6",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Ironclads II American Civil War"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "ironclads-ii-boshin-war-30c493",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Ironclads II Boshin War"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1619,
+    "slug": "its-a-wrap-f392ae",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "It's a Wrap!"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1619,
+    "slug": "its-a-wrap-f392ae",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "It's a Wrap!"
   },
   {
     "discountPercentage": 55,
@@ -5022,6 +5382,15 @@
     "title": "KINGDOM HEARTS Melody of Memory"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "kaichu-the-kaiju-dating-sim-531fb7",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Kaichu - The Kaiju Dating Sim"
+  },
+  {
     "discountPercentage": 35,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -5101,6 +5470,15 @@
     "slug": "kardboard-kings-0962f8",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Kardboard Kings"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 319,
+    "slug": "kawaii-deathu-desu-bc669f",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Kawaii Deathu Desu"
   },
   {
     "discountPercentage": 10,
@@ -5328,6 +5706,15 @@
     "title": "Kujlevka"
   },
   {
+    "discountPercentage": 35,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1950,
+    "slug": "kujlevka-9b53bb",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Kujlevka"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -5335,6 +5722,33 @@
     "slug": "lego-2k-drive",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "LEGO\u00ae 2K Drive"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "lego-batman-2",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "LEGO\u00ae Batman\u2122 2: DC Super Heroes"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "lego-batman-3",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "LEGO\u00ae Batman\u2122 3: Beyond Gotham"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "lego-batman",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "LEGO\u00ae Batman\u2122: The Videogame"
   },
   {
     "discountPercentage": 75,
@@ -5362,6 +5776,24 @@
     "slug": "lego-builders-journey",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "LEGO\u00ae Builder's Journey"
+  },
+  {
+    "discountPercentage": 66,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1699,
+    "slug": "lego-builders-journey",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "LEGO\u00ae Builder's Journey"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "lego-star-wars-the-skywalker-saga",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   {
     "discountPercentage": 20,
@@ -5427,6 +5859,15 @@
     "title": "Lawn Mowing Simulator"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "layers-of-fears-85a02b",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Layers of Fear"
+  },
+  {
     "discountPercentage": 35,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -5434,6 +5875,15 @@
     "slug": "learning-factory-4d2213",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Learning Factory"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "legend-bowl-10bc86",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Legend Bowl"
   },
   {
     "discountPercentage": 75,
@@ -5563,6 +6013,15 @@
   },
   {
     "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "little-inferno",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Little Inferno"
+  },
+  {
+    "discountPercentage": 50,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1299,
@@ -5589,6 +6048,24 @@
     "title": "Lords and Villeins"
   },
   {
+    "discountPercentage": 35,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "lords-of-the-fallen",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Lords of the Fallen"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "loretta-0099a6",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Loretta"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -5605,6 +6082,15 @@
     "slug": "lost-eidolons",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Lost Eidolons"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "lost-ruins-d6233b",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Lost Ruins"
   },
   {
     "discountPercentage": 80,
@@ -5904,6 +6390,24 @@
     "title": "Marvel\u2019s Spider-Man: Miles Morales"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "mashed-ebdee9",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Mashed"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "mashed-ebdee9",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Mashed"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -5911,15 +6415,6 @@
     "slug": "master-of-magic",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Master of Magic"
-  },
-  {
-    "discountPercentage": 35,
-    "endDate": "2023-12-05T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 359,
-    "slug": "match-village-5f41dd",
-    "startDate": "2023-11-28T15:00:00.000Z",
-    "title": "Match Village"
   },
   {
     "discountPercentage": 75,
@@ -6003,13 +6498,13 @@
     "title": "Men of War: Vietnam - Special edition"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2023-12-05T15:00:00.000Z",
+    "discountPercentage": 75,
+    "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": 2239,
-    "slug": "metamorphosis-547d51",
-    "startDate": "2023-11-28T15:00:00.000Z",
-    "title": "Metamorphosis"
+    "originalPrice": 319,
+    "slug": "merrily-perilly-99353b",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Merrily Perilly"
   },
   {
     "discountPercentage": 90,
@@ -6210,21 +6705,21 @@
     "title": "Monster Tribe"
   },
   {
-    "discountPercentage": 25,
-    "endDate": "2023-12-05T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 899,
-    "slug": "monsters-of-mican-02e3ee",
-    "startDate": "2023-11-28T15:00:00.000Z",
-    "title": "Monsters of Mican"
-  },
-  {
     "discountPercentage": 85,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1999,
     "slug": "moonlighter",
     "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Moonlighter"
+  },
+  {
+    "discountPercentage": 85,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "moonlighter",
+    "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Moonlighter"
   },
   {
@@ -6244,6 +6739,15 @@
     "slug": "morels-ed7501",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Morels: The Hunt"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 6999,
+    "slug": "mortal-kombat-1",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Mortal Kombat 1"
   },
   {
     "discountPercentage": 85,
@@ -6543,6 +7047,15 @@
     "title": "Neurodeck"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2799,
+    "slug": "new-super-luckys-tale",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "New Super Lucky's Tale"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -6706,21 +7219,30 @@
   },
   {
     "discountPercentage": 50,
-    "endDate": "2023-12-05T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 449,
-    "slug": "number-one-fighter-26f88c",
-    "startDate": "2023-11-28T15:00:00.000Z",
-    "title": "Number One Fighter"
-  },
-  {
-    "discountPercentage": 50,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 5999,
     "slug": "octopath-traveler",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "OCTOPATH TRAVELER\u2122"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 499,
+    "slug": "orb-bfdd17",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "ORB"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 499,
+    "slug": "orb-bfdd17",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "ORB"
   },
   {
     "discountPercentage": 75,
@@ -6753,6 +7275,15 @@
     "discountPercentage": 60,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
+    "originalPrice": 2499,
+    "slug": "observer-system-redux",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Observer: System Redux"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
     "originalPrice": 1999,
     "slug": "oddballers",
     "startDate": "2023-12-13T16:00:00.000Z",
@@ -6769,7 +7300,7 @@
   },
   {
     "discountPercentage": 20,
-    "endDate": "2023-12-31T12:00:00.000Z",
+    "endDate": "2023-12-28T12:00:00.000Z",
     "isFree": false,
     "originalPrice": 1349,
     "slug": "oirbo-c063b7",
@@ -6946,15 +7477,6 @@
     "slug": "outbreak-the-nightmare-chronicles-reinvestigated-b631d4",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Outbreak The Nightmare Chronicles Reinvestigated"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2023-12-05T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 899,
-    "slug": "outcore-desktop-adventure-eb3aff",
-    "startDate": "2023-11-28T15:00:00.000Z",
-    "title": "Outcore - Desktop Adventure"
   },
   {
     "discountPercentage": 40,
@@ -7155,6 +7677,15 @@
     "title": "Paramnesia"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "pascals-wager",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Pascal's Wager: Definitive Edition"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -7236,15 +7767,6 @@
     "title": "Pikuniku"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2023-12-05T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "pile-up-b1e2af",
-    "startDate": "2023-11-28T15:00:00.000Z",
-    "title": "Pile Up"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -7303,8 +7825,17 @@
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1999,
-    "slug": "227fefdce66b4a6c84ccc877bb42659b",
+    "slug": "poker-club-6e18ee",
     "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Poker Club"
+  },
+  {
+    "discountPercentage": 45,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "poker-club-6e18ee",
+    "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Poker Club"
   },
   {
@@ -7353,12 +7884,30 @@
     "title": "Power to the People"
   },
   {
+    "discountPercentage": 45,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "power-to-the-people-dfb0f9",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Power to the People"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 2399,
     "slug": "prehistoric-kingdom",
     "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Prehistoric Kingdom"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2399,
+    "slug": "prehistoric-kingdom",
+    "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Prehistoric Kingdom"
   },
   {
@@ -7422,6 +7971,15 @@
     "originalPrice": 799,
     "slug": "prince-of-qin-3bb44c",
     "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Prince of Qin"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "prince-of-qin-3bb44c",
+    "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Prince of Qin"
   },
   {
@@ -7587,6 +8145,24 @@
     "title": "RAILGRADE"
   },
   {
+    "discountPercentage": 35,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2699,
+    "slug": "railgrade",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "RAILGRADE"
+  },
+  {
+    "discountPercentage": 65,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "rainswept-5f368a",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "RAINSWEPT"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-01-10T17:00:00.000Z",
     "isFree": false,
@@ -7657,6 +8233,15 @@
     "slug": "railway-empire",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Railway Empire"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "railway-empire-2-01",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Railway Empire 2"
   },
   {
     "discountPercentage": 60,
@@ -8001,6 +8586,15 @@
     "title": "Rise of Industry"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "rise-of-the-third-power-682886",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Rise of the Third Power"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -8181,6 +8775,15 @@
     "title": "Run A Cafe"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2199,
+    "slug": "roki-38e7c2",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "R\u00f6ki"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -8206,6 +8809,15 @@
     "slug": "sludge-life-2-456410",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "SLUDGE LIFE 2"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "soma",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "SOMA"
   },
   {
     "discountPercentage": 55,
@@ -8263,15 +8875,6 @@
   },
   {
     "discountPercentage": 20,
-    "endDate": "2023-12-05T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 719,
-    "slug": "saboteur-ii-avenging-angel-33e83c",
-    "startDate": "2023-11-28T15:00:00.000Z",
-    "title": "Saboteur II Avenging Angel"
-  },
-  {
-    "discountPercentage": 20,
     "endDate": "2024-02-04T23:00:00.000Z",
     "isFree": false,
     "originalPrice": 719,
@@ -8281,30 +8884,12 @@
   },
   {
     "discountPercentage": 20,
-    "endDate": "2023-12-05T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 989,
-    "slug": "saboteur-sio-123236",
-    "startDate": "2023-11-28T15:00:00.000Z",
-    "title": "Saboteur SiO"
-  },
-  {
-    "discountPercentage": 20,
     "endDate": "2024-02-04T23:00:00.000Z",
     "isFree": false,
     "originalPrice": 989,
     "slug": "saboteur-sio-123236",
     "startDate": "2024-01-05T23:00:00.000Z",
     "title": "Saboteur SiO"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2023-12-05T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 719,
-    "slug": "saboteur-f3d01d",
-    "startDate": "2023-11-28T15:00:00.000Z",
-    "title": "Saboteur!"
   },
   {
     "discountPercentage": 20,
@@ -8325,7 +8910,7 @@
     "title": "Sackboy\u2122: A Big Adventure"
   },
   {
-    "discountPercentage": 40,
+    "discountPercentage": 55,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 2999,
@@ -8406,15 +8991,6 @@
     "title": "Saviors of Sapphire Wings & Strangers of Sword City Revisited"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2023-12-05T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "scarf-dd1030",
-    "startDate": "2023-11-28T15:00:00.000Z",
-    "title": "Scarf"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -8460,6 +9036,24 @@
     "title": "Scrapnaut"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "seal-of-evil-17240d",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Seal of Evil"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "seal-of-evil-17240d",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Seal of Evil"
+  },
+  {
     "discountPercentage": 90,
     "endDate": "2023-12-14T23:00:00.000Z",
     "isFree": false,
@@ -8494,6 +9088,24 @@
     "slug": "secret-of-dream-947b85",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Secret of Dream"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 629,
+    "slug": "secret-of-dream-947b85",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Secret of Dream"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "sense-cyberpunk-ghost-story-8547ca",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Sense - A Cyberpunk Ghost Story"
   },
   {
     "discountPercentage": 50,
@@ -8538,6 +9150,15 @@
     "originalPrice": 3999,
     "slug": "shadow-gambit-the-cursed-crew-0bca60",
     "startDate": "2023-12-05T16:00:00.000Z",
+    "title": "Shadow Gambit: The Cursed Crew"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "shadow-gambit-the-cursed-crew-0bca60",
+    "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Shadow Gambit: The Cursed Crew"
   },
   {
@@ -8604,13 +9225,13 @@
     "title": "Shame Legacy"
   },
   {
-    "discountPercentage": 80,
-    "endDate": "2023-12-05T15:00:00.000Z",
+    "discountPercentage": 35,
+    "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": 2399,
-    "slug": "shattered-tale-of-the-forgotten-king",
-    "startDate": "2023-11-28T15:00:00.000Z",
-    "title": "Shattered: Tale of the Forgotten King"
+    "originalPrice": 799,
+    "slug": "sheepo-62cd3e",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Sheepo"
   },
   {
     "discountPercentage": 85,
@@ -8802,6 +9423,15 @@
     "title": "Slipways"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "smelter-97a47b",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Smelter"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -8937,12 +9567,30 @@
     "title": "Space Empires II"
   },
   {
+    "discountPercentage": 90,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 159,
+    "slug": "space-empires-ii-1fece2",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Space Empires II"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 159,
     "slug": "space-empires-iii-38e873",
     "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Space Empires III"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 159,
+    "slug": "space-empires-iii-38e873",
+    "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Space Empires III"
   },
   {
@@ -8955,12 +9603,30 @@
     "title": "Space Empires IV"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "space-empires-iv-74dacf",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Space Empires IV"
+  },
+  {
     "discountPercentage": 85,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1199,
     "slug": "space-empires-v-0319fd",
     "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Space Empires V"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "space-empires-v-0319fd",
+    "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Space Empires V"
   },
   {
@@ -9135,6 +9801,15 @@
     "title": "SpongeBob SquarePants: The Cosmic Shake"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3599,
+    "slug": "star-trek-resurgence",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Star Trek: Resurgence"
+  },
+  {
     "discountPercentage": 90,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -9198,6 +9873,15 @@
     "title": "Steel Fury Kharkov 1942"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "steel-fury-kharkov-1942-cdfbd6",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Steel Fury Kharkov 1942"
+  },
+  {
     "discountPercentage": 90,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -9231,6 +9915,15 @@
     "originalPrice": 599,
     "slug": "stick-it-to-the-man",
     "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Stick It To The Man!"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 599,
+    "slug": "stick-it-to-the-man",
+    "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Stick It To The Man!"
   },
   {
@@ -9324,12 +10017,30 @@
     "title": "Sub Command"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "combat-naval-package-sub-command-5e51d7",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Sub Command"
+  },
+  {
     "discountPercentage": 90,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 399,
     "slug": "submarine-titans-660aa0",
     "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Submarine Titans"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "submarine-titans-660aa0",
+    "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Submarine Titans"
   },
   {
@@ -9414,6 +10125,24 @@
     "title": "SuperPower 3"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "superliminal",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Superliminal"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "superliminal",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Superliminal"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -9493,6 +10222,15 @@
     "slug": "symphony-of-war-60a76e",
     "startDate": "2023-12-21T14:00:00.000Z",
     "title": "Symphony of War"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "synergia",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Synergia"
   },
   {
     "discountPercentage": 35,
@@ -9576,15 +10314,6 @@
     "title": "Tales from the Borderlands"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2023-12-05T05:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 269,
-    "slug": "tamara-in-the-forsaken-dungeon-81aa5c",
-    "startDate": "2023-11-28T05:00:00.000Z",
-    "title": "Tamara In The Forsaken Dungeon"
-  },
-  {
     "discountPercentage": 60,
     "endDate": "2023-12-31T11:00:00.000Z",
     "isFree": false,
@@ -9594,21 +10323,21 @@
     "title": "Tandem: A Tale of Shadows"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2023-12-05T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 719,
-    "slug": "tank-battle-north-africa-552efe",
-    "startDate": "2023-11-28T15:00:00.000Z",
-    "title": "Tank Battle North Africa"
-  },
-  {
     "discountPercentage": 70,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 2399,
     "slug": "tank-warfare-tunisia-1943-62f6e9",
     "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Tank Warfare -  Tunisia 1943"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2399,
+    "slug": "tank-warfare-tunisia-1943-62f6e9",
+    "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Tank Warfare -  Tunisia 1943"
   },
   {
@@ -9762,6 +10491,15 @@
     "originalPrice": 1599,
     "slug": "the-captain",
     "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "The Captain"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "the-captain",
+    "startDate": "2024-02-09T16:00:00.000Z",
     "title": "The Captain"
   },
   {
@@ -9945,6 +10683,24 @@
     "title": "The Fabled Woods"
   },
   {
+    "discountPercentage": 33,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1619,
+    "slug": "the-fabulous-fear-machine-8e7c6b",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "The Fabulous Fear Machine"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1619,
+    "slug": "the-fabulous-fear-machine-8e7c6b",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "The Fabulous Fear Machine"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -9960,6 +10716,15 @@
     "originalPrice": 1499,
     "slug": "the-flower-collectors",
     "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "The Flower Collectors"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "the-flower-collectors",
+    "startDate": "2024-02-09T16:00:00.000Z",
     "title": "The Flower Collectors"
   },
   {
@@ -10059,6 +10824,15 @@
     "originalPrice": 2999,
     "slug": "the-invincible",
     "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "The Invincible"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "the-invincible",
+    "startDate": "2024-02-09T16:00:00.000Z",
     "title": "The Invincible"
   },
   {
@@ -10269,6 +11043,15 @@
     "title": "The Lion's Song"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "the-lions-song",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "The Lion's Song"
+  },
+  {
     "discountPercentage": 15,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -10285,6 +11068,33 @@
     "slug": "the-mageseeker-a-league-of-legends-story",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "The Mageseeker: A League of Legends Story\u2122"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "the-magnificent-trufflepigs",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "The Magnificent Trufflepigs"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "the-magnificent-trufflepigs",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "The Magnificent Trufflepigs"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4799,
+    "slug": "the-medium",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "The Medium"
   },
   {
     "discountPercentage": 75,
@@ -10494,6 +11304,15 @@
     "title": "The Spectrum Retreat"
   },
   {
+    "discountPercentage": 65,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1299,
+    "slug": "the-spectrum-retreat",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "The Spectrum Retreat"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -10528,6 +11347,15 @@
     "slug": "the-talos-principle",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "The Talos Principle"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2699,
+    "slug": "137a5c5247e345fa93205635036979bc-07",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "The Talos Principle 2"
   },
   {
     "discountPercentage": 65,
@@ -10743,6 +11571,15 @@
     "originalPrice": 1899,
     "slug": "this-war-of-mine",
     "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "This War of Mine"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1899,
+    "slug": "this-war-of-mine",
+    "startDate": "2024-02-09T16:00:00.000Z",
     "title": "This War of Mine"
   },
   {
@@ -11169,15 +12006,6 @@
     "title": "Trash Sailors"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2023-12-05T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 449,
-    "slug": "trash-troopers-earth-reclaim-48721c",
-    "startDate": "2023-11-28T15:00:00.000Z",
-    "title": "Trash Troopers Earth Reclaim"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -11574,6 +12402,15 @@
     "title": "Vegas Make It Big"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "vengeful-heart-5a2fb9",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Vengeful Heart"
+  },
+  {
     "discountPercentage": 35,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -11581,6 +12418,42 @@
     "slug": "vernal-edge-fdfa3e",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Vernal Edge"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "victorian-admirals-36f8c4",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Victorian Admirals"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "victorian-admirals-36f8c4",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Victorian Admirals"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "victorian-admirals-marianas-incident-1887-7d4e70",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Victorian Admirals Marianas Incident 1887"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "victorian-admirals-marianas-incident-1887-7d4e70",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Victorian Admirals Marianas Incident 1887"
   },
   {
     "discountPercentage": 80,
@@ -11817,6 +12690,15 @@
     "title": "Warrior Kings"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "warrior-kings-d07850",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Warrior Kings"
+  },
+  {
     "discountPercentage": 85,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -11961,6 +12843,15 @@
     "title": "Who Pressed Mute on Uncle Marcus?"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 499,
+    "slug": "wife-quest-ed5224",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Wife Quest"
+  },
+  {
     "discountPercentage": 85,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -11986,6 +12877,15 @@
     "slug": "witchcrafty-b7c90a",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Witchcrafty"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3599,
+    "slug": "witchfire-db273e",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Witchfire"
   },
   {
     "discountPercentage": 50,
@@ -12130,6 +13030,15 @@
     "slug": "zorro-the-chronicles",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Zorro The Chronicles"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "shapez-0929c9",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "shapez"
   },
   {
     "discountPercentage": 50,
