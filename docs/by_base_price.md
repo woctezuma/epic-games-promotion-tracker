@@ -231,7 +231,6 @@
 |#|witchfire-db273e|Witchfire|35,99€|10|2023-12-13 16h|2024-01-10 16h|
 |#|ad-infinitum|Ad Infinitum|34,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|asterigos-424313|Asterigos: Curse of the Stars|34,99€|45|2023-12-13 16h|2024-01-10 16h|
-|#|gloomhaven-92f741|Gloomhaven|34,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|hardspace-shipbreaker|Hardspace: Shipbreaker|34,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|ixion-88cda4|IXION|34,99€|43|2023-12-13 16h|2024-01-10 16h|
 |#|lost-eidolons|Lost Eidolons|34,99€|40|2023-12-13 16h|2024-01-10 16h|
