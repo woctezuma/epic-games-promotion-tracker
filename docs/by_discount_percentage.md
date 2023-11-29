@@ -815,6 +815,7 @@
 |#|sonic-colors-ultimate|Sonic Colors: Ultimate|39,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|spinner-invaders-d453e7|Spinner Invaders|4,49€|60|2023-12-13 16h|2024-01-10 16h|
 |#|spirit-of-the-island|Spirit of the Island|16,19€|60|2023-12-13 16h|2024-01-10 16h|
+|#|steal-then-just-escape-87b7b6|Steal Then Just Escape|4,99€|60|2024-01-23 16h|2024-01-30 16h|
 |#|steelrising|Steelrising|49,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|stray-blade|Stray Blade|34,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|stubbs-the-zombie-in-rebel-without-a-pulse|Stubbs the Zombie in Rebel Without a Pulse|15,99€|60|2023-12-13 16h|2024-01-10 16h|
@@ -884,6 +885,8 @@
 |#|agatha-christie-hercule-poirot-london-cases-c81a32|Agatha Christie - Hercule Poirot: The London Case|29,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|airborne-kingdom|Airborne Kingdom|20,99€|50|2023-12-21 14h|2024-01-06 04h|
 |#|angelo-and-deemon-one-hell-of-a-quest-94d7e2|Angelo and Deemon: One Hell of a Quest|7,19€|50|2023-12-13 16h|2024-01-10 16h|
+|#|angry-video-game-nerd-1-and-2-deluxe-1eea79|Angry Video Game Nerd 1 and 2 Deluxe|11,99€|50|2023-12-13 16h|2024-01-10 16h|
+|#|angry-video-game-nerd-1-and-2-deluxe-1eea79|Angry Video Game Nerd 1 and 2 Deluxe|11,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|anno-1701|Anno 1701 History Edition|9,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|aquatico-b4f0ce|Aquatico|24,99€|50|2023-12-10 23h|2023-12-17 23h|
 |#|arcade-paradise|Arcade Paradise|19,99€|50|2023-12-13 16h|2024-01-10 16h|
@@ -924,6 +927,8 @@
 |#|doomed-lands-7e2565|Doomed Lands|11,99€|50|2023-12-21 14h|2024-01-06 05h|
 |#|drawful-2|Drawful 2|9,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|dread-templar-d8e8fa|Dread Templar|19,99€|50|2023-12-13 16h|2024-01-10 16h|
+|#|dumpy-and-bumpy-86c9d7|Dumpy and Bumpy|3,99€|50|2023-12-13 16h|2024-01-10 16h|
+|#|dumpy-and-bumpy-86c9d7|Dumpy and Bumpy|3,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|dynopunk-2035f5|Dynopunk|14,79€|50|2023-12-13 16h|2024-01-10 16h|
 |#|eiyuden-chronicle-rising|Eiyuden Chronicle: Rising|14,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|elderand-09e6bc|Elderand|15,99€|50|2023-12-13 16h|2024-01-10 16h|
@@ -963,6 +968,8 @@
 |#|kombinara-e5baa8|Kombinera|11,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|lego-2k-drive|LEGO® 2K Drive|59,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|lego-bricktales-7ccf9b|LEGO® Bricktales|29,99€|50|2023-12-13 16h|2024-01-10 16h|
+|#|love-3-c2516f|LOVE 3|8,99€|50|2023-12-13 16h|2024-01-10 16h|
+|#|love-3-c2516f|LOVE 3|8,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|late-shift-8b0634|Late Shift|9,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|lifespace-traveler-1cc49a|Lifespace Traveler|13,49€|50|2023-12-05 16h|2023-12-12 16h|
 |#|little-inferno|Little Inferno|11,99€|50|2024-02-09 16h|2024-02-12 16h|
@@ -1455,6 +1462,8 @@
 |#|overpass-2|Overpass 2|39,99€|20|2023-12-13 16h|2024-01-10 16h|
 |#|paquerette-down-the-bunburrows-2fd777|Paquerette Down the Bunburrows|11,99€|20|2023-12-13 16h|2024-01-10 16h|
 |#|prehistoric-kingdom|Prehistoric Kingdom|23,99€|20|2024-02-09 16h|2024-02-12 16h|
+|#|prison-city-ac156c|Prison City|15,29€|20|2023-12-13 16h|2024-01-10 16h|
+|#|prison-city-ac156c|Prison City|15,29€|20|2024-02-09 16h|2024-02-12 16h|
 |#|quantum-storm-3d80ad|Quantum Storm|4,49€|20|2023-12-07 23h|2024-01-06 23h|
 |#|rice-d1b792|R.I.C.E.|4,99€|20|2023-12-21 14h|2024-01-06 05h|
 |#|railway-empire-2-01|Railway Empire 2|49,99€|20|2023-12-13 16h|2024-01-10 16h|
