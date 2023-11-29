@@ -540,6 +540,24 @@
     "title": "Angelo and Deemon: One Hell of a Quest"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "angry-video-game-nerd-1-and-2-deluxe-1eea79",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Angry Video Game Nerd 1 and 2 Deluxe"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "angry-video-game-nerd-1-and-2-deluxe-1eea79",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Angry Video Game Nerd 1 and 2 Deluxe"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -3328,6 +3346,24 @@
     "slug": "druidstone-0697f7",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Druidstone: The Secret of the Menhir Forest"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "dumpy-and-bumpy-86c9d7",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Dumpy and Bumpy"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "dumpy-and-bumpy-86c9d7",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Dumpy and Bumpy"
   },
   {
     "discountPercentage": 20,
@@ -6138,6 +6174,24 @@
     "title": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "love-3-c2516f",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "LOVE 3"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "love-3-c2516f",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "LOVE 3"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -8460,6 +8514,24 @@
     "title": "Prison Architect"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1529,
+    "slug": "prison-city-ac156c",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Prison City"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1529,
+    "slug": "prison-city-ac156c",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Prison City"
+  },
+  {
     "discountPercentage": 10,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -10429,6 +10501,15 @@
     "slug": "startup-panic",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Startup Panic"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-01-30T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 499,
+    "slug": "steal-then-just-escape-87b7b6",
+    "startDate": "2024-01-23T16:00:00.000Z",
+    "title": "Steal Then Just Escape"
   },
   {
     "discountPercentage": 10,
