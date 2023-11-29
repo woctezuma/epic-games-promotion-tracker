@@ -1109,7 +1109,7 @@
 |#|turnip-boy-commits-tax-evasion-fb2084|Turnip Boy Commits Tax Evasion|11,99€|66|2023-12-13 16h|2024-01-10 16h|
 |#|100-halloweens-ee5589|100 Halloweens|11,69€|50|2023-12-13 16h|2024-01-10 16h|
 |#|outlive-e2f5b1|Outlive|11,69€|40|2023-12-13 16h|2024-01-10 16h|
-|#|stellar-interface-d14cc4|Stellar Interface|11,69€|85|2023-12-13 16h|2024-01-10 16h|
+|#|stellar-interface-d14cc4|Stellar Interface|11,69€|80|2023-12-13 16h|2024-01-10 16h|
 |#|atom-rpg-trudograd-a97244|ATOM RPG Trudograd|10,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|bloons-td-6-bf95a0|Bloons TD 6|10,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|scrapnaut|Scrapnaut|10,99€|70|2023-12-13 16h|2024-01-10 16h|
