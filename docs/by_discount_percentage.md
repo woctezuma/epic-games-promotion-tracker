@@ -1525,6 +1525,6 @@
 |#|stillborn-slayer-298dd7|Stillborn Slayer|9,89€|10|2023-12-13 16h|2024-01-10 16h|
 |#|the-ecdysis-9c880c|The Ecdysis|10,79€|10|2023-11-30 08h|2023-12-06 08h|
 |#|the-legend-of-heroes-trails-to-azure|The Legend of Heroes: Trails to Azure|39,99€|10|2023-12-13 16h|2024-01-10 16h|
-|#|ultros-general-audience-prepurchase|Ultros|24,99€|10|2023-11-30 21h|2024-02-13 08h|
+|#|ultros-general-audience-prepurchase|Ultros|24,99€|10|2023-11-30 20h|2024-02-13 08h|
 |#|ungate-df09c8|Ungate|22,39€|10|2023-12-13 16h|2024-01-10 16h|
 |#|witchfire-db273e|Witchfire|35,99€|10|2023-12-13 16h|2024-01-10 16h|
