@@ -1,9 +1,7 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
 |#|gigabash|GigaBash|23,99€|100|2023-12-07 16h|2023-12-14 16h|
-|#|jitsu-squad-af3f2f|Jitsu Squad|19,99€|100|2023-11-30 16h|2023-12-07 16h|
-|#|mighty-fight-federation|Mighty Fight Federation|23,99€|100|2023-11-30 16h|2023-12-07 16h|
-|#|predecessor|Predecessor|19,78€|100|2023-12-07 16h|2023-12-14 16h|
+|#|predecessor|Predecessor|8,09€|100|2023-12-07 16h|2023-12-14 16h|
 |#|innerspace|InnerSpace|19,99€|95|2023-12-13 16h|2024-01-10 16h|
 |#|need-for-spirit-offroad-edition-7eee16|Need for Spirit: Off-Road Edition|2,69€|95|2023-12-01 23h|2023-12-15 23h|
 |#|star-wars-squadrons|STAR WARS™: Squadrons|39,99€|95|2023-12-13 16h|2024-01-10 16h|
@@ -913,6 +911,7 @@
 |#|cafe-owner-simulator-749e0f|Cafe Owner Simulator|14,49€|50|2023-12-13 16h|2024-01-10 16h|
 |#|caverns-of-mars-recharged-6686f6|Caverns of Mars Recharged|8,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|centipede-recharged|Centipede: Recharged|8,99€|50|2023-12-13 16h|2024-01-10 16h|
+|#|chased-by-darkness-d00d26|Chased by Darkness|4,49€|50|2023-12-13 16h|2024-01-10 16h|
 |#|chicken-vs-eggs-b807ab|Chicken vs Eggs|8,99€|50|2023-12-05 16h|2023-12-12 16h|
 |#|choochoo-charles-0eece5|Choo-Choo Charles|17,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|clash-artifacts-of-chaos-53e881|Clash - Artifacts of Chaos|29,99€|50|2023-12-13 16h|2024-01-10 16h|
@@ -936,6 +935,7 @@
 |#|dread-templar-d8e8fa|Dread Templar|19,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|dumpy-and-bumpy-86c9d7|Dumpy and Bumpy|3,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|dumpy-and-bumpy-86c9d7|Dumpy and Bumpy|3,99€|50|2024-02-09 16h|2024-02-12 16h|
+|#|dying-light-2-stay-human  |Dying Light 2 Stay Human|59,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|dynopunk-2035f5|Dynopunk|14,79€|50|2023-12-13 16h|2024-01-10 16h|
 |#|eiyuden-chronicle-rising|Eiyuden Chronicle: Rising|14,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|elderand-09e6bc|Elderand|15,99€|50|2023-12-13 16h|2024-01-10 16h|
@@ -1122,7 +1122,6 @@
 |#|card-shark-8f95f0|Card Shark|19,50€|40|2023-12-13 16h|2024-01-10 16h|
 |#|cargo-truck-simulator-2023-ff83fb|Cargo Truck Simulator 2023|0,89€|40|2023-12-01 17h|2023-12-14 17h|
 |#|cassiodora-090292|Cassiodora|14,99€|40|2023-12-13 16h|2024-01-10 16h|
-|#|chased-by-darkness-d00d26|Chased by Darkness|4,49€|40|2023-12-13 16h|2024-01-10 16h|
 |#|chef-life-a-restaurant-simulator|Chef Life - A Restaurant Simulator|29,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|citizen-sleeper-944858|Citizen Sleeper|15,99€|40|2023-12-05 16h|2023-12-12 16h|
 |#|city-ambulance-car-driving-1d3872|City Ambulance Car Driving|0,89€|40|2023-12-01 17h|2023-12-14 17h|

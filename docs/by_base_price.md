@@ -37,6 +37,7 @@
 |#|dead-space|Dead Space|59,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|disaster-report-4-summer-memories|Disaster Report 4: Summer Memories|59,99€|67|2023-12-13 16h|2024-01-10 16h|
 |#|disgaea-6-complete|Disgaea 6 Complete|59,99€|35|2023-12-13 16h|2024-01-10 16h|
+|#|dying-light-2-stay-human  |Dying Light 2 Stay Human|59,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|far-cry-6|Far Cry 6 Standard Edition|59,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|football-manager-2024|Football Manager 2024|59,99€|10|2023-12-21 15h|2023-12-27 15h|
 |#|ghost-recon-breakpoint|Ghost Recon Breakpoint Standard Edition|59,99€|80|2023-12-13 16h|2024-01-10 16h|
@@ -468,7 +469,6 @@
 |#|elite-dangerous|Elite Dangerous|23,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|gigabash|GigaBash|23,99€|100|2023-12-07 16h|2023-12-14 16h|
 |#|legend-of-grimrock-2|Legend of Grimrock 2|23,99€|75|2023-12-13 16h|2024-01-10 16h|
-|#|mighty-fight-federation|Mighty Fight Federation|23,99€|100|2023-11-30 16h|2023-12-07 16h|
 |#|mighty-fight-federation|Mighty Fight Federation|23,99€|66|2023-12-13 16h|2024-01-10 16h|
 |#|outlast-2|Outlast 2|23,99€|85|2023-12-13 16h|2024-01-10 16h|
 |#|prehistoric-kingdom|Prehistoric Kingdom|23,99€|25|2023-12-13 16h|2024-01-10 16h|
@@ -606,7 +606,6 @@
 |#|innerspace|InnerSpace|19,99€|95|2023-12-13 16h|2024-01-10 16h|
 |#|insurmountable-b02c31|Insurmountable|19,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|jack-move-8f3b25|Jack Move|19,99€|35|2023-12-13 16h|2024-01-10 16h|
-|#|jitsu-squad-af3f2f|Jitsu Squad|19,99€|100|2023-11-30 16h|2023-12-07 16h|
 |#|kapital-sparks-of-revolution-70f07b|Kapital: Sparks of Revolution|19,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|keywe-c3a70e|KeyWe|19,99€|66|2023-12-13 16h|2024-01-10 16h|
 |#|kitaria-fables|Kitaria Fables|19,99€|67|2023-12-13 16h|2024-01-10 16h|
@@ -736,7 +735,6 @@
 |#|inscryption-6b29ab|Inscryption|19,98€|40|2023-12-13 16h|2024-01-10 16h|
 |#|townsmen-a-kingdom-rebuilt-07c09d|Townsmen - A Kingdom Rebuilt|19,98€|80|2023-12-13 16h|2024-01-10 16h|
 |#|road-96|Road 96|19,96€|75|2023-12-13 16h|2024-01-10 16h|
-|#|predecessor|Predecessor|19,78€|100|2023-12-07 16h|2023-12-14 16h|
 |#|card-shark-8f95f0|Card Shark|19,50€|40|2023-12-13 16h|2024-01-10 16h|
 |#|enchanted-portals-65ca68|Enchanted Portals|19,50€|40|2023-12-29 04h|2024-01-10 04h|
 |#|guacamelee-2-ac4977|Guacamelee! 2|19,50€|75|2023-12-13 16h|2024-01-10 16h|
@@ -1262,6 +1260,7 @@
 |#|tornado-814fc7|Tornado|8,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|witchcrafty-b7c90a|Witchcrafty|8,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|dream-of-tiny-snow-36f018|Dream of Tiny Snow|8,09€|15|2023-12-13 16h|2024-01-10 16h|
+|#|predecessor|Predecessor|8,09€|100|2023-12-07 16h|2023-12-14 16h|
 |#|switchball-hd-6d3802|Switchball HD|8,09€|50|2023-12-27 00h|2024-01-10 00h|
 |#|combat-naval-package-hunter-killer-685f4a|688(I) Hunter/Killer|7,99€|85|2023-12-13 16h|2024-01-10 16h|
 |#|combat-naval-package-hunter-killer-685f4a|688(I) Hunter/Killer|7,99€|80|2024-02-09 16h|2024-02-12 16h|
@@ -1419,7 +1418,7 @@
 |#|access-denied-escape-1d486e|Access Denied Escape|4,49€|40|2023-12-13 16h|2024-01-10 16h|
 |#|awesome-pea-2-45617a|Awesome Pea 2|4,49€|80|2023-12-13 16h|2024-01-10 16h|
 |#|bucket-knight-1ac30c|Bucket Knight|4,49€|80|2023-12-13 16h|2024-01-10 16h|
-|#|chased-by-darkness-d00d26|Chased by Darkness|4,49€|40|2023-12-13 16h|2024-01-10 16h|
+|#|chased-by-darkness-d00d26|Chased by Darkness|4,49€|50|2023-12-13 16h|2024-01-10 16h|
 |#|county-hospital-aa8e79|County Hospital|4,49€|20|2023-12-05 16h|2023-12-12 16h|
 |#|creepy-tale-058ebd|Creepy Tale|4,49€|40|2023-12-13 16h|2024-01-10 16h|
 |#|dead-by-murder-190eab|Dead By Murder|4,49€|80|2023-12-13 16h|2024-01-10 16h|

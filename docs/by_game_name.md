@@ -230,7 +230,7 @@
 |#|cepheus-protocol-388fe9|Cepheus Protocol|17,99€|15|2023-12-13 16h|2024-01-10 16h|
 |#|chants-of-sennaar|Chants of Sennaar|19,99€|20|2023-12-13 16h|2024-01-10 16h|
 |#|chaos-galaxy-a33dac|Chaos Galaxy|13,49€|60|2023-12-13 16h|2024-01-10 16h|
-|#|chased-by-darkness-d00d26|Chased by Darkness|4,49€|40|2023-12-13 16h|2024-01-10 16h|
+|#|chased-by-darkness-d00d26|Chased by Darkness|4,49€|50|2023-12-13 16h|2024-01-10 16h|
 |#|chef-life-a-restaurant-simulator|Chef Life - A Restaurant Simulator|29,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|chernobylite|Chernobylite|29,99€|55|2023-12-13 16h|2024-01-10 16h|
 |#|chernobylite|Chernobylite|29,99€|55|2024-02-09 16h|2024-02-12 16h|
@@ -382,6 +382,7 @@
 |#|dungeons-3|Dungeons 3|29,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|cd4304b032534cf89a166241c23b32d5-03|Dungeons 4|49,99€|10|2023-12-13 16h|2024-01-10 16h|
 |#|dust-fleet-620614|Dust Fleet|19,99€|20|2023-12-21 14h|2024-01-06 05h|
+|#|dying-light-2-stay-human  |Dying Light 2 Stay Human|59,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|dying-light|Dying Light Enhanced Edition|29,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|dynopunk-2035f5|Dynopunk|14,79€|50|2023-12-13 16h|2024-01-10 16h|
 |#|e30-drift-car-simulator-2d2977|E30 Drift Car Simulator|0,89€|40|2023-12-01 17h|2023-12-14 17h|
@@ -633,7 +634,6 @@
 |#|jackbox-party-pack-3|Jackbox Party Pack 3|22,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|jennifer-wilde-unlikely-revolutionaries-7eda5e|Jennifer Wilde Unlikely Revolutionaries|15,29€|50|2023-12-13 16h|2024-01-10 16h|
 |#|jetboard-joust|Jetboard Joust|7,99€|90|2023-12-21 14h|2024-01-06 04h|
-|#|jitsu-squad-af3f2f|Jitsu Squad|19,99€|100|2023-11-30 16h|2023-12-07 16h|
 |#|joggernauts-a7767f|Joggernauts|11,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|johnwickhex|John Wick Hex|15,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|jotun|Jotun: Valhalla Edition|14,99€|75|2023-12-13 16h|2024-01-10 16h|
@@ -794,7 +794,6 @@
 |#|midnight-ghost-hunt|Midnight Ghost Hunt|19,99€|66|2024-02-09 16h|2024-02-12 16h|
 |#|might-and-magic-heroes-3|Might & Magic Heroes 3|9,99€|75|2023-12-28 17h|2024-01-10 17h|
 |#|might-and-magic-heroes-7|Might and Magic: Heroes VII - Ultimate Edition|44,99€|75|2023-12-28 17h|2024-01-10 17h|
-|#|mighty-fight-federation|Mighty Fight Federation|23,99€|100|2023-11-30 16h|2023-12-07 16h|
 |#|mighty-fight-federation|Mighty Fight Federation|23,99€|66|2023-12-13 16h|2024-01-10 16h|
 |#|milky-way-prince-the-vampire-star|Milky Way Prince – The Vampire Star|14,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|minit|Minit|9,99€|75|2023-12-13 16h|2024-01-10 16h|
@@ -945,7 +944,7 @@
 |#|power-to-the-people-dfb0f9|Power to the People|11,99€|45|2023-12-13 16h|2024-01-10 16h|
 |#|power-to-the-people-dfb0f9|Power to the People|11,99€|45|2024-02-09 16h|2024-02-12 16h|
 |#|pray-for-death-fe9a43|Pray for Death|7,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|predecessor|Predecessor|19,78€|100|2023-12-07 16h|2023-12-14 16h|
+|#|predecessor|Predecessor|8,09€|100|2023-12-07 16h|2023-12-14 16h|
 |#|prehistoric-kingdom|Prehistoric Kingdom|23,99€|25|2023-12-13 16h|2024-01-10 16h|
 |#|prehistoric-kingdom|Prehistoric Kingdom|23,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|prehistorik-d64136|Prehistorik|7,99€|30|2023-12-13 16h|2024-01-10 16h|
