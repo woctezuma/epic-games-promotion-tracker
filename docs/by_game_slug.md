@@ -509,6 +509,7 @@
 |#|gigapocalypse-fdc53b|Gigapocalypse|9,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|ginsha-604f11|GINSHA|15,79€|20|2023-12-21 16h|2024-01-15 16h|
 |#|ginsha-604f11|GINSHA|15,79€|23|2024-02-19 16h|2024-02-29 16h|
+|#|gloomhaven-92f741|Gloomhaven|34,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|goat-simulator-3|Goat Simulator 3|29,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|goblins-of-elderstone-330b84|Goblins of Elderstone|24,50€|25|2023-12-13 16h|2024-01-10 16h|
 |#|god-of-war|God of War|49,99€|50|2023-12-13 16h|2024-01-10 16h|

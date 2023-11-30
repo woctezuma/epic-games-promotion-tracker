@@ -1136,6 +1136,7 @@
 |#|fuga-melodies-of-steel|Fuga: Melodies of Steel|39,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|gangster-city-mafia-car-driving-88434c|Gangster City Mafia Car Driving|0,89€|40|2023-12-01 17h|2023-12-14 17h|
 |#|ghostrunner-2|Ghostrunner 2|39,99€|40|2023-12-13 16h|2024-01-10 16h|
+|#|gloomhaven-92f741|Gloomhaven|34,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|goat-simulator-3|Goat Simulator 3|29,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|gray-dawn-a0cc44|Gray Dawn|13,49€|40|2023-12-13 16h|2024-01-10 16h|
 |#|gray-dawn-a0cc44|Gray Dawn|13,49€|40|2024-02-09 16h|2024-02-12 16h|
