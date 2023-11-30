@@ -1422,6 +1422,15 @@
     "title": "Bite the Bullet"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2023-12-07T10:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1579,
+    "slug": "black-academy-ed8e11",
+    "startDate": "2023-12-01T10:00:00.000Z",
+    "title": "Black Academy"
+  },
+  {
     "discountPercentage": 55,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -2248,6 +2257,15 @@
     "slug": "clash-artifacts-of-chaos-53e881",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Clash - Artifacts of Chaos"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "class-of-09-b7c7ab",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Class of '09"
   },
   {
     "discountPercentage": 85,
@@ -3346,6 +3364,15 @@
     "slug": "druidstone-0697f7",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Druidstone: The Secret of the Menhir Forest"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2239,
+    "slug": "duel-princess-ec50b3",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Duel Princess"
   },
   {
     "discountPercentage": 50,
@@ -6505,6 +6532,15 @@
     "slug": "lost-ruins-d6233b",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Lost Ruins"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2156,
+    "slug": "love-too-easily-1854cf",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Love Too Easily"
   },
   {
     "discountPercentage": 80,
@@ -11104,6 +11140,15 @@
     "slug": "tetris-effect",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Tetris\u00ae Effect: Connected"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3599,
+    "slug": "the-alchemist-of-ars-magna-e68b84",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "The Alchemist of Ars Magna"
   },
   {
     "discountPercentage": 75,
