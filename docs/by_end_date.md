@@ -1,7 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|the-ecdysis-9c880c|The Ecdysis|10,79€|10|2023-11-30 08h|2023-12-06 08h|
-|#|kaze-and-the-wild-masks-94a27d|Kaze and the Wild Masks|19,99€|10|2023-11-30 08h|2023-12-07 08h|
 |#|black-academy-ed8e11|Black Academy|15,79€|40|2023-12-01 10h|2023-12-07 10h|
 |#|steamworld-build-71ee6c|SteamWorld Build|29,99€|10|2023-12-01 14h|2023-12-07 14h|
 |#|jitsu-squad-af3f2f|Jitsu Squad|19,99€|100|2023-11-30 16h|2023-12-07 16h|
@@ -1455,6 +1453,7 @@
 |#|big-mutha-truckers-990060|Big Mutha Truckers 2|7,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|chernobylite|Chernobylite|29,99€|55|2024-02-09 16h|2024-02-12 16h|
 |#|chess-ultra-91bba3|Chess Ultra|12,99€|60|2024-02-09 16h|2024-02-12 16h|
+|#|conan-exiles|Conan Exiles|39,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|culpa-innata-8997ac|Culpa Innata|9,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|curse-of-the-sea-rats-8f28b1|Curse of the Sea Rats|17,99€|30|2024-02-09 16h|2024-02-12 16h|
 |#|cyanide-happiness-freakpocalypse|Cyanide & Happiness - Freakpocalypse (Episode 1)|15,99€|55|2024-02-09 16h|2024-02-12 16h|
@@ -1489,6 +1488,7 @@
 |#|little-inferno|Little Inferno|11,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|mashed-ebdee9|Mashed|3,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|moonlighter|Moonlighter|19,99€|85|2024-02-09 16h|2024-02-12 16h|
+|#|mutant-year-zero|Mutant Year Zero: Road to Eden|34,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|near-impact-b7bee9|Near Impact|4,49€|80|2024-02-09 16h|2024-02-12 16h|
 |#|nexomon-extinction|Nexomon: Extinction|19,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|orb-bfdd17|ORB|4,99€|80|2024-02-09 16h|2024-02-12 16h|

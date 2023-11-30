@@ -749,6 +749,7 @@
 |#|chivalry-2|Chivalry 2|35,99€|60|2023-12-05 16h|2023-12-12 16h|
 |#|chorus|Chorus|24,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|conan-exiles|Conan Exiles|39,99€|60|2023-12-13 16h|2024-01-10 16h|
+|#|conan-exiles|Conan Exiles|39,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|cyanide-happiness-freakpocalypse|Cyanide & Happiness - Freakpocalypse (Episode 1)|15,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|deathloop-ghostwire-tokyo-bundle|DEATHLOOP + Ghostwire: Tokyo Bundle|102,85€|60|2023-12-13 16h|2024-01-10 16h|
 |#|doom-1993|DOOM (1993)|4,99€|60|2023-12-13 16h|2024-01-10 16h|
@@ -790,6 +791,7 @@
 |#|miasma-chronicles|Miasma Chronicles|49,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|monorail-stories-4b4a69|Monorail Stories|14,99€|60|2023-12-21 14h|2024-01-06 05h|
 |#|mutant-year-zero|Mutant Year Zero: Road to Eden|34,99€|60|2023-12-13 16h|2024-01-10 16h|
+|#|mutant-year-zero|Mutant Year Zero: Road to Eden|34,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|mutazione|Mutazione|17,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|nexomon-extinction|Nexomon: Extinction|19,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|nexomon-extinction|Nexomon: Extinction|19,99€|60|2024-02-09 16h|2024-02-12 16h|
@@ -1529,14 +1531,12 @@
 |#|haunted-house-c5a71b|Haunted House|17,99€|10|2023-12-13 16h|2024-01-10 16h|
 |#|hero-survival-4de339|Hero Survival|5,39€|10|2023-12-13 16h|2024-01-10 16h|
 |#|iron-dungeon-4345a1|Iron Dungeon|8,99€|10|2023-12-13 16h|2024-01-10 16h|
-|#|kaze-and-the-wild-masks-94a27d|Kaze and the Wild Masks|19,99€|10|2023-11-30 08h|2023-12-07 08h|
 |#|my-demon-wife-0d2461|My Demon Wife|9,89€|10|2023-12-07 23h|2024-01-06 23h|
 |#|probo-rush-b3ee54|Probo Rush|4,49€|10|2023-12-13 16h|2024-01-10 16h|
 |#|quasimorph-6d2b87|Quasimorph|19,99€|10|2023-12-13 16h|2024-01-10 16h|
 |#|robocop-rogue-city|RoboCop: Rogue City|49,99€|10|2023-12-13 16h|2024-01-10 16h|
 |#|steamworld-build-71ee6c|SteamWorld Build|29,99€|10|2023-12-01 14h|2023-12-07 14h|
 |#|stillborn-slayer-298dd7|Stillborn Slayer|9,89€|10|2023-12-13 16h|2024-01-10 16h|
-|#|the-ecdysis-9c880c|The Ecdysis|10,79€|10|2023-11-30 08h|2023-12-06 08h|
 |#|the-legend-of-heroes-trails-to-azure|The Legend of Heroes: Trails to Azure|39,99€|10|2023-12-13 16h|2024-01-10 16h|
 |#|ultros-general-audience-prepurchase|Ultros|24,99€|10|2023-11-30 20h|2024-02-13 08h|
 |#|ungate-df09c8|Ungate|22,39€|10|2023-12-13 16h|2024-01-10 16h|
