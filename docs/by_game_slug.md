@@ -544,7 +544,6 @@
 |#|guardians-of-hyelore-0b07d3|Guardians of Hyelore|15,99€|80|2023-12-21 14h|2024-01-06 05h|
 |#|guild-of-ascension|Guild Of Ascension|14,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|guild-of-dungeoneering-ultimate-edition|Guild of Dungeoneering Ultimate Edition|19,99€|40|2024-02-09 16h|2024-02-12 16h|
-|#|haak-1401cb|HAAK|16,19€|35|2023-11-30 03h|2023-12-07 03h|
 |#|haimrik-5f59a7|Haimrik|9,99€|90|2023-12-13 16h|2024-01-10 16h|
 |#|hammerting|Hammerting|24,99€|90|2023-12-13 16h|2024-01-10 16h|
 |#|happys-humble-burger-farm-d16675|Happy's Humble Burger Farm|16,79€|60|2023-12-13 16h|2024-01-10 16h|
