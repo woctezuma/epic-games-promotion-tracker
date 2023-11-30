@@ -4599,6 +4599,15 @@
     "title": "Gift of Parthax"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2023-12-14T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 2399,
+    "slug": "gigabash",
+    "startDate": "2023-12-07T16:00:00.000Z",
+    "title": "GigaBash"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -4623,6 +4632,15 @@
     "originalPrice": 2999,
     "slug": "goat-simulator-3",
     "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Goat Simulator 3"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "goat-simulator-3",
+    "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Goat Simulator 3"
   },
   {
@@ -5298,6 +5316,15 @@
     "originalPrice": 1950,
     "slug": "huntdown",
     "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Huntdown"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1950,
+    "slug": "huntdown",
+    "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Huntdown"
   },
   {
@@ -7092,6 +7119,15 @@
     "title": "Midnight Ghost Hunt"
   },
   {
+    "discountPercentage": 66,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "midnight-ghost-hunt",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Midnight Ghost Hunt"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-01-10T17:00:00.000Z",
     "isFree": false,
@@ -8181,6 +8217,15 @@
     "title": "Paladin Dream"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "palladium-adventure-in-greece-f1ee1b",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Palladium: Adventure in Greece"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -8458,6 +8503,15 @@
     "slug": "pray-for-death-fe9a43",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Pray for Death"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2023-12-14T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1978,
+    "slug": "predecessor",
+    "startDate": "2023-12-07T16:00:00.000Z",
+    "title": "Predecessor"
   },
   {
     "discountPercentage": 25,
@@ -9603,6 +9657,15 @@
     "title": "Saints Row IV Re-Elected"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "saints-row-the-third-remastered",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Saints Row\u00ae: The Third\u2122  Remastered"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -9636,6 +9699,15 @@
     "originalPrice": 2999,
     "slug": "satisfactory",
     "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Satisfactory"
+  },
+  {
+    "discountPercentage": 45,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "satisfactory",
+    "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Satisfactory"
   },
   {
@@ -10185,6 +10257,15 @@
     "originalPrice": 2999,
     "slug": "songs-of-conquest",
     "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Songs of Conquest"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "songs-of-conquest",
+    "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Songs of Conquest"
   },
   {
