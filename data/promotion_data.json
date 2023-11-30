@@ -2070,7 +2070,7 @@
     "title": "Chaos Galaxy"
   },
   {
-    "discountPercentage": 40,
+    "discountPercentage": 50,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 449,
@@ -3436,6 +3436,15 @@
     "slug": "dust-fleet-620614",
     "startDate": "2023-12-21T14:00:00.000Z",
     "title": "Dust Fleet"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "dying-light-2-stay-human  ",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Dying Light 2 Stay Human"
   },
   {
     "discountPercentage": 70,
@@ -5697,15 +5706,6 @@
     "title": "Jetboard Joust"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2023-12-07T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 1999,
-    "slug": "jitsu-squad-af3f2f",
-    "startDate": "2023-11-30T16:00:00.000Z",
-    "title": "Jitsu Squad"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -7146,15 +7146,6 @@
     "title": "Might and Magic: Heroes VII - Ultimate Edition"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2023-12-07T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 2399,
-    "slug": "mighty-fight-federation",
-    "startDate": "2023-11-30T16:00:00.000Z",
-    "title": "Mighty Fight Federation"
-  },
-  {
     "discountPercentage": 66,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -8508,7 +8499,7 @@
     "discountPercentage": 100,
     "endDate": "2023-12-14T16:00:00.000Z",
     "isFree": true,
-    "originalPrice": 1978,
+    "originalPrice": 809,
     "slug": "predecessor",
     "startDate": "2023-12-07T16:00:00.000Z",
     "title": "Predecessor"
