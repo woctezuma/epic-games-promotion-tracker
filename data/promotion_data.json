@@ -5202,6 +5202,15 @@
     "title": "Horizon Zero Dawn\u2122 Complete Edition"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2023-12-30T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "test1-a822c4",
+    "startDate": "2023-12-01T15:00:00.000Z",
+    "title": "Horror Ken"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
