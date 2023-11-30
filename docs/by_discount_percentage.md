@@ -666,7 +666,6 @@
 |#|paramnesia-a49100|Paramnesia|2,39€|67|2023-12-13 16h|2024-01-10 16h|
 |#|quake|Quake|9,99€|67|2023-12-13 16h|2024-01-10 16h|
 |#|red-dead-redemption-2|Red Dead Redemption 2|59,99€|67|2023-12-13 16h|2024-01-10 16h|
-|#|saints-row-the-third-remastered|Saints Row®: The Third™ Remastered|29,99€|67|2023-12-13 16h|2024-01-10 16h|
 |#|scott-pilgrim-vs-the-world-the-game|Scott Pilgrim vs. The World: The Game – Complete Edition|14,99€|67|2023-12-13 16h|2024-01-10 16h|
 |#|the-legend-of-heroes-trails-of-cold-steel-iii|The Legend of Heroes: Trails of Cold Steel III|59,99€|67|2023-12-13 16h|2024-01-10 16h|
 |#|this-is-the-president|This Is the President|14,99€|67|2023-12-13 16h|2024-01-10 16h|

@@ -926,7 +926,6 @@
 |#|sackboy-a-big-adventure|Sackboy™: A Big Adventure|59,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|saints-row|Saints Row|29,99€|55|2023-12-13 16h|2024-01-10 16h|
 |#|saints-row-iv-re-election|Saints Row IV Re-Elected|19,99€|75|2023-12-13 16h|2024-01-10 16h|
-|#|saints-row-the-third-remastered|Saints Row®: The Third™ Remastered|29,99€|67|2023-12-13 16h|2024-01-10 16h|
 |#|samorost-2-1b9bb1|Samorost 2|4,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|samorost-3-0c4489|Samorost 3|19,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|satisfactory|Satisfactory|29,99€|45|2023-12-13 16h|2024-01-10 16h|

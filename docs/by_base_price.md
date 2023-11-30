@@ -327,7 +327,6 @@
 |#|rise-of-the-tomb-raider|Rise of the Tomb Raider: 20 Year Celebration|29,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|ruined-king-a-league-of-legends-story|Ruined King: A League of Legends Story™|29,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|saints-row|Saints Row|29,99€|55|2023-12-13 16h|2024-01-10 16h|
-|#|saints-row-the-third-remastered|Saints Row®: The Third™ Remastered|29,99€|67|2023-12-13 16h|2024-01-10 16h|
 |#|satisfactory|Satisfactory|29,99€|45|2023-12-13 16h|2024-01-10 16h|
 |#|shenmue-3|Shenmue III - Standard Edition|29,99€|85|2023-12-13 16h|2024-01-10 16h|
 |#|sherlock-holmes-crimes-and-punishments|Sherlock Holmes: Crimes and Punishments|29,99€|85|2023-12-13 16h|2024-01-10 16h|
