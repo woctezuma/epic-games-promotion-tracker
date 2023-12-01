@@ -19,15 +19,6 @@
   },
   {
     "discountPercentage": 40,
-    "endDate": "2023-12-08T14:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "1428-shadows-over-silesia-266e5f",
-    "startDate": "2023-12-01T14:00:00.000Z",
-    "title": "1428: Shadows over Silesia"
-  },
-  {
-    "discountPercentage": 40,
     "endDate": "2023-12-14T17:00:00.000Z",
     "isFree": false,
     "originalPrice": 89,
@@ -108,7 +99,7 @@
     "title": "A Game Of Thrones: The Board Game Digital Edition"
   },
   {
-    "discountPercentage": 25,
+    "discountPercentage": 35,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 2450,
@@ -1422,15 +1413,6 @@
     "title": "Bite the Bullet"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2023-12-07T10:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1579,
-    "slug": "black-academy-ed8e11",
-    "startDate": "2023-12-01T10:00:00.000Z",
-    "title": "Black Academy"
-  },
-  {
     "discountPercentage": 55,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -1512,15 +1494,6 @@
     "title": "Blazing Sails"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 899,
-    "slug": "bleak-sword-dx-5b2d4c",
-    "startDate": "2023-12-13T16:00:00.000Z",
-    "title": "Bleak Sword DX"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -1591,15 +1564,6 @@
     "slug": "bob-a-thousand-lives-802452",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Bob A thousand lives - Enhanced Edition"
-  },
-  {
-    "discountPercentage": 19,
-    "endDate": "2023-12-30T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 539,
-    "slug": "boltbreak-c2bf02",
-    "startDate": "2023-12-01T07:00:00.000Z",
-    "title": "BoltBreak"
   },
   {
     "discountPercentage": 16,
@@ -2878,15 +2842,6 @@
     "slug": "dead-space",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Dead Space"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2023-12-14T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "dead-by-daylight",
-    "startDate": "2023-12-01T16:00:00.000Z",
-    "title": "Dead by Daylight"
   },
   {
     "discountPercentage": 25,
@@ -4428,6 +4383,15 @@
     "title": "Funtasia"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "futuregrind-f390c1",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "FutureGrind"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2024-01-15T16:00:00.000Z",
     "isFree": false,
@@ -5229,15 +5193,6 @@
     "title": "Horizon Zero Dawn\u2122 Complete Edition"
   },
   {
-    "discountPercentage": 30,
-    "endDate": "2023-12-30T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 449,
-    "slug": "test1-a822c4",
-    "startDate": "2023-12-01T15:00:00.000Z",
-    "title": "Horror Ken"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -5380,15 +5335,6 @@
     "slug": "i-want-to-be-alive-0fcb6e",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "I Want to be Alive"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2023-12-15T22:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 399,
-    "slug": "im-looking-for-3024-people-1cdae4",
-    "startDate": "2023-11-30T22:00:00.000Z",
-    "title": "I'm looking for 3024 people"
   },
   {
     "discountPercentage": 50,
@@ -9189,7 +9135,7 @@
     "title": "Revita"
   },
   {
-    "discountPercentage": 70,
+    "discountPercentage": 72,
     "endDate": "2024-01-05T18:00:00.000Z",
     "isFree": false,
     "originalPrice": 2465,
@@ -9241,6 +9187,24 @@
     "slug": "rignroll-522598",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Rig'n'Roll"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3299,
+    "slug": "rimworld",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "RimWorld"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3299,
+    "slug": "rimworld",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "RimWorld"
   },
   {
     "discountPercentage": 70,
@@ -9799,15 +9763,6 @@
     "slug": "seal-of-evil-17240d",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Seal of Evil"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2023-12-14T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 179,
-    "slug": "obelixes-tower-defense-0efb67",
-    "startDate": "2023-11-30T23:00:00.000Z",
-    "title": "Secret Agent 001"
   },
   {
     "discountPercentage": 50,
@@ -10611,6 +10566,15 @@
     "title": "Starlight X-2 Galactic Puzzles"
   },
   {
+    "discountPercentage": 25,
+    "endDate": "2024-01-04T18:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2699,
+    "slug": "starship-troopers-extermination-57f59d",
+    "startDate": "2023-12-28T18:00:00.000Z",
+    "title": "Starship Troopers: Extermination"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -10636,15 +10600,6 @@
     "slug": "steal-then-just-escape-87b7b6",
     "startDate": "2024-01-23T16:00:00.000Z",
     "title": "Steal Then Just Escape"
-  },
-  {
-    "discountPercentage": 10,
-    "endDate": "2023-12-07T14:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "steamworld-build-71ee6c",
-    "startDate": "2023-12-01T14:00:00.000Z",
-    "title": "SteamWorld Build"
   },
   {
     "discountPercentage": 75,
@@ -10852,6 +10807,15 @@
     "slug": "sundered-eldritch-edition",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Sundered: Eldritch Edition"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "sunlight-scream-de8642",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Sunlight Scream"
   },
   {
     "discountPercentage": 20,
@@ -13068,15 +13032,6 @@
     "title": "UltraGoodness 2"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2024-02-13T08:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2499,
-    "slug": "ultros-general-audience-prepurchase",
-    "startDate": "2023-11-30T20:00:00.000Z",
-    "title": "Ultros"
-  },
-  {
     "discountPercentage": 55,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -13957,5 +13912,23 @@
     "slug": "while-true-learn",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "while True: learn()"
+  },
+  {
+    "discountPercentage": 42,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "deltav-rings-of-saturn-4cd187",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "\u0394V: Rings of Saturn"
+  },
+  {
+    "discountPercentage": 37,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "deltav-rings-of-saturn-4cd187",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "\u0394V: Rings of Saturn"
   }
 ]
