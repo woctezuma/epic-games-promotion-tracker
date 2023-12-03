@@ -22,8 +22,16 @@
 |#|predecessor|Predecessor|8,09€|100|2023-12-07 16h|2023-12-14 16h|
 |#|aquatico-b4f0ce|Aquatico|24,99€|50|2023-12-10 23h|2023-12-17 23h|
 |#|patron-4ab1c1|Patron|15,99€|75|2023-12-10 23h|2023-12-17 23h|
+|#|city-car-parking-simulator-231485|City Car Parking Simulator|0,89€|45|2023-12-05 17h|2023-12-20 17h|
+|#|garbage-truck-driving-simulator-5dcc67|Garbage Truck Driving Simulator|0,89€|45|2023-12-05 17h|2023-12-20 17h|
+|#|police-car-escape-simulator-f9cd17|Police Car Escape Simulator|0,89€|45|2023-12-05 17h|2023-12-20 17h|
+|#|police-car-suv-simulator-092560|Police Car SUV Simulator|0,89€|45|2023-12-05 17h|2023-12-20 17h|
+|#|real-drift-multiplayer-4bdd6d|Real Drift Multiplayer|1,79€|45|2023-12-05 17h|2023-12-20 17h|
+|#|real-motocross-driving-simulator-c8ff84|Real Motocross Driving Simulator|0,89€|45|2023-12-05 17h|2023-12-20 17h|
+|#|school-bus-driving-simulator-b878a8|School Bus Driving Simulator|0,89€|45|2023-12-05 17h|2023-12-20 17h|
 |#|forklift-simulator-2023-b1d538|Forklift Simulator 2023|7,19€|60|2023-12-14 22h|2023-12-21 22h|
 |#|he-will-shoot-46efff|He Will Shoot|1,59€|80|2023-12-07 22h|2023-12-21 22h|
+|#|hanoi-puzzles-solid-match-6a9e0c|Hanoi Puzzles - Solid Match|2,69€|20|2023-12-18 18h|2023-12-25 17h|
 |#|birch-simulator-21969e|Birch Simulator|0,89€|50|2023-12-03 22h|2023-12-25 22h|
 |#|corrupt-political-simulator-f94058|Corrupt - Political Simulator|3,59€|90|2023-12-11 23h|2023-12-25 23h|
 |#|football-manager-2024|Football Manager 2024|59,99€|10|2023-12-21 15h|2023-12-27 15h|
@@ -42,6 +50,8 @@
 |#|one-military-camp-8db1f6|One Military Camp|24,99€|40|2023-12-21 17h|2024-01-04 17h|
 |#|super-hydorah-56d575|Super Hydorah|19,99€|50|2023-12-21 17h|2024-01-04 17h|
 |#|warhammer-age-of-sigmar-realms-of-ruin|Warhammer Age of Sigmar: Realms of Ruin|59,99€|40|2023-12-21 18h|2024-01-04 18h|
+|#|dirt-bicycle-rider-simulator-19bff9|Dirt Bicycle Rider Simulator|0,89€|45|2023-12-21 17h|2024-01-05 17h|
+|#|extreme-bus-driver-simulator-b7a96d|Extreme Bus Driver 2024|0,89€|45|2023-12-21 17h|2024-01-05 17h|
 |#|city-of-beats-08f8c2|City of Beats|19,99€|30|2023-12-21 14h|2024-01-05 18h|
 |#|reyna-darkness-0e1bb8|Reyna Darkness|24,65€|72|2023-12-06 18h|2024-01-05 18h|
 |#|airborne-kingdom|Airborne Kingdom|20,99€|50|2023-12-21 14h|2024-01-06 04h|
@@ -299,7 +309,7 @@
 |#|chased-by-darkness-d00d26|Chased by Darkness|4,49€|50|2023-12-13 16h|2024-01-10 16h|
 |#|chef-life-a-restaurant-simulator|Chef Life - A Restaurant Simulator|29,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|chernobylite|Chernobylite|29,99€|55|2023-12-13 16h|2024-01-10 16h|
-|#|b84634385c6e4705869992cb7a21008d|Chess Ultra|12,99€|60|2023-12-13 16h|2024-01-10 16h|
+|#|chess-ultra-91bba3|Chess Ultra|12,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|chicken-assassin-reloaded-279863|Chicken Assassin Reloaded|3,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|choochoo-charles-0eece5|Choo-Choo Charles|17,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|chorus|Chorus|24,99€|60|2023-12-13 16h|2024-01-10 16h|
@@ -1152,6 +1162,8 @@
 |#|the-escapists|The Escapists|14,99€|85|2023-12-13 16h|2024-01-10 16h|
 |#|the-escapists-2|The Escapists 2|19,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|the-eternal-cylinder|The Eternal Cylinder|23,99€|50|2023-12-13 16h|2024-01-10 16h|
+|#|the-evil-within|The Evil Within|19,99€|80|2023-12-13 16h|2024-01-10 16h|
+|#|the-evil-within-2|The Evil Within 2|29,99€|85|2023-12-13 16h|2024-01-10 16h|
 |#|the-expanse-a-telltale-series|The Expanse - A Telltale Series|22,39€|40|2023-12-13 16h|2024-01-10 16h|
 |#|the-fabled-woods|The Fabled Woods|9,99€|90|2023-12-22 16h|2024-01-10 16h|
 |#|the-fabulous-fear-machine-8e7c6b|The Fabulous Fear Machine|16,19€|33|2023-12-13 16h|2024-01-10 16h|
@@ -1275,7 +1287,7 @@
 |#|tour-de-france-2022-8bb5fb|Tour de France 2022|39,99€|65|2023-12-13 16h|2024-01-10 16h|
 |#|tour-de-france-2023|Tour de France 2023|39,99€|45|2023-12-13 16h|2024-01-10 16h|
 |#|townsmen-a-kingdom-rebuilt-07c09d|Townsmen - A Kingdom Rebuilt|19,98€|80|2023-12-13 16h|2024-01-10 16h|
-|#|trail-of-ayash-31a1d4|Trail Of Ayash|17,99€|25|2023-12-13 16h|2024-01-10 16h|
+|#|trail-of-ayash-31a1d4|Trail Of Ayash|17,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|train-life|Train Life: A Railway Simulator|19,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|train-valley-ead642|Train Valley|7,99€|85|2023-12-13 16h|2024-01-10 16h|
 |#|train-valley-2-3606da|Train Valley 2|13,49€|25|2023-12-13 16h|2024-01-10 16h|
@@ -1414,9 +1426,11 @@
 |#|crime-boss|Crime Boss: Rockay City|39,99€|50|2023-12-15 16h|2024-01-10 23h|
 |#|elegies-aya-17c3f1|ELEGIES Aya|16,19€|15|2023-12-21 16h|2024-01-11 16h|
 |#|compass-of-the-destiny-istanbul-598642|Compass of the Destiny: Istanbul|14,79€|30|2024-01-04 21h|2024-01-11 21h|
+|#|car-tuning-simulator-38ddaf|Car Tuning Simulator|0,79€|50|2023-12-26 03h|2024-01-12 03h|
 |#|the-meme-hunter-bf7086|THE MEME HUNTER|0,89€|50|2023-12-27 22h|2024-01-13 22h|
 |#|car-mechanic-city-driving-4996c5|Car Mechanic - City Driving|0,89€|50|2023-12-29 22h|2024-01-14 22h|
 |#|nextbots-in-the-backrooms-b5677b|Nextbots In The Backrooms|0,89€|50|2023-12-30 22h|2024-01-14 22h|
+|#|true-hate-007027|True Hate|5,99€|90|2023-12-24 03h|2024-01-15 03h|
 |#|eden-island-8cd344|Eden Island|8,99€|30|2024-01-10 12h|2024-01-15 15h|
 |#|ginsha-604f11|GINSHA|15,79€|20|2023-12-21 16h|2024-01-15 16h|
 |#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2023-12-25 22h|2024-01-15 22h|
@@ -1427,7 +1441,8 @@
 |#|lawn-mowing-simulator-838bf3|Lawn Mowing Simulator|19,99€|66|2023-12-18 18h|2024-01-17 18h|
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2023-12-29 22h|2024-01-19 22h|
 |#|overtop-ed5e49|Overtop|4,49€|80|2024-01-01 22h|2024-01-21 22h|
-|#|steal-then-just-escape-87b7b6|Steal Then Just Escape|4,99€|60|2024-01-23 16h|2024-01-30 16h|
+|#|trex-dinosaur-game-d30355|T-Rex Dinosaur Game|0,89€|50|2024-01-09 22h|2024-01-25 22h|
+|#|it-follows-you-b11f3e|It follows you|1,59€|60|2024-01-12 03h|2024-01-30 03h|
 |#|polygon-survival-2374fc|Polygon Survival|0,89€|50|2024-01-14 22h|2024-01-30 22h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|70|2024-01-11 22h|2024-01-30 22h|
 |#|gardenia-630482|Gardenia|8,99€|20|2024-01-05 23h|2024-02-04 23h|
@@ -1435,6 +1450,7 @@
 |#|saboteur-sio-123236|Saboteur SiO|9,89€|20|2024-01-05 23h|2024-02-04 23h|
 |#|saboteur-f3d01d|Saboteur!|7,19€|20|2024-01-05 23h|2024-02-04 23h|
 |#|life-after-death-b4e964|Life After Death|4,49€|40|2024-01-22 01h|2024-02-10 01h|
+|#|he-will-shoot-46efff|He Will Shoot|1,59€|60|2024-01-25 03h|2024-02-10 03h|
 |#|1428-shadows-over-silesia-266e5f|1428: Shadows over Silesia|19,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|combat-naval-package-hunter-killer-685f4a|688(I) Hunter/Killer|7,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|7-billion-humans|7 Billion Humans|11,99€|50|2024-02-09 16h|2024-02-12 16h|
@@ -1444,7 +1460,7 @@
 |#|beach-invasion-1944-d654d6|Beach Invasion 1944|8,99€|35|2024-02-09 16h|2024-02-12 16h|
 |#|big-mutha-truckers-990060|Big Mutha Truckers 2|7,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|chernobylite|Chernobylite|29,99€|55|2024-02-09 16h|2024-02-12 16h|
-|#|b84634385c6e4705869992cb7a21008d|Chess Ultra|12,99€|60|2024-02-09 16h|2024-02-12 16h|
+|#|chess-ultra-91bba3|Chess Ultra|12,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|conan-exiles|Conan Exiles|39,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|culpa-innata-8997ac|Culpa Innata|9,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|curse-of-the-sea-rats-8f28b1|Curse of the Sea Rats|17,99€|30|2024-02-09 16h|2024-02-12 16h|
@@ -1464,6 +1480,7 @@
 |#|goat-simulator-3|Goat Simulator 3|29,99€|40|2024-02-09 16h|2024-02-12 16h|
 |#|gray-dawn-a0cc44|Gray Dawn|13,49€|40|2024-02-09 16h|2024-02-12 16h|
 |#|guild-of-dungeoneering-ultimate-edition|Guild of Dungeoneering Ultimate Edition|19,99€|40|2024-02-09 16h|2024-02-12 16h|
+|#|hanoi-puzzles-solid-match-6a9e0c|Hanoi Puzzles - Solid Match|2,69€|25|2024-02-09 16h|2024-02-12 16h|
 |#|human-resource-machine|Human Resource Machine|11,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|huntdown|Huntdown|19,50€|80|2024-02-09 16h|2024-02-12 16h|
 |#|im-looking-for-3024-people-1cdae4|I'm looking for 3024 people|3,99€|50|2024-02-09 16h|2024-02-12 16h|
@@ -1533,16 +1550,13 @@
 |#|birch-simulator-21969e|Birch Simulator|0,89€|50|2024-01-27 22h|2024-02-15 22h|
 |#|amber-1e2240|Amber|26,99€|34|2024-02-14 13h|2024-02-20 13h|
 |#|ginsha-604f11|GINSHA|15,79€|23|2024-02-19 16h|2024-02-29 16h|
-|#|skotos-455463|Skotos|5,39€|16|2024-02-01 07h|2024-02-29 23h|
 |#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2024-02-17 22h|2024-03-01 22h|
 |#|overtop-ed5e49|Overtop|4,49€|90|2024-02-24 22h|2024-03-14 22h|
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2024-02-25 22h|2024-03-15 22h|
 |#|boltbreak-c2bf02|BoltBreak|5,39€|16|2024-03-01 07h|2024-03-30 22h|
 |#|life-after-death-b4e964|Life After Death|4,49€|40|2024-03-11 01h|2024-04-04 00h|
 |#|mallofmayhem-15344c|Mall of Mayhem|5,39€|14|2024-04-01 06h|2024-04-30 10h|
-|#|skotos-455463|Skotos|5,39€|15|2024-05-01 06h|2024-05-30 22h|
 |#|boltbreak-c2bf02|BoltBreak|5,39€|18|2024-06-01 06h|2024-06-30 22h|
 |#|mallofmayhem-15344c|Mall of Mayhem|5,39€|19|2024-07-01 06h|2024-07-30 22h|
-|#|skotos-455463|Skotos|5,39€|15|2024-08-01 06h|2024-08-30 22h|
 |#|boltbreak-c2bf02|BoltBreak|5,39€|17|2024-09-01 06h|2024-09-30 22h|
 |#|mallofmayhem-15344c|Mall of Mayhem|5,39€|17|2024-10-01 06h|2024-10-30 22h|
