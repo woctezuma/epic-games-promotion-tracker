@@ -1926,6 +1926,15 @@
     "title": "Car Mechanic - City Driving"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-01-12T03:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 79,
+    "slug": "car-tuning-simulator-38ddaf",
+    "startDate": "2023-12-26T03:00:00.000Z",
+    "title": "Car Tuning Simulator"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -2110,7 +2119,7 @@
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1299,
-    "slug": "b84634385c6e4705869992cb7a21008d",
+    "slug": "chess-ultra-91bba3",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Chess Ultra"
   },
@@ -2119,7 +2128,7 @@
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1299,
-    "slug": "b84634385c6e4705869992cb7a21008d",
+    "slug": "chess-ultra-91bba3",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Chess Ultra"
   },
@@ -2212,6 +2221,15 @@
     "slug": "citizen-sleeper-944858",
     "startDate": "2023-12-05T16:00:00.000Z",
     "title": "Citizen Sleeper"
+  },
+  {
+    "discountPercentage": 45,
+    "endDate": "2023-12-20T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "city-car-parking-simulator-231485",
+    "startDate": "2023-12-05T17:00:00.000Z",
+    "title": "City Car Parking Simulator"
   },
   {
     "discountPercentage": 30,
@@ -3087,6 +3105,15 @@
     "title": "Dinobreak"
   },
   {
+    "discountPercentage": 45,
+    "endDate": "2024-01-05T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "dirt-bicycle-rider-simulator-19bff9",
+    "startDate": "2023-12-21T17:00:00.000Z",
+    "title": "Dirt Bicycle Rider Simulator"
+  },
+  {
     "discountPercentage": 67,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -3798,6 +3825,15 @@
     "title": "Expeditions: Viking"
   },
   {
+    "discountPercentage": 45,
+    "endDate": "2024-01-05T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "extreme-bus-driver-simulator-b7a96d",
+    "startDate": "2023-12-21T17:00:00.000Z",
+    "title": "Extreme Bus Driver 2024"
+  },
+  {
     "discountPercentage": 66,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -4455,6 +4491,15 @@
     "title": "Gamedec - Definitive Edition"
   },
   {
+    "discountPercentage": 45,
+    "endDate": "2023-12-20T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "garbage-truck-driving-simulator-5dcc67",
+    "startDate": "2023-12-05T17:00:00.000Z",
+    "title": "Garbage Truck Driving Simulator"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2024-02-04T23:00:00.000Z",
     "isFree": false,
@@ -4950,6 +4995,24 @@
     "title": "Hammerting"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2023-12-25T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "hanoi-puzzles-solid-match-6a9e0c",
+    "startDate": "2023-12-18T18:00:00.000Z",
+    "title": "Hanoi Puzzles - Solid Match"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "hanoi-puzzles-solid-match-6a9e0c",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Hanoi Puzzles - Solid Match"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -4992,6 +5055,15 @@
     "originalPrice": 159,
     "slug": "he-will-shoot-46efff",
     "startDate": "2023-12-07T22:00:00.000Z",
+    "title": "He Will Shoot"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-02-10T03:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 159,
+    "slug": "he-will-shoot-46efff",
+    "startDate": "2024-01-25T03:00:00.000Z",
     "title": "He Will Shoot"
   },
   {
@@ -5596,6 +5668,15 @@
     "slug": "it-takes-two",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "It Takes Two"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-01-30T03:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 159,
+    "slug": "it-follows-you-b11f3e",
+    "startDate": "2024-01-12T03:00:00.000Z",
+    "title": "It follows you"
   },
   {
     "discountPercentage": 40,
@@ -8379,6 +8460,24 @@
     "title": "Poker Club"
   },
   {
+    "discountPercentage": 45,
+    "endDate": "2023-12-20T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "police-car-escape-simulator-f9cd17",
+    "startDate": "2023-12-05T17:00:00.000Z",
+    "title": "Police Car Escape Simulator"
+  },
+  {
+    "discountPercentage": 45,
+    "endDate": "2023-12-20T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "police-car-suv-simulator-092560",
+    "startDate": "2023-12-05T17:00:00.000Z",
+    "title": "Police Car SUV Simulator"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-01-30T22:00:00.000Z",
     "isFree": false,
@@ -8899,6 +8998,24 @@
     "slug": "relegion-fe9684",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Re-Legion"
+  },
+  {
+    "discountPercentage": 45,
+    "endDate": "2023-12-20T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "real-drift-multiplayer-4bdd6d",
+    "startDate": "2023-12-05T17:00:00.000Z",
+    "title": "Real Drift Multiplayer"
+  },
+  {
+    "discountPercentage": 45,
+    "endDate": "2023-12-20T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "real-motocross-driving-simulator-c8ff84",
+    "startDate": "2023-12-05T17:00:00.000Z",
+    "title": "Real Motocross Driving Simulator"
   },
   {
     "discountPercentage": 80,
@@ -9693,6 +9810,15 @@
     "title": "Schein"
   },
   {
+    "discountPercentage": 45,
+    "endDate": "2023-12-20T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "school-bus-driving-simulator-b878a8",
+    "startDate": "2023-12-05T17:00:00.000Z",
+    "title": "School Bus Driving Simulator"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -10060,33 +10186,6 @@
     "slug": "sir-whoopass-757c5c",
     "startDate": "2023-12-20T00:00:00.000Z",
     "title": "Sir Whoopass - Immortal Death"
-  },
-  {
-    "discountPercentage": 16,
-    "endDate": "2024-02-29T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 539,
-    "slug": "skotos-455463",
-    "startDate": "2024-02-01T07:00:00.000Z",
-    "title": "Skotos"
-  },
-  {
-    "discountPercentage": 15,
-    "endDate": "2024-05-30T22:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 539,
-    "slug": "skotos-455463",
-    "startDate": "2024-05-01T06:00:00.000Z",
-    "title": "Skotos"
-  },
-  {
-    "discountPercentage": 15,
-    "endDate": "2024-08-30T22:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 539,
-    "slug": "skotos-455463",
-    "startDate": "2024-08-01T06:00:00.000Z",
-    "title": "Skotos"
   },
   {
     "discountPercentage": 60,
@@ -10584,15 +10683,6 @@
     "title": "Startup Panic"
   },
   {
-    "discountPercentage": 60,
-    "endDate": "2024-01-30T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 499,
-    "slug": "steal-then-just-escape-87b7b6",
-    "startDate": "2024-01-23T16:00:00.000Z",
-    "title": "Steal Then Just Escape"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -10987,6 +11077,15 @@
     "slug": "system-shock",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "System Shock"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-25T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "trex-dinosaur-game-d30355",
+    "startDate": "2024-01-09T22:00:00.000Z",
+    "title": "T-Rex Dinosaur Game"
   },
   {
     "discountPercentage": 60,
@@ -11428,6 +11527,24 @@
     "slug": "the-eternal-cylinder",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "The Eternal Cylinder"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "the-evil-within",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "The Evil Within"
+  },
+  {
+    "discountPercentage": 85,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "the-evil-within-2",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "The Evil Within 2"
   },
   {
     "discountPercentage": 40,
@@ -12744,7 +12861,7 @@
     "title": "Trackmania Turbo"
   },
   {
-    "discountPercentage": 25,
+    "discountPercentage": 40,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1799,
@@ -12904,6 +13021,15 @@
     "slug": "true-fear-forsaken-souls-part-1-demo-f3c923",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "True Fear: Forsaken Souls Part 2"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2024-01-15T03:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 599,
+    "slug": "true-hate-007027",
+    "startDate": "2023-12-24T03:00:00.000Z",
+    "title": "True Hate"
   },
   {
     "discountPercentage": 90,
