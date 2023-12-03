@@ -348,6 +348,7 @@
 |#|surviving-mars|Surviving Mars|29,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|tchia|Tchia|29,99€|35|2023-12-13 16h|2024-01-10 16h|
 |#|the-division-2|The Division 2 Standard Edition|29,99€|70|2023-12-13 16h|2024-01-10 16h|
+|#|the-evil-within-2|The Evil Within 2|29,99€|85|2023-12-13 16h|2024-01-10 16h|
 |#|the-guild-3|The Guild 3|29,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|the-invincible|The Invincible|29,99€|20|2023-12-13 16h|2024-01-10 16h|
 |#|the-invincible|The Invincible|29,99€|20|2024-02-09 16h|2024-02-12 16h|
@@ -687,6 +688,7 @@
 |#|the-dragoness-command-of-the-flame-b3b544|The Dragoness Command Of The Flame|19,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|the-elder-scrolls-online|The Elder Scrolls Online|19,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|the-escapists-2|The Escapists 2|19,99€|75|2023-12-13 16h|2024-01-10 16h|
+|#|the-evil-within|The Evil Within|19,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|the-falconeer|The Falconeer: Standard Edition|19,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|the-house-of-da-vinci-eb6e37|The House of Da Vinci|19,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|the-house-of-da-vinci-2-970dc3|The House of Da Vinci 2|19,99€|65|2023-12-13 16h|2024-01-10 16h|
@@ -788,7 +790,7 @@
 |#|the-isle-tide-hotel-adf588|The Isle Tide Hotel|17,99€|20|2023-12-13 16h|2024-01-10 16h|
 |#|the-unbeatable-path-8af8fc|The Unbeatable Path|17,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|tiny-troopers-global-ops-4ac32b|Tiny Troopers Global Ops|17,99€|40|2023-12-13 16h|2024-01-10 16h|
-|#|trail-of-ayash-31a1d4|Trail Of Ayash|17,99€|25|2023-12-13 16h|2024-01-10 16h|
+|#|trail-of-ayash-31a1d4|Trail Of Ayash|17,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|ugly-da09b2|Ugly|17,99€|25|2023-12-13 16h|2024-01-10 16h|
 |#|vaudeville-86cff0|Vaudeville|17,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|victorian-admirals-marianas-incident-1887-7d4e70|Victorian Admirals Marianas Incident 1887|17,99€|90|2023-12-13 16h|2024-01-10 16h|
@@ -1040,8 +1042,8 @@
 |#|victorian-admirals-panama-crisis-1885-7e5372|Victorian Admirals Panama Crisis 1885|13,49€|80|2024-02-09 16h|2024-02-12 16h|
 |#|terrorbane-437dd3|tERRORbane|13,49€|50|2023-12-13 16h|2024-01-10 16h|
 |#|bibots-aad4d0|Bibots|12,99€|45|2023-12-13 16h|2024-01-10 16h|
-|#|b84634385c6e4705869992cb7a21008d|Chess Ultra|12,99€|60|2023-12-13 16h|2024-01-10 16h|
-|#|b84634385c6e4705869992cb7a21008d|Chess Ultra|12,99€|60|2024-02-09 16h|2024-02-12 16h|
+|#|chess-ultra-91bba3|Chess Ultra|12,99€|60|2023-12-13 16h|2024-01-10 16h|
+|#|chess-ultra-91bba3|Chess Ultra|12,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|ironcast|Ironcast|12,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|ironcast|Ironcast|12,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|kings-bounty-dark-side-c3066f|King's Bounty: Dark Side|12,99€|80|2023-12-13 16h|2024-01-10 16h|
@@ -1374,6 +1376,7 @@
 |#|stick-it-to-the-man|Stick It To The Man!|5,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|thermonuclear-30a1d0|Thermonuclear|5,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|tiny-lands-527466|Tiny Lands|5,99€|58|2023-12-05 16h|2023-12-12 16h|
+|#|true-hate-007027|True Hate|5,99€|90|2023-12-24 03h|2024-01-15 03h|
 |#|aerial-platforms-119f15|Aerial Platforms|5,39€|60|2023-12-13 16h|2024-01-10 16h|
 |#|boltbreak-c2bf02|BoltBreak|5,39€|16|2024-03-01 07h|2024-03-30 22h|
 |#|boltbreak-c2bf02|BoltBreak|5,39€|18|2024-06-01 06h|2024-06-30 22h|
@@ -1387,9 +1390,6 @@
 |#|picklock-33eab8|Picklock|5,39€|40|2023-12-13 16h|2024-01-10 16h|
 |#|remains-dcb937|Remains|5,39€|30|2023-12-13 16h|2024-01-10 16h|
 |#|shop-tycoon-prepare-your-wallet-e705ba|Shop Tycoon - Prepare Your Wallet|5,39€|90|2023-12-14 16h|2024-01-10 16h|
-|#|skotos-455463|Skotos|5,39€|16|2024-02-01 07h|2024-02-29 23h|
-|#|skotos-455463|Skotos|5,39€|15|2024-05-01 06h|2024-05-30 22h|
-|#|skotos-455463|Skotos|5,39€|15|2024-08-01 06h|2024-08-30 22h|
 |#|strike-force-kitty-4603e5|StrikeForce Kitty|5,39€|40|2023-12-13 16h|2024-01-10 16h|
 |#|762-high-calibre-762-hard-life-93f60a|7,62 High Calibre|4,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|doom-1993|DOOM (1993)|4,99€|60|2023-12-13 16h|2024-01-10 16h|
@@ -1409,7 +1409,6 @@
 |#|rice-d1b792|R.I.C.E.|4,99€|20|2023-12-21 14h|2024-01-06 05h|
 |#|rignroll-522598|Rig'n'Roll|4,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|samorost-2-1b9bb1|Samorost 2|4,99€|70|2023-12-13 16h|2024-01-10 16h|
-|#|steal-then-just-escape-87b7b6|Steal Then Just Escape|4,99€|60|2024-01-23 16h|2024-01-30 16h|
 |#|splinter-cell|Tom Clancy's Splinter Cell|4,99€|75|2023-12-28 17h|2024-01-10 17h|
 |#|splinter-cell-double-agent|Tom Clancy’s Splinter Cell Double Agent|4,99€|75|2023-12-28 17h|2024-01-10 17h|
 |#|wife-quest-ed5224|Wife Quest|4,99€|75|2023-12-13 16h|2024-01-10 16h|
@@ -1491,6 +1490,8 @@
 |#|road-defense-outsiders-22e4ba|Road Defense: Outsiders|2,99€|20|2023-12-13 16h|2024-01-10 16h|
 |#|busway-islands-puzzle-91287d|Busway Islands - Puzzle|2,69€|40|2023-12-05 16h|2023-12-12 16h|
 |#|dolmenjord-viking-islands-965b06|Dolmenjord - Viking Islands|2,69€|30|2023-12-13 16h|2024-01-10 16h|
+|#|hanoi-puzzles-solid-match-6a9e0c|Hanoi Puzzles - Solid Match|2,69€|20|2023-12-18 18h|2023-12-25 17h|
+|#|hanoi-puzzles-solid-match-6a9e0c|Hanoi Puzzles - Solid Match|2,69€|25|2024-02-09 16h|2024-02-12 16h|
 |#|lost-abroad-cafe-a-language-learning-management-sim-bfc28c|Lost Abroad Cafe - A Language Learning Management|2,69€|30|2023-12-13 16h|2024-01-10 16h|
 |#|play-with-me-escape-room-586cc4|Play with Me - Escape Room|2,69€|90|2023-12-13 16h|2024-01-10 16h|
 |#|sunlight-scream-de8642|Sunlight Scream|2,69€|20|2023-12-13 16h|2024-01-10 16h|
@@ -1507,6 +1508,7 @@
 |#|bad-rats-show-1b74cf|Bad Rats Show|1,79€|90|2023-12-13 16h|2024-01-10 16h|
 |#|bad-rats-show-1b74cf|Bad Rats Show|1,79€|80|2024-02-09 16h|2024-02-12 16h|
 |#|kill-fish-1c85e9|Kill Fish|1,79€|50|2023-12-13 16h|2024-01-10 16h|
+|#|real-drift-multiplayer-4bdd6d|Real Drift Multiplayer|1,79€|45|2023-12-05 17h|2023-12-20 17h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|70|2024-01-11 22h|2024-01-30 22h|
 |#|spingun-843f78|SPINGUN|1,79€|55|2023-12-15 17h|2024-01-10 17h|
 |#|spaceman-defender-757ebf|Spaceman Defender|1,79€|30|2023-12-13 16h|2024-01-10 16h|
@@ -1515,6 +1517,8 @@
 |#|vectoroids-e30c27|Vectoroids|1,79€|30|2023-12-13 16h|2024-01-10 16h|
 |#|dark-matter-13654b|Dark Matter|1,59€|50|2023-12-13 16h|2024-01-10 16h|
 |#|he-will-shoot-46efff|He Will Shoot|1,59€|80|2023-12-07 22h|2023-12-21 22h|
+|#|he-will-shoot-46efff|He Will Shoot|1,59€|60|2024-01-25 03h|2024-02-10 03h|
+|#|it-follows-you-b11f3e|It follows you|1,59€|60|2024-01-12 03h|2024-01-30 03h|
 |#|keep-in-mind-remastered-6ee77a|Keep in Mind Remastered|1,59€|60|2023-12-13 16h|2024-01-10 16h|
 |#|project-pastorate-6e8765|Project Pastorate|1,59€|50|2023-12-13 16h|2024-01-10 16h|
 |#|space-empires-ii-1fece2|Space Empires II|1,59€|90|2023-12-13 16h|2024-01-10 16h|
@@ -1531,12 +1535,21 @@
 |#|brick-breaker-premium-3-2ae7ce|Brick Breaker Premium 3|0,89€|30|2023-12-13 16h|2024-01-10 16h|
 |#|cataire-6ce6b7|CATAIRE|0,89€|90|2023-12-26 16h|2024-01-10 16h|
 |#|car-mechanic-city-driving-4996c5|Car Mechanic - City Driving|0,89€|50|2023-12-29 22h|2024-01-14 22h|
+|#|city-car-parking-simulator-231485|City Car Parking Simulator|0,89€|45|2023-12-05 17h|2023-12-20 17h|
+|#|dirt-bicycle-rider-simulator-19bff9|Dirt Bicycle Rider Simulator|0,89€|45|2023-12-21 17h|2024-01-05 17h|
+|#|extreme-bus-driver-simulator-b7a96d|Extreme Bus Driver 2024|0,89€|45|2023-12-21 17h|2024-01-05 17h|
+|#|garbage-truck-driving-simulator-5dcc67|Garbage Truck Driving Simulator|0,89€|45|2023-12-05 17h|2023-12-20 17h|
 |#|insectipede-a2174d|Insectipede|0,89€|30|2023-12-13 16h|2024-01-10 16h|
 |#|martian-invaders-2bc51f|Martian Invaders|0,89€|30|2023-12-13 16h|2024-01-10 16h|
 |#|movie-actor-trivia-2816f9|Movie Actor Trivia|0,89€|30|2023-12-13 16h|2024-01-10 16h|
 |#|nextbots-in-the-backrooms-b5677b|Nextbots In The Backrooms|0,89€|50|2023-12-30 22h|2024-01-14 22h|
+|#|police-car-escape-simulator-f9cd17|Police Car Escape Simulator|0,89€|45|2023-12-05 17h|2023-12-20 17h|
+|#|police-car-suv-simulator-092560|Police Car SUV Simulator|0,89€|45|2023-12-05 17h|2023-12-20 17h|
 |#|polygon-survival-2374fc|Polygon Survival|0,89€|50|2024-01-14 22h|2024-01-30 22h|
+|#|real-motocross-driving-simulator-c8ff84|Real Motocross Driving Simulator|0,89€|45|2023-12-05 17h|2023-12-20 17h|
 |#|retro-racers-2-a98f93|Retro Racers 2|0,89€|30|2023-12-13 16h|2024-01-10 16h|
+|#|school-bus-driving-simulator-b878a8|School Bus Driving Simulator|0,89€|45|2023-12-05 17h|2023-12-20 17h|
+|#|trex-dinosaur-game-d30355|T-Rex Dinosaur Game|0,89€|50|2024-01-09 22h|2024-01-25 22h|
 |#|the-meme-hunter-bf7086|THE MEME HUNTER|0,89€|50|2023-12-27 22h|2024-01-13 22h|
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2023-12-29 22h|2024-01-19 22h|
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2024-02-25 22h|2024-03-15 22h|
@@ -1546,3 +1559,4 @@
 |#|the-sports-trivia-challenge-86c29f|The Sports Trivia Challenge|0,89€|30|2023-12-13 16h|2024-01-10 16h|
 |#|trivia-king-982cec|Trivia King|0,89€|30|2023-12-13 16h|2024-01-10 16h|
 |#|video-game-trivia-5db425|Video Game Trivia|0,89€|30|2023-12-13 16h|2024-01-10 16h|
+|#|car-tuning-simulator-38ddaf|Car Tuning Simulator|0,79€|50|2023-12-26 03h|2024-01-12 03h|
