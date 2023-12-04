@@ -720,6 +720,15 @@
     "title": "Arcadegeddon"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "arctico-c29f1d",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Arctico"
+  },
+  {
     "discountPercentage": 34,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -1432,15 +1441,6 @@
   },
   {
     "discountPercentage": 50,
-    "endDate": "2023-12-25T22:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "birch-simulator-21969e",
-    "startDate": "2023-12-03T22:00:00.000Z",
-    "title": "Birch Simulator"
-  },
-  {
-    "discountPercentage": 50,
     "endDate": "2024-02-15T22:00:00.000Z",
     "isFree": false,
     "originalPrice": 89,
@@ -1834,6 +1834,15 @@
     "slug": "bugsnax",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Bugsnax"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-23T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "bus-driver-simulator-186e62",
+    "startDate": "2024-01-16T16:00:00.000Z",
+    "title": "Bus Driver Simulator"
   },
   {
     "discountPercentage": 70,
@@ -3433,7 +3442,7 @@
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 4999,
-    "slug": "cd4304b032534cf89a166241c23b32d5-03",
+    "slug": "cd4304b032534cf89a166241c23b32d5-04",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Dungeons 4"
   },
@@ -3517,6 +3526,15 @@
     "slug": "ebola-3-2c79e9",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "EBOLA 3"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2239,
+    "slug": "electron-zaraftor-751dfc",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "ELECTRON ZARAFTOR"
   },
   {
     "discountPercentage": 15,
@@ -3787,6 +3805,15 @@
     "slug": "europa-universalis-iv",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Europa Universalis IV"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "everlasting-guilt-213534",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Everlasting Guilt"
   },
   {
     "discountPercentage": 60,
@@ -4480,6 +4507,15 @@
     "slug": "galactic-empire-f23125",
     "startDate": "2023-12-17T00:00:00.000Z",
     "title": "Galactic Empire"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-01-23T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "game-dev-masters-f5d8f9",
+    "startDate": "2024-01-16T16:00:00.000Z",
+    "title": "Game Dev Masters"
   },
   {
     "discountPercentage": 60,
@@ -6606,7 +6642,7 @@
     "title": "Lost Ruins"
   },
   {
-    "discountPercentage": 40,
+    "discountPercentage": 50,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 2156,
@@ -6807,7 +6843,7 @@
     "discountPercentage": 14,
     "endDate": "2024-04-30T10:00:00.000Z",
     "isFree": false,
-    "originalPrice": 539,
+    "originalPrice": 719,
     "slug": "mallofmayhem-15344c",
     "startDate": "2024-04-01T06:00:00.000Z",
     "title": "Mall of Mayhem"
@@ -6816,7 +6852,7 @@
     "discountPercentage": 19,
     "endDate": "2024-07-30T22:00:00.000Z",
     "isFree": false,
-    "originalPrice": 539,
+    "originalPrice": 719,
     "slug": "mallofmayhem-15344c",
     "startDate": "2024-07-01T06:00:00.000Z",
     "title": "Mall of Mayhem"
@@ -6825,7 +6861,7 @@
     "discountPercentage": 17,
     "endDate": "2024-10-30T22:00:00.000Z",
     "isFree": false,
-    "originalPrice": 539,
+    "originalPrice": 719,
     "slug": "mallofmayhem-15344c",
     "startDate": "2024-10-01T06:00:00.000Z",
     "title": "Mall of Mayhem"
@@ -8046,6 +8082,15 @@
     "title": "Outbreak The Nightmare Chronicles Reinvestigated"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2024-01-23T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "outcore-desktop-adventure-eb3aff",
+    "startDate": "2024-01-16T16:00:00.000Z",
+    "title": "Outcore - Desktop Adventure"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -8551,7 +8596,7 @@
   },
   {
     "discountPercentage": 100,
-    "endDate": "2023-12-14T16:00:00.000Z",
+    "endDate": "2023-12-13T16:00:00.000Z",
     "isFree": true,
     "originalPrice": 809,
     "slug": "predecessor",
@@ -8872,6 +8917,24 @@
     "slug": "rayman-legends",
     "startDate": "2023-12-28T17:00:00.000Z",
     "title": "RAYMAN\u00ae LEGENDS"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "remedium-811743",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "REMEDIUM"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 499,
+    "slug": "remedium-sentinels-b5debd",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "REMEDIUM Sentinels"
   },
   {
     "discountPercentage": 55,
@@ -9808,6 +9871,15 @@
     "slug": "schein-77f039",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Schein"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "scholar-of-the-arcane-arts-6f4c67",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Scholar of the Arcane Arts"
   },
   {
     "discountPercentage": 45,
@@ -10881,6 +10953,15 @@
     "title": "SuchArt: Genius Artist Simulator"
   },
   {
+    "discountPercentage": 10,
+    "endDate": "2023-12-13T14:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 359,
+    "slug": "sudoku-zenkai-3990b1",
+    "startDate": "2023-12-06T14:00:00.000Z",
+    "title": "Sudoku Zenkai"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -11293,6 +11374,15 @@
     "slug": "terrordrome-reign-of-terror-a75c3a",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Terrordrome - Reign of the Legends"
+  },
+  {
+    "discountPercentage": 65,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "tetragon-edc5d5",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Tetragon"
   },
   {
     "discountPercentage": 50,
@@ -13185,6 +13275,15 @@
     "title": "Untitled Goose Game"
   },
   {
+    "discountPercentage": 45,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "unusual-findings-6997e3",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Unusual Findings"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -13687,6 +13786,15 @@
     "slug": "way-of-the-hunter",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Way of the Hunter"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "we-are-ofk",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "We Are OFK"
   },
   {
     "discountPercentage": 75,
