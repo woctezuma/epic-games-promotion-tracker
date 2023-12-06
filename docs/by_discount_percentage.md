@@ -594,7 +594,6 @@
 |#|edge-of-eternity|Edge Of Eternity|29,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|eternal-threads-197169|Eternal Threads|17,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|europa-universalis-iv|Europa Universalis IV|39,99€|70|2023-12-13 16h|2024-01-10 16h|
-|#|evalinathe-sorceress-a9a60a|Evalina The Sorceress|1,79€|70|2023-12-06 22h|2023-12-09 22h|
 |#|f1-23|F1® 23|69,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|far-cry|Far Cry|9,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|far-cry-2|Far Cry 2: Standard Edition|9,99€|70|2023-12-13 16h|2024-01-10 16h|

@@ -413,7 +413,6 @@
 |#|eternights-c2fbca|Eternights|29,99€|33|2023-12-13 16h|2024-01-10 16h|
 |#|etherborn-00f378|Etherborn|13,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|europa-universalis-iv|Europa Universalis IV|39,99€|70|2023-12-13 16h|2024-01-10 16h|
-|#|evalinathe-sorceress-a9a60a|Evalina The Sorceress|1,79€|70|2023-12-06 22h|2023-12-09 22h|
 |#|everlasting-guilt-213534|Everlasting Guilt|8,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|expedition-zero-d2c4c3|Expedition Zero|15,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|expeditions-conquistador|Expeditions: Conquistador|19,99€|75|2023-12-13 16h|2024-01-10 16h|
