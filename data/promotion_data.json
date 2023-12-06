@@ -5787,6 +5787,15 @@
     "title": "Journey"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2023-12-22T14:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "joyville-67f9bf",
+    "startDate": "2023-12-08T14:00:00.000Z",
+    "title": "Joyville"
+  },
+  {
     "discountPercentage": 67,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
