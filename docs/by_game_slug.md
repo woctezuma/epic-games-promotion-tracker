@@ -1150,6 +1150,7 @@
 |#|sifu|Sifu|39,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|sine-mora-ex-d4fd23|Sine Mora Ex|9,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|sir-whoopass-757c5c|Sir Whoopass - Immortal Death|15,29€|50|2023-12-20 00h|2024-01-10 00h|
+|#|sir-whoopass-757c5c|Sir Whoopass - Immortal Death|15,29€|50|2024-02-09 16h|2024-02-12 16h|
 |#|skul-the-hero-slayer|Skul: The Hero Slayer|15,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|skyrim|The Elder Scrolls V: Skyrim Special Edition|39,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|slaycation-paradise-47a603|Slaycation Paradise|11,99€|80|2023-12-13 16h|2024-01-10 16h|
@@ -1260,6 +1261,7 @@
 |#|survivor-castaway-island-16f672|Survivor - Castaway Island|22,39€|30|2023-12-13 16h|2024-01-10 16h|
 |#|sweet-dreams-alex-7c602d|Sweet Dreams Alex|13,49€|25|2023-12-13 16h|2024-01-10 16h|
 |#|switchball-hd-6d3802|Switchball HD|8,09€|50|2023-12-27 00h|2024-01-10 00h|
+|#|switchball-hd-6d3802|Switchball HD|8,09€|50|2024-02-09 16h|2024-02-12 16h|
 |#|swordship-b6c7f4|Swordship|19,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|syberia-the-world-before|Syberia: The World Before|39,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|symmetry-44cf24|SYMMETRY|9,99€|85|2023-12-13 16h|2024-01-10 16h|
@@ -1433,7 +1435,6 @@
 |#|tornado-814fc7|Tornado|8,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|tortuga-a-pirates-tale-e02635|Tortuga - A Pirate's Tale|24,99€|20|2023-12-13 16h|2024-01-10 16h|
 |#|total-war-warhammer|Total War: WARHAMMER|59,99€|75|2023-12-28 18h|2024-01-10 16h|
-|#|total-war-warhammer-3|Total War: WARHAMMER III|59,99€|50|2023-12-28 18h|2024-01-10 16h|
 |#|total-war-warhammer-ii|Total War: WARHAMMER II|59,99€|66|2023-12-28 18h|2024-01-10 16h|
 |#|totally-accurate-battle-simulator|Totally Accurate Battle Simulator|16,79€|40|2023-12-13 16h|2024-01-10 16h|
 |#|totally-reliable-delivery-service|Totally Reliable Delivery Service Standard Edition|14,99€|75|2023-12-13 16h|2024-01-10 16h|

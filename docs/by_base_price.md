@@ -77,7 +77,6 @@
 |#|rainbow-six-united-bundle|Tom Clancy's Rainbow Six® Siege & Tom Clancy's Rainbow Six® Extraction Deluxe United Bundle|59,99€|67|2023-12-13 16h|2024-01-10 16h|
 |#|total-war-warhammer|Total War: WARHAMMER|59,99€|75|2023-12-28 18h|2024-01-10 16h|
 |#|total-war-warhammer-ii|Total War: WARHAMMER II|59,99€|66|2023-12-28 18h|2024-01-10 16h|
-|#|total-war-warhammer-3|Total War: WARHAMMER III|59,99€|50|2023-12-28 18h|2024-01-10 16h|
 |#|warhammer-age-of-sigmar-realms-of-ruin|Warhammer Age of Sigmar: Realms of Ruin|59,99€|40|2023-12-21 18h|2024-01-04 18h|
 |#|watch-dogs-2|Watch Dogs 2 Standard Edition|59,99€|85|2023-12-13 16h|2024-01-10 16h|
 |#|watch-dogs-legion|Watch Dogs: Legion Standard Edition|59,99€|85|2023-12-13 16h|2024-01-10 16h|
@@ -908,6 +907,7 @@
 |#|jennifer-wilde-unlikely-revolutionaries-7eda5e|Jennifer Wilde Unlikely Revolutionaries|15,29€|50|2023-12-13 16h|2024-01-10 16h|
 |#|pathway|Pathway|15,29€|60|2023-12-13 16h|2024-01-10 16h|
 |#|sir-whoopass-757c5c|Sir Whoopass - Immortal Death|15,29€|50|2023-12-20 00h|2024-01-10 00h|
+|#|sir-whoopass-757c5c|Sir Whoopass - Immortal Death|15,29€|50|2024-02-09 16h|2024-02-12 16h|
 |#|ten-dates-9a188a|Ten Dates|15,29€|35|2023-12-13 16h|2024-01-10 16h|
 |#|atom-rpg-3adb54|ATOM RPG|14,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|ageless|Ageless|14,99€|80|2023-12-13 16h|2024-01-10 16h|
@@ -1268,6 +1268,7 @@
 |#|dream-of-tiny-snow-36f018|Dream of Tiny Snow|8,09€|15|2023-12-13 16h|2024-01-10 16h|
 |#|predecessor|Predecessor|8,09€|100|2023-12-07 16h|2023-12-13 16h|
 |#|switchball-hd-6d3802|Switchball HD|8,09€|50|2023-12-27 00h|2024-01-10 00h|
+|#|switchball-hd-6d3802|Switchball HD|8,09€|50|2024-02-09 16h|2024-02-12 16h|
 |#|the-silent-city-chapter-2-cccb19|THE SILENT CITY CHAPTER 2|8,09€|25|2023-12-13 16h|2024-01-10 16h|
 |#|combat-naval-package-hunter-killer-685f4a|688(I) Hunter/Killer|7,99€|85|2023-12-13 16h|2024-01-10 16h|
 |#|combat-naval-package-hunter-killer-685f4a|688(I) Hunter/Killer|7,99€|80|2024-02-09 16h|2024-02-12 16h|
