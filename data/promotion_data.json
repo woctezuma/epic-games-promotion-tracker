@@ -12879,7 +12879,7 @@
     "title": "Tornado"
   },
   {
-    "discountPercentage": 20,
+    "discountPercentage": 15,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 2499,
@@ -13093,15 +13093,6 @@
     "slug": "tropico-5",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Tropico 5"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "tropico-6",
-    "startDate": "2023-12-13T16:00:00.000Z",
-    "title": "Tropico 6"
   },
   {
     "discountPercentage": 30,
