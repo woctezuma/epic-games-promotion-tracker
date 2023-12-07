@@ -10270,6 +10270,15 @@
   },
   {
     "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1529,
+    "slug": "sir-whoopass-757c5c",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Sir Whoopass - Immortal Death"
+  },
+  {
+    "discountPercentage": 50,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1599,
@@ -11157,6 +11166,15 @@
     "originalPrice": 809,
     "slug": "switchball-hd-6d3802",
     "startDate": "2023-12-27T00:00:00.000Z",
+    "title": "Switchball HD"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 809,
+    "slug": "switchball-hd-6d3802",
+    "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Switchball HD"
   },
   {
@@ -12886,15 +12904,6 @@
     "slug": "total-war-warhammer-ii",
     "startDate": "2023-12-28T18:00:00.000Z",
     "title": "Total War: WARHAMMER II"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "total-war-warhammer-3",
-    "startDate": "2023-12-28T18:00:00.000Z",
-    "title": "Total War: WARHAMMER III"
   },
   {
     "discountPercentage": 40,
