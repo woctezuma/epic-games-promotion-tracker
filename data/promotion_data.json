@@ -405,7 +405,7 @@
     "title": "Ageless"
   },
   {
-    "discountPercentage": 45,
+    "discountPercentage": 35,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1199,
@@ -4689,15 +4689,6 @@
     "title": "Gift of Parthax"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2023-12-13T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 2399,
-    "slug": "gigabash",
-    "startDate": "2023-12-07T16:00:00.000Z",
-    "title": "GigaBash"
-  },
-  {
     "discountPercentage": 70,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -6012,7 +6003,7 @@
     "title": "Kainga: Seeds of Civilization"
   },
   {
-    "discountPercentage": 50,
+    "discountPercentage": 40,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1349,
@@ -6199,15 +6190,6 @@
     "slug": "kings-bounty-ii",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "King's Bounty II"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2023-12-14T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 4499,
-    "slug": "kings-bounty-ii-dukes-edition-8df41c",
-    "startDate": "2023-12-07T16:00:00.000Z",
-    "title": "King's Bounty II - Duke's Edition"
   },
   {
     "discountPercentage": 80,
@@ -8073,7 +8055,7 @@
     "title": "One More Island"
   },
   {
-    "discountPercentage": 30,
+    "discountPercentage": 20,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1199,
@@ -8674,15 +8656,6 @@
     "slug": "predator-hunting-grounds",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Predator: Hunting Grounds Standard Edition"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2023-12-13T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 809,
-    "slug": "predecessor",
-    "startDate": "2023-12-07T16:00:00.000Z",
-    "title": "Predecessor"
   },
   {
     "discountPercentage": 25,
