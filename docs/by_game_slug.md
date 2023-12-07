@@ -1499,6 +1499,7 @@
 |#|voidtrain|Voidtrain|29,99€|20|2023-12-13 16h|2024-01-10 16h|
 |#|voltaire-e1c517|Voltaire: The Vegan Vampire|19,99€|30|2023-12-21 14h|2024-01-06 05h|
 |#|voodolls-46c6a8|Voodolls|14,99€|70|2023-12-13 16h|2024-01-10 16h|
+|#|voodoo-kid-05b29a|Voodoo Kid|6,29€|50|2023-12-13 16h|2024-01-10 16h|
 |#|vr-soccer-96-bcb59f|VR Soccer 96|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|wall-world-02e132|Wall World|6,89€|25|2023-12-13 16h|2024-01-10 16h|
 |#|war-mongrels|War Mongrels|37,99€|65|2023-12-20 09h|2023-12-31 09h|

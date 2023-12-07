@@ -1087,6 +1087,7 @@
 |#|vampire-the-masquerade-swansong|Vampire: The Masquerade – Swansong|49,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|vaudeville-86cff0|Vaudeville|17,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|vengeful-heart-5a2fb9|Vengeful Heart|7,99€|50|2023-12-13 16h|2024-01-10 16h|
+|#|voodoo-kid-05b29a|Voodoo Kid|6,29€|50|2023-12-13 16h|2024-01-10 16h|
 |#|warhammer-40000-battlesector|Warhammer 40,000: Battlesector|31,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|way-of-the-hunter|Way of the Hunter|39,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|we-are-ofk|We Are OFK|19,99€|50|2023-12-13 16h|2024-01-10 16h|

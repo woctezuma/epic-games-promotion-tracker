@@ -1218,6 +1218,7 @@
 |#|void-bastards|Void Bastards|27,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|voidtrain|Voidtrain|29,99€|20|2023-12-13 16h|2024-01-10 16h|
 |#|voodolls-46c6a8|Voodolls|14,99€|70|2023-12-13 16h|2024-01-10 16h|
+|#|voodoo-kid-05b29a|Voodoo Kid|6,29€|50|2023-12-13 16h|2024-01-10 16h|
 |#|we-are-football|WE ARE FOOTBALL|24,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|wild-hearts|WILD HEARTS™ Standard Edition|69,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|wrc-10|WRC 10 FIA World Rally Championship|49,99€|70|2023-12-13 16h|2024-01-10 16h|

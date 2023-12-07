@@ -1375,6 +1375,7 @@
 |#|secret-of-dream-947b85|Secret of Dream|6,29€|80|2023-12-13 16h|2024-01-10 16h|
 |#|secret-of-dream-947b85|Secret of Dream|6,29€|80|2024-02-09 16h|2024-02-12 16h|
 |#|starlight-x2-galactic-puzzles-dede7d|Starlight X-2 Galactic Puzzles|6,29€|70|2023-12-13 16h|2024-01-10 16h|
+|#|voodoo-kid-05b29a|Voodoo Kid|6,29€|50|2023-12-13 16h|2024-01-10 16h|
 |#|ankh-3-295256|Ankh 3: Battle of the Gods|5,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|red-ronin-d2678c|Red Ronin|5,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|starless-bb4b3c|Starless|5,99€|30|2023-12-13 16h|2024-01-10 16h|
