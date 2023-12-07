@@ -45,7 +45,7 @@
 |#|agatha-christie-murder-on-the-orient-express-a53833|Agatha Christie - Murder on the Orient Express|39,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|age-of-wonders-4|Age of Wonders 4|49,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|ageless|Ageless|14,99€|80|2023-12-13 16h|2024-01-10 16h|
-|#|aground|Aground|11,99€|45|2023-12-13 16h|2024-01-10 16h|
+|#|aground|Aground|11,99€|35|2023-12-13 16h|2024-01-10 16h|
 |#|airborne-kingdom|Airborne Kingdom|20,99€|50|2023-12-21 14h|2024-01-06 04h|
 |#|alan-wake|Alan Wake|12,49€|67|2023-12-13 16h|2024-01-10 16h|
 |#|alan-wake-2|Alan Wake 2|49,99€|20|2023-12-13 16h|2024-01-10 16h|
@@ -521,7 +521,6 @@
 |#|ghostrunner-2|Ghostrunner 2|39,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|ghostrunner-2|Ghostrunner 2|39,99€|15|2023-12-13 16h|2024-01-10 16h|
 |#|gift-of-parthax-67ee4f|Gift of Parthax|6,99€|90|2023-12-13 16h|2024-01-10 16h|
-|#|gigabash|GigaBash|23,99€|100|2023-12-07 16h|2023-12-13 16h|
 |#|gigapocalypse-fdc53b|Gigapocalypse|9,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|gladiator-blades-of-fury-1a745b|Gladiator : Blades of Fury|8,99€|85|2024-01-16 16h|2024-01-23 16h|
 |#|gloomhaven-92f741|Gloomhaven|34,99€|40|2023-12-13 16h|2024-01-10 16h|
@@ -668,7 +667,7 @@
 |#|kingdom-hearts-melody-of-memory|KINGDOM HEARTS Melody of Memory|59,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|kaichu-the-kaiju-dating-sim-531fb7|Kaichu - The Kaiju Dating Sim|7,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|kainga-seeds-of-civilization-7314ee|Kainga: Seeds of Civilization|15,99€|35|2023-12-13 16h|2024-01-10 16h|
-|#|kana-quest-7defa0|Kana Quest|13,49€|50|2023-12-13 16h|2024-01-10 16h|
+|#|kana-quest-7defa0|Kana Quest|13,49€|40|2023-12-13 16h|2024-01-10 16h|
 |#|kao-the-kangaroo-62abe3|Kao the Kangaroo|29,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|kao-the-kangaroo-2000-rerelease-1b53f5|Kao the Kangaroo - 2000 re-release|1,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|kao-the-kangaroo-mystery-of-the-volcano-4b433a|Kao the Kangaroo - Mystery of the Volcano|1,99€|50|2023-12-13 16h|2024-01-10 16h|
@@ -689,7 +688,6 @@
 |#|kine|Kine|11,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|king-of-retail-c3ad3e|King of Retail|24,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|kings-bounty-ii|King's Bounty II|39,99€|85|2023-12-13 16h|2024-01-10 16h|
-|#|kings-bounty-ii-dukes-edition-8df41c|King's Bounty II - Duke's Edition|44,99€|40|2023-12-07 16h|2023-12-14 16h|
 |#|kings-bounty-armored-princess-2fbc57|King's Bounty: Armored Princess|9,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|kings-bounty-crossworlds-da093a|King's Bounty: Crossworlds|14,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|kings-bounty-dark-side-c3066f|King's Bounty: Dark Side|12,99€|80|2023-12-13 16h|2024-01-10 16h|
@@ -897,7 +895,7 @@
 |#|one-military-camp-8db1f6|One Military Camp|24,99€|40|2023-12-21 17h|2024-01-04 17h|
 |#|one-more-dungeon-2-532228|One More Dungeon 2|13,49€|60|2023-12-13 16h|2024-01-10 16h|
 |#|one-more-island-0014e2|One More Island|17,99€|50|2023-12-21 14h|2024-01-06 05h|
-|#|onsen-master-9e1323|Onsen Master|11,99€|30|2023-12-13 16h|2024-01-10 16h|
+|#|onsen-master-9e1323|Onsen Master|11,99€|20|2023-12-13 16h|2024-01-10 16h|
 |#|open-country|Open Country|14,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|operation-wolf-returns-first-mission-vr-446fba|Operation Wolf Returns: First Mission VR|24,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|operencia|Operencia: The Stolen Sun|24,99€|66|2023-12-13 16h|2024-01-10 16h|
@@ -964,7 +962,6 @@
 |#|power-to-the-people-dfb0f9|Power to the People|11,99€|45|2024-02-09 16h|2024-02-12 16h|
 |#|pray-for-death-fe9a43|Pray for Death|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|predator-hunting-grounds|Predator: Hunting Grounds Standard Edition|29,99€|75|2023-12-13 16h|2024-01-10 16h|
-|#|predecessor|Predecessor|8,09€|100|2023-12-07 16h|2023-12-13 16h|
 |#|prehistoric-kingdom|Prehistoric Kingdom|23,99€|25|2023-12-13 16h|2024-01-10 16h|
 |#|prehistoric-kingdom|Prehistoric Kingdom|23,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|prehistorik-d64136|Prehistorik|7,99€|22|2023-12-13 16h|2024-01-10 16h|

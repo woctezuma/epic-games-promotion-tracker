@@ -130,7 +130,6 @@
 |#|far-cry-new-dawn|Far Cry New Dawn Standard Edition|44,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|grand-tactician-the-civil-war-18611865-6c21fc|Grand Tactician: The Civil War 1861-1865|44,99€|33|2023-12-13 16h|2024-01-10 16h|
 |#|jurassic-world-evolution|Jurassic World Evolution|44,99€|80|2023-12-13 16h|2024-01-10 16h|
-|#|kings-bounty-ii-dukes-edition-8df41c|King's Bounty II - Duke's Edition|44,99€|40|2023-12-07 16h|2023-12-14 16h|
 |#|partisan-general-audience|Knights of Honor II: Sovereign|44,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|might-and-magic-heroes-7|Might and Magic: Heroes VII - Ultimate Edition|44,99€|75|2023-12-28 17h|2024-01-10 17h|
 |#|sherlock-holmes-chapter-one|Sherlock Holmes Chapter One|44,99€|80|2024-01-16 16h|2024-01-23 16h|
@@ -463,7 +462,6 @@
 |#|baldurs-gate-dark-alliance-2-14db6b|Baldur's Gate Dark Alliance II|23,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|baldurs_gate_dark_alliance-8a2e77|Baldur's Gate: Dark Alliance|23,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|elite-dangerous|Elite Dangerous|23,99€|80|2023-12-13 16h|2024-01-10 16h|
-|#|gigabash|GigaBash|23,99€|100|2023-12-07 16h|2023-12-13 16h|
 |#|legend-of-grimrock-2|Legend of Grimrock 2|23,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|mighty-fight-federation|Mighty Fight Federation|23,99€|66|2023-12-13 16h|2024-01-10 16h|
 |#|outlast-2|Outlast 2|23,99€|85|2023-12-13 16h|2024-01-10 16h|
@@ -1017,7 +1015,7 @@
 |#|gray-dawn-a0cc44|Gray Dawn|13,49€|40|2023-12-13 16h|2024-01-10 16h|
 |#|gray-dawn-a0cc44|Gray Dawn|13,49€|40|2024-02-09 16h|2024-02-12 16h|
 |#|i-am-future-cozy-apocalypse-survival-6b452c|I Am Future - Cozy Apocalypse Survival|13,49€|35|2023-12-13 16h|2024-01-10 16h|
-|#|kana-quest-7defa0|Kana Quest|13,49€|50|2023-12-13 16h|2024-01-10 16h|
+|#|kana-quest-7defa0|Kana Quest|13,49€|40|2023-12-13 16h|2024-01-10 16h|
 |#|learning-factory-4d2213|Learning Factory|13,49€|35|2023-12-13 16h|2024-01-10 16h|
 |#|lifespace-traveler-1cc49a|Lifespace Traveler|13,49€|50|2024-01-16 16h|2024-01-23 16h|
 |#|loretta-0099a6|Loretta|13,49€|25|2023-12-13 16h|2024-01-10 16h|
@@ -1069,7 +1067,7 @@
 |#|absolute-drift|Absolute Drift|11,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|adventures-of-chris-64c13b|Adventures of Chris|11,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|aerial-knights-never-yield|Aerial_Knight's Never Yield|11,99€|75|2023-12-19 16h|2024-01-10 16h|
-|#|aground|Aground|11,99€|45|2023-12-13 16h|2024-01-10 16h|
+|#|aground|Aground|11,99€|35|2023-12-13 16h|2024-01-10 16h|
 |#|ancient-enemy|Ancient Enemy|11,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|ashwalkers|Ashwalkers|11,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|beholder-3-d23253|Beholder 3|11,99€|60|2023-12-13 16h|2024-01-10 16h|
@@ -1101,7 +1099,7 @@
 |#|mable-and-the-wood-9bd697|Mable & The Wood|11,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|mayhem-in-single-valley|Mayhem in Single Valley|11,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|neurodeck|Neurodeck|11,99€|80|2023-12-13 16h|2024-01-10 16h|
-|#|onsen-master-9e1323|Onsen Master|11,99€|30|2023-12-13 16h|2024-01-10 16h|
+|#|onsen-master-9e1323|Onsen Master|11,99€|20|2023-12-13 16h|2024-01-10 16h|
 |#|paquerette-down-the-bunburrows-2fd777|Paquerette Down the Bunburrows|11,99€|20|2023-12-13 16h|2024-01-10 16h|
 |#|power-to-the-people-dfb0f9|Power to the People|11,99€|45|2023-12-13 16h|2024-01-10 16h|
 |#|power-to-the-people-dfb0f9|Power to the People|11,99€|45|2024-02-09 16h|2024-02-12 16h|
@@ -1273,7 +1271,6 @@
 |#|deltav-rings-of-saturn-4cd187|ΔV: Rings of Saturn|8,99€|42|2023-12-13 16h|2024-01-10 16h|
 |#|deltav-rings-of-saturn-4cd187|ΔV: Rings of Saturn|8,99€|37|2024-02-09 16h|2024-02-12 16h|
 |#|dream-of-tiny-snow-36f018|Dream of Tiny Snow|8,09€|15|2023-12-13 16h|2024-01-10 16h|
-|#|predecessor|Predecessor|8,09€|100|2023-12-07 16h|2023-12-13 16h|
 |#|switchball-hd-6d3802|Switchball HD|8,09€|50|2023-12-27 00h|2024-01-10 00h|
 |#|switchball-hd-6d3802|Switchball HD|8,09€|50|2024-02-09 16h|2024-02-12 16h|
 |#|the-silent-city-chapter-2-cccb19|THE SILENT CITY CHAPTER 2|8,09€|25|2023-12-13 16h|2024-01-10 16h|
