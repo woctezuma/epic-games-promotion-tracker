@@ -1280,6 +1280,7 @@
 |#|the-outer-worlds|The Outer Worlds|29,99€|34|2023-12-13 16h|2024-01-10 16h|
 |#|trine-5|Trine 5: A Clockwork Conspiracy|29,99€|34|2023-12-13 16h|2024-01-10 16h|
 |#|vagrus-the-riven-realms-c635d5|Vagrus - The Riven Realms|26,99€|34|2023-12-14 16h|2024-01-10 16h|
+|#|arcatronz-2bb3f2|Arcatron-Z|3,59€|33|2023-12-13 16h|2024-01-10 16h|
 |#|doomblade-afdf9a|DOOMBLADE|14,79€|33|2023-12-13 16h|2024-01-10 16h|
 |#|eternights-c2fbca|Eternights|29,99€|33|2023-12-13 16h|2024-01-10 16h|
 |#|good-company|Good Company|22,99€|33|2023-12-13 16h|2024-01-10 16h|
@@ -1305,10 +1306,7 @@
 |#|arto-ff98ff|Arto|19,99€|30|2023-12-21 14h|2024-01-06 05h|
 |#|asterix-and-obelix-slap-them-all-2-0ca63e|Asterix and Obelix Slap Them All 2|24,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|brok-the-investigator-fb0513|BROK the InvestiGator|17,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|baldurs-gate-dark-alliance-2-14db6b|Baldur's Gate Dark Alliance II|23,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|baldurs_gate_dark_alliance-8a2e77|Baldur's Gate: Dark Alliance|23,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|batbarian-testament-of-the-primordials-cae61e|Batbarian: Testament of the Primordials|13,49€|30|2023-12-13 16h|2024-01-10 16h|
-|#|battle-chess-4000-d6d255|Battle Chess 4000|7,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|battle-chess-ii-chinese-chess-f67c3c|Battle Chess II: Chinese Chess|7,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|beautiful-indie-worlds-bundle|Beautiful Indie Worlds Bundle|27,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|blood-bowl-3|Blood Bowl 3|29,99€|30|2023-12-13 16h|2024-01-10 16h|
@@ -1351,8 +1349,6 @@
 |#|lost-abroad-cafe-a-language-learning-management-sim-bfc28c|Lost Abroad Cafe - A Language Learning Management|2,69€|30|2023-12-13 16h|2024-01-10 16h|
 |#|lost-eden-13175e|Lost Eden|7,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|max-mechanized-assault-and-exploration-0722cb|M.A.X. - Mechanized Assault and Exploration|7,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|m1-tank-platoon-eef993|M1 Tank Platoon|7,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|m1-tank-platoon-2-2d2c31|M1 Tank Platoon II|7,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|march-of-shrooms-2581de|March of Shrooms|6,99€|30|2023-12-21 14h|2024-01-06 05h|
 |#|martian-invaders-2bc51f|Martian Invaders|0,89€|30|2023-12-13 16h|2024-01-10 16h|
 |#|movie-actor-trivia-2816f9|Movie Actor Trivia|0,89€|30|2023-12-13 16h|2024-01-10 16h|
@@ -1361,25 +1357,15 @@
 |#|planet-of-lana-a9febe|Planet of Lana|19,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|potion-permit|Potion Permit|15,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|potion-permit|Potion Permit|15,99€|30|2024-02-09 16h|2024-02-12 16h|
-|#|pray-for-death-fe9a43|Pray for Death|7,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|prehistorik-d64136|Prehistorik|7,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|prehistorik-2-0c6998|Prehistorik 2|7,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|punch-club-2-fast-forward-46d985|Punch Club 2: Fast Forward|19,50€|30|2023-12-13 16h|2024-01-10 16h|
 |#|quantum-recharged-6553fd|Quantum Recharged|8,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|redneck-deer-huntin-012a33|Redneck Deer Huntin|7,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|redneck-rampage-653f04|Redneck Rampage|7,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|redneck-rampage-rides-again-1655a7|Redneck Rampage Rides Again|7,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|remains-dcb937|Remains|5,39€|30|2023-12-13 16h|2024-01-10 16h|
 |#|retro-racers-2-a98f93|Retro Racers 2|0,89€|30|2023-12-13 16h|2024-01-10 16h|
-|#|screamer-460080|Screamer|7,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|screamer-2-ae0386|Screamer 2|7,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|shattered-steel-b4dd87|Shattered Steel|7,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|slender-the-arrival-4a801d|Slender The Arrival|17,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|slime-rancher-2|Slime Rancher 2|23,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|sonic-superstars|Sonic Superstars|59,99€|30|2023-12-28 16h|2024-01-10 16h|
 |#|spaceman-defender-757ebf|Spaceman Defender|1,79€|30|2023-12-13 16h|2024-01-10 16h|
 |#|starless-bb4b3c|Starless|5,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|stonekeep-d87a3b|Stonekeep|7,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|stranded-alien-dawn|Stranded: Alien Dawn|34,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|super-arcade-boy-in-defender-of-planet-earth-e57b80|Super Arcade Boy in Defender of Planet Earth|1,79€|30|2023-12-13 16h|2024-01-10 16h|
 |#|super-arcade-boy-in-goodbye-greenies-d8a255|Super Arcade Boy in Goodbye Greenies|1,79€|30|2023-12-13 16h|2024-01-10 16h|
@@ -1396,13 +1382,9 @@
 |#|the-sports-trivia-challenge-86c29f|The Sports Trivia Challenge|0,89€|30|2023-12-13 16h|2024-01-10 16h|
 |#|the-ultimate-trivia-challenge-c9cd44|The Ultimate Trivia Challenge|4,49€|30|2023-12-13 16h|2024-01-10 16h|
 |#|the-unbeatable-path-8af8fc|The Unbeatable Path|17,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|titus-the-fox-150ecc|Titus the Fox: To Marrakech and Back|7,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|toonstruck-8c8f1e|Toonstruck|7,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|tornado-814fc7|Tornado|8,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|trivia-king-982cec|Trivia King|0,89€|30|2023-12-13 16h|2024-01-10 16h|
 |#|parakacuk-22f4b2|Troublemaker|19,99€|30|2023-12-21 14h|2024-01-06 05h|
 |#|turbo-overkill-c5e3c7|Turbo Overkill|24,50€|30|2023-12-13 16h|2024-01-10 16h|
-|#|vr-soccer-96-bcb59f|VR Soccer 96|7,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|vectoroids-e30c27|Vectoroids|1,79€|30|2023-12-13 16h|2024-01-10 16h|
 |#|video-game-trivia-5db425|Video Game Trivia|0,89€|30|2023-12-13 16h|2024-01-10 16h|
 |#|voltaire-e1c517|Voltaire: The Vegan Vampire|19,99€|30|2023-12-21 14h|2024-01-06 05h|
@@ -1454,7 +1436,27 @@
 |#|wall-world-02e132|Wall World|6,89€|25|2023-12-13 16h|2024-01-10 16h|
 |#|xenonauts-2-42a236|Xenonauts 2|39,99€|25|2023-12-13 16h|2024-01-10 16h|
 |#|ginsha-604f11|GINSHA|15,79€|23|2024-02-19 16h|2024-02-29 16h|
+|#|baldurs-gate-dark-alliance-2-14db6b|Baldur's Gate Dark Alliance II|23,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|baldurs_gate_dark_alliance-8a2e77|Baldur's Gate: Dark Alliance|23,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|battle-chess-4000-d6d255|Battle Chess 4000|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|m1-tank-platoon-eef993|M1 Tank Platoon|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|m1-tank-platoon-2-2d2c31|M1 Tank Platoon II|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|moons-of-ardan-d4f9a3|Moons of Ardan|19,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|pray-for-death-fe9a43|Pray for Death|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|prehistorik-d64136|Prehistorik|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|prehistorik-2-0c6998|Prehistorik 2|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|redneck-deer-huntin-012a33|Redneck Deer Huntin|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|redneck-rampage-653f04|Redneck Rampage|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|redneck-rampage-rides-again-1655a7|Redneck Rampage Rides Again|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|screamer-460080|Screamer|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|screamer-2-ae0386|Screamer 2|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|shattered-steel-b4dd87|Shattered Steel|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|stonekeep-d87a3b|Stonekeep|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|subwar-2050-9ec629|Subwar 2050|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|titus-the-fox-150ecc|Titus the Fox: To Marrakech and Back|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|toonstruck-8c8f1e|Toonstruck|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|tornado-814fc7|Tornado|8,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|vr-soccer-96-bcb59f|VR Soccer 96|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|alan-wake-2|Alan Wake 2|49,99€|20|2023-12-13 16h|2024-01-10 16h|
 |#|arcrunner-61fee6|ArcRunner|19,99€|20|2023-12-13 16h|2024-01-10 16h|
 |#|arcrunner-61fee6|ArcRunner|19,99€|20|2024-02-09 16h|2024-02-12 16h|

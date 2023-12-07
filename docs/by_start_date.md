@@ -76,6 +76,7 @@
 |#|arcrunner-61fee6|ArcRunner|19,99€|20|2023-12-13 16h|2024-01-10 16h|
 |#|arcade-paradise|Arcade Paradise|19,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|arcadegeddon|Arcadegeddon|13,49€|50|2023-12-13 16h|2024-01-10 16h|
+|#|arcatronz-2bb3f2|Arcatron-Z|3,59€|33|2023-12-13 16h|2024-01-10 16h|
 |#|arctico-c29f1d|Arctico|8,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|are-you-smarter-than-a-5th-grader-bc328a|Are You Smarter Than A 5th Grader|29,99€|34|2023-12-13 16h|2024-01-10 16h|
 |#|arkanoid-eternal-battle-e1b089|Arkanoid - Eternal Battle|19,99€|90|2023-12-13 16h|2024-01-10 16h|
@@ -117,9 +118,9 @@
 |#|brok-the-investigator-fb0513|BROK the InvestiGator|17,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|back-4-blood|Back 4 Blood: Standard Edition|59,99€|85|2023-12-13 16h|2024-01-10 16h|
 |#|bad-rats-show-1b74cf|Bad Rats Show|1,79€|90|2023-12-13 16h|2024-01-10 16h|
-|#|baldurs-gate-dark-alliance-2-14db6b|Baldur's Gate Dark Alliance II|23,99€|30|2023-12-13 16h|2024-01-10 16h|
+|#|baldurs-gate-dark-alliance-2-14db6b|Baldur's Gate Dark Alliance II|23,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|baldurs-gate-2-enhanced-edition|Baldur's Gate II: Enhanced Edition|15,99€|65|2023-12-13 16h|2024-01-10 16h|
-|#|baldurs_gate_dark_alliance-8a2e77|Baldur's Gate: Dark Alliance|23,99€|30|2023-12-13 16h|2024-01-10 16h|
+|#|baldurs_gate_dark_alliance-8a2e77|Baldur's Gate: Dark Alliance|23,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|baldurs-gate-enhanced-edition|Baldur's Gate: Enhanced Edition|15,99€|65|2023-12-13 16h|2024-01-10 16h|
 |#|banners-of-ruin|Banners of Ruin|17,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|barony|Barony|17,99€|50|2023-12-13 16h|2024-01-10 16h|
@@ -129,7 +130,7 @@
 |#|batman-arkham-knight|Batman Arkham Knight|19,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|batora-lost-haven-1773c3|Batora: Lost Haven|24,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|battle-chasers-nightwar|Battle Chasers: Nightwar|29,99€|75|2023-12-13 16h|2024-01-10 16h|
-|#|battle-chess-4000-d6d255|Battle Chess 4000|7,99€|30|2023-12-13 16h|2024-01-10 16h|
+|#|battle-chess-4000-d6d255|Battle Chess 4000|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|battle-chess-ii-chinese-chess-f67c3c|Battle Chess II: Chinese Chess|7,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|battlefield-v-definitive-edition|Battlefield V Definitive Edition|49,99€|90|2023-12-13 16h|2024-01-10 16h|
 |#|battlefield-2042|Battlefield™ 2042|59,99€|80|2023-12-13 16h|2024-01-10 16h|
@@ -603,8 +604,8 @@
 |#|luckygoal-201ee6|Lucky Goal|4,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|lumote|Lumote: The Mastermote Chronicles|19,99€|65|2023-12-13 16h|2024-01-10 16h|
 |#|max-mechanized-assault-and-exploration-0722cb|M.A.X. - Mechanized Assault and Exploration|7,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|m1-tank-platoon-eef993|M1 Tank Platoon|7,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|m1-tank-platoon-2-2d2c31|M1 Tank Platoon II|7,99€|30|2023-12-13 16h|2024-01-10 16h|
+|#|m1-tank-platoon-eef993|M1 Tank Platoon|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|m1-tank-platoon-2-2d2c31|M1 Tank Platoon II|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|monopoly-madness|MONOPOLY MADNESS|29,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|mordhau|MORDHAU|26,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|mable-and-the-wood-9bd697|Mable & The Wood|11,99€|80|2023-12-13 16h|2024-01-10 16h|
@@ -763,11 +764,11 @@
 |#|potion-craft-7656a2|Potion Craft: Alchemist Simulator|19,50€|55|2023-12-13 16h|2024-01-10 16h|
 |#|potion-permit|Potion Permit|15,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|power-to-the-people-dfb0f9|Power to the People|11,99€|45|2023-12-13 16h|2024-01-10 16h|
-|#|pray-for-death-fe9a43|Pray for Death|7,99€|30|2023-12-13 16h|2024-01-10 16h|
+|#|pray-for-death-fe9a43|Pray for Death|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|predator-hunting-grounds|Predator: Hunting Grounds Standard Edition|29,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|prehistoric-kingdom|Prehistoric Kingdom|23,99€|25|2023-12-13 16h|2024-01-10 16h|
-|#|prehistorik-d64136|Prehistorik|7,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|prehistorik-2-0c6998|Prehistorik 2|7,99€|30|2023-12-13 16h|2024-01-10 16h|
+|#|prehistorik-d64136|Prehistorik|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|prehistorik-2-0c6998|Prehistorik 2|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|prey|Prey|39,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|prince-of-persia|Prince of Persia Standard Edition|9,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|prince-of-persia-sands-of-time|Prince of Persia: Sands of Time|9,99€|80|2023-12-13 16h|2024-01-10 16h|
@@ -816,9 +817,9 @@
 |#|red-ronin-d2678c|Red Ronin|5,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|redneck-bowl-games-d39874|RedNeck Bowl Games|17,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|redfall|Redfall|69,99€|75|2023-12-13 16h|2024-01-10 16h|
-|#|redneck-deer-huntin-012a33|Redneck Deer Huntin|7,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|redneck-rampage-653f04|Redneck Rampage|7,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|redneck-rampage-rides-again-1655a7|Redneck Rampage Rides Again|7,99€|30|2023-12-13 16h|2024-01-10 16h|
+|#|redneck-deer-huntin-012a33|Redneck Deer Huntin|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|redneck-rampage-653f04|Redneck Rampage|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|redneck-rampage-rides-again-1655a7|Redneck Rampage Rides Again|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|redout-enhanced-edition|Redout: Enhanced Edition|15,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|redout-space-assault|Redout: Space Assault|7,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|relicta|Relicta|19,99€|90|2023-12-13 16h|2024-01-10 16h|
@@ -888,8 +889,8 @@
 |#|scott-pilgrim-vs-the-world-the-game|Scott Pilgrim vs. The World: The Game – Complete Edition|14,99€|67|2023-12-13 16h|2024-01-10 16h|
 |#|scourgebringer|Scourgebringer|16,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|scrapnaut|Scrapnaut|10,99€|70|2023-12-13 16h|2024-01-10 16h|
-|#|screamer-460080|Screamer|7,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|screamer-2-ae0386|Screamer 2|7,99€|30|2023-12-13 16h|2024-01-10 16h|
+|#|screamer-460080|Screamer|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|screamer-2-ae0386|Screamer 2|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|seal-of-evil-17240d|Seal of Evil|7,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|secret-doctrine-342083|Secret Doctrine|8,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|secret-government|Secret Government|19,99€|75|2023-12-13 16h|2024-01-10 16h|
@@ -905,7 +906,7 @@
 |#|shadowrun-dragonfall|Shadowrun: Dragonfall - Director’s Cut|14,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|shady-part-of-me|Shady Part of Me|14,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|shalnor-legends-2-fea913|Shalnor Legends 2: Trials of Thunder|13,49€|40|2023-12-13 16h|2024-01-10 16h|
-|#|shattered-steel-b4dd87|Shattered Steel|7,99€|30|2023-12-13 16h|2024-01-10 16h|
+|#|shattered-steel-b4dd87|Shattered Steel|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|sheepo-62cd3e|Sheepo|7,99€|35|2023-12-13 16h|2024-01-10 16h|
 |#|sheltered|Sheltered|14,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|shenmue-3|Shenmue III - Standard Edition|29,99€|85|2023-12-13 16h|2024-01-10 16h|
@@ -973,7 +974,7 @@
 |#|stellar-interface-d14cc4|Stellar Interface|11,69€|80|2023-12-13 16h|2024-01-10 16h|
 |#|stick-it-to-the-man|Stick It To The Man!|5,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|stillborn-slayer-298dd7|Stillborn Slayer|9,89€|10|2023-12-13 16h|2024-01-10 16h|
-|#|stonekeep-d87a3b|Stonekeep|7,99€|30|2023-12-13 16h|2024-01-10 16h|
+|#|stonekeep-d87a3b|Stonekeep|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|stranded-alien-dawn|Stranded: Alien Dawn|34,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|strange-horticulture-360e80|Strange Horticulture|14,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|stray-gods-the-roleplaying-musical-0e651d|Stray Gods: The Roleplaying Musical|29,99€|20|2023-12-13 16h|2024-01-10 16h|
@@ -982,6 +983,7 @@
 |#|stygian-reign-of-the-old-ones-56e1d7|Stygian: Reign of the Old Ones|19,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|combat-naval-package-sub-command-5e51d7|Sub Command|7,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|submarine-titans-660aa0|Submarine Titans|3,99€|90|2023-12-13 16h|2024-01-10 16h|
+|#|subwar-2050-9ec629|Subwar 2050|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|suchart-genius-artist-simulator|SuchArt: Genius Artist Simulator|24,99€|45|2023-12-13 16h|2024-01-10 16h|
 |#|sundered-eldritch-edition|Sundered: Eldritch Edition|19,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|sunlight-scream-de8642|Sunlight Scream|2,69€|20|2023-12-13 16h|2024-01-10 16h|
@@ -1140,7 +1142,7 @@
 |#|tiny-troopers-global-ops-4ac32b|Tiny Troopers Global Ops|17,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|tinykin-d1a022|Tinykin|19,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|titan-quest|Titan Quest Anniversary Edition|19,99€|75|2023-12-13 16h|2024-01-10 16h|
-|#|titus-the-fox-150ecc|Titus the Fox: To Marrakech and Back|7,99€|30|2023-12-13 16h|2024-01-10 16h|
+|#|titus-the-fox-150ecc|Titus the Fox: To Marrakech and Back|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|togges-17f696|Togges|19,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|ghost-recon-wildlands|Tom Clancy's Ghost Recon Wildlands Standard Edition|49,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|rainbow-six-extraction|Tom Clancy's Rainbow Six Extraction|39,99€|75|2023-12-13 16h|2024-01-10 16h|
@@ -1149,11 +1151,11 @@
 |#|the-division|Tom Clancy's The Division|29,99€|85|2023-12-13 16h|2024-01-10 16h|
 |#|tomb-raider|Tomb Raider GAME OF THE YEAR EDITION|19,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|tony-hawks-pro-skater-1-and-2|Tony Hawk's™ Pro Skater™ 1 + 2|44,99€|60|2023-12-13 16h|2024-01-10 16h|
-|#|toonstruck-8c8f1e|Toonstruck|7,99€|30|2023-12-13 16h|2024-01-10 16h|
+|#|toonstruck-8c8f1e|Toonstruck|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|torchlight|Torchlight|11,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|torchlight-2|Torchlight II|18,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|tormented-souls|Tormented Souls|19,99€|50|2023-12-13 16h|2024-01-10 16h|
-|#|tornado-814fc7|Tornado|8,99€|30|2023-12-13 16h|2024-01-10 16h|
+|#|tornado-814fc7|Tornado|8,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|tortuga-a-pirates-tale-e02635|Tortuga - A Pirate's Tale|24,99€|20|2023-12-13 16h|2024-01-10 16h|
 |#|totally-accurate-battle-simulator|Totally Accurate Battle Simulator|16,79€|40|2023-12-13 16h|2024-01-10 16h|
 |#|totally-reliable-delivery-service|Totally Reliable Delivery Service Standard Edition|14,99€|75|2023-12-13 16h|2024-01-10 16h|
@@ -1196,7 +1198,7 @@
 |#|urban-trial-tricky-eb0205|Urban Trial Tricky Deluxe Edition|19,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|urbek-city-builder-17cf7d|Urbek City Builder|14,49€|40|2023-12-13 16h|2024-01-10 16h|
 |#|vcb-why-city-4k-68d7f2|VCB Why City 4k|4,49€|80|2023-12-13 16h|2024-01-10 16h|
-|#|vr-soccer-96-bcb59f|VR Soccer 96|7,99€|30|2023-12-13 16h|2024-01-10 16h|
+|#|vr-soccer-96-bcb59f|VR Soccer 96|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|valiant-hearts|Valiant Hearts: The Great War|14,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|vampire-the-masquerade-swansong|Vampire: The Masquerade – Swansong|49,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|vampyr|Vampyr|39,99€|80|2023-12-13 16h|2024-01-10 16h|
