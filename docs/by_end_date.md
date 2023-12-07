@@ -5,6 +5,7 @@
 |#|kings-bounty-ii-dukes-edition-8df41c|King's Bounty II - Duke's Edition|44,99€|40|2023-12-07 16h|2023-12-14 16h|
 |#|aquatico-b4f0ce|Aquatico|24,99€|50|2023-12-10 23h|2023-12-17 23h|
 |#|patron-4ab1c1|Patron|15,99€|75|2023-12-10 23h|2023-12-17 23h|
+|#|mysterygame-1|Mystery Game Day 1|0,00€|100|2023-12-13 16h|2023-12-19 16h|
 |#|seaorama-world-of-shipping-ff5abb|SeaOrama: World of Shipping|19,99€|10|2023-12-14 16h|2023-12-21 16h|
 |#|forklift-simulator-2023-b1d538|Forklift Simulator 2023|7,19€|60|2023-12-14 22h|2023-12-21 22h|
 |#|he-will-shoot-46efff|He Will Shoot|1,59€|80|2023-12-07 22h|2023-12-21 22h|

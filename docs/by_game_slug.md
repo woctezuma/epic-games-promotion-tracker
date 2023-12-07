@@ -858,6 +858,7 @@
 |#|my-summer-adventure-memories-of-another-life-e30d54|My Summer Adventure: Memories of Another Life|7,79€|50|2023-12-13 16h|2024-01-10 16h|
 |#|my-time-at-portia|My Time At Portia|29,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|my-time-at-sandrock|My Time at Sandrock|34,99€|20|2023-12-13 16h|2024-01-10 16h|
+|#|mysterygame-1|Mystery Game Day 1|0,00€|100|2023-12-13 16h|2023-12-19 16h|
 |#|mythforce-d2710b|MythForce|26,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|n-verlore-verstand-1d7f5b|'n Verlore Verstand|13,49€|90|2023-12-13 16h|2024-01-10 16h|
 |#|narita-boy|Narita Boy|24,99€|80|2023-12-13 16h|2024-01-10 16h|
