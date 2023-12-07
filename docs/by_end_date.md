@@ -210,8 +210,9 @@
 |#|batman-arkham-knight|Batman Arkham Knight|19,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|batora-lost-haven-1773c3|Batora: Lost Haven|24,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|battle-chasers-nightwar|Battle Chasers: Nightwar|29,99€|75|2023-12-13 16h|2024-01-10 16h|
+|#|battle-chess-83c4f8|Battle Chess|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|battle-chess-4000-d6d255|Battle Chess 4000|7,99€|22|2023-12-13 16h|2024-01-10 16h|
-|#|battle-chess-ii-chinese-chess-f67c3c|Battle Chess II: Chinese Chess|7,99€|30|2023-12-13 16h|2024-01-10 16h|
+|#|battle-chess-ii-chinese-chess-f67c3c|Battle Chess II: Chinese Chess|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|battlefield-v-definitive-edition|Battlefield V Definitive Edition|49,99€|90|2023-12-13 16h|2024-01-10 16h|
 |#|battlefield-2042|Battlefield™ 2042|59,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|beach-invasion-1944-d654d6|Beach Invasion 1944|8,99€|40|2023-12-13 16h|2024-01-10 16h|
@@ -278,7 +279,7 @@
 |#|cassiodora-090292|Cassiodora|14,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|castlestorm2|CastleStorm 2|15,99€|66|2023-12-13 16h|2024-01-10 16h|
 |#|castles-5a423e|Castles|7,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|castles-ii-siege-and-conquest-aa3f88|Castles II - Siege and Conquest|7,99€|30|2023-12-13 16h|2024-01-10 16h|
+|#|castles-ii-siege-and-conquest-aa3f88|Castles II - Siege and Conquest|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|caverns-of-mars-recharged-6686f6|Caverns of Mars Recharged|8,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|celeste|Celeste|15,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|centipede-recharged|Centipede: Recharged|8,99€|50|2023-12-13 16h|2024-01-10 16h|
@@ -307,7 +308,7 @@
 |#|conan-exiles|Conan Exiles|39,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|conarium|Conarium|19,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|conglomerate-451-6570f5|Conglomerate 451|19,99€|85|2023-12-13 16h|2024-01-10 16h|
-|#|conquest-of-the-new-world-f321f0|Conquest of the New World|7,99€|30|2023-12-13 16h|2024-01-10 16h|
+|#|conquest-of-the-new-world-f321f0|Conquest of the New World|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|creepy-tale-058ebd|Creepy Tale|4,49€|40|2023-12-13 16h|2024-01-10 16h|
 |#|creepy-tale-3-ingrid-penance-1daff4|Creepy Tale 3 - Ingrid Penance|8,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|crowns-and-pawns-kingdom-of-deceit-51b045|Crowns and Pawns: Kingdom of Deceit|19,99€|55|2023-12-13 16h|2024-01-10 16h|
@@ -319,8 +320,8 @@
 |#|cursed-to-golf-a6bc22|Cursed to Golf|19,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|cyanide-happiness-freakpocalypse|Cyanide & Happiness - Freakpocalypse (Episode 1)|15,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|cyber-hook-064d2c|Cyber Hook|11,99€|80|2023-12-13 16h|2024-01-10 16h|
-|#|cyberia-bfdd70|Cyberia|7,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|cyberia-2-resurrection-23a676|Cyberia 2 - Resurrection|7,99€|30|2023-12-13 16h|2024-01-10 16h|
+|#|cyberia-bfdd70|Cyberia|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|cyberia-2-resurrection-23a676|Cyberia 2 - Resurrection|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|deathloop|DEATHLOOP|59,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|deathloop-ghostwire-tokyo-bundle|DEATHLOOP + Ghostwire: Tokyo Bundle|102,85€|60|2023-12-13 16h|2024-01-10 16h|
 |#|deathrun-tv-db074f|DEATHRUN TV|11,99€|90|2023-12-13 16h|2024-01-10 16h|
@@ -361,8 +362,8 @@
 |#|demon-turf|Demon Turf|21,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|demon-turf-neon-splash-7ed9b5|Demon Turf Neon Splash|4,49€|30|2023-12-13 16h|2024-01-10 16h|
 |#|deponia-full-scrap-collection|Deponia: Full Scrap Collection|44,99€|90|2023-12-13 16h|2024-01-10 16h|
-|#|descent-62cef4|Descent|7,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|descent-ii-fe049e|Descent II|7,99€|30|2023-12-13 16h|2024-01-10 16h|
+|#|descent-62cef4|Descent|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|descent-ii-fe049e|Descent II|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|desert-child-be4072|Desert Child|9,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|desperados-3|Desperados III|39,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|despots-game-f61a0a|Despot's Game|19,99€|50|2023-12-13 16h|2024-01-10 16h|
@@ -390,7 +391,7 @@
 |#|doors-paradox-5896c7|Doors - Paradox|13,49€|40|2023-12-13 16h|2024-01-10 16h|
 |#|double-cross-08a736|Double Cross|15,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|down-in-bermuda|Down in Bermuda|15,99€|90|2023-12-13 16h|2024-01-10 16h|
-|#|dragon-wars-92b684|Dragon Wars|7,99€|30|2023-12-13 16h|2024-01-10 16h|
+|#|dragon-wars-92b684|Dragon Wars|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|drawful-2|Drawful 2|9,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|dread-nautical|Dread Nautical|15,99€|66|2023-12-13 16h|2024-01-10 16h|
 |#|dread-templar-d8e8fa|Dread Templar|19,99€|50|2023-12-13 16h|2024-01-10 16h|
@@ -413,8 +414,8 @@
 |#|elex|ELEX|29,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|elex-ii|ELEX II|49,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|endlessdungeonnewgene|ENDLESS™ Dungeon|29,99€|20|2023-12-13 16h|2024-01-10 16h|
-|#|earthworm-jim-9f7cd1|Earthworm Jim|7,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|earthworm-jim-2-c3710b|Earthworm Jim 2|7,99€|30|2023-12-13 16h|2024-01-10 16h|
+|#|earthworm-jim-9f7cd1|Earthworm Jim|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|earthworm-jim-2-c3710b|Earthworm Jim 2|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|ebenezer-and-the-invisible-world-9241e7|Ebenezer and the Invisible World|19,99€|20|2023-12-13 16h|2024-01-10 16h|
 |#|edge-of-eternity|Edge Of Eternity|29,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|edge-of-galaxy-092087|Edge Of Galaxy|6,99€|60|2023-12-13 16h|2024-01-10 16h|
@@ -580,7 +581,7 @@
 |#|inside|INSIDE|19,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|ixion-88cda4|IXION|34,99€|43|2023-12-13 16h|2024-01-10 16h|
 |#|icewind-dale-enhanced-edition|Icewind Dale: Enhanced Edition|15,99€|65|2023-12-13 16h|2024-01-10 16h|
-|#|ignition-5246f9|Ignition|7,99€|30|2023-12-13 16h|2024-01-10 16h|
+|#|ignition-5246f9|Ignition|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|imagine-earth-7498e4|Imagine Earth|24,99€|55|2023-12-13 16h|2024-01-10 16h|
 |#|immortals-of-aveum|Immortals of Aveum™|59,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|inertial-drift|Inertial Drift|15,99€|70|2023-12-13 16h|2024-01-10 16h|
@@ -639,7 +640,7 @@
 |#|kings-bounty-dark-side-c3066f|King's Bounty: Dark Side|12,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|kings-bounty-the-legend-b69320|King's Bounty: The Legend|6,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|kings-bounty-the-warriors-of-the-north-fa2850|King's Bounty: Warriors of the North|9,99€|80|2023-12-13 16h|2024-01-10 16h|
-|#|kingdom-the-far-reaches-26d90e|Kingdom - The Far Reaches|7,99€|30|2023-12-13 16h|2024-01-10 16h|
+|#|kingdom-the-far-reaches-26d90e|Kingdom - The Far Reaches|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|kingdoms-of-amalur-re-reckoning|Kingdoms of Amalur: Re-Reckoning|39,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|kitaria-fables|Kitaria Fables|19,99€|67|2023-12-13 16h|2024-01-10 16h|
 |#|knight-vs-giant-the-broken-excalibur-230c5c|Knight vs Giant: The Broken Excalibur|19,99€|15|2023-12-13 16h|2024-01-10 16h|
@@ -679,7 +680,7 @@
 |#|lords-of-the-fallen|Lords of the Fallen|59,99€|35|2023-12-13 16h|2024-01-10 16h|
 |#|loretta-0099a6|Loretta|13,49€|25|2023-12-13 16h|2024-01-10 16h|
 |#|lost-abroad-cafe-a-language-learning-management-sim-bfc28c|Lost Abroad Cafe - A Language Learning Management|2,69€|30|2023-12-13 16h|2024-01-10 16h|
-|#|lost-eden-13175e|Lost Eden|7,99€|30|2023-12-13 16h|2024-01-10 16h|
+|#|lost-eden-13175e|Lost Eden|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|lost-eidolons|Lost Eidolons|34,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|lost-ruins-d6233b|Lost Ruins|15,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|love-too-easily-1854cf|Love Too Easily|21,56€|50|2023-12-13 16h|2024-01-10 16h|
@@ -687,7 +688,7 @@
 |#|lovecraft-untold-stories-2-a0857a|Lovecraft's Untold Stories 2|19,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|luckygoal-201ee6|Lucky Goal|4,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|lumote|Lumote: The Mastermote Chronicles|19,99€|65|2023-12-13 16h|2024-01-10 16h|
-|#|max-mechanized-assault-and-exploration-0722cb|M.A.X. - Mechanized Assault and Exploration|7,99€|30|2023-12-13 16h|2024-01-10 16h|
+|#|max-mechanized-assault-and-exploration-0722cb|M.A.X. - Mechanized Assault and Exploration|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|m1-tank-platoon-eef993|M1 Tank Platoon|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|m1-tank-platoon-2-2d2c31|M1 Tank Platoon II|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|monopoly-madness|MONOPOLY MADNESS|29,99€|75|2023-12-13 16h|2024-01-10 16h|

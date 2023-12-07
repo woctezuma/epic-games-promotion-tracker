@@ -1307,7 +1307,6 @@
 |#|asterix-and-obelix-slap-them-all-2-0ca63e|Asterix and Obelix Slap Them All 2|24,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|brok-the-investigator-fb0513|BROK the InvestiGator|17,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|batbarian-testament-of-the-primordials-cae61e|Batbarian: Testament of the Primordials|13,49€|30|2023-12-13 16h|2024-01-10 16h|
-|#|battle-chess-ii-chinese-chess-f67c3c|Battle Chess II: Chinese Chess|7,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|beautiful-indie-worlds-bundle|Beautiful Indie Worlds Bundle|27,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|blood-bowl-3|Blood Bowl 3|29,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|bloons-td-6-bf95a0|Bloons TD 6|10,99€|30|2023-12-13 16h|2024-01-10 16h|
@@ -1316,39 +1315,26 @@
 |#|brick-breaker-premium-3-2ae7ce|Brick Breaker Premium 3|0,89€|30|2023-12-13 16h|2024-01-10 16h|
 |#|buddy-and-friends-in-halloween-192190|Buddy and Friends in Halloween|1,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|castles-5a423e|Castles|7,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|castles-ii-siege-and-conquest-aa3f88|Castles II - Siege and Conquest|7,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|city-of-beats-08f8c2|City of Beats|19,99€|30|2023-12-21 14h|2024-01-05 18h|
 |#|compass-of-the-destiny-istanbul-598642|Compass of the Destiny: Istanbul|14,79€|30|2024-01-04 21h|2024-01-11 21h|
-|#|conquest-of-the-new-world-f321f0|Conquest of the New World|7,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|curse-of-the-sea-rats-8f28b1|Curse of the Sea Rats|17,99€|30|2024-02-09 16h|2024-02-12 16h|
-|#|cyberia-bfdd70|Cyberia|7,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|cyberia-2-resurrection-23a676|Cyberia 2 - Resurrection|7,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|demon-turf-neon-splash-7ed9b5|Demon Turf Neon Splash|4,49€|30|2023-12-13 16h|2024-01-10 16h|
-|#|descent-62cef4|Descent|7,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|descent-ii-fe049e|Descent II|7,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|dolmenjord-viking-islands-965b06|Dolmenjord - Viking Islands|2,69€|30|2023-12-13 16h|2024-01-10 16h|
 |#|dolphin-spirit-ocean-mission-2d0f3b|Dolphin Spirit - Ocean Mission|24,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|dragon-wars-92b684|Dragon Wars|7,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|dumpy-and-bumpy-86c9d7|Dumpy and Bumpy|3,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|dumpy-and-bumpy-86c9d7|Dumpy and Bumpy|3,99€|30|2024-02-09 16h|2024-02-12 16h|
-|#|earthworm-jim-9f7cd1|Earthworm Jim|7,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|earthworm-jim-2-c3710b|Earthworm Jim 2|7,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|eden-island-8cd344|Eden Island|8,99€|30|2024-01-10 12h|2024-01-15 15h|
 |#|gas-station-simulator-ee93c7|Gas Station Simulator|17,99€|30|2023-12-19 18h|2024-01-02 18h|
 |#|hot-wheels-unleashed-2|HOT WHEELS UNLEASHED™ 2 - Turbocharged|49,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|ignition-5246f9|Ignition|7,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|insectipede-a2174d|Insectipede|0,89€|30|2023-12-13 16h|2024-01-10 16h|
 |#|its-a-wrap-f392ae|It's a Wrap!|16,19€|30|2024-02-09 16h|2024-02-12 16h|
 |#|kardboard-kings-0962f8|Kardboard Kings|15,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|kingdom-the-far-reaches-26d90e|Kingdom - The Far Reaches|7,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|love-3-c2516f|LOVE 3|8,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|love-3-c2516f|LOVE 3|8,99€|30|2024-02-09 16h|2024-02-12 16h|
 |#|last-labyrinth-5aed27|Last Labyrinth|32,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|layers-of-fears-85a02b|Layers of Fear|29,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|legend-bowl-10bc86|Legend Bowl|19,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|lost-abroad-cafe-a-language-learning-management-sim-bfc28c|Lost Abroad Cafe - A Language Learning Management|2,69€|30|2023-12-13 16h|2024-01-10 16h|
-|#|lost-eden-13175e|Lost Eden|7,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|max-mechanized-assault-and-exploration-0722cb|M.A.X. - Mechanized Assault and Exploration|7,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|march-of-shrooms-2581de|March of Shrooms|6,99€|30|2023-12-21 14h|2024-01-06 05h|
 |#|martian-invaders-2bc51f|Martian Invaders|0,89€|30|2023-12-13 16h|2024-01-10 16h|
 |#|movie-actor-trivia-2816f9|Movie Actor Trivia|0,89€|30|2023-12-13 16h|2024-01-10 16h|
@@ -1438,7 +1424,22 @@
 |#|ginsha-604f11|GINSHA|15,79€|23|2024-02-19 16h|2024-02-29 16h|
 |#|baldurs-gate-dark-alliance-2-14db6b|Baldur's Gate Dark Alliance II|23,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|baldurs_gate_dark_alliance-8a2e77|Baldur's Gate: Dark Alliance|23,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|battle-chess-83c4f8|Battle Chess|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|battle-chess-4000-d6d255|Battle Chess 4000|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|battle-chess-ii-chinese-chess-f67c3c|Battle Chess II: Chinese Chess|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|castles-ii-siege-and-conquest-aa3f88|Castles II - Siege and Conquest|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|conquest-of-the-new-world-f321f0|Conquest of the New World|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|cyberia-bfdd70|Cyberia|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|cyberia-2-resurrection-23a676|Cyberia 2 - Resurrection|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|descent-62cef4|Descent|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|descent-ii-fe049e|Descent II|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|dragon-wars-92b684|Dragon Wars|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|earthworm-jim-9f7cd1|Earthworm Jim|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|earthworm-jim-2-c3710b|Earthworm Jim 2|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|ignition-5246f9|Ignition|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|kingdom-the-far-reaches-26d90e|Kingdom - The Far Reaches|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|lost-eden-13175e|Lost Eden|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|max-mechanized-assault-and-exploration-0722cb|M.A.X. - Mechanized Assault and Exploration|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|m1-tank-platoon-eef993|M1 Tank Platoon|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|m1-tank-platoon-2-2d2c31|M1 Tank Platoon II|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|moons-of-ardan-d4f9a3|Moons of Ardan|19,99€|22|2023-12-13 16h|2024-01-10 16h|

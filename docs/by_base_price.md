@@ -1262,36 +1262,37 @@
 |#|combat-naval-package-hunter-killer-685f4a|688(I) Hunter/Killer|7,99€|85|2023-12-13 16h|2024-01-10 16h|
 |#|combat-naval-package-hunter-killer-685f4a|688(I) Hunter/Killer|7,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|another-world-20th-anniversary-edition-64660d|Another World - 20th Anniversary|7,99€|75|2023-12-13 16h|2024-01-10 16h|
+|#|battle-chess-83c4f8|Battle Chess|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|battle-chess-4000-d6d255|Battle Chess 4000|7,99€|22|2023-12-13 16h|2024-01-10 16h|
-|#|battle-chess-ii-chinese-chess-f67c3c|Battle Chess II: Chinese Chess|7,99€|30|2023-12-13 16h|2024-01-10 16h|
+|#|battle-chess-ii-chinese-chess-f67c3c|Battle Chess II: Chinese Chess|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|big-mutha-truckers-990060|Big Mutha Truckers 2|7,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|big-mutha-truckers-990060|Big Mutha Truckers 2|7,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|castles-5a423e|Castles|7,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|castles-ii-siege-and-conquest-aa3f88|Castles II - Siege and Conquest|7,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|conquest-of-the-new-world-f321f0|Conquest of the New World|7,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|cyberia-bfdd70|Cyberia|7,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|cyberia-2-resurrection-23a676|Cyberia 2 - Resurrection|7,99€|30|2023-12-13 16h|2024-01-10 16h|
+|#|castles-ii-siege-and-conquest-aa3f88|Castles II - Siege and Conquest|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|conquest-of-the-new-world-f321f0|Conquest of the New World|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|cyberia-bfdd70|Cyberia|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|cyberia-2-resurrection-23a676|Cyberia 2 - Resurrection|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|dangerous-waters-61ea56|Dangerous Waters|7,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|dangerous-waters-61ea56|Dangerous Waters|7,99€|80|2024-02-09 16h|2024-02-12 16h|
-|#|descent-62cef4|Descent|7,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|descent-ii-fe049e|Descent II|7,99€|30|2023-12-13 16h|2024-01-10 16h|
+|#|descent-62cef4|Descent|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|descent-ii-fe049e|Descent II|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|disciples-sacred-lands-gold-6bf43b|Disciples Sacred Lands Gold|7,99€|80|2023-12-13 16h|2024-01-10 16h|
-|#|dragon-wars-92b684|Dragon Wars|7,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|earthworm-jim-9f7cd1|Earthworm Jim|7,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|earthworm-jim-2-c3710b|Earthworm Jim 2|7,99€|30|2023-12-13 16h|2024-01-10 16h|
+|#|dragon-wars-92b684|Dragon Wars|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|earthworm-jim-9f7cd1|Earthworm Jim|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|earthworm-jim-2-c3710b|Earthworm Jim 2|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|flatout-2-9ffdd6|Flatout 2|7,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|flatout-2-9ffdd6|Flatout 2|7,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|naval-combat-package-34e444|Fleet Command|7,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|naval-combat-package-34e444|Fleet Command|7,99€|70|2024-02-09 16h|2024-02-12 16h|
 |#|gravitar-recharged-e606fe|Gravitar Recharged|7,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|hirilun-d92aa3|Hirilun|7,99€|65|2023-12-13 16h|2024-01-10 16h|
-|#|ignition-5246f9|Ignition|7,99€|30|2023-12-13 16h|2024-01-10 16h|
+|#|ignition-5246f9|Ignition|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|jetboard-joust|Jetboard Joust|7,99€|90|2023-12-21 14h|2024-01-06 04h|
 |#|kaichu-the-kaiju-dating-sim-531fb7|Kaichu - The Kaiju Dating Sim|7,99€|50|2023-12-13 16h|2024-01-10 16h|
-|#|kingdom-the-far-reaches-26d90e|Kingdom - The Far Reaches|7,99€|30|2023-12-13 16h|2024-01-10 16h|
+|#|kingdom-the-far-reaches-26d90e|Kingdom - The Far Reaches|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|lego-brawls|LEGO® Brawls|7,99€|75|2023-12-13 16h|2024-01-10 16h|
-|#|lost-eden-13175e|Lost Eden|7,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|max-mechanized-assault-and-exploration-0722cb|M.A.X. - Mechanized Assault and Exploration|7,99€|30|2023-12-13 16h|2024-01-10 16h|
+|#|lost-eden-13175e|Lost Eden|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|max-mechanized-assault-and-exploration-0722cb|M.A.X. - Mechanized Assault and Exploration|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|m1-tank-platoon-eef993|M1 Tank Platoon|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|m1-tank-platoon-2-2d2c31|M1 Tank Platoon II|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|men-of-war-condemned-heroes-5947be|Men of War Condemned Heroes|7,99€|80|2023-12-13 16h|2024-01-10 16h|
