@@ -18,6 +18,24 @@
     "title": "100 Halloweens"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "1428-shadows-over-silesia-266e5f",
+    "startDate": "2024-01-07T14:00:00.000Z",
+    "title": "1428: Shadows over Silesia"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "1428-shadows-over-silesia-266e5f",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "1428: Shadows over Silesia"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -10546,6 +10564,15 @@
     "slug": "space-empires-v-0319fd",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Space Empires V"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-23T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "space-explore-d8aab3",
+    "startDate": "2024-01-16T16:00:00.000Z",
+    "title": "Space Explore"
   },
   {
     "discountPercentage": 80,
