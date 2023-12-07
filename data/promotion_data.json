@@ -13455,6 +13455,15 @@
     "title": "Voodolls"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 629,
+    "slug": "voodoo-kid-05b29a",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Voodoo Kid"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
