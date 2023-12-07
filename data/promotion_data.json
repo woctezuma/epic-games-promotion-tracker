@@ -243,15 +243,6 @@
     "title": "ATOM RPG Trudograd"
   },
   {
-    "discountPercentage": 34,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "above-and-beyond-bundle",
-    "startDate": "2023-12-13T16:00:00.000Z",
-    "title": "Above and Beyond Bundle"
-  },
-  {
     "discountPercentage": 60,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -405,6 +396,15 @@
     "title": "Airborne Kingdom"
   },
   {
+    "discountPercentage": 67,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1249,
+    "slug": "alan-wake",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Alan Wake"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -421,6 +421,15 @@
     "slug": "alan-wake-remastered",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Alan Wake Remastered"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 699,
+    "slug": "alan-wake-american-nightmare",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Alan Wake\u2019s American Nightmare"
   },
   {
     "discountPercentage": 65,
@@ -1339,15 +1348,6 @@
     "slug": "beach-invasion-1944-d654d6",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Beach Invasion 1944"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2799,
-    "slug": "beautiful-indie-worlds-bundle",
-    "startDate": "2023-12-13T16:00:00.000Z",
-    "title": "Beautiful Indie Worlds Bundle"
   },
   {
     "discountPercentage": 80,
@@ -2349,6 +2349,15 @@
     "title": "Conquest of the New World"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3199,
+    "slug": "control",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Control"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-01-06T05:00:00.000Z",
     "isFree": false,
@@ -2383,6 +2392,15 @@
     "slug": "creepy-tale-3-ingrid-penance-1daff4",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Creepy Tale 3 - Ingrid Penance"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2024-01-10T23:59:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "crime-boss",
+    "startDate": "2023-12-15T16:00:00.000Z",
+    "title": "Crime Boss: Rockay City"
   },
   {
     "discountPercentage": 55,
@@ -2536,6 +2554,15 @@
     "slug": "cyberpunk-2077",
     "startDate": "2023-12-28T15:00:00.000Z",
     "title": "Cyberpunk 2077"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "death-stranding-directors-cut",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "DEATH STRANDING DIRECTOR'S CUT"
   },
   {
     "discountPercentage": 80,
@@ -4590,6 +4617,15 @@
     "title": "Ghostrunner 2"
   },
   {
+    "discountPercentage": 15,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "ghostrunner-2",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Ghostrunner 2"
+  },
+  {
     "discountPercentage": 90,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -5796,6 +5832,15 @@
     "title": "Journey"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "journey-to-the-savage-planet",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Journey to the Savage Planet"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2023-12-22T14:00:00.000Z",
     "isFree": false,
@@ -6001,6 +6046,15 @@
     "slug": "kerbal-space-program",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Kerbal Space Program"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "kerbal-space-program-2",
+    "startDate": "2023-12-19T18:00:00.000Z",
+    "title": "Kerbal Space Program 2"
   },
   {
     "discountPercentage": 66,
@@ -7126,6 +7180,15 @@
     "slug": "mia-and-the-dragon-princess-f4e1d0",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Mia and the Dragon Princess"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "miasma-chronicles",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Miasma Chronicles"
   },
   {
     "discountPercentage": 66,
@@ -10798,6 +10861,15 @@
     "slug": "strange-horticulture-360e80",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Strange Horticulture"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3499,
+    "slug": "stray-blade",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Stray Blade"
   },
   {
     "discountPercentage": 20,
