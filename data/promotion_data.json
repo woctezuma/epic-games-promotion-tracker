@@ -117,6 +117,15 @@
     "title": "A Game Of Thrones: The Board Game Digital Edition"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2024-01-10T23:59:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "a-good-snowman-is-hard-to-build",
+    "startDate": "2023-12-22T01:00:00.000Z",
+    "title": "A Good Snowman is Hard to Build"
+  },
+  {
     "discountPercentage": 35,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -142,6 +151,15 @@
     "slug": "a-long-journey-to-an-uncertain-end-514c7e",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "A Long Journey to an Uncertain End"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T23:59:00.000Z",
+    "isFree": false,
+    "originalPrice": 2239,
+    "slug": "a-monsters-expedition",
+    "startDate": "2023-12-22T01:00:00.000Z",
+    "title": "A Monster's Expedition"
   },
   {
     "discountPercentage": 55,
@@ -1692,6 +1710,15 @@
     "title": "BoltBreak"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T23:59:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "bonfire-peaks",
+    "startDate": "2023-12-22T01:00:00.000Z",
+    "title": "Bonfire Peaks"
+  },
+  {
     "discountPercentage": 65,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -2392,6 +2419,15 @@
     "slug": "corrupt-political-simulator-f94058",
     "startDate": "2023-12-11T23:00:00.000Z",
     "title": "Corrupt - Political Simulator"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-01-10T23:59:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "cosmic-express",
+    "startDate": "2023-12-22T01:00:00.000Z",
+    "title": "Cosmic Express"
   },
   {
     "discountPercentage": 40,
@@ -5310,6 +5346,15 @@
     "title": "Horizon Chase 2"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "horizon-chase-2",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Horizon Chase 2"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -6154,6 +6199,15 @@
     "slug": "kings-bounty-ii",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "King's Bounty II"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-12-14T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4499,
+    "slug": "kings-bounty-ii-dukes-edition-8df41c",
+    "startDate": "2023-12-07T16:00:00.000Z",
+    "title": "King's Bounty II - Duke's Edition"
   },
   {
     "discountPercentage": 80,
@@ -7261,15 +7315,6 @@
     "slug": "milky-way-prince-the-vampire-star",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Milky Way Prince \u2013 The Vampire Star"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2023-12-14T14:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 989,
-    "slug": "miniland-adventure-ee81ff",
-    "startDate": "2023-12-07T14:00:00.000Z",
-    "title": "Miniland Adventure"
   },
   {
     "discountPercentage": 35,
@@ -10386,6 +10431,15 @@
     "title": "Snowtopia - Ski Resort Builder"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2024-01-10T23:59:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "sokobond",
+    "startDate": "2023-12-22T01:00:00.000Z",
+    "title": "Sokobond"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -13093,6 +13147,15 @@
     "slug": "tropico-5",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Tropico 5"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "tropico-6",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Tropico 6"
   },
   {
     "discountPercentage": 30,
