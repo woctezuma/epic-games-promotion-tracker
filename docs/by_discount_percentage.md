@@ -848,7 +848,6 @@
 |#|tony-hawks-pro-skater-1-and-2|Tony Hawk's™ Pro Skater™ 1 + 2|44,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|trackmania-turbo|Trackmania Turbo|39,99€|60|2023-12-28 17h|2024-01-10 17h|
 |#|train-life|Train Life: A Railway Simulator|19,99€|60|2023-12-13 16h|2024-01-10 16h|
-|#|tropico-6|Tropico 6|39,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|tunche|Tunche|19,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|uno|UNO Standard Edition|9,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|we-are-football|WE ARE FOOTBALL|24,99€|60|2023-12-13 16h|2024-01-10 16h|
@@ -1531,7 +1530,6 @@
 |#|the-witch-of-fern-island-18df35|The Witch of Fern Island|21,99€|20|2023-12-21 14h|2024-01-06 05h|
 |#|timberborn|Timberborn|22,39€|20|2023-12-13 16h|2024-01-10 16h|
 |#|timberborn|Timberborn|22,39€|20|2024-02-09 16h|2024-02-12 16h|
-|#|tortuga-a-pirates-tale-e02635|Tortuga - A Pirate's Tale|24,99€|20|2023-12-13 16h|2024-01-10 16h|
 |#|viscerafest|Viscerafest|14,99€|20|2023-12-13 16h|2024-01-10 16h|
 |#|vlad-circus-descend-into-madness-9d1ed2|Vlad Circus - Descend Into Madness|17,99€|20|2023-12-13 16h|2024-01-10 16h|
 |#|voidtrain|Voidtrain|29,99€|20|2023-12-13 16h|2024-01-10 16h|
@@ -1551,6 +1549,7 @@
 |#|planeticusgame-5dd84a|Planeticus|6,29€|15|2023-12-13 16h|2024-01-10 16h|
 |#|the-dragoness-command-of-the-flame-b3b544|The Dragoness Command Of The Flame|19,99€|15|2023-12-13 16h|2024-01-10 16h|
 |#|the-lord-of-the-rings-return-to-moria-f01344|The Lord of The Rings Return to Moria|39,99€|15|2023-12-13 16h|2024-01-10 16h|
+|#|tortuga-a-pirates-tale-e02635|Tortuga - A Pirate's Tale|24,99€|15|2023-12-13 16h|2024-01-10 16h|
 |#|zoeti-3ccef9|Zoeti|15,99€|15|2023-12-13 16h|2024-01-10 16h|
 |#|mallofmayhem-15344c|Mall of Mayhem|7,19€|14|2024-04-01 06h|2024-04-30 10h|
 |#|paw-paw-destiny-843848|Paw Paw Destiny|13,49€|11|2024-02-09 16h|2024-02-12 16h|

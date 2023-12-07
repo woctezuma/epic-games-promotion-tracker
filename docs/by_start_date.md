@@ -1163,7 +1163,7 @@
 |#|torchlight-2|Torchlight II|18,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|tormented-souls|Tormented Souls|19,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|tornado-814fc7|Tornado|8,99€|22|2023-12-13 16h|2024-01-10 16h|
-|#|tortuga-a-pirates-tale-e02635|Tortuga - A Pirate's Tale|24,99€|20|2023-12-13 16h|2024-01-10 16h|
+|#|tortuga-a-pirates-tale-e02635|Tortuga - A Pirate's Tale|24,99€|15|2023-12-13 16h|2024-01-10 16h|
 |#|totally-accurate-battle-simulator|Totally Accurate Battle Simulator|16,79€|40|2023-12-13 16h|2024-01-10 16h|
 |#|totally-reliable-delivery-service|Totally Reliable Delivery Service Standard Edition|14,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|touch-type-tale|Touch Type Tale|19,99€|25|2023-12-13 16h|2024-01-10 16h|
@@ -1180,7 +1180,6 @@
 |#|trine-5|Trine 5: A Clockwork Conspiracy|29,99€|34|2023-12-13 16h|2024-01-10 16h|
 |#|trivia-king-982cec|Trivia King|0,89€|30|2023-12-13 16h|2024-01-10 16h|
 |#|tropico-5|Tropico 5|19,99€|50|2023-12-13 16h|2024-01-10 16h|
-|#|tropico-6|Tropico 6|39,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|true-fear-forsaken-souls-part-1-cd1eb1|True Fear: Forsaken Souls Part 1|7,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|true-fear-forsaken-souls-part-1-demo-f3c923|True Fear: Forsaken Souls Part 2|7,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|tunche|Tunche|19,99€|60|2023-12-13 16h|2024-01-10 16h|

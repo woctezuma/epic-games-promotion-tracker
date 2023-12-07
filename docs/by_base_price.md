@@ -211,7 +211,6 @@
 |#|tour-de-france-2023|Tour de France 2023|39,99€|45|2023-12-13 16h|2024-01-10 16h|
 |#|trackmania-turbo|Trackmania Turbo|39,99€|60|2023-12-28 17h|2024-01-10 17h|
 |#|transport-fever-2|Transport Fever 2|39,99€|50|2023-12-13 16h|2024-01-10 16h|
-|#|tropico-6|Tropico 6|39,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|vampyr|Vampyr|39,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|wrc-11-fia-world-rally-championship-f0749b|WRC Generations|39,99€|65|2023-12-13 16h|2024-01-10 16h|
 |#|way-of-the-hunter|Way of the Hunter|39,99€|50|2023-12-13 16h|2024-01-10 16h|
@@ -446,7 +445,7 @@
 |#|the-telltale-batman|The Telltale Batman Shadows Edition|24,99€|65|2023-12-13 16h|2024-01-10 16h|
 |#|the-valiant|The Valiant|24,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|there-is-no-light-4eadf2|There Is No Light|24,99€|40|2023-12-13 16h|2024-01-10 16h|
-|#|tortuga-a-pirates-tale-e02635|Tortuga - A Pirate's Tale|24,99€|20|2023-12-13 16h|2024-01-10 16h|
+|#|tortuga-a-pirates-tale-e02635|Tortuga - A Pirate's Tale|24,99€|15|2023-12-13 16h|2024-01-10 16h|
 |#|we-are-football|WE ARE FOOTBALL|24,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|wrath-aeon-of-ruin|Wrath: Aeon of Ruin|24,99€|20|2023-12-13 16h|2024-01-10 16h|
 |#|zorro-the-chronicles|Zorro The Chronicles|24,99€|70|2023-12-13 16h|2024-01-10 16h|
