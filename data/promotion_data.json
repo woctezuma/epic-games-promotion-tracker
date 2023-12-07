@@ -1282,12 +1282,21 @@
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 799,
+    "slug": "battle-chess-83c4f8",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Battle Chess"
+  },
+  {
+    "discountPercentage": 22,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
     "slug": "battle-chess-4000-d6d255",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Battle Chess 4000"
   },
   {
-    "discountPercentage": 30,
+    "discountPercentage": 22,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 799,
@@ -1998,7 +2007,7 @@
     "title": "Castles"
   },
   {
-    "discountPercentage": 30,
+    "discountPercentage": 22,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 799,
@@ -2331,7 +2340,7 @@
     "title": "Conglomerate 451"
   },
   {
-    "discountPercentage": 30,
+    "discountPercentage": 22,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 799,
@@ -2502,7 +2511,7 @@
     "title": "Cyber Hook"
   },
   {
-    "discountPercentage": 30,
+    "discountPercentage": 22,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 799,
@@ -2511,7 +2520,7 @@
     "title": "Cyberia"
   },
   {
-    "discountPercentage": 30,
+    "discountPercentage": 22,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 799,
@@ -2934,7 +2943,7 @@
     "title": "Deponia: Full Scrap Collection"
   },
   {
-    "discountPercentage": 30,
+    "discountPercentage": 22,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 799,
@@ -2943,7 +2952,7 @@
     "title": "Descent"
   },
   {
-    "discountPercentage": 30,
+    "discountPercentage": 22,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 799,
@@ -3249,7 +3258,7 @@
     "title": "Down in Bermuda"
   },
   {
-    "discountPercentage": 30,
+    "discountPercentage": 22,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 799,
@@ -3492,7 +3501,7 @@
     "title": "ENDLESS\u2122 Dungeon"
   },
   {
-    "discountPercentage": 30,
+    "discountPercentage": 22,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 799,
@@ -3501,7 +3510,7 @@
     "title": "Earthworm Jim"
   },
   {
-    "discountPercentage": 30,
+    "discountPercentage": 22,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 799,
@@ -5463,7 +5472,7 @@
     "title": "Icewind Dale: Enhanced Edition"
   },
   {
-    "discountPercentage": 30,
+    "discountPercentage": 22,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 799,
@@ -6120,7 +6129,7 @@
     "title": "King's Bounty: Warriors of the North"
   },
   {
-    "discountPercentage": 30,
+    "discountPercentage": 22,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 799,
@@ -6579,7 +6588,7 @@
     "title": "Lost Abroad Cafe - A Language Learning Management"
   },
   {
-    "discountPercentage": 30,
+    "discountPercentage": 22,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 799,
@@ -6660,7 +6669,7 @@
     "title": "LunarLux"
   },
   {
-    "discountPercentage": 30,
+    "discountPercentage": 22,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 799,
