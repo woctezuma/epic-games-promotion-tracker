@@ -18,24 +18,6 @@
     "title": "100 Halloweens"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "1428-shadows-over-silesia-266e5f",
-    "startDate": "2024-01-07T14:00:00.000Z",
-    "title": "1428: Shadows over Silesia"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2024-02-12T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "1428-shadows-over-silesia-266e5f",
-    "startDate": "2024-02-09T16:00:00.000Z",
-    "title": "1428: Shadows over Silesia"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -3537,12 +3519,12 @@
     "title": "ELEX II"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2024-01-10T16:00:00.000Z",
+    "discountPercentage": 10,
+    "endDate": "2024-01-10T12:06:00.000Z",
     "isFree": false,
     "originalPrice": 2999,
     "slug": "endlessdungeonnewgene",
-    "startDate": "2023-12-13T16:00:00.000Z",
+    "startDate": "2023-12-20T12:06:00.000Z",
     "title": "ENDLESS\u2122 Dungeon"
   },
   {
@@ -5005,11 +4987,11 @@
   },
   {
     "discountPercentage": 75,
-    "endDate": "2024-01-10T16:00:00.000Z",
+    "endDate": "2024-01-10T18:00:00.000Z",
     "isFree": false,
     "originalPrice": 4999,
     "slug": "humankind",
-    "startDate": "2023-12-13T16:00:00.000Z",
+    "startDate": "2023-12-20T18:00:00.000Z",
     "title": "HUMANKIND\u2122 Standard Edition"
   },
   {
@@ -10567,15 +10549,6 @@
   },
   {
     "discountPercentage": 80,
-    "endDate": "2024-01-23T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 899,
-    "slug": "space-explore-d8aab3",
-    "startDate": "2024-01-16T16:00:00.000Z",
-    "title": "Space Explore"
-  },
-  {
-    "discountPercentage": 80,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 399,
@@ -12904,6 +12877,15 @@
     "slug": "total-war-warhammer-ii",
     "startDate": "2023-12-28T18:00:00.000Z",
     "title": "Total War: WARHAMMER II"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "total-war-warhammer-3",
+    "startDate": "2023-12-28T18:00:00.000Z",
+    "title": "Total War: WARHAMMER III"
   },
   {
     "discountPercentage": 40,
