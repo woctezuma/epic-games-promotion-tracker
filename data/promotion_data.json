@@ -7614,6 +7614,15 @@
     "title": "My Time at Sandrock"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2023-12-19T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 0,
+    "slug": "mysterygame-1",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Mystery Game Day 1"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
