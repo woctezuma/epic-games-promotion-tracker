@@ -874,15 +874,6 @@
   },
   {
     "discountPercentage": 70,
-    "endDate": "2024-01-10T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2499,
-    "slug": "assassins-creed-chronicles-trilogy",
-    "startDate": "2023-12-28T17:00:00.000Z",
-    "title": "Assassin's Creed Chronicles \u2013 Trilogy"
-  },
-  {
-    "discountPercentage": 70,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 999,
@@ -1006,15 +997,6 @@
     "slug": "assassins-creed-valhalla-watch-dogs-legion-bundle",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Assassin\u2019s Creed Valhalla + Watch Dogs: Legion Bundle"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2024-01-10T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 10999,
-    "slug": "assassins-creed-valhalla-immortals-fenyx-rising-bundle",
-    "startDate": "2023-12-28T17:00:00.000Z",
-    "title": "Assassin\u2019s Creed\u00ae Valhalla + Immortals Fenyx Rising\u2122 Bundle"
   },
   {
     "discountPercentage": 50,
@@ -2212,15 +2194,6 @@
     "slug": "chicken-assassin-reloaded-279863",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Chicken Assassin Reloaded"
-  },
-  {
-    "discountPercentage": 70,
-    "endDate": "2024-01-10T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "child-of-light",
-    "startDate": "2023-12-28T17:00:00.000Z",
-    "title": "Child of Light: Ultimate Edition"
   },
   {
     "discountPercentage": 50,
@@ -4183,15 +4156,6 @@
     "slug": "far-cry-new-dawn-ultimate",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Far Cry New Dawn Ultimate"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2024-01-10T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "far-cry-primal",
-    "startDate": "2023-12-28T17:00:00.000Z",
-    "title": "Far Cry Primal Standard Edition"
   },
   {
     "discountPercentage": 75,
@@ -6876,15 +6840,6 @@
     "title": "MONOPOLY MADNESS"
   },
   {
-    "discountPercentage": 70,
-    "endDate": "2024-01-10T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "monopoly-plus-monopoly-madness-bundle",
-    "startDate": "2023-12-28T17:00:00.000Z",
-    "title": "MONOPOLY PLUS + MONOPOLY Madness"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -7326,24 +7281,6 @@
     "title": "Midnight Ghost Hunt"
   },
   {
-    "discountPercentage": 75,
-    "endDate": "2024-01-10T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "might-and-magic-heroes-3",
-    "startDate": "2023-12-28T17:00:00.000Z",
-    "title": "Might & Magic Heroes 3"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2024-01-10T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 4499,
-    "slug": "might-and-magic-heroes-7",
-    "startDate": "2023-12-28T17:00:00.000Z",
-    "title": "Might and Magic: Heroes VII - Ultimate Edition"
-  },
-  {
     "discountPercentage": 66,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -7477,6 +7414,15 @@
     "slug": "mortal-kombat-1",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Mortal Kombat 1"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-12-18T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3599,
+    "slug": "mortal-online-2-d7bb78",
+    "startDate": "2023-12-11T11:00:00.000Z",
+    "title": "Mortal Online 2"
   },
   {
     "discountPercentage": 30,
@@ -8821,15 +8767,6 @@
   },
   {
     "discountPercentage": 80,
-    "endDate": "2024-01-10T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "prince-of-persia-the-two-thrones",
-    "startDate": "2023-12-28T17:00:00.000Z",
-    "title": "Prince of Persia: The Two Thrones Standard Edition"
-  },
-  {
-    "discountPercentage": 80,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 999,
@@ -9043,15 +8980,6 @@
     "slug": "rainswept-5f368a",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "RAINSWEPT"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2024-01-10T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "rayman-legends",
-    "startDate": "2023-12-28T17:00:00.000Z",
-    "title": "RAYMAN\u00ae LEGENDS"
   },
   {
     "discountPercentage": 20,
