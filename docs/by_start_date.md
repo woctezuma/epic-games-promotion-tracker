@@ -2,6 +2,7 @@
 |---|---|---|---|---|---|---|
 |#|aquatico-b4f0ce|Aquatico|24,99€|50|2023-12-10 23h|2023-12-17 23h|
 |#|patron-4ab1c1|Patron|15,99€|75|2023-12-10 23h|2023-12-17 23h|
+|#|mortal-online-2-d7bb78|Mortal Online 2|35,99€|40|2023-12-11 11h|2023-12-18 11h|
 |#|darkest-dungeon-2|Darkest Dungeon II|35,99€|25|2023-12-11 17h|2024-01-04 17h|
 |#|corrupt-political-simulator-f94058|Corrupt - Political Simulator|3,59€|90|2023-12-11 23h|2023-12-25 23h|
 |#|n-verlore-verstand-1d7f5b|'n Verlore Verstand|13,49€|90|2023-12-13 16h|2024-01-10 16h|
@@ -1406,18 +1407,9 @@
 |#|the-witcher-3-wild-hunt|The Witcher 3: Wild Hunt – Complete Edition|49,96€|75|2023-12-28 15h|2024-01-10 15h|
 |#|anno-mutationem-ef8b9e|ANNO Mutationem|20,99€|40|2023-12-28 16h|2024-01-06 16h|
 |#|sonic-superstars|Sonic Superstars|59,99€|30|2023-12-28 16h|2024-01-10 16h|
-|#|assassins-creed-chronicles-trilogy|Assassin's Creed Chronicles – Trilogy|24,99€|70|2023-12-28 17h|2024-01-10 17h|
-|#|assassins-creed-valhalla-immortals-fenyx-rising-bundle|Assassin’s Creed® Valhalla + Immortals Fenyx Rising™ Bundle|109,99€|40|2023-12-28 17h|2024-01-10 17h|
-|#|child-of-light|Child of Light: Ultimate Edition|19,99€|70|2023-12-28 17h|2024-01-10 17h|
 |#|far-cry-new-dawn-complete|Far Cry New Dawn Complete|99,99€|85|2023-12-28 17h|2024-01-10 17h|
-|#|far-cry-primal|Far Cry Primal Standard Edition|29,99€|75|2023-12-28 17h|2024-01-10 17h|
 |#|from-dust|From Dust|9,99€|75|2023-12-28 17h|2024-01-10 17h|
-|#|monopoly-plus-monopoly-madness-bundle|MONOPOLY PLUS + MONOPOLY Madness|39,99€|70|2023-12-28 17h|2024-01-10 17h|
-|#|might-and-magic-heroes-3|Might & Magic Heroes 3|9,99€|75|2023-12-28 17h|2024-01-10 17h|
-|#|might-and-magic-heroes-7|Might and Magic: Heroes VII - Ultimate Edition|44,99€|75|2023-12-28 17h|2024-01-10 17h|
 |#|prince-of-persia-the-forgotten-sands|Prince of Persia: The Forgotten Sands STANDARD EDITION|9,99€|80|2023-12-28 17h|2024-01-10 17h|
-|#|prince-of-persia-the-two-thrones|Prince of Persia: The Two Thrones Standard Edition|9,99€|80|2023-12-28 17h|2024-01-10 17h|
-|#|rayman-legends|RAYMAN® LEGENDS|19,99€|80|2023-12-28 17h|2024-01-10 17h|
 |#|endwar|Tom Clancy's EndWar|9,99€|70|2023-12-28 17h|2024-01-10 17h|
 |#|splinter-cell|Tom Clancy's Splinter Cell|4,99€|75|2023-12-28 17h|2024-01-10 17h|
 |#|splinter-cell-double-agent|Tom Clancy’s Splinter Cell Double Agent|4,99€|75|2023-12-28 17h|2024-01-10 17h|
