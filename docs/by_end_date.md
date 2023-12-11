@@ -18,7 +18,6 @@
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|50|2023-12-28 22h|2024-01-03 22h|
 |#|flat-heroes-fec628|Flat Heroes|9,99€|50|2023-12-21 00h|2024-01-04 12h|
 |#|cursed-castilla-maldita-castilla-ex-adaa43|Cursed Castilla (Maldita Castilla EX)|11,99€|50|2023-12-21 17h|2024-01-04 17h|
-|#|darkest-dungeon-2|Darkest Dungeon II|35,99€|25|2023-12-11 17h|2024-01-04 17h|
 |#|one-military-camp-8db1f6|One Military Camp|24,99€|40|2023-12-21 17h|2024-01-04 17h|
 |#|super-hydorah-56d575|Super Hydorah|19,99€|50|2023-12-21 17h|2024-01-04 17h|
 |#|ikonei-island-an-earthlock-adventure-fa1620|Ikonei Island: An Earthlock Adventure|22,39€|35|2023-12-21 18h|2024-01-04 18h|
@@ -531,7 +530,6 @@
 |#|gone-viral-c60635|Gone Viral|15,99€|55|2023-12-13 16h|2024-01-10 16h|
 |#|good-company|Good Company|22,99€|33|2023-12-13 16h|2024-01-10 16h|
 |#|gorogoa|Gorogoa|13,99€|70|2023-12-13 16h|2024-01-10 16h|
-|#|gotham-knights|Gotham Knights|59,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|grand-tactician-the-civil-war-18611865-6c21fc|Grand Tactician: The Civil War 1861-1865|44,99€|33|2023-12-13 16h|2024-01-10 16h|
 |#|grand-theft-auto-v|Grand Theft Auto V: Premium Edition|29,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|grand-theft-auto-the-trilogy-the-definitive-edition|Grand Theft Auto: The Trilogy – The Definitive Edition|59,99€|50|2023-12-13 16h|2024-01-10 16h|
@@ -661,14 +659,12 @@
 |#|partisan-general-audience|Knights of Honor II: Sovereign|44,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|kombinara-e5baa8|Kombinera|11,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|kujlevka-9b53bb|Kujlevka|19,50€|35|2023-12-13 16h|2024-01-10 16h|
-|#|lego-2k-drive|LEGO® 2K Drive|59,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|lego-batman-2|LEGO® Batman™ 2: DC Super Heroes|19,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|lego-batman-3|LEGO® Batman™ 3: Beyond Gotham|19,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|lego-batman|LEGO® Batman™: The Videogame|19,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|lego-brawls|LEGO® Brawls|7,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|lego-bricktales-7ccf9b|LEGO® Bricktales|29,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|lego-builders-journey|LEGO® Builder's Journey|16,99€|75|2023-12-13 16h|2024-01-10 16h|
-|#|lego-star-wars-the-skywalker-saga|LEGO® Star Wars™: The Skywalker Saga|49,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|love-3-c2516f|LOVE 3|8,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|laika-3293ee|Laika: Aged Through Blood|19,99€|20|2023-12-13 16h|2024-01-10 16h|
 |#|land-of-the-vikings-d542d8|Land of the Vikings|24,50€|25|2023-12-13 16h|2024-01-10 16h|
@@ -759,7 +755,6 @@
 |#|moonlighter|Moonlighter|19,99€|85|2023-12-13 16h|2024-01-10 16h|
 |#|moons-of-ardan-d4f9a3|Moons of Ardan|19,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|morels-ed7501|Morels: The Hunt|17,99€|75|2023-12-13 16h|2024-01-10 16h|
-|#|mortal-kombat-1|Mortal Kombat 1|69,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|mosaics-galore-4fbedf|Mosaics Galore|4,49€|30|2023-12-13 16h|2024-01-10 16h|
 |#|motogp-21|MotoGP™21|29,99€|85|2023-12-14 16h|2024-01-10 16h|
 |#|mount-and-blade-2|Mount & Blade II: Bannerlord|49,99€|40|2023-12-13 16h|2024-01-10 16h|
@@ -1408,19 +1403,9 @@
 |#|thehunter-call-of-the-wild|theHunter: Call of the Wild™|19,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|while-true-learn|while True: learn()|9,99€|35|2023-12-13 16h|2024-01-10 16h|
 |#|deltav-rings-of-saturn-4cd187|ΔV: Rings of Saturn|8,99€|42|2023-12-13 16h|2024-01-10 16h|
-|#|far-cry-new-dawn-complete|Far Cry New Dawn Complete|99,99€|85|2023-12-28 17h|2024-01-10 17h|
 |#|from-dust|From Dust|9,99€|75|2023-12-28 17h|2024-01-10 17h|
 |#|prince-of-persia-the-forgotten-sands|Prince of Persia: The Forgotten Sands STANDARD EDITION|9,99€|80|2023-12-28 17h|2024-01-10 17h|
 |#|spingun-843f78|SPINGUN|1,79€|55|2023-12-15 17h|2024-01-10 17h|
-|#|steep|Steep Standard Edition|29,99€|85|2023-12-28 16h|2024-01-10 17h|
-|#|endwar|Tom Clancy's EndWar|9,99€|70|2023-12-28 16h|2024-01-10 17h|
-|#|splinter-cell|Tom Clancy's Splinter Cell|4,99€|75|2023-12-28 16h|2024-01-10 17h|
-|#|splinter-cell-double-agent|Tom Clancy’s Splinter Cell Double Agent|4,99€|75|2023-12-28 16h|2024-01-10 17h|
-|#|trackmania-turbo|Trackmania Turbo|39,99€|60|2023-12-28 16h|2024-01-10 17h|
-|#|trials-evolution|Trials Evolution: Gold Edition|19,99€|75|2023-12-28 16h|2024-01-10 17h|
-|#|trials-fusion|Trials Fusion: Standard Edition|19,99€|75|2023-12-28 16h|2024-01-10 17h|
-|#|trials-rising|Trials Rising Standard Edition|19,99€|80|2023-12-28 16h|2024-01-10 17h|
-|#|watch-dogs-legion--ultimate-edition|Watch Dogs: Legion Ultimate Edition|119,99€|80|2023-12-28 16h|2024-01-10 17h|
 |#|humankind|HUMANKIND™ Standard Edition|49,99€|75|2023-12-20 18h|2024-01-10 18h|
 |#|a-good-snowman-is-hard-to-build|A Good Snowman is Hard to Build|13,49€|75|2023-12-22 01h|2024-01-10 23h|
 |#|a-monsters-expedition|A Monster's Expedition|22,39€|50|2023-12-22 01h|2024-01-10 23h|
