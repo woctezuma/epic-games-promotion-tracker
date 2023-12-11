@@ -251,6 +251,7 @@
 |#|tetris-effect|Tetris® Effect: Connected|31,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|warhammer-40000-battlesector|Warhammer 40,000: Battlesector|31,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|warhammer-40000-gladius-relics-of-war|Warhammer 40,000: Gladius - Relics of War|31,99€|90|2023-12-13 16h|2024-01-10 16h|
+|#|train-world-07e156|Train World|31,39€|20|2023-12-21 18h|2024-01-04 18h|
 |#|above-and-beyond-bundle|Above and Beyond Bundle|29,99€|5|2023-12-13 16h|2024-01-10 16h|
 |#|against-the-storm|Against the Storm|29,99€|35|2023-12-13 16h|2024-01-10 16h|
 |#|agatha-christie-hercule-poirot-london-cases-c81a32|Agatha Christie - Hercule Poirot: The London Case|29,99€|40|2023-12-13 16h|2024-01-10 16h|
@@ -390,7 +391,6 @@
 |#|road-96-full-journey|Road 96: Mile 0 – Full Journey Bundle|26,96€|66|2023-12-13 16h|2024-01-10 16h|
 |#|a-knights-quest|A Knights Quest|24,99€|90|2023-12-18 18h|2024-01-17 18h|
 |#|amnesia-rebirth|Amnesia: Rebirth|24,99€|80|2023-12-13 16h|2024-01-10 16h|
-|#|aquatico-b4f0ce|Aquatico|24,99€|50|2023-12-10 23h|2023-12-17 23h|
 |#|art-of-rally|Art of Rally|24,99€|45|2023-12-13 16h|2024-01-10 16h|
 |#|asterix-and-obelix-slap-them-all-2-0ca63e|Asterix and Obelix Slap Them All 2|24,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|bassmaster-fishing-2022-ec4015|Bassmaster® Fishing|24,99€|75|2023-12-13 16h|2024-01-10 16h|
@@ -863,7 +863,6 @@
 |#|outlast|Outlast|15,99€|85|2023-12-13 16h|2024-01-10 16h|
 |#|overcooked|Overcooked|15,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|pc-building-simulator|PC Building Simulator|15,99€|75|2023-12-13 16h|2024-01-10 16h|
-|#|patron-4ab1c1|Patron|15,99€|75|2023-12-10 23h|2023-12-17 23h|
 |#|planescape-torment-enhanced-edition|Planescape: Torment: Enhanced Edition|15,99€|65|2023-12-13 16h|2024-01-10 16h|
 |#|potion-permit|Potion Permit|15,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|potion-permit|Potion Permit|15,99€|30|2024-02-09 16h|2024-02-12 16h|
