@@ -161,7 +161,7 @@
 |#|fallen-legion-revenants-a2c944|Fallen Legion Revenants|39,99€|35|2023-12-13 16h|2024-01-10 16h|
 |#|fuga-melodies-of-steel|Fuga: Melodies of Steel|39,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|fuga-melodies-of-steel-2-a756d1|Fuga: Melodies of Steel 2|39,99€|20|2023-12-13 16h|2024-01-10 16h|
-|#|ghostrunner-2|Ghostrunner 2|39,99€|40|2023-12-13 16h|2024-01-10 16h|
+|#|ghostrunner-2|Ghostrunner 2|39,99€|25|2023-12-13 16h|2024-01-10 16h|
 |#|ghostrunner-2|Ghostrunner 2|39,99€|15|2023-12-13 16h|2024-01-10 16h|
 |#|godfall|Godfall Ultimate Edition|39,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|it-takes-two|It Takes Two|39,99€|75|2023-12-13 16h|2024-01-10 16h|
