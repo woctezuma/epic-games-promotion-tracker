@@ -271,7 +271,6 @@
 |#|conquest-of-the-new-world-f321f0|Conquest of the New World|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|control|Control|31,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|coromon-d4ef84|Coromon|15,99€|50|2023-12-21 14h|2024-01-06 05h|
-|#|corrupt-political-simulator-f94058|Corrupt - Political Simulator|3,59€|90|2023-12-11 23h|2023-12-25 23h|
 |#|cosmic-express|Cosmic Express|13,49€|75|2023-12-22 01h|2024-01-10 23h|
 |#|creepy-tale-058ebd|Creepy Tale|4,49€|40|2023-12-13 16h|2024-01-10 16h|
 |#|creepy-tale-3-ingrid-penance-1daff4|Creepy Tale 3 - Ingrid Penance|8,99€|40|2023-12-13 16h|2024-01-10 16h|
@@ -854,6 +853,7 @@
 |#|mysteries-of-the-undead-46140a|Mysteries of the Undead|4,49€|30|2023-12-13 16h|2024-01-10 16h|
 |#|mysterygame-1|Mystery Game Day 1|0,00€|100|2023-12-13 16h|2023-12-19 16h|
 |#|mystery-solitaire-the-black-raven-65336d|Mystery Solitaire. The Black Raven|4,49€|30|2023-12-13 16h|2024-01-10 16h|
+|#|mystery-in-the-office-f629ad|Mystery in the Office|1,99€|25|2023-12-21 18h|2024-01-04 18h|
 |#|mythforce-d2710b|MythForce|26,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|neo-the-world-ends-with-you|NEO: The World Ends with You|59,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|new-joe-and-mac-caveman-ninja-bbaa73|NEW Joe and Mac Caveman Ninja|24,99€|70|2023-12-13 16h|2024-01-10 16h|
