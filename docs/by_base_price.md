@@ -1449,6 +1449,7 @@
 |#|journey-into-darkness-2b6bf8|Journey Into Darkness|4,49€|20|2024-02-09 16h|2024-02-12 16h|
 |#|life-after-death-b4e964|Life After Death|4,49€|40|2024-01-22 01h|2024-02-10 01h|
 |#|life-after-death-b4e964|Life After Death|4,49€|40|2024-03-11 01h|2024-04-04 00h|
+|#|minimal-move-7a012a|Minimal Move|4,49€|80|2023-12-13 16h|2024-01-10 16h|
 |#|mosaics-galore-4fbedf|Mosaics Galore|4,49€|30|2023-12-13 16h|2024-01-10 16h|
 |#|mountain-racing-47178d|Mountain Racing|4,49€|80|2024-01-16 16h|2024-01-23 16h|
 |#|murder-is-game-over-streaming-death-951812|Murder Is Game Over - Streaming Death|4,49€|25|2023-12-13 16h|2024-01-10 16h|
