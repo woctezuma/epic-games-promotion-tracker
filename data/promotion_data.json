@@ -2637,15 +2637,6 @@
     "title": "Cyberia 2 - Resurrection"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2024-01-10T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "cyberpunk-2077",
-    "startDate": "2023-12-28T15:00:00.000Z",
-    "title": "Cyberpunk 2077"
-  },
-  {
     "discountPercentage": 25,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -12760,15 +12751,6 @@
     "slug": "the-witch-of-fern-island-18df35",
     "startDate": "2023-12-21T14:00:00.000Z",
     "title": "The Witch of Fern Island"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2024-01-10T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 4996,
-    "slug": "the-witcher-3-wild-hunt",
-    "startDate": "2023-12-28T15:00:00.000Z",
-    "title": "The Witcher 3: Wild Hunt \u2013 Complete Edition"
   },
   {
     "discountPercentage": 65,
