@@ -812,6 +812,7 @@
 |#|midnight-ghost-hunt|Midnight Ghost Hunt|19,99€|66|2024-02-09 16h|2024-02-12 16h|
 |#|mighty-fight-federation|Mighty Fight Federation|23,99€|66|2023-12-13 16h|2024-01-10 16h|
 |#|milky-way-prince-the-vampire-star|Milky Way Prince – The Vampire Star|14,99€|70|2023-12-13 16h|2024-01-10 16h|
+|#|minimal-move-7a012a|Minimal Move|4,49€|80|2023-12-13 16h|2024-01-10 16h|
 |#|mirages-of-winter-604dc1|Mirages of Winter|9,99€|35|2023-12-13 16h|2024-01-10 16h|
 |#|missile-command-recharged-2022-33e34b|Missile Command: Recharged2022|7,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|model-builder-f9b456|Model Builder|16,79€|50|2023-12-13 16h|2024-01-10 16h|

@@ -244,6 +244,7 @@
 |#|men-of-war-vietnam-a61b4f|Men of War: Vietnam - Special edition|8,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|metro-exodus|Metro Exodus Standard Edition|29,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|metro-simulator-494510|Metro Simulator|13,49€|80|2023-12-13 16h|2024-01-10 16h|
+|#|minimal-move-7a012a|Minimal Move|4,49€|80|2023-12-13 16h|2024-01-10 16h|
 |#|monster-harvest-75f018|Monster Harvest|13,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|mountain-racing-47178d|Mountain Racing|4,49€|80|2024-01-16 16h|2024-01-23 16h|
 |#|mudrunner|MudRunner|19,99€|80|2023-12-13 16h|2024-01-10 16h|
