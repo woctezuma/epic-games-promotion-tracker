@@ -8146,7 +8146,7 @@
   },
   {
     "discountPercentage": 20,
-    "endDate": "2023-12-28T12:00:00.000Z",
+    "endDate": "2023-12-29T12:00:00.000Z",
     "isFree": false,
     "originalPrice": 1349,
     "slug": "oirbo-c063b7",
@@ -8233,6 +8233,15 @@
     "slug": "operencia",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Operencia: The Stolen Sun"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1259,
+    "slug": "organs-please-a5e5e4",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Organs Please"
   },
   {
     "discountPercentage": 80,
@@ -11241,6 +11250,15 @@
     "title": "SuchArt: Genius Artist Simulator"
   },
   {
+    "discountPercentage": 15,
+    "endDate": "2024-01-23T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 359,
+    "slug": "sudoku-zenkai-3990b1",
+    "startDate": "2024-01-16T16:00:00.000Z",
+    "title": "Sudoku Zenkai"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -11608,6 +11626,15 @@
     "slug": "tank-warfare-tunisia-1943-62f6e9",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Tank Warfare -  Tunisia 1943"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "tannenberg",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Tannenberg"
   },
   {
     "discountPercentage": 50,
@@ -13696,6 +13723,15 @@
     "slug": "vengeful-heart-5a2fb9",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Vengeful Heart"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "verdun",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Verdun"
   },
   {
     "discountPercentage": 35,
