@@ -2808,15 +2808,6 @@
     "title": "Dark Mystery"
   },
   {
-    "discountPercentage": 25,
-    "endDate": "2024-01-04T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3599,
-    "slug": "darkest-dungeon-2",
-    "startDate": "2023-12-11T17:00:00.000Z",
-    "title": "Darkest Dungeon II"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -4149,15 +4140,6 @@
     "title": "Far Cry 6 Standard Edition"
   },
   {
-    "discountPercentage": 85,
-    "endDate": "2024-01-10T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 9999,
-    "slug": "far-cry-new-dawn-complete",
-    "startDate": "2023-12-28T17:00:00.000Z",
-    "title": "Far Cry New Dawn Complete"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -4948,15 +4930,6 @@
     "slug": "gorogoa",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Gorogoa"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "gotham-knights",
-    "startDate": "2023-12-13T16:00:00.000Z",
-    "title": "Gotham Knights"
   },
   {
     "discountPercentage": 33,
@@ -6426,15 +6399,6 @@
     "title": "Kujlevka"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "lego-2k-drive",
-    "startDate": "2023-12-13T16:00:00.000Z",
-    "title": "LEGO\u00ae 2K Drive"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -6496,15 +6460,6 @@
     "slug": "lego-builders-journey",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "LEGO\u00ae Builder's Journey"
-  },
-  {
-    "discountPercentage": 70,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 4999,
-    "slug": "lego-star-wars-the-skywalker-saga",
-    "startDate": "2023-12-13T16:00:00.000Z",
-    "title": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   {
     "discountPercentage": 30,
@@ -7522,15 +7477,6 @@
     "slug": "morels-ed7501",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Morels: The Hunt"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 6999,
-    "slug": "mortal-kombat-1",
-    "startDate": "2023-12-13T16:00:00.000Z",
-    "title": "Mortal Kombat 1"
   },
   {
     "discountPercentage": 30,
@@ -11061,15 +11007,6 @@
     "title": "Steelrising"
   },
   {
-    "discountPercentage": 85,
-    "endDate": "2024-01-10T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "steep",
-    "startDate": "2023-12-28T16:00:00.000Z",
-    "title": "Steep Standard Edition"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -12996,15 +12933,6 @@
     "title": "Togges"
   },
   {
-    "discountPercentage": 70,
-    "endDate": "2024-01-10T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "endwar",
-    "startDate": "2023-12-28T16:00:00.000Z",
-    "title": "Tom Clancy's EndWar"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -13041,15 +12969,6 @@
     "title": "Tom Clancy's Rainbow Six\u00ae Siege & Tom Clancy's Rainbow Six\u00ae Extraction Deluxe United Bundle"
   },
   {
-    "discountPercentage": 75,
-    "endDate": "2024-01-10T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 499,
-    "slug": "splinter-cell",
-    "startDate": "2023-12-28T16:00:00.000Z",
-    "title": "Tom Clancy's Splinter Cell"
-  },
-  {
     "discountPercentage": 85,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -13057,15 +12976,6 @@
     "slug": "the-division",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Tom Clancy's The Division"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2024-01-10T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 499,
-    "slug": "splinter-cell-double-agent",
-    "startDate": "2023-12-28T16:00:00.000Z",
-    "title": "Tom Clancy\u2019s Splinter Cell Double Agent"
   },
   {
     "discountPercentage": 80,
@@ -13230,15 +13140,6 @@
     "title": "Townsmen - A Kingdom Rebuilt"
   },
   {
-    "discountPercentage": 60,
-    "endDate": "2024-01-10T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "trackmania-turbo",
-    "startDate": "2023-12-28T16:00:00.000Z",
-    "title": "Trackmania Turbo"
-  },
-  {
     "discountPercentage": 40,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -13300,33 +13201,6 @@
     "slug": "trash-sailors-3ae2e5",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Trash Sailors"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2024-01-10T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "trials-evolution",
-    "startDate": "2023-12-28T16:00:00.000Z",
-    "title": "Trials Evolution: Gold Edition"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2024-01-10T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "trials-fusion",
-    "startDate": "2023-12-28T16:00:00.000Z",
-    "title": "Trials Fusion: Standard Edition"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2024-01-10T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "trials-rising",
-    "startDate": "2023-12-28T16:00:00.000Z",
-    "title": "Trials Rising Standard Edition"
   },
   {
     "discountPercentage": 66,
@@ -14065,15 +13939,6 @@
     "slug": "watch-dogs-legion",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Watch Dogs: Legion Standard Edition"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2024-01-10T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 11999,
-    "slug": "watch-dogs-legion--ultimate-edition",
-    "startDate": "2023-12-28T16:00:00.000Z",
-    "title": "Watch Dogs: Legion Ultimate Edition"
   },
   {
     "discountPercentage": 75,
