@@ -9648,6 +9648,15 @@
     "title": "RoboCop: Rogue City"
   },
   {
+    "discountPercentage": 25,
+    "endDate": "2024-01-05T08:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2239,
+    "slug": "roboquest-9ad17a",
+    "startDate": "2023-12-21T08:00:00.000Z",
+    "title": "Roboquest"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
