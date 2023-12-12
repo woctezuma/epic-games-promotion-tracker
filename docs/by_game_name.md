@@ -88,7 +88,7 @@
 |#|arcade-paradise|Arcade Paradise|19,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|arcadegeddon|Arcadegeddon|13,49€|50|2023-12-13 16h|2024-01-10 16h|
 |#|arcatronz-2bb3f2|Arcatron-Z|3,59€|33|2023-12-13 16h|2024-01-10 16h|
-|#|arctico-c29f1d|Arctico|8,99€|80|2023-12-13 16h|2024-01-10 16h|
+|#|d853afeade394783b1a9369055779145|Arctico|8,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|are-you-smarter-than-a-5th-grader-bc328a|Are You Smarter Than A 5th Grader|29,99€|24|2023-12-13 16h|2024-01-10 16h|
 |#|arkanoid-eternal-battle-e1b089|Arkanoid - Eternal Battle|19,99€|90|2023-12-13 16h|2024-01-10 16h|
 |#|arons-adventure-1e76cd|Aron's Adventure: Magic Reborn|17,99€|40|2023-12-27 14h|2024-01-07 00h|
@@ -296,6 +296,7 @@
 |#|cyber-hook-064d2c|Cyber Hook|11,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|cyberia-bfdd70|Cyberia|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|cyberia-2-resurrection-23a676|Cyberia 2 - Resurrection|7,99€|22|2023-12-13 16h|2024-01-10 16h|
+|#|cyberpunk-2077|Cyberpunk 2077|59,99€|50|2023-12-28 16h|2024-12-10 16h|
 |#|death-stranding-directors-cut|DEATH STRANDING DIRECTOR'S CUT|39,99€|25|2023-12-13 16h|2024-01-10 16h|
 |#|deathloop|DEATHLOOP|59,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|deathloop-ghostwire-tokyo-bundle|DEATHLOOP + Ghostwire: Tokyo Bundle|102,85€|60|2023-12-13 16h|2024-01-10 16h|
@@ -421,7 +422,7 @@
 |#|electrician-simulator-164e9f|Electrician Simulator|16,19€|40|2023-12-13 16h|2024-01-10 16h|
 |#|elite-dangerous|Elite Dangerous|23,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|elypse-b177a8|Elypse|14,99€|25|2023-12-13 16h|2024-01-10 16h|
-|#|emergency-crew-1-04340a|Emergency Crew 2 Global Warming|4,49€|30|2023-12-13 16h|2024-01-10 16h|
+|#|a53ff622e6ac46428b30a3ffb97395cf|Emergency Crew 2 Global Warming|4,49€|30|2023-12-13 16h|2024-01-10 16h|
 |#|empire-of-ember-71234d|Empire of Ember|19,99€|90|2023-12-13 16h|2024-01-10 16h|
 |#|empires-of-the-undergrowth|Empires of the Undergrowth|19,99€|20|2023-12-13 16h|2024-01-10 16h|
 |#|encased|Encased|29,99€|84|2023-12-13 16h|2024-01-10 16h|
@@ -602,6 +603,7 @@
 |#|highway-driving-140121|Highway Driving|8,99€|80|2024-01-16 16h|2024-01-23 16h|
 |#|hirilun-d92aa3|Hirilun|7,99€|65|2023-12-13 16h|2024-01-10 16h|
 |#|hob|Hob|19,99€|80|2023-12-13 16h|2024-01-10 16h|
+|#|hogwarts-legacy|Hogwarts Legacy|59,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|homeworld-remastered-collection|Homeworld Remastered Collection|31,99€|90|2023-12-13 16h|2024-01-10 16h|
 |#|homeworld-deserts-of-kharak|Homeworld: Deserts of Kharak|45,99€|90|2023-12-13 16h|2024-01-10 16h|
 |#|hood-outlaws-and-legends|Hood: Outlaws & Legends|19,99€|80|2023-12-13 16h|2024-01-10 16h|
@@ -688,7 +690,7 @@
 |#|kainga-seeds-of-civilization-7314ee|Kainga: Seeds of Civilization|15,99€|35|2023-12-13 16h|2024-01-10 16h|
 |#|kana-quest-7defa0|Kana Quest|13,49€|40|2023-12-13 16h|2024-01-10 16h|
 |#|kao-the-kangaroo-62abe3|Kao the Kangaroo|29,99€|60|2023-12-13 16h|2024-01-10 16h|
-|#|kao-the-kangaroo-2000-rerelease-1b53f5|Kao the Kangaroo - 2000 re-release|1,99€|50|2023-12-13 16h|2024-01-10 16h|
+|#|c29d8884a8f94bdd836472c0cb406f4f|Kao the Kangaroo - 2000 re-release|1,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|kao-the-kangaroo-mystery-of-the-volcano-4b433a|Kao the Kangaroo - Mystery of the Volcano|1,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|kao-the-kangaroo-round-2-5d4d25|Kao the Kangaroo - Round 2|1,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|kao-the-kangaroo-trilogy|Kao the Kangaroo Trilogy|4,99€|50|2023-12-13 16h|2024-01-10 16h|
@@ -846,6 +848,7 @@
 |#|moonlighter|Moonlighter|19,99€|85|2024-02-09 16h|2024-02-12 16h|
 |#|moons-of-ardan-d4f9a3|Moons of Ardan|19,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|morels-ed7501|Morels: The Hunt|17,99€|75|2023-12-13 16h|2024-01-10 16h|
+|#|mortal-kombat-1|Mortal Kombat 1|69,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|mosaics-galore-4fbedf|Mosaics Galore|4,49€|30|2023-12-13 16h|2024-01-10 16h|
 |#|motogp-21|MotoGP™21|29,99€|85|2023-12-14 16h|2024-01-10 16h|
 |#|mount-and-blade-2|Mount & Blade II: Bannerlord|49,99€|40|2023-12-13 16h|2024-01-10 16h|
@@ -1506,7 +1509,7 @@
 |#|trivia-king-982cec|Trivia King|0,89€|30|2023-12-13 16h|2024-01-10 16h|
 |#|tropico-5|Tropico 5|19,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|tropico-6|Tropico 6|39,99€|50|2023-12-13 16h|2024-01-10 16h|
-|#|parakacuk-22f4b2|Troublemaker|19,99€|30|2023-12-21 14h|2024-01-06 05h|
+|#|5e1081fb44ef4cd8b003f4c53f682a3e|Troublemaker|19,99€|30|2023-12-21 14h|2024-01-06 05h|
 |#|true-fear-forsaken-souls-part-1-cd1eb1|True Fear: Forsaken Souls Part 1|7,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|true-fear-forsaken-souls-part-1-demo-f3c923|True Fear: Forsaken Souls Part 2|7,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|true-hate-007027|True Hate|5,99€|90|2023-12-24 03h|2024-01-15 03h|
@@ -1572,7 +1575,7 @@
 |#|wall-world-02e132|Wall World|6,89€|25|2023-12-13 16h|2024-01-10 16h|
 |#|wanderlust-travel-stories-a81f0f|Wanderlust: Travel Stories|11,99€|85|2023-12-13 16h|2024-01-10 16h|
 |#|war-mongrels|War Mongrels|37,99€|65|2023-12-20 09h|2023-12-31 09h|
-|#|warforwards-fd05ed|WarForwards|7,99€|65|2023-12-13 16h|2024-01-10 16h|
+|#|96377af0fd4f41f9a2a78c6522c24bc7|WarForwards|7,99€|65|2023-12-13 16h|2024-01-10 16h|
 |#|warhammer-40000-battlesector|Warhammer 40,000: Battlesector|31,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|boltgun-b1cb36|Warhammer 40,000: Boltgun|21,99€|32|2023-12-13 16h|2024-01-10 16h|
 |#|warhammer-40000-chaos-gate-daemonhunters|Warhammer 40,000: Chaos Gate - Daemonhunters|44,99€|60|2023-12-13 16h|2024-01-10 16h|

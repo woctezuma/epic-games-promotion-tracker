@@ -16,6 +16,7 @@
 |#|f1-23|F1® 23|69,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|hitman-3-woa|HITMAN World of Assassination|69,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|madden-nfl-24|Madden NFL 24|69,99€|60|2023-12-13 16h|2024-01-10 16h|
+|#|mortal-kombat-1|Mortal Kombat 1|69,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|need-for-speed-unbound|Need for Speed™ Unbound Standard Edition|69,99€|86|2023-12-13 16h|2024-01-10 16h|
 |#|redfall|Redfall|69,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|star-wars-jedi-survivor|STAR WARS Jedi: Survivor™|69,99€|50|2023-12-13 16h|2024-01-10 16h|
@@ -31,6 +32,7 @@
 |#|bioshock-the-collection|BioShock: The Collection|59,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|borderlands-3|Borderlands 3|59,99€|85|2023-12-13 16h|2024-01-10 16h|
 |#|borderlands-the-handsome-collection|Borderlands: The Handsome Collection|59,99€|75|2023-12-13 16h|2024-01-10 16h|
+|#|cyberpunk-2077|Cyberpunk 2077|59,99€|50|2023-12-28 16h|2024-12-10 16h|
 |#|deathloop|DEATHLOOP|59,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|dead-island-2|Dead Island 2|59,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|dead-space|Dead Space|59,99€|60|2023-12-13 16h|2024-01-10 16h|
@@ -42,6 +44,7 @@
 |#|ghost-recon-breakpoint|Ghost Recon Breakpoint Standard Edition|59,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|gotham-knights|Gotham Knights|59,99€|85|2023-12-13 18h|2024-01-10 16h|
 |#|grand-theft-auto-the-trilogy-the-definitive-edition|Grand Theft Auto: The Trilogy – The Definitive Edition|59,99€|50|2023-12-13 16h|2024-01-10 16h|
+|#|hogwarts-legacy|Hogwarts Legacy|59,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|immortals-of-aveum|Immortals of Aveum™|59,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|jurassic-world-evolution-2|Jurassic World Evolution 2|59,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|kingdom-hearts-hd-2-8-final-chapter-prologue|KINGDOM HEARTS HD 2.8 Final Chapter Prologue|59,99€|60|2023-12-13 16h|2024-01-10 16h|
@@ -735,7 +738,7 @@
 |#|trials-rising|Trials Rising Standard Edition|19,99€|80|2023-12-28 16h|2024-01-10 16h|
 |#|tribes-of-midgard|Tribes of Midgard|19,99€|66|2023-12-13 16h|2024-01-10 16h|
 |#|tropico-5|Tropico 5|19,99€|50|2023-12-13 16h|2024-01-10 16h|
-|#|parakacuk-22f4b2|Troublemaker|19,99€|30|2023-12-21 14h|2024-01-06 05h|
+|#|5e1081fb44ef4cd8b003f4c53f682a3e|Troublemaker|19,99€|30|2023-12-21 14h|2024-01-06 05h|
 |#|tunche|Tunche|19,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|tyrants-blessing-02fddd|Tyrants Blessing|19,99€|50|2023-12-21 14h|2024-01-06 05h|
 |#|unrailed-e19729|Unrailed!|19,99€|76|2023-12-20 09h|2023-12-26 23h|
@@ -1247,7 +1250,7 @@
 |#|wonhon-a-vengeful-spirit-29e3c1|Wonhon: A Vengeful Spirit|9,89€|50|2023-12-13 16h|2024-01-10 16h|
 |#|apotheorasis-a33e73|Apotheorasis • Lab of the Blind Gods|9,75€|45|2023-12-13 16h|2024-01-10 16h|
 |#|angry-video-game-nerd-1-and-2-deluxe-1eea79|Angry Video Game Nerd I & II Deluxe|8,99€|30|2024-02-09 16h|2024-02-12 16h|
-|#|arctico-c29f1d|Arctico|8,99€|80|2023-12-13 16h|2024-01-10 16h|
+|#|d853afeade394783b1a9369055779145|Arctico|8,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|asteroids-recharged|Asteroids: Recharged|8,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|beach-invasion-1944-d654d6|Beach Invasion 1944|8,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|beach-invasion-1944-d654d6|Beach Invasion 1944|8,99€|35|2024-02-09 16h|2024-02-12 16h|
@@ -1392,7 +1395,7 @@
 |#|undergrave-4d084b|Undergrave|7,99€|55|2023-12-13 16h|2024-01-10 16h|
 |#|vr-soccer-96-bcb59f|VR Soccer 96|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|vengeful-heart-5a2fb9|Vengeful Heart|7,99€|50|2023-12-13 16h|2024-01-10 16h|
-|#|warforwards-fd05ed|WarForwards|7,99€|65|2023-12-13 16h|2024-01-10 16h|
+|#|96377af0fd4f41f9a2a78c6522c24bc7|WarForwards|7,99€|65|2023-12-13 16h|2024-01-10 16h|
 |#|whispering-willows-bde110|Whispering Willows|7,99€|90|2023-12-13 16h|2024-01-10 16h|
 |#|yars-revenge-recharged-fbdc11|Yars: Recharged|7,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|zool-redimensioned-5c52a7|Zool Redimensioned|7,99€|70|2023-12-13 16h|2024-01-10 16h|
@@ -1489,7 +1492,7 @@
 |#|dead-by-murder-190eab|Dead By Murder|4,49€|80|2024-02-09 16h|2024-02-12 16h|
 |#|demon-turf-neon-splash-7ed9b5|Demon Turf Neon Splash|4,49€|30|2023-12-13 16h|2024-01-10 16h|
 |#|dojoran-1e6fb7|Dojoran|4,49€|50|2023-12-13 16h|2024-01-10 16h|
-|#|emergency-crew-1-04340a|Emergency Crew 2 Global Warming|4,49€|30|2023-12-13 16h|2024-01-10 16h|
+|#|a53ff622e6ac46428b30a3ffb97395cf|Emergency Crew 2 Global Warming|4,49€|30|2023-12-13 16h|2024-01-10 16h|
 |#|end-the-world-2f002b|End The World|4,49€|40|2023-12-13 16h|2024-01-10 16h|
 |#|fantasy-world-td-851287|Fantasy World TD|4,49€|40|2023-12-13 16h|2024-01-10 16h|
 |#|full-moon-rush-15f674|Full Moon Rush|4,49€|10|2023-12-13 16h|2024-01-10 16h|
@@ -1583,7 +1586,7 @@
 |#|necrosmith-b2ef15|Necrosmith|2,39€|40|2023-12-13 16h|2024-01-10 16h|
 |#|paramnesia-a49100|Paramnesia|2,39€|67|2023-12-13 16h|2024-01-10 16h|
 |#|buddy-and-friends-in-halloween-192190|Buddy and Friends in Halloween|1,99€|30|2023-12-13 16h|2024-01-10 16h|
-|#|kao-the-kangaroo-2000-rerelease-1b53f5|Kao the Kangaroo - 2000 re-release|1,99€|50|2023-12-13 16h|2024-01-10 16h|
+|#|c29d8884a8f94bdd836472c0cb406f4f|Kao the Kangaroo - 2000 re-release|1,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|kao-the-kangaroo-mystery-of-the-volcano-4b433a|Kao the Kangaroo - Mystery of the Volcano|1,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|kao-the-kangaroo-round-2-5d4d25|Kao the Kangaroo - Round 2|1,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|mystery-in-the-office-f629ad|Mystery in the Office|1,99€|25|2023-12-21 18h|2024-01-04 18h|
