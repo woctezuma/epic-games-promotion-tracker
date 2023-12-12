@@ -1225,6 +1225,7 @@
 |#|space-trader-merchant-marine-0426a8|Space Trader - Merchant Marine|3,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|spacebase-startopia|Spacebase Startopia - Standard Edition|39,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|spaceman-defender-757ebf|Spaceman Defender|1,79€|30|2023-12-13 16h|2024-01-10 16h|
+|#|starport-trading-company-9b3538|Spaceport Trading Company|13,49€|25|2024-01-16 16h|2024-01-23 16h|
 |#|spellforce-3|SpellForce 3 Reforced|39,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|spellforce-3-fallen-god|SpellForce 3: Fallen God|19,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|spellforce-3-soul-harvest|SpellForce 3: Soul Harvest|19,99€|75|2023-12-13 16h|2024-01-10 16h|
