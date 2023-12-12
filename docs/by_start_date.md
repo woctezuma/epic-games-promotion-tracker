@@ -1324,8 +1324,16 @@
 |#|gas-station-simulator-ee93c7|Gas Station Simulator|17,99€|30|2023-12-19 18h|2024-01-02 18h|
 |#|kerbal-space-program-2|Kerbal Space Program 2|49,99€|25|2023-12-19 18h|2024-01-10 16h|
 |#|sir-whoopass-757c5c|Sir Whoopass - Immortal Death|15,29€|50|2023-12-20 00h|2024-01-10 00h|
-|#|deponia-doomsday-1848dd|Deponia Doomsday|19,99€|90|2023-12-20 09h|2023-12-26 09h|
+|#|cryofall-331358|CryoFall|19,99€|81|2023-12-20 09h|2023-12-26 23h|
+|#|deponia-doomsday-1848dd|Deponia Doomsday|19,99€|90|2023-12-20 09h|2023-12-26 23h|
+|#|iron-danger-b4320c|Iron Danger|19,98€|90|2023-12-20 09h|2023-12-26 23h|
+|#|jars-e39063|JARS|11,99€|84|2023-12-20 09h|2023-12-26 23h|
+|#|shadow-tactics-aikos-choice-5678c1|Shadow Tactics - Aiko's Choice|19,98€|70|2023-12-20 09h|2023-12-26 23h|
+|#|unrailed-e19729|Unrailed!|19,99€|76|2023-12-20 09h|2023-12-26 23h|
+|#|velone-3c0487|VELONE|14,99€|90|2023-12-20 09h|2023-12-26 23h|
 |#|war-mongrels|War Mongrels|37,99€|65|2023-12-20 09h|2023-12-31 09h|
+|#|warpips-57e2c4|Warpips|14,99€|81|2023-12-20 09h|2023-12-26 23h|
+|#|zombie-rollerz-7aa027|Zombie Rollerz: Pinball Heroes|14,99€|81|2023-12-20 09h|2023-12-26 23h|
 |#|endlessdungeonnewgene|ENDLESS™ Dungeon|29,99€|10|2023-12-20 12h|2024-01-10 12h|
 |#|humankind|HUMANKIND™ Standard Edition|49,99€|75|2023-12-20 18h|2024-01-10 18h|
 |#|flat-heroes-fec628|Flat Heroes|9,99€|50|2023-12-21 00h|2024-01-04 12h|
@@ -1450,6 +1458,7 @@
 |#|saboteur-sio-123236|Saboteur SiO|9,89€|20|2024-01-05 23h|2024-02-04 23h|
 |#|saboteur-f3d01d|Saboteur!|7,19€|20|2024-01-05 23h|2024-02-04 23h|
 |#|1428-shadows-over-silesia-266e5f|1428: Shadows over Silesia|19,99€|50|2024-01-07 14h|2024-01-10 16h|
+|#|outbreak-the-new-nightmare-revisited-90517a|Outbreak The New Nightmare Revisited|8,99€|50|2024-01-09 16h|2024-01-16 16h|
 |#|trex-dinosaur-game-d30355|T-Rex Dinosaur Game|0,89€|50|2024-01-09 22h|2024-01-25 22h|
 |#|eden-island-8cd344|Eden Island|8,99€|30|2024-01-10 12h|2024-01-15 15h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|70|2024-01-11 22h|2024-01-30 22h|

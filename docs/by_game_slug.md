@@ -282,6 +282,7 @@
 |#|crown-of-the-empire-86cf18|Crown Of The Empire Collectors Edition|4,49€|30|2023-12-13 16h|2024-01-10 16h|
 |#|crowns-and-pawns-kingdom-of-deceit-51b045|Crowns and Pawns: Kingdom of Deceit|19,99€|55|2023-12-13 16h|2024-01-10 16h|
 |#|crying-suns|Crying Suns|21,99€|70|2023-12-13 16h|2024-01-10 16h|
+|#|cryofall-331358|CryoFall|19,99€|81|2023-12-20 09h|2023-12-26 23h|
 |#|culpa-innata-8997ac|Culpa Innata|9,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|culpa-innata-8997ac|Culpa Innata|9,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|curious-expedition-2-8cb901|Curious Expedition 2|19,99€|55|2023-12-13 16h|2024-01-10 16h|
@@ -335,7 +336,7 @@
 |#|demon-turf|Demon Turf|21,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|demon-turf-neon-splash-7ed9b5|Demon Turf Neon Splash|4,49€|30|2023-12-13 16h|2024-01-10 16h|
 |#|demons-tilt|DEMON'S TILT|16,79€|50|2023-12-13 16h|2024-01-10 16h|
-|#|deponia-doomsday-1848dd|Deponia Doomsday|19,99€|90|2023-12-20 09h|2023-12-26 09h|
+|#|deponia-doomsday-1848dd|Deponia Doomsday|19,99€|90|2023-12-20 09h|2023-12-26 23h|
 |#|deponia-full-scrap-collection|Deponia: Full Scrap Collection|44,99€|90|2023-12-13 16h|2024-01-10 16h|
 |#|descent-62cef4|Descent|7,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|descent-ii-fe049e|Descent II|7,99€|22|2023-12-13 16h|2024-01-10 16h|
@@ -647,6 +648,7 @@
 |#|insurmountable-b02c31|Insurmountable|19,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|into-the-breach|Into the Breach|14,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|into-the-breach|Into the Breach|14,99€|50|2024-02-09 16h|2024-02-12 16h|
+|#|iron-danger-b4320c|Iron Danger|19,98€|90|2023-12-20 09h|2023-12-26 23h|
 |#|iron-dungeon-4345a1|Iron Dungeon|8,99€|10|2023-12-13 16h|2024-01-10 16h|
 |#|iron-harvest|Iron Harvest|29,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|ironcast|Ironcast|12,99€|80|2023-12-13 16h|2024-01-10 16h|
@@ -669,6 +671,7 @@
 |#|jackbox-party-pack-7|The Jackbox Party Pack 7|23,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|jackbox-party-pack-8|The Jackbox Party Pack 8|23,99€|40|2023-12-13 16h|2024-01-10 16h|
 |#|jackbox-party-pack-9|The Jackbox Party Pack 9|29,99€|30|2023-12-13 16h|2024-01-10 16h|
+|#|jars-e39063|JARS|11,99€|84|2023-12-20 09h|2023-12-26 23h|
 |#|jennifer-wilde-unlikely-revolutionaries-7eda5e|Jennifer Wilde Unlikely Revolutionaries|15,29€|50|2023-12-13 16h|2024-01-10 16h|
 |#|jetboard-joust|Jetboard Joust|7,99€|90|2023-12-21 14h|2024-01-06 04h|
 |#|joggernauts-a7767f|Joggernauts|11,99€|80|2023-12-13 16h|2024-01-10 16h|
@@ -934,6 +937,7 @@
 |#|outbreak-endless-nightmares-restless-dreams-40507b|Outbreak Endless Nightmares Restless Dreams|13,49€|50|2023-12-13 16h|2024-01-10 16h|
 |#|outbreak-epidemic-viral-terror-54b6e9|Outbreak Epidemic Viral Terror|8,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|outbreak-lost-hope-broken-faith-77b3f9|Outbreak Lost Hope Broken Faith|8,99€|50|2023-12-13 16h|2024-01-10 16h|
+|#|outbreak-the-new-nightmare-revisited-90517a|Outbreak The New Nightmare Revisited|8,99€|50|2024-01-09 16h|2024-01-16 16h|
 |#|outbreak-the-nightmare-chronicles-reinvestigated-b631d4|Outbreak The Nightmare Chronicles Reinvestigated|8,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|outcore-desktop-adventure-eb3aff|Outcore - Desktop Adventure|8,99€|30|2024-01-16 16h|2024-01-23 16h|
 |#|outerverse-82d7ce|Outerverse|19,99€|75|2023-12-21 14h|2024-01-06 05h|
@@ -1148,6 +1152,7 @@
 |#|seven-enhanced-edition-9ba7c7|Seven - Enhanced Edition|27,99€|85|2023-12-13 16h|2024-01-10 16h|
 |#|shadow-gambit-the-cursed-crew-0bca60|Shadow Gambit: The Cursed Crew|39,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|shadow-of-the-tomb-raider|Shadow of the Tomb Raider: Definitive Edition|39,99€|75|2023-12-13 16h|2024-01-10 16h|
+|#|shadow-tactics-aikos-choice-5678c1|Shadow Tactics - Aiko's Choice|19,98€|70|2023-12-20 09h|2023-12-26 23h|
 |#|shadowrun-dragonfall|Shadowrun: Dragonfall - Director’s Cut|14,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|shadowrun-hong-kong|Shadowrun Hong Kong - Extended Edition|19,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|shadowrun-returns|Shadowrun Returns|14,99€|75|2023-12-13 16h|2024-01-10 16h|
@@ -1512,6 +1517,7 @@
 |#|ungate-df09c8|Ungate|22,39€|10|2023-12-13 16h|2024-01-10 16h|
 |#|universe-sandbox|Universe Sandbox|28,99€|33|2023-12-13 16h|2024-01-10 16h|
 |#|uno|UNO Standard Edition|9,99€|60|2023-12-13 16h|2024-01-10 16h|
+|#|unrailed-e19729|Unrailed!|19,99€|76|2023-12-20 09h|2023-12-26 23h|
 |#|untitled-goose-game|Untitled Goose Game|15,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|unusual-findings-6997e3|Unusual Findings|19,99€|45|2023-12-13 16h|2024-01-10 16h|
 |#|upaon-a-snakes-journey-672f92|Upaon A Snakes Journey|1,99€|50|2023-12-13 16h|2024-01-10 16h|
@@ -1527,6 +1533,7 @@
 |#|vcb-why-city-4k-68d7f2|VCB Why City 4k|4,49€|80|2023-12-13 16h|2024-01-10 16h|
 |#|vectoroids-e30c27|Vectoroids|1,79€|30|2023-12-13 16h|2024-01-10 16h|
 |#|vegas-make-it-big-7584d3|Vegas Make It Big|3,99€|90|2023-12-13 16h|2024-01-10 16h|
+|#|velone-3c0487|VELONE|14,99€|90|2023-12-20 09h|2023-12-26 23h|
 |#|vengeful-heart-5a2fb9|Vengeful Heart|7,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|verdun|Verdun|19,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|vernal-edge-fdfa3e|Vernal Edge|16,99€|35|2023-12-13 16h|2024-01-10 16h|
@@ -1556,6 +1563,7 @@
 |#|warhammer-age-of-sigmar-realms-of-ruin|Warhammer Age of Sigmar: Realms of Ruin|59,99€|40|2023-12-21 18h|2024-01-04 18h|
 |#|warhammer-age-of-sigmar-storm-ground|Warhammer Age of Sigmar: Storm Ground|19,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|warhammer-mechanicus-0e4b71|Warhammer 40,000: Mechanicus - Standard Edition|29,99€|85|2023-12-13 16h|2024-01-10 16h|
+|#|warpips-57e2c4|Warpips|14,99€|81|2023-12-20 09h|2023-12-26 23h|
 |#|warrior-kings-d07850|Warrior Kings|3,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|warrior-kings-d07850|Warrior Kings|3,99€|70|2024-02-09 16h|2024-02-12 16h|
 |#|watch-dogs|Watch Dogs Standard Edition|29,99€|85|2023-12-13 16h|2024-01-10 16h|
@@ -1610,5 +1618,6 @@
 |#|zen-triple-rpg-bundle|ZEN Triple RPG Bundle|47,99€|66|2023-12-13 16h|2024-01-10 16h|
 |#|zoeti-3ccef9|Zoeti|15,99€|15|2023-12-13 16h|2024-01-10 16h|
 |#|zombi|ZOMBI|15,99€|75|2023-12-13 16h|2024-01-10 16h|
+|#|zombie-rollerz-7aa027|Zombie Rollerz: Pinball Heroes|14,99€|81|2023-12-20 09h|2023-12-26 23h|
 |#|zool-redimensioned-5c52a7|Zool Redimensioned|7,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|zorro-the-chronicles|Zorro The Chronicles|24,99€|70|2023-12-13 16h|2024-01-10 16h|
