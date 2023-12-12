@@ -1270,7 +1270,7 @@
 |#|tornado-814fc7|Tornado|8,99€|22|2023-12-13 16h|2024-01-10 16h|
 |#|witchcrafty-b7c90a|Witchcrafty|8,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|world-of-contraptions-6dbc07|World of Contraptions|8,99€|70|2023-12-13 16h|2024-01-10 16h|
-|#|xr22seaguard-480497|XR22-SEAGUARD|8,99€|20|2023-12-29 00h|2024-01-07 00h|
+|#|xr22seaguard-480497|XR22-SEAGUARD|8,99€|30|2023-12-29 00h|2024-01-07 00h|
 |#|deltav-rings-of-saturn-4cd187|ΔV: Rings of Saturn|8,99€|42|2023-12-13 16h|2024-01-10 16h|
 |#|deltav-rings-of-saturn-4cd187|ΔV: Rings of Saturn|8,99€|37|2024-02-09 16h|2024-02-12 16h|
 |#|dream-of-tiny-snow-36f018|Dream of Tiny Snow|8,09€|15|2023-12-13 16h|2024-01-10 16h|
