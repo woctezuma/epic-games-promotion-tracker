@@ -796,7 +796,7 @@
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 899,
-    "slug": "arctico-c29f1d",
+    "slug": "d853afeade394783b1a9369055779145",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Arctico"
   },
@@ -2664,6 +2664,15 @@
     "title": "Cyberia 2 - Resurrection"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-12-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "cyberpunk-2077",
+    "startDate": "2023-12-28T16:00:00.000Z",
+    "title": "Cyberpunk 2077"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -3793,7 +3802,7 @@
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 449,
-    "slug": "emergency-crew-1-04340a",
+    "slug": "a53ff622e6ac46428b30a3ffb97395cf",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Emergency Crew 2 Global Warming"
   },
@@ -5418,6 +5427,15 @@
     "title": "Hob"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "hogwarts-legacy",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Hogwarts Legacy"
+  },
+  {
     "discountPercentage": 90,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -6196,7 +6214,7 @@
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 199,
-    "slug": "kao-the-kangaroo-2000-rerelease-1b53f5",
+    "slug": "c29d8884a8f94bdd836472c0cb406f4f",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Kao the Kangaroo - 2000 re-release"
   },
@@ -7612,6 +7630,15 @@
     "slug": "morels-ed7501",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Morels: The Hunt"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 6999,
+    "slug": "mortal-kombat-1",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "Mortal Kombat 1"
   },
   {
     "discountPercentage": 30,
@@ -13558,7 +13585,7 @@
     "endDate": "2024-01-06T05:00:00.000Z",
     "isFree": false,
     "originalPrice": 1999,
-    "slug": "parakacuk-22f4b2",
+    "slug": "5e1081fb44ef4cd8b003f4c53f682a3e",
     "startDate": "2023-12-21T14:00:00.000Z",
     "title": "Troublemaker"
   },
@@ -14152,7 +14179,7 @@
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 799,
-    "slug": "warforwards-fd05ed",
+    "slug": "96377af0fd4f41f9a2a78c6522c24bc7",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "WarForwards"
   },
