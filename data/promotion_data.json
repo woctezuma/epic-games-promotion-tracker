@@ -2502,6 +2502,15 @@
     "title": "Crying Suns"
   },
   {
+    "discountPercentage": 81,
+    "endDate": "2023-12-26T23:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "cryofall-331358",
+    "startDate": "2023-12-20T09:00:00.000Z",
+    "title": "CryoFall"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -3025,7 +3034,7 @@
   },
   {
     "discountPercentage": 90,
-    "endDate": "2023-12-26T09:00:00.000Z",
+    "endDate": "2023-12-26T23:00:00.000Z",
     "isFree": false,
     "originalPrice": 1999,
     "slug": "deponia-doomsday-1848dd",
@@ -5787,6 +5796,15 @@
     "title": "Into the Breach"
   },
   {
+    "discountPercentage": 90,
+    "endDate": "2023-12-26T23:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1998,
+    "slug": "iron-danger-b4320c",
+    "startDate": "2023-12-20T09:00:00.000Z",
+    "title": "Iron Danger"
+  },
+  {
     "discountPercentage": 10,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -5884,6 +5902,15 @@
     "slug": "its-a-wrap-f392ae",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "It's a Wrap!"
+  },
+  {
+    "discountPercentage": 84,
+    "endDate": "2023-12-26T23:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "jars-e39063",
+    "startDate": "2023-12-20T09:00:00.000Z",
+    "title": "JARS"
   },
   {
     "discountPercentage": 55,
@@ -8290,6 +8317,15 @@
   },
   {
     "discountPercentage": 50,
+    "endDate": "2024-01-16T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "outbreak-the-new-nightmare-revisited-90517a",
+    "startDate": "2024-01-09T16:00:00.000Z",
+    "title": "Outbreak The New Nightmare Revisited"
+  },
+  {
+    "discountPercentage": 50,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 899,
@@ -10249,6 +10285,15 @@
     "slug": "shadow-gambit-the-cursed-crew-0bca60",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Shadow Gambit: The Cursed Crew"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2023-12-26T23:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1998,
+    "slug": "shadow-tactics-aikos-choice-5678c1",
+    "startDate": "2023-12-20T09:00:00.000Z",
+    "title": "Shadow Tactics - Aiko's Choice"
   },
   {
     "discountPercentage": 75,
@@ -13563,6 +13608,15 @@
     "title": "Universe Sandbox"
   },
   {
+    "discountPercentage": 76,
+    "endDate": "2023-12-26T23:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "unrailed-e19729",
+    "startDate": "2023-12-20T09:00:00.000Z",
+    "title": "Unrailed!"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -13633,6 +13687,15 @@
     "slug": "vcb-why-city-4k-68d7f2",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "VCB Why City 4k"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2023-12-26T23:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "velone-3c0487",
+    "startDate": "2023-12-20T09:00:00.000Z",
+    "title": "VELONE"
   },
   {
     "discountPercentage": 22,
@@ -14029,6 +14092,15 @@
     "slug": "warhammer-age-of-sigmar-storm-ground",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Warhammer Age of Sigmar: Storm Ground"
+  },
+  {
+    "discountPercentage": 81,
+    "endDate": "2023-12-26T23:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "warpips-57e2c4",
+    "startDate": "2023-12-20T09:00:00.000Z",
+    "title": "Warpips"
   },
   {
     "discountPercentage": 80,
@@ -14434,6 +14506,15 @@
     "slug": "zoeti-3ccef9",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Zoeti"
+  },
+  {
+    "discountPercentage": 81,
+    "endDate": "2023-12-26T23:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "zombie-rollerz-7aa027",
+    "startDate": "2023-12-20T09:00:00.000Z",
+    "title": "Zombie Rollerz: Pinball Heroes"
   },
   {
     "discountPercentage": 70,
