@@ -1581,7 +1581,7 @@
 |#|xcom-2|XCOM® 2|49,99€|95|2023-12-13 16h|2024-01-10 16h|
 |#|xenonauts-2-42a236|Xenonauts 2|39,99€|25|2023-12-13 16h|2024-01-10 16h|
 |#|xiii-07f8c3|XIII|19,99€|80|2023-12-13 16h|2024-01-10 16h|
-|#|xr22seaguard-480497|XR22-SEAGUARD|8,99€|20|2023-12-29 00h|2024-01-07 00h|
+|#|xr22seaguard-480497|XR22-SEAGUARD|8,99€|30|2023-12-29 00h|2024-01-07 00h|
 |#|yars-revenge-recharged-fbdc11|Yars: Recharged|7,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|yokus-island-express|Yoku's Island Express|19,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|yooka-laylee|Yooka-Laylee|39,99€|80|2023-12-13 16h|2024-01-10 16h|
