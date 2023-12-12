@@ -572,7 +572,7 @@
 |#|lego-brawls|LEGO® Brawls|7,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|lego-bricktales-7ccf9b|LEGO® Bricktales|29,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|lego-builders-journey|LEGO® Builder's Journey|16,99€|75|2023-12-13 16h|2024-01-10 16h|
-|#|lego-star-wars-the-skywalker-saga|LEGO® Star Wars™: The Skywalker Saga|49,99€|80|2023-12-13 16h|2024-01-10 18h|
+|#|lego-star-wars-the-skywalker-saga|LEGO® Star Wars™: The Skywalker Saga|49,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|love-3-c2516f|LOVE 3|8,99€|30|2023-12-13 16h|2024-01-10 16h|
 |#|laika-3293ee|Laika: Aged Through Blood|19,99€|20|2023-12-13 16h|2024-01-10 16h|
 |#|land-of-the-vikings-d542d8|Land of the Vikings|24,50€|25|2023-12-13 16h|2024-01-10 16h|
@@ -984,7 +984,7 @@
 |#|steel-fury-kharkov-1942-cdfbd6|Steel Fury Kharkov 1942|3,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|steel-rats-445306|Steel Rats|9,99€|90|2023-12-13 16h|2024-01-10 16h|
 |#|steelrising|Steelrising|49,99€|60|2023-12-13 16h|2024-01-10 16h|
-|#|stellar-interface-d14cc4|Stellar Interface|11,69€|80|2023-12-13 16h|2024-01-10 16h|
+|#|stellar-interface-d14cc4|Stellar Interface|11,69€|70|2023-12-13 16h|2024-01-10 16h|
 |#|stick-it-to-the-man|Stick It To The Man!|5,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|stillborn-slayer-298dd7|Stillborn Slayer|9,89€|10|2023-12-13 16h|2024-01-10 16h|
 |#|stonekeep-d87a3b|Stonekeep|7,99€|22|2023-12-13 16h|2024-01-10 16h|
@@ -1298,7 +1298,7 @@
 |#|thehunter-call-of-the-wild|theHunter: Call of the Wild™|19,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|while-true-learn|while True: learn()|9,99€|35|2023-12-13 16h|2024-01-10 16h|
 |#|deltav-rings-of-saturn-4cd187|ΔV: Rings of Saturn|8,99€|42|2023-12-13 16h|2024-01-10 16h|
-|#|gotham-knights|Gotham Knights|59,99€|85|2023-12-13 18h|2024-01-10 18h|
+|#|gotham-knights|Gotham Knights|59,99€|85|2023-12-13 18h|2024-01-10 16h|
 |#|hot-wheels-unleashed|HOT WHEELS UNLEASHED™|49,99€|85|2023-12-14 16h|2024-01-10 16h|
 |#|motogp-21|MotoGP™21|29,99€|85|2023-12-14 16h|2024-01-10 16h|
 |#|seaorama-world-of-shipping-ff5abb|SeaOrama: World of Shipping|19,99€|10|2023-12-14 16h|2023-12-21 16h|
@@ -1324,11 +1324,25 @@
 |#|gas-station-simulator-ee93c7|Gas Station Simulator|17,99€|30|2023-12-19 18h|2024-01-02 18h|
 |#|kerbal-space-program-2|Kerbal Space Program 2|49,99€|25|2023-12-19 18h|2024-01-10 16h|
 |#|sir-whoopass-757c5c|Sir Whoopass - Immortal Death|15,29€|50|2023-12-20 00h|2024-01-10 00h|
+|#|aer-memories-of-old|AER Memories of Old|14,99€|90|2023-12-20 09h|2023-12-26 23h|
+|#|annas-quest-fbefa2|Anna's Quest|19,99€|90|2023-12-20 09h|2023-12-26 23h|
+|#|children-of-silentown-52cc21|Children of Silentown|19,99€|55|2023-12-20 09h|2023-12-26 23h|
 |#|cryofall-331358|CryoFall|19,99€|81|2023-12-20 09h|2023-12-26 23h|
 |#|deponia-doomsday-1848dd|Deponia Doomsday|19,99€|90|2023-12-20 09h|2023-12-26 23h|
+|#|deponia-the-complete-journey|Deponia: The Complete Journey|29,99€|90|2023-12-20 09h|2023-12-26 23h|
+|#|fire-44c606|Fire: Ungh’s Quest|9,99€|90|2023-12-20 09h|2023-12-26 23h|
+|#|iratus-d0e5ba|Iratus: Lord of the Dead|29,99€|87|2023-12-20 09h|2023-12-26 23h|
 |#|iron-danger-b4320c|Iron Danger|19,98€|90|2023-12-20 09h|2023-12-26 23h|
 |#|jars-e39063|JARS|11,99€|84|2023-12-20 09h|2023-12-26 23h|
+|#|ken-follets-the-pillars-of-the-earth|Ken Follett's The Pillars of the Earth|19,99€|90|2023-12-20 09h|2023-12-26 23h|
+|#|life-of-delta-44f4e4|Life of Delta|19,99€|60|2023-12-20 09h|2023-12-26 23h|
+|#|partisans-1941|Partisans 1941|39,99€|77|2023-12-20 09h|2023-12-26 23h|
 |#|shadow-tactics-aikos-choice-5678c1|Shadow Tactics - Aiko's Choice|19,98€|70|2023-12-20 09h|2023-12-26 23h|
+|#|shadow-tactics-anniversary-bundle|Shadow Tactics: Anniversary Bundle|66,44€|81|2023-12-20 09h|2023-12-26 23h|
+|#|shadow-tactics|Shadow Tactics: Blades of the Shogun|39,99€|90|2023-12-20 09h|2023-12-26 23h|
+|#|silence-57bc4e|Silence|19,99€|90|2023-12-20 09h|2023-12-26 23h|
+|#|the-lord-of-the-rings-gollum|The Lord of the Rings - Gollum™|49,99€|60|2023-12-20 09h|2023-12-26 23h|
+|#|the-suicide-of-rachel-foster-1dc01b|The Suicide of Rachel Foster|16,99€|90|2023-12-20 09h|2023-12-26 23h|
 |#|unrailed-e19729|Unrailed!|19,99€|76|2023-12-20 09h|2023-12-26 23h|
 |#|velone-3c0487|VELONE|14,99€|90|2023-12-20 09h|2023-12-26 23h|
 |#|war-mongrels|War Mongrels|37,99€|65|2023-12-20 09h|2023-12-31 09h|
