@@ -4131,6 +4131,15 @@
     "title": "Far Cry 6 Standard Edition"
   },
   {
+    "discountPercentage": 85,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 9999,
+    "slug": "far-cry-new-dawn-complete",
+    "startDate": "2023-12-28T16:00:00.000Z",
+    "title": "Far Cry New Dawn Complete"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -6388,6 +6397,15 @@
     "slug": "kujlevka-9b53bb",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Kujlevka"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "lego-2k-drive",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "LEGO\u00ae 2K Drive"
   },
   {
     "discountPercentage": 75,
@@ -11007,6 +11025,15 @@
     "title": "Steelrising"
   },
   {
+    "discountPercentage": 85,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "steep",
+    "startDate": "2023-12-28T16:00:00.000Z",
+    "title": "Steep Standard Edition"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -12690,6 +12717,15 @@
     "title": "The Witch of Fern Island"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4996,
+    "slug": "the-witcher-3-wild-hunt",
+    "startDate": "2023-12-28T15:00:00.000Z",
+    "title": "The Witcher 3: Wild Hunt \u2013 Complete Edition"
+  },
+  {
     "discountPercentage": 65,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -12933,6 +12969,15 @@
     "title": "Togges"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "endwar",
+    "startDate": "2023-12-28T16:00:00.000Z",
+    "title": "Tom Clancy's EndWar"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -12969,6 +13014,15 @@
     "title": "Tom Clancy's Rainbow Six\u00ae Siege & Tom Clancy's Rainbow Six\u00ae Extraction Deluxe United Bundle"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 499,
+    "slug": "splinter-cell",
+    "startDate": "2023-12-28T16:00:00.000Z",
+    "title": "Tom Clancy's Splinter Cell"
+  },
+  {
     "discountPercentage": 85,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -12976,6 +13030,15 @@
     "slug": "the-division",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Tom Clancy's The Division"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 499,
+    "slug": "splinter-cell-double-agent",
+    "startDate": "2023-12-28T16:00:00.000Z",
+    "title": "Tom Clancy\u2019s Splinter Cell Double Agent"
   },
   {
     "discountPercentage": 80,
@@ -13140,6 +13203,15 @@
     "title": "Townsmen - A Kingdom Rebuilt"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "trackmania-turbo",
+    "startDate": "2023-12-28T16:00:00.000Z",
+    "title": "Trackmania Turbo"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -13201,6 +13273,33 @@
     "slug": "trash-sailors-3ae2e5",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Trash Sailors"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "trials-evolution",
+    "startDate": "2023-12-28T16:00:00.000Z",
+    "title": "Trials Evolution: Gold Edition"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "trials-fusion",
+    "startDate": "2023-12-28T16:00:00.000Z",
+    "title": "Trials Fusion: Standard Edition"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "trials-rising",
+    "startDate": "2023-12-28T16:00:00.000Z",
+    "title": "Trials Rising Standard Edition"
   },
   {
     "discountPercentage": 66,
@@ -13788,6 +13887,15 @@
     "title": "WRC Generations"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "ww1-game-series-bundle",
+    "startDate": "2023-12-13T16:00:00.000Z",
+    "title": "WW1 Game Series Bundle"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -13939,6 +14047,15 @@
     "slug": "watch-dogs-legion",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Watch Dogs: Legion Standard Edition"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 11999,
+    "slug": "watch-dogs-legion--ultimate-edition",
+    "startDate": "2023-12-28T16:00:00.000Z",
+    "title": "Watch Dogs: Legion Ultimate Edition"
   },
   {
     "discountPercentage": 75,
