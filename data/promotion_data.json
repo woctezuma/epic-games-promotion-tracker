@@ -11025,6 +11025,15 @@
     "title": "Spaceman Defender"
   },
   {
+    "discountPercentage": 25,
+    "endDate": "2024-01-23T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "starport-trading-company-9b3538",
+    "startDate": "2024-01-16T16:00:00.000Z",
+    "title": "Spaceport Trading Company"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
