@@ -796,7 +796,7 @@
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 899,
-    "slug": "d853afeade394783b1a9369055779145",
+    "slug": "arctico-c29f1d",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Arctico"
   },
@@ -2457,6 +2457,15 @@
     "title": "Control"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2023-12-21T08:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "cookie-cutter-d25fbc",
+    "startDate": "2023-12-14T08:00:00.000Z",
+    "title": "Cookie Cutter"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-01-06T05:00:00.000Z",
     "isFree": false,
@@ -3802,7 +3811,7 @@
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 449,
-    "slug": "a53ff622e6ac46428b30a3ffb97395cf",
+    "slug": "emergency-crew-1-04340a",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Emergency Crew 2 Global Warming"
   },
@@ -6214,7 +6223,7 @@
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 199,
-    "slug": "c29d8884a8f94bdd836472c0cb406f4f",
+    "slug": "kao-the-kangaroo-2000-rerelease-1b53f5",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "Kao the Kangaroo - 2000 re-release"
   },
@@ -13585,7 +13594,7 @@
     "endDate": "2024-01-06T05:00:00.000Z",
     "isFree": false,
     "originalPrice": 1999,
-    "slug": "5e1081fb44ef4cd8b003f4c53f682a3e",
+    "slug": "parakacuk-22f4b2",
     "startDate": "2023-12-21T14:00:00.000Z",
     "title": "Troublemaker"
   },
@@ -14179,7 +14188,7 @@
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 799,
-    "slug": "96377af0fd4f41f9a2a78c6522c24bc7",
+    "slug": "warforwards-fd05ed",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "WarForwards"
   },
