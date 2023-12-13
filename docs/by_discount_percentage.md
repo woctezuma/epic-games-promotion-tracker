@@ -1,6 +1,7 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|mysterygame-1|Mystery Game Day 1|0,00€|100|2023-12-13 16h|2023-12-19 16h|
+|#|destiny-2--legacy-collection-2023|Destiny 2: Legacy Collection|0,00€|100|2023-12-13 16h|2023-12-19 16h|
+|#|mysterygame-2|Mystery Game Day 2|0,00€|100|2023-12-20 16h|2023-12-21 16h|
 |#|innerspace|InnerSpace|19,99€|95|2023-12-13 16h|2024-01-10 16h|
 |#|star-wars-squadrons|STAR WARS™: Squadrons|39,99€|95|2023-12-13 16h|2024-01-10 16h|
 |#|xcom-2|XCOM® 2|49,99€|95|2023-12-13 16h|2024-01-10 16h|
