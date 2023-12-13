@@ -351,6 +351,7 @@
 |#|desert-child-be4072|Desert Child|9,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|desperados-3|Desperados III|39,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|despots-game-f61a0a|Despot's Game|19,99€|50|2023-12-13 16h|2024-01-10 16h|
+|#|destiny-2--legacy-collection-2023|Destiny 2: Legacy Collection|0,00€|100|2023-12-13 16h|2023-12-19 16h|
 |#|destroy-all-humans|Destroy All Humans!|29,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|destroy-all-humans-2-reprobed|Destroy All Humans! 2 - Reprobed|39,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|dice-legacy|Dice Legacy|14,99€|75|2023-12-13 16h|2024-01-10 16h|
@@ -875,7 +876,7 @@
 |#|my-time-at-portia|My Time At Portia|29,99€|80|2023-12-13 16h|2024-01-10 16h|
 |#|my-time-at-sandrock|My Time at Sandrock|34,99€|20|2023-12-13 16h|2024-01-10 16h|
 |#|mysteries-of-the-undead-46140a|Mysteries of the Undead|4,49€|30|2023-12-13 16h|2024-01-10 16h|
-|#|mysterygame-1|Mystery Game Day 1|0,00€|100|2023-12-13 16h|2023-12-19 16h|
+|#|mysterygame-2|Mystery Game Day 2|0,00€|100|2023-12-20 16h|2023-12-21 16h|
 |#|mystery-solitaire-the-black-raven-65336d|Mystery Solitaire. The Black Raven|4,49€|30|2023-12-13 16h|2024-01-10 16h|
 |#|mystery-in-the-office-f629ad|Mystery in the Office|1,99€|25|2023-12-21 18h|2024-01-04 18h|
 |#|mythforce-d2710b|MythForce|26,99€|50|2023-12-13 16h|2024-01-10 16h|
