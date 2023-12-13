@@ -14,6 +14,7 @@
 |#|a-game-of-thrones-5858a3|A Game Of Thrones: The Board Game Digital Edition|19,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|a-good-snowman-is-hard-to-build|A Good Snowman is Hard to Build|13,49€|75|2023-12-22 01h|2024-01-10 23h|
 |#|a-heros-rest-67f117|A Hero's Rest: An RPG Town Simulator|24,50€|35|2023-12-13 16h|2024-01-10 16h|
+|#|a-jugglers-tale|A Juggler's Tale|14,99€|80|2023-12-16 18h|2024-01-15 18h|
 |#|a-knights-quest|A Knights Quest|24,99€|90|2023-12-18 18h|2024-01-17 18h|
 |#|a-long-journey-to-an-uncertain-end-514c7e|A Long Journey to an Uncertain End|22,39€|25|2023-12-13 16h|2024-01-10 16h|
 |#|a-monsters-expedition|A Monster's Expedition|22,39€|50|2023-12-22 01h|2024-01-10 23h|
@@ -477,6 +478,7 @@
 |#|far-cry-new-dawn-complete|Far Cry New Dawn Complete|99,99€|85|2023-12-28 16h|2024-01-10 16h|
 |#|far-cry-new-dawn-ultimate|Far Cry New Dawn Ultimate|119,99€|85|2023-12-13 16h|2024-01-10 16h|
 |#|far-cry-primal|Far Cry Primal Standard Edition|29,99€|75|2023-12-28 16h|2024-01-10 16h|
+|#|far-lone-sails|FAR: Lone Sails|14,99€|80|2023-12-16 18h|2024-01-15 18h|
 |#|fell-seal-arbiters-mark|Fell Seal: Arbiter's Mark|29,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|figment|Figment|19,99€|60|2023-12-13 16h|2024-01-10 16h|
 |#|figment2-creed-valley|Figment 2: Creed Valley|24,99€|50|2023-12-13 16h|2024-01-10 16h|
