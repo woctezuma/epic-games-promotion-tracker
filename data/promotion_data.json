@@ -144,6 +144,15 @@
     "title": "A Hero's Rest: An RPG Town Simulator"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-01-15T18:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "a-jugglers-tale",
+    "startDate": "2023-12-16T18:00:00.000Z",
+    "title": "A Juggler's Tale"
+  },
+  {
     "discountPercentage": 90,
     "endDate": "2024-01-17T18:00:00.000Z",
     "isFree": false,
@@ -4048,6 +4057,15 @@
     "slug": "far-changing-tides",
     "startDate": "2023-12-13T16:00:00.000Z",
     "title": "FAR: Changing Tides"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-15T18:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "far-lone-sails",
+    "startDate": "2023-12-16T18:00:00.000Z",
+    "title": "FAR: Lone Sails"
   },
   {
     "discountPercentage": 85,
