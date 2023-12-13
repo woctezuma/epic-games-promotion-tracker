@@ -388,6 +388,7 @@
 |#|hellpoint|Hellpoint|27,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|new-super-luckys-tale|New Super Lucky's Tale|27,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|seven-enhanced-edition-9ba7c7|Seven - Enhanced Edition|27,99€|85|2023-12-13 16h|2024-01-10 16h|
+|#|the-long-dark|The Long Dark|27,99€|50|2023-12-14 11h|2024-01-10 11h|
 |#|void-bastards|Void Bastards|27,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|amber-1e2240|Amber|26,99€|34|2024-02-14 13h|2024-02-20 13h|
 |#|bramble-the-mountain-king-c0d1c6|Bramble The Mountain King|26,99€|50|2023-12-13 16h|2024-01-10 16h|
@@ -559,6 +560,7 @@
 |#|big-pharma|Big Pharma|19,99€|70|2023-12-13 16h|2024-01-10 16h|
 |#|bioshock-2-remastered|BioShock 2 Remastered|19,99€|85|2023-12-13 16h|2024-01-10 16h|
 |#|bioshock-remastered|BioShock Remastered|19,99€|75|2023-12-13 16h|2024-01-10 16h|
+|#|bud-spencer-and-terence-hill-slaps-and-beans-2-faab3a|Bud Spencer and Terence Hill - Slaps and Beans 2|19,99€|10|2023-12-14 23h|2023-12-30 23h|
 |#|bugsnax|Bugsnax|19,99€|50|2023-12-13 16h|2024-01-10 16h|
 |#|call-of-cthulhu-8e5446|Call of Cthulhu|19,99€|75|2023-12-13 16h|2024-01-10 16h|
 |#|carto|Carto|19,99€|70|2023-12-13 16h|2024-01-10 16h|
