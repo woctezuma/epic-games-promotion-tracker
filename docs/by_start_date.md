@@ -1,6 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|forklift-simulator-2023-b1d538|Forklift Simulator 2023|7,19€|60|2023-12-14 22h|2023-12-21 22h|
 |#|bud-spencer-and-terence-hill-slaps-and-beans-2-faab3a|Bud Spencer and Terence Hill - Slaps and Beans 2|19,99€|10|2023-12-14 23h|2023-12-30 23h|
 |#|bridge-constructor-the-walking-dead|Bridge Constructor: The Walking Dead|9,99€|80|2023-12-15 16h|2024-01-10 16h|
 |#|crime-boss|Crime Boss: Rockay City|39,99€|25|2023-12-15 16h|2024-01-10 16h|
@@ -13,6 +12,7 @@
 |#|tandem-a-tale-of-shadows-c3f55e|Tandem: A Tale of Shadows|8,99€|60|2023-12-16 23h|2023-12-31 11h|
 |#|galactic-empire-f23125|Galactic Empire|10,79€|20|2023-12-17 00h|2023-12-31 00h|
 |#|forest-fire-b4bb7e|Forest Fire|5,39€|20|2023-12-17 06h|2024-01-01 06h|
+|#|molten-horn-e846ef|Molten Horn|7,19€|10|2023-12-17 06h|2024-01-05 06h|
 |#|aquarist-eb083d|Aquarist|10,79€|20|2023-12-17 20h|2023-12-31 20h|
 |#|arena-renovation-409f55|Arena Renovation|13,49€|20|2023-12-17 20h|2023-12-31 20h|
 |#|creatura-270265|Creatura|13,49€|50|2023-12-17 20h|2023-12-31 20h|
@@ -132,11 +132,13 @@
 |#|cosmic-express|Cosmic Express|13,49€|75|2023-12-22 01h|2024-01-10 23h|
 |#|sokobond|Sokobond|13,49€|75|2023-12-22 01h|2024-01-10 23h|
 |#|persha-and-the-magic-labyrinth-ca72d4|Persha and the Magic Labyrinth -Arabian Nyaights-|9,99€|50|2023-12-22 05h|2024-01-10 16h|
+|#|ghoul-castle-3d-gold-edition-566ac0|Ghoul Castle 3D - Gold Edition|2,69€|40|2023-12-22 06h|2024-01-05 06h|
 |#|hundred-days-winemaking-simulator|Hundred Days - Winemaking Simulator|19,99€|66|2023-12-22 07h|2024-01-07 23h|
 |#|shame-legacy-ef1b66|Shame Legacy|22,39€|70|2023-12-22 09h|2023-12-31 09h|
 |#|the-fabled-woods|The Fabled Woods|9,99€|90|2023-12-22 16h|2024-01-10 16h|
 |#|truberbrook|Trüberbrook|29,99€|90|2023-12-22 16h|2024-01-10 16h|
 |#|true-hate-007027|True Hate|5,99€|90|2023-12-24 03h|2024-01-15 03h|
+|#|oxygen-cocktail-20cd1c|Oxygen Cocktail|5,39€|10|2023-12-24 06h|2024-01-05 06h|
 |#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2023-12-25 22h|2024-01-15 22h|
 |#|car-tuning-simulator-38ddaf|Car Tuning Simulator|0,79€|50|2023-12-26 03h|2024-01-12 03h|
 |#|cataire-6ce6b7|CATAIRE|0,89€|90|2023-12-26 16h|2024-01-10 16h|
