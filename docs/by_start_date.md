@@ -114,6 +114,7 @@
 |#|cursed-castilla-maldita-castilla-ex-adaa43|Cursed Castilla (Maldita Castilla EX)|11,99€|50|2023-12-21 17h|2024-01-04 17h|
 |#|dirt-bicycle-rider-simulator-19bff9|Dirt Bicycle Rider Simulator|0,89€|45|2023-12-21 17h|2024-01-05 17h|
 |#|extreme-bus-driver-simulator-b7a96d|Extreme Bus Driver 2024|0,89€|45|2023-12-21 17h|2024-01-05 17h|
+|#|indies-lies-57f843|Indies Lies|13,49€|30|2023-12-21 17h|2024-01-03 17h|
 |#|one-military-camp-8db1f6|One Military Camp|24,99€|40|2023-12-21 17h|2024-01-04 17h|
 |#|super-hydorah-56d575|Super Hydorah|19,99€|50|2023-12-21 17h|2024-01-04 17h|
 |#|wrc|EA SPORTS™ WRC|49,99€|40|2023-12-21 18h|2024-01-10 16h|
