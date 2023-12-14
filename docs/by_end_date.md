@@ -179,6 +179,7 @@
 |#|far-lone-sails|FAR: Lone Sails|14,99€|80|2023-12-16 18h|2024-01-15 18h|
 |#|fall-of-porcupine-659d85|Fall of Porcupine|19,99€|45|2023-12-16 18h|2024-01-15 18h|
 |#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2023-12-25 22h|2024-01-15 22h|
+|#|inside-soccer-2bf632|Inside Soccer|4,49€|30|2024-01-09 16h|2024-01-16 16h|
 |#|outbreak-the-new-nightmare-revisited-90517a|Outbreak The New Nightmare Revisited|8,99€|50|2024-01-09 16h|2024-01-16 16h|
 |#|a-knights-quest|A Knights Quest|24,99€|90|2023-12-18 18h|2024-01-17 18h|
 |#|for-the-king|For The King|19,99€|75|2023-12-18 18h|2024-01-17 18h|
