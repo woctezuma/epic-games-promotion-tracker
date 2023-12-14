@@ -1431,6 +1431,15 @@
     "title": "Infindustry"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2024-01-16T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "inside-soccer-2bf632",
+    "startDate": "2024-01-09T16:00:00.000Z",
+    "title": "Inside Soccer"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
