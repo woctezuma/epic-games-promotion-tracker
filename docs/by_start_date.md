@@ -1,6 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|cookie-cutter-d25fbc|Cookie Cutter|17,99€|20|2023-12-14 08h|2023-12-21 08h|
 |#|the-long-dark|The Long Dark|27,99€|50|2023-12-14 11h|2024-01-10 11h|
 |#|hot-wheels-unleashed|HOT WHEELS UNLEASHED™|49,99€|85|2023-12-14 16h|2024-01-10 16h|
 |#|motogp-21|MotoGP™21|29,99€|85|2023-12-14 16h|2024-01-10 16h|
