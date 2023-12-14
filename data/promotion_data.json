@@ -108,6 +108,15 @@
     "title": "ANONYMOUS HUNTING SIMULATOR"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2023-12-30T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "atv-offroad-simulator-24-d9f4ad",
+    "startDate": "2023-12-16T17:00:00.000Z",
+    "title": "ATV Offroad Simulator 24"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -387,15 +396,6 @@
     "title": "Bud Spencer and Terence Hill - Slaps and Beans"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2023-12-30T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "bud-spencer-and-terence-hill-slaps-and-beans-2-faab3a",
-    "startDate": "2023-12-14T23:00:00.000Z",
-    "title": "Bud Spencer and Terence Hill - Slaps and Beans 2"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2024-01-23T16:00:00.000Z",
     "isFree": false,
@@ -421,6 +421,15 @@
     "slug": "car-mechanic-city-driving-4996c5",
     "startDate": "2023-12-29T22:00:00.000Z",
     "title": "Car Mechanic - City Driving"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-12-30T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "car-parking-real-driving-sim-ba7eed",
+    "startDate": "2023-12-16T17:00:00.000Z",
+    "title": "Car Parking Real Driving Sim"
   },
   {
     "discountPercentage": 50,
@@ -484,6 +493,15 @@
     "slug": "city-of-beats-08f8c2",
     "startDate": "2023-12-21T14:00:00.000Z",
     "title": "City of Beats"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-12-30T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "classic-car-drive-simulator-a540a9",
+    "startDate": "2023-12-16T17:00:00.000Z",
+    "title": "Classic Car Simulator Car Driving"
   },
   {
     "discountPercentage": 67,
@@ -1015,6 +1033,15 @@
     "slug": "forest-fire-b4bb7e",
     "startDate": "2023-12-17T06:00:00.000Z",
     "title": "Forest Fire"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-12-30T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "forest-offroad-driving-simulator-e8f5c1",
+    "startDate": "2023-12-16T17:00:00.000Z",
+    "title": "Forest Offroad Driving Simulator"
   },
   {
     "discountPercentage": 25,
@@ -2214,6 +2241,15 @@
     "title": "RAYMAN\u00ae LEGENDS"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2023-12-30T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "rod-multiplayer-car-driving-8b748d",
+    "startDate": "2023-12-16T17:00:00.000Z",
+    "title": "ROD Multiplayer Car Driving"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-01-06T05:00:00.000Z",
     "isFree": false,
@@ -2646,6 +2682,15 @@
     "title": "Superliminal"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2023-12-30T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "suv-4x4-car-parking-simulator-5d6c9e",
+    "startDate": "2023-12-16T17:00:00.000Z",
+    "title": "Suv 4x4 Car Parking Simulator"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-01-10T00:00:00.000Z",
     "isFree": false,
@@ -2941,6 +2986,15 @@
     "slug": "to-the-rescue-a6c254",
     "startDate": "2023-12-21T14:00:00.000Z",
     "title": "To The Rescue"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2023-12-30T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "tofas-sahin-online-car-driving-4bb680",
+    "startDate": "2023-12-16T17:00:00.000Z",
+    "title": "Tofas Sahin Online Car Driving"
   },
   {
     "discountPercentage": 70,
