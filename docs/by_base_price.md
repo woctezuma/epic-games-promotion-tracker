@@ -13,7 +13,6 @@
 |#|warhammer-age-of-sigmar-realms-of-ruin|Warhammer Age of Sigmar: Realms of Ruin|59,99€|40|2023-12-21 18h|2024-01-04 18h|
 |#|the-mystery-of-the-moon-7f3e48|The Mystery Of The Moon|53,99€|80|2023-12-21 16h|2024-01-07 16h|
 |#|wrc|EA SPORTS™ WRC|49,99€|40|2023-12-21 18h|2024-01-10 16h|
-|#|hot-wheels-unleashed|HOT WHEELS UNLEASHED™|49,99€|85|2023-12-14 16h|2024-01-10 16h|
 |#|humankind|HUMANKIND™ Standard Edition|49,99€|75|2023-12-20 18h|2024-01-10 18h|
 |#|kerbal-space-program-2|Kerbal Space Program 2|49,99€|25|2023-12-19 18h|2024-01-10 16h|
 |#|the-lord-of-the-rings-gollum|The Lord of the Rings - Gollum™|49,99€|60|2023-12-20 09h|2023-12-26 23h|
@@ -40,7 +39,6 @@
 |#|far-cry-primal|Far Cry Primal Standard Edition|29,99€|75|2023-12-28 16h|2024-01-10 16h|
 |#|goat-simulator-3|Goat Simulator 3|29,99€|40|2024-02-09 16h|2024-02-12 16h|
 |#|iratus-d0e5ba|Iratus: Lord of the Dead|29,99€|87|2023-12-20 09h|2023-12-26 23h|
-|#|motogp-21|MotoGP™21|29,99€|85|2023-12-14 16h|2024-01-10 16h|
 |#|satisfactory|Satisfactory|29,99€|45|2024-02-09 16h|2024-02-12 16h|
 |#|sherlock-holmes-crimes-and-punishments|Sherlock Holmes: Crimes and Punishments|29,99€|90|2024-02-09 16h|2024-02-12 16h|
 |#|sherlock-holmes-the-devils-daughter|Sherlock Holmes: The Devil's Daughter|29,99€|85|2024-02-09 16h|2024-02-12 16h|
@@ -51,7 +49,6 @@
 |#|frostpunk|Frostpunk|27,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|amber-1e2240|Amber|26,99€|34|2024-02-14 13h|2024-02-20 13h|
 |#|railgrade|RAILGRADE|26,99€|35|2024-02-09 16h|2024-02-12 16h|
-|#|vagrus-the-riven-realms-c635d5|Vagrus - The Riven Realms|26,99€|34|2023-12-14 16h|2024-01-10 16h|
 |#|a-knights-quest|A Knights Quest|24,99€|90|2023-12-18 18h|2024-01-17 18h|
 |#|assassins-creed-chronicles-trilogy|Assassin's Creed Chronicles – Trilogy|24,99€|70|2023-12-28 16h|2024-01-10 16h|
 |#|broken-pieces-b1c349|Broken Pieces|24,99€|60|2023-12-21 14h|2024-01-06 05h|
@@ -114,7 +111,6 @@
 |#|outerverse-82d7ce|Outerverse|19,99€|75|2023-12-21 14h|2024-01-06 05h|
 |#|poker-club-6e18ee|Poker Club|19,99€|45|2024-02-09 16h|2024-02-12 16h|
 |#|rayman-legends|RAYMAN® LEGENDS|19,99€|80|2023-12-28 16h|2024-01-10 16h|
-|#|seaorama-world-of-shipping-ff5abb|SeaOrama: World of Shipping|19,99€|10|2023-12-14 16h|2023-12-21 16h|
 |#|silence-57bc4e|Silence|19,99€|90|2023-12-20 09h|2023-12-26 23h|
 |#|super-hydorah-56d575|Super Hydorah|19,99€|50|2023-12-21 17h|2024-01-04 17h|
 |#|symphony-of-war-60a76e|Symphony of War|19,99€|35|2023-12-21 14h|2024-01-06 05h|
@@ -304,7 +300,6 @@
 |#|boltbreak-c2bf02|BoltBreak|5,39€|17|2024-09-01 06h|2024-09-30 22h|
 |#|forest-fire-b4bb7e|Forest Fire|5,39€|20|2023-12-17 06h|2024-01-01 06h|
 |#|funtoons-world-0e63dd|Funtoon's World|5,39€|80|2024-01-16 16h|2024-01-23 16h|
-|#|shop-tycoon-prepare-your-wallet-e705ba|Shop Tycoon - Prepare Your Wallet|5,39€|90|2023-12-14 16h|2024-01-10 16h|
 |#|disciples-rise-of-the-elves-gold-669f54|Disciples Rise of the Elves Gold|4,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|orb-bfdd17|ORB|4,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|rice-d1b792|R.I.C.E.|4,99€|20|2023-12-21 14h|2024-01-06 05h|
@@ -321,8 +316,8 @@
 |#|near-impact-b7bee9|Near Impact|4,49€|80|2024-02-09 16h|2024-02-12 16h|
 |#|overtop-ed5e49|Overtop|4,49€|80|2024-01-01 22h|2024-01-21 22h|
 |#|overtop-ed5e49|Overtop|4,49€|90|2024-02-24 22h|2024-03-14 22h|
+|#|roma-invicta-cf7a51|Roma Invicta|4,49€|40|2023-12-15 23h|2024-01-07 11h|
 |#|spinner-invaders-d453e7|Spinner Invaders|4,49€|75|2024-02-09 16h|2024-02-12 16h|
-|#|the-impossible-fcebf7|THE IMPOSSIBLE|4,49€|90|2023-12-14 16h|2024-01-10 16h|
 |#|dumpy-and-bumpy-86c9d7|Dumpy and Bumpy|3,99€|30|2024-02-09 16h|2024-02-12 16h|
 |#|flatout-940461|Flatout|3,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|ghost-master-2-7b7040|Ghost Master|3,99€|80|2024-02-09 16h|2024-02-12 16h|
