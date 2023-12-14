@@ -1026,15 +1026,6 @@
     "title": "Forest Ranger Simulator"
   },
   {
-    "discountPercentage": 60,
-    "endDate": "2023-12-21T22:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 719,
-    "slug": "forklift-simulator-2023-b1d538",
-    "startDate": "2023-12-14T22:00:00.000Z",
-    "title": "Forklift Simulator 2023"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2024-01-10T17:00:00.000Z",
     "isFree": false,
@@ -1159,6 +1150,15 @@
     "slug": "ghost-master-2-7b7040",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Ghost Master"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-01-05T06:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "ghoul-castle-3d-gold-edition-566ac0",
+    "startDate": "2023-12-22T06:00:00.000Z",
+    "title": "Ghoul Castle 3D - Gold Edition"
   },
   {
     "discountPercentage": 85,
@@ -1800,6 +1800,15 @@
     "title": "Might and Magic: Heroes VII - Ultimate Edition"
   },
   {
+    "discountPercentage": 10,
+    "endDate": "2024-01-05T06:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 719,
+    "slug": "molten-horn-e846ef",
+    "startDate": "2023-12-17T06:00:00.000Z",
+    "title": "Molten Horn"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2024-01-06T05:00:00.000Z",
     "isFree": false,
@@ -2014,6 +2023,15 @@
     "slug": "overtop-ed5e49",
     "startDate": "2024-02-24T22:00:00.000Z",
     "title": "Overtop"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2024-01-05T06:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 539,
+    "slug": "oxygen-cocktail-20cd1c",
+    "startDate": "2023-12-24T06:00:00.000Z",
+    "title": "Oxygen Cocktail"
   },
   {
     "discountPercentage": 75,
