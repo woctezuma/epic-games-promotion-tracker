@@ -2835,6 +2835,15 @@
     "title": "Tear of Time - Lost memory"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2024-01-23T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2699,
+    "slug": "tennis-elbow-manager-2-17a1a0",
+    "startDate": "2024-01-16T16:00:00.000Z",
+    "title": "Tennis Elbow Manager 2"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
