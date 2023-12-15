@@ -155,6 +155,7 @@
 |#|inertial-drift|Inertial Drift|15,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|lifeless-planet-premier-edition|Lifeless Planet: Premier Edition|15,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|mars-horizon|Mars Horizon|15,99€|70|2024-02-09 16h|2024-02-12 16h|
+|#|nadir-a-grimdark-deckbuilder-c70747|Nadir - A Grimdark Deckbuilder|15,99€|66|2024-01-09 16h|2024-01-16 16h|
 |#|nibiru-ce8efd|Nibiru|15,99€|75|2023-12-21 14h|2024-01-06 05h|
 |#|pc-building-simulator|PC Building Simulator|15,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|potion-permit|Potion Permit|15,99€|30|2024-02-09 16h|2024-02-12 16h|

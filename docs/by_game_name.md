@@ -214,6 +214,7 @@
 |#|mutant-year-zero|Mutant Year Zero: Road to Eden|34,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|mysterygame-2|Mystery Game Day 2|0,00€|100|2023-12-20 16h|2023-12-21 16h|
 |#|mystery-in-the-office-f629ad|Mystery in the Office|1,99€|25|2023-12-21 18h|2024-01-04 18h|
+|#|nadir-a-grimdark-deckbuilder-c70747|Nadir - A Grimdark Deckbuilder|15,99€|66|2024-01-09 16h|2024-01-16 16h|
 |#|near-impact-b7bee9|Near Impact|4,49€|80|2024-02-09 16h|2024-02-12 16h|
 |#|neon-blight-6fe11b|Neon Blight|19,99€|75|2023-12-21 14h|2024-01-06 05h|
 |#|nexomon-extinction|Nexomon: Extinction|19,99€|60|2024-02-09 16h|2024-02-12 16h|
