@@ -378,15 +378,6 @@
     "title": "Bonfire Peaks"
   },
   {
-    "discountPercentage": 80,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "bridge-constructor-the-walking-dead",
-    "startDate": "2023-12-15T16:00:00.000Z",
-    "title": "Bridge Constructor: The Walking Dead"
-  },
-  {
     "discountPercentage": 60,
     "endDate": "2024-01-06T05:00:00.000Z",
     "isFree": false,
@@ -585,15 +576,6 @@
     "title": "Creatura"
   },
   {
-    "discountPercentage": 25,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "crime-boss",
-    "startDate": "2023-12-15T16:00:00.000Z",
-    "title": "Crime Boss: Rockay City"
-  },
-  {
     "discountPercentage": 81,
     "endDate": "2023-12-26T23:00:00.000Z",
     "isFree": false,
@@ -709,15 +691,6 @@
     "slug": "deponia-the-complete-journey",
     "startDate": "2023-12-20T09:00:00.000Z",
     "title": "Deponia: The Complete Journey"
-  },
-  {
-    "discountPercentage": 22,
-    "endDate": "2023-12-22T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 359,
-    "slug": "desktop-girlfriend-neo-136f5a",
-    "startDate": "2023-12-15T16:00:00.000Z",
-    "title": "Desktop Girlfriend NEO"
   },
   {
     "discountPercentage": 22,
