@@ -117,6 +117,15 @@
     "title": "ATV Offroad Simulator 24"
   },
   {
+    "discountPercentage": 15,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1399,
+    "slug": "adios-b378b4",
+    "startDate": "2023-12-18T19:00:00.000Z",
+    "title": "Adios"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -1314,6 +1323,15 @@
     "title": "He Will Shoot"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2024-01-01T23:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1259,
+    "slug": "heim-33ba21",
+    "startDate": "2023-12-20T11:00:00.000Z",
+    "title": "Heim"
+  },
+  {
     "discountPercentage": 34,
     "endDate": "2024-01-06T05:00:00.000Z",
     "isFree": false,
@@ -2329,15 +2347,6 @@
     "slug": "scary-and-dot-86b1ff",
     "startDate": "2024-01-11T22:00:00.000Z",
     "title": "SCARY AND DOT"
-  },
-  {
-    "discountPercentage": 55,
-    "endDate": "2024-01-10T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 179,
-    "slug": "spingun-843f78",
-    "startDate": "2023-12-15T17:00:00.000Z",
-    "title": "SPINGUN"
   },
   {
     "discountPercentage": 20,
