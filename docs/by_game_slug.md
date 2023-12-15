@@ -60,6 +60,7 @@
 |#|combat-naval-package-sub-command-5e51d7|Sub Command|7,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|compass-of-the-destiny-istanbul-598642|Compass of the Destiny: Istanbul|14,79€|30|2024-01-04 21h|2024-01-11 21h|
 |#|conan-exiles|Conan Exiles|39,99€|60|2024-02-09 16h|2024-02-12 16h|
+|#|conway-disappearance-5d6354|Conway: Disappearance at Dahlia View|23,99€|33|2023-12-19 06h|2023-12-29 00h|
 |#|coromon-d4ef84|Coromon|15,99€|50|2023-12-21 14h|2024-01-06 05h|
 |#|cosmic-express|Cosmic Express|13,49€|75|2023-12-22 01h|2024-01-10 23h|
 |#|creatura-270265|Creatura|13,49€|50|2023-12-17 20h|2023-12-31 20h|
