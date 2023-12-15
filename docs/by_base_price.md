@@ -23,7 +23,7 @@
 |#|disco-elysium|Disco Elysium - The Final Cut|39,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|monopoly-plus-monopoly-madness-bundle|MONOPOLY PLUS + MONOPOLY Madness|39,99€|70|2023-12-28 16h|2024-01-10 16h|
 |#|partisans-1941|Partisans 1941|39,99€|77|2023-12-20 09h|2023-12-26 23h|
-|#|6316274b91a140db91281d75f7bbee3d|Shadow Gambit: The Cursed Crew|39,99€|20|2024-02-09 16h|2024-02-12 16h|
+|#|shadow-gambit-the-cursed-crew-0bca60|Shadow Gambit: The Cursed Crew|39,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|shadow-tactics|Shadow Tactics: Blades of the Shogun|39,99€|90|2023-12-20 09h|2023-12-26 23h|
 |#|sherlock-holmes-the-awakened|Sherlock Holmes The Awakened|39,99€|50|2024-01-16 16h|2024-01-23 16h|
 |#|the-lord-of-the-rings-return-to-moria-f01344|The Lord of The Rings Return to Moria|39,99€|33|2024-02-09 16h|2024-02-12 16h|
@@ -111,7 +111,7 @@
 |#|nexomon-extinction|Nexomon: Extinction|19,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|one-lonely-outpost-12afa6|One Lonely Outpost|19,99€|20|2023-12-21 14h|2024-01-06 05h|
 |#|outerverse-82d7ce|Outerverse|19,99€|75|2023-12-21 14h|2024-01-06 05h|
-|#|227fefdce66b4a6c84ccc877bb42659b|Poker Club|19,99€|45|2024-02-09 16h|2024-02-12 16h|
+|#|poker-club-6e18ee|Poker Club|19,99€|45|2024-02-09 16h|2024-02-12 16h|
 |#|rayman-legends|RAYMAN® LEGENDS|19,99€|80|2023-12-28 16h|2024-01-10 16h|
 |#|silence-57bc4e|Silence|19,99€|90|2023-12-20 09h|2023-12-26 23h|
 |#|super-hydorah-56d575|Super Hydorah|19,99€|50|2023-12-21 17h|2024-01-04 17h|
@@ -204,7 +204,7 @@
 |#|starport-trading-company-9b3538|Spaceport Trading Company|13,49€|25|2024-01-16 16h|2024-01-23 16h|
 |#|turnip-boy-robs-a-bank-3fae0e|Turnip Boy Robs a Bank|13,49€|10|2024-01-18 15h|2024-01-25 15h|
 |#|victorian-admirals-panama-crisis-1885-7e5372|Victorian Admirals Panama Crisis 1885|13,49€|80|2024-02-09 16h|2024-02-12 16h|
-|#|b84634385c6e4705869992cb7a21008d|Chess Ultra|12,99€|60|2024-02-09 16h|2024-02-12 16h|
+|#|chess-ultra-91bba3|Chess Ultra|12,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|ironcast|Ironcast|12,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|tohu|TOHU|12,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|the-spectrum-retreat|The Spectrum Retreat|12,99€|65|2024-02-09 16h|2024-02-12 16h|
@@ -326,6 +326,7 @@
 |#|overtop-ed5e49|Overtop|4,49€|80|2024-01-01 22h|2024-01-21 22h|
 |#|overtop-ed5e49|Overtop|4,49€|90|2024-02-24 22h|2024-03-14 22h|
 |#|roma-invicta-cf7a51|Roma Invicta|4,49€|40|2023-12-15 23h|2024-01-07 11h|
+|#|spinner-invaders-d453e7|Spinner Invaders|4,49€|75|2024-02-09 16h|2024-02-12 16h|
 |#|trash-troopers-earth-reclaim-48721c|Trash Troopers Earth Reclaim|4,49€|20|2024-01-09 16h|2024-01-16 16h|
 |#|dumpy-and-bumpy-86c9d7|Dumpy and Bumpy|3,99€|30|2024-02-09 16h|2024-02-12 16h|
 |#|flatout-940461|Flatout|3,99€|80|2024-02-09 16h|2024-02-12 16h|

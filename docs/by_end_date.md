@@ -247,7 +247,7 @@
 |#|big-mutha-truckers-990060|Big Mutha Truckers 2|7,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|black-hair-girl-is-best-girl-415031|Black Hair Girl is Best Girl|5,39€|25|2024-02-09 16h|2024-02-12 16h|
 |#|chernobylite|Chernobylite|29,99€|55|2024-02-09 16h|2024-02-12 16h|
-|#|b84634385c6e4705869992cb7a21008d|Chess Ultra|12,99€|60|2024-02-09 16h|2024-02-12 16h|
+|#|chess-ultra-91bba3|Chess Ultra|12,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|conan-exiles|Conan Exiles|39,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|culpa-innata-8997ac|Culpa Innata|9,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|curse-of-the-sea-rats-8f28b1|Curse of the Sea Rats|17,99€|30|2024-02-09 16h|2024-02-12 16h|
@@ -308,7 +308,7 @@
 |#|pc-building-simulator-2|PC Building Simulator 2|24,99€|25|2024-02-09 16h|2024-02-12 16h|
 |#|palladium-adventure-in-greece-f1ee1b|Palladium: Adventure in Greece|8,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|paw-paw-destiny-843848|Paw Paw Destiny|13,49€|11|2024-02-09 16h|2024-02-12 16h|
-|#|227fefdce66b4a6c84ccc877bb42659b|Poker Club|19,99€|45|2024-02-09 16h|2024-02-12 16h|
+|#|poker-club-6e18ee|Poker Club|19,99€|45|2024-02-09 16h|2024-02-12 16h|
 |#|potion-permit|Potion Permit|15,99€|30|2024-02-09 16h|2024-02-12 16h|
 |#|power-to-the-people-dfb0f9|Power to the People|11,99€|45|2024-02-09 16h|2024-02-12 16h|
 |#|prehistoric-kingdom|Prehistoric Kingdom|23,99€|20|2024-02-09 16h|2024-02-12 16h|
@@ -319,7 +319,7 @@
 |#|satisfactory|Satisfactory|29,99€|45|2024-02-09 16h|2024-02-12 16h|
 |#|seal-of-evil-17240d|Seal of Evil|7,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|secret-of-dream-947b85|Secret of Dream|6,29€|80|2024-02-09 16h|2024-02-12 16h|
-|#|6316274b91a140db91281d75f7bbee3d|Shadow Gambit: The Cursed Crew|39,99€|20|2024-02-09 16h|2024-02-12 16h|
+|#|shadow-gambit-the-cursed-crew-0bca60|Shadow Gambit: The Cursed Crew|39,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|sherlock-holmes-crimes-and-punishments|Sherlock Holmes: Crimes and Punishments|29,99€|90|2024-02-09 16h|2024-02-12 16h|
 |#|sherlock-holmes-the-devils-daughter|Sherlock Holmes: The Devil's Daughter|29,99€|85|2024-02-09 16h|2024-02-12 16h|
 |#|sir-whoopass-757c5c|Sir Whoopass - Immortal Death|15,29€|50|2024-02-09 16h|2024-02-12 16h|
@@ -328,6 +328,7 @@
 |#|space-empires-iii-38e873|Space Empires III|1,59€|80|2024-02-09 16h|2024-02-12 16h|
 |#|space-empires-iv-74dacf|Space Empires IV|7,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|space-empires-v-0319fd|Space Empires V|11,99€|80|2024-02-09 16h|2024-02-12 16h|
+|#|spinner-invaders-d453e7|Spinner Invaders|4,49€|75|2024-02-09 16h|2024-02-12 16h|
 |#|steel-fury-kharkov-1942-cdfbd6|Steel Fury Kharkov 1942|3,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|stick-it-to-the-man|Stick It To The Man!|5,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|stone-guardian-81fcc1|Stone Guardian|11,69€|20|2024-02-09 16h|2024-02-12 16h|

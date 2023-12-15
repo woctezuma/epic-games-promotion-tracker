@@ -118,6 +118,7 @@
 |#|pc-building-simulator|PC Building Simulator|15,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|ruin-raiders-d2d613|Ruin Raiders|15,99€|75|2023-12-21 14h|2024-01-06 05h|
 |#|sokobond|Sokobond|13,49€|75|2023-12-22 01h|2024-01-10 23h|
+|#|spinner-invaders-d453e7|Spinner Invaders|4,49€|75|2024-02-09 16h|2024-02-12 16h|
 |#|the-plane-effect|The Plane Effect|14,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|the-witcher-3-wild-hunt|The Witcher 3: Wild Hunt – Complete Edition|49,96€|75|2023-12-28 15h|2024-01-10 16h|
 |#|to-the-rescue-a6c254|To The Rescue|15,99€|75|2023-12-21 14h|2024-01-06 05h|
@@ -157,7 +158,7 @@
 |#|war-mongrels|War Mongrels|37,99€|65|2023-12-20 09h|2023-12-31 09h|
 |#|alan-wake-remastered|Alan Wake Remastered|29,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|broken-pieces-b1c349|Broken Pieces|24,99€|60|2023-12-21 14h|2024-01-06 05h|
-|#|b84634385c6e4705869992cb7a21008d|Chess Ultra|12,99€|60|2024-02-09 16h|2024-02-12 16h|
+|#|chess-ultra-91bba3|Chess Ultra|12,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|conan-exiles|Conan Exiles|39,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|garden-story|Garden Story|19,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|he-will-shoot-46efff|He Will Shoot|1,59€|60|2024-01-25 03h|2024-02-10 03h|
@@ -239,7 +240,7 @@
 |#|dirt-bicycle-rider-simulator-19bff9|Dirt Bicycle Rider Simulator|0,89€|45|2023-12-21 17h|2024-01-05 17h|
 |#|extreme-bus-driver-simulator-b7a96d|Extreme Bus Driver 2024|0,89€|45|2023-12-21 17h|2024-01-05 17h|
 |#|fall-of-porcupine-659d85|Fall of Porcupine|19,99€|45|2023-12-16 18h|2024-01-15 18h|
-|#|227fefdce66b4a6c84ccc877bb42659b|Poker Club|19,99€|45|2024-02-09 16h|2024-02-12 16h|
+|#|poker-club-6e18ee|Poker Club|19,99€|45|2024-02-09 16h|2024-02-12 16h|
 |#|power-to-the-people-dfb0f9|Power to the People|11,99€|45|2024-02-09 16h|2024-02-12 16h|
 |#|satisfactory|Satisfactory|29,99€|45|2024-02-09 16h|2024-02-12 16h|
 |#|gold-rush-classic-34d7d5|Gold Rush! Classic|2,69€|44|2023-12-21 09h|2024-01-07 09h|
@@ -349,7 +350,7 @@
 |#|saboteur-ii-avenging-angel-33e83c|Saboteur II Avenging Angel|7,19€|20|2024-01-05 23h|2024-02-04 23h|
 |#|saboteur-sio-123236|Saboteur SiO|9,89€|20|2024-01-05 23h|2024-02-04 23h|
 |#|saboteur-f3d01d|Saboteur!|7,19€|20|2024-01-05 23h|2024-02-04 23h|
-|#|6316274b91a140db91281d75f7bbee3d|Shadow Gambit: The Cursed Crew|39,99€|20|2024-02-09 16h|2024-02-12 16h|
+|#|shadow-gambit-the-cursed-crew-0bca60|Shadow Gambit: The Cursed Crew|39,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|stone-guardian-81fcc1|Stone Guardian|11,69€|20|2024-02-09 16h|2024-02-12 16h|
 |#|the-dragoness-command-of-the-flame-b3b544|The Dragoness Command Of The Flame|19,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|the-invincible|The Invincible|29,99€|20|2024-02-09 16h|2024-02-12 16h|
