@@ -313,6 +313,7 @@
 |#|splinter-cell|Tom Clancy's Splinter Cell|4,99€|75|2023-12-28 16h|2024-01-10 16h|
 |#|splinter-cell-double-agent|Tom Clancy’s Splinter Cell Double Agent|4,99€|75|2023-12-28 16h|2024-01-10 16h|
 |#|balloon-strike-c9a1ac|Balloon Strike|4,49€|80|2024-01-16 16h|2024-01-23 16h|
+|#|county-hospital-aa8e79|County Hospital|4,49€|20|2024-01-16 16h|2024-01-23 16h|
 |#|cyvenge-55b56b|CyVenge|4,49€|50|2023-12-29 00h|2024-01-06 23h|
 |#|dead-by-murder-190eab|Dead By Murder|4,49€|80|2024-02-09 16h|2024-02-12 16h|
 |#|inside-soccer-2bf632|Inside Soccer|4,49€|30|2024-01-09 16h|2024-01-16 16h|
@@ -325,6 +326,7 @@
 |#|overtop-ed5e49|Overtop|4,49€|90|2024-02-24 22h|2024-03-14 22h|
 |#|roma-invicta-cf7a51|Roma Invicta|4,49€|40|2023-12-15 23h|2024-01-07 11h|
 |#|spinner-invaders-d453e7|Spinner Invaders|4,49€|75|2024-02-09 16h|2024-02-12 16h|
+|#|trash-troopers-earth-reclaim-48721c|Trash Troopers Earth Reclaim|4,49€|20|2024-01-09 16h|2024-01-16 16h|
 |#|dumpy-and-bumpy-86c9d7|Dumpy and Bumpy|3,99€|30|2024-02-09 16h|2024-02-12 16h|
 |#|flatout-940461|Flatout|3,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|ghost-master-2-7b7040|Ghost Master|3,99€|80|2024-02-09 16h|2024-02-12 16h|

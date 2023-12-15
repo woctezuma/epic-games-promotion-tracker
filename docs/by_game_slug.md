@@ -64,6 +64,7 @@
 |#|conway-disappearance-5d6354|Conway: Disappearance at Dahlia View|23,99€|33|2023-12-19 06h|2023-12-29 00h|
 |#|coromon-d4ef84|Coromon|15,99€|50|2023-12-21 14h|2024-01-06 05h|
 |#|cosmic-express|Cosmic Express|13,49€|75|2023-12-22 01h|2024-01-10 23h|
+|#|county-hospital-aa8e79|County Hospital|4,49€|20|2024-01-16 16h|2024-01-23 16h|
 |#|creatura-270265|Creatura|13,49€|50|2023-12-17 20h|2023-12-31 20h|
 |#|crime-boss|Crime Boss: Rockay City|39,99€|25|2023-12-15 16h|2024-01-10 16h|
 |#|cryofall-331358|CryoFall|19,99€|81|2023-12-20 09h|2023-12-26 23h|
@@ -346,6 +347,7 @@
 |#|total-war-warhammer-ii|Total War: WARHAMMER II|59,99€|66|2023-12-28 18h|2024-01-10 16h|
 |#|trackmania-turbo|Trackmania Turbo|39,99€|60|2023-12-28 16h|2024-01-10 16h|
 |#|train-world-07e156|Train World|31,39€|20|2023-12-21 18h|2024-01-04 18h|
+|#|trash-troopers-earth-reclaim-48721c|Trash Troopers Earth Reclaim|4,49€|20|2024-01-09 16h|2024-01-16 16h|
 |#|trex-dinosaur-game-d30355|T-Rex Dinosaur Game|0,89€|50|2024-01-09 22h|2024-01-25 22h|
 |#|trials-evolution|Trials Evolution: Gold Edition|19,99€|75|2023-12-28 16h|2024-01-10 16h|
 |#|trials-fusion|Trials Fusion: Standard Edition|19,99€|75|2023-12-28 16h|2024-01-10 16h|
