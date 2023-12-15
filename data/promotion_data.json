@@ -244,6 +244,15 @@
   },
   {
     "discountPercentage": 50,
+    "endDate": "2024-01-16T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1619,
+    "slug": "baby-storm-426245",
+    "startDate": "2024-01-09T16:00:00.000Z",
+    "title": "Baby Storm"
+  },
+  {
+    "discountPercentage": 50,
     "endDate": "2024-01-15T22:00:00.000Z",
     "isFree": false,
     "originalPrice": 89,
@@ -907,6 +916,15 @@
     "slug": "far-lone-sails",
     "startDate": "2023-12-16T18:00:00.000Z",
     "title": "FAR: Lone Sails"
+  },
+  {
+    "discountPercentage": 33,
+    "endDate": "2024-01-16T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3139,
+    "slug": "front-mission-1st-remake-124a24",
+    "startDate": "2024-01-09T16:00:00.000Z",
+    "title": "FRONT MISSION 1st: Remake"
   },
   {
     "discountPercentage": 45,
