@@ -472,7 +472,7 @@
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1299,
-    "slug": "b84634385c6e4705869992cb7a21008d",
+    "slug": "chess-ultra-91bba3",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Chess Ultra"
   },
@@ -2173,7 +2173,7 @@
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1999,
-    "slug": "227fefdce66b4a6c84ccc877bb42659b",
+    "slug": "poker-club-6e18ee",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Poker Club"
   },
@@ -2416,7 +2416,7 @@
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 3999,
-    "slug": "6316274b91a140db91281d75f7bbee3d",
+    "slug": "shadow-gambit-the-cursed-crew-0bca60",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Shadow Gambit: The Cursed Crew"
   },
@@ -2599,6 +2599,15 @@
     "slug": "starport-trading-company-9b3538",
     "startDate": "2024-01-16T16:00:00.000Z",
     "title": "Spaceport Trading Company"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "spinner-invaders-d453e7",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Spinner Invaders"
   },
   {
     "discountPercentage": 50,
