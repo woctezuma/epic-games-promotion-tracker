@@ -50,6 +50,7 @@
 |#|frostpunk|Frostpunk|27,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|amber-1e2240|Amber|26,99€|34|2024-02-14 13h|2024-02-20 13h|
 |#|railgrade|RAILGRADE|26,99€|35|2024-02-09 16h|2024-02-12 16h|
+|#|tennis-elbow-manager-2-17a1a0|Tennis Elbow Manager 2|26,99€|60|2024-01-16 16h|2024-01-23 16h|
 |#|a-knights-quest|A Knights Quest|24,99€|90|2023-12-18 18h|2024-01-17 18h|
 |#|assassins-creed-chronicles-trilogy|Assassin's Creed Chronicles – Trilogy|24,99€|70|2023-12-28 16h|2024-01-10 16h|
 |#|broken-pieces-b1c349|Broken Pieces|24,99€|60|2023-12-21 14h|2024-01-06 05h|

@@ -170,6 +170,7 @@
 |#|nexomon-extinction|Nexomon: Extinction|19,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|terracotta-72cc62|TERRACOTTA|19,99€|60|2023-12-21 14h|2024-01-06 05h|
 |#|tandem-a-tale-of-shadows-c3f55e|Tandem: A Tale of Shadows|8,99€|60|2023-12-16 23h|2023-12-31 11h|
+|#|tennis-elbow-manager-2-17a1a0|Tennis Elbow Manager 2|26,99€|60|2024-01-16 16h|2024-01-23 16h|
 |#|the-lord-of-the-rings-gollum|The Lord of the Rings - Gollum™|49,99€|60|2023-12-20 09h|2023-12-26 23h|
 |#|they-are-coming-a17087|They Are Coming|9,99€|60|2023-12-21 14h|2024-01-06 05h|
 |#|trackmania-turbo|Trackmania Turbo|39,99€|60|2023-12-28 16h|2024-01-10 16h|
