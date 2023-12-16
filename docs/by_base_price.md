@@ -346,6 +346,7 @@
 |#|gold-rush-classic-34d7d5|Gold Rush! Classic|2,69€|44|2023-12-21 09h|2024-01-07 09h|
 |#|hanoi-puzzles-solid-match-6a9e0c|Hanoi Puzzles - Solid Match|2,69€|20|2023-12-18 18h|2023-12-25 17h|
 |#|hanoi-puzzles-solid-match-6a9e0c|Hanoi Puzzles - Solid Match|2,69€|25|2024-02-09 16h|2024-02-12 16h|
+|#|sea-of-dreams-32035a|Sea of Dreams|2,69€|30|2024-02-09 16h|2024-02-12 16h|
 |#|mystery-in-the-office-f629ad|Mystery in the Office|1,99€|25|2023-12-21 18h|2024-01-04 18h|
 |#|bad-rats-show-1b74cf|Bad Rats Show|1,79€|80|2024-02-09 16h|2024-02-12 16h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|70|2024-01-11 22h|2024-01-30 22h|

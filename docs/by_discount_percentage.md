@@ -304,6 +304,7 @@
 |#|march-of-shrooms-2581de|March of Shrooms|6,99€|30|2023-12-21 14h|2024-01-06 05h|
 |#|outcore-desktop-adventure-eb3aff|Outcore - Desktop Adventure|8,99€|30|2024-01-16 16h|2024-01-23 16h|
 |#|potion-permit|Potion Permit|15,99€|30|2024-02-09 16h|2024-02-12 16h|
+|#|sea-of-dreams-32035a|Sea of Dreams|2,69€|30|2024-02-09 16h|2024-02-12 16h|
 |#|sonic-superstars|Sonic Superstars|59,99€|30|2023-12-28 16h|2024-01-10 16h|
 |#|parakacuk-22f4b2|Troublemaker|19,99€|30|2023-12-21 14h|2024-01-06 05h|
 |#|voltaire-e1c517|Voltaire: The Vegan Vampire|19,99€|30|2023-12-21 14h|2024-01-06 05h|

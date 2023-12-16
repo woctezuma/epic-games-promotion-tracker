@@ -323,6 +323,7 @@
 |#|railgrade|RAILGRADE|26,99€|35|2024-02-09 16h|2024-02-12 16h|
 |#|rimworld|RimWorld|32,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|satisfactory|Satisfactory|29,99€|45|2024-02-09 16h|2024-02-12 16h|
+|#|sea-of-dreams-32035a|Sea of Dreams|2,69€|30|2024-02-09 16h|2024-02-12 16h|
 |#|seal-of-evil-17240d|Seal of Evil|7,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|secret-of-dream-947b85|Secret of Dream|6,29€|80|2024-02-09 16h|2024-02-12 16h|
 |#|shadow-gambit-the-cursed-crew-0bca60|Shadow Gambit: The Cursed Crew|39,99€|20|2024-02-09 16h|2024-02-12 16h|
