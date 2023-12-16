@@ -81,6 +81,15 @@
     "title": "A Monster's Expedition"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2024-02-06T02:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 539,
+    "slug": "a-second-before-the-war-55b226",
+    "startDate": "2024-01-12T02:00:00.000Z",
+    "title": "A Second Before The War"
+  },
+  {
     "discountPercentage": 90,
     "endDate": "2023-12-26T23:00:00.000Z",
     "isFree": false,
@@ -3301,6 +3310,15 @@
     "slug": "voltaire-e1c517",
     "startDate": "2023-12-21T14:00:00.000Z",
     "title": "Voltaire: The Vegan Vampire"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-16T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "warshift-127867",
+    "startDate": "2024-01-09T16:00:00.000Z",
+    "title": "WARSHIFT"
   },
   {
     "discountPercentage": 65,
