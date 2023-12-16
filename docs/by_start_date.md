@@ -35,7 +35,9 @@
 |#|aerial-knights-never-yield|Aerial_Knight's Never Yield|11,99€|75|2023-12-19 16h|2024-01-10 16h|
 |#|gas-station-simulator-ee93c7|Gas Station Simulator|17,99€|30|2023-12-19 18h|2024-01-02 18h|
 |#|kerbal-space-program-2|Kerbal Space Program 2|49,99€|25|2023-12-19 18h|2024-01-10 16h|
+|#|forklift-2024-the-simulation-eb32c5|Forklift 2024 - The Simulation|13,49€|50|2023-12-20 00h|2024-01-02 00h|
 |#|sir-whoopass-757c5c|Sir Whoopass - Immortal Death|15,29€|50|2023-12-20 00h|2024-01-10 00h|
+|#|strike-force-3-f567f1|Strike Force 3|17,99€|50|2023-12-20 00h|2024-01-02 00h|
 |#|dream-magic-will-358429|Dream magic will|3,59€|50|2023-12-20 04h|2023-12-26 04h|
 |#|aer-memories-of-old|AER Memories of Old|14,99€|90|2023-12-20 09h|2023-12-26 23h|
 |#|annas-quest-fbefa2|Anna's Quest|19,99€|90|2023-12-20 09h|2023-12-26 23h|

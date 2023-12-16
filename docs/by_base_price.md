@@ -142,6 +142,7 @@
 |#|farmers-life-f91b9a|Farmer's Life|17,99€|30|2023-12-17 20h|2023-12-31 20h|
 |#|gas-station-simulator-ee93c7|Gas Station Simulator|17,99€|30|2023-12-19 18h|2024-01-02 18h|
 |#|one-more-island-0014e2|One More Island|17,99€|50|2023-12-21 14h|2024-01-06 05h|
+|#|strike-force-3-f567f1|Strike Force 3|17,99€|50|2023-12-20 00h|2024-01-02 00h|
 |#|victorian-admirals-marianas-incident-1887-7d4e70|Victorian Admirals Marianas Incident 1887|17,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|lego-builders-journey|LEGO® Builder's Journey|16,99€|66|2024-02-09 16h|2024-02-12 16h|
 |#|the-suicide-of-rachel-foster-1dc01b|The Suicide of Rachel Foster|16,99€|90|2023-12-20 09h|2023-12-26 23h|
@@ -194,6 +195,7 @@
 |#|cosmic-express|Cosmic Express|13,49€|75|2023-12-22 01h|2024-01-10 23h|
 |#|creatura-270265|Creatura|13,49€|50|2023-12-17 20h|2023-12-31 20h|
 |#|forest-ranger-simulator-31788c|Forest Ranger Simulator|13,49€|25|2023-12-17 20h|2023-12-31 20h|
+|#|forklift-2024-the-simulation-eb32c5|Forklift 2024 - The Simulation|13,49€|50|2023-12-20 00h|2024-01-02 00h|
 |#|game-dev-masters-f5d8f9|Game Dev Masters|13,49€|75|2024-01-16 16h|2024-01-23 16h|
 |#|gray-dawn-a0cc44|Gray Dawn|13,49€|40|2024-02-09 16h|2024-02-12 16h|
 |#|indies-lies-57f843|Indies Lies|13,49€|30|2023-12-21 17h|2024-01-03 17h|
