@@ -138,7 +138,6 @@
 |#|bonfire-peaks|Bonfire Peaks|17,99€|50|2023-12-22 01h|2024-01-10 23h|
 |#|bus-driver-simulator-186e62|Bus Driver Simulator|17,99€|80|2024-01-16 16h|2024-01-23 16h|
 |#|curse-of-the-sea-rats-8f28b1|Curse of the Sea Rats|17,99€|30|2024-02-09 16h|2024-02-12 16h|
-|#|farmers-life-f91b9a|Farmer's Life|17,99€|30|2023-12-17 20h|2023-12-31 20h|
 |#|gas-station-simulator-ee93c7|Gas Station Simulator|17,99€|30|2023-12-19 18h|2024-01-02 18h|
 |#|one-more-island-0014e2|One More Island|17,99€|50|2023-12-21 14h|2024-01-06 05h|
 |#|strike-force-3-f567f1|Strike Force 3|17,99€|50|2023-12-20 00h|2024-01-02 00h|
@@ -188,10 +187,7 @@
 |#|adios-b378b4|Adios|13,99€|15|2023-12-18 19h|2024-01-10 16h|
 |#|just-die-already|Just Die Already|13,99€|70|2023-12-18 18h|2024-01-17 18h|
 |#|a-good-snowman-is-hard-to-build|A Good Snowman is Hard to Build|13,49€|75|2023-12-22 01h|2024-01-10 23h|
-|#|arena-renovation-409f55|Arena Renovation|13,49€|20|2023-12-17 20h|2023-12-31 20h|
 |#|cosmic-express|Cosmic Express|13,49€|75|2023-12-22 01h|2024-01-10 23h|
-|#|creatura-270265|Creatura|13,49€|50|2023-12-17 20h|2023-12-31 20h|
-|#|forest-ranger-simulator-31788c|Forest Ranger Simulator|13,49€|25|2023-12-17 20h|2023-12-31 20h|
 |#|forklift-2024-the-simulation-eb32c5|Forklift 2024 - The Simulation|13,49€|50|2023-12-20 00h|2024-01-02 00h|
 |#|game-dev-masters-f5d8f9|Game Dev Masters|13,49€|75|2024-01-16 16h|2024-01-23 16h|
 |#|gray-dawn-a0cc44|Gray Dawn|13,49€|40|2024-02-09 16h|2024-02-12 16h|
@@ -224,8 +220,6 @@
 |#|power-to-the-people-dfb0f9|Power to the People|11,99€|45|2024-02-09 16h|2024-02-12 16h|
 |#|space-empires-v-0319fd|Space Empires V|11,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|stone-guardian-81fcc1|Stone Guardian|11,69€|20|2024-02-09 16h|2024-02-12 16h|
-|#|aquarist-eb083d|Aquarist|10,79€|20|2023-12-17 20h|2023-12-31 20h|
-|#|split-29a6ef|Split|10,79€|50|2023-12-17 20h|2023-12-31 20h|
 |#|culpa-innata-8997ac|Culpa Innata|9,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|fire-44c606|Fire: Ungh’s Quest|9,99€|90|2023-12-20 09h|2023-12-26 23h|
 |#|flat-heroes-fec628|Flat Heroes|9,99€|50|2023-12-21 00h|2024-01-04 12h|
@@ -246,7 +240,6 @@
 |#|everlasting-guilt-213534|Everlasting Guilt|8,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|extreme-bike-racing-e00c81|Extreme Bike Racing|8,99€|80|2024-01-16 16h|2024-01-23 16h|
 |#|extreme-offroad-racing-439263|Extreme Offroad Racing|8,99€|80|2024-01-16 16h|2024-01-23 16h|
-|#|farmers-father-save-the-innocence-abf9c9|Farmer's Father - Save the Innocence|8,99€|20|2023-12-17 20h|2023-12-31 20h|
 |#|gardenia-630482|Gardenia|8,99€|20|2024-01-05 23h|2024-02-04 23h|
 |#|gladiator-blades-of-fury-1a745b|Gladiator : Blades of Fury|8,99€|85|2024-01-16 16h|2024-01-23 16h|
 |#|highway-driving-140121|Highway Driving|8,99€|80|2024-01-16 16h|2024-01-23 16h|
@@ -257,7 +250,6 @@
 |#|night-loops-aa3cc2|Night Loops|8,99€|20|2023-12-21 14h|2024-01-06 05h|
 |#|outbreak-the-new-nightmare-revisited-90517a|Outbreak The New Nightmare Revisited|8,99€|50|2024-01-09 16h|2024-01-16 16h|
 |#|outcore-desktop-adventure-eb3aff|Outcore - Desktop Adventure|8,99€|30|2024-01-16 16h|2024-01-23 16h|
-|#|painter-simulator-95e551|Painter Simulator|8,99€|40|2023-12-17 20h|2023-12-31 20h|
 |#|palladium-adventure-in-greece-f1ee1b|Palladium: Adventure in Greece|8,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|prison-city-ac156c|Prison City|8,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|quiz-time-e4daaa|Quiz Time|8,99€|80|2024-01-16 16h|2024-01-23 16h|

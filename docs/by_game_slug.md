@@ -19,9 +19,7 @@
 |#|anno-mutationem-ef8b9e|ANNO Mutationem|20,99€|40|2023-12-28 16h|2024-01-06 16h|
 |#|anonymous-hunting-simulator-5eac14|ANONYMOUS HUNTING SIMULATOR|0,89€|50|2023-12-17 22h|2024-01-01 22h|
 |#|anuchard-08179d|Anuchard|14,99€|75|2023-12-21 14h|2024-01-06 05h|
-|#|aquarist-eb083d|Aquarist|10,79€|20|2023-12-17 20h|2023-12-31 20h|
 |#|arcrunner-61fee6|ArcRunner|19,99€|20|2024-02-09 16h|2024-02-12 16h|
-|#|arena-renovation-409f55|Arena Renovation|13,49€|20|2023-12-17 20h|2023-12-31 20h|
 |#|arons-adventure-1e76cd|Aron's Adventure: Magic Reborn|17,99€|40|2023-12-27 14h|2024-01-07 00h|
 |#|arto-ff98ff|Arto|19,99€|30|2023-12-21 14h|2024-01-06 05h|
 |#|assassins-creed-chronicles-trilogy|Assassin's Creed Chronicles – Trilogy|24,99€|70|2023-12-28 16h|2024-01-10 16h|
@@ -62,7 +60,6 @@
 |#|coromon-d4ef84|Coromon|15,99€|50|2023-12-21 14h|2024-01-06 05h|
 |#|cosmic-express|Cosmic Express|13,49€|75|2023-12-22 01h|2024-01-10 23h|
 |#|county-hospital-aa8e79|County Hospital|4,49€|20|2024-01-16 16h|2024-01-23 16h|
-|#|creatura-270265|Creatura|13,49€|50|2023-12-17 20h|2023-12-31 20h|
 |#|cryofall-331358|CryoFall|19,99€|81|2023-12-20 09h|2023-12-26 23h|
 |#|culpa-innata-8997ac|Culpa Innata|9,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|curse-of-the-sea-rats-8f28b1|Curse of the Sea Rats|17,99€|30|2024-02-09 16h|2024-02-12 16h|
@@ -103,8 +100,6 @@
 |#|extreme-offroad-racing-439263|Extreme Offroad Racing|8,99€|80|2024-01-16 16h|2024-01-23 16h|
 |#|far-cry-new-dawn-complete|Far Cry New Dawn Complete|99,99€|85|2023-12-28 16h|2024-01-10 16h|
 |#|far-cry-primal|Far Cry Primal Standard Edition|29,99€|75|2023-12-28 16h|2024-01-10 16h|
-|#|farmers-father-save-the-innocence-abf9c9|Farmer's Father - Save the Innocence|8,99€|20|2023-12-17 20h|2023-12-31 20h|
-|#|farmers-life-f91b9a|Farmer's Life|17,99€|30|2023-12-17 20h|2023-12-31 20h|
 |#|fire-44c606|Fire: Ungh’s Quest|9,99€|90|2023-12-20 09h|2023-12-26 23h|
 |#|fire-commander-df24ad|Fire Commander|11,99€|25|2024-02-09 16h|2024-02-12 16h|
 |#|fish-db1795|Fish|22,39€|50|2024-02-09 16h|2024-02-12 16h|
@@ -113,7 +108,6 @@
 |#|flatout-940461|Flatout|3,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|football-manager-2024|Football Manager 2024|59,99€|10|2023-12-21 15h|2023-12-27 15h|
 |#|for-the-king|For The King|19,99€|75|2023-12-18 18h|2024-01-17 18h|
-|#|forest-ranger-simulator-31788c|Forest Ranger Simulator|13,49€|25|2023-12-17 20h|2023-12-31 20h|
 |#|forklift-2024-the-simulation-eb32c5|Forklift 2024 - The Simulation|13,49€|50|2023-12-20 00h|2024-01-02 00h|
 |#|from-dust|From Dust|9,99€|75|2023-12-28 17h|2024-01-10 17h|
 |#|front-mission-1st-remake-124a24|FRONT MISSION 1st: Remake|31,39€|33|2024-01-09 16h|2024-01-16 16h|
@@ -231,7 +225,6 @@
 |#|overtop-ed5e49|Overtop|4,49€|80|2024-01-01 22h|2024-01-21 22h|
 |#|overtop-ed5e49|Overtop|4,49€|90|2024-02-24 22h|2024-03-14 22h|
 |#|oxygen-cocktail-20cd1c|Oxygen Cocktail|5,39€|10|2023-12-24 06h|2024-01-05 06h|
-|#|painter-simulator-95e551|Painter Simulator|8,99€|40|2023-12-17 20h|2023-12-31 20h|
 |#|palladium-adventure-in-greece-f1ee1b|Palladium: Adventure in Greece|8,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|parakacuk-22f4b2|Troublemaker|19,99€|30|2023-12-21 14h|2024-01-06 05h|
 |#|partisans-1941|Partisans 1941|39,99€|77|2023-12-20 09h|2023-12-26 23h|
@@ -288,7 +281,6 @@
 |#|spinner-invaders-d453e7|Spinner Invaders|4,49€|75|2024-02-09 16h|2024-02-12 16h|
 |#|splinter-cell|Tom Clancy's Splinter Cell|4,99€|75|2023-12-28 16h|2024-01-10 16h|
 |#|splinter-cell-double-agent|Tom Clancy’s Splinter Cell Double Agent|4,99€|75|2023-12-28 16h|2024-01-10 16h|
-|#|split-29a6ef|Split|10,79€|50|2023-12-17 20h|2023-12-31 20h|
 |#|starport-trading-company-9b3538|Spaceport Trading Company|13,49€|25|2024-01-16 16h|2024-01-23 16h|
 |#|steel-fury-kharkov-1942-cdfbd6|Steel Fury Kharkov 1942|3,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|steep|Steep Standard Edition|29,99€|85|2023-12-28 16h|2024-01-10 16h|

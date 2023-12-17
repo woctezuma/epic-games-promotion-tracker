@@ -32,14 +32,6 @@
 |#|shame-legacy-ef1b66|Shame Legacy|22,39€|70|2023-12-22 09h|2023-12-31 09h|
 |#|war-mongrels|War Mongrels|37,99€|65|2023-12-20 09h|2023-12-31 09h|
 |#|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|85|2023-12-21 23h|2023-12-31 11h|
-|#|aquarist-eb083d|Aquarist|10,79€|20|2023-12-17 20h|2023-12-31 20h|
-|#|arena-renovation-409f55|Arena Renovation|13,49€|20|2023-12-17 20h|2023-12-31 20h|
-|#|creatura-270265|Creatura|13,49€|50|2023-12-17 20h|2023-12-31 20h|
-|#|farmers-father-save-the-innocence-abf9c9|Farmer's Father - Save the Innocence|8,99€|20|2023-12-17 20h|2023-12-31 20h|
-|#|farmers-life-f91b9a|Farmer's Life|17,99€|30|2023-12-17 20h|2023-12-31 20h|
-|#|forest-ranger-simulator-31788c|Forest Ranger Simulator|13,49€|25|2023-12-17 20h|2023-12-31 20h|
-|#|painter-simulator-95e551|Painter Simulator|8,99€|40|2023-12-17 20h|2023-12-31 20h|
-|#|split-29a6ef|Split|10,79€|50|2023-12-17 20h|2023-12-31 20h|
 |#|anonymous-hunting-simulator-5eac14|ANONYMOUS HUNTING SIMULATOR|0,89€|50|2023-12-17 22h|2024-01-01 22h|
 |#|heim-33ba21|Heim|12,59€|70|2023-12-20 11h|2024-01-01 23h|
 |#|forklift-2024-the-simulation-eb32c5|Forklift 2024 - The Simulation|13,49€|50|2023-12-20 00h|2024-01-02 00h|
