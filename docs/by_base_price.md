@@ -57,7 +57,6 @@
 |#|horizon-chase-2|Horizon Chase 2|24,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|imagine-earth-7498e4|Imagine Earth|24,99€|55|2024-02-09 16h|2024-02-12 16h|
 |#|one-military-camp-8db1f6|One Military Camp|24,99€|40|2023-12-21 17h|2024-01-04 17h|
-|#|pc-building-simulator-2|PC Building Simulator 2|24,99€|25|2024-02-09 16h|2024-02-12 16h|
 |#|retreat-to-enen-60ef78|Retreat To Enen|24,99€|50|2023-12-21 14h|2024-01-06 05h|
 |#|going-medieval|Going Medieval|24,49€|20|2024-02-09 16h|2024-02-12 16h|
 |#|conway-disappearance-5d6354|Conway: Disappearance at Dahlia View|23,99€|33|2023-12-19 06h|2023-12-29 00h|
@@ -88,7 +87,6 @@
 |#|children-of-silentown-52cc21|Children of Silentown|19,99€|55|2023-12-20 09h|2023-12-26 23h|
 |#|city-of-beats-08f8c2|City of Beats|19,99€|30|2023-12-21 14h|2024-01-05 18h|
 |#|cryofall-331358|CryoFall|19,99€|81|2023-12-20 09h|2023-12-26 23h|
-|#|deponia-doomsday-1848dd|Deponia Doomsday|19,99€|90|2023-12-20 09h|2023-12-26 23h|
 |#|dreamscaper|Dreamscaper|19,99€|70|2023-12-21 14h|2024-01-06 04h|
 |#|dust-fleet-620614|Dust Fleet|19,99€|20|2023-12-21 14h|2024-01-06 05h|
 |#|for-the-king|For The King|19,99€|75|2023-12-18 18h|2024-01-17 18h|

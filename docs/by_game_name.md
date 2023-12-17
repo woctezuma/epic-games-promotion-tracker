@@ -73,7 +73,6 @@
 |#|dark-deity-0b08d1|Dark Deity|21,99€|75|2023-12-21 14h|2024-01-06 05h|
 |#|dark-mystery-baf914|Dark Mystery|6,29€|80|2024-01-16 16h|2024-01-23 16h|
 |#|dead-by-murder-190eab|Dead By Murder|4,49€|80|2024-02-09 16h|2024-02-12 16h|
-|#|deponia-doomsday-1848dd|Deponia Doomsday|19,99€|90|2023-12-20 09h|2023-12-26 23h|
 |#|deponia-the-complete-journey|Deponia: The Complete Journey|29,99€|90|2023-12-20 09h|2023-12-26 23h|
 |#|desktop-girlfriend-neo-136f5a|Desktop Girlfriend NEO|3,59€|22|2024-02-09 16h|2024-02-12 16h|
 |#|diplomacy-is-not-an-option-9c6bea|Diplomacy is Not an Option|20,99€|20|2024-02-09 16h|2024-02-12 16h|
@@ -231,7 +230,6 @@
 |#|overtop-ed5e49|Overtop|4,49€|90|2024-02-24 22h|2024-03-14 22h|
 |#|oxygen-cocktail-20cd1c|Oxygen Cocktail|5,39€|10|2023-12-24 06h|2024-01-05 06h|
 |#|pc-building-simulator|PC Building Simulator|15,99€|75|2024-02-09 16h|2024-02-12 16h|
-|#|pc-building-simulator-2|PC Building Simulator 2|24,99€|25|2024-02-09 16h|2024-02-12 16h|
 |#|painter-simulator-95e551|Painter Simulator|8,99€|40|2023-12-17 20h|2023-12-31 20h|
 |#|palladium-adventure-in-greece-f1ee1b|Palladium: Adventure in Greece|8,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|partisans-1941|Partisans 1941|39,99€|77|2023-12-20 09h|2023-12-26 23h|

@@ -75,7 +75,6 @@
 |#|dark-mystery-baf914|Dark Mystery|6,29€|80|2024-01-16 16h|2024-01-23 16h|
 |#|dead-by-murder-190eab|Dead By Murder|4,49€|80|2024-02-09 16h|2024-02-12 16h|
 |#|deltav-rings-of-saturn-4cd187|ΔV: Rings of Saturn|8,99€|37|2024-02-09 16h|2024-02-12 16h|
-|#|deponia-doomsday-1848dd|Deponia Doomsday|19,99€|90|2023-12-20 09h|2023-12-26 23h|
 |#|deponia-the-complete-journey|Deponia: The Complete Journey|29,99€|90|2023-12-20 09h|2023-12-26 23h|
 |#|desktop-girlfriend-neo-136f5a|Desktop Girlfriend NEO|3,59€|22|2024-02-09 16h|2024-02-12 16h|
 |#|diplomacy-is-not-an-option-9c6bea|Diplomacy is Not an Option|20,99€|20|2024-02-09 16h|2024-02-12 16h|
@@ -239,7 +238,6 @@
 |#|partisans-1941|Partisans 1941|39,99€|77|2023-12-20 09h|2023-12-26 23h|
 |#|paw-paw-destiny-843848|Paw Paw Destiny|13,49€|11|2024-02-09 16h|2024-02-12 16h|
 |#|pc-building-simulator|PC Building Simulator|15,99€|75|2024-02-09 16h|2024-02-12 16h|
-|#|pc-building-simulator-2|PC Building Simulator 2|24,99€|25|2024-02-09 16h|2024-02-12 16h|
 |#|persha-and-the-magic-labyrinth-ca72d4|Persha and the Magic Labyrinth -Arabian Nyaights-|9,99€|50|2023-12-22 05h|2024-01-10 16h|
 |#|poker-club-6e18ee|Poker Club|19,99€|45|2024-02-09 16h|2024-02-12 16h|
 |#|polygon-survival-2374fc|Polygon Survival|0,89€|50|2024-01-14 22h|2024-01-30 22h|
