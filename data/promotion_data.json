@@ -1116,15 +1116,6 @@
     "title": "GINSHA"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2023-12-31T00:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1079,
-    "slug": "galactic-empire-f23125",
-    "startDate": "2023-12-17T00:00:00.000Z",
-    "title": "Galactic Empire"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2024-01-23T16:00:00.000Z",
     "isFree": false,
