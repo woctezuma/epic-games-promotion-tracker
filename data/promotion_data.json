@@ -181,30 +181,12 @@
   },
   {
     "discountPercentage": 20,
-    "endDate": "2023-12-31T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1079,
-    "slug": "aquarist-eb083d",
-    "startDate": "2023-12-17T20:00:00.000Z",
-    "title": "Aquarist"
-  },
-  {
-    "discountPercentage": 20,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1999,
     "slug": "arcrunner-61fee6",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "ArcRunner"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2023-12-31T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1349,
-    "slug": "arena-renovation-409f55",
-    "startDate": "2023-12-17T20:00:00.000Z",
-    "title": "Arena Renovation"
   },
   {
     "discountPercentage": 40,
@@ -547,15 +529,6 @@
     "slug": "county-hospital-aa8e79",
     "startDate": "2024-01-16T16:00:00.000Z",
     "title": "County Hospital"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2023-12-31T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1349,
-    "slug": "creatura-270265",
-    "startDate": "2023-12-17T20:00:00.000Z",
-    "title": "Creatura"
   },
   {
     "discountPercentage": 81,
@@ -918,24 +891,6 @@
     "title": "Far Cry Primal Standard Edition"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2023-12-31T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 899,
-    "slug": "farmers-father-save-the-innocence-abf9c9",
-    "startDate": "2023-12-17T20:00:00.000Z",
-    "title": "Farmer's Father - Save the Innocence"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2023-12-31T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1799,
-    "slug": "farmers-life-f91b9a",
-    "startDate": "2023-12-17T20:00:00.000Z",
-    "title": "Farmer's Life"
-  },
-  {
     "discountPercentage": 25,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -1015,15 +970,6 @@
     "slug": "for-the-king",
     "startDate": "2023-12-18T18:00:00.000Z",
     "title": "For The King"
-  },
-  {
-    "discountPercentage": 25,
-    "endDate": "2023-12-31T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1349,
-    "slug": "forest-ranger-simulator-31788c",
-    "startDate": "2023-12-17T20:00:00.000Z",
-    "title": "Forest Ranger Simulator"
   },
   {
     "discountPercentage": 50,
@@ -2070,15 +2016,6 @@
     "title": "PC Building Simulator 2"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2023-12-31T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 899,
-    "slug": "painter-simulator-95e551",
-    "startDate": "2023-12-17T20:00:00.000Z",
-    "title": "Painter Simulator"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -2545,15 +2482,6 @@
     "slug": "spinner-invaders-d453e7",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Spinner Invaders"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2023-12-31T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1079,
-    "slug": "split-29a6ef",
-    "startDate": "2023-12-17T20:00:00.000Z",
-    "title": "Split"
   },
   {
     "discountPercentage": 80,
