@@ -1,7 +1,6 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
 |#|mysterygame-2|Mystery Game Day 2|0,00€|100|2023-12-20 16h|2023-12-21 16h|
-|#|hanoi-puzzles-solid-match-6a9e0c|Hanoi Puzzles - Solid Match|2,69€|20|2023-12-18 18h|2023-12-25 17h|
 |#|dream-magic-will-358429|Dream magic will|3,59€|50|2023-12-20 04h|2023-12-26 04h|
 |#|aer-memories-of-old|AER Memories of Old|14,99€|90|2023-12-20 09h|2023-12-26 23h|
 |#|annas-quest-fbefa2|Anna's Quest|19,99€|90|2023-12-20 09h|2023-12-26 23h|
@@ -173,11 +172,7 @@
 |#|the-hive-f5c2c8|The Hive|13,49€|50|2024-01-09 16h|2024-01-16 16h|
 |#|trash-troopers-earth-reclaim-48721c|Trash Troopers Earth Reclaim|4,49€|20|2024-01-09 16h|2024-01-16 16h|
 |#|tribu-55feb1|Tribu|9,89€|45|2024-01-09 16h|2024-01-16 16h|
-|#|a-knights-quest|A Knights Quest|24,99€|90|2023-12-18 18h|2024-01-17 18h|
-|#|for-the-king|For The King|19,99€|75|2023-12-18 18h|2024-01-17 18h|
-|#|hue|Hue|11,99€|80|2023-12-18 18h|2024-01-17 18h|
-|#|just-die-already|Just Die Already|13,99€|70|2023-12-18 18h|2024-01-17 18h|
-|#|lawn-mowing-simulator-838bf3|Lawn Mowing Simulator|19,99€|66|2023-12-18 18h|2024-01-17 18h|
+|#|1971-indian-naval-front-9cc046|1971 Indian Naval Front|13,49€|40|2024-01-12 18h|2024-01-19 18h|
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2023-12-29 22h|2024-01-19 22h|
 |#|overtop-ed5e49|Overtop|4,49€|80|2024-01-01 22h|2024-01-21 22h|
 |#|avatar-frontiers-of-pandora|Avatar: Frontiers of Pandora|69,99€|25|2024-01-16 16h|2024-01-23 16h|
@@ -192,6 +187,7 @@
 |#|extreme-offroad-racing-439263|Extreme Offroad Racing|8,99€|80|2024-01-16 16h|2024-01-23 16h|
 |#|funtoons-world-0e63dd|Funtoon's World|5,39€|80|2024-01-16 16h|2024-01-23 16h|
 |#|game-dev-masters-f5d8f9|Game Dev Masters|13,49€|75|2024-01-16 16h|2024-01-23 16h|
+|#|giana-sisters-twisted-dreams-9124c7|Giana Sisters – Twisted Dreams|14,99€|80|2024-01-16 16h|2024-01-23 16h|
 |#|gladiator-blades-of-fury-1a745b|Gladiator : Blades of Fury|8,99€|85|2024-01-16 16h|2024-01-23 16h|
 |#|highway-driving-140121|Highway Driving|8,99€|80|2024-01-16 16h|2024-01-23 16h|
 |#|horror-adventure-26ec62|Horror Adventure|8,99€|80|2024-01-16 16h|2024-01-23 16h|
@@ -205,6 +201,7 @@
 |#|quiz-time-e4daaa|Quiz Time|8,99€|80|2024-01-16 16h|2024-01-23 16h|
 |#|sherlock-holmes-chapter-one|Sherlock Holmes Chapter One|44,99€|80|2024-01-16 16h|2024-01-23 16h|
 |#|sherlock-holmes-the-awakened|Sherlock Holmes The Awakened|39,99€|50|2024-01-16 16h|2024-01-23 16h|
+|#|skydrift-infinity-c4ca37|SkyDrift Infinity|9,99€|50|2024-01-16 16h|2024-01-23 16h|
 |#|space-explore-d8aab3|Space Explore|8,99€|80|2024-01-16 16h|2024-01-23 16h|
 |#|starport-trading-company-9b3538|Spaceport Trading Company|13,49€|25|2024-01-16 16h|2024-01-23 16h|
 |#|sudoku-zenkai-3990b1|Sudoku Zenkai|3,59€|15|2024-01-16 16h|2024-01-23 16h|
@@ -214,6 +211,7 @@
 |#|turnip-boy-robs-a-bank-3fae0e|Turnip Boy Robs a Bank|13,49€|10|2024-01-18 15h|2024-01-25 15h|
 |#|trex-dinosaur-game-d30355|T-Rex Dinosaur Game|0,89€|50|2024-01-09 22h|2024-01-25 22h|
 |#|it-follows-you-b11f3e|It follows you|1,59€|60|2024-01-12 03h|2024-01-30 03h|
+|#|el-hijo-6b63c5|El Hijo – A Wild West Tale|19,99€|75|2024-01-23 16h|2024-01-30 16h|
 |#|polygon-survival-2374fc|Polygon Survival|0,89€|50|2024-01-14 22h|2024-01-30 22h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|70|2024-01-11 22h|2024-01-30 22h|
 |#|indoorlands-3b2356|Indoorlands|17,09€|30|2024-01-21 00h|2024-01-31 00h|
@@ -224,6 +222,7 @@
 |#|saboteur-sio-123236|Saboteur SiO|9,89€|20|2024-01-05 23h|2024-02-04 23h|
 |#|saboteur-f3d01d|Saboteur!|7,19€|20|2024-01-05 23h|2024-02-04 23h|
 |#|a-second-before-the-war-55b226|A Second Before The War|5,39€|20|2024-01-12 02h|2024-02-06 02h|
+|#|locks-quest-befcf1|Locks Quest|14,99€|80|2024-01-30 16h|2024-02-06 16h|
 |#|life-after-death-b4e964|Life After Death|4,49€|40|2024-01-22 01h|2024-02-10 01h|
 |#|he-will-shoot-46efff|He Will Shoot|1,59€|60|2024-01-25 03h|2024-02-10 03h|
 |#|1428-shadows-over-silesia-266e5f|1428: Shadows over Silesia|19,99€|50|2024-02-09 16h|2024-02-12 16h|
