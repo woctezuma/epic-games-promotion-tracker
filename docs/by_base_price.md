@@ -265,7 +265,8 @@
 |#|super-kids-racing-7bf296|Super Kids Racing|8,99€|80|2024-01-16 16h|2024-01-23 16h|
 |#|super-kids-racing-mini-edition-65c0fa|Super Kids Racing - Mini Edition|8,99€|80|2024-01-16 16h|2024-01-23 16h|
 |#|tales-of-the-tiny-planet-ab9e11|Tales of the Tiny Planet|8,99€|30|2024-01-21 00h|2024-01-31 00h|
-|#|warshift-127867|WARSHIFT|8,99€|50|2024-01-09 16h|2024-01-16 16h|
+|#|warshift-127867|WARSHIFT|8,99€|50|2023-12-22 02h|2024-01-05 02h|
+|#|warshift-127867|WARSHIFT|8,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|xr22seaguard-480497|XR22-SEAGUARD|8,99€|30|2023-12-29 00h|2024-01-07 00h|
 |#|next-game-c139be|Zi|8,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|deltav-rings-of-saturn-4cd187|ΔV: Rings of Saturn|8,99€|37|2024-02-09 16h|2024-02-12 16h|

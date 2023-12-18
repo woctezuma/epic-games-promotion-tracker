@@ -361,7 +361,8 @@
 |#|warhammer-age-of-sigmar-realms-of-ruin|Warhammer Age of Sigmar: Realms of Ruin|59,99€|40|2023-12-21 18h|2024-01-04 18h|
 |#|warpips-57e2c4|Warpips|14,99€|81|2023-12-20 09h|2023-12-26 23h|
 |#|warrior-kings-d07850|Warrior Kings|3,99€|70|2024-02-09 16h|2024-02-12 16h|
-|#|warshift-127867|WARSHIFT|8,99€|50|2024-01-09 16h|2024-01-16 16h|
+|#|warshift-127867|WARSHIFT|8,99€|50|2023-12-22 02h|2024-01-05 02h|
+|#|warshift-127867|WARSHIFT|8,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|watch-dogs-legion--ultimate-edition|Watch Dogs: Legion Ultimate Edition|119,99€|80|2023-12-28 16h|2024-01-10 16h|
 |#|world-turtles-b2139d|World Turtles|19,99€|30|2023-12-21 14h|2024-01-06 05h|
 |#|wrc|EA SPORTS™ WRC|49,99€|40|2023-12-21 18h|2024-01-10 16h|

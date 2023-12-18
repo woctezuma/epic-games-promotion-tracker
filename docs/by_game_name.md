@@ -356,7 +356,8 @@
 |#|victorian-admirals-panama-crisis-1885-7e5372|Victorian Admirals Panama Crisis 1885|13,49€|80|2024-02-09 16h|2024-02-12 16h|
 |#|virtual-rides-3-2add3b|Virtual Rides 3|22,39€|30|2024-01-21 00h|2024-01-31 00h|
 |#|voltaire-e1c517|Voltaire: The Vegan Vampire|19,99€|30|2023-12-21 14h|2024-01-06 05h|
-|#|warshift-127867|WARSHIFT|8,99€|50|2024-01-09 16h|2024-01-16 16h|
+|#|warshift-127867|WARSHIFT|8,99€|50|2023-12-22 02h|2024-01-05 02h|
+|#|warshift-127867|WARSHIFT|8,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|war-mongrels|War Mongrels|37,99€|65|2023-12-20 09h|2023-12-31 09h|
 |#|warhammer-age-of-sigmar-realms-of-ruin|Warhammer Age of Sigmar: Realms of Ruin|59,99€|40|2023-12-21 18h|2024-01-04 18h|
 |#|warpips-57e2c4|Warpips|14,99€|81|2023-12-20 09h|2023-12-26 23h|
