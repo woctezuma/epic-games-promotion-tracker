@@ -112,7 +112,6 @@
 |#|frontier-hunter-erzas-wheel-of-fortune|Frontier Hunter: Erza's Wheel of Fortune|15,99€|25|2024-01-04 08h|2024-01-10 08h|
 |#|endlessdungeonnewgene|ENDLESS™ Dungeon|29,99€|10|2023-12-20 12h|2024-01-10 12h|
 |#|1428-shadows-over-silesia-266e5f|1428: Shadows over Silesia|19,99€|50|2024-01-07 14h|2024-01-10 16h|
-|#|adios-b378b4|Adios|13,99€|15|2023-12-18 19h|2024-01-10 16h|
 |#|aerial-knights-never-yield|Aerial_Knight's Never Yield|11,99€|75|2023-12-19 16h|2024-01-10 16h|
 |#|assassins-creed-chronicles-trilogy|Assassin's Creed Chronicles – Trilogy|24,99€|70|2023-12-28 16h|2024-01-10 16h|
 |#|assassins-creed-valhalla-immortals-fenyx-rising-bundle|Assassin’s Creed® Valhalla + Immortals Fenyx Rising™ Bundle|109,99€|40|2023-12-28 16h|2024-01-10 16h|
