@@ -71,6 +71,7 @@
 |#|roboquest-9ad17a|Roboquest|22,39€|25|2023-12-21 08h|2024-01-05 08h|
 |#|shame-legacy-ef1b66|Shame Legacy|22,39€|70|2023-12-22 09h|2023-12-31 09h|
 |#|timberborn|Timberborn|22,39€|20|2024-02-09 16h|2024-02-12 16h|
+|#|virtual-rides-3-2add3b|Virtual Rides 3|22,39€|60|2024-01-21 00h|2024-01-31 00h|
 |#|dark-deity-0b08d1|Dark Deity|21,99€|75|2023-12-21 14h|2024-01-06 05h|
 |#|sands-of-aura|Sands of Aura|21,99€|40|2023-12-21 14h|2024-01-06 05h|
 |#|the-witch-of-fern-island-18df35|The Witch of Fern Island|21,99€|20|2023-12-21 14h|2024-01-06 05h|
@@ -143,6 +144,7 @@
 |#|strike-force-3-f567f1|Strike Force 3|17,99€|50|2023-12-20 00h|2024-01-02 00h|
 |#|the-front-3a8219|The Front|17,99€|30|2023-12-28 18h|2024-01-04 18h|
 |#|victorian-admirals-marianas-incident-1887-7d4e70|Victorian Admirals Marianas Incident 1887|17,99€|80|2024-02-09 16h|2024-02-12 16h|
+|#|indoorlands-3b2356|Indoorlands|17,09€|50|2024-01-21 00h|2024-01-31 00h|
 |#|lego-builders-journey|LEGO® Builder's Journey|16,99€|66|2024-02-09 16h|2024-02-12 16h|
 |#|the-suicide-of-rachel-foster-1dc01b|The Suicide of Rachel Foster|16,99€|90|2023-12-20 09h|2023-12-26 23h|
 |#|baby-storm-426245|Baby Storm|16,19€|50|2024-01-09 16h|2024-01-16 16h|
