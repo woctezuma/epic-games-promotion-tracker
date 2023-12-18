@@ -216,6 +216,15 @@
     "title": "Assassin\u2019s Creed\u00ae Valhalla + Immortals Fenyx Rising\u2122 Bundle"
   },
   {
+    "discountPercentage": 25,
+    "endDate": "2024-01-23T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 6999,
+    "slug": "avatar-frontiers-of-pandora",
+    "startDate": "2024-01-16T16:00:00.000Z",
+    "title": "Avatar: Frontiers of Pandora"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-01-16T16:00:00.000Z",
     "isFree": false,
@@ -2779,6 +2788,15 @@
     "slug": "the-future-project-f19b52",
     "startDate": "2023-12-18T14:00:00.000Z",
     "title": "The Future Project"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-16T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "the-hive-f5c2c8",
+    "startDate": "2024-01-09T16:00:00.000Z",
+    "title": "The Hive"
   },
   {
     "discountPercentage": 20,
