@@ -99,6 +99,15 @@
     "title": "ANNO Mutationem"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-01-04T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2299,
+    "slug": "achilles-legends-untold-bb77ad",
+    "startDate": "2023-12-21T00:00:00.000Z",
+    "title": "Achilles Legends Untold"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -448,6 +457,15 @@
     "slug": "chess-ultra-91bba3",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Chess Ultra"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-30T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "chicken-police-paint-it-red",
+    "startDate": "2024-01-23T16:00:00.000Z",
+    "title": "Chicken Police - Paint it Red!"
   },
   {
     "discountPercentage": 70,
@@ -1620,6 +1638,15 @@
     "title": "Lifespace Traveler"
   },
   {
+    "discountPercentage": 65,
+    "endDate": "2024-02-06T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "little-big-workshop",
+    "startDate": "2024-01-30T16:00:00.000Z",
+    "title": "Little Big Workshop"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -1744,6 +1771,15 @@
     "slug": "maze-the-amazing-labyrinth-291abe",
     "startDate": "2024-01-16T16:00:00.000Z",
     "title": "Maze - The Amazing Labyrinth"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2399,
+    "slug": "mechwarrior-5",
+    "startDate": "2023-12-20T18:00:00.000Z",
+    "title": "MechWarrior 5: Mercenaries Standard Edition"
   },
   {
     "discountPercentage": 66,
@@ -2932,6 +2968,15 @@
     "slug": "this-war-of-mine",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "This War of Mine"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-30T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "through-the-darkest-of-times",
+    "startDate": "2024-01-23T16:00:00.000Z",
+    "title": "Through the Darkest of Times"
   },
   {
     "discountPercentage": 20,
