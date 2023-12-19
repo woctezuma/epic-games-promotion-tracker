@@ -164,6 +164,7 @@
 |#|ginsha-604f11|GINSHA|15,79€|20|2023-12-21 16h|2024-01-15 16h|
 |#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2023-12-25 22h|2024-01-15 22h|
 |#|baby-storm-426245|Baby Storm|16,19€|50|2024-01-09 16h|2024-01-16 16h|
+|#|dig-deep-in-galaxies-973f95|DIG - Deep In Galaxies|9,99€|25|2024-01-09 16h|2024-01-16 16h|
 |#|front-mission-1st-remake-124a24|FRONT MISSION 1st: Remake|31,39€|33|2024-01-09 16h|2024-01-16 16h|
 |#|inside-soccer-2bf632|Inside Soccer|4,49€|30|2024-01-09 16h|2024-01-16 16h|
 |#|mobilisation-78891a|Mobilization|5,39€|70|2024-01-09 16h|2024-01-16 16h|

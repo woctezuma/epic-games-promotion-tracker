@@ -68,6 +68,7 @@
 |#|cyvenge-55b56b|CyVenge|4,49€|50|2023-12-29 00h|2024-01-06 23h|
 |#|cyanide-happiness-freakpocalypse|Cyanide & Happiness - Freakpocalypse (Episode 1)|15,99€|55|2024-02-09 16h|2024-02-12 16h|
 |#|cyberpunk-2077|Cyberpunk 2077|59,99€|50|2023-12-28 16h|2024-12-10 16h|
+|#|dig-deep-in-galaxies-973f95|DIG - Deep In Galaxies|9,99€|25|2024-01-09 16h|2024-01-16 16h|
 |#|dangerous-waters-61ea56|Dangerous Waters|7,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|dark-deity-0b08d1|Dark Deity|21,99€|75|2023-12-21 14h|2024-01-06 05h|
 |#|dark-mystery-baf914|Dark Mystery|6,29€|80|2024-01-16 16h|2024-01-23 16h|

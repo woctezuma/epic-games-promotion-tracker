@@ -233,6 +233,7 @@
 |#|space-empires-v-0319fd|Space Empires V|11,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|stone-guardian-81fcc1|Stone Guardian|11,69€|20|2024-02-09 16h|2024-02-12 16h|
 |#|culpa-innata-8997ac|Culpa Innata|9,99€|80|2024-02-09 16h|2024-02-12 16h|
+|#|dig-deep-in-galaxies-973f95|DIG - Deep In Galaxies|9,99€|25|2024-01-09 16h|2024-01-16 16h|
 |#|fire-44c606|Fire: Ungh’s Quest|9,99€|90|2023-12-20 09h|2023-12-26 23h|
 |#|flat-heroes-fec628|Flat Heroes|9,99€|50|2023-12-21 00h|2024-01-04 12h|
 |#|from-dust|From Dust|9,99€|75|2023-12-28 17h|2024-01-10 17h|

@@ -312,6 +312,7 @@
 |#|xr22seaguard-480497|XR22-SEAGUARD|8,99€|30|2023-12-29 00h|2024-01-07 00h|
 |#|avatar-frontiers-of-pandora|Avatar: Frontiers of Pandora|69,99€|25|2024-01-16 16h|2024-01-23 16h|
 |#|black-hair-girl-is-best-girl-415031|Black Hair Girl is Best Girl|5,39€|25|2024-02-09 16h|2024-02-12 16h|
+|#|dig-deep-in-galaxies-973f95|DIG - Deep In Galaxies|9,99€|25|2024-01-09 16h|2024-01-16 16h|
 |#|doki-doki-literature-club-plus|Doki Doki Literature Club Plus!|12,49€|25|2024-02-09 16h|2024-02-12 16h|
 |#|fire-commander-df24ad|Fire Commander|11,99€|25|2024-02-09 16h|2024-02-12 16h|
 |#|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|25|2024-01-07 04h|2024-01-14 04h|
