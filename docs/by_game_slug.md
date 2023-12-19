@@ -8,6 +8,7 @@
 |#|a-good-snowman-is-hard-to-build|A Good Snowman is Hard to Build|13,49€|75|2023-12-22 01h|2024-01-10 23h|
 |#|a-monsters-expedition|A Monster's Expedition|22,39€|50|2023-12-22 01h|2024-01-10 23h|
 |#|a-second-before-the-war-55b226|A Second Before The War|5,39€|20|2024-01-12 02h|2024-02-06 02h|
+|#|a69fce80b6514335854839a3756e9ca4|PAYDAY 2|9,99€|90|2023-12-21 18h|2024-01-04 18h|
 |#|aer-memories-of-old|AER Memories of Old|14,99€|90|2023-12-20 09h|2023-12-26 23h|
 |#|aerial-knights-never-yield|Aerial_Knight's Never Yield|11,99€|75|2023-12-19 16h|2024-01-10 16h|
 |#|airborne-kingdom|Airborne Kingdom|20,99€|50|2023-12-21 14h|2024-01-06 04h|
@@ -233,7 +234,6 @@
 |#|parakacuk-22f4b2|Troublemaker|19,99€|30|2023-12-21 14h|2024-01-06 05h|
 |#|partisans-1941|Partisans 1941|39,99€|77|2023-12-20 09h|2023-12-26 23h|
 |#|paw-paw-destiny-843848|Paw Paw Destiny|13,49€|11|2024-02-09 16h|2024-02-12 16h|
-|#|payday-2-c66369|PAYDAY 2|9,99€|90|2023-12-21 18h|2024-01-04 18h|
 |#|pc-building-simulator|PC Building Simulator|15,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|pc-building-simulator-2|PC Building Simulator 2|24,99€|25|2024-02-09 16h|2024-02-12 16h|
 |#|persha-and-the-magic-labyrinth-ca72d4|Persha and the Magic Labyrinth -Arabian Nyaights-|9,99€|50|2023-12-22 05h|2024-01-10 16h|
