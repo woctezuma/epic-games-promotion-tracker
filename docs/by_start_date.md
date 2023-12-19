@@ -37,6 +37,7 @@
 |#|mechwarrior-5|MechWarrior 5: Mercenaries Standard Edition|23,99€|50|2023-12-20 18h|2024-01-10 16h|
 |#|achilles-legends-untold-bb77ad|Achilles Legends Untold|22,99€|40|2023-12-21 00h|2024-01-04 11h|
 |#|flat-heroes-fec628|Flat Heroes|9,99€|50|2023-12-21 00h|2024-01-04 12h|
+|#|endless-memories-1ccb13|Endless Memories|17,99€|50|2023-12-21 06h|2024-01-01 05h|
 |#|roboquest-9ad17a|Roboquest|22,39€|25|2023-12-21 08h|2024-01-05 08h|
 |#|gold-rush-classic-34d7d5|Gold Rush! Classic|2,69€|44|2023-12-21 09h|2024-01-07 09h|
 |#|9-years-of-shadows-a40c92|9 Years of Shadows|19,99€|30|2023-12-21 14h|2024-01-06 05h|
@@ -267,7 +268,7 @@
 |#|frostpunk|Frostpunk|27,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|gamedec|Gamedec - Definitive Edition|29,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|garden-story|Garden Story|19,99€|60|2024-02-09 16h|2024-02-12 16h|
-|#|5f848825c09e47abb732931f6d1ba55d|Ghost Master|3,99€|80|2024-02-09 16h|2024-02-12 16h|
+|#|ghost-master-2-7b7040|Ghost Master|3,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|goat-simulator-3|Goat Simulator 3|29,99€|40|2024-02-09 16h|2024-02-12 16h|
 |#|going-medieval|Going Medieval|24,49€|20|2024-02-09 16h|2024-02-12 16h|
 |#|good-company|Good Company|22,99€|33|2024-02-09 16h|2024-02-12 16h|
