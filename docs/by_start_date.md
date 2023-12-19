@@ -177,6 +177,7 @@
 |#|the-hive-f5c2c8|The Hive|13,49€|50|2024-01-09 16h|2024-01-16 16h|
 |#|trash-troopers-earth-reclaim-48721c|Trash Troopers Earth Reclaim|4,49€|20|2024-01-09 16h|2024-01-16 16h|
 |#|tribu-55feb1|Tribu|9,89€|45|2024-01-09 16h|2024-01-16 16h|
+|#|virus-infinite-b9ed68|Virus Infinite|13,49€|50|2024-01-09 16h|2024-01-16 16h|
 |#|trex-dinosaur-game-d30355|T-Rex Dinosaur Game|0,89€|50|2024-01-09 22h|2024-01-25 22h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|70|2024-01-11 22h|2024-01-30 22h|
 |#|a-second-before-the-war-55b226|A Second Before The War|5,39€|20|2024-01-12 02h|2024-02-06 02h|

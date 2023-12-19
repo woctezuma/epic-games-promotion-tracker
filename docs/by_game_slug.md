@@ -355,6 +355,7 @@
 |#|victorian-admirals-marianas-incident-1887-7d4e70|Victorian Admirals Marianas Incident 1887|17,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|victorian-admirals-panama-crisis-1885-7e5372|Victorian Admirals Panama Crisis 1885|13,49€|80|2024-02-09 16h|2024-02-12 16h|
 |#|virtual-rides-3-2add3b|Virtual Rides 3|22,39€|30|2024-01-21 00h|2024-01-31 00h|
+|#|virus-infinite-b9ed68|Virus Infinite|13,49€|50|2024-01-09 16h|2024-01-16 16h|
 |#|voltaire-e1c517|Voltaire: The Vegan Vampire|19,99€|30|2023-12-21 14h|2024-01-06 05h|
 |#|war-mongrels|War Mongrels|37,99€|65|2023-12-20 09h|2023-12-31 09h|
 |#|warhammer-age-of-sigmar-realms-of-ruin|Warhammer Age of Sigmar: Realms of Ruin|59,99€|40|2023-12-21 18h|2024-01-04 18h|
