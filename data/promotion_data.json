@@ -612,6 +612,15 @@
     "title": "Cyberpunk 2077"
   },
   {
+    "discountPercentage": 25,
+    "endDate": "2024-01-16T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "dig-deep-in-galaxies-973f95",
+    "startDate": "2024-01-09T16:00:00.000Z",
+    "title": "DIG - Deep In Galaxies"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
