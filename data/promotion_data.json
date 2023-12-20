@@ -765,6 +765,15 @@
     "title": "Dreamscaper"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2024-01-07T02:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "dros-6da0b2",
+    "startDate": "2023-12-22T00:00:00.000Z",
+    "title": "Dros"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -997,15 +1006,6 @@
     "slug": "football-manager-2024",
     "startDate": "2023-12-21T15:00:00.000Z",
     "title": "Football Manager 2024"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2024-01-02T00:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1349,
-    "slug": "forklift-2024-the-simulation-eb32c5",
-    "startDate": "2023-12-20T00:00:00.000Z",
-    "title": "Forklift 2024 - The Simulation"
   },
   {
     "discountPercentage": 25,
@@ -2449,15 +2449,6 @@
   },
   {
     "discountPercentage": 50,
-    "endDate": "2024-01-10T00:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1529,
-    "slug": "sir-whoopass-757c5c",
-    "startDate": "2023-12-20T00:00:00.000Z",
-    "title": "Sir Whoopass - Immortal Death"
-  },
-  {
-    "discountPercentage": 50,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1529,
@@ -2599,15 +2590,6 @@
     "slug": "stone-guardian-81fcc1",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Stone Guardian"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2024-01-02T00:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1799,
-    "slug": "strike-force-3-f567f1",
-    "startDate": "2023-12-20T00:00:00.000Z",
-    "title": "Strike Force 3"
   },
   {
     "discountPercentage": 80,
@@ -3328,6 +3310,15 @@
     "slug": "xr22seaguard-480497",
     "startDate": "2023-12-29T00:00:00.000Z",
     "title": "XR22-SEAGUARD"
+  },
+  {
+    "discountPercentage": 15,
+    "endDate": "2024-01-08T08:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "xijiangshipyard-c16d2a",
+    "startDate": "2024-01-01T08:00:00.000Z",
+    "title": "Xijiang Shipyard"
   },
   {
     "discountPercentage": 50,
