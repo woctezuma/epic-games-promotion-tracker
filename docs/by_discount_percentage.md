@@ -262,6 +262,7 @@
 |#|life-after-death-b4e964|Life After Death|4,49€|40|2024-03-11 01h|2024-04-04 00h|
 |#|mail-time-ed1aea|Mail Time|19,99€|40|2023-12-21 14h|2024-01-06 05h|
 |#|one-military-camp-8db1f6|One Military Camp|24,99€|40|2023-12-21 17h|2024-01-04 17h|
+|#|return-of-red-riding-hood-enhanced-edition-3598e4|Return of Red Riding Hood Enhanced Edition|2,69€|40|2023-12-22 09h|2023-12-29 09h|
 |#|sands-of-aura|Sands of Aura|21,99€|40|2023-12-21 14h|2024-01-06 05h|
 |#|total-war-warhammer-3|Total War: WARHAMMER III|59,99€|40|2023-12-28 18h|2024-01-10 16h|
 |#|warhammer-age-of-sigmar-realms-of-ruin|Warhammer Age of Sigmar: Realms of Ruin|59,99€|40|2023-12-21 18h|2024-01-04 18h|
