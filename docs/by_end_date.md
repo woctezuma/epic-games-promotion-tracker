@@ -2,34 +2,10 @@
 |---|---|---|---|---|---|---|
 |#|mysterygame-2|Mystery Game Day 2|0,00€|100|2023-12-20 16h|2023-12-21 16h|
 |#|mysterygame-2-cn|Mystery Game Day 2|0,00€|100|2023-12-20 16h|2023-12-21 16h|
-|#|aer-memories-of-old|AER Memories of Old|14,99€|90|2023-12-20 09h|2023-12-26 23h|
-|#|annas-quest-fbefa2|Anna's Quest|19,99€|90|2023-12-20 09h|2023-12-26 23h|
-|#|children-of-silentown-52cc21|Children of Silentown|19,99€|55|2023-12-20 09h|2023-12-26 23h|
-|#|cryofall-331358|CryoFall|19,99€|81|2023-12-20 09h|2023-12-26 23h|
-|#|deponia-doomsday-1848dd|Deponia Doomsday|19,99€|90|2023-12-20 09h|2023-12-26 23h|
-|#|deponia-the-complete-journey|Deponia: The Complete Journey|29,99€|90|2023-12-20 09h|2023-12-26 23h|
-|#|fire-44c606|Fire: Ungh’s Quest|9,99€|90|2023-12-20 09h|2023-12-26 23h|
-|#|iratus-d0e5ba|Iratus: Lord of the Dead|29,99€|87|2023-12-20 09h|2023-12-26 23h|
-|#|iron-danger-b4320c|Iron Danger|19,98€|90|2023-12-20 09h|2023-12-26 23h|
-|#|jars-e39063|JARS|11,99€|84|2023-12-20 09h|2023-12-26 23h|
-|#|ken-follets-the-pillars-of-the-earth|Ken Follett's The Pillars of the Earth|19,99€|90|2023-12-20 09h|2023-12-26 23h|
-|#|life-of-delta-44f4e4|Life of Delta|19,99€|60|2023-12-20 09h|2023-12-26 23h|
-|#|partisans-1941|Partisans 1941|39,99€|77|2023-12-20 09h|2023-12-26 23h|
-|#|shadow-tactics-aikos-choice-5678c1|Shadow Tactics - Aiko's Choice|19,98€|70|2023-12-20 09h|2023-12-26 23h|
-|#|shadow-tactics-anniversary-bundle|Shadow Tactics: Anniversary Bundle|66,44€|81|2023-12-20 09h|2023-12-26 23h|
-|#|shadow-tactics|Shadow Tactics: Blades of the Shogun|39,99€|90|2023-12-20 09h|2023-12-26 23h|
-|#|silence-57bc4e|Silence|19,99€|90|2023-12-20 09h|2023-12-26 23h|
-|#|the-lord-of-the-rings-gollum|The Lord of the Rings - Gollum™|49,99€|60|2023-12-20 09h|2023-12-26 23h|
-|#|the-suicide-of-rachel-foster-1dc01b|The Suicide of Rachel Foster|16,99€|90|2023-12-20 09h|2023-12-26 23h|
-|#|unrailed-e19729|Unrailed!|19,99€|76|2023-12-20 09h|2023-12-26 23h|
-|#|velone-3c0487|VELONE|14,99€|90|2023-12-20 09h|2023-12-26 23h|
-|#|warpips-57e2c4|Warpips|14,99€|81|2023-12-20 09h|2023-12-26 23h|
-|#|zombie-rollerz-7aa027|Zombie Rollerz: Pinball Heroes|14,99€|81|2023-12-20 09h|2023-12-26 23h|
 |#|football-manager-2024|Football Manager 2024|59,99€|10|2023-12-21 15h|2023-12-27 15h|
 |#|love-yuri-b962f0|Love Yuri|2,69€|30|2023-12-22 07h|2023-12-28 07h|
 |#|oirbo-c063b7|Oirbo|13,49€|20|2023-12-22 00h|2023-12-29 12h|
 |#|shame-legacy-ef1b66|Shame Legacy|22,39€|70|2023-12-22 09h|2023-12-31 09h|
-|#|war-mongrels|War Mongrels|37,99€|65|2023-12-20 09h|2023-12-31 09h|
 |#|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|85|2023-12-21 23h|2023-12-31 11h|
 |#|endless-memories-1ccb13|Endless Memories|17,99€|50|2023-12-21 06h|2024-01-01 05h|
 |#|heim-33ba21|Heim|12,59€|70|2023-12-20 11h|2024-01-01 23h|
