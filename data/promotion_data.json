@@ -81,15 +81,6 @@
     "title": "A Second Before The War"
   },
   {
-    "discountPercentage": 90,
-    "endDate": "2023-12-26T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "aer-memories-of-old",
-    "startDate": "2023-12-20T09:00:00.000Z",
-    "title": "AER Memories of Old"
-  },
-  {
     "discountPercentage": 40,
     "endDate": "2024-01-06T16:00:00.000Z",
     "isFree": false,
@@ -142,15 +133,6 @@
     "slug": "angry-video-game-nerd-1-and-2-deluxe-1eea79",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Angry Video Game Nerd I & II Deluxe"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2023-12-26T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "annas-quest-fbefa2",
-    "startDate": "2023-12-20T09:00:00.000Z",
-    "title": "Anna's Quest"
   },
   {
     "discountPercentage": 75,
@@ -468,15 +450,6 @@
     "title": "Child of Light: Ultimate Edition"
   },
   {
-    "discountPercentage": 55,
-    "endDate": "2023-12-26T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "children-of-silentown-52cc21",
-    "startDate": "2023-12-20T09:00:00.000Z",
-    "title": "Children of Silentown"
-  },
-  {
     "discountPercentage": 30,
     "endDate": "2024-01-05T18:00:00.000Z",
     "isFree": false,
@@ -538,15 +511,6 @@
     "slug": "county-hospital-aa8e79",
     "startDate": "2024-01-16T16:00:00.000Z",
     "title": "County Hospital"
-  },
-  {
-    "discountPercentage": 81,
-    "endDate": "2023-12-26T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "cryofall-331358",
-    "startDate": "2023-12-20T09:00:00.000Z",
-    "title": "CryoFall"
   },
   {
     "discountPercentage": 80,
@@ -646,24 +610,6 @@
     "slug": "dead-by-murder-190eab",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Dead By Murder"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2023-12-26T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "deponia-doomsday-1848dd",
-    "startDate": "2023-12-20T09:00:00.000Z",
-    "title": "Deponia Doomsday"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2023-12-26T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "deponia-the-complete-journey",
-    "startDate": "2023-12-20T09:00:00.000Z",
-    "title": "Deponia: The Complete Journey"
   },
   {
     "discountPercentage": 22,
@@ -934,15 +880,6 @@
     "slug": "fire-commander-df24ad",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Fire Commander"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2023-12-26T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "fire-44c606",
-    "startDate": "2023-12-20T09:00:00.000Z",
-    "title": "Fire: Ungh\u2019s Quest"
   },
   {
     "discountPercentage": 50,
@@ -1422,24 +1359,6 @@
     "title": "Into the Breach"
   },
   {
-    "discountPercentage": 87,
-    "endDate": "2023-12-26T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "iratus-d0e5ba",
-    "startDate": "2023-12-20T09:00:00.000Z",
-    "title": "Iratus: Lord of the Dead"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2023-12-26T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1998,
-    "slug": "iron-danger-b4320c",
-    "startDate": "2023-12-20T09:00:00.000Z",
-    "title": "Iron Danger"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -1476,15 +1395,6 @@
     "title": "It's a Wrap!"
   },
   {
-    "discountPercentage": 84,
-    "endDate": "2023-12-26T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1199,
-    "slug": "jars-e39063",
-    "startDate": "2023-12-20T09:00:00.000Z",
-    "title": "JARS"
-  },
-  {
     "discountPercentage": 90,
     "endDate": "2024-01-06T04:59:00.000Z",
     "isFree": false,
@@ -1501,15 +1411,6 @@
     "slug": "journey-into-darkness-2b6bf8",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Journey Into Darkness"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2023-12-26T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "ken-follets-the-pillars-of-the-earth",
-    "startDate": "2023-12-20T09:00:00.000Z",
-    "title": "Ken Follett's The Pillars of the Earth"
   },
   {
     "discountPercentage": 80,
@@ -1591,15 +1492,6 @@
     "slug": "life-after-death-b4e964",
     "startDate": "2024-03-11T01:00:00.000Z",
     "title": "Life After Death"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2023-12-26T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "life-of-delta-44f4e4",
-    "startDate": "2023-12-20T09:00:00.000Z",
-    "title": "Life of Delta"
   },
   {
     "discountPercentage": 80,
@@ -2097,15 +1989,6 @@
     "title": "Palladium: Adventure in Greece"
   },
   {
-    "discountPercentage": 77,
-    "endDate": "2023-12-26T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "partisans-1941",
-    "startDate": "2023-12-20T09:00:00.000Z",
-    "title": "Partisans 1941"
-  },
-  {
     "discountPercentage": 11,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -2368,33 +2251,6 @@
   },
   {
     "discountPercentage": 70,
-    "endDate": "2023-12-26T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1998,
-    "slug": "shadow-tactics-aikos-choice-5678c1",
-    "startDate": "2023-12-20T09:00:00.000Z",
-    "title": "Shadow Tactics - Aiko's Choice"
-  },
-  {
-    "discountPercentage": 81,
-    "endDate": "2023-12-26T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 6644,
-    "slug": "shadow-tactics-anniversary-bundle",
-    "startDate": "2023-12-20T09:00:00.000Z",
-    "title": "Shadow Tactics: Anniversary Bundle"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2023-12-26T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "shadow-tactics",
-    "startDate": "2023-12-20T09:00:00.000Z",
-    "title": "Shadow Tactics: Blades of the Shogun"
-  },
-  {
-    "discountPercentage": 70,
     "endDate": "2023-12-31T09:00:00.000Z",
     "isFree": false,
     "originalPrice": 2239,
@@ -2437,15 +2293,6 @@
     "slug": "sherlock-holmes-the-devils-daughter",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Sherlock Holmes: The Devil's Daughter"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2023-12-26T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "silence-57bc4e",
-    "startDate": "2023-12-20T09:00:00.000Z",
-    "title": "Silence"
   },
   {
     "discountPercentage": 50,
@@ -2862,15 +2709,6 @@
     "title": "The Lord of The Rings Return to Moria"
   },
   {
-    "discountPercentage": 60,
-    "endDate": "2023-12-26T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 4999,
-    "slug": "the-lord-of-the-rings-gollum",
-    "startDate": "2023-12-20T09:00:00.000Z",
-    "title": "The Lord of the Rings - Gollum\u2122"
-  },
-  {
     "discountPercentage": 70,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -2905,15 +2743,6 @@
     "slug": "the-spectrum-retreat",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "The Spectrum Retreat"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2023-12-26T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1699,
-    "slug": "the-suicide-of-rachel-foster-1dc01b",
-    "startDate": "2023-12-20T09:00:00.000Z",
-    "title": "The Suicide of Rachel Foster"
   },
   {
     "discountPercentage": 20,
@@ -3150,15 +2979,6 @@
     "title": "Tyrants Blessing"
   },
   {
-    "discountPercentage": 76,
-    "endDate": "2023-12-26T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "unrailed-e19729",
-    "startDate": "2023-12-20T09:00:00.000Z",
-    "title": "Unrailed!"
-  },
-  {
     "discountPercentage": 35,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -3166,15 +2986,6 @@
     "slug": "urban-tale-75b4f0",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Urban Tale"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2023-12-26T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "velone-3c0487",
-    "startDate": "2023-12-20T09:00:00.000Z",
-    "title": "VELONE"
   },
   {
     "discountPercentage": 80,
@@ -3249,15 +3060,6 @@
     "title": "WARSHIFT"
   },
   {
-    "discountPercentage": 65,
-    "endDate": "2023-12-31T09:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3799,
-    "slug": "war-mongrels",
-    "startDate": "2023-12-20T09:00:00.000Z",
-    "title": "War Mongrels"
-  },
-  {
     "discountPercentage": 40,
     "endDate": "2024-01-04T18:00:00.000Z",
     "isFree": false,
@@ -3265,15 +3067,6 @@
     "slug": "warhammer-age-of-sigmar-realms-of-ruin",
     "startDate": "2023-12-21T18:00:00.000Z",
     "title": "Warhammer Age of Sigmar: Realms of Ruin"
-  },
-  {
-    "discountPercentage": 81,
-    "endDate": "2023-12-26T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "warpips-57e2c4",
-    "startDate": "2023-12-20T09:00:00.000Z",
-    "title": "Warpips"
   },
   {
     "discountPercentage": 70,
@@ -3328,15 +3121,6 @@
     "slug": "next-game-c139be",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Zi"
-  },
-  {
-    "discountPercentage": 81,
-    "endDate": "2023-12-26T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "zombie-rollerz-7aa027",
-    "startDate": "2023-12-20T09:00:00.000Z",
-    "title": "Zombie Rollerz: Pinball Heroes"
   },
   {
     "discountPercentage": 37,
