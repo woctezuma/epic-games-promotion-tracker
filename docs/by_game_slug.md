@@ -251,6 +251,7 @@
 |#|railgrade|RAILGRADE|26,99€|35|2024-02-09 16h|2024-02-12 16h|
 |#|rayman-legends|RAYMAN® LEGENDS|19,99€|80|2023-12-28 16h|2024-01-10 16h|
 |#|retreat-to-enen-60ef78|Retreat To Enen|24,99€|50|2023-12-21 14h|2024-01-06 05h|
+|#|return-of-red-riding-hood-enhanced-edition-3598e4|Return of Red Riding Hood Enhanced Edition|2,69€|40|2023-12-22 09h|2023-12-29 09h|
 |#|rice-d1b792|R.I.C.E.|4,99€|20|2023-12-21 14h|2024-01-06 05h|
 |#|rift-rangers-b3b5fa|Rift Rangers|4,49€|25|2023-12-21 16h|2024-01-05 00h|
 |#|rimworld|RimWorld|32,99€|20|2024-02-09 16h|2024-02-12 16h|

@@ -82,6 +82,7 @@
 |#|ghoul-castle-3d-gold-edition-566ac0|Ghoul Castle 3D - Gold Edition|2,69€|40|2023-12-22 06h|2024-01-05 06h|
 |#|hundred-days-winemaking-simulator|Hundred Days - Winemaking Simulator|19,99€|66|2023-12-22 07h|2024-01-07 23h|
 |#|love-yuri-b962f0|Love Yuri|2,69€|30|2023-12-22 07h|2023-12-28 07h|
+|#|return-of-red-riding-hood-enhanced-edition-3598e4|Return of Red Riding Hood Enhanced Edition|2,69€|40|2023-12-22 09h|2023-12-29 09h|
 |#|shame-legacy-ef1b66|Shame Legacy|22,39€|70|2023-12-22 09h|2023-12-31 09h|
 |#|the-fabled-woods|The Fabled Woods|9,99€|90|2023-12-22 16h|2024-01-10 16h|
 |#|truberbrook|Trüberbrook|29,99€|90|2023-12-22 16h|2024-01-10 16h|

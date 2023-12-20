@@ -3,6 +3,7 @@
 |#|mysterygame-3|Mystery Game Day 3|0,00€|100|2023-12-21 16h|2023-12-22 16h|
 |#|football-manager-2024|Football Manager 2024|59,99€|10|2023-12-21 15h|2023-12-27 15h|
 |#|love-yuri-b962f0|Love Yuri|2,69€|30|2023-12-22 07h|2023-12-28 07h|
+|#|return-of-red-riding-hood-enhanced-edition-3598e4|Return of Red Riding Hood Enhanced Edition|2,69€|40|2023-12-22 09h|2023-12-29 09h|
 |#|oirbo-c063b7|Oirbo|13,49€|20|2023-12-22 00h|2023-12-29 12h|
 |#|shame-legacy-ef1b66|Shame Legacy|22,39€|70|2023-12-22 09h|2023-12-31 09h|
 |#|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|85|2023-12-21 23h|2023-12-31 11h|
