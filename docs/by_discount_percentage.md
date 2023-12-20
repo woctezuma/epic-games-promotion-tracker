@@ -113,7 +113,6 @@
 |#|child-of-light|Child of Light: Ultimate Edition|19,99€|70|2023-12-28 16h|2024-01-10 16h|
 |#|dreamscaper|Dreamscaper|19,99€|70|2023-12-21 14h|2024-01-06 04h|
 |#|naval-combat-package-34e444|Fleet Command|7,99€|70|2024-02-09 16h|2024-02-12 16h|
-|#|heim-33ba21|Heim|12,59€|70|2023-12-20 11h|2024-01-01 23h|
 |#|kitaria-fables|Kitaria Fables|19,99€|70|2024-02-09 16h|2024-02-12 16h|
 |#|monopoly-plus-monopoly-madness-bundle|MONOPOLY PLUS + MONOPOLY Madness|39,99€|70|2023-12-28 16h|2024-01-10 16h|
 |#|mars-horizon|Mars Horizon|15,99€|70|2024-02-09 16h|2024-02-12 16h|

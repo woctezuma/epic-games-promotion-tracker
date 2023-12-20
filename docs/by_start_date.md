@@ -1,6 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|heim-33ba21|Heim|12,59€|70|2023-12-20 11h|2024-01-01 23h|
 |#|endlessdungeonnewgene|ENDLESS™ Dungeon|29,99€|10|2023-12-20 12h|2024-01-10 12h|
 |#|below-the-stone-2be6fa|Below the Stone|17,99€|20|2023-12-20 16h|2024-01-10 16h|
 |#|mysterygame-2|Mystery Game Day 2|0,00€|100|2023-12-20 16h|2023-12-21 16h|
