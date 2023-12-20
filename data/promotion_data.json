@@ -1233,15 +1233,6 @@
     "title": "Guild of Dungeoneering Ultimate Edition"
   },
   {
-    "discountPercentage": 75,
-    "endDate": "2024-01-10T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 4999,
-    "slug": "humankind",
-    "startDate": "2023-12-20T18:00:00.000Z",
-    "title": "HUMANKIND\u2122 Standard Edition"
-  },
-  {
     "discountPercentage": 90,
     "endDate": "2024-03-11T16:00:00.000Z",
     "isFree": false,
@@ -1735,15 +1726,6 @@
     "slug": "maze-the-amazing-labyrinth-291abe",
     "startDate": "2024-01-16T16:00:00.000Z",
     "title": "Maze - The Amazing Labyrinth"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2399,
-    "slug": "mechwarrior-5",
-    "startDate": "2023-12-20T18:00:00.000Z",
-    "title": "MechWarrior 5: Mercenaries Standard Edition"
   },
   {
     "discountPercentage": 66,
@@ -2599,6 +2581,15 @@
     "slug": "sudoku-zenkai-3990b1",
     "startDate": "2024-01-16T16:00:00.000Z",
     "title": "Sudoku Zenkai"
+  },
+  {
+    "discountPercentage": 45,
+    "endDate": "2024-01-16T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 719,
+    "slug": "suicide-guy-9f7963",
+    "startDate": "2024-01-09T16:00:00.000Z",
+    "title": "Suicide Guy"
   },
   {
     "discountPercentage": 50,
