@@ -2232,6 +2232,15 @@
     "title": "Retreat To Enen"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2023-12-29T09:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "return-of-red-riding-hood-enhanced-edition-3598e4",
+    "startDate": "2023-12-22T09:00:00.000Z",
+    "title": "Return of Red Riding Hood Enhanced Edition"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2024-01-05T00:00:00.000Z",
     "isFree": false,
