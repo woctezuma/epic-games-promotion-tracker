@@ -1656,6 +1656,15 @@
     "title": "Locks Quest"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2023-12-28T07:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "love-yuri-b962f0",
+    "startDate": "2023-12-22T07:00:00.000Z",
+    "title": "Love Yuri"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2024-01-06T05:00:00.000Z",
     "isFree": false,
