@@ -819,15 +819,6 @@
     "title": "Enchanted Portals"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2024-01-01T05:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1799,
-    "slug": "endless-memories-1ccb13",
-    "startDate": "2023-12-21T06:00:00.000Z",
-    "title": "Endless Memories"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2024-01-23T16:00:00.000Z",
     "isFree": false,
