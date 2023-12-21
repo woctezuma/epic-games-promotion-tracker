@@ -90,15 +90,6 @@
     "title": "ANNO Mutationem"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2024-01-04T11:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2299,
-    "slug": "achilles-legends-untold-bb77ad",
-    "startDate": "2023-12-21T00:00:00.000Z",
-    "title": "Achilles Legends Untold"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2024-03-11T16:00:00.000Z",
     "isFree": false,
@@ -934,15 +925,6 @@
     "slug": "fish-db1795",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Fish"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2024-01-04T12:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "flat-heroes-fec628",
-    "startDate": "2023-12-21T00:00:00.000Z",
-    "title": "Flat Heroes"
   },
   {
     "discountPercentage": 80,
