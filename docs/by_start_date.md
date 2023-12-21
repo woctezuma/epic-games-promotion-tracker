@@ -61,7 +61,6 @@
 |#|wrc|EA SPORTS™ WRC|49,99€|40|2023-12-21 18h|2024-01-10 16h|
 |#|ikonei-island-an-earthlock-adventure-fa1620|Ikonei Island: An Earthlock Adventure|22,39€|35|2023-12-21 18h|2024-01-04 18h|
 |#|mystery-in-the-office-f629ad|Mystery in the Office|1,99€|25|2023-12-21 18h|2024-01-04 18h|
-|#|payday-2-c66369|PAYDAY 2|9,99€|90|2023-12-21 18h|2024-01-04 18h|
 |#|train-world-07e156|Train World|31,39€|20|2023-12-21 18h|2024-01-04 18h|
 |#|warhammer-age-of-sigmar-realms-of-ruin|Warhammer Age of Sigmar: Realms of Ruin|59,99€|40|2023-12-21 18h|2024-01-04 18h|
 |#|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|85|2023-12-21 23h|2023-12-31 11h|
@@ -80,6 +79,7 @@
 |#|return-of-red-riding-hood-enhanced-edition-3598e4|Return of Red Riding Hood Enhanced Edition|2,69€|40|2023-12-22 09h|2023-12-29 09h|
 |#|shame-legacy-ef1b66|Shame Legacy|22,39€|70|2023-12-22 09h|2023-12-31 09h|
 |#|watch-over-christmas-ca6e50|Watch Over Christmas|16,99€|40|2023-12-22 10h|2024-01-10 04h|
+|#|payday-2-c66369|PAYDAY 2|9,99€|90|2023-12-22 12h|2024-01-04 18h|
 |#|the-fabled-woods|The Fabled Woods|9,99€|90|2023-12-22 16h|2024-01-10 16h|
 |#|truberbrook|Trüberbrook|29,99€|90|2023-12-22 16h|2024-01-10 16h|
 |#|true-hate-007027|True Hate|5,99€|90|2023-12-24 03h|2024-01-15 03h|
@@ -155,6 +155,8 @@
 |#|it-follows-you-b11f3e|It follows you|1,59€|60|2024-01-12 03h|2024-01-30 03h|
 |#|1971-indian-naval-front-9cc046|1971 Indian Naval Front|13,49€|40|2024-01-12 18h|2024-01-19 18h|
 |#|polygon-survival-2374fc|Polygon Survival|0,89€|50|2024-01-14 22h|2024-01-30 22h|
+|#|60-parsecs-0481c5|60 Parsecs!|9,99€|50|2024-01-15 23h|2024-01-23 11h|
+|#|60-seconds-reatomized-91ffa3|60 Seconds! Reatomized|9,99€|50|2024-01-15 23h|2024-01-23 11h|
 |#|avatar-frontiers-of-pandora|Avatar: Frontiers of Pandora|69,99€|25|2024-01-16 16h|2024-01-23 16h|
 |#|balloon-strike-c9a1ac|Balloon Strike|4,49€|80|2024-01-16 16h|2024-01-23 16h|
 |#|bus-driver-simulator-186e62|Bus Driver Simulator|17,99€|80|2024-01-16 16h|2024-01-23 16h|
