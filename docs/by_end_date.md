@@ -7,7 +7,6 @@
 |#|oirbo-c063b7|Oirbo|13,49€|20|2023-12-22 00h|2023-12-29 12h|
 |#|shame-legacy-ef1b66|Shame Legacy|22,39€|70|2023-12-22 09h|2023-12-31 09h|
 |#|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|85|2023-12-21 23h|2023-12-31 11h|
-|#|endless-memories-1ccb13|Endless Memories|17,99€|50|2023-12-21 06h|2024-01-01 05h|
 |#|indies-lies-57f843|Indies Lies|13,49€|40|2023-12-21 17h|2024-01-03 17h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|50|2023-12-28 22h|2024-01-03 22h|
 |#|cursed-castilla-maldita-castilla-ex-adaa43|Cursed Castilla (Maldita Castilla EX)|11,99€|50|2023-12-21 17h|2024-01-04 17h|
