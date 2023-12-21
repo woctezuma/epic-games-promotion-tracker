@@ -74,7 +74,6 @@
 |#|arons-adventure-1e76cd|Aron's Adventure: Magic Reborn|17,99€|40|2023-12-27 14h|2024-01-07 00h|
 |#|xr22seaguard-480497|XR22-SEAGUARD|8,99€|30|2023-12-29 00h|2024-01-07 00h|
 |#|dros-6da0b2|Dros|17,99€|60|2023-12-22 00h|2024-01-07 02h|
-|#|gold-rush-classic-34d7d5|Gold Rush! Classic|2,69€|44|2023-12-21 09h|2024-01-07 09h|
 |#|the-mystery-of-the-moon-7f3e48|The Mystery Of The Moon|53,99€|80|2023-12-21 16h|2024-01-07 16h|
 |#|hundred-days-winemaking-simulator|Hundred Days - Winemaking Simulator|19,99€|66|2023-12-22 07h|2024-01-07 23h|
 |#|xijiangshipyard-c16d2a|Xijiang Shipyard|13,49€|15|2024-01-01 08h|2024-01-08 08h|
