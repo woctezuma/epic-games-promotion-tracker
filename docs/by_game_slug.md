@@ -94,7 +94,6 @@
 |#|fish-db1795|Fish|22,39€|50|2024-02-09 16h|2024-02-12 16h|
 |#|flatout-2-9ffdd6|Flatout 2|7,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|flatout-940461|Flatout|3,99€|80|2024-02-09 16h|2024-02-12 16h|
-|#|football-manager-2024|Football Manager 2024|59,99€|10|2023-12-21 15h|2023-12-27 15h|
 |#|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|25|2024-01-07 04h|2024-01-14 04h|
 |#|from-dust|From Dust|9,99€|75|2023-12-28 17h|2024-01-10 17h|
 |#|front-mission-1st-remake-124a24|FRONT MISSION 1st: Remake|31,39€|33|2024-01-09 16h|2024-01-16 16h|
@@ -170,6 +169,7 @@
 |#|mashed-ebdee9|Mashed|3,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|math-fun-9585ad|Math Fun|6,29€|80|2024-01-16 16h|2024-01-23 16h|
 |#|maze-the-amazing-labyrinth-291abe|Maze - The Amazing Labyrinth|7,19€|80|2024-01-16 16h|2024-01-23 16h|
+|#|melvor-idle-b6a9b3|Melvor Idle|0,00€|100|2023-12-21 16h|2023-12-22 16h|
 |#|midnight-ghost-hunt|Midnight Ghost Hunt|19,99€|66|2024-02-09 16h|2024-02-12 16h|
 |#|might-and-magic-heroes-3|Might & Magic Heroes 3|9,99€|75|2023-12-28 16h|2024-01-10 16h|
 |#|might-and-magic-heroes-7|Might and Magic: Heroes VII - Ultimate Edition|44,99€|75|2023-12-28 16h|2024-01-10 16h|
@@ -181,7 +181,8 @@
 |#|moving-out|Moving Out|22,99€|75|2024-02-09 16h|2024-02-26 16h|
 |#|mutant-year-zero|Mutant Year Zero: Road to Eden|34,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|mystery-in-the-office-f629ad|Mystery in the Office|1,99€|25|2023-12-21 18h|2024-01-04 18h|
-|#|mysterygame-3|Mystery Game Day 3|0,00€|100|2023-12-21 16h|2023-12-22 16h|
+|#|mysterygame-4|Mystery Game Day 4|0,00€|100|2023-12-22 16h|2023-12-23 16h|
+|#|n-verlore-verstand-1d7f5b|'n Verlore Verstand|13,49€|90|2024-02-09 16h|2024-02-12 16h|
 |#|nadir-a-grimdark-deckbuilder-c70747|Nadir - A Grimdark Deckbuilder|15,99€|66|2024-01-09 16h|2024-01-16 16h|
 |#|narita-boy|Narita Boy|24,99€|80|2024-02-26 16h|2024-03-11 16h|
 |#|naval-combat-package-34e444|Fleet Command|7,99€|70|2024-02-09 16h|2024-02-12 16h|
