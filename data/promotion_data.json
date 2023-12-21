@@ -27,6 +27,24 @@
     "title": "1971 Indian Naval Front"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-01-23T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "60-parsecs-0481c5",
+    "startDate": "2024-01-15T23:00:00.000Z",
+    "title": "60 Parsecs!"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-23T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "60-seconds-reatomized-91ffa3",
+    "startDate": "2024-01-15T23:00:00.000Z",
+    "title": "60 Seconds! Reatomized"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -2021,7 +2039,7 @@
     "isFree": false,
     "originalPrice": 999,
     "slug": "payday-2-c66369",
-    "startDate": "2023-12-21T18:00:00.000Z",
+    "startDate": "2023-12-22T12:00:00.000Z",
     "title": "PAYDAY 2"
   },
   {
