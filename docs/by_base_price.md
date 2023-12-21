@@ -65,6 +65,7 @@
 |#|moving-out|Moving Out|22,99€|75|2024-02-09 16h|2024-02-26 16h|
 |#|overcooked-2|Overcooked! 2|22,99€|75|2024-02-09 16h|2024-02-26 16h|
 |#|a-monsters-expedition|A Monster's Expedition|22,39€|50|2023-12-22 01h|2024-01-10 23h|
+|#|dinosaurs-mision-dino-camp-acded6|DINOSAURS: Mission Dino Camp|22,39€|20|2024-02-09 16h|2024-02-12 16h|
 |#|fish-db1795|Fish|22,39€|50|2024-02-09 16h|2024-02-12 16h|
 |#|ikonei-island-an-earthlock-adventure-fa1620|Ikonei Island: An Earthlock Adventure|22,39€|35|2023-12-21 18h|2024-01-04 18h|
 |#|ikonei-island-an-earthlock-adventure-fa1620|Ikonei Island: An Earthlock Adventure|22,39€|20|2024-02-09 16h|2024-02-12 16h|
@@ -138,6 +139,8 @@
 |#|curse-of-the-sea-rats-8f28b1|Curse of the Sea Rats|17,99€|30|2024-02-09 16h|2024-02-12 16h|
 |#|dros-6da0b2|Dros|17,99€|60|2023-12-22 00h|2024-01-07 02h|
 |#|greak-memories-of-azur-e05a8d|Greak: Memories of Azur|17,99€|75|2024-02-09 16h|2024-02-26 16h|
+|#|horse-club-adventures-19e7a0|HORSE CLUB Adventures|17,99€|25|2024-02-09 16h|2024-02-12 16h|
+|#|horse-club-adventures-2-hazelwood-stories-b257d3|HORSE CLUB Adventures 2 - Hazelwood Stories|17,99€|25|2024-02-09 16h|2024-02-12 16h|
 |#|liberte-96a5e5|Liberte|17,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|one-more-island-0014e2|One More Island|17,99€|50|2023-12-21 14h|2024-01-06 05h|
 |#|the-front-3a8219|The Front|17,99€|30|2023-12-28 18h|2024-01-04 18h|
