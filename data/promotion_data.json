@@ -693,15 +693,6 @@
     "title": "EA SPORTS\u2122 WRC"
   },
   {
-    "discountPercentage": 15,
-    "endDate": "2024-01-11T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1619,
-    "slug": "elegies-aya-17c3f1",
-    "startDate": "2023-12-21T16:00:00.000Z",
-    "title": "ELEGIES Aya"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-02-17T15:00:00.000Z",
     "isFree": false,
@@ -907,15 +898,6 @@
     "slug": "funtoons-world-0e63dd",
     "startDate": "2024-01-16T16:00:00.000Z",
     "title": "Funtoon's World"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2024-01-15T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1579,
-    "slug": "ginsha-604f11",
-    "startDate": "2023-12-21T16:00:00.000Z",
-    "title": "GINSHA"
   },
   {
     "discountPercentage": 23,
@@ -1530,15 +1512,6 @@
     "title": "Maze - The Amazing Labyrinth"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2023-12-22T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 0,
-    "slug": "melvor-idle-b6a9b3",
-    "startDate": "2023-12-21T16:00:00.000Z",
-    "title": "Melvor Idle"
-  },
-  {
     "discountPercentage": 66,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -1951,15 +1924,6 @@
     "slug": "return-of-red-riding-hood-enhanced-edition-3598e4",
     "startDate": "2023-12-22T09:00:00.000Z",
     "title": "Return of Red Riding Hood Enhanced Edition"
-  },
-  {
-    "discountPercentage": 25,
-    "endDate": "2024-01-05T00:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 449,
-    "slug": "rift-rangers-b3b5fa",
-    "startDate": "2023-12-21T16:00:00.000Z",
-    "title": "Rift Rangers"
   },
   {
     "discountPercentage": 20,
@@ -2536,15 +2500,6 @@
     "slug": "the-magnificent-trufflepigs",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "The Magnificent Trufflepigs"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2024-01-07T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5399,
-    "slug": "the-mystery-of-the-moon-7f3e48",
-    "startDate": "2023-12-21T16:00:00.000Z",
-    "title": "The Mystery Of The Moon"
   },
   {
     "discountPercentage": 75,
