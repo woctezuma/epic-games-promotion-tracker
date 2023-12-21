@@ -108,6 +108,15 @@
     "title": "ANNO Mutationem"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "apico-f6e18b",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "APICO"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-03-11T16:00:00.000Z",
     "isFree": false,
@@ -1818,6 +1827,15 @@
     "title": "Prince of Qin"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "princess-farmer-bd4c4e",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Princess Farmer"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -1852,6 +1870,15 @@
     "slug": "rayman-legends",
     "startDate": "2023-12-28T16:00:00.000Z",
     "title": "RAYMAN\u00ae LEGENDS"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "recall-113630",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "RECALL"
   },
   {
     "discountPercentage": 66,
@@ -2383,6 +2410,15 @@
     "slug": "the-flower-collectors",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "The Flower Collectors"
+  },
+  {
+    "discountPercentage": 15,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "the-forest-cathedral-54f32c",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "The Forest Cathedral"
   },
   {
     "discountPercentage": 30,
