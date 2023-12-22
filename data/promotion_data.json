@@ -1053,15 +1053,6 @@
     "title": "Human Resource Machine"
   },
   {
-    "discountPercentage": 66,
-    "endDate": "2024-01-07T23:08:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "hundred-days-winemaking-simulator",
-    "startDate": "2023-12-22T07:00:00.000Z",
-    "title": "Hundred Days - Winemaking Simulator"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -1321,15 +1312,6 @@
     "slug": "locks-quest-befcf1",
     "startDate": "2024-01-30T16:00:00.000Z",
     "title": "Locks Quest"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2023-12-28T07:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 269,
-    "slug": "love-yuri-b962f0",
-    "startDate": "2023-12-22T07:00:00.000Z",
-    "title": "Love Yuri"
   },
   {
     "discountPercentage": 70,
