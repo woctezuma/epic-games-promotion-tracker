@@ -63,7 +63,6 @@
 |#|fish-db1795|Fish|22,39€|50|2024-02-09 16h|2024-02-12 16h|
 |#|ikonei-island-an-earthlock-adventure-fa1620|Ikonei Island: An Earthlock Adventure|22,39€|20|2024-02-09 16h|2024-02-12 16h|
 |#|king-of-seas-646f95|King of Seas|22,39€|90|2024-01-01 16h|2024-01-15 16h|
-|#|shame-legacy-ef1b66|Shame Legacy|22,39€|70|2023-12-22 09h|2023-12-31 09h|
 |#|timberborn|Timberborn|22,39€|20|2024-02-09 16h|2024-02-12 16h|
 |#|virtual-rides-3-2add3b|Virtual Rides 3|22,39€|30|2024-01-21 00h|2024-01-31 00h|
 |#|anno-mutationem-ef8b9e|ANNO Mutationem|20,99€|40|2023-12-28 16h|2024-01-06 16h|
@@ -281,7 +280,6 @@
 |#|sudoku-zenkai-3990b1|Sudoku Zenkai|3,59€|15|2024-01-16 16h|2024-01-23 16h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|50|2023-12-28 22h|2024-01-03 22h|
 |#|hanoi-puzzles-solid-match-6a9e0c|Hanoi Puzzles - Solid Match|2,69€|25|2024-02-09 16h|2024-02-12 16h|
-|#|return-of-red-riding-hood-enhanced-edition-3598e4|Return of Red Riding Hood Enhanced Edition|2,69€|40|2023-12-22 09h|2023-12-29 09h|
 |#|sea-of-dreams-32035a|Sea of Dreams|2,69€|30|2024-02-09 16h|2024-02-12 16h|
 |#|bad-rats-show-1b74cf|Bad Rats Show|1,79€|80|2024-02-09 16h|2024-02-12 16h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|70|2024-01-11 22h|2024-01-30 22h|
