@@ -2656,15 +2656,6 @@
   },
   {
     "discountPercentage": 50,
-    "endDate": "2024-01-05T02:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 899,
-    "slug": "warshift-127867",
-    "startDate": "2023-12-22T02:00:00.000Z",
-    "title": "WARSHIFT"
-  },
-  {
-    "discountPercentage": 50,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 899,
