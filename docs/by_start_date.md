@@ -1,12 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|dros-6da0b2|Dros|17,99€|60|2023-12-22 00h|2024-01-07 02h|
-|#|oirbo-c063b7|Oirbo|13,49€|20|2023-12-22 00h|2023-12-29 12h|
-|#|a-good-snowman-is-hard-to-build|A Good Snowman is Hard to Build|13,49€|75|2023-12-22 01h|2024-01-10 23h|
-|#|a-monsters-expedition|A Monster's Expedition|22,39€|50|2023-12-22 01h|2024-01-10 23h|
-|#|bonfire-peaks|Bonfire Peaks|17,99€|50|2023-12-22 01h|2024-01-10 23h|
-|#|cosmic-express|Cosmic Express|13,49€|75|2023-12-22 01h|2024-01-10 23h|
-|#|sokobond|Sokobond|13,49€|75|2023-12-22 01h|2024-01-10 23h|
 |#|warshift-127867|WARSHIFT|8,99€|50|2023-12-22 02h|2024-01-05 02h|
 |#|persha-and-the-magic-labyrinth-ca72d4|Persha and the Magic Labyrinth -Arabian Nyaights-|9,99€|50|2023-12-22 05h|2024-01-10 16h|
 |#|ghoul-castle-3d-gold-edition-566ac0|Ghoul Castle 3D - Gold Edition|2,69€|40|2023-12-22 06h|2024-01-05 06h|
