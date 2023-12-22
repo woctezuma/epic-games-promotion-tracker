@@ -1,6 +1,8 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|mysterygame-4|Mystery Game Day 4|0,00€|100|2023-12-22 16h|2023-12-23 16h|
+|#|art-of-rally|Art of Rally|0,00€|100|2023-12-22 16h|2023-12-23 16h|
+|#|art-of-rally|Art of Rally|24,99€|100|2023-12-22 16h|2023-12-23 16h|
+|#|mysterygame-5|Mystery Game Day 5|0,00€|100|2023-12-23 16h|2023-12-24 16h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|50|2023-12-28 22h|2024-01-03 22h|
 |#|the-front-3a8219|The Front|17,99€|30|2023-12-28 18h|2024-01-04 18h|
 |#|oxygen-cocktail-20cd1c|Oxygen Cocktail|5,39€|10|2023-12-24 06h|2024-01-05 06h|

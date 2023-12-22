@@ -42,6 +42,7 @@
 |#|amber-1e2240|Amber|26,99€|34|2024-02-14 13h|2024-02-20 13h|
 |#|railgrade|RAILGRADE|26,99€|35|2024-02-09 16h|2024-02-12 16h|
 |#|tennis-elbow-manager-2-17a1a0|Tennis Elbow Manager 2|26,99€|60|2024-01-16 16h|2024-01-23 16h|
+|#|art-of-rally|Art of Rally|24,99€|100|2023-12-22 16h|2023-12-23 16h|
 |#|assassins-creed-chronicles-trilogy|Assassin's Creed Chronicles – Trilogy|24,99€|70|2023-12-28 16h|2024-01-10 16h|
 |#|batora-lost-haven-1773c3|Batora: Lost Haven|24,99€|50|2024-02-09 16h|2024-02-26 16h|
 |#|blasphemous|Blasphemous|24,99€|75|2024-03-11 16h|2024-03-25 16h|
@@ -297,4 +298,5 @@
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2023-12-29 22h|2024-01-19 22h|
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2024-02-25 22h|2024-03-15 22h|
 |#|car-tuning-simulator-38ddaf|Car Tuning Simulator|0,79€|50|2023-12-26 03h|2024-01-12 03h|
-|#|mysterygame-4|Mystery Game Day 4|0,00€|100|2023-12-22 16h|2023-12-23 16h|
+|#|art-of-rally|Art of Rally|0,00€|100|2023-12-22 16h|2023-12-23 16h|
+|#|mysterygame-5|Mystery Game Day 5|0,00€|100|2023-12-23 16h|2023-12-24 16h|

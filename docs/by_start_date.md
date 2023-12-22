@@ -1,9 +1,11 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|mysterygame-4|Mystery Game Day 4|0,00€|100|2023-12-22 16h|2023-12-23 16h|
+|#|art-of-rally|Art of Rally|0,00€|100|2023-12-22 16h|2023-12-23 16h|
+|#|art-of-rally|Art of Rally|24,99€|100|2023-12-22 16h|2023-12-23 16h|
 |#|the-fabled-woods|The Fabled Woods|9,99€|90|2023-12-22 16h|2024-01-10 16h|
 |#|truberbrook|Trüberbrook|29,99€|90|2023-12-22 16h|2024-01-10 16h|
 |#|raji-an-ancient-epic|Raji: An Ancient Epic|22,99€|66|2023-12-22 17h|2024-01-05 06h|
+|#|mysterygame-5|Mystery Game Day 5|0,00€|100|2023-12-23 16h|2023-12-24 16h|
 |#|true-hate-007027|True Hate|5,99€|90|2023-12-24 03h|2024-01-15 03h|
 |#|oxygen-cocktail-20cd1c|Oxygen Cocktail|5,39€|10|2023-12-24 06h|2024-01-05 06h|
 |#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2023-12-25 22h|2024-01-15 22h|

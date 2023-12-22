@@ -1,6 +1,8 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|mysterygame-4|Mystery Game Day 4|0,00€|100|2023-12-22 16h|2023-12-23 16h|
+|#|art-of-rally|Art of Rally|0,00€|100|2023-12-22 16h|2023-12-23 16h|
+|#|art-of-rally|Art of Rally|24,99€|100|2023-12-22 16h|2023-12-23 16h|
+|#|mysterygame-5|Mystery Game Day 5|0,00€|100|2023-12-23 16h|2023-12-24 16h|
 |#|n-verlore-verstand-1d7f5b|'n Verlore Verstand|13,49€|90|2024-02-09 16h|2024-02-12 16h|
 |#|aven-colony|Aven Colony|29,99€|90|2024-02-26 16h|2024-03-11 16h|
 |#|cataire-6ce6b7|CATAIRE|0,89€|90|2023-12-26 16h|2024-01-10 16h|
