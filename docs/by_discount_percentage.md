@@ -127,7 +127,6 @@
 |#|the-magnificent-trufflepigs|The Magnificent Trufflepigs|9,99€|70|2024-02-09 16h|2024-02-12 16h|
 |#|endwar|Tom Clancy's EndWar|9,99€|70|2023-12-28 16h|2024-01-10 16h|
 |#|warrior-kings-d07850|Warrior Kings|3,99€|70|2024-02-09 16h|2024-02-12 16h|
-|#|hundred-days-winemaking-simulator|Hundred Days - Winemaking Simulator|19,99€|66|2023-12-22 07h|2024-01-07 23h|
 |#|lego-builders-journey|LEGO® Builder's Journey|16,99€|66|2024-02-09 16h|2024-02-12 16h|
 |#|midnight-ghost-hunt|Midnight Ghost Hunt|19,99€|66|2024-02-09 16h|2024-02-12 16h|
 |#|nadir-a-grimdark-deckbuilder-c70747|Nadir - A Grimdark Deckbuilder|15,99€|66|2024-01-09 16h|2024-01-16 16h|
@@ -240,7 +239,6 @@
 |#|inside-soccer-2bf632|Inside Soccer|4,49€|30|2024-01-09 16h|2024-01-16 16h|
 |#|its-a-wrap-f392ae|It's a Wrap!|16,19€|30|2024-02-09 16h|2024-02-12 16h|
 |#|love-3-c2516f|LOVE 3|8,99€|30|2024-02-09 16h|2024-02-12 16h|
-|#|love-yuri-b962f0|Love Yuri|2,69€|30|2023-12-22 07h|2023-12-28 07h|
 |#|outcore-desktop-adventure-eb3aff|Outcore - Desktop Adventure|8,99€|30|2024-01-16 16h|2024-01-23 16h|
 |#|potion-permit|Potion Permit|15,99€|30|2024-02-09 16h|2024-02-12 16h|
 |#|sea-of-dreams-32035a|Sea of Dreams|2,69€|30|2024-02-09 16h|2024-02-12 16h|

@@ -1,7 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|hundred-days-winemaking-simulator|Hundred Days - Winemaking Simulator|19,99€|66|2023-12-22 07h|2024-01-07 23h|
-|#|love-yuri-b962f0|Love Yuri|2,69€|30|2023-12-22 07h|2023-12-28 07h|
 |#|return-of-red-riding-hood-enhanced-edition-3598e4|Return of Red Riding Hood Enhanced Edition|2,69€|40|2023-12-22 09h|2023-12-29 09h|
 |#|shame-legacy-ef1b66|Shame Legacy|22,39€|70|2023-12-22 09h|2023-12-31 09h|
 |#|watch-over-christmas-ca6e50|Watch Over Christmas|16,99€|40|2023-12-22 10h|2024-01-10 04h|

@@ -118,7 +118,6 @@
 |#|horse-club-adventures-2-hazelwood-stories-b257d3|HORSE CLUB Adventures 2 - Hazelwood Stories|17,99€|25|2024-02-09 16h|2024-02-12 16h|
 |#|horse-racing-4192a0|Horse Racing|8,99€|80|2024-01-16 16h|2024-01-23 16h|
 |#|human-resource-machine|Human Resource Machine|11,99€|50|2024-02-09 16h|2024-02-12 16h|
-|#|hundred-days-winemaking-simulator|Hundred Days - Winemaking Simulator|19,99€|66|2023-12-22 07h|2024-01-07 23h|
 |#|huntdown|Huntdown|19,50€|80|2024-02-09 16h|2024-02-12 16h|
 |#|ikonei-island-an-earthlock-adventure-fa1620|Ikonei Island: An Earthlock Adventure|22,39€|20|2024-02-09 16h|2024-02-12 16h|
 |#|im-looking-for-3024-people-1cdae4|I'm looking for 3024 people|3,99€|50|2024-02-09 16h|2024-02-12 16h|
@@ -148,7 +147,6 @@
 |#|little-inferno|Little Inferno|11,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|locks-quest-befcf1|Locks Quest|14,99€|80|2024-01-30 16h|2024-02-06 16h|
 |#|love-3-c2516f|LOVE 3|8,99€|30|2024-02-09 16h|2024-02-12 16h|
-|#|love-yuri-b962f0|Love Yuri|2,69€|30|2023-12-22 07h|2023-12-28 07h|
 |#|mallofmayhem-15344c|Mall of Mayhem|7,19€|14|2024-04-01 06h|2024-04-30 10h|
 |#|mallofmayhem-15344c|Mall of Mayhem|7,19€|19|2024-07-01 06h|2024-07-30 22h|
 |#|mallofmayhem-15344c|Mall of Mayhem|7,19€|17|2024-10-01 06h|2024-10-30 22h|
