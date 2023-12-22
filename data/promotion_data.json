@@ -72,24 +72,6 @@
     "title": "7 Billion Humans"
   },
   {
-    "discountPercentage": 75,
-    "endDate": "2024-01-10T23:59:00.000Z",
-    "isFree": false,
-    "originalPrice": 1349,
-    "slug": "a-good-snowman-is-hard-to-build",
-    "startDate": "2023-12-22T01:00:00.000Z",
-    "title": "A Good Snowman is Hard to Build"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2024-01-10T23:59:00.000Z",
-    "isFree": false,
-    "originalPrice": 2239,
-    "slug": "a-monsters-expedition",
-    "startDate": "2023-12-22T01:00:00.000Z",
-    "title": "A Monster's Expedition"
-  },
-  {
     "discountPercentage": 20,
     "endDate": "2024-02-06T02:00:00.000Z",
     "isFree": false,
@@ -378,15 +360,6 @@
     "title": "BoltBreak"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2024-01-10T23:59:00.000Z",
-    "isFree": false,
-    "originalPrice": 1799,
-    "slug": "bonfire-peaks",
-    "startDate": "2023-12-22T01:00:00.000Z",
-    "title": "Bonfire Peaks"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2024-01-23T16:00:00.000Z",
     "isFree": false,
@@ -475,15 +448,6 @@
     "slug": "conan-exiles",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Conan Exiles"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2024-01-10T23:59:00.000Z",
-    "isFree": false,
-    "originalPrice": 1349,
-    "slug": "cosmic-express",
-    "startDate": "2023-12-22T01:00:00.000Z",
-    "title": "Cosmic Express"
   },
   {
     "discountPercentage": 20,
@@ -646,15 +610,6 @@
     "slug": "dream-magic-will-358429",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Dream magic will"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2024-01-07T02:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1799,
-    "slug": "dros-6da0b2",
-    "startDate": "2023-12-22T00:00:00.000Z",
-    "title": "Dros"
   },
   {
     "discountPercentage": 30,
@@ -1620,15 +1575,6 @@
     "title": "ORB"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2023-12-29T12:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1349,
-    "slug": "oirbo-c063b7",
-    "startDate": "2023-12-22T00:00:00.000Z",
-    "title": "Oirbo"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-01-16T16:00:00.000Z",
     "isFree": false,
@@ -2050,15 +1996,6 @@
     "slug": "skydrift-infinity-c4ca37",
     "startDate": "2024-01-16T16:00:00.000Z",
     "title": "SkyDrift Infinity"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2024-01-10T23:59:00.000Z",
-    "isFree": false,
-    "originalPrice": 1349,
-    "slug": "sokobond",
-    "startDate": "2023-12-22T01:00:00.000Z",
-    "title": "Sokobond"
   },
   {
     "discountPercentage": 50,
