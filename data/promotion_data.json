@@ -162,6 +162,24 @@
     "title": "Aron's Adventure: Magic Reborn"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2023-12-23T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 0,
+    "slug": "art-of-rally",
+    "startDate": "2023-12-22T16:00:00.000Z",
+    "title": "Art of Rally"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2023-12-23T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 2499,
+    "slug": "art-of-rally",
+    "startDate": "2023-12-22T16:00:00.000Z",
+    "title": "Art of Rally"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -1468,12 +1486,12 @@
   },
   {
     "discountPercentage": 100,
-    "endDate": "2023-12-23T16:00:00.000Z",
+    "endDate": "2023-12-24T16:00:00.000Z",
     "isFree": true,
     "originalPrice": 0,
-    "slug": "mysterygame-4",
-    "startDate": "2023-12-22T16:00:00.000Z",
-    "title": "Mystery Game Day 4"
+    "slug": "mysterygame-5",
+    "startDate": "2023-12-23T16:00:00.000Z",
+    "title": "Mystery Game Day 5"
   },
   {
     "discountPercentage": 66,
