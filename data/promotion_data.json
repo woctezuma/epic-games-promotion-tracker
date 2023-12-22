@@ -279,6 +279,15 @@
     "title": "Beach Invasion 1944"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "beasts-of-maravilla-island",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Beasts of Maravilla Island"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-02-26T16:00:00.000Z",
     "isFree": false,
@@ -376,6 +385,15 @@
     "slug": "cataire-6ce6b7",
     "startDate": "2023-12-26T16:00:00.000Z",
     "title": "CATAIRE"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "calico",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Calico"
   },
   {
     "discountPercentage": 50,
@@ -655,6 +673,15 @@
     "slug": "epic-world-hunt-for-quest-4500b1",
     "startDate": "2024-01-16T16:00:00.000Z",
     "title": "Epic World - Hunt For Quest"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 599,
+    "slug": "evans-remains",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Evan's Remains"
   },
   {
     "discountPercentage": 50,
@@ -1242,6 +1269,15 @@
     "title": "LOVE 3"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "lake",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Lake"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -1773,15 +1809,6 @@
     "title": "RECALL"
   },
   {
-    "discountPercentage": 66,
-    "endDate": "2024-01-05T06:30:00.000Z",
-    "isFree": false,
-    "originalPrice": 2299,
-    "slug": "raji-an-ancient-epic",
-    "startDate": "2023-12-22T17:00:00.000Z",
-    "title": "Raji: An Ancient Epic"
-  },
-  {
     "discountPercentage": 20,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -2196,6 +2223,15 @@
     "title": "Tank Warfare -  Tunisia 1943"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "teacup",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Teacup"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-01-03T22:00:00.000Z",
     "isFree": false,
@@ -2608,6 +2644,15 @@
     "slug": "worms-rumble",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Worms Rumble"
+  },
+  {
+    "discountPercentage": 45,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1749,
+    "slug": "wytchwood",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Wytchwood"
   },
   {
     "discountPercentage": 30,
