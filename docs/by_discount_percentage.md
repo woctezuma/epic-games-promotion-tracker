@@ -8,7 +8,6 @@
 |#|hammerting|Hammerting|24,99€|90|2024-02-26 16h|2024-03-11 16h|
 |#|king-of-seas-646f95|King of Seas|22,39€|90|2024-01-01 16h|2024-01-15 16h|
 |#|overtop-ed5e49|Overtop|4,49€|90|2024-02-24 22h|2024-03-14 22h|
-|#|payday-2-c66369|PAYDAY 2|9,99€|90|2023-12-22 12h|2024-01-04 18h|
 |#|sherlock-holmes-crimes-and-punishments|Sherlock Holmes: Crimes and Punishments|29,99€|90|2024-02-09 16h|2024-02-12 16h|
 |#|space-empires-ii-1fece2|Space Empires II|1,59€|90|2024-02-09 16h|2024-02-12 16h|
 |#|the-fabled-woods|The Fabled Woods|9,99€|90|2023-12-22 16h|2024-01-10 16h|
