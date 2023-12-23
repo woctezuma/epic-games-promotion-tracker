@@ -756,6 +756,24 @@
     "title": "FRONT MISSION 1st: Remake"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2023-12-24T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 0,
+    "slug": "fallout-3-game-of-the-year-edition",
+    "startDate": "2023-12-23T16:00:00.000Z",
+    "title": "Fallout 3: Game of the Year Edition"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2023-12-24T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1999,
+    "slug": "fallout-3-game-of-the-year-edition",
+    "startDate": "2023-12-23T16:00:00.000Z",
+    "title": "Fallout 3: Game of the Year Edition"
+  },
+  {
     "discountPercentage": 85,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
@@ -1549,12 +1567,12 @@
   },
   {
     "discountPercentage": 100,
-    "endDate": "2023-12-24T16:00:00.000Z",
+    "endDate": "2023-12-25T16:00:00.000Z",
     "isFree": true,
     "originalPrice": 0,
-    "slug": "mysterygame-5",
-    "startDate": "2023-12-23T16:00:00.000Z",
-    "title": "Mystery Game Day 5"
+    "slug": "mysterygame-6",
+    "startDate": "2023-12-24T16:00:00.000Z",
+    "title": "Mystery Game Day 6"
   },
   {
     "discountPercentage": 90,
