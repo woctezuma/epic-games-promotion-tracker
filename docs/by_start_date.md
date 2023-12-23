@@ -1,7 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|fallout-3-game-of-the-year-edition|Fallout 3: Game of the Year Edition|0,00€|100|2023-12-23 16h|2023-12-24 16h|
-|#|fallout-3-game-of-the-year-edition|Fallout 3: Game of the Year Edition|19,99€|100|2023-12-23 16h|2023-12-24 16h|
 |#|true-hate-007027|True Hate|5,99€|90|2023-12-24 03h|2024-01-15 03h|
 |#|oxygen-cocktail-20cd1c|Oxygen Cocktail|5,39€|10|2023-12-24 06h|2024-01-05 06h|
 |#|mysterygame-6|Mystery Game Day 6|0,00€|100|2023-12-24 16h|2023-12-25 16h|
