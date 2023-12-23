@@ -675,6 +675,15 @@
     "title": "El Hijo \u2013 A Wild West Tale"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-01-16T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1169,
+    "slug": "elven-rivers-the-forgotten-lands-collectors-edition-13f068",
+    "startDate": "2024-01-09T16:00:00.000Z",
+    "title": "Elven Rivers. The Forgotten Lands Collector's Edition"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2024-01-10T04:00:00.000Z",
     "isFree": false,
@@ -943,6 +952,15 @@
     "slug": "gladiator-blades-of-fury-1a745b",
     "startDate": "2024-01-16T16:00:00.000Z",
     "title": "Gladiator : Blades of Fury"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2024-01-16T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "gnomes-garden-return-of-the-queen-159f41",
+    "startDate": "2024-01-09T16:00:00.000Z",
+    "title": "Gnomes Garden. Return Of The Queen"
   },
   {
     "discountPercentage": 40,
@@ -1537,6 +1555,15 @@
     "slug": "mysterygame-5",
     "startDate": "2023-12-23T16:00:00.000Z",
     "title": "Mystery Game Day 5"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2024-01-16T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "mystery-solitaire-grimms-tales-244e2a",
+    "startDate": "2024-01-09T16:00:00.000Z",
+    "title": "Mystery Solitaire. Grimm's Tales"
   },
   {
     "discountPercentage": 66,
@@ -2286,6 +2313,15 @@
     "title": "Tennis Elbow Manager 2"
   },
   {
+    "discountPercentage": 25,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "the-backroom-project-b6b434",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "The Backroom Project"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -2302,6 +2338,15 @@
     "slug": "the-dragoness-command-of-the-flame-b3b544",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "The Dragoness Command Of The Flame"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-01-16T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "royal-defense-d046db",
+    "startDate": "2024-01-09T16:00:00.000Z",
+    "title": "The Empress of Mahjong"
   },
   {
     "discountPercentage": 80,
