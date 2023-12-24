@@ -1,11 +1,14 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|mysterygame-6|Mystery Game Day 6|0,00€|100|2023-12-24 16h|2023-12-25 16h|
+|#|ghostwire-tokyo|Ghostwire: Tokyo|0,00€|100|2023-12-24 16h|2023-12-25 16h|
+|#|ghostwire-tokyo|Ghostwire: Tokyo|59,99€|100|2023-12-24 16h|2023-12-25 16h|
+|#|mysterygame-7|Mystery Game Day 7|0,00€|100|2023-12-25 16h|2023-12-26 16h|
 |#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2023-12-25 22h|2024-01-15 22h|
 |#|car-tuning-simulator-38ddaf|Car Tuning Simulator|0,79€|50|2023-12-26 03h|2024-01-12 03h|
 |#|covid-carl-7dd371|Covid Carl|3,59€|40|2023-12-26 06h|2024-01-06 06h|
 |#|cataire-6ce6b7|CATAIRE|0,89€|90|2023-12-26 16h|2024-01-10 16h|
 |#|otok-6c2478|Otok|4,49€|20|2023-12-26 18h|2024-01-02 18h|
+|#|argol-kronoss-castle-84d829|Argol - Kronoss' Castle|4,49€|40|2023-12-26 23h|2024-01-02 23h|
 |#|switchball-hd-6d3802|Switchball HD|8,09€|50|2023-12-27 00h|2024-01-10 00h|
 |#|arons-adventure-1e76cd|Aron's Adventure: Magic Reborn|17,99€|40|2023-12-27 14h|2024-01-07 00h|
 |#|the-meme-hunter-bf7086|THE MEME HUNTER|0,89€|50|2023-12-27 22h|2024-01-13 22h|
