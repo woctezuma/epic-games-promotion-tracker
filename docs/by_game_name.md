@@ -307,5 +307,6 @@
 |#|xijiangshipyard-c16d2a|Xijiang Shipyard|13,49€|15|2024-01-01 08h|2024-01-08 08h|
 |#|yokus-island-express|Yoku's Island Express|19,99€|80|2024-02-09 16h|2024-02-26 16h|
 |#|yooka-laylee-and-the-impossible-lair|Yooka-Laylee and the Impossible Lair|29,99€|85|2024-02-09 16h|2024-02-26 16h|
+|#|your-computer-might-be-at-risk-c5dea9|Your Computer Might Be At Risk|10,79€|30|2024-02-09 16h|2024-02-12 16h|
 |#|next-game-c139be|Zi|8,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|deltav-rings-of-saturn-4cd187|ΔV: Rings of Saturn|8,99€|37|2024-02-09 16h|2024-02-12 16h|
