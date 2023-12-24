@@ -1,7 +1,10 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|mysterygame-6|Mystery Game Day 6|0,00€|100|2023-12-24 16h|2023-12-25 16h|
+|#|ghostwire-tokyo|Ghostwire: Tokyo|0,00€|100|2023-12-24 16h|2023-12-25 16h|
+|#|ghostwire-tokyo|Ghostwire: Tokyo|59,99€|100|2023-12-24 16h|2023-12-25 16h|
+|#|mysterygame-7|Mystery Game Day 7|0,00€|100|2023-12-25 16h|2023-12-26 16h|
 |#|otok-6c2478|Otok|4,49€|20|2023-12-26 18h|2024-01-02 18h|
+|#|argol-kronoss-castle-84d829|Argol - Kronoss' Castle|4,49€|40|2023-12-26 23h|2024-01-02 23h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|50|2023-12-28 22h|2024-01-03 22h|
 |#|the-front-3a8219|The Front|17,99€|30|2023-12-28 18h|2024-01-04 18h|
 |#|covid-carl-7dd371|Covid Carl|3,59€|40|2023-12-26 06h|2024-01-06 06h|
