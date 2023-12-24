@@ -154,6 +154,15 @@
   },
   {
     "discountPercentage": 40,
+    "endDate": "2024-01-02T23:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "argol-kronoss-castle-84d829",
+    "startDate": "2023-12-26T23:00:00.000Z",
+    "title": "Argol - Kronoss' Castle"
+  },
+  {
+    "discountPercentage": 40,
     "endDate": "2024-01-07T00:00:00.000Z",
     "isFree": false,
     "originalPrice": 1799,
@@ -936,6 +945,24 @@
     "title": "Ghost Master"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2023-12-25T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 0,
+    "slug": "ghostwire-tokyo",
+    "startDate": "2023-12-24T16:00:00.000Z",
+    "title": "Ghostwire: Tokyo"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2023-12-25T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 5999,
+    "slug": "ghostwire-tokyo",
+    "startDate": "2023-12-24T16:00:00.000Z",
+    "title": "Ghostwire: Tokyo"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-01-23T16:00:00.000Z",
     "isFree": false,
@@ -1549,12 +1576,12 @@
   },
   {
     "discountPercentage": 100,
-    "endDate": "2023-12-25T16:00:00.000Z",
+    "endDate": "2023-12-26T16:00:00.000Z",
     "isFree": true,
     "originalPrice": 0,
-    "slug": "mysterygame-6",
-    "startDate": "2023-12-24T16:00:00.000Z",
-    "title": "Mystery Game Day 6"
+    "slug": "mysterygame-7",
+    "startDate": "2023-12-25T16:00:00.000Z",
+    "title": "Mystery Game Day 7"
   },
   {
     "discountPercentage": 90,
