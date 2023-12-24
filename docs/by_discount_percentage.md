@@ -1,7 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|ghostwire-tokyo|Ghostwire: Tokyo|0,00€|100|2023-12-24 16h|2023-12-25 16h|
-|#|ghostwire-tokyo|Ghostwire: Tokyo|59,99€|100|2023-12-24 16h|2023-12-25 16h|
 |#|mysterygame-7|Mystery Game Day 7|0,00€|100|2023-12-25 16h|2023-12-26 16h|
 |#|n-verlore-verstand-1d7f5b|'n Verlore Verstand|13,49€|90|2024-02-09 16h|2024-02-12 16h|
 |#|aven-colony|Aven Colony|29,99€|90|2024-02-26 16h|2024-03-11 16h|
