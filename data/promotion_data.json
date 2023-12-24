@@ -1701,15 +1701,6 @@
     "title": "Overtop"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2024-01-05T06:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 539,
-    "slug": "oxygen-cocktail-20cd1c",
-    "startDate": "2023-12-24T06:00:00.000Z",
-    "title": "Oxygen Cocktail"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
