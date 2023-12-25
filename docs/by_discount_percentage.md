@@ -1,6 +1,6 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|the-outer-worlds-spacers-choice-edition|The Outer Worlds: Spacer's Choice Edition|59,99€|100|2023-12-25 16h|2023-12-26 16h|
+|#|mysterygame-8|Mystery Game Day 8|0,00€|100|2023-12-26 16h|2023-12-27 16h|
 |#|n-verlore-verstand-1d7f5b|'n Verlore Verstand|13,49€|90|2024-02-09 16h|2024-02-12 16h|
 |#|aven-colony|Aven Colony|29,99€|90|2024-02-26 16h|2024-03-11 16h|
 |#|cataire-6ce6b7|CATAIRE|0,89€|90|2023-12-26 16h|2024-01-10 16h|
@@ -212,7 +212,7 @@
 |#|trekkingandcamping-655909|TrekkingAndCamping|1,79€|45|2024-02-09 16h|2024-02-12 16h|
 |#|tribu-55feb1|Tribu|9,89€|45|2024-01-09 16h|2024-01-16 16h|
 |#|wytchwood|Wytchwood|17,49€|45|2024-02-09 16h|2024-02-12 16h|
-|#|102ee428036f43d086bba99404ef1342|1971 Indian Naval Front|13,49€|40|2024-01-12 18h|2024-01-19 18h|
+|#|1971-indian-naval-front-9cc046|1971 Indian Naval Front|13,49€|40|2024-01-12 18h|2024-01-19 18h|
 |#|anno-mutationem-ef8b9e|ANNO Mutationem|20,99€|40|2023-12-28 16h|2024-01-06 16h|
 |#|argol-kronoss-castle-84d829|Argol - Kronoss' Castle|4,49€|40|2023-12-26 23h|2024-01-02 23h|
 |#|arons-adventure-1e76cd|Aron's Adventure: Magic Reborn|17,99€|40|2023-12-27 14h|2024-01-07 00h|

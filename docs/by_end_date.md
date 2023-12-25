@@ -1,6 +1,6 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|the-outer-worlds-spacers-choice-edition|The Outer Worlds: Spacer's Choice Edition|59,99€|100|2023-12-25 16h|2023-12-26 16h|
+|#|mysterygame-8|Mystery Game Day 8|0,00€|100|2023-12-26 16h|2023-12-27 16h|
 |#|otok-6c2478|Otok|4,49€|20|2023-12-26 18h|2024-01-02 18h|
 |#|argol-kronoss-castle-84d829|Argol - Kronoss' Castle|4,49€|40|2023-12-26 23h|2024-01-02 23h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|50|2023-12-28 22h|2024-01-03 22h|
@@ -73,7 +73,7 @@
 |#|trash-troopers-earth-reclaim-48721c|Trash Troopers Earth Reclaim|4,49€|20|2024-01-09 16h|2024-01-16 16h|
 |#|tribu-55feb1|Tribu|9,89€|45|2024-01-09 16h|2024-01-16 16h|
 |#|virus-infinite-b9ed68|Virus Infinite|13,49€|50|2024-01-09 16h|2024-01-16 16h|
-|#|102ee428036f43d086bba99404ef1342|1971 Indian Naval Front|13,49€|40|2024-01-12 18h|2024-01-19 18h|
+|#|1971-indian-naval-front-9cc046|1971 Indian Naval Front|13,49€|40|2024-01-12 18h|2024-01-19 18h|
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2023-12-29 22h|2024-01-19 22h|
 |#|overtop-ed5e49|Overtop|4,49€|80|2024-01-01 22h|2024-01-21 22h|
 |#|life-changer-64fc81|Life Changer|12,63€|30|2024-01-08 16h|2024-01-22 16h|
