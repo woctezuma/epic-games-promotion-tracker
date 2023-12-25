@@ -10,6 +10,12 @@
 |#|cyvenge-55b56b|CyVenge|4,49€|50|2023-12-29 00h|2024-01-06 23h|
 |#|arons-adventure-1e76cd|Aron's Adventure: Magic Reborn|17,99€|40|2023-12-27 14h|2024-01-07 00h|
 |#|xr22seaguard-480497|XR22-SEAGUARD|8,99€|30|2023-12-29 00h|2024-01-07 00h|
+|#|hazel-sky-478373|Hazel Sky|24,99€|60|2023-12-26 23h|2024-01-07 23h|
+|#|lamentum-962e3e|Lamentum|15,99€|60|2023-12-26 23h|2024-01-07 23h|
+|#|my-lovely-wife-bef07f|My Lovely Wife|14,99€|50|2023-12-26 23h|2024-01-07 23h|
+|#|simulacra-3-61a15e|SIMULACRA 3|8,19€|30|2023-12-26 23h|2024-01-07 23h|
+|#|the-legend-of-tianding|The Legend of Tianding|19,99€|50|2023-12-26 23h|2024-01-07 23h|
+|#|library-of-babel-7cedb5|The Library of Babel|18,99€|50|2023-12-26 23h|2024-01-07 23h|
 |#|xijiangshipyard-c16d2a|Xijiang Shipyard|13,49€|15|2024-01-01 08h|2024-01-08 08h|
 |#|switchball-hd-6d3802|Switchball HD|8,09€|50|2023-12-27 00h|2024-01-10 00h|
 |#|enchanted-portals-65ca68|Enchanted Portals|19,50€|40|2023-12-29 04h|2024-01-10 04h|

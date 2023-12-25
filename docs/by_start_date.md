@@ -7,6 +7,12 @@
 |#|cataire-6ce6b7|CATAIRE|0,89€|90|2023-12-26 16h|2024-01-10 16h|
 |#|otok-6c2478|Otok|4,49€|20|2023-12-26 18h|2024-01-02 18h|
 |#|argol-kronoss-castle-84d829|Argol - Kronoss' Castle|4,49€|40|2023-12-26 23h|2024-01-02 23h|
+|#|hazel-sky-478373|Hazel Sky|24,99€|60|2023-12-26 23h|2024-01-07 23h|
+|#|lamentum-962e3e|Lamentum|15,99€|60|2023-12-26 23h|2024-01-07 23h|
+|#|my-lovely-wife-bef07f|My Lovely Wife|14,99€|50|2023-12-26 23h|2024-01-07 23h|
+|#|simulacra-3-61a15e|SIMULACRA 3|8,19€|30|2023-12-26 23h|2024-01-07 23h|
+|#|the-legend-of-tianding|The Legend of Tianding|19,99€|50|2023-12-26 23h|2024-01-07 23h|
+|#|library-of-babel-7cedb5|The Library of Babel|18,99€|50|2023-12-26 23h|2024-01-07 23h|
 |#|switchball-hd-6d3802|Switchball HD|8,09€|50|2023-12-27 00h|2024-01-10 00h|
 |#|arons-adventure-1e76cd|Aron's Adventure: Magic Reborn|17,99€|40|2023-12-27 14h|2024-01-07 00h|
 |#|the-meme-hunter-bf7086|THE MEME HUNTER|0,89€|50|2023-12-27 22h|2024-01-13 22h|
