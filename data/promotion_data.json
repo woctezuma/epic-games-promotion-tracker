@@ -31,7 +31,7 @@
     "endDate": "2024-01-19T18:30:00.000Z",
     "isFree": false,
     "originalPrice": 1349,
-    "slug": "102ee428036f43d086bba99404ef1342",
+    "slug": "1971-indian-naval-front-9cc046",
     "startDate": "2024-01-12T18:30:00.000Z",
     "title": "1971 Indian Naval Front"
   },
@@ -1584,6 +1584,15 @@
     "title": "My Lovely Wife"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2023-12-27T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 0,
+    "slug": "mysterygame-8",
+    "startDate": "2023-12-26T16:00:00.000Z",
+    "title": "Mystery Game Day 8"
+  },
+  {
     "discountPercentage": 90,
     "endDate": "2024-01-16T16:00:00.000Z",
     "isFree": false,
@@ -2491,15 +2500,6 @@
     "slug": "the-magnificent-trufflepigs",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "The Magnificent Trufflepigs"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2023-12-26T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 5999,
-    "slug": "the-outer-worlds-spacers-choice-edition",
-    "startDate": "2023-12-25T16:00:00.000Z",
-    "title": "The Outer Worlds: Spacer's Choice Edition"
   },
   {
     "discountPercentage": 75,
