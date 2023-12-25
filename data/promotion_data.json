@@ -1431,6 +1431,15 @@
     "title": "MONOPOLY PLUS + MONOPOLY Madness"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2024-01-31T07:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 719,
+    "slug": "mallofmayhem-15344c",
+    "startDate": "2024-01-05T07:00:00.000Z",
+    "title": "Mall of Mayhem"
+  },
+  {
     "discountPercentage": 14,
     "endDate": "2024-04-30T10:00:00.000Z",
     "isFree": false,
