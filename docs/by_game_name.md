@@ -126,6 +126,8 @@
 |#|horizon-chase-2|Horizon Chase 2|24,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|horror-adventure-26ec62|Horror Adventure|8,99€|80|2024-01-16 16h|2024-01-23 16h|
 |#|horse-racing-4192a0|Horse Racing|8,99€|80|2024-01-16 16h|2024-01-23 16h|
+|#|human-resource-machine|Human Resource Machine|0,00€|100|2023-12-26 16h|2023-12-27 16h|
+|#|human-resource-machine|Human Resource Machine|11,99€|100|2023-12-26 16h|2023-12-27 16h|
 |#|human-resource-machine|Human Resource Machine|11,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|huntdown|Huntdown|19,50€|80|2024-02-09 16h|2024-02-12 16h|
 |#|im-looking-for-3024-people-1cdae4|I'm looking for 3024 people|3,99€|50|2024-02-09 16h|2024-02-12 16h|
@@ -179,7 +181,7 @@
 |#|moving-out|Moving Out|22,99€|75|2024-02-09 16h|2024-02-26 16h|
 |#|mutant-year-zero|Mutant Year Zero: Road to Eden|34,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|my-lovely-wife-bef07f|My Lovely Wife|14,99€|50|2023-12-26 23h|2024-01-07 23h|
-|#|mysterygame-8|Mystery Game Day 8|0,00€|100|2023-12-26 16h|2023-12-27 16h|
+|#|mysterygame-9|Mystery Game Day 9|0,00€|100|2023-12-27 16h|2023-12-28 16h|
 |#|mystery-solitaire-grimms-tales-244e2a|Mystery Solitaire. Grimm's Tales|4,49€|90|2024-01-09 16h|2024-01-16 16h|
 |#|nadir-a-grimdark-deckbuilder-c70747|Nadir - A Grimdark Deckbuilder|15,99€|66|2024-01-09 16h|2024-01-16 16h|
 |#|naheulbeuks-dungeon-master-b2694b|Naheulbeuk's Dungeon Master|24,99€|15|2024-01-09 16h|2024-01-16 16h|

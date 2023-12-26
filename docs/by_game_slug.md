@@ -127,6 +127,8 @@
 |#|horse-club-adventures-19e7a0|HORSE CLUB Adventures|17,99€|25|2024-02-09 16h|2024-02-12 16h|
 |#|horse-club-adventures-2-hazelwood-stories-b257d3|HORSE CLUB Adventures 2 - Hazelwood Stories|17,99€|25|2024-02-09 16h|2024-02-12 16h|
 |#|horse-racing-4192a0|Horse Racing|8,99€|80|2024-01-16 16h|2024-01-23 16h|
+|#|human-resource-machine|Human Resource Machine|0,00€|100|2023-12-26 16h|2023-12-27 16h|
+|#|human-resource-machine|Human Resource Machine|11,99€|100|2023-12-26 16h|2023-12-27 16h|
 |#|human-resource-machine|Human Resource Machine|11,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|huntdown|Huntdown|19,50€|80|2024-02-09 16h|2024-02-12 16h|
 |#|ikonei-island-an-earthlock-adventure-fa1620|Ikonei Island: An Earthlock Adventure|22,39€|20|2024-02-09 16h|2024-02-12 16h|
@@ -182,7 +184,7 @@
 |#|mutant-year-zero|Mutant Year Zero: Road to Eden|34,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|my-lovely-wife-bef07f|My Lovely Wife|14,99€|50|2023-12-26 23h|2024-01-07 23h|
 |#|mystery-solitaire-grimms-tales-244e2a|Mystery Solitaire. Grimm's Tales|4,49€|90|2024-01-09 16h|2024-01-16 16h|
-|#|mysterygame-8|Mystery Game Day 8|0,00€|100|2023-12-26 16h|2023-12-27 16h|
+|#|mysterygame-9|Mystery Game Day 9|0,00€|100|2023-12-27 16h|2023-12-28 16h|
 |#|n-verlore-verstand-1d7f5b|'n Verlore Verstand|13,49€|90|2024-02-09 16h|2024-02-12 16h|
 |#|nadir-a-grimdark-deckbuilder-c70747|Nadir - A Grimdark Deckbuilder|15,99€|66|2024-01-09 16h|2024-01-16 16h|
 |#|naheulbeuks-dungeon-master-b2694b|Naheulbeuk's Dungeon Master|24,99€|15|2024-01-09 16h|2024-01-16 16h|
