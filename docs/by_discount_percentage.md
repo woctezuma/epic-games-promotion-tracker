@@ -299,7 +299,6 @@
 |#|ikonei-island-an-earthlock-adventure-fa1620|Ikonei Island: An Earthlock Adventure|22,39€|20|2024-02-09 16h|2024-02-12 16h|
 |#|journey-into-darkness-2b6bf8|Journey Into Darkness|4,49€|20|2024-02-09 16h|2024-02-12 16h|
 |#|knight-vs-giant-the-broken-excalibur-230c5c|Knight vs Giant: The Broken Excalibur|19,99€|20|2024-02-09 16h|2024-02-12 16h|
-|#|otok-6c2478|Otok|4,49€|20|2023-12-26 18h|2024-01-02 18h|
 |#|prehistoric-kingdom|Prehistoric Kingdom|23,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|prison-city-ac156c|Prison City|8,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|recall-113630|RECALL|15,99€|20|2024-02-09 16h|2024-02-12 16h|
