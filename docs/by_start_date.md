@@ -1,7 +1,8 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
 |#|cataire-6ce6b7|CATAIRE|0,89€|90|2023-12-26 16h|2024-01-10 16h|
-|#|mysterygame-8|Mystery Game Day 8|0,00€|100|2023-12-26 16h|2023-12-27 16h|
+|#|human-resource-machine|Human Resource Machine|0,00€|100|2023-12-26 16h|2023-12-27 16h|
+|#|human-resource-machine|Human Resource Machine|11,99€|100|2023-12-26 16h|2023-12-27 16h|
 |#|otok-6c2478|Otok|4,49€|20|2023-12-26 18h|2024-01-02 18h|
 |#|argol-kronoss-castle-84d829|Argol - Kronoss' Castle|4,49€|40|2023-12-26 23h|2024-01-02 23h|
 |#|hazel-sky-478373|Hazel Sky|24,99€|60|2023-12-26 23h|2024-01-07 23h|
@@ -13,6 +14,7 @@
 |#|switchball-hd-6d3802|Switchball HD|8,09€|50|2023-12-27 00h|2024-01-10 00h|
 |#|arons-adventure-1e76cd|Aron's Adventure: Magic Reborn|17,99€|40|2023-12-27 14h|2024-01-07 00h|
 |#|fur-squadron-0042b8|FUR Squadron|6,29€|45|2023-12-27 14h|2024-01-04 12h|
+|#|mysterygame-9|Mystery Game Day 9|0,00€|100|2023-12-27 16h|2023-12-28 16h|
 |#|the-meme-hunter-bf7086|THE MEME HUNTER|0,89€|50|2023-12-27 22h|2024-01-13 22h|
 |#|the-witcher-3-wild-hunt|The Witcher 3: Wild Hunt – Complete Edition|49,96€|75|2023-12-28 15h|2024-01-10 16h|
 |#|anno-mutationem-ef8b9e|ANNO Mutationem|20,99€|40|2023-12-28 16h|2024-01-06 16h|
