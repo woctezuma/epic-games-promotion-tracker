@@ -218,6 +218,7 @@
 |#|assassins-creed-valhalla-immortals-fenyx-rising-bundle|Assassin’s Creed® Valhalla + Immortals Fenyx Rising™ Bundle|109,99€|40|2023-12-28 16h|2024-01-10 16h|
 |#|beasts-of-maravilla-island|Beasts of Maravilla Island|7,99€|40|2024-02-09 16h|2024-02-12 16h|
 |#|covid-carl-7dd371|Covid Carl|3,59€|40|2024-02-09 16h|2024-02-12 16h|
+|#|dirt-bike-racer-simulator-4c49b5|Dirt Bike Racer Simulator|0,89€|40|2024-01-01 17h|2024-01-15 17h|
 |#|dizzy-fight-7bbfe7|Dizzy Fight|7,19€|40|2024-01-16 16h|2024-01-23 16h|
 |#|enchanted-portals-65ca68|Enchanted Portals|19,50€|40|2023-12-29 04h|2024-01-10 04h|
 |#|goat-simulator-3|Goat Simulator 3|29,99€|40|2024-02-09 16h|2024-02-12 16h|
@@ -225,9 +226,16 @@
 |#|guild-of-dungeoneering-ultimate-edition|Guild of Dungeoneering Ultimate Edition|19,99€|40|2024-02-09 16h|2024-02-12 16h|
 |#|life-after-death-b4e964|Life After Death|4,49€|40|2024-01-22 01h|2024-02-10 01h|
 |#|life-after-death-b4e964|Life After Death|4,49€|40|2024-03-11 01h|2024-04-04 00h|
+|#|mountain-bicycle-rider-simulator-e52374|Mountain Bicycle Rider Simulator|0,89€|40|2024-01-01 17h|2024-01-15 17h|
+|#|police-car-armored-cop-simulator-60b997|Police Car Armored Cop Simulator|0,89€|40|2024-01-01 17h|2024-01-15 17h|
+|#|police-car-simulator-d57d15|Police Car Simulator|0,89€|40|2024-01-01 17h|2024-01-15 17h|
+|#|sniper-hunter-shooter-5cda66|Sniper Hunter Shooter|0,89€|40|2024-01-01 17h|2024-01-15 17h|
+|#|taxi-driver-simulator-car-parking-c5f70f|Taxi Driver Simulator Car Parking|0,89€|40|2024-01-01 17h|2024-01-15 17h|
 |#|teacup|Teacup|7,99€|40|2024-02-09 16h|2024-02-12 16h|
 |#|royal-defense-d046db|The Empress of Mahjong|4,49€|40|2024-01-09 16h|2024-01-16 16h|
 |#|total-war-warhammer-3|Total War: WARHAMMER III|59,99€|40|2023-12-28 18h|2024-01-10 16h|
+|#|truck-simulator-ultimate-3d-fafeaa|Truck Simulator Ultimate 3D|0,89€|40|2024-01-01 17h|2024-01-15 17h|
+|#|ultimate-flight-simulator-pro-8f1009|Ultimate Flight Simulator Pro|0,89€|40|2024-01-01 17h|2024-01-15 17h|
 |#|deltav-rings-of-saturn-4cd187|ΔV: Rings of Saturn|8,99€|37|2024-02-09 16h|2024-02-12 16h|
 |#|beach-invasion-1944-d654d6|Beach Invasion 1944|8,99€|35|2024-02-09 16h|2024-02-12 16h|
 |#|kujlevka-9b53bb|Kujlevka|19,50€|35|2024-02-09 16h|2024-02-12 16h|

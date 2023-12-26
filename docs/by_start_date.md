@@ -52,6 +52,14 @@
 |#|nextbots-in-the-backrooms-b5677b|Nextbots In The Backrooms|0,89€|50|2023-12-30 22h|2024-01-14 22h|
 |#|xijiangshipyard-c16d2a|Xijiang Shipyard|13,49€|15|2024-01-01 08h|2024-01-08 08h|
 |#|king-of-seas-646f95|King of Seas|22,39€|90|2024-01-01 16h|2024-01-15 16h|
+|#|dirt-bike-racer-simulator-4c49b5|Dirt Bike Racer Simulator|0,89€|40|2024-01-01 17h|2024-01-15 17h|
+|#|mountain-bicycle-rider-simulator-e52374|Mountain Bicycle Rider Simulator|0,89€|40|2024-01-01 17h|2024-01-15 17h|
+|#|police-car-armored-cop-simulator-60b997|Police Car Armored Cop Simulator|0,89€|40|2024-01-01 17h|2024-01-15 17h|
+|#|police-car-simulator-d57d15|Police Car Simulator|0,89€|40|2024-01-01 17h|2024-01-15 17h|
+|#|sniper-hunter-shooter-5cda66|Sniper Hunter Shooter|0,89€|40|2024-01-01 17h|2024-01-15 17h|
+|#|taxi-driver-simulator-car-parking-c5f70f|Taxi Driver Simulator Car Parking|0,89€|40|2024-01-01 17h|2024-01-15 17h|
+|#|truck-simulator-ultimate-3d-fafeaa|Truck Simulator Ultimate 3D|0,89€|40|2024-01-01 17h|2024-01-15 17h|
+|#|ultimate-flight-simulator-pro-8f1009|Ultimate Flight Simulator Pro|0,89€|40|2024-01-01 17h|2024-01-15 17h|
 |#|overtop-ed5e49|Overtop|4,49€|80|2024-01-01 22h|2024-01-21 22h|
 |#|frontier-hunter-erzas-wheel-of-fortune|Frontier Hunter: Erza's Wheel of Fortune|15,99€|25|2024-01-04 08h|2024-01-10 08h|
 |#|compass-of-the-destiny-istanbul-598642|Compass of the Destiny: Istanbul|14,79€|30|2024-01-04 21h|2024-01-11 21h|
