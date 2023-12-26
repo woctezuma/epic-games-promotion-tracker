@@ -585,6 +585,15 @@
     "title": "Diplomacy is Not an Option"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-01-15T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "dirt-bike-racer-simulator-4c49b5",
+    "startDate": "2024-01-01T17:00:00.000Z",
+    "title": "Dirt Bike Racer Simulator"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -1548,6 +1557,15 @@
     "title": "Moonlighter"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-01-15T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "mountain-bicycle-rider-simulator-e52374",
+    "startDate": "2024-01-01T17:00:00.000Z",
+    "title": "Mountain Bicycle Rider Simulator"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-01-23T16:00:00.000Z",
     "isFree": false,
@@ -1780,6 +1798,24 @@
     "slug": "poker-club-6e18ee",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Poker Club"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-01-15T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "police-car-armored-cop-simulator-60b997",
+    "startDate": "2024-01-01T17:00:00.000Z",
+    "title": "Police Car Armored Cop Simulator"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-01-15T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "police-car-simulator-d57d15",
+    "startDate": "2024-01-01T17:00:00.000Z",
+    "title": "Police Car Simulator"
   },
   {
     "discountPercentage": 50,
@@ -2061,6 +2097,15 @@
     "title": "SkyDrift Infinity"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-01-15T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "sniper-hunter-shooter-5cda66",
+    "startDate": "2024-01-01T17:00:00.000Z",
+    "title": "Sniper Hunter Shooter"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -2320,6 +2365,15 @@
     "slug": "tank-warfare-tunisia-1943-62f6e9",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Tank Warfare -  Tunisia 1943"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-01-15T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "taxi-driver-simulator-car-parking-c5f70f",
+    "startDate": "2024-01-01T17:00:00.000Z",
+    "title": "Taxi Driver Simulator Car Parking"
   },
   {
     "discountPercentage": 40,
@@ -2682,6 +2736,15 @@
     "title": "Tribu"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-01-15T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "truck-simulator-ultimate-3d-fafeaa",
+    "startDate": "2024-01-01T17:00:00.000Z",
+    "title": "Truck Simulator Ultimate 3D"
+  },
+  {
     "discountPercentage": 10,
     "endDate": "2024-01-25T15:00:00.000Z",
     "isFree": false,
@@ -2689,6 +2752,15 @@
     "slug": "turnip-boy-robs-a-bank-3fae0e",
     "startDate": "2024-01-18T15:00:00.000Z",
     "title": "Turnip Boy Robs a Bank"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-01-15T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "ultimate-flight-simulator-pro-8f1009",
+    "startDate": "2024-01-01T17:00:00.000Z",
+    "title": "Ultimate Flight Simulator Pro"
   },
   {
     "discountPercentage": 35,
