@@ -774,6 +774,15 @@
     "title": "Far Cry Primal Standard Edition"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2024-01-15T07:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 809,
+    "slug": "filthy-us-complete-edition-82a6b1",
+    "startDate": "2024-01-09T07:00:00.000Z",
+    "title": "Filthy Us Complete Edition"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
