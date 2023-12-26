@@ -405,15 +405,6 @@
     "title": "Car Mechanic - City Driving"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2024-01-12T03:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 79,
-    "slug": "car-tuning-simulator-38ddaf",
-    "startDate": "2023-12-26T03:00:00.000Z",
-    "title": "Car Tuning Simulator"
-  },
-  {
     "discountPercentage": 55,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
