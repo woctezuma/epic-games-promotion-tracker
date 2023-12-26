@@ -738,6 +738,15 @@
     "title": "FRONT MISSION 1st: Remake"
   },
   {
+    "discountPercentage": 45,
+    "endDate": "2024-01-04T12:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 629,
+    "slug": "fur-squadron-0042b8",
+    "startDate": "2023-12-27T14:00:00.000Z",
+    "title": "FUR Squadron"
+  },
+  {
     "discountPercentage": 85,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
