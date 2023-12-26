@@ -1,7 +1,6 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
 |#|mysterygame-9|Mystery Game Day 9|0,00€|100|2023-12-27 16h|2023-12-28 16h|
-|#|argol-kronoss-castle-84d829|Argol - Kronoss' Castle|4,49€|40|2023-12-26 23h|2024-01-02 23h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|50|2023-12-28 22h|2024-01-03 22h|
 |#|fur-squadron-0042b8|FUR Squadron|6,29€|45|2023-12-27 14h|2024-01-04 12h|
 |#|the-front-3a8219|The Front|17,99€|30|2023-12-28 18h|2024-01-04 18h|
@@ -10,12 +9,6 @@
 |#|cyvenge-55b56b|CyVenge|4,49€|50|2023-12-29 00h|2024-01-06 23h|
 |#|arons-adventure-1e76cd|Aron's Adventure: Magic Reborn|17,99€|40|2023-12-27 14h|2024-01-07 00h|
 |#|xr22seaguard-480497|XR22-SEAGUARD|8,99€|30|2023-12-29 00h|2024-01-07 00h|
-|#|hazel-sky-478373|Hazel Sky|24,99€|60|2023-12-26 23h|2024-01-07 23h|
-|#|lamentum-962e3e|Lamentum|15,99€|60|2023-12-26 23h|2024-01-07 23h|
-|#|my-lovely-wife-bef07f|My Lovely Wife|14,99€|50|2023-12-26 23h|2024-01-07 23h|
-|#|simulacra-3-61a15e|SIMULACRA 3|8,19€|30|2023-12-26 23h|2024-01-07 23h|
-|#|the-legend-of-tianding|The Legend of Tianding|19,99€|50|2023-12-26 23h|2024-01-07 23h|
-|#|library-of-babel-7cedb5|The Library of Babel|18,99€|50|2023-12-26 23h|2024-01-07 23h|
 |#|xijiangshipyard-c16d2a|Xijiang Shipyard|13,49€|15|2024-01-01 08h|2024-01-08 08h|
 |#|switchball-hd-6d3802|Switchball HD|8,09€|50|2023-12-27 00h|2024-01-10 00h|
 |#|enchanted-portals-65ca68|Enchanted Portals|19,50€|40|2023-12-29 04h|2024-01-10 04h|
@@ -74,6 +67,7 @@
 |#|naheulbeuks-dungeon-master-b2694b|Naheulbeuk's Dungeon Master|24,99€|15|2024-01-09 16h|2024-01-16 16h|
 |#|outbreak-the-new-nightmare-revisited-90517a|Outbreak The New Nightmare Revisited|8,99€|50|2024-01-09 16h|2024-01-16 16h|
 |#|suicide-guy-9f7963|Suicide Guy|7,19€|45|2024-01-09 16h|2024-01-16 16h|
+|#|tamara-in-the-forsaken-dungeon-81aa5c|Tamara In The Forsaken Dungeon|2,69€|30|2024-01-09 16h|2024-01-16 16h|
 |#|royal-defense-d046db|The Empress of Mahjong|4,49€|40|2024-01-09 16h|2024-01-16 16h|
 |#|the-hive-f5c2c8|The Hive|13,49€|50|2024-01-09 16h|2024-01-16 16h|
 |#|trash-troopers-earth-reclaim-48721c|Trash Troopers Earth Reclaim|4,49€|20|2024-01-09 16h|2024-01-16 16h|

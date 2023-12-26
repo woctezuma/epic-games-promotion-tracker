@@ -17,7 +17,6 @@
 |#|amber-1e2240|Amber|26,99€|34|2024-02-14 13h|2024-02-20 13h|
 |#|angry-video-game-nerd-1-and-2-deluxe-1eea79|Angry Video Game Nerd I & II Deluxe|8,99€|30|2024-02-09 16h|2024-02-12 16h|
 |#|arcrunner-61fee6|ArcRunner|19,99€|20|2024-02-09 16h|2024-02-12 16h|
-|#|argol-kronoss-castle-84d829|Argol - Kronoss' Castle|4,49€|40|2023-12-26 23h|2024-01-02 23h|
 |#|arons-adventure-1e76cd|Aron's Adventure: Magic Reborn|17,99€|40|2023-12-27 14h|2024-01-07 00h|
 |#|assassins-creed-chronicles-trilogy|Assassin's Creed Chronicles – Trilogy|24,99€|70|2023-12-28 16h|2024-01-10 16h|
 |#|assassins-creed-valhalla-immortals-fenyx-rising-bundle|Assassin’s Creed® Valhalla + Immortals Fenyx Rising™ Bundle|109,99€|40|2023-12-28 16h|2024-01-10 16h|
@@ -119,7 +118,6 @@
 |#|horse-club-adventures-2-hazelwood-stories-b257d3|HORSE CLUB Adventures 2 - Hazelwood Stories|17,99€|25|2024-02-09 16h|2024-02-12 16h|
 |#|hammerting|Hammerting|24,99€|90|2024-02-26 16h|2024-03-11 16h|
 |#|hanoi-puzzles-solid-match-6a9e0c|Hanoi Puzzles - Solid Match|2,69€|25|2024-02-09 16h|2024-02-12 16h|
-|#|hazel-sky-478373|Hazel Sky|24,99€|60|2023-12-26 23h|2024-01-07 23h|
 |#|he-will-shoot-46efff|He Will Shoot|1,59€|60|2024-01-25 03h|2024-02-10 03h|
 |#|highway-driving-140121|Highway Driving|8,99€|80|2024-01-16 16h|2024-01-23 16h|
 |#|horizon-chase-2|Horizon Chase 2|24,99€|20|2024-02-09 16h|2024-02-12 16h|
@@ -148,7 +146,6 @@
 |#|lego-builders-journey|LEGO® Builder's Journey|16,99€|66|2024-02-09 16h|2024-02-12 16h|
 |#|love-3-c2516f|LOVE 3|8,99€|30|2024-02-09 16h|2024-02-12 16h|
 |#|lake|Lake|19,99€|50|2024-02-09 16h|2024-02-12 16h|
-|#|lamentum-962e3e|Lamentum|15,99€|60|2023-12-26 23h|2024-01-07 23h|
 |#|liberte-96a5e5|Liberte|17,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|life-after-death-b4e964|Life After Death|4,49€|40|2024-01-22 01h|2024-02-10 01h|
 |#|life-after-death-b4e964|Life After Death|4,49€|40|2024-03-11 01h|2024-04-04 00h|
@@ -177,7 +174,6 @@
 |#|mountain-racing-47178d|Mountain Racing|4,49€|80|2024-01-16 16h|2024-01-23 16h|
 |#|moving-out|Moving Out|22,99€|75|2024-02-09 16h|2024-02-26 16h|
 |#|mutant-year-zero|Mutant Year Zero: Road to Eden|34,99€|60|2024-02-09 16h|2024-02-12 16h|
-|#|my-lovely-wife-bef07f|My Lovely Wife|14,99€|50|2023-12-26 23h|2024-01-07 23h|
 |#|mysterygame-9|Mystery Game Day 9|0,00€|100|2023-12-27 16h|2023-12-28 16h|
 |#|mystery-solitaire-grimms-tales-244e2a|Mystery Solitaire. Grimm's Tales|4,49€|90|2024-01-09 16h|2024-01-16 16h|
 |#|nadir-a-grimdark-deckbuilder-c70747|Nadir - A Grimdark Deckbuilder|15,99€|66|2024-01-09 16h|2024-01-16 16h|
@@ -216,7 +212,6 @@
 |#|recall-113630|RECALL|15,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|rimworld|RimWorld|32,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|70|2024-01-11 22h|2024-01-30 22h|
-|#|simulacra-3-61a15e|SIMULACRA 3|8,19€|30|2023-12-26 23h|2024-01-07 23h|
 |#|saboteur-ii-avenging-angel-33e83c|Saboteur II Avenging Angel|7,19€|20|2024-01-05 23h|2024-02-04 23h|
 |#|saboteur-sio-123236|Saboteur SiO|9,89€|20|2024-01-05 23h|2024-02-04 23h|
 |#|saboteur-f3d01d|Saboteur!|7,19€|20|2024-01-05 23h|2024-02-04 23h|
@@ -261,6 +256,7 @@
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2023-12-29 22h|2024-01-19 22h|
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2024-02-25 22h|2024-03-15 22h|
 |#|tales-of-the-tiny-planet-ab9e11|Tales of the Tiny Planet|8,99€|30|2024-01-21 00h|2024-01-31 00h|
+|#|tamara-in-the-forsaken-dungeon-81aa5c|Tamara In The Forsaken Dungeon|2,69€|30|2024-01-09 16h|2024-01-16 16h|
 |#|tank-warfare-tunisia-1943-62f6e9|Tank Warfare - Tunisia 1943|23,99€|70|2024-02-09 16h|2024-02-12 16h|
 |#|taxi-driver-simulator-car-parking-c5f70f|Taxi Driver Simulator Car Parking|0,89€|40|2024-01-01 17h|2024-01-15 17h|
 |#|teacup|Teacup|7,99€|40|2024-02-09 16h|2024-02-12 16h|
@@ -278,8 +274,6 @@
 |#|the-front-3a8219|The Front|17,99€|30|2023-12-28 18h|2024-01-04 18h|
 |#|the-hive-f5c2c8|The Hive|13,49€|50|2024-01-09 16h|2024-01-16 16h|
 |#|the-invincible|The Invincible|29,99€|20|2024-02-09 16h|2024-02-12 16h|
-|#|the-legend-of-tianding|The Legend of Tianding|19,99€|50|2023-12-26 23h|2024-01-07 23h|
-|#|library-of-babel-7cedb5|The Library of Babel|18,99€|50|2023-12-26 23h|2024-01-07 23h|
 |#|the-lions-song|The Lion's Song|7,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|the-lord-of-the-rings-return-to-moria-f01344|The Lord of The Rings Return to Moria|39,99€|33|2024-02-09 16h|2024-02-12 16h|
 |#|the-magnificent-trufflepigs|The Magnificent Trufflepigs|9,99€|70|2024-02-09 16h|2024-02-12 16h|
