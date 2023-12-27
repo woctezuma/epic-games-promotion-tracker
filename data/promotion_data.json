@@ -1791,6 +1791,15 @@
     "title": "Prehistoric Kingdom"
   },
   {
+    "discountPercentage": 25,
+    "endDate": "2024-01-16T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1169,
+    "slug": "presences-dark-awakening-b1c9eb",
+    "startDate": "2024-01-09T16:00:00.000Z",
+    "title": "Presences: Dark Awakening"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-01-10T17:00:00.000Z",
     "isFree": false,
@@ -2311,6 +2320,15 @@
     "slug": "teacup",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Teacup"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-01-05T05:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "team-disorder-987adf",
+    "startDate": "2023-12-29T05:00:00.000Z",
+    "title": "Team Disorder"
   },
   {
     "discountPercentage": 50,
