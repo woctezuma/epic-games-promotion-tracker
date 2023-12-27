@@ -81,7 +81,7 @@
 |#|this-war-of-mine|This War of Mine|18,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|through-the-darkest-of-times|Through the Darkest of Times|14,99€|80|2024-01-23 16h|2024-01-30 16h|
 |#|trials-rising|Trials Rising Standard Edition|19,99€|80|2023-12-28 16h|2024-01-10 16h|
-|#|victorian-admirals-36f8c4|Victorian Admirals|15,99€|80|2024-02-09 16h|2024-02-12 16h|
+|#|d3be5dd0df7e457abdf4bd8fa341d498|Victorian Admirals|15,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|victorian-admirals-marianas-incident-1887-7d4e70|Victorian Admirals Marianas Incident 1887|17,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|victorian-admirals-panama-crisis-1885-7e5372|Victorian Admirals Panama Crisis 1885|13,49€|80|2024-02-09 16h|2024-02-12 16h|
 |#|watch-dogs-legion--ultimate-edition|Watch Dogs: Legion Ultimate Edition|119,99€|80|2023-12-28 16h|2024-01-10 16h|
