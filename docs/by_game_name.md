@@ -248,7 +248,6 @@
 |#|super-kids-racing-7bf296|Super Kids Racing|8,99€|80|2024-01-16 16h|2024-01-23 16h|
 |#|super-kids-racing-mini-edition-65c0fa|Super Kids Racing - Mini Edition|8,99€|80|2024-01-16 16h|2024-01-23 16h|
 |#|superliminal|Superliminal|15,99€|50|2024-02-09 16h|2024-02-12 16h|
-|#|switchball-hd-6d3802|Switchball HD|8,09€|50|2023-12-27 00h|2024-01-10 00h|
 |#|switchball-hd-6d3802|Switchball HD|8,09€|50|2024-02-09 16h|2024-02-12 16h|
 |#|trex-dinosaur-game-d30355|T-Rex Dinosaur Game|0,89€|50|2024-01-09 22h|2024-01-25 22h|
 |#|the-meme-hunter-bf7086|THE MEME HUNTER|0,89€|50|2023-12-27 22h|2024-01-13 22h|
