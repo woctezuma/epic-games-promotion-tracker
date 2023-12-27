@@ -1,6 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|cursed-to-golf-a6bc22|Cursed to Golf|0,00€|100|2023-12-27 16h|2023-12-28 16h|
 |#|the-meme-hunter-bf7086|THE MEME HUNTER|0,89€|50|2023-12-27 22h|2024-01-13 22h|
 |#|the-witcher-3-wild-hunt|The Witcher 3: Wild Hunt – Complete Edition|49,96€|75|2023-12-28 15h|2024-01-10 16h|
 |#|anno-mutationem-ef8b9e|ANNO Mutationem|20,99€|40|2023-12-28 16h|2024-01-06 16h|

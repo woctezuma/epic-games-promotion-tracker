@@ -53,7 +53,6 @@
 |#|covid-carl-7dd371|Covid Carl|3,59€|40|2024-02-09 16h|2024-02-12 16h|
 |#|culpa-innata-8997ac|Culpa Innata|9,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|curse-of-the-sea-rats-8f28b1|Curse of the Sea Rats|17,99€|30|2024-02-09 16h|2024-02-12 16h|
-|#|cursed-to-golf-a6bc22|Cursed to Golf|0,00€|100|2023-12-27 16h|2023-12-28 16h|
 |#|cyvenge-55b56b|CyVenge|4,49€|50|2023-12-29 00h|2024-01-06 23h|
 |#|cyanide-happiness-freakpocalypse|Cyanide & Happiness - Freakpocalypse (Episode 1)|15,99€|55|2024-02-09 16h|2024-02-12 16h|
 |#|cyberpunk-2077|Cyberpunk 2077|59,99€|50|2023-12-28 16h|2024-12-10 16h|

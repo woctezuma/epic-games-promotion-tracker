@@ -315,5 +315,4 @@
 |#|taxi-driver-simulator-car-parking-c5f70f|Taxi Driver Simulator Car Parking|0,89€|40|2024-01-01 17h|2024-01-15 17h|
 |#|truck-simulator-ultimate-3d-fafeaa|Truck Simulator Ultimate 3D|0,89€|40|2024-01-01 17h|2024-01-15 17h|
 |#|ultimate-flight-simulator-pro-8f1009|Ultimate Flight Simulator Pro|0,89€|40|2024-01-01 17h|2024-01-15 17h|
-|#|cursed-to-golf-a6bc22|Cursed to Golf|0,00€|100|2023-12-27 16h|2023-12-28 16h|
 |#|mysterygame-10|Mystery Game Day 10|0,00€|100|2023-12-28 16h|2023-12-29 16h|
