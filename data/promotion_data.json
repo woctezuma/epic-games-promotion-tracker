@@ -2242,15 +2242,6 @@
   },
   {
     "discountPercentage": 50,
-    "endDate": "2024-01-13T22:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "the-meme-hunter-bf7086",
-    "startDate": "2023-12-27T22:00:00.000Z",
-    "title": "THE MEME HUNTER"
-  },
-  {
-    "discountPercentage": 50,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1299,
