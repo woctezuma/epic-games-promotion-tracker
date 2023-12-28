@@ -1,7 +1,6 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
 |#|mysterygame-11|Mystery Game Day 11|0,00€|100|2023-12-29 16h|2023-12-30 16h|
-|#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|50|2023-12-28 22h|2024-01-03 22h|
 |#|bursthero-dd5a56|Burst Hero|4,49€|20|2023-12-29 00h|2024-01-05 00h|
 |#|team-disorder-987adf|Team Disorder|17,99€|40|2023-12-29 05h|2024-01-05 05h|
 |#|cyvenge-55b56b|CyVenge|4,49€|50|2023-12-29 00h|2024-01-06 23h|
