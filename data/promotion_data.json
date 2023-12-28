@@ -756,15 +756,6 @@
     "title": "Fortune Follow: The Mansion"
   },
   {
-    "discountPercentage": 75,
-    "endDate": "2024-01-10T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "from-dust",
-    "startDate": "2023-12-28T17:00:00.000Z",
-    "title": "From Dust"
-  },
-  {
     "discountPercentage": 25,
     "endDate": "2024-01-10T08:00:00.000Z",
     "isFree": false,
@@ -1720,15 +1711,6 @@
   },
   {
     "discountPercentage": 80,
-    "endDate": "2024-01-10T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "prince-of-persia-the-forgotten-sands",
-    "startDate": "2023-12-28T17:00:00.000Z",
-    "title": "Prince of Persia: The Forgotten Sands STANDARD EDITION"
-  },
-  {
-    "discountPercentage": 80,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 799,
@@ -2304,15 +2286,6 @@
     "title": "The Forest Cathedral"
   },
   {
-    "discountPercentage": 30,
-    "endDate": "2024-01-04T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1799,
-    "slug": "the-front-3a8219",
-    "startDate": "2023-12-28T18:00:00.000Z",
-    "title": "The Front"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-01-16T16:00:00.000Z",
     "isFree": false,
@@ -2410,33 +2383,6 @@
     "slug": "tormented-souls",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Tormented Souls"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "total-war-warhammer",
-    "startDate": "2023-12-28T18:00:00.000Z",
-    "title": "Total War: WARHAMMER"
-  },
-  {
-    "discountPercentage": 66,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "total-war-warhammer-ii",
-    "startDate": "2023-12-28T18:00:00.000Z",
-    "title": "Total War: WARHAMMER II"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "total-war-warhammer-3",
-    "startDate": "2023-12-28T18:00:00.000Z",
-    "title": "Total War: WARHAMMER III"
   },
   {
     "discountPercentage": 20,
