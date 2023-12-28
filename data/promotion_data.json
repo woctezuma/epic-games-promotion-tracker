@@ -81,15 +81,6 @@
     "title": "A Second Before The War"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2024-01-06T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2099,
-    "slug": "anno-mutationem-ef8b9e",
-    "startDate": "2023-12-28T16:00:00.000Z",
-    "title": "ANNO Mutationem"
-  },
-  {
     "discountPercentage": 30,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -160,24 +151,6 @@
     "slug": "arons-adventure-1e76cd",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Aron's Adventure: Magic Reborn"
-  },
-  {
-    "discountPercentage": 70,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2499,
-    "slug": "assassins-creed-chronicles-trilogy",
-    "startDate": "2023-12-28T16:00:00.000Z",
-    "title": "Assassin's Creed Chronicles \u2013 Trilogy"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 10999,
-    "slug": "assassins-creed-valhalla-immortals-fenyx-rising-bundle",
-    "startDate": "2023-12-28T16:00:00.000Z",
-    "title": "Assassin\u2019s Creed\u00ae Valhalla + Immortals Fenyx Rising\u2122 Bundle"
   },
   {
     "discountPercentage": 80,
@@ -396,15 +369,6 @@
     "title": "Car Mechanic - City Driving"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2023-12-29T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 0,
-    "slug": "cat-quest-8373e0",
-    "startDate": "2023-12-28T16:00:00.000Z",
-    "title": "Cat Quest"
-  },
-  {
     "discountPercentage": 55,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -430,15 +394,6 @@
     "slug": "chicken-police-paint-it-red",
     "startDate": "2024-01-23T16:00:00.000Z",
     "title": "Chicken Police - Paint it Red!"
-  },
-  {
-    "discountPercentage": 70,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "child-of-light",
-    "startDate": "2023-12-28T16:00:00.000Z",
-    "title": "Child of Light: Ultimate Edition"
   },
   {
     "discountPercentage": 30,
@@ -511,15 +466,6 @@
     "slug": "cyanide-happiness-freakpocalypse",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Cyanide & Happiness - Freakpocalypse (Episode 1)"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2024-12-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "cyberpunk-2077",
-    "startDate": "2023-12-28T16:00:00.000Z",
-    "title": "Cyberpunk 2077"
   },
   {
     "discountPercentage": 25,
@@ -745,24 +691,6 @@
     "slug": "front-mission-1st-remake-124a24",
     "startDate": "2024-01-09T16:00:00.000Z",
     "title": "FRONT MISSION 1st: Remake"
-  },
-  {
-    "discountPercentage": 85,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 9999,
-    "slug": "far-cry-new-dawn-complete",
-    "startDate": "2023-12-28T16:00:00.000Z",
-    "title": "Far Cry New Dawn Complete"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "far-cry-primal",
-    "startDate": "2023-12-28T16:00:00.000Z",
-    "title": "Far Cry Primal Standard Edition"
   },
   {
     "discountPercentage": 30,
@@ -1395,15 +1323,6 @@
     "title": "Locks Quest"
   },
   {
-    "discountPercentage": 70,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "monopoly-plus-monopoly-madness-bundle",
-    "startDate": "2023-12-28T16:00:00.000Z",
-    "title": "MONOPOLY PLUS + MONOPOLY Madness"
-  },
-  {
     "discountPercentage": 30,
     "endDate": "2024-01-31T07:00:00.000Z",
     "isFree": false,
@@ -1483,24 +1402,6 @@
     "slug": "midnight-ghost-hunt",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Midnight Ghost Hunt"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "might-and-magic-heroes-3",
-    "startDate": "2023-12-28T16:00:00.000Z",
-    "title": "Might & Magic Heroes 3"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 4499,
-    "slug": "might-and-magic-heroes-7",
-    "startDate": "2023-12-28T16:00:00.000Z",
-    "title": "Might and Magic: Heroes VII - Ultimate Edition"
   },
   {
     "discountPercentage": 80,
@@ -1828,15 +1729,6 @@
   },
   {
     "discountPercentage": 80,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "prince-of-persia-the-two-thrones",
-    "startDate": "2023-12-28T16:00:00.000Z",
-    "title": "Prince of Persia: The Two Thrones Standard Edition"
-  },
-  {
-    "discountPercentage": 80,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 799,
@@ -1879,15 +1771,6 @@
     "slug": "railgrade",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "RAILGRADE"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "rayman-legends",
-    "startDate": "2023-12-28T16:00:00.000Z",
-    "title": "RAYMAN\u00ae LEGENDS"
   },
   {
     "discountPercentage": 20,
@@ -2070,15 +1953,6 @@
     "title": "Songs of Conquest"
   },
   {
-    "discountPercentage": 30,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "sonic-superstars",
-    "startDate": "2023-12-28T16:00:00.000Z",
-    "title": "Sonic Superstars"
-  },
-  {
     "discountPercentage": 90,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -2149,15 +2023,6 @@
     "slug": "steel-fury-kharkov-1942-cdfbd6",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Steel Fury Kharkov 1942"
-  },
-  {
-    "discountPercentage": 85,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "steep",
-    "startDate": "2023-12-28T16:00:00.000Z",
-    "title": "Steep Standard Edition"
   },
   {
     "discountPercentage": 80,
@@ -2538,33 +2403,6 @@
     "title": "Timberborn"
   },
   {
-    "discountPercentage": 70,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "endwar",
-    "startDate": "2023-12-28T16:00:00.000Z",
-    "title": "Tom Clancy's EndWar"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 499,
-    "slug": "splinter-cell",
-    "startDate": "2023-12-28T16:00:00.000Z",
-    "title": "Tom Clancy's Splinter Cell"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 499,
-    "slug": "splinter-cell-double-agent",
-    "startDate": "2023-12-28T16:00:00.000Z",
-    "title": "Tom Clancy\u2019s Splinter Cell Double Agent"
-  },
-  {
     "discountPercentage": 55,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -2601,15 +2439,6 @@
     "title": "Total War: WARHAMMER III"
   },
   {
-    "discountPercentage": 60,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "trackmania-turbo",
-    "startDate": "2023-12-28T16:00:00.000Z",
-    "title": "Trackmania Turbo"
-  },
-  {
     "discountPercentage": 20,
     "endDate": "2024-01-16T16:00:00.000Z",
     "isFree": false,
@@ -2626,33 +2455,6 @@
     "slug": "trekkingandcamping-655909",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "TrekkingAndCamping"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "trials-evolution",
-    "startDate": "2023-12-28T16:00:00.000Z",
-    "title": "Trials Evolution: Gold Edition"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "trials-fusion",
-    "startDate": "2023-12-28T16:00:00.000Z",
-    "title": "Trials Fusion: Standard Edition"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "trials-rising",
-    "startDate": "2023-12-28T16:00:00.000Z",
-    "title": "Trials Rising Standard Edition"
   },
   {
     "discountPercentage": 45,
@@ -2770,15 +2572,6 @@
     "slug": "warrior-kings-d07850",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Warrior Kings"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2024-01-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 11999,
-    "slug": "watch-dogs-legion--ultimate-edition",
-    "startDate": "2023-12-28T16:00:00.000Z",
-    "title": "Watch Dogs: Legion Ultimate Edition"
   },
   {
     "discountPercentage": 90,
