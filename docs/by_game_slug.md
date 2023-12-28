@@ -15,6 +15,7 @@
 |#|anno-mutationem-ef8b9e|ANNO Mutationem|20,99€|40|2023-12-28 16h|2024-01-06 16h|
 |#|apico-f6e18b|APICO|15,99€|30|2024-02-09 16h|2024-02-12 16h|
 |#|arcrunner-61fee6|ArcRunner|19,99€|20|2024-02-09 16h|2024-02-12 16h|
+|#|arons-adventure-1e76cd|Aron's Adventure: Magic Reborn|17,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|assassins-creed-chronicles-trilogy|Assassin's Creed Chronicles – Trilogy|24,99€|70|2023-12-28 16h|2024-01-10 16h|
 |#|assassins-creed-valhalla-immortals-fenyx-rising-bundle|Assassin’s Creed® Valhalla + Immortals Fenyx Rising™ Bundle|109,99€|40|2023-12-28 16h|2024-01-10 16h|
 |#|automachef|Automachef|14,99€|80|2024-02-09 16h|2024-02-26 16h|
