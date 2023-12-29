@@ -1,6 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|snakebird-complete-e6f0ae|Snakebird Complete|0,00€|100|2023-12-29 16h|2023-12-30 16h|
 |#|mysterygame-12|Mystery Game Day 12|0,00€|100|2023-12-30 16h|2023-12-31 16h|
 |#|xijiangshipyard-c16d2a|Xijiang Shipyard|13,49€|15|2024-01-01 08h|2024-01-08 08h|
 |#|frontier-hunter-erzas-wheel-of-fortune|Frontier Hunter: Erza's Wheel of Fortune|15,99€|25|2024-01-04 08h|2024-01-10 08h|
