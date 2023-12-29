@@ -333,15 +333,6 @@
     "title": "BoltBreak"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2024-01-05T00:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 449,
-    "slug": "bursthero-dd5a56",
-    "startDate": "2023-12-29T00:00:00.000Z",
-    "title": "Burst Hero"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2024-01-23T16:00:00.000Z",
     "isFree": false,
@@ -448,15 +439,6 @@
     "slug": "curse-of-the-sea-rats-8f28b1",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Curse of the Sea Rats"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2024-01-06T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 449,
-    "slug": "cyvenge-55b56b",
-    "startDate": "2023-12-29T00:00:00.000Z",
-    "title": "CyVenge"
   },
   {
     "discountPercentage": 55,
@@ -846,6 +828,15 @@
     "title": "Genesis Alpha One Deluxe Edition"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "geojelly-a44cfe",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "GeoJelly"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -1159,6 +1150,15 @@
     "slug": "journey-into-darkness-2b6bf8",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Journey Into Darkness"
+  },
+  {
+    "discountPercentage": 55,
+    "endDate": "2024-01-23T23:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "jump-challenge-228ff0",
+    "startDate": "2024-01-01T18:00:00.000Z",
+    "title": "Jump Challenge!"
   },
   {
     "discountPercentage": 80,
@@ -1573,6 +1573,15 @@
     "slug": "overcooked",
     "startDate": "2024-02-26T16:00:00.000Z",
     "title": "Overcooked"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-02-26T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2299,
+    "slug": "overcooked-2",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Overcooked! 2"
   },
   {
     "discountPercentage": 80,
@@ -2079,6 +2088,15 @@
     "title": "Superliminal"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 359,
+    "slug": "supfly-delivery-simulator-82d2fd",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Supfly Delivery Simulator"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -2322,6 +2340,15 @@
     "title": "The Plane Effect"
   },
   {
+    "discountPercentage": 65,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1299,
+    "slug": "the-spectrum-retreat",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "The Spectrum Retreat"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -2509,15 +2536,6 @@
     "slug": "wytchwood",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Wytchwood"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2024-01-07T00:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 899,
-    "slug": "xr22seaguard-480497",
-    "startDate": "2023-12-29T00:00:00.000Z",
-    "title": "XR22-SEAGUARD"
   },
   {
     "discountPercentage": 15,
