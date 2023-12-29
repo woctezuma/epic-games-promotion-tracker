@@ -1450,12 +1450,12 @@
   },
   {
     "discountPercentage": 100,
-    "endDate": "2023-12-30T16:00:00.000Z",
+    "endDate": "2023-12-31T16:00:00.000Z",
     "isFree": true,
     "originalPrice": 0,
-    "slug": "mysterygame-11",
-    "startDate": "2023-12-29T16:00:00.000Z",
-    "title": "Mystery Game Day 11"
+    "slug": "mysterygame-12",
+    "startDate": "2023-12-30T16:00:00.000Z",
+    "title": "Mystery Game Day 12"
   },
   {
     "discountPercentage": 90,
@@ -1906,6 +1906,15 @@
     "slug": "skydrift-infinity-c4ca37",
     "startDate": "2024-01-16T16:00:00.000Z",
     "title": "SkyDrift Infinity"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2023-12-30T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 0,
+    "slug": "snakebird-complete-e6f0ae",
+    "startDate": "2023-12-29T16:00:00.000Z",
+    "title": "Snakebird Complete"
   },
   {
     "discountPercentage": 40,
