@@ -196,7 +196,6 @@
 |#|sniper-hunter-shooter-5cda66|Sniper Hunter Shooter|0,89€|40|2024-01-01 17h|2024-01-15 17h|
 |#|taxi-driver-simulator-car-parking-c5f70f|Taxi Driver Simulator Car Parking|0,89€|40|2024-01-01 17h|2024-01-15 17h|
 |#|teacup|Teacup|7,99€|40|2024-02-09 16h|2024-02-12 16h|
-|#|team-disorder-987adf|Team Disorder|17,99€|40|2023-12-29 05h|2024-01-05 05h|
 |#|royal-defense-d046db|The Empress of Mahjong|4,49€|40|2024-01-09 16h|2024-01-16 16h|
 |#|truck-simulator-ultimate-3d-fafeaa|Truck Simulator Ultimate 3D|0,89€|40|2024-01-01 17h|2024-01-15 17h|
 |#|ultimate-flight-simulator-pro-8f1009|Ultimate Flight Simulator Pro|0,89€|40|2024-01-01 17h|2024-01-15 17h|
