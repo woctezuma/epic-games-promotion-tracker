@@ -94,7 +94,6 @@
 |#|spinner-invaders-d453e7|Spinner Invaders|4,49€|75|2024-02-09 16h|2024-02-12 16h|
 |#|the-escapists-2|The Escapists 2|19,99€|75|2024-02-09 16h|2024-02-26 16h|
 |#|the-plane-effect|The Plane Effect|14,99€|75|2024-02-09 16h|2024-02-12 16h|
-|#|voodoo-detective-75d493|Voodoo Detective|11,99€|75|2023-12-29 07h|2024-01-07 20h|
 |#|naval-combat-package-34e444|Fleet Command|7,99€|70|2024-02-09 16h|2024-02-12 16h|
 |#|kitaria-fables|Kitaria Fables|19,99€|70|2024-02-09 16h|2024-02-12 16h|
 |#|mars-horizon|Mars Horizon|15,99€|70|2024-02-09 16h|2024-02-12 16h|
