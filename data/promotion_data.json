@@ -2178,15 +2178,6 @@
     "title": "Teacup"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2024-01-05T05:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1799,
-    "slug": "team-disorder-987adf",
-    "startDate": "2023-12-29T05:00:00.000Z",
-    "title": "Team Disorder"
-  },
-  {
     "discountPercentage": 60,
     "endDate": "2024-01-23T16:00:00.000Z",
     "isFree": false,
