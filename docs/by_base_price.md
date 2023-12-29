@@ -269,6 +269,7 @@
 |#|space-empires-ii-1fece2|Space Empires II|1,59€|90|2024-02-09 16h|2024-02-12 16h|
 |#|space-empires-iii-38e873|Space Empires III|1,59€|80|2024-02-09 16h|2024-02-12 16h|
 |#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2024-02-17 22h|2024-03-01 22h|
+|#|backrooms-eight-levels-c7ea4c|Backrooms: Eight Levels|0,89€|40|2024-01-04 22h|2024-01-10 22h|
 |#|birch-simulator-21969e|Birch Simulator|0,89€|50|2024-01-27 22h|2024-02-15 22h|
 |#|car-mechanic-city-driving-4996c5|Car Mechanic - City Driving|0,89€|50|2023-12-29 22h|2024-01-14 22h|
 |#|dirt-bike-racer-simulator-4c49b5|Dirt Bike Racer Simulator|0,89€|40|2024-01-01 17h|2024-01-15 17h|
@@ -278,7 +279,7 @@
 |#|police-car-simulator-d57d15|Police Car Simulator|0,89€|40|2024-01-01 17h|2024-01-15 17h|
 |#|polygon-survival-2374fc|Polygon Survival|0,89€|50|2024-01-14 22h|2024-01-30 22h|
 |#|sniper-hunter-shooter-5cda66|Sniper Hunter Shooter|0,89€|40|2024-01-01 17h|2024-01-15 17h|
-|#|trex-dinosaur-game-d30355|T-Rex Dinosaur Game|0,89€|50|2024-01-09 22h|2024-01-25 22h|
+|#|trex-dinosaur-game-d30355|T-Rex Dinosaur Game|0,89€|50|2024-01-09 16h|2024-01-16 16h|
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2023-12-29 22h|2024-01-19 22h|
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2024-02-25 22h|2024-03-15 22h|
 |#|taxi-driver-simulator-car-parking-c5f70f|Taxi Driver Simulator Car Parking|0,89€|40|2024-01-01 17h|2024-01-15 17h|

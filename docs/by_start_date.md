@@ -18,6 +18,7 @@
 |#|overtop-ed5e49|Overtop|4,49€|80|2024-01-01 22h|2024-01-21 22h|
 |#|frontier-hunter-erzas-wheel-of-fortune|Frontier Hunter: Erza's Wheel of Fortune|15,99€|25|2024-01-04 08h|2024-01-10 08h|
 |#|compass-of-the-destiny-istanbul-598642|Compass of the Destiny: Istanbul|14,79€|30|2024-01-04 21h|2024-01-11 21h|
+|#|backrooms-eight-levels-c7ea4c|Backrooms: Eight Levels|0,89€|40|2024-01-04 22h|2024-01-10 22h|
 |#|mallofmayhem-15344c|Mall of Mayhem|7,19€|30|2024-01-05 07h|2024-01-31 07h|
 |#|gardenia-630482|Gardenia|8,99€|20|2024-01-05 23h|2024-02-04 23h|
 |#|saboteur-ii-avenging-angel-33e83c|Saboteur II Avenging Angel|7,19€|20|2024-01-05 23h|2024-02-04 23h|
@@ -40,13 +41,13 @@
 |#|outbreak-the-new-nightmare-revisited-90517a|Outbreak The New Nightmare Revisited|8,99€|50|2024-01-09 16h|2024-01-16 16h|
 |#|presences-dark-awakening-b1c9eb|Presences: Dark Awakening|11,69€|25|2024-01-09 16h|2024-01-16 16h|
 |#|suicide-guy-9f7963|Suicide Guy|7,19€|45|2024-01-09 16h|2024-01-16 16h|
+|#|trex-dinosaur-game-d30355|T-Rex Dinosaur Game|0,89€|50|2024-01-09 16h|2024-01-16 16h|
 |#|tamara-in-the-forsaken-dungeon-81aa5c|Tamara In The Forsaken Dungeon|2,69€|30|2024-01-09 16h|2024-01-16 16h|
 |#|royal-defense-d046db|The Empress of Mahjong|4,49€|40|2024-01-09 16h|2024-01-16 16h|
 |#|the-hive-f5c2c8|The Hive|13,49€|50|2024-01-09 16h|2024-01-16 16h|
 |#|trash-troopers-earth-reclaim-48721c|Trash Troopers Earth Reclaim|4,49€|20|2024-01-09 16h|2024-01-16 16h|
 |#|tribu-55feb1|Tribu|9,89€|45|2024-01-09 16h|2024-01-16 16h|
 |#|virus-infinite-b9ed68|Virus Infinite|13,49€|50|2024-01-09 16h|2024-01-16 16h|
-|#|trex-dinosaur-game-d30355|T-Rex Dinosaur Game|0,89€|50|2024-01-09 22h|2024-01-25 22h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|70|2024-01-11 22h|2024-01-30 22h|
 |#|a-second-before-the-war-55b226|A Second Before The War|5,39€|20|2024-01-12 02h|2024-02-06 02h|
 |#|it-follows-you-b11f3e|It follows you|1,59€|60|2024-01-12 03h|2024-01-30 03h|

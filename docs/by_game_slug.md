@@ -21,6 +21,7 @@
 |#|baby-storm-426245|Baby Storm|16,19€|50|2024-01-09 16h|2024-01-16 16h|
 |#|backpack-hero-449c5e|Backpack Hero|17,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2024-02-17 22h|2024-03-01 22h|
+|#|backrooms-eight-levels-c7ea4c|Backrooms: Eight Levels|0,89€|40|2024-01-04 22h|2024-01-10 22h|
 |#|bad-rats-show-1b74cf|Bad Rats Show|1,79€|80|2024-02-09 16h|2024-02-12 16h|
 |#|balloon-strike-c9a1ac|Balloon Strike|4,49€|80|2024-01-16 16h|2024-01-23 16h|
 |#|batora-lost-haven-1773c3|Batora: Lost Haven|24,99€|50|2024-02-09 16h|2024-02-26 16h|
@@ -264,7 +265,7 @@
 |#|tormented-souls|Tormented Souls|19,99€|55|2024-02-09 16h|2024-02-12 16h|
 |#|trash-troopers-earth-reclaim-48721c|Trash Troopers Earth Reclaim|4,49€|20|2024-01-09 16h|2024-01-16 16h|
 |#|trekkingandcamping-655909|TrekkingAndCamping|1,79€|45|2024-02-09 16h|2024-02-12 16h|
-|#|trex-dinosaur-game-d30355|T-Rex Dinosaur Game|0,89€|50|2024-01-09 22h|2024-01-25 22h|
+|#|trex-dinosaur-game-d30355|T-Rex Dinosaur Game|0,89€|50|2024-01-09 16h|2024-01-16 16h|
 |#|tribu-55feb1|Tribu|9,89€|45|2024-01-09 16h|2024-01-16 16h|
 |#|truck-simulator-ultimate-3d-fafeaa|Truck Simulator Ultimate 3D|0,89€|40|2024-01-01 17h|2024-01-15 17h|
 |#|turnip-boy-robs-a-bank-3fae0e|Turnip Boy Robs a Bank|13,49€|10|2024-01-18 15h|2024-01-25 15h|
