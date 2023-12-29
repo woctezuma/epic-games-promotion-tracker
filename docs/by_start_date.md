@@ -1,6 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|enchanted-portals-65ca68|Enchanted Portals|19,50€|40|2023-12-29 04h|2024-01-10 04h|
 |#|team-disorder-987adf|Team Disorder|17,99€|40|2023-12-29 05h|2024-01-05 05h|
 |#|voodoo-detective-75d493|Voodoo Detective|11,99€|75|2023-12-29 07h|2024-01-07 20h|
 |#|mysterygame-11|Mystery Game Day 11|0,00€|100|2023-12-29 16h|2023-12-30 16h|
