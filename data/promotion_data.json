@@ -720,6 +720,15 @@
     "title": "Fleet Command"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-01-20T00:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "for-the-warp-b5c468",
+    "startDate": "2024-01-11T00:00:00.000Z",
+    "title": "For The Warp"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2024-01-14T04:00:00.000Z",
     "isFree": false,
