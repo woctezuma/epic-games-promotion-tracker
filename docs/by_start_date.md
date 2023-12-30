@@ -1,7 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|saints-row|Saints Row|0,00€|100|2023-12-30 16h|2023-12-31 16h|
-|#|saints-row|Saints Row|29,99€|100|2023-12-30 16h|2023-12-31 16h|
 |#|nextbots-in-the-backrooms-b5677b|Nextbots In The Backrooms|0,89€|50|2023-12-30 22h|2024-01-14 22h|
 |#|mysterygame-13|Mystery Game Day 13|0,00€|100|2023-12-31 16h|2024-01-01 16h|
 |#|xijiangshipyard-c16d2a|Xijiang Shipyard|13,49€|15|2024-01-01 08h|2024-01-08 08h|
