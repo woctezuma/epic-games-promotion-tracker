@@ -2269,6 +2269,15 @@
   },
   {
     "discountPercentage": 50,
+    "endDate": "2024-01-15T02:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "the-gravehouse-37f09e",
+    "startDate": "2024-01-03T01:00:00.000Z",
+    "title": "The Gravehouse"
+  },
+  {
+    "discountPercentage": 50,
     "endDate": "2024-01-16T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1349,
