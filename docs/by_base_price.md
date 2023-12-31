@@ -228,6 +228,7 @@
 |#|disciples-rise-of-the-elves-gold-669f54|Disciples Rise of the Elves Gold|4,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|orb-bfdd17|ORB|4,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|balloon-strike-c9a1ac|Balloon Strike|4,49€|80|2024-01-16 16h|2024-01-23 16h|
+|#|butchers-dont-surf-56b0c2|Butchers Don't Surf!|4,49€|80|2024-01-09 16h|2024-01-16 16h|
 |#|county-hospital-aa8e79|County Hospital|4,49€|20|2024-01-16 16h|2024-01-23 16h|
 |#|dead-by-murder-190eab|Dead By Murder|4,49€|80|2024-02-09 16h|2024-02-12 16h|
 |#|geojelly-a44cfe|GeoJelly|4,49€|60|2024-02-09 16h|2024-02-12 16h|

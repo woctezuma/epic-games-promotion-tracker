@@ -26,6 +26,7 @@
 |#|life-changer-64fc81|Life Changer|12,63€|30|2024-01-08 16h|2024-01-22 16h|
 |#|filthy-us-complete-edition-82a6b1|Filthy Us Complete Edition|8,09€|30|2024-01-09 07h|2024-01-15 07h|
 |#|baby-storm-426245|Baby Storm|16,19€|50|2024-01-09 16h|2024-01-16 16h|
+|#|butchers-dont-surf-56b0c2|Butchers Don't Surf!|4,49€|80|2024-01-09 16h|2024-01-16 16h|
 |#|dig-deep-in-galaxies-973f95|DIG - Deep In Galaxies|9,99€|25|2024-01-09 16h|2024-01-16 16h|
 |#|elven-rivers-the-forgotten-lands-collectors-edition-13f068|Elven Rivers. The Forgotten Lands Collector's Edition|11,69€|80|2024-01-09 16h|2024-01-16 16h|
 |#|front-mission-1st-remake-124a24|FRONT MISSION 1st: Remake|31,39€|33|2024-01-09 16h|2024-01-16 16h|
