@@ -1,7 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|escape-academy-bfc2bf|Escape Academy|0,00€|100|2024-01-01 16h|2024-01-02 16h|
-|#|escape-academy-bfc2bf|Escape Academy|15,99€|100|2024-01-01 16h|2024-01-02 16h|
 |#|mysterygame-15|Mystery Game Day 15|0,00€|100|2024-01-02 16h|2024-01-03 16h|
 |#|frontier-hunter-erzas-wheel-of-fortune|Frontier Hunter: Erza's Wheel of Fortune|15,99€|25|2024-01-04 08h|2024-01-10 08h|
 |#|1428-shadows-over-silesia-266e5f|1428: Shadows over Silesia|19,99€|50|2024-01-07 14h|2024-01-10 16h|
@@ -10,7 +8,6 @@
 |#|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|25|2024-01-07 04h|2024-01-14 04h|
 |#|the-gravehouse-37f09e|The Gravehouse|8,99€|50|2024-01-03 01h|2024-01-15 02h|
 |#|filthy-us-complete-edition-82a6b1|Filthy Us Complete Edition|8,09€|30|2024-01-09 07h|2024-01-15 07h|
-|#|king-of-seas-646f95|King of Seas|22,39€|90|2024-01-01 16h|2024-01-15 16h|
 |#|dirt-bike-racer-simulator-4c49b5|Dirt Bike Racer Simulator|0,89€|40|2024-01-01 17h|2024-01-15 17h|
 |#|mountain-bicycle-rider-simulator-e52374|Mountain Bicycle Rider Simulator|0,89€|40|2024-01-01 17h|2024-01-15 17h|
 |#|police-car-armored-cop-simulator-60b997|Police Car Armored Cop Simulator|0,89€|40|2024-01-01 17h|2024-01-15 17h|
