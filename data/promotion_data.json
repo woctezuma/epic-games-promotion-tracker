@@ -2556,15 +2556,6 @@
     "title": "Wytchwood"
   },
   {
-    "discountPercentage": 15,
-    "endDate": "2024-01-08T08:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1349,
-    "slug": "xijiangshipyard-c16d2a",
-    "startDate": "2024-01-01T08:00:00.000Z",
-    "title": "Xijiang Shipyard"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2024-02-26T16:00:00.000Z",
     "isFree": false,
