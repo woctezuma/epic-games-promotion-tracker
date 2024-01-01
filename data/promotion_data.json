@@ -594,6 +594,24 @@
     "title": "Dumpy and Bumpy"
   },
   {
+    "discountPercentage": 35,
+    "endDate": "2024-02-20T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "ebola-2-b61221",
+    "startDate": "2024-02-13T16:00:00.000Z",
+    "title": "EBOLA 2"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2024-02-20T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "ebola-3-2c79e9",
+    "startDate": "2024-02-13T16:00:00.000Z",
+    "title": "EBOLA 3"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-02-17T15:00:00.000Z",
     "isFree": false,
