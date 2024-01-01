@@ -648,24 +648,6 @@
     "title": "Epic World - Hunt For Quest"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2024-01-02T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 0,
-    "slug": "escape-academy-bfc2bf",
-    "startDate": "2024-01-01T16:00:00.000Z",
-    "title": "Escape Academy"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2024-01-02T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 1599,
-    "slug": "escape-academy-bfc2bf",
-    "startDate": "2024-01-01T16:00:00.000Z",
-    "title": "Escape Academy"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -1222,15 +1204,6 @@
     "slug": "kids-learn-e4a163",
     "startDate": "2024-01-16T16:00:00.000Z",
     "title": "Kids Learn"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2024-01-15T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2239,
-    "slug": "king-of-seas-646f95",
-    "startDate": "2024-01-01T16:00:00.000Z",
-    "title": "King of Seas"
   },
   {
     "discountPercentage": 70,
