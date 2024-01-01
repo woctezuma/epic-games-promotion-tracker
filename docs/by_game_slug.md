@@ -177,7 +177,6 @@
 |#|outcore-desktop-adventure-eb3aff|Outcore - Desktop Adventure|8,99€|30|2024-01-16 16h|2024-01-23 16h|
 |#|overcooked|Overcooked|15,99€|80|2024-02-26 16h|2024-03-11 16h|
 |#|overcooked-2|Overcooked! 2|22,99€|75|2024-02-09 16h|2024-02-26 16h|
-|#|overtop-ed5e49|Overtop|4,49€|80|2024-01-01 22h|2024-01-21 22h|
 |#|overtop-ed5e49|Overtop|4,49€|90|2024-02-24 22h|2024-03-14 22h|
 |#|palladium-adventure-in-greece-f1ee1b|Palladium: Adventure in Greece|8,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|paw-paw-destiny-843848|Paw Paw Destiny|13,49€|11|2024-02-09 16h|2024-02-12 16h|
