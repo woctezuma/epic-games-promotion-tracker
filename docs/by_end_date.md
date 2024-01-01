@@ -252,6 +252,8 @@
 |#|birch-simulator-21969e|Birch Simulator|0,89€|50|2024-01-27 22h|2024-02-15 22h|
 |#|eden-island-8cd344|Eden Island|8,99€|50|2024-02-03 12h|2024-02-17 15h|
 |#|amber-1e2240|Amber|26,99€|34|2024-02-14 13h|2024-02-20 13h|
+|#|ebola-2-b61221|EBOLA 2|13,49€|35|2024-02-13 16h|2024-02-20 16h|
+|#|ebola-3-2c79e9|EBOLA 3|17,99€|35|2024-02-13 16h|2024-02-20 16h|
 |#|automachef|Automachef|14,99€|80|2024-02-09 16h|2024-02-26 16h|
 |#|batora-lost-haven-1773c3|Batora: Lost Haven|24,99€|50|2024-02-09 16h|2024-02-26 16h|
 |#|before-we-leave|Before We Leave|17,99€|75|2024-02-09 16h|2024-02-26 16h|
