@@ -36,6 +36,15 @@
     "title": "1971 Indian Naval Front"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2024-01-03T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 0,
+    "slug": "20-minutes-till-dawn-be3305",
+    "startDate": "2024-01-02T16:00:00.000Z",
+    "title": "20 Minutes Till Dawn"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-01-23T11:00:00.000Z",
     "isFree": false,
@@ -1495,12 +1504,12 @@
   },
   {
     "discountPercentage": 100,
-    "endDate": "2024-01-03T16:00:00.000Z",
+    "endDate": "2024-01-04T16:00:00.000Z",
     "isFree": true,
     "originalPrice": 0,
-    "slug": "mysterygame-15",
-    "startDate": "2024-01-02T16:00:00.000Z",
-    "title": "Mystery Game Day 15"
+    "slug": "mysterygame-16",
+    "startDate": "2024-01-03T16:00:00.000Z",
+    "title": "Mystery Game Day 16"
   },
   {
     "discountPercentage": 90,
@@ -1582,6 +1591,15 @@
     "slug": "orb-bfdd17",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "ORB"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2024-01-16T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "oli-one-sneak-in-98322c",
+    "startDate": "2024-01-09T16:00:00.000Z",
+    "title": "Oli One: Sneak In"
   },
   {
     "discountPercentage": 50,
