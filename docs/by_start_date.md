@@ -1,7 +1,8 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|mysterygame-15|Mystery Game Day 15|0,00€|100|2024-01-02 16h|2024-01-03 16h|
+|#|20-minutes-till-dawn-be3305|20 Minutes Till Dawn|0,00€|100|2024-01-02 16h|2024-01-03 16h|
 |#|the-gravehouse-37f09e|The Gravehouse|8,99€|50|2024-01-03 01h|2024-01-15 02h|
+|#|mysterygame-16|Mystery Game Day 16|0,00€|100|2024-01-03 16h|2024-01-04 16h|
 |#|frontier-hunter-erzas-wheel-of-fortune|Frontier Hunter: Erza's Wheel of Fortune|15,99€|25|2024-01-04 08h|2024-01-10 08h|
 |#|compass-of-the-destiny-istanbul-598642|Compass of the Destiny: Istanbul|14,79€|30|2024-01-04 21h|2024-01-11 21h|
 |#|backrooms-eight-levels-c7ea4c|Backrooms: Eight Levels|0,89€|40|2024-01-04 22h|2024-01-10 22h|
@@ -28,6 +29,7 @@
 |#|nadir-a-grimdark-deckbuilder-c70747|Nadir - A Grimdark Deckbuilder|15,99€|66|2024-01-09 16h|2024-01-16 16h|
 |#|naheulbeuks-dungeon-master-b2694b|Naheulbeuk's Dungeon Master|24,99€|15|2024-01-09 16h|2024-01-16 16h|
 |#|nephise-ascension-f0ba3d|Nephise: Ascension|4,49€|25|2024-01-09 16h|2024-01-16 16h|
+|#|oli-one-sneak-in-98322c|Oli One: Sneak In|4,49€|70|2024-01-09 16h|2024-01-16 16h|
 |#|outbreak-the-new-nightmare-revisited-90517a|Outbreak The New Nightmare Revisited|8,99€|50|2024-01-09 16h|2024-01-16 16h|
 |#|presences-dark-awakening-b1c9eb|Presences: Dark Awakening|11,69€|25|2024-01-09 16h|2024-01-16 16h|
 |#|suicide-guy-9f7963|Suicide Guy|7,19€|45|2024-01-09 16h|2024-01-16 16h|

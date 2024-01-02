@@ -1,6 +1,7 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|mysterygame-15|Mystery Game Day 15|0,00€|100|2024-01-02 16h|2024-01-03 16h|
+|#|20-minutes-till-dawn-be3305|20 Minutes Till Dawn|0,00€|100|2024-01-02 16h|2024-01-03 16h|
+|#|mysterygame-16|Mystery Game Day 16|0,00€|100|2024-01-03 16h|2024-01-04 16h|
 |#|n-verlore-verstand-1d7f5b|'n Verlore Verstand|13,49€|90|2024-02-09 16h|2024-02-12 16h|
 |#|aven-colony|Aven Colony|29,99€|90|2024-02-26 16h|2024-03-11 16h|
 |#|genesis-alpha-one|Genesis Alpha One Deluxe Edition|24,99€|90|2024-02-09 16h|2024-02-26 16h|
@@ -98,6 +99,7 @@
 |#|kitaria-fables|Kitaria Fables|19,99€|70|2024-02-09 16h|2024-02-12 16h|
 |#|mars-horizon|Mars Horizon|15,99€|70|2024-02-09 16h|2024-02-12 16h|
 |#|mobilisation-78891a|Mobilization|5,39€|70|2024-01-09 16h|2024-01-16 16h|
+|#|oli-one-sneak-in-98322c|Oli One: Sneak In|4,49€|70|2024-01-09 16h|2024-01-16 16h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|70|2024-01-11 22h|2024-01-30 22h|
 |#|tank-warfare-tunisia-1943-62f6e9|Tank Warfare - Tunisia 1943|23,99€|70|2024-02-09 16h|2024-02-12 16h|
 |#|the-magnificent-trufflepigs|The Magnificent Trufflepigs|9,99€|70|2024-02-09 16h|2024-02-12 16h|
