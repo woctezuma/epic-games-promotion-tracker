@@ -183,6 +183,15 @@
     "discountPercentage": 50,
     "endDate": "2024-01-16T16:00:00.000Z",
     "isFree": false,
+    "originalPrice": 269,
+    "slug": "aya-and-naya-b7791e",
+    "startDate": "2024-01-09T16:00:00.000Z",
+    "title": "Aya & Naya"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-16T16:00:00.000Z",
+    "isFree": false,
     "originalPrice": 1619,
     "slug": "baby-storm-426245",
     "startDate": "2024-01-09T16:00:00.000Z",
