@@ -36,15 +36,6 @@
     "title": "1971 Indian Naval Front"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2024-01-03T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 0,
-    "slug": "20-minutes-till-dawn-be3305",
-    "startDate": "2024-01-02T16:00:00.000Z",
-    "title": "20 Minutes Till Dawn"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-01-23T11:00:00.000Z",
     "isFree": false,
