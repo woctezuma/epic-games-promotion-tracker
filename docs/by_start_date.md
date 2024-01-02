@@ -14,6 +14,7 @@
 |#|1428-shadows-over-silesia-266e5f|1428: Shadows over Silesia|19,99€|50|2024-01-07 14h|2024-01-10 16h|
 |#|life-changer-64fc81|Life Changer|12,63€|30|2024-01-08 16h|2024-01-22 16h|
 |#|filthy-us-complete-edition-82a6b1|Filthy Us Complete Edition|8,09€|30|2024-01-09 07h|2024-01-15 07h|
+|#|aya-and-naya-b7791e|Aya & Naya|2,69€|50|2024-01-09 16h|2024-01-16 16h|
 |#|baby-storm-426245|Baby Storm|16,19€|50|2024-01-09 16h|2024-01-16 16h|
 |#|bottle-pilgrim-redux-987f66|Bottle: Pilgrim Redux|3,59€|25|2024-01-09 16h|2024-01-16 16h|
 |#|butchers-dont-surf-56b0c2|Butchers Don't Surf!|4,49€|80|2024-01-09 16h|2024-01-16 16h|
