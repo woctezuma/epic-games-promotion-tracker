@@ -1,6 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|20-minutes-till-dawn-be3305|20 Minutes Till Dawn|0,00€|100|2024-01-02 16h|2024-01-03 16h|
 |#|the-gravehouse-37f09e|The Gravehouse|8,99€|50|2024-01-03 01h|2024-01-15 02h|
 |#|mysterygame-16|Mystery Game Day 16|0,00€|100|2024-01-03 16h|2024-01-04 16h|
 |#|frontier-hunter-erzas-wheel-of-fortune|Frontier Hunter: Erza's Wheel of Fortune|15,99€|25|2024-01-04 08h|2024-01-10 08h|
