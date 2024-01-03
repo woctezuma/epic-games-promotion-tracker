@@ -6,8 +6,6 @@
 |#|60-parsecs-0481c5|60 Parsecs!|9,99€|50|2024-01-15 23h|2024-01-23 11h|
 |#|60-seconds-reatomized-91ffa3|60 Seconds! Reatomized|9,99€|50|2024-01-15 23h|2024-01-23 11h|
 |#|7-billion-humans|7 Billion Humans|11,99€|50|2024-02-09 16h|2024-02-12 16h|
-|#|a-plague-tale-innocence|A Plague Tale: Innocence|0,00€|100|2024-01-03 16h|2024-01-04 16h|
-|#|a-plague-tale-innocence|A Plague Tale: Innocence|39,99€|100|2024-01-03 16h|2024-01-04 16h|
 |#|a-second-before-the-war-55b226|A Second Before The War|5,39€|20|2024-01-12 02h|2024-02-06 02h|
 |#|ageless|Ageless|14,99€|80|2024-02-26 16h|2024-03-11 16h|
 |#|alan-wake-2|Alan Wake 2|49,99€|20|2024-02-09 16h|2024-02-12 16h|

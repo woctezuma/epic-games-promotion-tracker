@@ -1,7 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|a-plague-tale-innocence|A Plague Tale: Innocence|0,00€|100|2024-01-03 16h|2024-01-04 16h|
-|#|a-plague-tale-innocence|A Plague Tale: Innocence|39,99€|100|2024-01-03 16h|2024-01-04 16h|
 |#|frontier-hunter-erzas-wheel-of-fortune|Frontier Hunter: Erza's Wheel of Fortune|15,99€|25|2024-01-04 08h|2024-01-10 08h|
 |#|mysterygame-17|Mystery Game Day 17|0,00€|100|2024-01-04 16h|2024-01-11 16h|
 |#|compass-of-the-destiny-istanbul-598642|Compass of the Destiny: Istanbul|14,79€|30|2024-01-04 21h|2024-01-11 21h|
