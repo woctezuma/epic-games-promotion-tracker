@@ -1,6 +1,7 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
 |#|mysterygame-17|Mystery Game Day 17|0,00€|100|2024-01-04 16h|2024-01-11 16h|
+|#|sail-forth-51847e|Sail Forth|15,99€|100|2024-01-11 16h|2024-01-18 16h|
 |#|n-verlore-verstand-1d7f5b|'n Verlore Verstand|13,49€|90|2024-02-09 16h|2024-02-12 16h|
 |#|aven-colony|Aven Colony|29,99€|90|2024-02-26 16h|2024-03-11 16h|
 |#|genesis-alpha-one|Genesis Alpha One Deluxe Edition|24,99€|90|2024-02-09 16h|2024-02-26 16h|
@@ -210,6 +211,7 @@
 |#|guild-of-dungeoneering-ultimate-edition|Guild of Dungeoneering Ultimate Edition|19,99€|40|2024-02-09 16h|2024-02-12 16h|
 |#|life-after-death-b4e964|Life After Death|4,49€|40|2024-01-22 01h|2024-02-10 01h|
 |#|life-after-death-b4e964|Life After Death|4,49€|40|2024-03-11 01h|2024-04-04 00h|
+|#|luckygoal-201ee6|Lucky Goal|4,99€|40|2024-02-09 16h|2024-02-12 16h|
 |#|match-village-5f41dd|Match Village|3,59€|40|2024-01-23 16h|2024-01-30 16h|
 |#|teacup|Teacup|7,99€|40|2024-02-09 16h|2024-02-12 16h|
 |#|royal-defense-d046db|The Empress of Mahjong|4,49€|40|2024-01-09 16h|2024-01-16 16h|

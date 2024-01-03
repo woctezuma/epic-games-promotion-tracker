@@ -42,6 +42,7 @@
 |#|tribu-55feb1|Tribu|9,89€|45|2024-01-09 16h|2024-01-16 16h|
 |#|virus-infinite-b9ed68|Virus Infinite|13,49€|50|2024-01-09 16h|2024-01-16 16h|
 |#|for-the-warp-b5c468|For The Warp|13,49€|50|2024-01-11 00h|2024-01-20 00h|
+|#|sail-forth-51847e|Sail Forth|15,99€|100|2024-01-11 16h|2024-01-18 16h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|70|2024-01-11 22h|2024-01-30 22h|
 |#|a-second-before-the-war-55b226|A Second Before The War|5,39€|20|2024-01-12 02h|2024-02-06 02h|
 |#|it-follows-you-b11f3e|It follows you|1,59€|60|2024-01-12 03h|2024-01-30 03h|
@@ -190,6 +191,7 @@
 |#|liberte-96a5e5|Liberte|17,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|lifeless-planet-premier-edition|Lifeless Planet: Premier Edition|15,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|little-inferno|Little Inferno|11,99€|50|2024-02-09 16h|2024-02-12 16h|
+|#|luckygoal-201ee6|Lucky Goal|4,99€|40|2024-02-09 16h|2024-02-12 16h|
 |#|mars-horizon|Mars Horizon|15,99€|70|2024-02-09 16h|2024-02-12 16h|
 |#|mashed-ebdee9|Mashed|3,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|midnight-ghost-hunt|Midnight Ghost Hunt|19,99€|66|2024-02-09 16h|2024-02-12 16h|

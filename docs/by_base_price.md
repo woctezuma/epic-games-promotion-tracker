@@ -104,6 +104,7 @@
 |#|pc-building-simulator|PC Building Simulator|15,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|potion-permit|Potion Permit|15,99€|30|2024-02-09 16h|2024-02-12 16h|
 |#|recall-113630|RECALL|15,99€|20|2024-02-09 16h|2024-02-12 16h|
+|#|sail-forth-51847e|Sail Forth|15,99€|100|2024-01-11 16h|2024-01-18 16h|
 |#|superliminal|Superliminal|15,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|the-captain|The Captain|15,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|victorian-admirals-36f8c4|Victorian Admirals|15,99€|80|2024-02-09 16h|2024-02-12 16h|
@@ -238,6 +239,7 @@
 |#|funtoons-world-0e63dd|Funtoon's World|5,39€|80|2024-01-16 16h|2024-01-23 16h|
 |#|mobilisation-78891a|Mobilization|5,39€|70|2024-01-09 16h|2024-01-16 16h|
 |#|disciples-rise-of-the-elves-gold-669f54|Disciples Rise of the Elves Gold|4,99€|80|2024-02-09 16h|2024-02-12 16h|
+|#|luckygoal-201ee6|Lucky Goal|4,99€|40|2024-02-09 16h|2024-02-12 16h|
 |#|orb-bfdd17|ORB|4,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|balloon-strike-c9a1ac|Balloon Strike|4,49€|80|2024-01-16 16h|2024-01-23 16h|
 |#|butchers-dont-surf-56b0c2|Butchers Don't Surf!|4,49€|80|2024-01-09 16h|2024-01-16 16h|

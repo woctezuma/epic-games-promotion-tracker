@@ -162,6 +162,7 @@
 |#|little-inferno|Little Inferno|11,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|locks-quest-befcf1|Locks Quest|14,99€|80|2024-01-30 16h|2024-02-06 16h|
 |#|love-3-c2516f|LOVE 3|8,99€|30|2024-02-09 16h|2024-02-12 16h|
+|#|luckygoal-201ee6|Lucky Goal|4,99€|40|2024-02-09 16h|2024-02-12 16h|
 |#|mallofmayhem-15344c|Mall of Mayhem|7,19€|30|2024-01-05 07h|2024-01-31 07h|
 |#|mallofmayhem-15344c|Mall of Mayhem|7,19€|30|2024-07-01 06h|2024-07-30 22h|
 |#|mallofmayhem-15344c|Mall of Mayhem|7,19€|30|2024-10-01 06h|2024-10-30 22h|
@@ -223,6 +224,7 @@
 |#|saboteur-f3d01d|Saboteur!|7,19€|20|2024-01-05 23h|2024-02-04 23h|
 |#|saboteur-ii-avenging-angel-33e83c|Saboteur II Avenging Angel|7,19€|20|2024-01-05 23h|2024-02-04 23h|
 |#|saboteur-sio-123236|Saboteur SiO|9,89€|20|2024-01-05 23h|2024-02-04 23h|
+|#|sail-forth-51847e|Sail Forth|15,99€|100|2024-01-11 16h|2024-01-18 16h|
 |#|satisfactory|Satisfactory|29,99€|45|2024-02-09 16h|2024-02-12 16h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|70|2024-01-11 22h|2024-01-30 22h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|75|2024-02-29 22h|2024-03-17 22h|
