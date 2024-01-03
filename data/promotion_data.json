@@ -514,15 +514,6 @@
   },
   {
     "discountPercentage": 80,
-    "endDate": "2024-02-12T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 799,
-    "slug": "dangerous-waters-61ea56",
-    "startDate": "2024-02-09T16:00:00.000Z",
-    "title": "Dangerous Waters"
-  },
-  {
-    "discountPercentage": 80,
     "endDate": "2024-01-23T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 629,
@@ -535,7 +526,7 @@
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 449,
-    "slug": "dead-by-murder-190eab",
+    "slug": "37317ab32704433da3ff3fb9fbf3faed",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Dead By Murder"
   },
@@ -1503,15 +1494,6 @@
     "title": "Mutant Year Zero: Road to Eden"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2024-01-04T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 0,
-    "slug": "mysterygame-16",
-    "startDate": "2024-01-03T16:00:00.000Z",
-    "title": "Mystery Game Day 16"
-  },
-  {
     "discountPercentage": 90,
     "endDate": "2024-01-16T16:00:00.000Z",
     "isFree": false,
@@ -2275,6 +2257,15 @@
     "slug": "the-dragoness-command-of-the-flame-b3b544",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "The Dragoness Command Of The Flame"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-23T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "the-drone-racing-league-simulator",
+    "startDate": "2024-01-16T16:00:00.000Z",
+    "title": "The Drone Racing League\u00ae"
   },
   {
     "discountPercentage": 40,
