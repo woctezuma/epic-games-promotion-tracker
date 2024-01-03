@@ -1890,6 +1890,15 @@
     "title": "Secret of Dream"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "settlement-survival-923f57",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Settlement Survival"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
