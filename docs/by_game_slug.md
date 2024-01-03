@@ -6,6 +6,8 @@
 |#|60-parsecs-0481c5|60 Parsecs!|9,99€|50|2024-01-15 23h|2024-01-23 11h|
 |#|60-seconds-reatomized-91ffa3|60 Seconds! Reatomized|9,99€|50|2024-01-15 23h|2024-01-23 11h|
 |#|7-billion-humans|7 Billion Humans|11,99€|50|2024-02-09 16h|2024-02-12 16h|
+|#|a-plague-tale-innocence|A Plague Tale: Innocence|0,00€|100|2024-01-03 16h|2024-01-04 16h|
+|#|a-plague-tale-innocence|A Plague Tale: Innocence|39,99€|100|2024-01-03 16h|2024-01-04 16h|
 |#|a-second-before-the-war-55b226|A Second Before The War|5,39€|20|2024-01-12 02h|2024-02-06 02h|
 |#|ageless|Ageless|14,99€|80|2024-02-26 16h|2024-03-11 16h|
 |#|alan-wake-2|Alan Wake 2|49,99€|20|2024-02-09 16h|2024-02-12 16h|
@@ -178,7 +180,7 @@
 |#|moving-out|Moving Out|22,99€|75|2024-02-09 16h|2024-02-26 16h|
 |#|mutant-year-zero|Mutant Year Zero: Road to Eden|34,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|mystery-solitaire-grimms-tales-244e2a|Mystery Solitaire. Grimm's Tales|4,49€|90|2024-01-09 16h|2024-01-16 16h|
-|#|mysterygame-16|Mystery Game Day 16|0,00€|100|2024-01-03 16h|2024-01-04 16h|
+|#|mysterygame-17|Mystery Game Day 17|0,00€|100|2024-01-04 16h|2024-01-11 16h|
 |#|n-verlore-verstand-1d7f5b|'n Verlore Verstand|13,49€|90|2024-02-09 16h|2024-02-12 16h|
 |#|nadir-a-grimdark-deckbuilder-c70747|Nadir - A Grimdark Deckbuilder|15,99€|66|2024-01-09 16h|2024-01-16 16h|
 |#|naheulbeuks-dungeon-master-b2694b|Naheulbeuk's Dungeon Master|24,99€|15|2024-01-09 16h|2024-01-16 16h|
