@@ -170,8 +170,6 @@
 |#|mallofmayhem-15344c|Mall of Mayhem|7,19€|30|2024-07-01 06h|2024-07-30 22h|
 |#|mallofmayhem-15344c|Mall of Mayhem|7,19€|30|2024-10-01 06h|2024-10-30 22h|
 |#|mars-horizon|Mars Horizon|15,99€|70|2024-02-09 16h|2024-02-12 16h|
-|#|marvels-guardians-of-the-galaxy|Marvel's Guardians of the Galaxy|0,00€|100|2024-01-04 16h|2024-01-11 16h|
-|#|marvels-guardians-of-the-galaxy|Marvel's Guardians of the Galaxy|59,99€|100|2024-01-04 16h|2024-01-11 16h|
 |#|mashed-ebdee9|Mashed|3,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|match-village-5f41dd|Match Village|3,59€|40|2024-01-23 16h|2024-01-30 16h|
 |#|math-fun-9585ad|Math Fun|6,29€|80|2024-01-16 16h|2024-01-23 16h|

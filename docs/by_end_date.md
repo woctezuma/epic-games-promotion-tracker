@@ -3,8 +3,6 @@
 |#|1428-shadows-over-silesia-266e5f|1428: Shadows over Silesia|19,99€|50|2024-01-07 14h|2024-01-10 16h|
 |#|backrooms-eight-levels-c7ea4c|Backrooms: Eight Levels|0,89€|40|2024-01-04 22h|2024-01-10 22h|
 |#|eyes-of-memes-d8864a|Eyes Of Memes|0,89€|40|2024-01-04 22h|2024-01-10 22h|
-|#|marvels-guardians-of-the-galaxy|Marvel's Guardians of the Galaxy|0,00€|100|2024-01-04 16h|2024-01-11 16h|
-|#|marvels-guardians-of-the-galaxy|Marvel's Guardians of the Galaxy|59,99€|100|2024-01-04 16h|2024-01-11 16h|
 |#|compass-of-the-destiny-istanbul-598642|Compass of the Destiny: Istanbul|14,79€|30|2024-01-04 21h|2024-01-11 21h|
 |#|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|25|2024-01-07 04h|2024-01-14 04h|
 |#|filthy-us-complete-edition-82a6b1|Filthy Us Complete Edition|8,09€|30|2024-01-09 07h|2024-01-15 07h|
