@@ -35,6 +35,7 @@
 |#|extreme-bike-racing-e00c81|Extreme Bike Racing|8,99€|80|2024-01-16 16h|2024-01-23 16h|
 |#|extreme-formula-championship-a8271d|Extreme Formula Championship|7,19€|80|2024-01-16 16h|2024-01-23 16h|
 |#|extreme-offroad-racing-439263|Extreme Offroad Racing|8,99€|80|2024-01-16 16h|2024-01-23 16h|
+|#|foreclosed|FORECLOSED|16,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|flatout-940461|Flatout|3,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|flatout-2-9ffdd6|Flatout 2|7,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|frostpunk|Frostpunk|27,99€|80|2024-02-09 16h|2024-02-12 16h|
@@ -82,6 +83,7 @@
 |#|victorian-admirals-marianas-incident-1887-7d4e70|Victorian Admirals Marianas Incident 1887|17,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|victorian-admirals-panama-crisis-1885-7e5372|Victorian Admirals Panama Crisis 1885|13,49€|80|2024-02-09 16h|2024-02-12 16h|
 |#|yokus-island-express|Yoku's Island Express|19,99€|80|2024-02-09 16h|2024-02-26 16h|
+|#|alex-kidd-in-miracle-world-dx|Alex Kidd in Miracle World DX|19,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|before-we-leave|Before We Leave|17,99€|75|2024-02-09 16h|2024-02-26 16h|
 |#|blasphemous|Blasphemous|24,99€|75|2024-03-11 16h|2024-03-25 16h|
 |#|disco-elysium|Disco Elysium - The Final Cut|39,99€|75|2024-02-09 16h|2024-02-12 16h|
@@ -279,6 +281,7 @@
 |#|hanoi-puzzles-solid-match-6a9e0c|Hanoi Puzzles - Solid Match|2,69€|25|2024-02-09 16h|2024-02-12 16h|
 |#|little-brother-jim-272dc6|Little Brother Jim|4,49€|25|2024-01-09 16h|2024-01-16 16h|
 |#|nephise-ascension-f0ba3d|Nephise: Ascension|4,49€|25|2024-01-09 16h|2024-01-16 16h|
+|#|old-world|Old World|39,99€|25|2024-01-09 16h|2024-01-16 16h|
 |#|pc-building-simulator-2|PC Building Simulator 2|24,99€|25|2024-02-09 16h|2024-02-12 16h|
 |#|presences-dark-awakening-b1c9eb|Presences: Dark Awakening|11,69€|25|2024-01-09 16h|2024-01-16 16h|
 |#|starport-trading-company-9b3538|Spaceport Trading Company|13,49€|25|2024-01-16 16h|2024-01-23 16h|

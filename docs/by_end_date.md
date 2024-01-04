@@ -21,6 +21,7 @@
 |#|nadir-a-grimdark-deckbuilder-c70747|Nadir - A Grimdark Deckbuilder|15,99€|66|2024-01-09 16h|2024-01-16 16h|
 |#|naheulbeuks-dungeon-master-b2694b|Naheulbeuk's Dungeon Master|24,99€|15|2024-01-09 16h|2024-01-16 16h|
 |#|nephise-ascension-f0ba3d|Nephise: Ascension|4,49€|25|2024-01-09 16h|2024-01-16 16h|
+|#|old-world|Old World|39,99€|25|2024-01-09 16h|2024-01-16 16h|
 |#|oli-one-sneak-in-98322c|Oli One: Sneak In|4,49€|70|2024-01-09 16h|2024-01-16 16h|
 |#|outbreak-the-new-nightmare-revisited-90517a|Outbreak The New Nightmare Revisited|8,99€|50|2024-01-09 16h|2024-01-16 16h|
 |#|presences-dark-awakening-b1c9eb|Presences: Dark Awakening|11,69€|25|2024-01-09 16h|2024-01-16 16h|
@@ -105,6 +106,7 @@
 |#|apico-f6e18b|APICO|15,99€|30|2024-02-09 16h|2024-02-12 16h|
 |#|alan-wake-2|Alan Wake 2|49,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|alan-wake-remastered|Alan Wake Remastered|29,99€|60|2024-02-09 16h|2024-02-12 16h|
+|#|alex-kidd-in-miracle-world-dx|Alex Kidd in Miracle World DX|19,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|angelo-and-deemon-one-hell-of-a-quest-94d7e2|Angelo and Deemon: One Hell of a Quest|7,19€|55|2024-02-09 16h|2024-02-12 16h|
 |#|angry-video-game-nerd-1-and-2-deluxe-1eea79|Angry Video Game Nerd I & II Deluxe|8,99€|30|2024-02-09 16h|2024-02-12 16h|
 |#|arcrunner-61fee6|ArcRunner|19,99€|20|2024-02-09 16h|2024-02-12 16h|
@@ -139,6 +141,7 @@
 |#|dumpy-and-bumpy-86c9d7|Dumpy and Bumpy|3,99€|30|2024-02-09 16h|2024-02-12 16h|
 |#|evans-remains|Evan's Remains|5,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|everlasting-guilt-213534|Everlasting Guilt|8,99€|50|2024-02-09 16h|2024-02-12 16h|
+|#|foreclosed|FORECLOSED|16,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|fire-commander-df24ad|Fire Commander|11,99€|25|2024-02-09 16h|2024-02-12 16h|
 |#|fish-db1795|Fish|22,39€|50|2024-02-09 16h|2024-02-12 16h|
 |#|flatout-940461|Flatout|3,99€|80|2024-02-09 16h|2024-02-12 16h|

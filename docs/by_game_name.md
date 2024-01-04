@@ -14,6 +14,7 @@
 |#|ageless|Ageless|14,99€|80|2024-02-26 16h|2024-03-11 16h|
 |#|alan-wake-2|Alan Wake 2|49,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|alan-wake-remastered|Alan Wake Remastered|29,99€|60|2024-02-09 16h|2024-02-12 16h|
+|#|alex-kidd-in-miracle-world-dx|Alex Kidd in Miracle World DX|19,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|amber-1e2240|Amber|26,99€|34|2024-02-14 13h|2024-02-20 13h|
 |#|angelo-and-deemon-one-hell-of-a-quest-94d7e2|Angelo and Deemon: One Hell of a Quest|7,19€|55|2024-02-09 16h|2024-02-12 16h|
 |#|angry-video-game-nerd-1-and-2-deluxe-1eea79|Angry Video Game Nerd I & II Deluxe|8,99€|30|2024-02-09 16h|2024-02-12 16h|
@@ -91,6 +92,7 @@
 |#|extreme-formula-championship-a8271d|Extreme Formula Championship|7,19€|80|2024-01-16 16h|2024-01-23 16h|
 |#|extreme-offroad-racing-439263|Extreme Offroad Racing|8,99€|80|2024-01-16 16h|2024-01-23 16h|
 |#|eyes-of-memes-d8864a|Eyes Of Memes|0,89€|40|2024-01-04 22h|2024-01-10 22h|
+|#|foreclosed|FORECLOSED|16,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|front-mission-1st-remake-124a24|FRONT MISSION 1st: Remake|31,39€|33|2024-01-09 16h|2024-01-16 16h|
 |#|filthy-us-complete-edition-82a6b1|Filthy Us Complete Edition|8,09€|30|2024-01-09 07h|2024-01-15 07h|
 |#|fire-commander-df24ad|Fire Commander|11,99€|25|2024-02-09 16h|2024-02-12 16h|
@@ -193,6 +195,7 @@
 |#|nextbots-in-the-backrooms-b5677b|Nextbots In The Backrooms|0,89€|50|2024-02-15 22h|2024-03-05 22h|
 |#|orb-bfdd17|ORB|4,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|oirbo-c063b7|Oirbo|13,49€|20|2024-01-30 16h|2024-02-06 16h|
+|#|old-world|Old World|39,99€|25|2024-01-09 16h|2024-01-16 16h|
 |#|oli-one-sneak-in-98322c|Oli One: Sneak In|4,49€|70|2024-01-09 16h|2024-01-16 16h|
 |#|outbreak-the-new-nightmare-revisited-90517a|Outbreak The New Nightmare Revisited|8,99€|50|2024-01-09 16h|2024-01-16 16h|
 |#|outcore-desktop-adventure-eb3aff|Outcore - Desktop Adventure|8,99€|30|2024-01-16 16h|2024-01-23 16h|

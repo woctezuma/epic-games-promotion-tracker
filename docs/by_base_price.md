@@ -5,6 +5,7 @@
 |#|sherlock-holmes-chapter-one|Sherlock Holmes Chapter One|44,99€|80|2024-01-16 16h|2024-01-23 16h|
 |#|conan-exiles|Conan Exiles|39,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|disco-elysium|Disco Elysium - The Final Cut|39,99€|75|2024-02-09 16h|2024-02-12 16h|
+|#|old-world|Old World|39,99€|25|2024-01-09 16h|2024-01-16 16h|
 |#|shadow-gambit-the-cursed-crew-0bca60|Shadow Gambit: The Cursed Crew|39,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|sherlock-holmes-the-awakened|Sherlock Holmes The Awakened|39,99€|50|2024-01-16 16h|2024-01-23 16h|
 |#|the-lord-of-the-rings-return-to-moria-f01344|The Lord of The Rings Return to Moria|39,99€|33|2024-02-09 16h|2024-02-12 16h|
@@ -52,6 +53,7 @@
 |#|diplomacy-is-not-an-option-9c6bea|Diplomacy is Not an Option|20,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|1428-shadows-over-silesia-266e5f|1428: Shadows over Silesia|19,99€|50|2024-01-07 14h|2024-01-10 16h|
 |#|1428-shadows-over-silesia-266e5f|1428: Shadows over Silesia|19,99€|50|2024-02-09 16h|2024-02-12 16h|
+|#|alex-kidd-in-miracle-world-dx|Alex Kidd in Miracle World DX|19,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|arcrunner-61fee6|ArcRunner|19,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|chicken-police-paint-it-red|Chicken Police - Paint it Red!|19,99€|50|2024-01-23 16h|2024-01-30 16h|
 |#|el-hijo-6b63c5|El Hijo – A Wild West Tale|19,99€|75|2024-01-23 16h|2024-01-30 16h|
@@ -90,6 +92,7 @@
 |#|victorian-admirals-marianas-incident-1887-7d4e70|Victorian Admirals Marianas Incident 1887|17,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|wytchwood|Wytchwood|17,49€|45|2024-02-09 16h|2024-02-12 16h|
 |#|indoorlands-3b2356|Indoorlands|17,09€|30|2024-01-21 00h|2024-01-31 00h|
+|#|foreclosed|FORECLOSED|16,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|lego-builders-journey|LEGO® Builder's Journey|16,99€|66|2024-02-09 16h|2024-02-12 16h|
 |#|baby-storm-426245|Baby Storm|16,19€|50|2024-01-09 16h|2024-01-16 16h|
 |#|its-a-wrap-f392ae|It's a Wrap!|16,19€|30|2024-02-09 16h|2024-02-12 16h|
