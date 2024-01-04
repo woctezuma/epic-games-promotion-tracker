@@ -1530,6 +1530,24 @@
     "title": "Mars Horizon"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2024-01-11T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 0,
+    "slug": "marvels-guardians-of-the-galaxy",
+    "startDate": "2024-01-04T16:00:00.000Z",
+    "title": "Marvel's Guardians of the Galaxy"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2024-01-11T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 5999,
+    "slug": "marvels-guardians-of-the-galaxy",
+    "startDate": "2024-01-04T16:00:00.000Z",
+    "title": "Marvel's Guardians of the Galaxy"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -1636,15 +1654,6 @@
     "slug": "mutant-year-zero",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Mutant Year Zero: Road to Eden"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2024-01-11T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 0,
-    "slug": "mysterygame-17",
-    "startDate": "2024-01-04T16:00:00.000Z",
-    "title": "Mystery Game Day 17"
   },
   {
     "discountPercentage": 90,
@@ -2655,6 +2664,15 @@
     "title": "The Plane Effect"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 629,
+    "slug": "the-shape-of-things-dc5b26",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "The Shape of Things"
+  },
+  {
     "discountPercentage": 65,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -2698,6 +2716,15 @@
     "slug": "time-on-frog-island-b3ad0d",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Time on Frog Island"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 599,
+    "slug": "tiny-lands-527466",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Tiny Lands"
   },
   {
     "discountPercentage": 55,
