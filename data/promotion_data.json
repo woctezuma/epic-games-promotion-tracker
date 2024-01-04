@@ -252,15 +252,6 @@
     "title": "Backrooms Doors"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2024-01-10T22:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "backrooms-eight-levels-c7ea4c",
-    "startDate": "2024-01-04T22:00:00.000Z",
-    "title": "Backrooms: Eight Levels"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-02-29T22:00:00.000Z",
     "isFree": false,
@@ -808,15 +799,6 @@
     "slug": "extreme-offroad-racing-439263",
     "startDate": "2024-01-16T16:00:00.000Z",
     "title": "Extreme Offroad Racing"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2024-01-10T22:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "eyes-of-memes-d8864a",
-    "startDate": "2024-01-04T22:00:00.000Z",
-    "title": "Eyes Of Memes"
   },
   {
     "discountPercentage": 80,
