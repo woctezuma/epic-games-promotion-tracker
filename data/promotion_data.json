@@ -1299,15 +1299,6 @@
     "discountPercentage": 80,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": 1299,
-    "slug": "ironcast",
-    "startDate": "2024-02-09T16:00:00.000Z",
-    "title": "Ironcast"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2024-02-12T16:00:00.000Z",
-    "isFree": false,
     "originalPrice": 899,
     "slug": "ironclads-american-civil-war-ii-publisher-ed91f6",
     "startDate": "2024-02-09T16:00:00.000Z",
