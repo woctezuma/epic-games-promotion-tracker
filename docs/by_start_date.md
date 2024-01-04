@@ -1,6 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|compass-of-the-destiny-istanbul-598642|Compass of the Destiny: Istanbul|14,79€|30|2024-01-04 21h|2024-01-11 21h|
 |#|backrooms-eight-levels-c7ea4c|Backrooms: Eight Levels|0,89€|40|2024-01-04 22h|2024-01-10 22h|
 |#|eyes-of-memes-d8864a|Eyes Of Memes|0,89€|40|2024-01-04 22h|2024-01-10 22h|
 |#|mallofmayhem-15344c|Mall of Mayhem|7,19€|30|2024-01-05 07h|2024-01-31 07h|

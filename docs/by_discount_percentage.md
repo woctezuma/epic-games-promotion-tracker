@@ -242,7 +242,6 @@
 |#|apico-f6e18b|APICO|15,99€|30|2024-02-09 16h|2024-02-12 16h|
 |#|angry-video-game-nerd-1-and-2-deluxe-1eea79|Angry Video Game Nerd I & II Deluxe|8,99€|30|2024-02-09 16h|2024-02-12 16h|
 |#|boltbreak-c2bf02|BoltBreak|5,39€|30|2024-12-01 07h|2024-12-30 07h|
-|#|compass-of-the-destiny-istanbul-598642|Compass of the Destiny: Istanbul|14,79€|30|2024-01-04 21h|2024-01-11 21h|
 |#|curse-of-the-sea-rats-8f28b1|Curse of the Sea Rats|17,99€|30|2024-02-09 16h|2024-02-12 16h|
 |#|dumpy-and-bumpy-86c9d7|Dumpy and Bumpy|3,99€|30|2024-02-09 16h|2024-02-12 16h|
 |#|filthy-us-complete-edition-82a6b1|Filthy Us Complete Edition|8,09€|30|2024-01-09 07h|2024-01-15 07h|
