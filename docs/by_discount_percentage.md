@@ -12,6 +12,7 @@
 |#|sherlock-holmes-crimes-and-punishments|Sherlock Holmes: Crimes and Punishments|29,99€|90|2024-02-09 16h|2024-02-12 16h|
 |#|space-empires-ii-1fece2|Space Empires II|1,59€|90|2024-02-09 16h|2024-02-12 16h|
 |#|worms-rumble|Worms Rumble|14,99€|90|2024-02-09 16h|2024-02-26 16h|
+|#|deathrun-tv-db074f|DEATHRUN TV|11,99€|85|2024-02-09 16h|2024-02-12 16h|
 |#|gladiator-blades-of-fury-1a745b|Gladiator : Blades of Fury|8,99€|85|2024-01-16 16h|2024-01-23 16h|
 |#|moonlighter|Moonlighter|19,99€|85|2024-02-09 16h|2024-02-12 16h|
 |#|sherlock-holmes-the-devils-daughter|Sherlock Holmes: The Devil's Daughter|29,99€|85|2024-02-09 16h|2024-02-12 16h|
@@ -64,6 +65,7 @@
 |#|secret-of-dream-947b85|Secret of Dream|6,29€|80|2024-02-09 16h|2024-02-12 16h|
 |#|sheltered|Sheltered|14,99€|80|2024-02-09 16h|2024-02-26 16h|
 |#|sherlock-holmes-chapter-one|Sherlock Holmes Chapter One|44,99€|80|2024-01-16 16h|2024-01-23 16h|
+|#|slaycation-paradise-47a603|Slaycation Paradise|11,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|space-empires-iii-38e873|Space Empires III|1,59€|80|2024-02-09 16h|2024-02-12 16h|
 |#|space-empires-iv-74dacf|Space Empires IV|7,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|space-empires-v-0319fd|Space Empires V|11,99€|80|2024-02-09 16h|2024-02-12 16h|
@@ -92,13 +94,16 @@
 |#|inertial-drift|Inertial Drift|15,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|limbo|Limbo|9,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|mashed-ebdee9|Mashed|3,99€|75|2024-02-09 16h|2024-02-12 16h|
+|#|monster-harvest-75f018|Monster Harvest|13,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|moving-out|Moving Out|22,99€|75|2024-02-09 16h|2024-02-26 16h|
 |#|overcooked-2|Overcooked! 2|22,99€|75|2024-02-09 16h|2024-02-26 16h|
 |#|pc-building-simulator|PC Building Simulator|15,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|75|2024-02-29 22h|2024-03-17 22h|
 |#|spinner-invaders-d453e7|Spinner Invaders|4,49€|75|2024-02-09 16h|2024-02-12 16h|
+|#|spirit-of-the-north-f58a66|Spirit of the North|15,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|the-escapists-2|The Escapists 2|19,99€|75|2024-02-09 16h|2024-02-26 16h|
 |#|the-plane-effect|The Plane Effect|14,99€|75|2024-02-09 16h|2024-02-12 16h|
+|#|time-on-frog-island-b3ad0d|Time on Frog Island|15,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|naval-combat-package-34e444|Fleet Command|7,99€|70|2024-02-09 16h|2024-02-12 16h|
 |#|kitaria-fables|Kitaria Fables|19,99€|70|2024-02-09 16h|2024-02-12 16h|
 |#|mars-horizon|Mars Horizon|15,99€|70|2024-02-09 16h|2024-02-12 16h|
@@ -149,6 +154,7 @@
 |#|birch-simulator-21969e|Birch Simulator|0,89€|50|2024-01-27 22h|2024-02-15 22h|
 |#|birch-simulator-21969e|Birch Simulator|0,89€|50|2024-03-17 22h|2024-04-03 22h|
 |#|birch-simulator-21969e|Birch Simulator|0,89€|50|2024-05-04 22h|2024-05-19 22h|
+|#|bramble-the-mountain-king-c0d1c6|Bramble The Mountain King|26,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|calico|Calico|9,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|car-mechanic-city-driving-4996c5|Car Mechanic - City Driving|0,89€|50|2024-02-19 22h|2024-03-07 22h|
 |#|chicken-police-paint-it-red|Chicken Police - Paint it Red!|19,99€|50|2024-01-23 16h|2024-01-30 16h|

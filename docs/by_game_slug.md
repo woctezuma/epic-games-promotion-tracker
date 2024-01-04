@@ -45,6 +45,7 @@
 |#|boltbreak-c2bf02|BoltBreak|5,39€|17|2024-09-01 06h|2024-09-30 22h|
 |#|boltbreak-c2bf02|BoltBreak|5,39€|30|2024-12-01 07h|2024-12-30 07h|
 |#|bottle-pilgrim-redux-987f66|Bottle: Pilgrim Redux|3,59€|25|2024-01-09 16h|2024-01-16 16h|
+|#|bramble-the-mountain-king-c0d1c6|Bramble The Mountain King|26,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|bus-driver-simulator-186e62|Bus Driver Simulator|17,99€|80|2024-01-16 16h|2024-01-23 16h|
 |#|busway-islands-puzzle-91287d|Busway Islands - Puzzle|2,69€|40|2024-01-16 16h|2024-01-23 16h|
 |#|butchers-dont-surf-56b0c2|Butchers Don't Surf!|4,49€|80|2024-01-09 16h|2024-01-16 16h|
@@ -66,6 +67,7 @@
 |#|dangerous-waters-61ea56|Dangerous Waters|7,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|dark-mystery-baf914|Dark Mystery|6,29€|80|2024-01-16 16h|2024-01-23 16h|
 |#|dead-by-murder-190eab|Dead By Murder|4,49€|80|2024-02-09 16h|2024-02-12 16h|
+|#|deathrun-tv-db074f|DEATHRUN TV|11,99€|85|2024-02-09 16h|2024-02-12 16h|
 |#|delivery-from-the-pain-73198e|Delivery from the Pain|7,19€|55|2024-02-09 16h|2024-02-12 16h|
 |#|deltav-rings-of-saturn-4cd187|ΔV: Rings of Saturn|8,99€|37|2024-02-09 16h|2024-02-12 16h|
 |#|desktop-girlfriend-neo-136f5a|Desktop Girlfriend NEO|3,59€|22|2024-02-09 16h|2024-02-12 16h|
@@ -175,6 +177,7 @@
 |#|midnight-ghost-hunt|Midnight Ghost Hunt|19,99€|66|2024-02-09 16h|2024-02-12 16h|
 |#|minimal-move-7a012a|Minimal Move|4,49€|80|2024-02-09 16h|2024-02-12 16h|
 |#|mobilisation-78891a|Mobilization|5,39€|70|2024-01-09 16h|2024-01-16 16h|
+|#|monster-harvest-75f018|Monster Harvest|13,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|moonlighter|Moonlighter|19,99€|85|2024-02-09 16h|2024-02-12 16h|
 |#|mountain-racing-47178d|Mountain Racing|4,49€|80|2024-01-16 16h|2024-01-23 16h|
 |#|moving-out|Moving Out|22,99€|75|2024-02-09 16h|2024-02-26 16h|
@@ -245,6 +248,7 @@
 |#|skotos-455463|Skotos|8,99€|30|2024-08-01 06h|2024-08-30 06h|
 |#|skotos-455463|Skotos|8,99€|30|2024-11-01 06h|2024-11-30 07h|
 |#|skydrift-infinity-c4ca37|SkyDrift Infinity|9,99€|50|2024-01-16 16h|2024-01-23 16h|
+|#|slaycation-paradise-47a603|Slaycation Paradise|11,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|songs-of-conquest|Songs of Conquest|29,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|space-elite-force-a00006|SPACE ELITE FORCE|2,69€|50|2024-01-09 16h|2024-01-16 16h|
 |#|space-empires-ii-1fece2|Space Empires II|1,59€|90|2024-02-09 16h|2024-02-12 16h|
@@ -254,6 +258,7 @@
 |#|space-explore-d8aab3|Space Explore|8,99€|80|2024-01-16 16h|2024-01-23 16h|
 |#|space-war-infinity-024a8f|SPACE WAR - INFINITY|1,79€|50|2024-01-30 16h|2024-02-06 16h|
 |#|spinner-invaders-d453e7|Spinner Invaders|4,49€|75|2024-02-09 16h|2024-02-12 16h|
+|#|spirit-of-the-north-f58a66|Spirit of the North|15,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|starport-trading-company-9b3538|Spaceport Trading Company|13,49€|25|2024-01-16 16h|2024-01-23 16h|
 |#|steel-fury-kharkov-1942-cdfbd6|Steel Fury Kharkov 1942|3,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|stick-it-to-the-man|Stick It To The Man!|5,99€|80|2024-02-09 16h|2024-02-12 16h|
@@ -291,6 +296,7 @@
 |#|this-war-of-mine|This War of Mine|18,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|through-the-darkest-of-times|Through the Darkest of Times|14,99€|80|2024-01-23 16h|2024-01-30 16h|
 |#|timberborn|Timberborn|22,39€|20|2024-02-09 16h|2024-02-12 16h|
+|#|time-on-frog-island-b3ad0d|Time on Frog Island|15,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|tohu|TOHU|12,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|tormented-souls|Tormented Souls|19,99€|55|2024-02-09 16h|2024-02-12 16h|
 |#|trash-troopers-earth-reclaim-48721c|Trash Troopers Earth Reclaim|4,49€|20|2024-01-09 16h|2024-01-16 16h|
