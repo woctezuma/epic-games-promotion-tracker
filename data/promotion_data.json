@@ -883,15 +883,6 @@
   },
   {
     "discountPercentage": 25,
-    "endDate": "2024-01-10T08:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1599,
-    "slug": "frontier-hunter-erzas-wheel-of-fortune",
-    "startDate": "2024-01-04T08:00:00.000Z",
-    "title": "Frontier Hunter: Erza's Wheel of Fortune"
-  },
-  {
-    "discountPercentage": 25,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1599,
