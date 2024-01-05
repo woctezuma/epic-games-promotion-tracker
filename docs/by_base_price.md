@@ -201,6 +201,7 @@
 |#|super-kids-racing-7bf296|Super Kids Racing|8,99€|80|2024-01-16 16h|2024-01-23 16h|
 |#|super-kids-racing-mini-edition-65c0fa|Super Kids Racing - Mini Edition|8,99€|80|2024-01-16 16h|2024-01-23 16h|
 |#|tales-of-the-tiny-planet-ab9e11|Tales of the Tiny Planet|8,99€|30|2024-01-21 00h|2024-01-31 00h|
+|#|tandem-a-tale-of-shadows-c3f55e|Tandem: A Tale of Shadows|8,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|the-backroom-project-b6b434|The Backroom Project|8,99€|25|2024-02-09 16h|2024-02-12 16h|
 |#|warshift-127867|WARSHIFT|8,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|next-game-c139be|Zi|8,99€|50|2024-02-09 16h|2024-02-12 16h|
@@ -229,6 +230,7 @@
 |#|mallofmayhem-15344c|Mall of Mayhem|7,19€|30|2024-07-01 06h|2024-07-30 22h|
 |#|mallofmayhem-15344c|Mall of Mayhem|7,19€|30|2024-10-01 06h|2024-10-30 22h|
 |#|maze-the-amazing-labyrinth-291abe|Maze - The Amazing Labyrinth|7,19€|80|2024-01-16 16h|2024-01-23 16h|
+|#|out-of-line-209cbb|Out of Line|7,19€|40|2024-02-09 16h|2024-02-12 16h|
 |#|saboteur-ii-avenging-angel-33e83c|Saboteur II Avenging Angel|7,19€|20|2024-01-05 23h|2024-02-04 23h|
 |#|saboteur-f3d01d|Saboteur!|7,19€|20|2024-01-05 23h|2024-02-04 23h|
 |#|suicide-guy-9f7963|Suicide Guy|7,19€|45|2024-01-09 16h|2024-01-16 16h|

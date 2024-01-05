@@ -193,6 +193,7 @@
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2024-02-25 22h|2024-03-15 22h|
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2024-04-15 22h|2024-05-03 22h|
 |#|tamara-in-the-forsaken-dungeon-81aa5c|Tamara In The Forsaken Dungeon|2,69€|50|2024-01-09 16h|2024-01-16 16h|
+|#|tandem-a-tale-of-shadows-c3f55e|Tandem: A Tale of Shadows|8,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|the-captain|The Captain|15,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|the-drone-racing-league-simulator|The Drone Racing League®|7,99€|50|2024-01-16 16h|2024-01-23 16h|
 |#|the-flower-collectors|The Flower Collectors|14,99€|50|2024-02-09 16h|2024-02-12 16h|
@@ -221,6 +222,7 @@
 |#|life-after-death-b4e964|Life After Death|4,49€|40|2024-03-11 01h|2024-04-04 00h|
 |#|luckygoal-201ee6|Lucky Goal|4,99€|40|2024-02-09 16h|2024-02-12 16h|
 |#|match-village-5f41dd|Match Village|3,59€|40|2024-01-23 16h|2024-01-30 16h|
+|#|out-of-line-209cbb|Out of Line|7,19€|40|2024-02-09 16h|2024-02-12 16h|
 |#|teacup|Teacup|7,99€|40|2024-02-09 16h|2024-02-12 16h|
 |#|royal-defense-d046db|The Empress of Mahjong|4,49€|40|2024-01-09 16h|2024-01-16 16h|
 |#|the-shape-of-things-dc5b26|The Shape of Things|6,29€|40|2024-02-09 16h|2024-02-12 16h|

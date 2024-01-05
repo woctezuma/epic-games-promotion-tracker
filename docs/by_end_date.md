@@ -194,6 +194,7 @@
 |#|near-impact-b7bee9|Near Impact|4,49€|80|2024-02-09 16h|2024-02-12 16h|
 |#|nexomon-extinction|Nexomon: Extinction|19,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|orb-bfdd17|ORB|4,99€|80|2024-02-09 16h|2024-02-12 16h|
+|#|out-of-line-209cbb|Out of Line|7,19€|40|2024-02-09 16h|2024-02-12 16h|
 |#|pc-building-simulator|PC Building Simulator|15,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|pc-building-simulator-2|PC Building Simulator 2|24,99€|25|2024-02-09 16h|2024-02-12 16h|
 |#|palladium-adventure-in-greece-f1ee1b|Palladium: Adventure in Greece|8,99€|50|2024-02-09 16h|2024-02-12 16h|
@@ -235,6 +236,7 @@
 |#|supfly-delivery-simulator-82d2fd|Supfly Delivery Simulator|3,59€|30|2024-02-09 16h|2024-02-12 16h|
 |#|switchball-hd-6d3802|Switchball HD|8,09€|50|2024-02-09 16h|2024-02-12 16h|
 |#|tohu|TOHU|12,99€|50|2024-02-09 16h|2024-02-12 16h|
+|#|tandem-a-tale-of-shadows-c3f55e|Tandem: A Tale of Shadows|8,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|tank-warfare-tunisia-1943-62f6e9|Tank Warfare - Tunisia 1943|23,99€|70|2024-02-09 16h|2024-02-12 16h|
 |#|teacup|Teacup|7,99€|40|2024-02-09 16h|2024-02-12 16h|
 |#|the-backroom-project-b6b434|The Backroom Project|8,99€|25|2024-02-09 16h|2024-02-12 16h|
