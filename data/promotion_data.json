@@ -1125,15 +1125,6 @@
     "title": "Garden Story"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2024-02-04T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 899,
-    "slug": "gardenia-630482",
-    "startDate": "2024-01-05T23:00:00.000Z",
-    "title": "Gardenia"
-  },
-  {
     "discountPercentage": 30,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -2007,6 +1998,15 @@
     "title": "Operation: Tango"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "otok-6c2478",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Otok"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -2311,33 +2311,6 @@
     "slug": "space-war-infinity-024a8f",
     "startDate": "2024-01-30T16:00:00.000Z",
     "title": "SPACE WAR - INFINITY"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2024-02-04T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 719,
-    "slug": "saboteur-ii-avenging-angel-33e83c",
-    "startDate": "2024-01-05T23:00:00.000Z",
-    "title": "Saboteur II Avenging Angel"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2024-02-04T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 989,
-    "slug": "saboteur-sio-123236",
-    "startDate": "2024-01-05T23:00:00.000Z",
-    "title": "Saboteur SiO"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2024-02-04T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 719,
-    "slug": "saboteur-f3d01d",
-    "startDate": "2024-01-05T23:00:00.000Z",
-    "title": "Saboteur!"
   },
   {
     "discountPercentage": 100,
