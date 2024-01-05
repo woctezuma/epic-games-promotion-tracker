@@ -19,6 +19,24 @@
   },
   {
     "discountPercentage": 50,
+    "endDate": "2024-02-20T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "1001-jigsaw-cute-cats-36eb93",
+    "startDate": "2024-02-13T16:00:00.000Z",
+    "title": "1001 Jigsaw Cute Cats"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-16T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "1001-jigsaw-legends-of-mystery-14e62d",
+    "startDate": "2024-01-09T16:00:00.000Z",
+    "title": "1001 Jigsaw. Legends of Mystery"
+  },
+  {
+    "discountPercentage": 50,
     "endDate": "2024-01-10T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1999,
@@ -238,7 +256,7 @@
     "endDate": "2024-01-16T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1619,
-    "slug": "baby-storm-426245",
+    "slug": "96ca060c9f974f34b360104371332b84",
     "startDate": "2024-01-09T16:00:00.000Z",
     "title": "Baby Storm"
   },
@@ -450,6 +468,42 @@
     "title": "Bramble The Mountain King"
   },
   {
+    "discountPercentage": 88,
+    "endDate": "2024-01-23T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "bridge-constructor-c3ef67",
+    "startDate": "2024-01-16T16:00:00.000Z",
+    "title": "Bridge Constructor"
+  },
+  {
+    "discountPercentage": 88,
+    "endDate": "2024-01-23T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "bridge-constructor-medieval-cff987",
+    "startDate": "2024-01-16T16:00:00.000Z",
+    "title": "Bridge Constructor Medieval"
+  },
+  {
+    "discountPercentage": 88,
+    "endDate": "2024-01-23T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "bridge-constructor-playground-eade24",
+    "startDate": "2024-01-16T16:00:00.000Z",
+    "title": "Bridge Constructor Playground"
+  },
+  {
+    "discountPercentage": 88,
+    "endDate": "2024-01-23T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "bridge-constructor-stunts-da814c",
+    "startDate": "2024-01-16T16:00:00.000Z",
+    "title": "Bridge Constructor Stunts"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-01-23T16:00:00.000Z",
     "isFree": false,
@@ -529,6 +583,15 @@
     "slug": "conan-exiles",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Conan Exiles"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-23T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "cooking-trip-d45abd",
+    "startDate": "2024-01-16T16:00:00.000Z",
+    "title": "Cooking Trip Collectors Edition"
   },
   {
     "discountPercentage": 20,
@@ -1089,6 +1152,15 @@
     "title": "Greak: Memories of Azur"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-02-20T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "griddlers-victorian-picnic-fcc2ab",
+    "startDate": "2024-02-13T16:00:00.000Z",
+    "title": "Griddlers Victorian Picnic"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -1294,6 +1366,15 @@
     "slug": "into-the-breach",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Into the Breach"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-23T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "iron-heart-7b7727",
+    "startDate": "2024-01-16T16:00:00.000Z",
+    "title": "Iron Heart Steam Tower"
   },
   {
     "discountPercentage": 80,
@@ -1512,6 +1593,15 @@
     "title": "Lucky Goal"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-01-16T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 359,
+    "slug": "mahjong-magic-journey-2-28de53",
+    "startDate": "2024-01-09T16:00:00.000Z",
+    "title": "Mahjong Magic Journey 2"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2024-07-30T22:00:00.000Z",
     "isFree": false,
@@ -1654,6 +1744,15 @@
     "slug": "mutant-year-zero",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Mutant Year Zero: Road to Eden"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-02-20T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "mysteries-of-the-undead-46140a",
+    "startDate": "2024-02-13T16:00:00.000Z",
+    "title": "Mysteries of the Undead"
   },
   {
     "discountPercentage": 90,
@@ -2088,6 +2187,15 @@
     "title": "Sail Forth"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-02-20T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "sakura-day-mahjong-007b44",
+    "startDate": "2024-02-13T16:00:00.000Z",
+    "title": "Sakura Day Mahjong"
+  },
+  {
     "discountPercentage": 45,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -2194,6 +2302,15 @@
     "slug": "sherlock-holmes-the-devils-daughter",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Sherlock Holmes: The Devil's Daughter"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2024-01-23T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "silver-chains-0d3bd1",
+    "startDate": "2024-01-16T16:00:00.000Z",
+    "title": "Silver Chains"
   },
   {
     "discountPercentage": 50,
