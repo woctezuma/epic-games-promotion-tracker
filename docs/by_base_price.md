@@ -95,7 +95,7 @@
 |#|indoorlands-3b2356|Indoorlands|17,09€|30|2024-01-21 00h|2024-01-31 00h|
 |#|foreclosed|FORECLOSED|16,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|lego-builders-journey|LEGO® Builder's Journey|16,99€|66|2024-02-09 16h|2024-02-12 16h|
-|#|96ca060c9f974f34b360104371332b84|Baby Storm|16,19€|50|2024-01-09 16h|2024-01-16 16h|
+|#|baby-storm-426245|Baby Storm|16,19€|50|2024-01-09 16h|2024-01-16 16h|
 |#|its-a-wrap-f392ae|It's a Wrap!|16,19€|30|2024-02-09 16h|2024-02-12 16h|
 |#|the-fabulous-fear-machine-8e7c6b|The Fabulous Fear Machine|16,19€|25|2024-02-09 16h|2024-02-12 16h|
 |#|apico-f6e18b|APICO|15,99€|30|2024-02-09 16h|2024-02-12 16h|
@@ -193,6 +193,7 @@
 |#|horse-racing-4192a0|Horse Racing|8,99€|80|2024-01-16 16h|2024-01-23 16h|
 |#|ironclads-american-civil-war-ii-publisher-ed91f6|Ironclads II American Civil War|8,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|love-3-c2516f|LOVE 3|8,99€|30|2024-02-09 16h|2024-02-12 16h|
+|#|mokoko-x-e2b09d|Mokoko X|8,99€|50|2024-01-09 16h|2024-01-16 16h|
 |#|outbreak-the-new-nightmare-revisited-90517a|Outbreak The New Nightmare Revisited|8,99€|50|2024-01-09 16h|2024-01-16 16h|
 |#|outcore-desktop-adventure-eb3aff|Outcore - Desktop Adventure|8,99€|30|2024-01-16 16h|2024-01-23 16h|
 |#|palladium-adventure-in-greece-f1ee1b|Palladium: Adventure in Greece|8,99€|50|2024-02-09 16h|2024-02-12 16h|
@@ -262,13 +263,20 @@
 |#|orb-bfdd17|ORB|4,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|1001-jigsaw-castles-and-palaces-b256df|1001 Jigsaw Castles And Palaces|4,49€|50|2024-02-06 16h|2024-02-13 16h|
 |#|1001-jigsaw-cute-cats-36eb93|1001 Jigsaw Cute Cats|4,49€|50|2024-02-13 16h|2024-02-20 16h|
+|#|1001-jigsaw-earth-chronicles-7b25fc|1001 Jigsaw. Earth Chronicles|4,49€|50|2024-01-30 16h|2024-02-06 16h|
+|#|1001-jigsaw-home-sweet-home-1b1e16|1001 Jigsaw. Home Sweet Home|4,49€|50|2024-01-09 16h|2024-01-16 16h|
 |#|1001-jigsaw-legends-of-mystery-14e62d|1001 Jigsaw. Legends of Mystery|4,49€|50|2024-01-09 16h|2024-01-16 16h|
+|#|alices-jigsaw-wonderland-chronicles-8c6d0c|Alice's Jigsaw. Wonderland Chronicles|4,49€|50|2024-02-06 16h|2024-02-13 16h|
 |#|asian-riddles-223489|Asian Riddles|4,49€|50|2024-01-30 16h|2024-02-06 16h|
 |#|balloon-strike-c9a1ac|Balloon Strike|4,49€|80|2024-01-16 16h|2024-01-23 16h|
 |#|butchers-dont-surf-56b0c2|Butchers Don't Surf!|4,49€|80|2024-01-09 16h|2024-01-16 16h|
+|#|christmas-mahjong-50bcc6|Christmas Mahjong|4,49€|50|2024-01-09 16h|2024-01-16 16h|
 |#|cooking-trip-d45abd|Cooking Trip Collectors Edition|4,49€|50|2024-01-16 16h|2024-01-23 16h|
 |#|county-hospital-aa8e79|County Hospital|4,49€|20|2024-01-16 16h|2024-01-23 16h|
+|#|crown-of-the-empire-86cf18|Crown Of The Empire Collectors Edition|4,49€|30|2024-02-09 16h|2024-02-12 16h|
+|#|crown-of-the-empire-2-around-the-world-699782|Crown of the Empire 2: Around the World Collectors Edition|4,49€|50|2024-01-23 16h|2024-01-30 16h|
 |#|dead-by-murder-190eab|Dead By Murder|4,49€|80|2024-02-09 16h|2024-02-12 16h|
+|#|gems-of-the-aztecs-c88b67|Gems of the Aztecs|4,49€|30|2024-02-09 16h|2024-02-12 16h|
 |#|geojelly-a44cfe|GeoJelly|4,49€|60|2024-02-09 16h|2024-02-12 16h|
 |#|gnomes-garden-return-of-the-queen-159f41|Gnomes Garden. Return Of The Queen|4,49€|30|2024-01-09 16h|2024-01-16 16h|
 |#|griddlers-victorian-picnic-fcc2ab|Griddlers Victorian Picnic|4,49€|50|2024-02-13 16h|2024-02-20 16h|
@@ -280,15 +288,19 @@
 |#|life-after-death-b4e964|Life After Death|4,49€|40|2024-03-11 01h|2024-04-04 00h|
 |#|little-brother-jim-272dc6|Little Brother Jim|4,49€|25|2024-01-09 16h|2024-01-16 16h|
 |#|minimal-move-7a012a|Minimal Move|4,49€|80|2024-02-09 16h|2024-02-12 16h|
+|#|mosaics-galore-4fbedf|Mosaics Galore|4,49€|50|2024-02-09 16h|2024-02-12 16h|
 |#|mosaics-galore-challenging-journey-3ee83b|Mosaics Galore. Challenging journey|4,49€|50|2024-01-30 16h|2024-02-06 16h|
 |#|mountain-racing-47178d|Mountain Racing|4,49€|80|2024-01-16 16h|2024-01-23 16h|
 |#|mysteries-of-the-undead-46140a|Mysteries of the Undead|4,49€|50|2024-02-13 16h|2024-02-20 16h|
 |#|mystery-solitaire-grimms-tales-244e2a|Mystery Solitaire. Grimm's Tales|4,49€|90|2024-01-09 16h|2024-01-16 16h|
+|#|mystery-solitaire-the-black-raven-65336d|Mystery Solitaire. The Black Raven|4,49€|50|2024-02-09 16h|2024-02-12 16h|
 |#|near-impact-b7bee9|Near Impact|4,49€|80|2024-02-09 16h|2024-02-12 16h|
 |#|nephise-ascension-f0ba3d|Nephise: Ascension|4,49€|25|2024-01-09 16h|2024-01-16 16h|
 |#|oli-one-sneak-in-98322c|Oli One: Sneak In|4,49€|70|2024-01-09 16h|2024-01-16 16h|
 |#|overtop-ed5e49|Overtop|4,49€|90|2024-02-24 22h|2024-03-14 22h|
 |#|overtop-ed5e49|Overtop|4,49€|90|2024-04-15 22h|2024-05-03 22h|
+|#|royal-defense-invisible-threat-b39335|Royal Defense - Invisible Threat|4,49€|50|2024-02-09 16h|2024-02-12 16h|
+|#|royal-roads-2-the-magic-box-18eae3|Royal Roads 2: The Magic Box|4,49€|50|2024-01-09 16h|2024-01-16 16h|
 |#|sakura-day-mahjong-007b44|Sakura Day Mahjong|4,49€|50|2024-02-13 16h|2024-02-20 16h|
 |#|spinner-invaders-d453e7|Spinner Invaders|4,49€|75|2024-02-09 16h|2024-02-12 16h|
 |#|thanksgiving-day-mosaic-dc698a|Thanksgiving Day Mosaic|4,49€|30|2024-01-09 16h|2024-01-16 16h|
@@ -309,6 +321,7 @@
 |#|dream-magic-will-358429|Dream magic will|3,59€|50|2024-02-09 16h|2024-02-12 16h|
 |#|mahjong-magic-journey-2-28de53|Mahjong Magic Journey 2|3,59€|50|2024-01-09 16h|2024-01-16 16h|
 |#|match-village-5f41dd|Match Village|3,59€|40|2024-01-23 16h|2024-01-30 16h|
+|#|strike-solitaire-e86661|Strike Solitaire|3,59€|50|2024-01-09 16h|2024-01-16 16h|
 |#|sudoku-zenkai-3990b1|Sudoku Zenkai|3,59€|15|2024-01-16 16h|2024-01-23 16h|
 |#|supfly-delivery-simulator-82d2fd|Supfly Delivery Simulator|3,59€|30|2024-02-09 16h|2024-02-12 16h|
 |#|aya-and-naya-b7791e|Aya & Naya|2,69€|50|2024-01-09 16h|2024-01-16 16h|
