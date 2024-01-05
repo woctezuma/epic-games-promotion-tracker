@@ -267,6 +267,7 @@
 |#|wytchwood|Wytchwood|17,49€|45|2024-02-09 16h|2024-02-12 16h|
 |#|your-computer-might-be-at-risk-c5dea9|Your Computer Might Be At Risk|10,79€|30|2024-02-09 16h|2024-02-12 16h|
 |#|next-game-c139be|Zi|8,99€|50|2024-02-09 16h|2024-02-12 16h|
+|#|test-dd068f|field peas~Sayaendou~|4,49€|80|2024-02-09 16h|2024-02-12 16h|
 |#|deltav-rings-of-saturn-4cd187|ΔV: Rings of Saturn|8,99€|37|2024-02-09 16h|2024-02-12 16h|
 |#|birch-simulator-21969e|Birch Simulator|0,89€|50|2024-01-27 22h|2024-02-15 22h|
 |#|eden-island-8cd344|Eden Island|8,99€|50|2024-02-03 12h|2024-02-17 15h|

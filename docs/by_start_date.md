@@ -285,6 +285,7 @@
 |#|yooka-laylee-and-the-impossible-lair|Yooka-Laylee and the Impossible Lair|29,99€|85|2024-02-09 16h|2024-02-26 16h|
 |#|your-computer-might-be-at-risk-c5dea9|Your Computer Might Be At Risk|10,79€|30|2024-02-09 16h|2024-02-12 16h|
 |#|next-game-c139be|Zi|8,99€|50|2024-02-09 16h|2024-02-12 16h|
+|#|test-dd068f|field peas~Sayaendou~|4,49€|80|2024-02-09 16h|2024-02-12 16h|
 |#|deltav-rings-of-saturn-4cd187|ΔV: Rings of Saturn|8,99€|37|2024-02-09 16h|2024-02-12 16h|
 |#|backrooms-eight-levels-c7ea4c|Backrooms: Eight Levels|0,89€|50|2024-02-11 22h|2024-02-29 22h|
 |#|ebola-2-b61221|EBOLA 2|13,49€|35|2024-02-13 16h|2024-02-20 16h|
