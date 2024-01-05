@@ -738,6 +738,24 @@
     "title": "Dangerous Waters"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-01-16T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "dark-fantasy-2-jigsaw-puzzle-d65d41",
+    "startDate": "2024-01-09T16:00:00.000Z",
+    "title": "Dark Fantasy 2: Jigsaw Puzzle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-16T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "dark-fantasy-jigsaw-puzzle-12769c",
+    "startDate": "2024-01-09T16:00:00.000Z",
+    "title": "Dark Fantasy Jigsaw Puzzle"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-01-23T16:00:00.000Z",
     "isFree": false,
@@ -3112,6 +3130,15 @@
     "slug": "virus-infinite-b9ed68",
     "startDate": "2024-01-09T16:00:00.000Z",
     "title": "Virus Infinite"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-16T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "volley-pals-0120b4",
+    "startDate": "2024-01-09T16:00:00.000Z",
+    "title": "Volley Pals"
   },
   {
     "discountPercentage": 50,
