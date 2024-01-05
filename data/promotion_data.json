@@ -28,6 +28,24 @@
   },
   {
     "discountPercentage": 50,
+    "endDate": "2024-02-06T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "1001-jigsaw-earth-chronicles-7b25fc",
+    "startDate": "2024-01-30T16:00:00.000Z",
+    "title": "1001 Jigsaw. Earth Chronicles"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-16T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "1001-jigsaw-home-sweet-home-1b1e16",
+    "startDate": "2024-01-09T16:00:00.000Z",
+    "title": "1001 Jigsaw. Home Sweet Home"
+  },
+  {
+    "discountPercentage": 50,
     "endDate": "2024-01-16T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 449,
@@ -162,6 +180,15 @@
     "title": "Alex Kidd in Miracle World DX"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-02-13T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "alices-jigsaw-wonderland-chronicles-8c6d0c",
+    "startDate": "2024-02-06T16:00:00.000Z",
+    "title": "Alice's Jigsaw. Wonderland Chronicles"
+  },
+  {
     "discountPercentage": 34,
     "endDate": "2024-02-20T13:00:00.000Z",
     "isFree": false,
@@ -256,7 +283,7 @@
     "endDate": "2024-01-16T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1619,
-    "slug": "96ca060c9f974f34b360104371332b84",
+    "slug": "baby-storm-426245",
     "startDate": "2024-01-09T16:00:00.000Z",
     "title": "Baby Storm"
   },
@@ -576,6 +603,15 @@
     "title": "Chicken Police - Paint it Red!"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-01-16T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "christmas-mahjong-50bcc6",
+    "startDate": "2024-01-09T16:00:00.000Z",
+    "title": "Christmas Mahjong"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -610,6 +646,24 @@
     "slug": "covid-carl-7dd371",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Covid Carl"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "crown-of-the-empire-86cf18",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Crown Of The Empire Collectors Edition"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-30T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "crown-of-the-empire-2-around-the-world-699782",
+    "startDate": "2024-01-23T16:00:00.000Z",
+    "title": "Crown of the Empire 2: Around the World Collectors Edition"
   },
   {
     "discountPercentage": 80,
@@ -1042,6 +1096,15 @@
     "slug": "gardenia-630482",
     "startDate": "2024-01-05T23:00:00.000Z",
     "title": "Gardenia"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "gems-of-the-aztecs-c88b67",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Gems of the Aztecs"
   },
   {
     "discountPercentage": 90,
@@ -1692,6 +1755,15 @@
     "title": "Mobilization"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-01-16T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "mokoko-x-e2b09d",
+    "startDate": "2024-01-09T16:00:00.000Z",
+    "title": "Mokoko X"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -1708,6 +1780,15 @@
     "slug": "moonlighter",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Moonlighter"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "mosaics-galore-4fbedf",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Mosaics Galore"
   },
   {
     "discountPercentage": 50,
@@ -1762,6 +1843,15 @@
     "slug": "mystery-solitaire-grimms-tales-244e2a",
     "startDate": "2024-01-09T16:00:00.000Z",
     "title": "Mystery Solitaire. Grimm's Tales"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "mystery-solitaire-the-black-raven-65336d",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Mystery Solitaire. The Black Raven"
   },
   {
     "discountPercentage": 66,
@@ -2113,6 +2203,24 @@
     "slug": "rimworld",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "RimWorld"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "royal-defense-invisible-threat-b39335",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Royal Defense - Invisible Threat"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-16T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "royal-roads-2-the-magic-box-18eae3",
+    "startDate": "2024-01-09T16:00:00.000Z",
+    "title": "Royal Roads 2: The Magic Box"
   },
   {
     "discountPercentage": 70,
@@ -2482,6 +2590,15 @@
     "slug": "stone-guardian-81fcc1",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Stone Guardian"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-01-16T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 359,
+    "slug": "strike-solitaire-e86661",
+    "startDate": "2024-01-09T16:00:00.000Z",
+    "title": "Strike Solitaire"
   },
   {
     "discountPercentage": 80,
