@@ -1746,6 +1746,15 @@
     "title": "Oli One: Sneak In"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 719,
+    "slug": "out-of-line-209cbb",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Out of Line"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-01-16T16:00:00.000Z",
     "isFree": false,
@@ -2104,6 +2113,15 @@
     "slug": "shadow-gambit-the-cursed-crew-0bca60",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Shadow Gambit: The Cursed Crew"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-02-20T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 539,
+    "slug": "shadows-price-for-our-sins-29e42e",
+    "startDate": "2024-02-13T16:00:00.000Z",
+    "title": "Shadows. Price For Our Sins"
   },
   {
     "discountPercentage": 80,
@@ -2520,6 +2538,15 @@
     "title": "Tennis Elbow Manager 2"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2024-01-16T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "thanksgiving-day-mosaic-dc698a",
+    "startDate": "2024-01-09T16:00:00.000Z",
+    "title": "Thanksgiving Day Mosaic"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -2671,6 +2698,15 @@
     "slug": "the-shape-of-things-dc5b26",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "The Shape of Things"
+  },
+  {
+    "discountPercentage": 65,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1299,
+    "slug": "the-spectrum-retreat",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "The Spectrum Retreat"
   },
   {
     "discountPercentage": 80,
@@ -2833,6 +2869,15 @@
     "slug": "warrior-kings-d07850",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Warrior Kings"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2024-02-26T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "worms-rumble",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Worms Rumble"
   },
   {
     "discountPercentage": 45,
