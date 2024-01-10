@@ -243,6 +243,15 @@
     "title": "ArcRunner"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "arcadegeddon",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Arcadegeddon"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2024-01-30T16:00:00.000Z",
     "isFree": false,
@@ -396,6 +405,15 @@
     "title": "Batora: Lost Haven"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-04-15T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "batora-lost-haven-1773c3",
+    "startDate": "2024-04-01T15:00:00.000Z",
+    "title": "Batora: Lost Haven"
+  },
+  {
     "discountPercentage": 35,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -504,12 +522,30 @@
     "title": "Blasphemous"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2024-05-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "blasphemous",
+    "startDate": "2024-04-29T15:00:00.000Z",
+    "title": "Blasphemous"
+  },
+  {
     "discountPercentage": 34,
     "endDate": "2024-02-26T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 2999,
     "slug": "blasphemous-2",
     "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Blasphemous 2"
+  },
+  {
+    "discountPercentage": 34,
+    "endDate": "2024-04-15T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "blasphemous-2",
+    "startDate": "2024-04-01T15:00:00.000Z",
     "title": "Blasphemous 2"
   },
   {
@@ -619,6 +655,15 @@
     "slug": "brothers-a-tale-of-two-sons",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Brothers - A Tale of Two Sons"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2024-02-20T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 199,
+    "slug": "buddy-and-friends-in-halloween-192190",
+    "startDate": "2024-02-13T16:00:00.000Z",
+    "title": "Buddy and Friends in Halloween"
   },
   {
     "discountPercentage": 80,
@@ -871,6 +916,15 @@
     "slug": "dinosaurs-mision-dino-camp-acded6",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "DINOSAURS: Mission Dino Camp"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-02-18T18:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "dnf-duel-07d055",
+    "startDate": "2024-02-05T18:00:00.000Z",
+    "title": "DNF Duel"
   },
   {
     "discountPercentage": 80,
@@ -1134,15 +1188,6 @@
     "title": "Falling Out"
   },
   {
-    "discountPercentage": 90,
-    "endDate": "2024-01-23T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 179,
-    "slug": "the-last-hope-atomic-bomb-crypto-war-d307f6",
-    "startDate": "2024-01-09T23:00:00.000Z",
-    "title": "Find the Oil Racing Edition"
-  },
-  {
     "discountPercentage": 25,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -1159,15 +1204,6 @@
     "slug": "fish-db1795",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Fish"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2024-01-23T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 269,
-    "slug": "fix-me-up-doc-dark-humor-9ebac0",
-    "startDate": "2024-01-09T23:00:00.000Z",
-    "title": "Fix Me Up Doc - Dark Humor"
   },
   {
     "discountPercentage": 80,
@@ -1332,6 +1368,15 @@
     "title": "Ghost Master"
   },
   {
+    "discountPercentage": 35,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "ghostbusters-spirits-unleashed ",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Ghostbusters: Spirits Unleashed Ecto Edition"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -1419,6 +1464,24 @@
     "originalPrice": 1799,
     "slug": "greak-memories-of-azur-e05a8d",
     "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Greak: Memories of Azur"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-04-15T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "greak-memories-of-azur-e05a8d",
+    "startDate": "2024-04-01T15:00:00.000Z",
+    "title": "Greak: Memories of Azur"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-06-03T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "greak-memories-of-azur-e05a8d",
+    "startDate": "2024-05-20T15:00:00.000Z",
     "title": "Greak: Memories of Azur"
   },
   {
@@ -1575,15 +1638,6 @@
     "title": "Huntdown"
   },
   {
-    "discountPercentage": 85,
-    "endDate": "2024-01-23T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 179,
-    "slug": "need-for-spirit-drink-and-drive-simulator-db9660",
-    "startDate": "2024-01-09T23:00:00.000Z",
-    "title": "I Need Spirit Drink and Drive Simulator"
-  },
-  {
     "discountPercentage": 90,
     "endDate": "2024-01-30T23:00:00.000Z",
     "isFree": false,
@@ -1701,6 +1755,24 @@
     "title": "Ironclads II American Civil War"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2024-01-23T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "island-cities-0a3026",
+    "startDate": "2024-01-16T16:00:00.000Z",
+    "title": "Island Cities"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2024-01-23T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "island-farmer-ce8ee6",
+    "startDate": "2024-01-16T16:00:00.000Z",
+    "title": "Island Farmer"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2024-01-30T03:00:00.000Z",
     "isFree": false,
@@ -1780,6 +1852,15 @@
     "slug": "kids-learn-e4a163",
     "startDate": "2024-01-16T16:00:00.000Z",
     "title": "Kids Learn"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2024-03-04T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2239,
+    "slug": "king-of-seas-646f95",
+    "startDate": "2024-02-19T16:00:00.000Z",
+    "title": "King of Seas"
   },
   {
     "discountPercentage": 70,
@@ -2106,6 +2187,15 @@
     "title": "Moving Out"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2024-04-15T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2299,
+    "slug": "moving-out",
+    "startDate": "2024-04-01T15:00:00.000Z",
+    "title": "Moving Out"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -2148,6 +2238,15 @@
     "originalPrice": 2499,
     "slug": "narita-boy",
     "startDate": "2024-02-26T16:00:00.000Z",
+    "title": "Narita Boy"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-04-29T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "narita-boy",
+    "startDate": "2024-04-15T15:00:00.000Z",
     "title": "Narita Boy"
   },
   {
@@ -2484,15 +2583,6 @@
     "title": "Prison City"
   },
   {
-    "discountPercentage": 87,
-    "endDate": "2024-01-23T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 269,
-    "slug": "project-first-contact-ff7fdc",
-    "startDate": "2024-01-09T23:00:00.000Z",
-    "title": "Project First Contact"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2024-01-23T16:00:00.000Z",
     "isFree": false,
@@ -2554,6 +2644,15 @@
     "slug": "return-of-red-riding-hood-enhanced-edition-3598e4",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Return of Red Riding Hood Enhanced Edition"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2024-01-22T23:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "revive-and-prosper-267559",
+    "startDate": "2024-01-15T01:00:00.000Z",
+    "title": "Revive and Prosper"
   },
   {
     "discountPercentage": 70,
@@ -2716,6 +2815,15 @@
     "slug": "sea-of-dreams-32035a",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Sea of Dreams"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2024-01-29T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "seaorama-world-of-shipping-ff5abb",
+    "startDate": "2024-01-22T18:00:00.000Z",
+    "title": "SeaOrama: World of Shipping"
   },
   {
     "discountPercentage": 80,
@@ -3117,7 +3225,7 @@
     "discountPercentage": 50,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": 1599,
+    "originalPrice": 1799,
     "slug": "superliminal",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Superliminal"
@@ -3508,6 +3616,15 @@
     "slug": "tormented-souls",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Tormented Souls"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1679,
+    "slug": "totally-accurate-battle-simulator",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Totally Accurate Battle Simulator"
   },
   {
     "discountPercentage": 80,
