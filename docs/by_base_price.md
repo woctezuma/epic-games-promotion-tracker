@@ -3,6 +3,7 @@
 |#|avatar-frontiers-of-pandora|Avatar: Frontiers of Pandora|69,99€|25|2024-01-16 16h|2024-01-23 16h|
 |#|the-mystery-of-the-moon-7f3e48|The Mystery Of The Moon|53,99€|80|2024-02-07 16h|2024-02-25 16h|
 |#|alan-wake-2|Alan Wake 2|49,99€|20|2024-02-09 16h|2024-02-12 16h|
+|#|dnf-duel-07d055|DNF Duel|49,99€|60|2024-02-05 18h|2024-02-18 18h|
 |#|miasma-chronicles|Miasma Chronicles|49,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|rims-racing|RiMS Racing|49,99€|70|2024-02-09 16h|2024-02-12 16h|
 |#|robocop-rogue-city|RoboCop: Rogue City|49,99€|30|2024-02-09 16h|2024-02-12 16h|
@@ -37,6 +38,7 @@
 |#|aven-colony|Aven Colony|29,99€|90|2024-02-26 16h|2024-03-11 16h|
 |#|aven-colony|Aven Colony|29,99€|90|2024-04-15 15h|2024-04-29 15h|
 |#|blasphemous-2|Blasphemous 2|29,99€|34|2024-02-09 16h|2024-02-26 16h|
+|#|blasphemous-2|Blasphemous 2|29,99€|34|2024-04-01 15h|2024-04-15 15h|
 |#|blood-bowl-3|Blood Bowl 3|29,99€|40|2024-02-09 16h|2024-02-12 16h|
 |#|chef-life-a-restaurant-simulator|Chef Life - A Restaurant Simulator|29,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|chernobylite|Chernobylite|29,99€|55|2024-02-09 16h|2024-02-12 16h|
@@ -65,7 +67,9 @@
 |#|railgrade|RAILGRADE|26,99€|35|2024-02-09 16h|2024-02-12 16h|
 |#|tennis-elbow-manager-2-17a1a0|Tennis Elbow Manager 2|26,99€|60|2024-01-16 16h|2024-01-23 16h|
 |#|batora-lost-haven-1773c3|Batora: Lost Haven|24,99€|50|2024-02-09 16h|2024-02-26 16h|
+|#|batora-lost-haven-1773c3|Batora: Lost Haven|24,99€|50|2024-04-01 15h|2024-04-15 15h|
 |#|blasphemous|Blasphemous|24,99€|75|2024-03-11 16h|2024-03-25 16h|
+|#|blasphemous|Blasphemous|24,99€|75|2024-04-29 15h|2024-05-13 15h|
 |#|born-of-bread-008e66|Born of Bread|24,99€|20|2024-01-17 18h|2024-01-24 18h|
 |#|genesis-alpha-one|Genesis Alpha One Deluxe Edition|24,99€|90|2024-02-09 16h|2024-02-26 16h|
 |#|genesis-alpha-one|Genesis Alpha One Deluxe Edition|24,99€|90|2024-04-01 15h|2024-04-15 15h|
@@ -74,6 +78,7 @@
 |#|horizon-chase-2|Horizon Chase 2|24,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|imagine-earth-7498e4|Imagine Earth|24,99€|55|2024-02-09 16h|2024-02-12 16h|
 |#|narita-boy|Narita Boy|24,99€|80|2024-02-26 16h|2024-03-11 16h|
+|#|narita-boy|Narita Boy|24,99€|80|2024-04-15 15h|2024-04-29 15h|
 |#|pc-building-simulator-2|PC Building Simulator 2|24,99€|25|2024-02-09 16h|2024-02-12 16h|
 |#|rogue-lords|Rogue Lords|24,99€|70|2024-02-09 16h|2024-02-12 16h|
 |#|superhot-mind-control-delete|SUPERHOT: Mind Control Delete|24,99€|60|2024-02-09 16h|2024-02-12 16h|
@@ -85,6 +90,7 @@
 |#|tank-warfare-tunisia-1943-62f6e9|Tank Warfare - Tunisia 1943|23,99€|70|2024-02-09 16h|2024-02-12 16h|
 |#|good-company|Good Company|22,99€|33|2024-02-09 16h|2024-02-12 16h|
 |#|moving-out|Moving Out|22,99€|75|2024-02-09 16h|2024-02-26 16h|
+|#|moving-out|Moving Out|22,99€|75|2024-04-01 15h|2024-04-15 15h|
 |#|overcooked-2|Overcooked! 2|22,99€|75|2024-02-09 16h|2024-02-26 16h|
 |#|overcooked-2|Overcooked! 2|22,99€|75|2024-04-01 15h|2024-04-15 15h|
 |#|superhot|SUPERHOT|22,99€|70|2024-02-09 16h|2024-02-12 16h|
@@ -92,6 +98,7 @@
 |#|fish-db1795|Fish|22,39€|50|2024-02-09 16h|2024-02-12 16h|
 |#|homeseek-243763|Homeseek|22,39€|30|2024-02-09 16h|2024-02-12 16h|
 |#|ikonei-island-an-earthlock-adventure-fa1620|Ikonei Island: An Earthlock Adventure|22,39€|20|2024-02-09 16h|2024-02-12 16h|
+|#|king-of-seas-646f95|King of Seas|22,39€|90|2024-02-19 16h|2024-03-04 16h|
 |#|timberborn|Timberborn|22,39€|20|2024-02-09 16h|2024-02-12 16h|
 |#|virtual-rides-3-2add3b|Virtual Rides 3|22,39€|30|2024-01-21 00h|2024-01-31 00h|
 |#|diplomacy-is-not-an-option-9c6bea|Diplomacy is Not an Option|20,99€|20|2024-02-09 16h|2024-02-12 16h|
@@ -120,6 +127,7 @@
 |#|poker-club-6e18ee|Poker Club|19,99€|45|2024-02-09 16h|2024-02-12 16h|
 |#|rogue-legacy-2|Rogue Legacy 2|19,99€|40|2024-02-09 16h|2024-02-12 16h|
 |#|rogue-spirit|Rogue Spirit|19,99€|40|2024-02-09 16h|2024-02-12 16h|
+|#|seaorama-world-of-shipping-ff5abb|SeaOrama: World of Shipping|19,99€|20|2024-01-22 18h|2024-01-29 17h|
 |#|the-dragoness-command-of-the-flame-b3b544|The Dragoness Command Of The Flame|19,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|the-escapists-2|The Escapists 2|19,99€|75|2024-02-09 16h|2024-02-26 16h|
 |#|the-escapists-2|The Escapists 2|19,99€|75|2024-04-01 15h|2024-04-15 15h|
@@ -137,13 +145,18 @@
 |#|bus-driver-simulator-186e62|Bus Driver Simulator|17,99€|80|2024-01-16 16h|2024-01-23 16h|
 |#|curse-of-the-sea-rats-8f28b1|Curse of the Sea Rats|17,99€|30|2024-02-09 16h|2024-02-12 16h|
 |#|ebola-3-2c79e9|EBOLA 3|17,99€|35|2024-02-13 16h|2024-02-20 16h|
+|#|ghostbusters-spirits-unleashed |Ghostbusters: Spirits Unleashed Ecto Edition|17,99€|35|2024-02-09 16h|2024-02-12 16h|
 |#|greak-memories-of-azur-e05a8d|Greak: Memories of Azur|17,99€|75|2024-02-09 16h|2024-02-26 16h|
+|#|greak-memories-of-azur-e05a8d|Greak: Memories of Azur|17,99€|75|2024-04-01 15h|2024-04-15 15h|
+|#|greak-memories-of-azur-e05a8d|Greak: Memories of Azur|17,99€|75|2024-05-20 15h|2024-06-03 15h|
 |#|horse-club-adventures-19e7a0|HORSE CLUB Adventures|17,99€|25|2024-02-09 16h|2024-02-12 16h|
 |#|horse-club-adventures-2-hazelwood-stories-b257d3|HORSE CLUB Adventures 2 - Hazelwood Stories|17,99€|25|2024-02-09 16h|2024-02-12 16h|
 |#|liberte-96a5e5|Liberte|17,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|potato-sack-racing-simulator-2024-3c3c83|Potato Sack Racing Simulator 2024|17,99€|35|2024-02-09 16h|2024-02-12 16h|
 |#|railbreak-f87a0c|Railbreak|17,99€|30|2024-01-23 16h|2024-01-30 16h|
+|#|revive-and-prosper-267559|Revive and Prosper|17,99€|20|2024-01-15 01h|2024-01-22 23h|
 |#|settlement-survival-923f57|Settlement Survival|17,99€|30|2024-02-09 16h|2024-02-12 16h|
+|#|superliminal|Superliminal|17,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|the-gap-e8d40c|The Gap|17,99€|25|2024-01-25 17h|2024-02-01 17h|
 |#|victorian-admirals-marianas-incident-1887-7d4e70|Victorian Admirals Marianas Incident 1887|17,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|wytchwood|Wytchwood|17,49€|45|2024-02-09 16h|2024-02-12 16h|
@@ -151,6 +164,7 @@
 |#|foreclosed|FORECLOSED|16,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|lego-builders-journey|LEGO® Builder's Journey|16,99€|66|2024-02-09 16h|2024-02-12 16h|
 |#|anodyne-2-return-to-dust|Anodyne 2: Return To Dust|16,79€|50|2024-02-09 16h|2024-02-12 16h|
+|#|totally-accurate-battle-simulator|Totally Accurate Battle Simulator|16,79€|50|2024-02-09 16h|2024-02-12 16h|
 |#|its-a-wrap-f392ae|It's a Wrap!|16,19€|30|2024-02-09 16h|2024-02-12 16h|
 |#|the-fabulous-fear-machine-8e7c6b|The Fabulous Fear Machine|16,19€|25|2024-02-09 16h|2024-02-12 16h|
 |#|abzu|ABZU|15,99€|75|2024-02-09 16h|2024-02-12 16h|
@@ -168,7 +182,6 @@
 |#|sail-forth-51847e|Sail Forth|15,99€|100|2024-01-11 16h|2024-01-18 16h|
 |#|sephonie-6ab6f7|Sephonie|15,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|spirit-of-the-north-f58a66|Spirit of the North|15,99€|75|2024-02-09 16h|2024-02-12 16h|
-|#|superliminal|Superliminal|15,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|the-captain|The Captain|15,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|time-on-frog-island-b3ad0d|Time on Frog Island|15,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|untitled-goose-game|Untitled Goose Game|15,99€|50|2024-02-09 16h|2024-02-12 16h|
@@ -204,6 +217,7 @@
 |#|monster-harvest-75f018|Monster Harvest|13,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|n-verlore-verstand-1d7f5b|'n Verlore Verstand|13,49€|90|2024-02-09 16h|2024-02-12 16h|
 |#|1971-indian-naval-front-9cc046|1971 Indian Naval Front|13,49€|40|2024-01-12 18h|2024-01-19 18h|
+|#|arcadegeddon|Arcadegeddon|13,49€|50|2024-02-09 16h|2024-02-12 16h|
 |#|deadwater-saloon-391b9d|Deadwater Saloon|13,49€|70|2024-02-09 16h|2024-02-12 16h|
 |#|ebola-2-b61221|EBOLA 2|13,49€|35|2024-02-13 16h|2024-02-20 16h|
 |#|falling-out-cb0814|Falling Out|13,49€|60|2024-02-09 16h|2024-02-12 16h|
@@ -386,22 +400,21 @@
 |#|supfly-delivery-simulator-82d2fd|Supfly Delivery Simulator|3,59€|30|2024-02-09 16h|2024-02-12 16h|
 |#|busway-islands-puzzle-91287d|Busway Islands - Puzzle|2,69€|40|2024-01-16 16h|2024-01-23 16h|
 |#|entomophobia-5e766c|Entomophobia|2,69€|20|2024-01-15 18h|2024-01-22 18h|
-|#|fix-me-up-doc-dark-humor-9ebac0|Fix Me Up Doc - Dark Humor|2,69€|90|2024-01-09 23h|2024-01-23 23h|
 |#|hanoi-puzzles-solid-match-6a9e0c|Hanoi Puzzles - Solid Match|2,69€|25|2024-02-09 16h|2024-02-12 16h|
 |#|need-for-spirit-offroad-edition-7eee16|I Need Spirit! Off-Road Edition|2,69€|90|2024-01-16 23h|2024-01-30 23h|
 |#|mahjong-royal-towers-e327ab|Mahjong Royal Towers|2,69€|30|2024-02-09 16h|2024-02-12 16h|
 |#|play-with-me-escape-room-586cc4|Play with Me - Escape Room|2,69€|80|2024-02-09 16h|2024-02-24 14h|
-|#|project-first-contact-ff7fdc|Project First Contact|2,69€|87|2024-01-09 23h|2024-01-23 23h|
 |#|return-of-red-riding-hood-enhanced-edition-3598e4|Return of Red Riding Hood Enhanced Edition|2,69€|50|2024-02-09 16h|2024-02-12 16h|
 |#|sea-of-dreams-32035a|Sea of Dreams|2,69€|30|2024-02-09 16h|2024-02-12 16h|
 |#|jampjjj-7c830e|maze horror～迷宮ホラー～|2,19€|50|2024-01-15 15h|2024-01-31 15h|
+|#|buddy-and-friends-in-halloween-192190|Buddy and Friends in Halloween|1,99€|30|2024-02-13 16h|2024-02-20 16h|
 |#|kao-the-kangaroo-2000-rerelease-1b53f5|Kao the Kangaroo - 2000 re-release|1,99€|50|2024-02-13 16h|2024-02-20 16h|
 |#|kao-the-kangaroo-mystery-of-the-volcano-4b433a|Kao the Kangaroo - Mystery of the Volcano|1,99€|50|2024-02-13 16h|2024-02-20 16h|
 |#|kao-the-kangaroo-round-2-5d4d25|Kao the Kangaroo - Round 2|1,99€|50|2024-02-13 16h|2024-02-20 16h|
 |#|bad-rats-show-1b74cf|Bad Rats Show|1,79€|80|2024-02-09 16h|2024-02-12 16h|
 |#|evalinathe-sorceress-a9a60a|Evalina The Sorceress|1,79€|90|2024-01-16 16h|2024-01-23 16h|
-|#|the-last-hope-atomic-bomb-crypto-war-d307f6|Find the Oil Racing Edition|1,79€|90|2024-01-09 23h|2024-01-23 23h|
-|#|need-for-spirit-drink-and-drive-simulator-db9660|I Need Spirit Drink and Drive Simulator|1,79€|85|2024-01-09 23h|2024-01-23 23h|
+|#|island-cities-0a3026|Island Cities|1,79€|30|2024-01-16 16h|2024-01-23 16h|
+|#|island-farmer-ce8ee6|Island Farmer|1,79€|30|2024-01-16 16h|2024-01-23 16h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|70|2024-01-11 22h|2024-01-30 22h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|75|2024-02-29 22h|2024-03-17 22h|
 |#|space-war-infinity-024a8f|SPACE WAR - INFINITY|1,79€|50|2024-01-30 16h|2024-02-06 16h|
