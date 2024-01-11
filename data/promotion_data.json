@@ -2241,6 +2241,15 @@
     "title": "Mystery Solitaire. The Black Raven"
   },
   {
+    "discountPercentage": 25,
+    "endDate": "2024-01-31T03:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "ninja-kato-1-47e118",
+    "startDate": "2024-01-22T03:00:00.000Z",
+    "title": "NINJA KATO 1"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-03-11T16:00:00.000Z",
     "isFree": false,
