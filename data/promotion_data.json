@@ -810,6 +810,15 @@
     "title": "Corrupt - Political Simulator"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-01-17T08:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "counterattackuprising-06aed8",
+    "startDate": "2024-01-12T02:00:00.000Z",
+    "title": "CounterAttack: Uprising"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2024-01-23T16:00:00.000Z",
     "isFree": false,
@@ -1240,15 +1249,6 @@
     "slug": "naval-combat-package-34e444",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Fleet Command"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2024-01-20T00:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1349,
-    "slug": "for-the-warp-b5c468",
-    "startDate": "2024-01-11T00:00:00.000Z",
-    "title": "For The Warp"
   },
   {
     "discountPercentage": 25,
