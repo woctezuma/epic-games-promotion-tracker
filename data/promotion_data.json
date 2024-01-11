@@ -162,6 +162,15 @@
     "title": "Ageless"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-01-23T14:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "aircraft-carrier-survival-769456",
+    "startDate": "2024-01-17T14:00:00.000Z",
+    "title": "Aircraft Carrier Survival"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
