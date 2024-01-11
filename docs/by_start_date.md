@@ -1,9 +1,9 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|for-the-warp-b5c468|For The Warp|13,49€|50|2024-01-11 00h|2024-01-20 00h|
 |#|sail-forth-51847e|Sail Forth|15,99€|100|2024-01-11 16h|2024-01-18 16h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|70|2024-01-11 22h|2024-01-30 22h|
 |#|a-second-before-the-war-55b226|A Second Before The War|5,39€|20|2024-01-12 02h|2024-02-06 02h|
+|#|counterattackuprising-06aed8|CounterAttack: Uprising|13,49€|40|2024-01-12 02h|2024-01-17 08h|
 |#|it-follows-you-b11f3e|It follows you|1,59€|60|2024-01-12 03h|2024-01-30 03h|
 |#|1971-indian-naval-front-9cc046|1971 Indian Naval Front|13,49€|40|2024-01-12 18h|2024-01-19 18h|
 |#|treasure-of-the-giantess-60391f|Treasure Of The Giantess|8,99€|30|2024-01-12 21h|2024-01-26 22h|
