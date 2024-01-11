@@ -396,6 +396,7 @@
 |#|the-crows-eye-af7d60|The Crows Eye|7,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|the-darkside-detective-02fd5a|The Darkside Detective|13,49€|60|2024-02-09 16h|2024-02-12 16h|
 |#|the-darkside-detective-a-fumble-in-the-dark-174fcf|The Darkside Detective A Fumble in the Dark|13,49€|45|2024-02-09 16h|2024-02-12 16h|
+|#|the-death-into-trouble-271916|The Death Into Trouble|4,49€|20|2024-01-19 17h|2024-01-26 16h|
 |#|the-dragoness-command-of-the-flame-b3b544|The Dragoness Command Of The Flame|19,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|the-drone-racing-league-simulator|The Drone Racing League®|7,99€|50|2024-01-16 16h|2024-01-23 16h|
 |#|royal-defense-d046db|The Empress of Mahjong|4,49€|40|2024-02-20 16h|2024-02-27 16h|
