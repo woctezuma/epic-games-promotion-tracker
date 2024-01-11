@@ -7,6 +7,7 @@
 |#|revive-and-prosper-267559|Revive and Prosper|17,99€|20|2024-01-15 01h|2024-01-22 23h|
 |#|60-parsecs-0481c5|60 Parsecs!|9,99€|50|2024-01-15 23h|2024-01-23 11h|
 |#|60-seconds-reatomized-91ffa3|60 Seconds! Reatomized|9,99€|50|2024-01-15 23h|2024-01-23 11h|
+|#|aircraft-carrier-survival-769456|Aircraft Carrier Survival|17,99€|40|2024-01-17 14h|2024-01-23 14h|
 |#|avatar-frontiers-of-pandora|Avatar: Frontiers of Pandora|69,99€|25|2024-01-16 16h|2024-01-23 16h|
 |#|balloon-strike-c9a1ac|Balloon Strike|4,49€|80|2024-01-16 16h|2024-01-23 16h|
 |#|bridge-constructor-c3ef67|Bridge Constructor|9,99€|88|2024-01-16 16h|2024-01-23 16h|

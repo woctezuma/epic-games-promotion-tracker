@@ -62,6 +62,7 @@
 |#|mechdefender-fb9793|MechDefender|3,59€|90|2024-01-16 23h|2024-01-30 23h|
 |#|obelixes-tower-defense-0efb67|Secret Agent 001|1,79€|90|2024-01-16 23h|2024-01-30 23h|
 |#|two-skateboards-driving-simulator-c0ea1f|Two Skateboards Driving Simulator|1,79€|85|2024-01-16 23h|2024-01-30 23h|
+|#|aircraft-carrier-survival-769456|Aircraft Carrier Survival|17,99€|40|2024-01-17 14h|2024-01-23 14h|
 |#|born-of-bread-008e66|Born of Bread|24,99€|20|2024-01-17 18h|2024-01-24 18h|
 |#|turnip-boy-robs-a-bank-3fae0e|Turnip Boy Robs a Bank|13,49€|10|2024-01-18 15h|2024-01-25 15h|
 |#|love-n-life-lucky-teacher-09bd18|Love n Life: Lucky Teacher|5,39€|10|2024-01-19 10h|2024-01-26 10h|
