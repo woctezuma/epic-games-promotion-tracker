@@ -121,6 +121,7 @@
 |#|disco-elysium|Disco Elysium - The Final Cut|39,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|dizzy-fight-7bbfe7|Dizzy Fight|7,19€|40|2024-01-16 16h|2024-01-23 16h|
 |#|dnf-duel-07d055|DNF Duel|49,99€|60|2024-02-05 18h|2024-02-18 18h|
+|#|dojoran-1e6fb7|Dojoran|4,49€|50|2024-02-09 16h|2024-02-12 16h|
 |#|doki-doki-literature-club-plus|Doki Doki Literature Club Plus!|12,49€|25|2024-02-09 16h|2024-02-12 16h|
 |#|dream-magic-will-358429|Dream magic will|3,59€|50|2024-02-09 16h|2024-02-12 16h|
 |#|dumpy-and-bumpy-86c9d7|Dumpy and Bumpy|3,99€|30|2024-02-09 16h|2024-02-12 16h|

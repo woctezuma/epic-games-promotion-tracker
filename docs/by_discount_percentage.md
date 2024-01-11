@@ -258,6 +258,7 @@
 |#|crown-of-the-empire-2-around-the-world-699782|Crown of the Empire 2: Around the World Collectors Edition|4,49€|50|2024-01-23 16h|2024-01-30 16h|
 |#|cyberpunk-2077|Cyberpunk 2077|59,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|death-stranding-directors-cut|DEATH STRANDING DIRECTOR'S CUT|39,99€|50|2024-02-09 16h|2024-02-12 16h|
+|#|dojoran-1e6fb7|Dojoran|4,49€|50|2024-02-09 16h|2024-02-12 16h|
 |#|dream-magic-will-358429|Dream magic will|3,59€|50|2024-02-09 16h|2024-02-12 16h|
 |#|eden-island-8cd344|Eden Island|8,99€|50|2024-02-03 12h|2024-02-17 15h|
 |#|eiyuden-chronicle-rising|Eiyuden Chronicle: Rising|14,99€|50|2024-02-09 16h|2024-02-12 16h|
