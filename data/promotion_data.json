@@ -2097,6 +2097,15 @@
     "title": "Locks Quest"
   },
   {
+    "discountPercentage": 10,
+    "endDate": "2024-01-26T10:30:00.000Z",
+    "isFree": false,
+    "originalPrice": 539,
+    "slug": "love-n-life-lucky-teacher-09bd18",
+    "startDate": "2024-01-19T10:30:00.000Z",
+    "title": "Love n Life: Lucky Teacher"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
