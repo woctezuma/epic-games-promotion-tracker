@@ -75,6 +75,7 @@
 |#|indoorlands-3b2356|Indoorlands|17,09€|30|2024-01-21 00h|2024-01-31 00h|
 |#|tales-of-the-tiny-planet-ab9e11|Tales of the Tiny Planet|8,99€|30|2024-01-21 00h|2024-01-31 00h|
 |#|virtual-rides-3-2add3b|Virtual Rides 3|22,39€|30|2024-01-21 00h|2024-01-31 00h|
+|#|ninja-kato-1-47e118|NINJA KATO 1|1,79€|25|2024-01-22 03h|2024-01-31 03h|
 |#|jampjjj-7c830e|maze horror～迷宮ホラー～|2,19€|50|2024-01-15 15h|2024-01-31 15h|
 |#|the-gap-e8d40c|The Gap|17,99€|25|2024-01-25 17h|2024-02-01 17h|
 |#|a-second-before-the-war-55b226|A Second Before The War|5,39€|20|2024-01-12 02h|2024-02-06 02h|

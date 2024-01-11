@@ -68,6 +68,7 @@
 |#|tales-of-the-tiny-planet-ab9e11|Tales of the Tiny Planet|8,99€|30|2024-01-21 00h|2024-01-31 00h|
 |#|virtual-rides-3-2add3b|Virtual Rides 3|22,39€|30|2024-01-21 00h|2024-01-31 00h|
 |#|life-after-death-b4e964|Life After Death|4,49€|40|2024-01-22 01h|2024-02-10 01h|
+|#|ninja-kato-1-47e118|NINJA KATO 1|1,79€|25|2024-01-22 03h|2024-01-31 03h|
 |#|seaorama-world-of-shipping-ff5abb|SeaOrama: World of Shipping|19,99€|20|2024-01-22 18h|2024-01-29 17h|
 |#|argonauts-agency-missing-daughter-1ca64b|Argonauts Agency 6: Missing Daughter|4,49€|30|2024-01-23 16h|2024-01-30 16h|
 |#|bio-inc-redemption-280fe5|Bio Inc. Redemption|10,79€|40|2024-01-23 16h|2024-01-30 16h|

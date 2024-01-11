@@ -417,6 +417,7 @@
 |#|evalinathe-sorceress-a9a60a|Evalina The Sorceress|1,79€|90|2024-01-16 16h|2024-01-23 16h|
 |#|island-cities-0a3026|Island Cities|1,79€|30|2024-01-16 16h|2024-01-23 16h|
 |#|island-farmer-ce8ee6|Island Farmer|1,79€|30|2024-01-16 16h|2024-01-23 16h|
+|#|ninja-kato-1-47e118|NINJA KATO 1|1,79€|25|2024-01-22 03h|2024-01-31 03h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|70|2024-01-11 22h|2024-01-30 22h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|75|2024-02-29 22h|2024-03-17 22h|
 |#|space-war-infinity-024a8f|SPACE WAR - INFINITY|1,79€|50|2024-01-30 16h|2024-02-06 16h|
