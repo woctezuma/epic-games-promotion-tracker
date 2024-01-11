@@ -126,6 +126,15 @@
     "title": "APICO"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "absolute-tactics-ca91e4",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Absolute Tactics"
+  },
+  {
     "discountPercentage": 43,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -286,6 +295,15 @@
     "slug": "asterix-and-obelix-heroes",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Asterix and Obelix Heroes"
+  },
+  {
+    "discountPercentage": 15,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2239,
+    "slug": "astrea-six-sided-oracles-33c949",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Astrea Six Sided Oracles"
   },
   {
     "discountPercentage": 80,
@@ -747,6 +765,15 @@
     "title": "Chess Ultra"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "chicken-assassin-reloaded-279863",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Chicken Assassin Reloaded"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-01-30T16:00:00.000Z",
     "isFree": false,
@@ -990,6 +1017,15 @@
     "title": "Delivery from the Pain"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "desert-child-be4072",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Desert Child"
+  },
+  {
     "discountPercentage": 22,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -1132,6 +1168,15 @@
     "slug": "epic-world-hunt-for-quest-4500b1",
     "startDate": "2024-01-16T16:00:00.000Z",
     "title": "Epic World - Hunt For Quest"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1399,
+    "slug": "etherborn-00f378",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Etherborn"
   },
   {
     "discountPercentage": 90,
@@ -1285,6 +1330,15 @@
     "slug": "ginsha-604f11",
     "startDate": "2024-02-19T16:00:00.000Z",
     "title": "GINSHA"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "grime",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "GRIME"
   },
   {
     "discountPercentage": 75,
@@ -1447,6 +1501,15 @@
     "slug": "going-under",
     "startDate": "2024-04-15T15:00:00.000Z",
     "title": "Going Under"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "gone-viral-c60635",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Gone Viral"
   },
   {
     "discountPercentage": 33,
@@ -1852,6 +1915,24 @@
     "slug": "kao-the-kangaroo-round-2-5d4d25",
     "startDate": "2024-02-13T16:00:00.000Z",
     "title": "Kao the Kangaroo - Round 2"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "kardboard-kings-0962f8",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Kardboard Kings"
+  },
+  {
+    "discountPercentage": 55,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 159,
+    "slug": "keep-in-mind-remastered-6ee77a",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Keep in Mind Remastered"
   },
   {
     "discountPercentage": 80,
@@ -2637,6 +2718,15 @@
     "title": "Railbreak"
   },
   {
+    "discountPercentage": 55,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2239,
+    "slug": "rain-world-4c860c",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Rain World"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -3123,6 +3213,15 @@
     "title": "Spaceport Trading Company"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "spinch-239b03",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Spinch"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -3139,6 +3238,15 @@
     "slug": "spirit-of-the-north-f58a66",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Spirit of the North"
+  },
+  {
+    "discountPercentage": 85,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "star-vikings-forever-215b84",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Star Vikings Forever"
   },
   {
     "discountPercentage": 80,
@@ -3402,6 +3510,33 @@
     "title": "The Captain"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "the-crows-eye-af7d60",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "The Crows Eye"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "the-darkside-detective-02fd5a",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "The Darkside Detective"
+  },
+  {
+    "discountPercentage": 45,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "the-darkside-detective-a-fumble-in-the-dark-174fcf",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "The Darkside Detective A Fumble in the Dark"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -3544,6 +3679,15 @@
     "slug": "the-magnificent-trufflepigs",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "The Magnificent Trufflepigs"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "the-metronomicon-766679",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "The Metronomicon: Slay the Dance Floor"
   },
   {
     "discountPercentage": 80,
@@ -3717,6 +3861,15 @@
     "title": "Two Skateboards Driving Simulator"
   },
   {
+    "discountPercentage": 10,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "universe-for-sale-05c53e",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Universe for Sale"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -3870,6 +4023,15 @@
     "title": "Werewolf: The Apocalypse \u2013 Earthblood"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "whispering-willows-bde110",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Whispering Willows"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -3958,6 +4120,15 @@
     "slug": "next-game-c139be",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Zi"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "zoeti-3ccef9",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Zoeti"
   },
   {
     "discountPercentage": 80,
