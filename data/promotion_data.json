@@ -477,6 +477,15 @@
     "title": "Before We Leave"
   },
   {
+    "discountPercentage": 35,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1079,
+    "slug": "behind-the-frame-the-finest-scenery",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Behind the Frame: The Finest Scenery"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -2302,6 +2311,15 @@
     "slug": "mutant-year-zero",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Mutant Year Zero: Road to Eden"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "mutazione",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Mutazione"
   },
   {
     "discountPercentage": 70,
