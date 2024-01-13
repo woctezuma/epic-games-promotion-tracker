@@ -1,6 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|1971-indian-naval-front-9cc046|1971 Indian Naval Front|13,49€|40|2024-01-12 18h|2024-01-19 18h|
 |#|entomophobia-5e766c|Entomophobia|2,69€|20|2024-01-15 18h|2024-01-22 18h|
 |#|revive-and-prosper-267559|Revive and Prosper|17,99€|20|2024-01-15 01h|2024-01-22 23h|
 |#|60-parsecs-0481c5|60 Parsecs!|9,99€|50|2024-01-15 23h|2024-01-23 11h|
@@ -42,6 +41,7 @@
 |#|mountain-racing-47178d|Mountain Racing|4,49€|80|2024-01-16 16h|2024-01-23 16h|
 |#|outcore-desktop-adventure-eb3aff|Outcore - Desktop Adventure|8,99€|30|2024-01-16 16h|2024-01-23 16h|
 |#|quiz-time-e4daaa|Quiz Time|8,99€|80|2024-01-16 16h|2024-01-23 16h|
+|#|reef-escape-22dfdd|Reef Escape|13,49€|25|2024-01-16 16h|2024-01-23 16h|
 |#|sherlock-holmes-chapter-one|Sherlock Holmes Chapter One|44,99€|80|2024-01-16 16h|2024-01-23 16h|
 |#|sherlock-holmes-the-awakened|Sherlock Holmes The Awakened|39,99€|50|2024-01-16 16h|2024-01-23 16h|
 |#|silver-chains-0d3bd1|Silver Chains|24,99€|90|2024-01-16 16h|2024-01-23 16h|
@@ -58,7 +58,6 @@
 |#|love-65c4d0|LOVE|2,69€|100|2024-01-18 16h|2024-01-25 16h|
 |#|love-n-life-lucky-teacher-09bd18|Love n Life: Lucky Teacher|5,39€|10|2024-01-19 10h|2024-01-26 10h|
 |#|the-death-into-trouble-271916|The Death Into Trouble|4,49€|20|2024-01-19 17h|2024-01-26 16h|
-|#|treasure-of-the-giantess-60391f|Treasure Of The Giantess|8,99€|30|2024-01-12 21h|2024-01-26 22h|
 |#|seaorama-world-of-shipping-ff5abb|SeaOrama: World of Shipping|19,99€|20|2024-01-22 18h|2024-01-29 17h|
 |#|argonauts-agency-missing-daughter-1ca64b|Argonauts Agency 6: Missing Daughter|4,49€|30|2024-01-23 16h|2024-01-30 16h|
 |#|bio-inc-redemption-280fe5|Bio Inc. Redemption|10,79€|40|2024-01-23 16h|2024-01-30 16h|
@@ -419,11 +418,6 @@
 |#|shop-tycoon-prepare-your-wallet-e705ba|Shop Tycoon - Prepare Your Wallet|5,39€|85|2024-02-09 16h|2024-02-24 16h|
 |#|the-impossible-fcebf7|THE IMPOSSIBLE|4,49€|85|2024-02-09 16h|2024-02-24 16h|
 |#|the-mystery-of-the-moon-7f3e48|The Mystery Of The Moon|53,99€|80|2024-02-07 16h|2024-02-25 16h|
-|#|automachef|Automachef|14,99€|80|2024-02-09 16h|2024-02-26 16h|
-|#|before-we-leave|Before We Leave|17,99€|75|2024-02-09 16h|2024-02-26 16h|
-|#|moving-out|Moving Out|22,99€|75|2024-02-09 16h|2024-02-26 16h|
-|#|worms-rumble|Worms Rumble|14,99€|90|2024-02-09 16h|2024-02-26 16h|
-|#|yokus-island-express|Yoku's Island Express|19,99€|80|2024-02-09 16h|2024-02-26 16h|
 |#|royal-roads-2-the-magic-box-18eae3|Royal Roads 2: The Magic Box|4,49€|30|2024-02-20 16h|2024-02-27 16h|
 |#|thanksgiving-day-mosaic-dc698a|Thanksgiving Day Mosaic|4,49€|30|2024-02-20 16h|2024-02-27 16h|
 |#|royal-defense-d046db|The Empress of Mahjong|4,49€|40|2024-02-20 16h|2024-02-27 16h|
@@ -436,11 +430,6 @@
 |#|nextbots-in-the-backrooms-b5677b|Nextbots In The Backrooms|0,89€|50|2024-02-15 22h|2024-03-05 22h|
 |#|trex-dinosaur-game-d30355|T-Rex Dinosaur Game|0,89€|50|2024-02-17 22h|2024-03-05 22h|
 |#|car-mechanic-city-driving-4996c5|Car Mechanic - City Driving|0,89€|50|2024-02-19 22h|2024-03-07 22h|
-|#|ageless|Ageless|14,99€|80|2024-02-26 16h|2024-03-11 16h|
-|#|aven-colony|Aven Colony|29,99€|90|2024-02-26 16h|2024-03-11 16h|
-|#|going-under|Going Under|19,99€|75|2024-02-26 16h|2024-03-11 16h|
-|#|hammerting|Hammerting|24,99€|90|2024-02-26 16h|2024-03-11 16h|
-|#|narita-boy|Narita Boy|24,99€|80|2024-02-26 16h|2024-03-11 16h|
 |#|overtop-ed5e49|Overtop|4,49€|90|2024-02-24 22h|2024-03-14 22h|
 |#|polygon-survival-2374fc|Polygon Survival|0,89€|50|2024-02-29 22h|2024-03-15 22h|
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2024-02-25 22h|2024-03-15 22h|
@@ -449,7 +438,6 @@
 |#|saboteur-ii-avenging-angel-33e83c|Saboteur II Avenging Angel|7,19€|10|2024-03-05 23h|2024-03-19 23h|
 |#|saboteur-sio-123236|Saboteur SiO|9,89€|10|2024-03-05 23h|2024-03-19 23h|
 |#|saboteur-f3d01d|Saboteur!|7,19€|10|2024-03-05 23h|2024-03-19 23h|
-|#|blasphemous|Blasphemous|24,99€|75|2024-03-11 16h|2024-03-25 16h|
 |#|boltbreak-c2bf02|BoltBreak|5,39€|16|2024-03-01 07h|2024-03-30 22h|
 |#|batora-lost-haven-1773c3|Batora: Lost Haven|24,99€|50|2024-03-18 16h|2024-04-01 15h|
 |#|blasphemous-2|Blasphemous 2|29,99€|34|2024-03-18 16h|2024-04-01 15h|
@@ -462,21 +450,11 @@
 |#|birch-simulator-21969e|Birch Simulator|0,89€|50|2024-03-17 22h|2024-04-03 22h|
 |#|life-after-death-b4e964|Life After Death|4,49€|40|2024-03-11 01h|2024-04-04 00h|
 |#|gray-dawn-a0cc44|Gray Dawn|13,49€|50|2024-03-22 16h|2024-04-05 15h|
-|#|automachef|Automachef|14,99€|80|2024-04-01 15h|2024-04-15 15h|
-|#|before-we-leave|Before We Leave|17,99€|75|2024-04-01 15h|2024-04-15 15h|
-|#|moving-out|Moving Out|22,99€|75|2024-04-01 15h|2024-04-15 15h|
-|#|worms-rumble|Worms Rumble|14,99€|90|2024-04-01 15h|2024-04-15 15h|
-|#|yokus-island-express|Yoku's Island Express|19,99€|80|2024-04-01 15h|2024-04-15 15h|
+|#|king-of-seas-646f95|King of Seas|22,39€|90|2024-04-08 15h|2024-04-22 15h|
 |#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2024-04-05 22h|2024-04-25 22h|
-|#|ageless|Ageless|14,99€|80|2024-04-15 15h|2024-04-29 15h|
-|#|aven-colony|Aven Colony|29,99€|90|2024-04-15 15h|2024-04-29 15h|
-|#|going-under|Going Under|19,99€|75|2024-04-15 15h|2024-04-29 15h|
-|#|hammerting|Hammerting|24,99€|90|2024-04-15 15h|2024-04-29 15h|
-|#|narita-boy|Narita Boy|24,99€|80|2024-04-15 15h|2024-04-29 15h|
 |#|overcooked|Overcooked|15,99€|80|2024-04-15 15h|2024-04-29 15h|
 |#|overtop-ed5e49|Overtop|4,49€|90|2024-04-15 22h|2024-05-03 22h|
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2024-04-15 22h|2024-05-03 22h|
-|#|blasphemous|Blasphemous|24,99€|75|2024-04-29 15h|2024-05-13 15h|
 |#|birch-simulator-21969e|Birch Simulator|0,89€|50|2024-05-04 22h|2024-05-19 22h|
 |#|greak-memories-of-azur-e05a8d|Greak: Memories of Azur|17,99€|75|2024-05-06 15h|2024-05-20 15h|
 |#|skotos-455463|Skotos|8,99€|30|2024-05-01 06h|2024-05-30 06h|
