@@ -1332,6 +1332,60 @@
     "title": "Fleet Command"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2024-02-14T08:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 539,
+    "slug": "forest-fire-b4bb7e",
+    "startDate": "2024-02-01T07:00:00.000Z",
+    "title": "Forest Fire"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2024-04-14T07:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 539,
+    "slug": "forest-fire-b4bb7e",
+    "startDate": "2024-04-01T07:00:00.000Z",
+    "title": "Forest Fire"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2024-06-14T07:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 539,
+    "slug": "forest-fire-b4bb7e",
+    "startDate": "2024-06-01T07:00:00.000Z",
+    "title": "Forest Fire"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2024-08-14T07:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 539,
+    "slug": "forest-fire-b4bb7e",
+    "startDate": "2024-08-01T07:00:00.000Z",
+    "title": "Forest Fire"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2024-10-14T07:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 539,
+    "slug": "forest-fire-b4bb7e",
+    "startDate": "2024-10-01T07:00:00.000Z",
+    "title": "Forest Fire"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2024-12-30T07:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 539,
+    "slug": "forest-fire-b4bb7e",
+    "startDate": "2024-12-15T07:00:00.000Z",
+    "title": "Forest Fire"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
