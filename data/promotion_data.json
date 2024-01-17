@@ -648,15 +648,6 @@
     "title": "Boomerang X"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2024-01-24T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2499,
-    "slug": "born-of-bread-008e66",
-    "startDate": "2024-01-17T18:00:00.000Z",
-    "title": "Born of Bread"
-  },
-  {
     "discountPercentage": 30,
     "endDate": "2024-02-27T16:00:00.000Z",
     "isFree": false,
@@ -709,15 +700,6 @@
     "slug": "cataire-6ce6b7",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "CATAIRE"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2024-01-24T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 179,
-    "slug": "cyberpunkai-and-neon-726408",
-    "startDate": "2024-01-17T17:00:00.000Z",
-    "title": "CYBER BACKROOM"
   },
   {
     "discountPercentage": 50,
@@ -2239,6 +2221,15 @@
     "slug": "mcpixel-3-fae9c2",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "McPixel 3"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 975,
+    "slug": "melvor-idle-b6a9b3",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Melvor Idle"
   },
   {
     "discountPercentage": 60,
