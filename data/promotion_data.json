@@ -1917,6 +1917,15 @@
     "title": "Into the Breach"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2024-03-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "iron-heart-7b7727",
+    "startDate": "2024-02-27T16:00:00.000Z",
+    "title": "Iron Heart Steam Tower"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -2266,6 +2275,15 @@
     "slug": "mahjong-royal-towers-e327ab",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Mahjong Royal Towers"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2024-03-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "mahjong-world-contest-2-0d946a",
+    "startDate": "2024-02-27T16:00:00.000Z",
+    "title": "Mahjong World Contest 2"
   },
   {
     "discountPercentage": 30,
@@ -4033,6 +4051,15 @@
   },
   {
     "discountPercentage": 20,
+    "endDate": "2024-03-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "the-death-into-trouble-271916",
+    "startDate": "2024-02-27T16:00:00.000Z",
+    "title": "The Death Into Trouble"
+  },
+  {
+    "discountPercentage": 20,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1999,
@@ -4129,6 +4156,15 @@
     "slug": "the-invincible",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "The Invincible"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-02-27T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "the-lamplighters-league",
+    "startDate": "2024-02-20T16:00:00.000Z",
+    "title": "The Lamplighters League"
   },
   {
     "discountPercentage": 50,
