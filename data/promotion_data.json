@@ -1026,6 +1026,15 @@
     "title": "Death's Door"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "deliver-us-the-moon",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Deliver Us The Moon"
+  },
+  {
     "discountPercentage": 55,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -1339,6 +1348,15 @@
     "slug": "naval-combat-package-34e444",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Fleet Command"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2024-02-21T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "football-manager-2024",
+    "startDate": "2024-02-13T15:00:00.000Z",
+    "title": "Football Manager 2024"
   },
   {
     "discountPercentage": 20,
@@ -1809,6 +1827,15 @@
     "title": "I'm looking for 3024 people"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2024-02-10T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "industria",
+    "startDate": "2024-01-25T16:00:00.000Z",
+    "title": "INDUSTRIA"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -2266,6 +2293,15 @@
     "slug": "mars-horizon",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Mars Horizon"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-03-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "martha-is-dead",
+    "startDate": "2024-02-27T16:00:00.000Z",
+    "title": "Martha Is Dead"
   },
   {
     "discountPercentage": 75,
@@ -3274,6 +3310,15 @@
     "slug": "satisfactory",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Satisfactory"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-01-30T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "scarlet-hood-and-the-wicked-wood",
+    "startDate": "2024-01-23T16:00:00.000Z",
+    "title": "Scarlet Hood and the Wicked Wood"
   },
   {
     "discountPercentage": 50,
