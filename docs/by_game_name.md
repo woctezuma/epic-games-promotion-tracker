@@ -405,6 +405,7 @@
 |#|spinner-invaders-d453e7|Spinner Invaders|4,49€|75|2024-02-09 16h|2024-02-12 16h|
 |#|spirit-of-the-north-f58a66|Spirit of the North|15,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|star-vikings-forever-215b84|Star Vikings Forever|7,99€|85|2024-02-09 16h|2024-02-12 16h|
+|#|steal-then-just-escape-87b7b6|Steal, Then Just Escape|4,99€|60|2024-02-14 16h|2024-03-13 16h|
 |#|steel-fury-kharkov-1942-cdfbd6|Steel Fury Kharkov 1942|3,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|steelrising|Steelrising|49,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|stick-it-to-the-man|Stick It To The Man!|5,99€|80|2024-02-09 16h|2024-02-12 16h|
