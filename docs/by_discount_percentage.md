@@ -260,6 +260,7 @@
 |#|counterattackuprising-06aed8|CounterAttack: Uprising|13,49€|50|2024-02-20 16h|2024-02-27 16h|
 |#|crime-boss|Crime Boss: Rockay City|39,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|crown-of-the-empire-2-around-the-world-699782|Crown of the Empire 2: Around the World Collectors Edition|4,49€|50|2024-01-23 16h|2024-01-30 16h|
+|#|cyber-drift-6ac51b|Cyber Drift|6,29€|50|2024-01-19 17h|2024-02-18 17h|
 |#|cyberpunk-2077|Cyberpunk 2077|59,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|death-stranding-directors-cut|DEATH STRANDING DIRECTOR'S CUT|39,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|disc-room|DISC ROOM|14,79€|50|2024-02-09 16h|2024-02-12 16h|
@@ -421,6 +422,7 @@
 |#|indoorlands-3b2356|Indoorlands|17,09€|30|2024-01-21 00h|2024-01-31 00h|
 |#|its-a-wrap-f392ae|It's a Wrap!|16,19€|30|2024-02-09 16h|2024-02-12 16h|
 |#|love-3-c2516f|LOVE 3|8,99€|30|2024-02-09 16h|2024-02-12 16h|
+|#|lines-guarder-174742|Line's Guarder|8,99€|30|2024-01-19 17h|2024-02-18 17h|
 |#|little-brother-jim-272dc6|Little Brother Jim|4,49€|30|2024-02-20 16h|2024-02-27 16h|
 |#|mahjong-royal-towers-e327ab|Mahjong Royal Towers|2,69€|30|2024-02-09 16h|2024-02-12 16h|
 |#|mallofmayhem-15344c|Mall of Mayhem|7,19€|30|2024-07-01 06h|2024-07-30 22h|
