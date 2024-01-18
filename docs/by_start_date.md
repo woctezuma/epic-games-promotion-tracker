@@ -3,6 +3,8 @@
 |#|turnip-boy-robs-a-bank-3fae0e|Turnip Boy Robs a Bank|13,49€|10|2024-01-18 15h|2024-01-25 15h|
 |#|love-65c4d0|LOVE|2,69€|100|2024-01-18 16h|2024-01-25 16h|
 |#|love-n-life-lucky-teacher-09bd18|Love n Life: Lucky Teacher|5,39€|10|2024-01-19 10h|2024-01-26 10h|
+|#|cyber-drift-6ac51b|Cyber Drift|6,29€|50|2024-01-19 17h|2024-02-18 17h|
+|#|lines-guarder-174742|Line's Guarder|8,99€|30|2024-01-19 17h|2024-02-18 17h|
 |#|the-death-into-trouble-271916|The Death Into Trouble|4,49€|20|2024-01-19 17h|2024-01-26 16h|
 |#|geometric-sniper-82e0e0|Geometric Sniper|1,79€|20|2024-01-19 18h|2024-01-26 18h|
 |#|indoorlands-3b2356|Indoorlands|17,09€|30|2024-01-21 00h|2024-01-31 00h|

@@ -398,6 +398,8 @@
 |#|xr22seaguard-480497|XR22-SEAGUARD|8,99€|30|2024-02-06 23h|2024-02-15 23h|
 |#|indies-lies-57f843|Indies Lies|13,49€|50|2024-02-06 17h|2024-02-16 05h|
 |#|eden-island-8cd344|Eden Island|8,99€|50|2024-02-03 12h|2024-02-17 15h|
+|#|cyber-drift-6ac51b|Cyber Drift|6,29€|50|2024-01-19 17h|2024-02-18 17h|
+|#|lines-guarder-174742|Line's Guarder|8,99€|30|2024-01-19 17h|2024-02-18 17h|
 |#|dnf-duel-07d055|DNF Duel|49,99€|60|2024-02-05 18h|2024-02-18 18h|
 |#|anonymous-hunting-simulator-5eac14|ANONYMOUS HUNTING SIMULATOR|0,89€|50|2024-02-03 22h|2024-02-19 22h|
 |#|amber-1e2240|Amber|26,99€|34|2024-02-14 13h|2024-02-20 13h|
