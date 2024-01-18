@@ -919,6 +919,15 @@
   },
   {
     "discountPercentage": 50,
+    "endDate": "2024-02-18T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 629,
+    "slug": "cyber-drift-6ac51b",
+    "startDate": "2024-01-19T17:00:00.000Z",
+    "title": "Cyber Drift"
+  },
+  {
+    "discountPercentage": 50,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 5999,
@@ -2131,6 +2140,15 @@
     "slug": "limbo",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Limbo"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2024-02-18T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "lines-guarder-174742",
+    "startDate": "2024-01-19T17:00:00.000Z",
+    "title": "Line's Guarder"
   },
   {
     "discountPercentage": 65,
