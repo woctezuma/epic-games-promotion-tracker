@@ -369,6 +369,15 @@
     "title": "Aven Colony"
   },
   {
+    "discountPercentage": 33,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "brok-the-investigator-fb0513",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "BROK the InvestiGator"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-03-05T16:00:00.000Z",
     "isFree": false,
@@ -601,6 +610,15 @@
     "slug": "bleak-sword-dx-5b2d4c",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Bleak Sword DX"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "blind-fate-edo-no-yami-87e748",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Blind Fate: Edo no Yami"
   },
   {
     "discountPercentage": 40,
@@ -982,15 +1000,6 @@
   },
   {
     "discountPercentage": 50,
-    "endDate": "2024-02-18T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 629,
-    "slug": "cyber-drift-6ac51b",
-    "startDate": "2024-01-19T17:00:00.000Z",
-    "title": "Cyber Drift"
-  },
-  {
-    "discountPercentage": 50,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 5999,
@@ -1251,6 +1260,15 @@
     "title": "Dumpy and Bumpy"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1479,
+    "slug": "dynopunk-2035f5",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Dynopunk"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2024-01-30T17:00:00.000Z",
     "isFree": false,
@@ -1285,6 +1303,15 @@
     "slug": "eastern-exorcist-d49923",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Eastern Exorcist"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "ebenezer-and-the-invisible-world-9241e7",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Ebenezer and the Invisible World"
   },
   {
     "discountPercentage": 50,
@@ -1557,6 +1584,15 @@
     "title": "Forest Grove"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "forklift-extreme-deluxe-edition-50689a",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Forklift Extreme - Deluxe Edition"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -1690,15 +1726,6 @@
     "slug": "geojelly-a44cfe",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "GeoJelly"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2024-01-26T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 179,
-    "slug": "geometric-sniper-82e0e0",
-    "startDate": "2024-01-19T18:00:00.000Z",
-    "title": "Geometric Sniper"
   },
   {
     "discountPercentage": 35,
@@ -1978,6 +2005,15 @@
     "slug": "test1-a822c4",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Horror Ken"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "house-party-ae8b27",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "House Party"
   },
   {
     "discountPercentage": 50,
@@ -2376,15 +2412,6 @@
     "title": "Limbo"
   },
   {
-    "discountPercentage": 30,
-    "endDate": "2024-02-18T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 899,
-    "slug": "lines-guarder-174742",
-    "startDate": "2024-01-19T17:00:00.000Z",
-    "title": "Line's Guarder"
-  },
-  {
     "discountPercentage": 65,
     "endDate": "2024-02-06T16:00:00.000Z",
     "isFree": false,
@@ -2493,6 +2520,15 @@
     "title": "Mall of Mayhem"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2699,
+    "slug": "marble-it-up-ultra-7b5692",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Marble It Up! Ultra"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -2536,6 +2572,15 @@
     "slug": "mcpixel-3-fae9c2",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "McPixel 3"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "mediterranea-inferno-6a1352",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Mediterranea Inferno"
   },
   {
     "discountPercentage": 50,
@@ -2701,6 +2746,15 @@
   },
   {
     "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 779,
+    "slug": "my-summer-adventure-memories-of-another-life-e30d54",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "My Summer Adventure: Memories of Another Life"
+  },
+  {
+    "discountPercentage": 50,
     "endDate": "2024-02-20T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 449,
@@ -2716,6 +2770,15 @@
     "slug": "mystery-solitaire-the-black-raven-65336d",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Mystery Solitaire. The Black Raven"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2699,
+    "slug": "mythforce-d2710b",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "MythForce"
   },
   {
     "discountPercentage": 50,
@@ -3240,7 +3303,7 @@
     "title": "RECALL"
   },
   {
-    "discountPercentage": 25,
+    "discountPercentage": 30,
     "endDate": "2024-02-22T11:00:00.000Z",
     "isFree": false,
     "originalPrice": 449,
@@ -3283,6 +3346,15 @@
     "slug": "recollection-71f3a4",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Recollection"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2024-02-20T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "redneck-bowl-games-d39874",
+    "startDate": "2024-02-13T16:00:00.000Z",
+    "title": "RedNeck Bowl Games"
   },
   {
     "discountPercentage": 50,
@@ -3454,15 +3526,6 @@
     "slug": "space-war-infinity-024a8f",
     "startDate": "2024-01-30T16:00:00.000Z",
     "title": "SPACE WAR - INFINITY"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2024-02-12T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "stranger-of-paradise-final-fantasy-origin",
-    "startDate": "2024-02-09T16:00:00.000Z",
-    "title": "STRANGER OF PARADISE FINAL FANTASY ORIGIN"
   },
   {
     "discountPercentage": 70,
@@ -3969,6 +4032,15 @@
     "title": "Stray Blade"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "stray-gods-the-roleplaying-musical-0e651d",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Stray Gods: The Roleplaying Musical"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2024-03-05T16:00:00.000Z",
     "isFree": false,
@@ -4260,6 +4332,15 @@
     "discountPercentage": 60,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
+    "originalPrice": 1599,
+    "slug": "the-darkest-tales-7d0dab",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "The Darkest Tales"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
     "originalPrice": 1349,
     "slug": "the-darkside-detective-02fd5a",
     "startDate": "2024-02-09T16:00:00.000Z",
@@ -4273,15 +4354,6 @@
     "slug": "the-darkside-detective-a-fumble-in-the-dark-174fcf",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "The Darkside Detective A Fumble in the Dark"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2024-01-26T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 449,
-    "slug": "the-death-into-trouble-271916",
-    "startDate": "2024-01-19T17:00:00.000Z",
-    "title": "The Death Into Trouble"
   },
   {
     "discountPercentage": 20,
