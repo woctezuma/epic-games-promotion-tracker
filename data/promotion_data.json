@@ -1962,6 +1962,15 @@
     "title": "He Will Shoot"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-02-27T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 359,
+    "slug": "hero-battle-fantasy-arena-f15594",
+    "startDate": "2024-02-20T16:00:00.000Z",
+    "title": "Hero Battle Fantasy Arena"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -2079,6 +2088,15 @@
     "title": "Ikonei Island: An Earthlock Adventure"
   },
   {
+    "discountPercentage": 35,
+    "endDate": "2024-02-27T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "image-747287",
+    "startDate": "2024-02-20T16:00:00.000Z",
+    "title": "Image"
+  },
+  {
     "discountPercentage": 55,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -2095,15 +2113,6 @@
     "slug": "indies-lies-57f843",
     "startDate": "2024-02-06T17:00:00.000Z",
     "title": "Indies Lies"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2024-01-31T00:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1709,
-    "slug": "indoorlands-3b2356",
-    "startDate": "2024-01-21T00:00:00.000Z",
-    "title": "Indoorlands"
   },
   {
     "discountPercentage": 75,
@@ -2365,6 +2374,15 @@
     "slug": "last-day-of-june",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Last Day of June"
+  },
+  {
+    "discountPercentage": 85,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "liberated-f13008",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Liberated"
   },
   {
     "discountPercentage": 60,
@@ -2833,6 +2851,15 @@
     "slug": "near-impact-b7bee9",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Near Impact"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "necroworm-5784e5",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "NecroWorm"
   },
   {
     "discountPercentage": 66,
@@ -3528,6 +3555,15 @@
     "title": "SPACE WAR - INFINITY"
   },
   {
+    "discountPercentage": 35,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "stasis-bone-totem-ca8320",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "STASIS : BONE TOTEM"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -4183,15 +4219,6 @@
     "slug": "tails-of-iron-587abd",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Tails of Iron"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2024-01-31T00:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 899,
-    "slug": "tales-of-the-tiny-planet-ab9e11",
-    "startDate": "2024-01-21T00:00:00.000Z",
-    "title": "Tales of the Tiny Planet"
   },
   {
     "discountPercentage": 50,
@@ -4860,15 +4887,6 @@
     "title": "Victorian Admirals Panama Crisis 1885"
   },
   {
-    "discountPercentage": 30,
-    "endDate": "2024-01-31T00:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2239,
-    "slug": "virtual-rides-3-2add3b",
-    "startDate": "2024-01-21T00:00:00.000Z",
-    "title": "Virtual Rides 3"
-  },
-  {
     "discountPercentage": 25,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -5020,15 +5038,6 @@
     "slug": "wytchwood",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Wytchwood"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2024-02-15T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 899,
-    "slug": "xr22seaguard-480497",
-    "startDate": "2024-02-06T23:00:00.000Z",
-    "title": "XR22-SEAGUARD"
   },
   {
     "discountPercentage": 80,
