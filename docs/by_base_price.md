@@ -227,6 +227,7 @@
 |#|return-to-monkey-island-f4af79|Return to Monkey Island|24,50€|30|2024-02-09 16h|2024-02-12 16h|
 |#|turbo-overkill-c5e3c7|Turbo Overkill|24,50€|30|2024-02-09 16h|2024-02-12 16h|
 |#|going-medieval|Going Medieval|24,49€|20|2024-02-09 16h|2024-02-12 16h|
+|#|clad-in-iron-war-of-the-pacific-1879-68f244|Clad In Iron War of The Pacific 1879|23,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|legend-of-grimrock-2|Legend of Grimrock 2|23,99€|70|2024-02-09 16h|2024-02-12 16h|
 |#|prehistoric-kingdom|Prehistoric Kingdom|23,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|slime-rancher-2|Slime Rancher 2|23,99€|30|2024-02-09 16h|2024-02-12 16h|
@@ -288,6 +289,7 @@
 |#|death-trash|Death Trash|19,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|discovery-tour-viking-age|Discovery Tour: Viking Age|19,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|dishonored-definitive-edition|Dishonored - Definitive Edition|19,99€|75|2024-02-09 16h|2024-02-12 16h|
+|#|druidstone-0697f7|Druidstone: The Secret of the Menhir Forest|19,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|ebenezer-and-the-invisible-world-9241e7|Ebenezer and the Invisible World|19,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|el-hijo-6b63c5|El Hijo – A Wild West Tale|19,99€|75|2024-01-30 16h|2024-02-06 16h|
 |#|eldest-souls-83e12a|Eldest Souls|19,99€|75|2024-02-09 16h|2024-02-12 16h|

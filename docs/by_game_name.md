@@ -152,6 +152,7 @@
 |#|citizen-sleeper-944858|Citizen Sleeper|15,99€|50|2024-01-30 16h|2024-02-06 16h|
 |#|city-car-parking-simulator-231485|City Car Parking Simulator|0,89€|45|2024-01-25 17h|2024-02-07 17h|
 |#|city-of-gangsters-6c2974|City of Gangsters|29,99€|50|2024-02-09 16h|2024-02-12 16h|
+|#|clad-in-iron-war-of-the-pacific-1879-68f244|Clad In Iron War of The Pacific 1879|23,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|clash-artifacts-of-chaos-53e881|Clash - Artifacts of Chaos|29,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|compass-of-the-destiny-istanbul-598642|Compass of the Destiny: Istanbul|14,79€|35|2024-02-13 16h|2024-02-20 16h|
 |#|conan-exiles|Conan Exiles|39,99€|60|2024-02-09 16h|2024-02-12 16h|
@@ -218,6 +219,7 @@
 |#|dragon-throne-battle-of-red-cliffs-44ba6b|Dragon Throne: Battle of Red Cliffs|8,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|drawful-2|Drawful 2|9,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|dream-magic-will-358429|Dream magic will|3,59€|50|2024-02-09 16h|2024-02-12 16h|
+|#|druidstone-0697f7|Druidstone: The Secret of the Menhir Forest|19,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|dumpy-and-bumpy-86c9d7|Dumpy and Bumpy|3,99€|30|2024-02-09 16h|2024-02-12 16h|
 |#|dynopunk-2035f5|Dynopunk|14,79€|50|2024-02-09 16h|2024-02-12 16h|
 |#|ebola-2-b61221|EBOLA 2|13,49€|35|2024-02-13 16h|2024-02-20 16h|

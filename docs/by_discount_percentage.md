@@ -70,6 +70,7 @@
 |#|brothers-a-tale-of-two-sons|Brothers - A Tale of Two Sons|14,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|bucket-knight-1ac30c|Bucket Knight|4,49€|80|2024-02-09 16h|2024-02-12 16h|
 |#|cataire-6ce6b7|CATAIRE|0,89€|80|2024-02-09 16h|2024-02-24 16h|
+|#|clad-in-iron-war-of-the-pacific-1879-68f244|Clad In Iron War of The Pacific 1879|23,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|culpa-innata-8997ac|Culpa Innata|9,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|curious-expedition-df0f2f|Curious Expedition|14,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|dangerous-waters-61ea56|Dangerous Waters|7,99€|80|2024-02-09 16h|2024-02-12 16h|
@@ -78,6 +79,7 @@
 |#|disciples-sacred-lands-gold-6bf43b|Disciples Sacred Lands Gold|7,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|dishonored-2|Dishonored 2|29,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|dishonored-death-of-the-outsider|Dishonored®: Death of the Outsider™|29,99€|80|2024-02-09 16h|2024-02-12 16h|
+|#|druidstone-0697f7|Druidstone: The Secret of the Menhir Forest|19,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|far-cry-4|FAR CRY 4|29,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|foreclosed|FORECLOSED|16,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|far-cry-new-dawn|Far Cry New Dawn Standard Edition|44,99€|80|2024-02-09 16h|2024-02-12 16h|

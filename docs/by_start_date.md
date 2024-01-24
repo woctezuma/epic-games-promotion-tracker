@@ -171,6 +171,7 @@
 |#|child-of-light|Child of Light: Ultimate Edition|19,99€|70|2024-02-09 16h|2024-02-12 16h|
 |#|choice-clash-what-would-you-rather-b75cac|Choice Clash: What Would you Rather?|1,79€|44|2024-02-09 16h|2024-02-12 16h|
 |#|city-of-gangsters-6c2974|City of Gangsters|29,99€|50|2024-02-09 16h|2024-02-12 16h|
+|#|clad-in-iron-war-of-the-pacific-1879-68f244|Clad In Iron War of The Pacific 1879|23,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|clash-artifacts-of-chaos-53e881|Clash - Artifacts of Chaos|29,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|conan-exiles|Conan Exiles|39,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|control|Control|31,99€|75|2024-02-09 16h|2024-02-12 16h|
@@ -227,6 +228,7 @@
 |#|dragon-throne-battle-of-red-cliffs-44ba6b|Dragon Throne: Battle of Red Cliffs|8,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|drawful-2|Drawful 2|9,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|dream-magic-will-358429|Dream magic will|3,59€|50|2024-02-09 16h|2024-02-12 16h|
+|#|druidstone-0697f7|Druidstone: The Secret of the Menhir Forest|19,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|dumpy-and-bumpy-86c9d7|Dumpy and Bumpy|3,99€|30|2024-02-09 16h|2024-02-12 16h|
 |#|dynopunk-2035f5|Dynopunk|14,79€|50|2024-02-09 16h|2024-02-12 16h|
 |#|eastern-exorcist-d49923|Eastern Exorcist|16,19€|20|2024-02-09 16h|2024-02-12 16h|
