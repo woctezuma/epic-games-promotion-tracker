@@ -1368,6 +1368,15 @@
     "title": "City of Gangsters"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2399,
+    "slug": "clad-in-iron-war-of-the-pacific-1879-68f244",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Clad In Iron War of The Pacific 1879"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -1960,6 +1969,15 @@
     "slug": "dream-magic-will-358429",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Dream magic will"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "druidstone-0697f7",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Druidstone: The Secret of the Menhir Forest"
   },
   {
     "discountPercentage": 30,
