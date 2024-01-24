@@ -787,6 +787,15 @@
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 179,
+    "slug": "bad-rats-revenge-7f0eed",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Bad Rats Revenge"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
     "slug": "bad-rats-show-1b74cf",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Bad Rats Show"
@@ -853,6 +862,15 @@
     "slug": "batora-lost-haven-1773c3",
     "startDate": "2024-03-18T16:00:00.000Z",
     "title": "Batora: Lost Haven"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "battle-of-europe-00b917",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Battle Of Europe"
   },
   {
     "discountPercentage": 35,
@@ -1399,7 +1417,7 @@
     "endDate": "2024-02-27T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1349,
-    "slug": "033e6625e8874274b08e157d2a86b5f6",
+    "slug": "counterattackuprising-06aed8",
     "startDate": "2024-02-20T16:00:00.000Z",
     "title": "CounterAttack: Uprising"
   },
@@ -1789,6 +1807,15 @@
     "slug": "disciples-rise-of-the-elves-gold-669f54",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Disciples Rise of the Elves Gold"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "disciples-sacred-lands-gold-6bf43b",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Disciples Sacred Lands Gold"
   },
   {
     "discountPercentage": 75,
@@ -3348,6 +3375,24 @@
     "title": "Ironclads II American Civil War"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "ironclads-ii-boshin-war-30c493",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Ironclads II Boshin War"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "ironclads-ii-caroline-islands-war-1885-39d63d",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Ironclads II Caroline Islands War 1885"
+  },
+  {
     "discountPercentage": 35,
     "endDate": "2024-02-03T21:00:00.000Z",
     "isFree": false,
@@ -3874,7 +3919,7 @@
     "endDate": "2024-03-05T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 449,
-    "slug": "1fdf494a02ee4c8ca8ba6e49137c2105",
+    "slug": "mahjong-world-contest-2-0d946a",
     "startDate": "2024-02-27T16:00:00.000Z",
     "title": "Mahjong World Contest 2"
   },
@@ -4788,6 +4833,15 @@
     "title": "Pikuniku"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "pipe-mania-f5fec0",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Pipe Mania"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -5652,6 +5706,15 @@
     "title": "Secret of Dream"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 599,
+    "slug": "sentinel-3-homeworld-2f6183",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Sentinel 3 - Homeworld"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -6196,7 +6259,7 @@
     "endDate": "2024-03-05T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 269,
-    "slug": "15d1eed1f4d84a1dbaca1c8cf6174a8d",
+    "slug": "strike-solitaire-2-fe76a2",
     "startDate": "2024-02-27T16:00:00.000Z",
     "title": "Strike Solitaire 2"
   },
@@ -7348,7 +7411,7 @@
     "endDate": "2024-02-20T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 449,
-    "slug": "7f25eb54291544a597e2c172bdbd5b68",
+    "slug": "travel-cuisine-collectors-edition-f24880",
     "startDate": "2024-02-13T16:00:00.000Z",
     "title": "Travel Cuisine Collector's Edition"
   },
