@@ -7,6 +7,7 @@
 |#|1001-jigsaw-earth-chronicles-7b25fc|1001 Jigsaw. Earth Chronicles|4,49€|50|2024-01-30 16h|2024-02-06 16h|
 |#|1001-jigsaw-world-tour-london-06dba1|1001 Jigsaw. World Tour: London|4,49€|30|2024-01-30 16h|2024-02-06 16h|
 |#|asian-riddles-223489|Asian Riddles|4,49€|50|2024-01-30 16h|2024-02-06 16h|
+|#|blipz-c85697|Blipz|6,29€|50|2024-01-30 16h|2024-02-06 16h|
 |#|citizen-sleeper-944858|Citizen Sleeper|15,99€|50|2024-01-30 16h|2024-02-06 16h|
 |#|cooking-trip-new-challenge-collectors-edition-59c8df|Cooking Trip New Challenge. Collector's Edition|4,49€|30|2024-01-30 16h|2024-02-06 16h|
 |#|dr-fetus-mean-meat-machine-d6a29e|Dr. Fetus' Mean Meat Machine|9,99€|60|2024-01-30 16h|2024-02-06 16h|
@@ -26,6 +27,7 @@
 |#|real-drift-multiplayer-4bdd6d|Real Drift Multiplayer|1,79€|50|2024-01-25 17h|2024-02-07 17h|
 |#|real-motocross-driving-simulator-c8ff84|Real Motocross Driving Simulator|0,89€|45|2024-01-25 17h|2024-02-07 17h|
 |#|school-bus-driving-simulator-b878a8|School Bus Driving Simulator|0,89€|45|2024-01-25 17h|2024-02-07 17h|
+|#|doors-paradox-5896c7|Doors - Paradox|13,49€|100|2024-02-01 16h|2024-02-08 16h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|55|2024-02-02 22h|2024-02-09 22h|
 |#|industria|INDUSTRIA|19,99€|60|2024-01-25 16h|2024-02-10 16h|
 |#|n-verlore-verstand-1d7f5b|'n Verlore Verstand|13,49€|90|2024-02-09 16h|2024-02-12 16h|
@@ -637,6 +639,7 @@
 |#|the-fabulous-fear-machine-8e7c6b|The Fabulous Fear Machine|16,19€|25|2024-02-09 16h|2024-02-12 16h|
 |#|the-flower-collectors|The Flower Collectors|14,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|the-forest-cathedral-54f32c|The Forest Cathedral|13,49€|15|2024-02-09 16h|2024-02-12 16h|
+|#|forest-quartet-5d03e3|The Forest Quartet|8,99€|65|2024-02-09 16h|2024-02-12 16h|
 |#|the-forgotten-city|The Forgotten City|24,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|the-invincible|The Invincible|29,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|jackbox-party-pack-1|The Jackbox Party Pack|22,99€|60|2024-02-09 16h|2024-02-12 16h|
@@ -786,6 +789,7 @@
 |#|haven|Haven|24,99€|60|2024-02-09 16h|2024-02-16 11h|
 |#|eden-island-8cd344|Eden Island|8,99€|50|2024-02-03 12h|2024-02-17 15h|
 |#|dnf-duel-07d055|DNF Duel|49,99€|60|2024-02-05 18h|2024-02-18 18h|
+|#|airhead-945e54|Airhead|19,99€|10|2024-02-12 14h|2024-02-19 14h|
 |#|remnant-2|Remnant 2|49,99€|40|2024-02-09 16h|2024-02-19 16h|
 |#|remnant-from-the-ashes|Remnant: From the Ashes|39,99€|70|2024-02-09 16h|2024-02-19 16h|
 |#|anonymous-hunting-simulator-5eac14|ANONYMOUS HUNTING SIMULATOR|0,89€|50|2024-02-03 22h|2024-02-19 22h|
@@ -909,6 +913,8 @@
 |#|saboteur-ii-avenging-angel-33e83c|Saboteur II Avenging Angel|7,19€|10|2024-03-05 23h|2024-03-19 23h|
 |#|saboteur-sio-123236|Saboteur SiO|9,89€|10|2024-03-05 23h|2024-03-19 23h|
 |#|saboteur-f3d01d|Saboteur!|7,19€|10|2024-03-05 23h|2024-03-19 23h|
+|#|forest-quartet-5d03e3|The Forest Quartet|8,99€|70|2024-03-14 15h|2024-03-28 15h|
+|#|universe-sandbox|Universe Sandbox|23,99€|33|2024-03-14 15h|2024-03-28 15h|
 |#|genesis-alpha-one|Genesis Alpha One Deluxe Edition|24,99€|90|2024-03-14 16h|2024-03-28 16h|
 |#|narita-boy|Narita Boy|24,99€|90|2024-03-14 16h|2024-03-28 16h|
 |#|overcooked-2|Overcooked! 2|22,99€|75|2024-03-14 16h|2024-03-28 16h|

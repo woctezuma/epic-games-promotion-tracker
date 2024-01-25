@@ -1,5 +1,6 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
+|#|doors-paradox-5896c7|Doors - Paradox|13,49€|100|2024-02-01 16h|2024-02-08 16h|
 |#|infinifactory-ec9686|Infinifactory|22,39€|100|2024-01-25 16h|2024-02-01 16h|
 |#|spelldrifter|Spelldrifter|15,99€|95|2024-02-09 16h|2024-02-12 16h|
 |#|n-verlore-verstand-1d7f5b|'n Verlore Verstand|13,49€|90|2024-02-09 16h|2024-02-12 16h|
@@ -351,6 +352,7 @@
 |#|tank-warfare-tunisia-1943-62f6e9|Tank Warfare - Tunisia 1943|23,99€|70|2024-02-09 16h|2024-02-12 16h|
 |#|the-division-2|The Division 2 Standard Edition|29,99€|70|2024-02-09 16h|2024-02-12 16h|
 |#|the-elder-scrolls-online|The Elder Scrolls Online|19,99€|70|2024-02-09 16h|2024-02-12 16h|
+|#|forest-quartet-5d03e3|The Forest Quartet|8,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|the-magnificent-trufflepigs|The Magnificent Trufflepigs|9,99€|70|2024-02-09 16h|2024-02-12 16h|
 |#|the-unfinished-swan|The Unfinished Swan|13,99€|70|2024-02-09 16h|2024-02-12 16h|
 |#|endwar|Tom Clancy's EndWar|9,99€|70|2024-02-09 16h|2024-02-12 16h|
@@ -401,6 +403,7 @@
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|65|2024-08-06 21h|2024-08-13 21h|
 |#|the-dark-prophecy-2193c4|The Dark Prophecy|7,99€|65|2024-02-09 16h|2024-02-12 16h|
 |#|the-dungeon-of-naheulbeuk|The Dungeon of Naheulbeuk|34,99€|65|2024-02-09 16h|2024-02-12 16h|
+|#|forest-quartet-5d03e3|The Forest Quartet|8,99€|65|2024-02-09 16h|2024-02-12 16h|
 |#|the-spectrum-retreat|The Spectrum Retreat|12,99€|65|2024-02-09 16h|2024-02-12 16h|
 |#|the-wizard-and-the-slug-482a09|The Wizard and The Slug|3,99€|65|2024-02-09 16h|2024-02-12 16h|
 |#|wrc-11-fia-world-rally-championship-f0749b|WRC Generations|39,99€|65|2024-02-09 16h|2024-02-12 16h|
@@ -522,6 +525,7 @@
 |#|birch-simulator-21969e|Birch Simulator|0,89€|50|2024-03-17 22h|2024-04-03 22h|
 |#|birch-simulator-21969e|Birch Simulator|0,89€|50|2024-05-04 22h|2024-05-19 22h|
 |#|black-skylands|Black Skylands|15,99€|50|2024-02-09 16h|2024-02-12 16h|
+|#|blipz-c85697|Blipz|6,29€|50|2024-01-30 16h|2024-02-06 16h|
 |#|bramble-the-mountain-king-c0d1c6|Bramble The Mountain King|26,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|calico|Calico|9,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|call-of-the-wild-the-angler|Call of the Wild: The Angler™|29,99€|50|2024-02-09 16h|2024-02-12 16h|
@@ -790,6 +794,7 @@
 |#|good-company|Good Company|22,99€|33|2024-02-09 16h|2024-02-12 16h|
 |#|quick-race-293d39|Quick Race|1,79€|33|2024-02-09 16h|2024-02-12 16h|
 |#|universe-sandbox|Universe Sandbox|23,99€|33|2024-02-09 16h|2024-02-12 16h|
+|#|universe-sandbox|Universe Sandbox|23,99€|33|2024-03-14 15h|2024-03-28 15h|
 |#|1001-jigsaw-home-sweet-home-1b1e16|1001 Jigsaw. Home Sweet Home|4,49€|30|2024-03-05 16h|2024-03-12 15h|
 |#|1001-jigsaw-legends-of-mystery-14e62d|1001 Jigsaw. Legends of Mystery|4,49€|30|2024-02-27 16h|2024-03-05 16h|
 |#|1001-jigsaw-world-tour-london-06dba1|1001 Jigsaw. World Tour: London|4,49€|30|2024-01-30 16h|2024-02-06 16h|
@@ -950,6 +955,7 @@
 |#|probo-rush-b3ee54|Probo Rush|4,49€|15|2024-02-09 16h|2024-02-12 16h|
 |#|the-forest-cathedral-54f32c|The Forest Cathedral|13,49€|15|2024-02-09 16h|2024-02-12 16h|
 |#|paw-paw-destiny-843848|Paw Paw Destiny|13,49€|11|2024-02-09 16h|2024-02-12 16h|
+|#|airhead-945e54|Airhead|19,99€|10|2024-02-12 14h|2024-02-19 14h|
 |#|brothers-a-tale-of-two-sons-remake|Brothers: A Tale of Two Sons Remake|0,00€|10|2024-02-28 15h|2024-03-05 23h|
 |#|gardenia-630482|Gardenia|8,99€|10|2024-03-05 23h|2024-03-19 23h|
 |#|my-demon-wife-0d2461|My Demon Wife|9,89€|10|2024-02-07 23h|2024-02-21 23h|
