@@ -36,6 +36,24 @@
     "title": "1001 Jigsaw. Earth Chronicles"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2024-03-12T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "1001-jigsaw-home-sweet-home-1b1e16",
+    "startDate": "2024-03-05T16:00:00.000Z",
+    "title": "1001 Jigsaw. Home Sweet Home"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2024-03-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "1001-jigsaw-legends-of-mystery-14e62d",
+    "startDate": "2024-02-27T16:00:00.000Z",
+    "title": "1001 Jigsaw. Legends of Mystery"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -4176,6 +4194,15 @@
     "title": "Mosaics Galore"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2024-03-12T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "mosaics-galore-2-034421",
+    "startDate": "2024-03-05T16:00:00.000Z",
+    "title": "Mosaics Galore 2"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-02-06T16:00:00.000Z",
     "isFree": false,
@@ -6298,6 +6325,15 @@
     "slug": "streetpursuit-6a718e",
     "startDate": "2024-01-30T16:00:00.000Z",
     "title": "Street Pursuit"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2024-03-12T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 359,
+    "slug": "strike-solitaire-e86661",
+    "startDate": "2024-03-05T16:00:00.000Z",
+    "title": "Strike Solitaire"
   },
   {
     "discountPercentage": 30,
