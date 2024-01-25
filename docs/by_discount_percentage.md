@@ -748,6 +748,8 @@
 |#|good-company|Good Company|22,99€|33|2024-02-09 16h|2024-02-12 16h|
 |#|quick-race-293d39|Quick Race|1,79€|33|2024-02-09 16h|2024-02-12 16h|
 |#|universe-sandbox|Universe Sandbox|23,99€|33|2024-02-09 16h|2024-02-12 16h|
+|#|1001-jigsaw-home-sweet-home-1b1e16|1001 Jigsaw. Home Sweet Home|4,49€|30|2024-03-05 16h|2024-03-12 15h|
+|#|1001-jigsaw-legends-of-mystery-14e62d|1001 Jigsaw. Legends of Mystery|4,49€|30|2024-02-27 16h|2024-03-05 16h|
 |#|apico-f6e18b|APICO|15,99€|30|2024-02-09 16h|2024-02-12 16h|
 |#|absolute-tactics-ca91e4|Absolute Tactics|19,99€|30|2024-02-09 16h|2024-02-12 16h|
 |#|angry-video-game-nerd-1-and-2-deluxe-1eea79|Angry Video Game Nerd I & II Deluxe|8,99€|30|2024-02-09 16h|2024-02-12 16h|
@@ -777,6 +779,7 @@
 |#|mahjong-world-contest-2-0d946a|Mahjong World Contest 2|4,49€|30|2024-02-27 16h|2024-03-05 16h|
 |#|mallofmayhem-15344c|Mall of Mayhem|7,19€|30|2024-07-01 06h|2024-07-30 22h|
 |#|mallofmayhem-15344c|Mall of Mayhem|7,19€|30|2024-10-01 06h|2024-10-30 22h|
+|#|mosaics-galore-2-034421|Mosaics Galore 2|4,49€|30|2024-03-05 16h|2024-03-12 15h|
 |#|nephise-ascension-f0ba3d|Nephise: Ascension|4,49€|30|2024-02-20 16h|2024-02-27 16h|
 |#|otok-6c2478|Otok|4,49€|30|2024-02-09 16h|2024-02-12 16h|
 |#|outliver-tribulations-679884|Outliver: Tribulation|7,19€|30|2024-02-09 16h|2024-02-12 16h|
@@ -795,6 +798,7 @@
 |#|skotos-455463|Skotos|8,99€|30|2024-08-01 06h|2024-08-30 06h|
 |#|skotos-455463|Skotos|8,99€|30|2024-11-01 06h|2024-11-30 07h|
 |#|slime-rancher-2|Slime Rancher 2|23,99€|30|2024-02-09 16h|2024-02-12 16h|
+|#|strike-solitaire-e86661|Strike Solitaire|3,59€|30|2024-03-05 16h|2024-03-12 15h|
 |#|strike-solitaire-2-fe76a2|Strike Solitaire 2|2,69€|30|2024-02-27 16h|2024-03-05 16h|
 |#|super-alloy-ranger-4252cc|Super Alloy Ranger|8,99€|30|2024-02-09 16h|2024-02-12 16h|
 |#|supfly-delivery-simulator-82d2fd|Supfly Delivery Simulator|3,59€|30|2024-02-09 16h|2024-02-12 16h|

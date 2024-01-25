@@ -834,6 +834,7 @@
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2024-02-25 22h|2024-03-15 22h|
 |#|blasphemous|Blasphemous|24,99€|75|2024-02-26 16h|2024-03-11 16h|
 |#|overcooked|Overcooked|15,99€|80|2024-02-26 16h|2024-03-11 16h|
+|#|1001-jigsaw-legends-of-mystery-14e62d|1001 Jigsaw. Legends of Mystery|4,49€|30|2024-02-27 16h|2024-03-05 16h|
 |#|baby-storm-426245|Baby Storm|16,19€|50|2024-02-27 16h|2024-03-05 16h|
 |#|front-mission-1st-remake-124a24|FRONT MISSION 1st: Remake|31,39€|33|2024-02-27 16h|2024-03-05 16h|
 |#|iron-heart-7b7727|Iron Heart Steam Tower|4,49€|30|2024-02-27 16h|2024-03-05 16h|
@@ -847,9 +848,12 @@
 |#|polygon-survival-2374fc|Polygon Survival|0,89€|50|2024-02-29 22h|2024-03-15 22h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|75|2024-02-29 22h|2024-03-17 22h|
 |#|boltbreak-c2bf02|BoltBreak|5,39€|16|2024-03-01 07h|2024-03-30 22h|
+|#|1001-jigsaw-home-sweet-home-1b1e16|1001 Jigsaw. Home Sweet Home|4,49€|30|2024-03-05 16h|2024-03-12 15h|
 |#|against-the-storm|Against the Storm|29,99€|35|2024-03-05 16h|2024-03-12 15h|
 |#|elven-rivers-the-forgotten-lands-collectors-edition-13f068|Elven Rivers. The Forgotten Lands Collector's Edition|11,69€|30|2024-03-05 16h|2024-03-12 15h|
+|#|mosaics-galore-2-034421|Mosaics Galore 2|4,49€|30|2024-03-05 16h|2024-03-12 15h|
 |#|mystery-solitaire-grimms-tales-244e2a|Mystery Solitaire. Grimm's Tales|4,49€|50|2024-03-05 16h|2024-03-12 15h|
+|#|strike-solitaire-e86661|Strike Solitaire|3,59€|30|2024-03-05 16h|2024-03-12 15h|
 |#|terra-invicta-5bbf09|Terra Invicta|39,99€|30|2024-03-05 16h|2024-03-12 15h|
 |#|xenonauts-2-42a236|Xenonauts 2|39,99€|30|2024-03-05 16h|2024-03-12 15h|
 |#|gardenia-630482|Gardenia|8,99€|10|2024-03-05 23h|2024-03-19 23h|
