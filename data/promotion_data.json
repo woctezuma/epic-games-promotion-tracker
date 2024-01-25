@@ -5166,6 +5166,15 @@
     "title": "Pipe Mania"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "pirates-outlaws-a8cc60",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Pirates Outlaws"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -5452,6 +5461,15 @@
     "slug": "recall-113630",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "RECALL"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 499,
+    "slug": "remedium-sentinels-b5debd",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "REMEDIUM Sentinels"
   },
   {
     "discountPercentage": 55,
@@ -6966,6 +6984,15 @@
     "title": "Terra Nil"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "tetragon-edc5d5",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Tetragon"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -8044,6 +8071,15 @@
     "slug": "untitled-goose-game",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Untitled Goose Game"
+  },
+  {
+    "discountPercentage": 45,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "unusual-findings-6997e3",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Unusual Findings"
   },
   {
     "discountPercentage": 60,
