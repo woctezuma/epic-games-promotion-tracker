@@ -837,6 +837,15 @@
     "title": "Backrooms: Eight Levels"
   },
   {
+    "discountPercentage": 25,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 629,
+    "slug": "backrooms-realm-of-shadows-1ca413",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Backrooms: Realm of Shadows"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -5524,6 +5533,15 @@
     "slug": "rain-world-4c860c",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Rain World"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2099,
+    "slug": "ranch-simulator",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Ranch Simulator"
   },
   {
     "discountPercentage": 60,
