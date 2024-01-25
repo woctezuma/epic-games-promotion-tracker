@@ -590,6 +590,7 @@
 |#|picklock-33eab8|Picklock|5,39€|50|2024-02-09 16h|2024-02-12 16h|
 |#|pikuniku|Pikuniku|12,79€|70|2024-02-09 16h|2024-02-12 16h|
 |#|pipe-mania-f5fec0|Pipe Mania|3,99€|70|2024-02-09 16h|2024-02-12 16h|
+|#|pirates-outlaws-a8cc60|Pirates Outlaws|15,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|planescape-torment-enhanced-edition|Planescape: Torment: Enhanced Edition|15,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|planet-cube-edge-aac6d5|Planet Cube - Edge|13,49€|50|2024-02-09 16h|2024-02-12 16h|
 |#|planeticusgame-5dd84a|Planeticus|6,29€|20|2024-02-09 16h|2024-02-12 16h|
@@ -640,6 +641,7 @@
 |#|red-dead-redemption-2|Red Dead Redemption 2|59,99€|67|2024-02-09 16h|2024-02-12 16h|
 |#|red-dust-5e7397|Red Dust|4,49€|80|2024-02-09 16h|2024-02-12 16h|
 |#|redneck-bowl-games-d39874|RedNeck Bowl Games|17,99€|25|2024-02-13 16h|2024-02-20 16h|
+|#|remedium-sentinels-b5debd|REMEDIUM Sentinels|4,99€|25|2024-02-09 16h|2024-02-12 16h|
 |#|remnant-2|Remnant 2|49,99€|40|2024-02-09 16h|2024-02-19 16h|
 |#|remnant-from-the-ashes|Remnant: From the Ashes|39,99€|70|2024-02-09 16h|2024-02-19 16h|
 |#|replikator-6adddc|REPLIKATOR|9,99€|55|2024-02-09 16h|2024-02-12 16h|
@@ -790,6 +792,7 @@
 |#|terra-nil-508d16|Terra Nil|24,99€|25|2024-02-09 16h|2024-02-12 16h|
 |#|test-dd068f|field peas~Sayaendou~|4,49€|80|2024-02-09 16h|2024-02-12 16h|
 |#|test1-a822c4|Horror Ken|4,49€|50|2024-02-09 16h|2024-02-12 16h|
+|#|tetragon-edc5d5|Tetragon|14,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|tetris-effect|Tetris® Effect: Connected|31,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|thanksgiving-day-mosaic-dc698a|Thanksgiving Day Mosaic|4,49€|30|2024-02-20 16h|2024-02-27 16h|
 |#|the-alien-cube-789431|The Alien Cube|19,99€|75|2024-02-09 16h|2024-02-12 16h|
@@ -897,6 +900,7 @@
 |#|universe-sandbox|Universe Sandbox|23,99€|33|2024-02-09 16h|2024-02-12 16h|
 |#|uno|UNO Standard Edition|9,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|untitled-goose-game|Untitled Goose Game|15,99€|50|2024-02-09 16h|2024-02-12 16h|
+|#|unusual-findings-6997e3|Unusual Findings|19,99€|45|2024-02-09 16h|2024-02-12 16h|
 |#|upaon-a-snakes-journey-672f92|Upaon A Snakes Journey|1,99€|60|2024-02-13 16h|2024-02-20 16h|
 |#|urban-tale-75b4f0|Urban Tale|12,59€|35|2024-02-09 16h|2024-02-12 16h|
 |#|urbek-city-builder-17cf7d|Urbek City Builder|14,49€|45|2024-02-09 16h|2024-02-12 16h|
