@@ -2305,15 +2305,6 @@
   },
   {
     "discountPercentage": 30,
-    "endDate": "2024-02-01T14:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1799,
-    "slug": "evil-nun-the-broken-mask-372461",
-    "startDate": "2024-01-25T14:00:00.000Z",
-    "title": "Evil Nun: The Broken Mask"
-  },
-  {
-    "discountPercentage": 30,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1799,
