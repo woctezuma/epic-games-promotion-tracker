@@ -543,6 +543,7 @@
 |#|lake|Lake|19,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|little-inferno|Little Inferno|11,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|loop-hero|Loop Hero|14,79€|50|2024-02-09 16h|2024-02-12 16h|
+|#|mahjong-magic-journey-2-28de53|Mahjong Magic Journey 2|3,59€|50|2024-02-27 16h|2024-03-05 16h|
 |#|marble-it-up-ultra-7b5692|Marble It Up! Ultra|26,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|martha-is-dead|Martha Is Dead|29,99€|50|2024-02-27 16h|2024-03-05 16h|
 |#|melvor-idle-b6a9b3|Melvor Idle|9,75€|50|2024-02-09 16h|2024-02-12 16h|
@@ -551,6 +552,8 @@
 |#|mundaun|Mundaun|16,79€|50|2024-02-09 16h|2024-02-12 16h|
 |#|my-summer-adventure-memories-of-another-life-e30d54|My Summer Adventure: Memories of Another Life|7,79€|50|2024-02-09 16h|2024-02-12 16h|
 |#|mysteries-of-the-undead-46140a|Mysteries of the Undead|4,49€|50|2024-02-13 16h|2024-02-20 16h|
+|#|mystery-solitaire-grimms-tales-244e2a|Mystery Solitaire. Grimm's Tales|4,49€|50|2024-03-05 16h|2024-03-12 15h|
+|#|mystery-solitaire-grimms-tales-2-e1e538|Mystery Solitaire. Grimm's Tales 2|4,49€|50|2024-02-27 16h|2024-03-05 16h|
 |#|mystery-solitaire-the-black-raven-65336d|Mystery Solitaire. The Black Raven|4,49€|50|2024-02-09 16h|2024-02-12 16h|
 |#|mythforce-d2710b|MythForce|26,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|neo-the-world-ends-with-you|NEO: The World Ends with You|59,99€|50|2024-02-09 16h|2024-02-12 16h|
@@ -756,6 +759,7 @@
 |#|crown-of-the-empire-86cf18|Crown Of The Empire Collectors Edition|4,49€|30|2024-02-09 16h|2024-02-12 16h|
 |#|curse-of-the-sea-rats-8f28b1|Curse of the Sea Rats|17,99€|30|2024-02-09 16h|2024-02-12 16h|
 |#|dumpy-and-bumpy-86c9d7|Dumpy and Bumpy|3,99€|30|2024-02-09 16h|2024-02-12 16h|
+|#|elven-rivers-the-forgotten-lands-collectors-edition-13f068|Elven Rivers. The Forgotten Lands Collector's Edition|11,69€|30|2024-03-05 16h|2024-03-12 15h|
 |#|evil-nun-the-broken-mask-372461|Evil Nun: The Broken Mask|17,99€|30|2024-01-25 14h|2024-02-01 14h|
 |#|evil-wizard-e4f80f|Evil Wizard|17,99€|30|2024-02-09 16h|2024-02-12 16h|
 |#|gangs-of-sherwood|Gangs of Sherwood|39,99€|30|2024-02-09 16h|2024-02-12 16h|

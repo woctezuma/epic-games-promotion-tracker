@@ -573,6 +573,7 @@
 |#|spinch-239b03|Spinch|11,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|the-land-of-pain-d6a3ed|The Land of Pain|11,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|back-then-2072ca|Back Then|11,69€|15|2024-02-09 16h|2024-02-12 16h|
+|#|elven-rivers-the-forgotten-lands-collectors-edition-13f068|Elven Rivers. The Forgotten Lands Collector's Edition|11,69€|30|2024-03-05 16h|2024-03-12 15h|
 |#|stellar-interface-d14cc4|Stellar Interface|11,69€|75|2024-02-09 16h|2024-02-12 16h|
 |#|stone-guardian-81fcc1|Stone Guardian|11,69€|20|2024-02-09 16h|2024-02-12 16h|
 |#|scrapnaut|Scrapnaut|10,99€|50|2024-02-09 16h|2024-02-12 16h|
@@ -774,6 +775,8 @@
 |#|mosaics-galore-challenging-journey-3ee83b|Mosaics Galore. Challenging journey|4,49€|50|2024-01-30 16h|2024-02-06 16h|
 |#|murder-is-game-over-streaming-death-951812|Murder Is Game Over - Streaming Death|4,49€|25|2024-02-09 16h|2024-02-12 16h|
 |#|mysteries-of-the-undead-46140a|Mysteries of the Undead|4,49€|50|2024-02-13 16h|2024-02-20 16h|
+|#|mystery-solitaire-grimms-tales-244e2a|Mystery Solitaire. Grimm's Tales|4,49€|50|2024-03-05 16h|2024-03-12 15h|
+|#|mystery-solitaire-grimms-tales-2-e1e538|Mystery Solitaire. Grimm's Tales 2|4,49€|50|2024-02-27 16h|2024-03-05 16h|
 |#|mystery-solitaire-the-black-raven-65336d|Mystery Solitaire. The Black Raven|4,49€|50|2024-02-09 16h|2024-02-12 16h|
 |#|near-impact-b7bee9|Near Impact|4,49€|80|2024-02-09 16h|2024-02-12 16h|
 |#|nephise-ascension-f0ba3d|Nephise: Ascension|4,49€|30|2024-02-20 16h|2024-02-27 16h|
@@ -832,6 +835,7 @@
 |#|dream-magic-will-358429|Dream magic will|3,59€|50|2024-02-09 16h|2024-02-12 16h|
 |#|ghost-blood-91ed9f|Ghost Blood|3,59€|65|2024-02-09 16h|2024-02-12 16h|
 |#|hero-battle-fantasy-arena-f15594|Hero Battle Fantasy Arena|3,59€|50|2024-02-20 16h|2024-02-27 16h|
+|#|mahjong-magic-journey-2-28de53|Mahjong Magic Journey 2|3,59€|50|2024-02-27 16h|2024-03-05 16h|
 |#|supfly-delivery-simulator-82d2fd|Supfly Delivery Simulator|3,59€|30|2024-02-09 16h|2024-02-12 16h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|55|2024-02-02 22h|2024-02-09 22h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|55|2024-03-10 22h|2024-03-17 22h|

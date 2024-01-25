@@ -237,6 +237,7 @@
 |#|eiyuden-chronicle-rising|Eiyuden Chronicle: Rising|14,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|el-hijo-6b63c5|El Hijo – A Wild West Tale|19,99€|75|2024-01-30 16h|2024-02-06 16h|
 |#|eldest-souls-83e12a|Eldest Souls|19,99€|75|2024-02-09 16h|2024-02-12 16h|
+|#|elven-rivers-the-forgotten-lands-collectors-edition-13f068|Elven Rivers. The Forgotten Lands Collector's Edition|11,69€|30|2024-03-05 16h|2024-03-12 15h|
 |#|elypse-b177a8|Elypse|14,99€|25|2024-02-09 16h|2024-02-12 16h|
 |#|emergency-crew-1-04340a|Emergency Crew 2 Global Warming|4,49€|50|2024-02-13 16h|2024-02-20 16h|
 |#|endwar|Tom Clancy's EndWar|9,99€|70|2024-02-09 16h|2024-02-12 16h|
@@ -444,6 +445,7 @@
 |#|love-3-c2516f|LOVE 3|8,99€|30|2024-02-09 16h|2024-02-12 16h|
 |#|luckygoal-201ee6|Lucky Goal|4,99€|40|2024-02-09 16h|2024-02-12 16h|
 |#|machinika-museum-a1ef20|Machinika Museum|7,19€|60|2024-02-09 16h|2024-02-12 16h|
+|#|mahjong-magic-journey-2-28de53|Mahjong Magic Journey 2|3,59€|50|2024-02-27 16h|2024-03-05 16h|
 |#|mahjong-royal-towers-e327ab|Mahjong Royal Towers|2,69€|30|2024-02-09 16h|2024-02-12 16h|
 |#|mahjong-world-contest-2-0d946a|Mahjong World Contest 2|4,49€|30|2024-02-27 16h|2024-03-05 16h|
 |#|mallofmayhem-15344c|Mall of Mayhem|7,19€|30|2024-07-01 06h|2024-07-30 22h|
@@ -489,6 +491,8 @@
 |#|my-island-6fc611|My Island|8,99€|40|2024-02-08 12h|2024-02-15 12h|
 |#|my-summer-adventure-memories-of-another-life-e30d54|My Summer Adventure: Memories of Another Life|7,79€|50|2024-02-09 16h|2024-02-12 16h|
 |#|mysteries-of-the-undead-46140a|Mysteries of the Undead|4,49€|50|2024-02-13 16h|2024-02-20 16h|
+|#|mystery-solitaire-grimms-tales-2-e1e538|Mystery Solitaire. Grimm's Tales 2|4,49€|50|2024-02-27 16h|2024-03-05 16h|
+|#|mystery-solitaire-grimms-tales-244e2a|Mystery Solitaire. Grimm's Tales|4,49€|50|2024-03-05 16h|2024-03-12 15h|
 |#|mystery-solitaire-the-black-raven-65336d|Mystery Solitaire. The Black Raven|4,49€|50|2024-02-09 16h|2024-02-12 16h|
 |#|mythforce-d2710b|MythForce|26,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|n-verlore-verstand-1d7f5b|'n Verlore Verstand|13,49€|90|2024-02-09 16h|2024-02-12 16h|
