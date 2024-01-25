@@ -246,6 +246,7 @@
 |#|jackbox-party-pack-7|The Jackbox Party Pack 7|23,99€|40|2024-02-09 16h|2024-02-12 16h|
 |#|jackbox-party-pack-8|The Jackbox Party Pack 8|23,99€|45|2024-02-09 16h|2024-02-12 16h|
 |#|universe-sandbox|Universe Sandbox|23,99€|33|2024-02-09 16h|2024-02-12 16h|
+|#|universe-sandbox|Universe Sandbox|23,99€|33|2024-03-14 15h|2024-03-28 15h|
 |#|good-company|Good Company|22,99€|33|2024-02-09 16h|2024-02-12 16h|
 |#|jackbox-party-pack-3|Jackbox Party Pack 3|22,99€|40|2024-02-09 16h|2024-02-12 16h|
 |#|moving-out|Moving Out|22,99€|75|2024-02-09 16h|2024-02-12 16h|
@@ -283,6 +284,7 @@
 |#|snowtopia-ski-resort-builder-5f941b|Snowtopia - Ski Resort Builder|20,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|1428-shadows-over-silesia-266e5f|1428: Shadows over Silesia|19,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|absolute-tactics-ca91e4|Absolute Tactics|19,99€|30|2024-02-09 16h|2024-02-12 16h|
+|#|airhead-945e54|Airhead|19,99€|10|2024-02-12 14h|2024-02-19 14h|
 |#|alex-kidd-in-miracle-world-dx|Alex Kidd in Miracle World DX|19,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|alfredhitchockvertigo-c58904|Alfred Hitchcock - Vertigo|19,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|arcrunner-61fee6|ArcRunner|19,99€|20|2024-02-09 16h|2024-02-12 16h|
@@ -557,6 +559,7 @@
 |#|arcadegeddon|Arcadegeddon|13,49€|50|2024-02-09 16h|2024-02-12 16h|
 |#|counterattackuprising-06aed8|CounterAttack: Uprising|13,49€|50|2024-02-20 16h|2024-02-27 16h|
 |#|deadwater-saloon-391b9d|Deadwater Saloon|13,49€|70|2024-02-09 16h|2024-02-12 16h|
+|#|doors-paradox-5896c7|Doors - Paradox|13,49€|100|2024-02-01 16h|2024-02-08 16h|
 |#|ebola-2-b61221|EBOLA 2|13,49€|35|2024-02-13 16h|2024-02-20 16h|
 |#|falling-out-cb0814|Falling Out|13,49€|60|2024-02-09 16h|2024-02-12 16h|
 |#|gray-dawn-a0cc44|Gray Dawn|13,49€|50|2024-02-13 16h|2024-02-20 16h|
@@ -698,6 +701,8 @@
 |#|super-alloy-ranger-4252cc|Super Alloy Ranger|8,99€|30|2024-02-09 16h|2024-02-12 16h|
 |#|tandem-a-tale-of-shadows-c3f55e|Tandem: A Tale of Shadows|8,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|the-backroom-project-b6b434|The Backroom Project|8,99€|25|2024-02-09 16h|2024-02-12 16h|
+|#|forest-quartet-5d03e3|The Forest Quartet|8,99€|65|2024-02-09 16h|2024-02-12 16h|
+|#|forest-quartet-5d03e3|The Forest Quartet|8,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|the-outforce-acfbb8|The Outforce|8,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|they-always-run-965bb3|They Always Run|8,99€|55|2024-02-09 16h|2024-02-12 16h|
 |#|warshift-127867|WARSHIFT|8,99€|50|2024-02-09 16h|2024-02-12 16h|
@@ -748,6 +753,7 @@
 |#|wall-world-02e132|Wall World|6,89€|25|2024-02-09 16h|2024-02-12 16h|
 |#|flower|Flower|6,69€|73|2024-02-09 16h|2024-02-12 16h|
 |#|backrooms-realm-of-shadows-1ca413|Backrooms: Realm of Shadows|6,29€|25|2024-02-09 16h|2024-02-12 16h|
+|#|blipz-c85697|Blipz|6,29€|50|2024-01-30 16h|2024-02-06 16h|
 |#|planeticusgame-5dd84a|Planeticus|6,29€|20|2024-02-09 16h|2024-02-12 16h|
 |#|secret-of-dream-947b85|Secret of Dream|6,29€|80|2024-02-09 16h|2024-02-12 16h|
 |#|the-shape-of-things-dc5b26|The Shape of Things|6,29€|40|2024-02-09 16h|2024-02-12 16h|
