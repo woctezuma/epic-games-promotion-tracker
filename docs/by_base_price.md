@@ -193,6 +193,7 @@
 |#|marble-it-up-ultra-7b5692|Marble It Up! Ultra|26,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|mythforce-d2710b|MythForce|26,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|railgrade|RAILGRADE|26,99€|35|2024-02-09 16h|2024-02-12 16h|
+|#|vagrus-the-riven-realms-c635d5|Vagrus - The Riven Realms|26,99€|36|2024-02-09 16h|2024-02-12 16h|
 |#|a-knights-quest|A Knights Quest|24,99€|90|2024-02-16 18h|2024-03-01 18h|
 |#|amnesia-rebirth|Amnesia: Rebirth|24,99€|90|2024-02-09 16h|2024-02-12 16h|
 |#|asterix-and-obelix-slap-them-all-458670|Asterix and Obelix Slap Them All|24,99€|75|2024-02-09 16h|2024-02-12 16h|
