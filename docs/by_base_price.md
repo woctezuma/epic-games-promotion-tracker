@@ -279,6 +279,7 @@
 |#|galactic-civilizations-iii|Galactic Civilizations III|20,99€|66|2024-02-09 16h|2024-02-12 16h|
 |#|not-for-broadcast-7e523f|Not For Broadcast|20,99€|65|2024-02-09 16h|2024-02-12 16h|
 |#|production-line|Production Line|20,99€|70|2024-02-09 16h|2024-02-12 16h|
+|#|ranch-simulator|Ranch Simulator|20,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|snowtopia-ski-resort-builder-5f941b|Snowtopia - Ski Resort Builder|20,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|1428-shadows-over-silesia-266e5f|1428: Shadows over Silesia|19,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|absolute-tactics-ca91e4|Absolute Tactics|19,99€|30|2024-02-09 16h|2024-02-12 16h|
@@ -747,6 +748,7 @@
 |#|edge-of-galaxy-092087|Edge Of Galaxy|6,99€|65|2024-02-09 16h|2024-02-12 16h|
 |#|wall-world-02e132|Wall World|6,89€|25|2024-02-09 16h|2024-02-12 16h|
 |#|flower|Flower|6,69€|73|2024-02-09 16h|2024-02-12 16h|
+|#|backrooms-realm-of-shadows-1ca413|Backrooms: Realm of Shadows|6,29€|25|2024-02-09 16h|2024-02-12 16h|
 |#|planeticusgame-5dd84a|Planeticus|6,29€|20|2024-02-09 16h|2024-02-12 16h|
 |#|secret-of-dream-947b85|Secret of Dream|6,29€|80|2024-02-09 16h|2024-02-12 16h|
 |#|the-shape-of-things-dc5b26|The Shape of Things|6,29€|40|2024-02-09 16h|2024-02-12 16h|

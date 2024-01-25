@@ -93,6 +93,7 @@
 |#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2024-02-17 22h|2024-03-01 22h|
 |#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2024-04-05 22h|2024-04-25 22h|
 |#|backrooms-eight-levels-c7ea4c|Backrooms: Eight Levels|0,89€|50|2024-02-11 22h|2024-02-29 22h|
+|#|backrooms-realm-of-shadows-1ca413|Backrooms: Realm of Shadows|6,29€|25|2024-02-09 16h|2024-02-12 16h|
 |#|bad-rats-revenge-7f0eed|Bad Rats Revenge|1,79€|80|2024-02-09 16h|2024-02-12 16h|
 |#|bad-rats-show-1b74cf|Bad Rats Show|1,79€|80|2024-02-09 16h|2024-02-12 16h|
 |#|baldurs-gate-2-enhanced-edition|Baldur's Gate II: Enhanced Edition|15,99€|65|2024-02-09 16h|2024-02-12 16h|
@@ -614,6 +615,7 @@
 |#|run-the-world-inbetween-399e64|RUN - The world in-between|9,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|rails-across-america-958ba8|Rails Across America|8,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|rain-world-4c860c|Rain World|22,39€|55|2024-02-09 16h|2024-02-12 16h|
+|#|ranch-simulator|Ranch Simulator|20,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|ravens-hike-c34341|Ravens Hike|3,19€|60|2024-02-13 16h|2024-02-20 16h|
 |#|rayman-origins|Rayman Origins|9,99€|70|2024-02-09 16h|2024-02-12 16h|
 |#|real-drift-multiplayer-4bdd6d|Real Drift Multiplayer|1,79€|50|2024-01-25 17h|2024-02-07 17h|

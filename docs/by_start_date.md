@@ -126,6 +126,7 @@
 |#|back-4-blood|Back 4 Blood: Standard Edition|59,99€|85|2024-02-09 16h|2024-02-12 16h|
 |#|back-then-2072ca|Back Then|11,69€|15|2024-02-09 16h|2024-02-12 16h|
 |#|backpack-hero-449c5e|Backpack Hero|17,99€|20|2024-02-09 16h|2024-02-12 16h|
+|#|backrooms-realm-of-shadows-1ca413|Backrooms: Realm of Shadows|6,29€|25|2024-02-09 16h|2024-02-12 16h|
 |#|bad-rats-revenge-7f0eed|Bad Rats Revenge|1,79€|80|2024-02-09 16h|2024-02-12 16h|
 |#|bad-rats-show-1b74cf|Bad Rats Show|1,79€|80|2024-02-09 16h|2024-02-12 16h|
 |#|baldurs-gate-2-enhanced-edition|Baldur's Gate II: Enhanced Edition|15,99€|65|2024-02-09 16h|2024-02-12 16h|
@@ -522,6 +523,7 @@
 |#|run-the-world-inbetween-399e64|RUN - The world in-between|9,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|rails-across-america-958ba8|Rails Across America|8,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|rain-world-4c860c|Rain World|22,39€|55|2024-02-09 16h|2024-02-12 16h|
+|#|ranch-simulator|Ranch Simulator|20,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|rayman-origins|Rayman Origins|9,99€|70|2024-02-09 16h|2024-02-12 16h|
 |#|recipe-for-disaster-83726f|Recipe for Disaster|16,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|recollection-71f3a4|Recollection|4,49€|40|2024-02-09 16h|2024-02-12 16h|
