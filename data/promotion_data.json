@@ -1620,6 +1620,24 @@
     "title": "Crown Of The Empire Collectors Edition"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "crowns-and-pawns-kingdom-of-deceit-51b045",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Crowns and Pawns: Kingdom of Deceit"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "crowns-and-pawns-kingdom-of-deceit-51b045",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Crowns and Pawns: Kingdom of Deceit"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -1647,6 +1665,24 @@
     "title": "Curious Expedition"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "curious-expedition-2-8cb901",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Curious Expedition 2"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "curious-expedition-2-8cb901",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Curious Expedition 2"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -1654,6 +1690,24 @@
     "slug": "curse-of-the-sea-rats-8f28b1",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Curse of the Sea Rats"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "cursed-to-golf-a6bc22",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Cursed to Golf"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "cursed-to-golf-a6bc22",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Cursed to Golf"
   },
   {
     "discountPercentage": 55,
@@ -2536,6 +2590,24 @@
     "slug": "fire-commander-df24ad",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Fire Commander"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "firegirl-29bf39",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Firegirl: Hack 'n Splash Rescue DX"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "firegirl-29bf39",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Firegirl: Hack 'n Splash Rescue DX"
   },
   {
     "discountPercentage": 50,
@@ -3474,15 +3546,6 @@
     "title": "I'm looking for 3024 people"
   },
   {
-    "discountPercentage": 60,
-    "endDate": "2024-02-10T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "industria",
-    "startDate": "2024-01-25T16:00:00.000Z",
-    "title": "INDUSTRIA"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -3571,15 +3634,6 @@
     "slug": "infindustry-cccc40",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Infindustry"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2024-02-01T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 2239,
-    "slug": "infinifactory-ec9686",
-    "startDate": "2024-01-25T16:00:00.000Z",
-    "title": "Infinifactory"
   },
   {
     "discountPercentage": 40,
@@ -3949,6 +4003,24 @@
     "slug": "lego-brawls",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "LEGO\u00ae Brawls"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "lego-bricktales-7ccf9b",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "LEGO\u00ae Bricktales"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "lego-bricktales-7ccf9b",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "LEGO\u00ae Bricktales"
   },
   {
     "discountPercentage": 75,
@@ -5121,6 +5193,24 @@
     "title": "Paper Beast"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "paper-cut-mansion-2c67e2",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Paper Cut Mansion"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "paper-cut-mansion-2c67e2",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Paper Cut Mansion"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -5218,6 +5308,24 @@
     "slug": "planet-cube-edge-aac6d5",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Planet Cube - Edge"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "planet-of-lana-a9febe",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Planet of Lana"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "planet-of-lana-a9febe",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Planet of Lana"
   },
   {
     "discountPercentage": 20,
@@ -6435,6 +6543,24 @@
     "title": "Soulless - Ray Of Hope"
   },
   {
+    "discountPercentage": 55,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "source-of-madness-287857",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Source of Madness"
+  },
+  {
+    "discountPercentage": 55,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "source-of-madness-287857",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Source of Madness"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -6820,6 +6946,24 @@
     "slug": "switchball-hd-6d3802",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Switchball HD"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "swordship-b6c7f4",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Swordship"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "swordship-b6c7f4",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Swordship"
   },
   {
     "discountPercentage": 70,
@@ -7749,6 +7893,24 @@
     "title": "Tinykin"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "togges-17f696",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Togges"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "togges-17f696",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Togges"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -8451,6 +8613,24 @@
     "title": "Wattam"
   },
   {
+    "discountPercentage": 55,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "wavetale-f9cfdf",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Wavetale"
+  },
+  {
+    "discountPercentage": 55,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "wavetale-f9cfdf",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Wavetale"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -8494,6 +8674,24 @@
     "slug": "whispering-willows-bde110",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Whispering Willows"
+  },
+  {
+    "discountPercentage": 65,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "white-shadows-64e014",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "White Shadows"
+  },
+  {
+    "discountPercentage": 65,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "white-shadows-64e014",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "White Shadows"
   },
   {
     "discountPercentage": 60,
