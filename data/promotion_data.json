@@ -1513,6 +1513,15 @@
   },
   {
     "discountPercentage": 30,
+    "endDate": "2024-03-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "cooking-trip-d45abd",
+    "startDate": "2024-02-27T16:00:00.000Z",
+    "title": "Cooking Trip Collectors Edition"
+  },
+  {
+    "discountPercentage": 30,
     "endDate": "2024-02-06T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 449,
@@ -6181,6 +6190,15 @@
     "slug": "shop-tycoon-prepare-your-wallet-e705ba",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Shop Tycoon - Prepare Your Wallet"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2024-02-04T21:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "shuyan-saga-cd1476",
+    "startDate": "2024-01-28T21:00:00.000Z",
+    "title": "Shuyan Saga"
   },
   {
     "discountPercentage": 75,
