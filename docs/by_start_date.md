@@ -1,6 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|evil-nun-the-broken-mask-372461|Evil Nun: The Broken Mask|17,99€|30|2024-01-25 14h|2024-02-01 14h|
 |#|industria|INDUSTRIA|19,99€|60|2024-01-25 16h|2024-02-10 16h|
 |#|infinifactory-ec9686|Infinifactory|22,39€|100|2024-01-25 16h|2024-02-01 16h|
 |#|city-car-parking-simulator-231485|City Car Parking Simulator|0,89€|45|2024-01-25 17h|2024-02-07 17h|
