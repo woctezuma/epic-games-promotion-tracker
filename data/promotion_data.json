@@ -64,6 +64,15 @@
   },
   {
     "discountPercentage": 50,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "1001-jigsaw-world-tour-london-06dba1",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "1001 Jigsaw. World Tour: London"
+  },
+  {
+    "discountPercentage": 50,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1999,
@@ -333,6 +342,24 @@
     "title": "Alice's Jigsaw. Wonderland Chronicles"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-04-25T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "alices-jigsaw-wonderland-chronicles-8c6d0c",
+    "startDate": "2024-04-11T15:00:00.000Z",
+    "title": "Alice's Jigsaw. Wonderland Chronicles"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "alices-jigsaw-wonderland-chronicles-2-361dc4",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Alice's Jigsaw. Wonderland Chronicles 2"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -520,6 +547,15 @@
     "slug": "arcadegeddon",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Arcadegeddon"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-03-12T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "argonauts-agency-missing-daughter-1ca64b",
+    "startDate": "2024-03-05T16:00:00.000Z",
+    "title": "Argonauts Agency 6: Missing Daughter"
   },
   {
     "discountPercentage": 80,
@@ -870,6 +906,15 @@
     "originalPrice": 1169,
     "slug": "back-then-2072ca",
     "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Back Then"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1169,
+    "slug": "back-then-2072ca",
+    "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Back Then"
   },
   {
@@ -1629,6 +1674,15 @@
     "title": "Clash - Artifacts of Chaos"
   },
   {
+    "discountPercentage": 25,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "commander-keen-dreams-definitive-edition-2beb3a",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Commander Keen Dreams Definitive Edition"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -1762,6 +1816,15 @@
     "slug": "crown-of-the-empire-86cf18",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Crown Of The Empire Collectors Edition"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "crown-of-the-empire-2-around-the-world-699782",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Crown of the Empire 2: Around the World Collectors Edition"
   },
   {
     "discountPercentage": 50,
@@ -2391,6 +2454,15 @@
     "originalPrice": 359,
     "slug": "dream-magic-will-358429",
     "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Dream magic will"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 359,
+    "slug": "dream-magic-will-358429",
+    "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Dream magic will"
   },
   {
@@ -6543,6 +6615,15 @@
     "title": "Rise of the Third Power"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2024-02-20T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 299,
+    "slug": "road-defense-outsiders-22e4ba",
+    "startDate": "2024-02-13T16:00:00.000Z",
+    "title": "Road Defense: Outsiders"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -6795,6 +6876,15 @@
     "title": "Schein"
   },
   {
+    "discountPercentage": 25,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "scholar-of-the-arcane-arts-6f4c67",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Scholar of the Arcane Arts"
+  },
+  {
     "discountPercentage": 67,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -6936,6 +7026,15 @@
     "originalPrice": 539,
     "slug": "shadows-price-for-our-sins-29e42e",
     "startDate": "2024-02-13T16:00:00.000Z",
+    "title": "Shadows. Price For Our Sins"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-04-25T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 539,
+    "slug": "shadows-price-for-our-sins-29e42e",
+    "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Shadows. Price For Our Sins"
   },
   {
@@ -7162,6 +7261,15 @@
     "slug": "solar-ash",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Solar Ash"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "solitaire-game-halloween-5268c1",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Solitaire Game Halloween"
   },
   {
     "discountPercentage": 70,
