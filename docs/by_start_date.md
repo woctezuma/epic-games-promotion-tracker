@@ -1,6 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|birch-simulator-21969e|Birch Simulator|0,89€|50|2024-01-27 22h|2024-02-15 22h|
 |#|shuyan-saga-cd1476|Shuyan Saga|14,99€|25|2024-01-28 21h|2024-02-04 21h|
 |#|corrupt-political-simulator-f94058|Corrupt - Political Simulator|3,59€|90|2024-01-29 23h|2024-02-13 23h|
 |#|1001-jigsaw-earth-chronicles-7b25fc|1001 Jigsaw. Earth Chronicles|4,49€|50|2024-01-30 16h|2024-02-06 16h|
@@ -21,8 +20,15 @@
 |#|war-mongrels|War Mongrels|37,99€|65|2024-01-30 16h|2024-02-06 16h|
 |#|dnf-duel-07d055|DNF Duel|49,99€|60|2024-01-31 18h|2024-02-12 18h|
 |#|forest-fire-b4bb7e|Forest Fire|5,39€|20|2024-02-01 07h|2024-02-14 08h|
-|#|skotos-455463|Skotos|8,99€|35|2024-02-01 07h|2024-02-29 07h|
+|#|skotos-455463|Skotos|8,99€|40|2024-02-01 07h|2024-02-29 07h|
 |#|doors-paradox-5896c7|Doors - Paradox|13,49€|100|2024-02-01 16h|2024-02-08 16h|
+|#|atv-offroad-simulator-24-d9f4ad|ATV Offroad Simulator 24|0,89€|40|2024-02-01 17h|2024-02-15 17h|
+|#|car-parking-real-driving-sim-ba7eed|Car Parking Real Driving Sim|0,89€|40|2024-02-01 17h|2024-02-15 17h|
+|#|classic-car-drive-simulator-a540a9|Classic Car Simulator Car Driving|0,89€|40|2024-02-01 17h|2024-02-15 17h|
+|#|forest-offroad-driving-simulator-e8f5c1|Forest Offroad Driving Simulator|0,89€|40|2024-02-01 17h|2024-02-15 17h|
+|#|rod-multiplayer-car-driving-8b748d|ROD Multiplayer Car Driving|0,89€|40|2024-02-01 17h|2024-02-15 17h|
+|#|suv-4x4-car-parking-simulator-5d6c9e|Suv 4x4 Car Parking Simulator|0,89€|40|2024-02-01 17h|2024-02-15 17h|
+|#|tofas-sahin-online-car-driving-4bb680|Tofas Sahin Online Car Driving|1,79€|40|2024-02-01 17h|2024-02-15 17h|
 |#|island-of-fear-00a3a6|Island of Fear|2,69€|35|2024-02-01 21h|2024-02-03 21h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|55|2024-02-02 22h|2024-02-09 22h|
 |#|eden-island-8cd344|Eden Island|8,99€|50|2024-02-03 12h|2024-02-17 15h|
@@ -271,6 +277,7 @@
 |#|far-cry-4|FAR CRY 4|29,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|final-fantasy-vii-remake-intergrade|FINAL FANTASY VII REMAKE INTERGRADE|79,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|foreclosed|FORECLOSED|16,99€|80|2024-02-09 16h|2024-02-12 16h|
+|#|fur-squadron-0042b8|FUR Squadron|6,29€|45|2024-02-09 16h|2024-02-12 16h|
 |#|faces-of-war-3c2686|Faces of War|4,99€|85|2024-02-09 16h|2024-02-12 16h|
 |#|fall-of-light-darkest-edition-055f95|Fall of Light: Darkest Edition|14,99€|90|2024-02-09 16h|2024-02-12 16h|
 |#|falling-out-cb0814|Falling Out|13,49€|60|2024-02-09 16h|2024-02-12 16h|
@@ -928,6 +935,14 @@
 |#|amber-1e2240|Amber|26,99€|34|2024-02-14 13h|2024-02-20 13h|
 |#|the-meme-hunter-bf7086|THE MEME HUNTER|0,89€|50|2024-02-14 22h|2024-02-29 22h|
 |#|nextbots-in-the-backrooms-b5677b|Nextbots In The Backrooms|0,89€|50|2024-02-15 22h|2024-03-05 22h|
+|#|dirt-bike-racer-simulator-4c49b5|Dirt Bike Racer Simulator|0,89€|40|2024-02-16 17h|2024-02-29 17h|
+|#|mountain-bicycle-rider-simulator-e52374|Mountain Bicycle Rider Simulator|0,89€|40|2024-02-16 17h|2024-02-29 17h|
+|#|police-car-armored-cop-simulator-60b997|Police Car Armored Cop Simulator|0,89€|40|2024-02-16 17h|2024-02-29 17h|
+|#|police-car-simulator-d57d15|Police Car Simulator|0,89€|40|2024-02-16 17h|2024-02-29 17h|
+|#|sniper-hunter-shooter-5cda66|Sniper Hunter Shooter|0,89€|40|2024-02-16 17h|2024-02-29 17h|
+|#|taxi-driver-simulator-car-parking-c5f70f|Taxi Driver Simulator Car Parking|0,89€|40|2024-02-16 17h|2024-02-29 17h|
+|#|truck-simulator-ultimate-3d-fafeaa|Truck Simulator Ultimate 3D|0,89€|40|2024-02-16 17h|2024-02-29 17h|
+|#|ultimate-flight-simulator-pro-8f1009|Ultimate Flight Simulator Pro|0,89€|40|2024-02-16 17h|2024-02-29 17h|
 |#|a-knights-quest|A Knights Quest|24,99€|90|2024-02-16 18h|2024-03-01 18h|
 |#|for-the-king|For The King|19,99€|75|2024-02-16 18h|2024-03-01 18h|
 |#|hue|Hue|11,99€|80|2024-02-16 18h|2024-03-01 18h|
