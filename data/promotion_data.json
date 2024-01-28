@@ -189,6 +189,15 @@
     "title": "APICO"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-02-15T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "atv-offroad-simulator-24-d9f4ad",
+    "startDate": "2024-02-01T17:00:00.000Z",
+    "title": "ATV Offroad Simulator 24"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -1171,15 +1180,6 @@
   },
   {
     "discountPercentage": 50,
-    "endDate": "2024-02-15T22:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "birch-simulator-21969e",
-    "startDate": "2024-01-27T22:00:00.000Z",
-    "title": "Birch Simulator"
-  },
-  {
-    "discountPercentage": 50,
     "endDate": "2024-04-03T22:00:00.000Z",
     "isFree": false,
     "originalPrice": 89,
@@ -1486,6 +1486,15 @@
   },
   {
     "discountPercentage": 40,
+    "endDate": "2024-02-15T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "car-parking-real-driving-sim-ba7eed",
+    "startDate": "2024-02-01T17:00:00.000Z",
+    "title": "Car Parking Real Driving Sim"
+  },
+  {
+    "discountPercentage": 40,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1950,
@@ -1672,6 +1681,15 @@
     "slug": "clash-artifacts-of-chaos-53e881",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Clash - Artifacts of Chaos"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-02-15T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "classic-car-drive-simulator-a540a9",
+    "startDate": "2024-02-01T17:00:00.000Z",
+    "title": "Classic Car Simulator Car Driving"
   },
   {
     "discountPercentage": 25,
@@ -2277,6 +2295,15 @@
     "title": "Dirt Bicycle Rider Simulator"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-02-29T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "dirt-bike-racer-simulator-4c49b5",
+    "startDate": "2024-02-16T17:00:00.000Z",
+    "title": "Dirt Bike Racer Simulator"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -2781,6 +2808,15 @@
     "title": "FRONT MISSION 1st: Remake"
   },
   {
+    "discountPercentage": 45,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 629,
+    "slug": "fur-squadron-0042b8",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "FUR Squadron"
+  },
+  {
     "discountPercentage": 85,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -3112,6 +3148,15 @@
     "slug": "forest-grove-6b05cf",
     "startDate": "2024-02-19T14:00:00.000Z",
     "title": "Forest Grove"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-02-15T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "forest-offroad-driving-simulator-e8f5c1",
+    "startDate": "2024-02-01T17:00:00.000Z",
+    "title": "Forest Offroad Driving Simulator"
   },
   {
     "discountPercentage": 40,
@@ -5202,6 +5247,15 @@
     "title": "Mosaics Galore. Challenging journey"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-02-29T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "mountain-bicycle-rider-simulator-e52374",
+    "startDate": "2024-02-16T17:00:00.000Z",
+    "title": "Mountain Bicycle Rider Simulator"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -6075,6 +6129,24 @@
     "title": "Poker Club"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-02-29T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "police-car-armored-cop-simulator-60b997",
+    "startDate": "2024-02-16T17:00:00.000Z",
+    "title": "Police Car Armored Cop Simulator"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-02-29T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "police-car-simulator-d57d15",
+    "startDate": "2024-02-16T17:00:00.000Z",
+    "title": "Police Car Simulator"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-03-15T22:00:00.000Z",
     "isFree": false,
@@ -6325,6 +6397,15 @@
     "slug": "replikator-6adddc",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "REPLIKATOR"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-02-15T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "rod-multiplayer-car-driving-8b748d",
+    "startDate": "2024-02-01T17:00:00.000Z",
+    "title": "ROD Multiplayer Car Driving"
   },
   {
     "discountPercentage": 30,
@@ -7137,7 +7218,7 @@
     "title": "Sir Whoopass - Immortal Death"
   },
   {
-    "discountPercentage": 35,
+    "discountPercentage": 40,
     "endDate": "2024-02-29T07:00:00.000Z",
     "isFree": false,
     "originalPrice": 899,
@@ -7234,6 +7315,15 @@
     "slug": "smelter-97a47b",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Smelter"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-02-29T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "sniper-hunter-shooter-5cda66",
+    "startDate": "2024-02-16T17:00:00.000Z",
+    "title": "Sniper Hunter Shooter"
   },
   {
     "discountPercentage": 45,
@@ -7722,6 +7812,15 @@
     "title": "Survivor - Castaway Island"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-02-15T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "suv-4x4-car-parking-simulator-5d6c9e",
+    "startDate": "2024-02-01T17:00:00.000Z",
+    "title": "Suv 4x4 Car Parking Simulator"
+  },
+  {
     "discountPercentage": 35,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -7882,6 +7981,15 @@
     "slug": "tank-warfare-tunisia-1943-62f6e9",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Tank Warfare -  Tunisia 1943"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-02-29T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "taxi-driver-simulator-car-parking-c5f70f",
+    "startDate": "2024-02-16T17:00:00.000Z",
+    "title": "Taxi Driver Simulator Car Parking"
   },
   {
     "discountPercentage": 40,
@@ -8757,6 +8865,15 @@
     "title": "Tinykin"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-02-15T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "tofas-sahin-online-car-driving-4bb680",
+    "startDate": "2024-02-01T17:00:00.000Z",
+    "title": "Tofas Sahin Online Car Driving"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -9099,6 +9216,15 @@
     "title": "Trine 5: A Clockwork Conspiracy"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-02-29T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "truck-simulator-ultimate-3d-fafeaa",
+    "startDate": "2024-02-16T17:00:00.000Z",
+    "title": "Truck Simulator Ultimate 3D"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -9124,6 +9250,15 @@
     "slug": "uno",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "UNO Standard Edition"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-02-29T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "ultimate-flight-simulator-pro-8f1009",
+    "startDate": "2024-02-16T17:00:00.000Z",
+    "title": "Ultimate Flight Simulator Pro"
   },
   {
     "discountPercentage": 80,
