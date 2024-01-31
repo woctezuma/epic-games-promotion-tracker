@@ -3141,6 +3141,15 @@
     "title": "Eiyuden Chronicle: Rising"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "elderand-09e6bc",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Elderand"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -5805,6 +5814,15 @@
     "title": "Lifeless Planet: Premier Edition"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "lilas-sky-ark-610f75",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Lila's Sky Ark"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -6010,6 +6028,15 @@
     "slug": "mordhau",
     "startDate": "2024-02-13T16:00:00.000Z",
     "title": "MORDHAU"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "mable-and-the-wood-9bd697",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Mable & The Wood"
   },
   {
     "discountPercentage": 60,
@@ -6678,6 +6705,15 @@
     "title": "Mystery Solitaire. The Black Raven"
   },
   {
+    "discountPercentage": 25,
+    "endDate": "2024-03-21T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 199,
+    "slug": "mystery-in-the-office-f629ad",
+    "startDate": "2024-03-07T17:00:00.000Z",
+    "title": "Mystery in the Office"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -6928,6 +6964,15 @@
     "slug": "nioh-the-complete-edition",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Nioh: The Complete Edition"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "nira-02f6ee",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Nira"
   },
   {
     "discountPercentage": 66,
@@ -8143,6 +8188,15 @@
     "slug": "rescue-party-live",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Rescue Party: Live!"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "restless-soul-d5baed",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Restless Soul"
   },
   {
     "discountPercentage": 60,
@@ -10593,6 +10647,15 @@
     "title": "The Jackbox Party Pack 9"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "the-kings-bird-a5b589",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "The King's Bird"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2024-02-27T16:00:00.000Z",
     "isFree": false,
@@ -11664,6 +11727,15 @@
     "title": "Turbo Overkill"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "turnip-boy-robs-a-bank-3fae0e",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Turnip Boy Robs a Bank"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2024-03-09T05:00:00.000Z",
     "isFree": false,
@@ -11698,6 +11770,15 @@
     "slug": "uno",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "UNO Standard Edition"
+  },
+  {
+    "discountPercentage": 33,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "ugly-da09b2",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Ugly"
   },
   {
     "discountPercentage": 40,
