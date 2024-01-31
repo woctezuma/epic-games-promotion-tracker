@@ -973,6 +973,7 @@
 |#|xr22seaguard-480497|XR22-SEAGUARD|6,29€|30|2024-02-06 16h|2024-02-13 16h|
 |#|forest-fire-b4bb7e|Forest Fire|5,39€|20|2024-02-01 07h|2024-02-14 08h|
 |#|my-island-6fc611|My Island|8,99€|40|2024-02-08 12h|2024-02-15 12h|
+|#|doki-doki-literature-club-plus|Doki Doki Literature Club Plus!|12,49€|100|2024-02-08 16h|2024-02-15 16h|
 |#|atv-offroad-simulator-24-d9f4ad|ATV Offroad Simulator 24|0,89€|40|2024-02-01 17h|2024-02-15 17h|
 |#|car-parking-real-driving-sim-ba7eed|Car Parking Real Driving Sim|0,89€|40|2024-02-01 17h|2024-02-15 17h|
 |#|classic-car-drive-simulator-a540a9|Classic Car Simulator Car Driving|0,89€|40|2024-02-01 17h|2024-02-15 17h|

@@ -34,6 +34,7 @@
 |#|my-demon-wife-0d2461|My Demon Wife|9,89€|10|2024-02-07 23h|2024-02-21 23h|
 |#|quantum-storm-3d80ad|Quantum Storm|4,49€|10|2024-02-07 23h|2024-02-21 23h|
 |#|my-island-6fc611|My Island|8,99€|40|2024-02-08 12h|2024-02-15 12h|
+|#|doki-doki-literature-club-plus|Doki Doki Literature Club Plus!|12,49€|100|2024-02-08 16h|2024-02-15 16h|
 |#|n-verlore-verstand-1d7f5b|'n Verlore Verstand|13,49€|90|2024-02-09 16h|2024-02-12 16h|
 |#|1428-shadows-over-silesia-266e5f|1428: Shadows over Silesia|19,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|combat-naval-package-hunter-killer-685f4a|688(I) Hunter/Killer|7,99€|80|2024-02-09 16h|2024-02-12 16h|
