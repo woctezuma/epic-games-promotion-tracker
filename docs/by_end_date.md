@@ -1187,6 +1187,7 @@
 |#|saboteur-ii-avenging-angel-33e83c|Saboteur II Avenging Angel|7,19€|10|2024-03-05 23h|2024-03-19 23h|
 |#|saboteur-sio-123236|Saboteur SiO|9,89€|10|2024-03-05 23h|2024-03-19 23h|
 |#|saboteur-f3d01d|Saboteur!|7,19€|10|2024-03-05 23h|2024-03-19 23h|
+|#|mystery-in-the-office-f629ad|Mystery in the Office|1,99€|25|2024-03-07 17h|2024-03-21 17h|
 |#|n-verlore-verstand-1d7f5b|'n Verlore Verstand|13,49€|90|2024-03-14 15h|2024-03-28 15h|
 |#|1001-jigsaw-world-tour-london-06dba1|1001 Jigsaw. World Tour: London|4,49€|50|2024-03-14 15h|2024-03-28 15h|
 |#|7-billion-humans|7 Billion Humans|11,99€|50|2024-03-14 15h|2024-03-28 15h|
@@ -1214,6 +1215,7 @@
 |#|dynopunk-2035f5|Dynopunk|14,79€|50|2024-03-14 15h|2024-03-28 15h|
 |#|elegies-aya-17c3f1|ELEGIES Aya|16,19€|30|2024-03-14 15h|2024-03-28 15h|
 |#|eigengrau-62aef0|Eigengrau|8,99€|40|2024-03-14 15h|2024-03-28 15h|
+|#|elderand-09e6bc|Elderand|15,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|fallen-legion-revenants-a2c944|Fallen Legion Revenants|39,99€|35|2024-03-14 15h|2024-03-28 15h|
 |#|fallen-legion-rise-to-glory-0ea64a|Fallen Legion: Rise to Glory|29,99€|35|2024-03-14 15h|2024-03-28 15h|
 |#|figment|Figment|19,99€|70|2024-03-14 15h|2024-03-28 15h|
@@ -1241,11 +1243,14 @@
 |#|lego-bricktales-7ccf9b|LEGO® Bricktales|29,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|liberte-96a5e5|Liberte|17,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|lifeless-planet-premier-edition|Lifeless Planet: Premier Edition|15,99€|80|2024-03-14 15h|2024-03-28 15h|
+|#|lilas-sky-ark-610f75|Lila's Sky Ark|11,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|limbo|Limbo|9,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|little-inferno|Little Inferno|11,99€|66|2024-03-14 15h|2024-03-28 15h|
 |#|luckygoal-201ee6|Lucky Goal|4,99€|40|2024-03-14 15h|2024-03-28 15h|
+|#|mable-and-the-wood-9bd697|Mable & The Wood|11,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|my-summer-adventure-memories-of-another-life-e30d54|My Summer Adventure: Memories of Another Life|7,79€|50|2024-03-14 15h|2024-03-28 15h|
 |#|nexomon-extinction|Nexomon: Extinction|19,99€|60|2024-03-14 15h|2024-03-28 15h|
+|#|nira-02f6ee|Nira|7,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|out-of-line-209cbb|Out of Line|7,19€|40|2024-03-14 15h|2024-03-28 15h|
 |#|palladium-adventure-in-greece-f1ee1b|Palladium: Adventure in Greece|8,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|paper-cut-mansion-2c67e2|Paper Cut Mansion|19,99€|60|2024-03-14 15h|2024-03-28 15h|
@@ -1256,6 +1261,7 @@
 |#|r-type-final-2|R-Type Final 2|39,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|railgrade|RAILGRADE|26,99€|35|2024-03-14 15h|2024-03-28 15h|
 |#|remnant-from-the-ashes|Remnant: From the Ashes|39,99€|70|2024-03-14 15h|2024-03-28 15h|
+|#|restless-soul-d5baed|Restless Soul|11,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|return-of-red-riding-hood-enhanced-edition-3598e4|Return of Red Riding Hood Enhanced Edition|2,69€|60|2024-03-14 15h|2024-03-28 15h|
 |#|rimworld|RimWorld|32,99€|20|2024-03-14 15h|2024-03-28 15h|
 |#|satisfactory|Satisfactory|29,99€|45|2024-03-14 15h|2024-03-28 15h|
@@ -1280,6 +1286,7 @@
 |#|the-house-of-da-vinci-eb6e37|The House of Da Vinci|19,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|the-house-of-da-vinci-2-970dc3|The House of Da Vinci 2|19,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|the-house-of-da-vinci-3-b0c022|The House of Da Vinci 3|19,99€|40|2024-03-14 15h|2024-03-28 15h|
+|#|the-kings-bird-a5b589|The King's Bird|15,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|the-legend-of-heroes-trails-from-zero|The Legend of Heroes: Trails from Zero|39,99€|25|2024-03-14 15h|2024-03-28 15h|
 |#|the-legend-of-heroes-trails-into-reverie|The Legend of Heroes: Trails into Reverie|59,99€|20|2024-03-14 15h|2024-03-28 15h|
 |#|the-legend-of-heroes-trails-of-cold-steel-iii|The Legend of Heroes: Trails of Cold Steel III|59,99€|67|2024-03-14 15h|2024-03-28 15h|
@@ -1300,6 +1307,8 @@
 |#|tormented-souls|Tormented Souls|19,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|train-valley-ead642|Train Valley|7,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|train-valley-2-3606da|Train Valley 2|13,49€|65|2024-03-14 15h|2024-03-28 15h|
+|#|turnip-boy-robs-a-bank-3fae0e|Turnip Boy Robs a Bank|13,49€|20|2024-03-14 15h|2024-03-28 15h|
+|#|ugly-da09b2|Ugly|17,99€|33|2024-03-14 15h|2024-03-28 15h|
 |#|universe-sandbox|Universe Sandbox|23,99€|33|2024-03-14 15h|2024-03-28 15h|
 |#|wavetale-f9cfdf|Wavetale|29,99€|55|2024-03-14 15h|2024-03-28 15h|
 |#|white-shadows-64e014|White Shadows|19,99€|65|2024-03-14 15h|2024-03-28 15h|
