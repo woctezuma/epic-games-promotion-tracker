@@ -252,6 +252,15 @@
     "title": "Ad Infinitum"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "adventures-of-chris-64c13b",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Adventures of Chris"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -1341,6 +1350,15 @@
     "title": "Birch Simulator"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "bite-the-bullet-22fa1f",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Bite the Bullet"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -1456,6 +1474,15 @@
     "slug": "bloons-td-6-bf95a0",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Bloons TD 6"
+  },
+  {
+    "discountPercentage": 66,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "blue-fire-9c1dac",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Blue Fire"
   },
   {
     "discountPercentage": 50,
@@ -2250,6 +2277,15 @@
     "title": "Cyanide & Happiness - Freakpocalypse (Episode 1)"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "cyber-hook-064d2c",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Cyber Hook"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -2851,6 +2887,15 @@
     "slug": "doors-paradox-5896c7",
     "startDate": "2024-02-01T16:00:00.000Z",
     "title": "Doors - Paradox"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "double-cross-08a736",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Double Cross"
   },
   {
     "discountPercentage": 90,
@@ -5184,6 +5229,15 @@
     "title": "Jetboard Joust"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "joggernauts-a7767f",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Joggernauts"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -6706,6 +6760,15 @@
   },
   {
     "discountPercentage": 25,
+    "endDate": "2024-02-06T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 199,
+    "slug": "mystery-in-the-office-f629ad",
+    "startDate": "2024-02-03T18:00:00.000Z",
+    "title": "Mystery in the Office"
+  },
+  {
+    "discountPercentage": 25,
     "endDate": "2024-03-21T17:00:00.000Z",
     "isFree": false,
     "originalPrice": 199,
@@ -7306,6 +7369,15 @@
     "slug": "overtop-ed5e49",
     "startDate": "2024-04-15T22:00:00.000Z",
     "title": "Overtop"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-02-18T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "oxide-room-104-4c1249",
+    "startDate": "2024-02-09T17:00:00.000Z",
+    "title": "Oxide Room 104"
   },
   {
     "discountPercentage": 20,
@@ -7936,6 +8008,15 @@
     "slug": "replikator-6adddc",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "REPLIKATOR"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "rez-plz-324485",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "REZ PLZ"
   },
   {
     "discountPercentage": 40,
@@ -11259,6 +11340,15 @@
     "title": "Time on Frog Island"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-02-18T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "timothy-vs-the-aliens-2f5b36",
+    "startDate": "2024-02-09T17:00:00.000Z",
+    "title": "Timothy vs the Aliens"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -11725,6 +11815,15 @@
     "slug": "turbo-overkill-c5e3c7",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Turbo Overkill"
+  },
+  {
+    "discountPercentage": 66,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "turnip-boy-commits-tax-evasion-fb2084",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Turnip Boy Commits Tax Evasion"
   },
   {
     "discountPercentage": 20,
