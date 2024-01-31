@@ -216,6 +216,15 @@
     "title": "ATV Offroad Simulator 24"
   },
   {
+    "discountPercentage": 34,
+    "endDate": "2024-03-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "above-and-beyond-bundle",
+    "startDate": "2024-02-27T16:00:00.000Z",
+    "title": "Above and Beyond Bundle"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -2284,15 +2293,6 @@
     "slug": "disc-room",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "DISC ROOM"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2024-02-12T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 4999,
-    "slug": "dnf-duel-07d055",
-    "startDate": "2024-01-31T18:00:00.000Z",
-    "title": "DNF Duel"
   },
   {
     "discountPercentage": 40,
@@ -6795,6 +6795,15 @@
     "title": "Need for Speed\u2122 Unbound Standard Edition"
   },
   {
+    "discountPercentage": 67,
+    "endDate": "2024-02-27T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "neighbours-back-from-hell",
+    "startDate": "2024-02-20T16:00:00.000Z",
+    "title": "Neighbours back From Hell"
+  },
+  {
     "discountPercentage": 66,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -11140,15 +11149,6 @@
     "slug": "this-war-of-mine",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "This War of Mine"
-  },
-  {
-    "discountPercentage": 25,
-    "endDate": "2024-02-07T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1799,
-    "slug": "those-who-came-healing-solarus-1c04d2",
-    "startDate": "2024-01-31T18:00:00.000Z",
-    "title": "Those who Came:Healing Solarus - Definitive Edition"
   },
   {
     "discountPercentage": 85,
