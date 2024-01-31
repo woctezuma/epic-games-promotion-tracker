@@ -1,7 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|dnf-duel-07d055|DNF Duel|49,99€|60|2024-01-31 18h|2024-02-12 18h|
-|#|those-who-came-healing-solarus-1c04d2|Those who Came:Healing Solarus - Definitive Edition|17,99€|25|2024-01-31 18h|2024-02-07 17h|
 |#|forest-fire-b4bb7e|Forest Fire|5,39€|20|2024-02-01 07h|2024-02-14 08h|
 |#|skotos-455463|Skotos|8,99€|40|2024-02-01 07h|2024-02-29 07h|
 |#|love-n-life-lucky-teacher-09bd18|Love n Life: Lucky Teacher|5,39€|10|2024-02-01 10h|2024-02-08 10h|
@@ -1084,6 +1082,7 @@
 |#|image-747287|Image|8,99€|35|2024-02-20 16h|2024-02-27 16h|
 |#|little-brother-jim-272dc6|Little Brother Jim|4,49€|30|2024-02-20 16h|2024-02-27 16h|
 |#|naheulbeuks-dungeon-master-b2694b|Naheulbeuk's Dungeon Master|24,99€|15|2024-02-20 16h|2024-02-27 16h|
+|#|neighbours-back-from-hell|Neighbours back From Hell|14,99€|67|2024-02-20 16h|2024-02-27 16h|
 |#|nephise-ascension-f0ba3d|Nephise: Ascension|4,49€|30|2024-02-20 16h|2024-02-27 16h|
 |#|outbreak-the-nightmare-chronicles-reinvestigated-b631d4|Outbreak The Nightmare Chronicles Reinvestigated|8,99€|50|2024-02-20 16h|2024-02-27 16h|
 |#|psychiatrist-simulator-2-4fff6b|Psychiatrist Simulator 2|4,49€|10|2024-02-20 16h|2024-02-27 16h|
@@ -1103,6 +1102,7 @@
 |#|blasphemous|Blasphemous|24,99€|75|2024-02-26 16h|2024-03-11 16h|
 |#|overcooked|Overcooked|15,99€|80|2024-02-26 16h|2024-03-11 16h|
 |#|1001-jigsaw-legends-of-mystery-14e62d|1001 Jigsaw. Legends of Mystery|4,49€|30|2024-02-27 16h|2024-03-05 16h|
+|#|above-and-beyond-bundle|Above and Beyond Bundle|29,99€|34|2024-02-27 16h|2024-03-05 16h|
 |#|baby-storm-426245|Baby Storm|16,19€|50|2024-02-27 16h|2024-03-05 16h|
 |#|christmas-mahjong-50bcc6|Christmas Mahjong|4,49€|50|2024-02-27 16h|2024-03-05 16h|
 |#|cooking-trip-d45abd|Cooking Trip Collectors Edition|4,49€|30|2024-02-27 16h|2024-03-05 16h|
