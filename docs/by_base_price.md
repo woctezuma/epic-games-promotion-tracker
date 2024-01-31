@@ -906,6 +906,7 @@
 |#|urban-tale-75b4f0|Urban Tale|12,59€|35|2024-02-09 16h|2024-02-12 16h|
 |#|biped|Biped|12,49€|70|2024-02-09 16h|2024-02-12 16h|
 |#|biped|Biped|12,49€|70|2024-03-14 15h|2024-03-28 15h|
+|#|doki-doki-literature-club-plus|Doki Doki Literature Club Plus!|12,49€|100|2024-02-08 16h|2024-02-15 16h|
 |#|doki-doki-literature-club-plus|Doki Doki Literature Club Plus!|12,49€|25|2024-02-09 16h|2024-02-12 16h|
 |#|doki-doki-literature-club-plus|Doki Doki Literature Club Plus!|12,49€|25|2024-04-11 15h|2024-04-25 15h|
 |#|paradise-lost|Paradise Lost|12,49€|80|2024-02-09 16h|2024-02-12 16h|
