@@ -270,6 +270,15 @@
     "title": "Aegis Descent"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-02-16T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "aerial-knights-never-yield",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Aerial_Knight's Never Yield"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -1575,6 +1584,15 @@
     "title": "Breakout: Recharged"
   },
   {
+    "discountPercentage": 90,
+    "endDate": "2024-02-16T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "bridge-constructor-the-walking-dead",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Bridge Constructor: The Walking Dead"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2024-03-09T05:00:00.000Z",
     "isFree": false,
@@ -1996,6 +2014,15 @@
     "slug": "clouzy-c67f4b",
     "startDate": "2024-03-01T05:00:00.000Z",
     "title": "Clouzy"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "colt-canyon",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Colt Canyon"
   },
   {
     "discountPercentage": 25,
@@ -2437,6 +2464,15 @@
     "slug": "deexit-eternal-matters-da8992",
     "startDate": "2024-02-27T16:00:00.000Z",
     "title": "De-Exit - Eternal Matters"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2024-02-16T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "dead-age-f46c67",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Dead Age"
   },
   {
     "discountPercentage": 80,
@@ -4176,6 +4212,15 @@
     "title": "Gift of Parthax"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2024-02-16T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "gigapocalypse-fdc53b",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Gigapocalypse"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-02-13T16:00:00.000Z",
     "isFree": false,
@@ -4552,6 +4597,15 @@
     "slug": "haven",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Haven"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "hell-pie-edc41f",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Hell Pie"
   },
   {
     "discountPercentage": 45,
@@ -5751,6 +5805,15 @@
     "title": "LOVE 3"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "laika-3293ee",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Laika: Aged Through Blood"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -5992,15 +6055,6 @@
     "slug": "lost-ruins-d6233b",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Lost Ruins"
-  },
-  {
-    "discountPercentage": 10,
-    "endDate": "2024-02-08T10:30:00.000Z",
-    "isFree": false,
-    "originalPrice": 539,
-    "slug": "love-n-life-lucky-teacher-09bd18",
-    "startDate": "2024-02-01T10:30:00.000Z",
-    "title": "Love n Life: Lucky Teacher"
   },
   {
     "discountPercentage": 80,
