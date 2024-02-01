@@ -2,7 +2,6 @@
 |---|---|---|---|---|---|---|
 |#|island-of-fear-00a3a6|Island of Fear|2,69€|35|2024-02-01 21h|2024-02-03 21h|
 |#|mystery-in-the-office-f629ad|Mystery in the Office|1,99€|25|2024-02-03 18h|2024-02-06 17h|
-|#|love-n-life-lucky-teacher-09bd18|Love n Life: Lucky Teacher|5,39€|10|2024-02-01 10h|2024-02-08 10h|
 |#|doors-paradox-5896c7|Doors - Paradox|13,49€|100|2024-02-01 16h|2024-02-08 16h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|55|2024-02-02 22h|2024-02-09 22h|
 |#|n-verlore-verstand-1d7f5b|'n Verlore Verstand|13,49€|90|2024-02-09 16h|2024-02-12 16h|
@@ -150,6 +149,7 @@
 |#|clad-in-iron-war-of-the-pacific-1879-68f244|Clad In Iron War of The Pacific 1879|23,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|clash-artifacts-of-chaos-53e881|Clash - Artifacts of Chaos|29,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|clid-the-snail|Clid The Snail|19,99€|85|2024-02-09 16h|2024-02-12 16h|
+|#|colt-canyon|Colt Canyon|14,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|commander-keen-dreams-definitive-edition-2beb3a|Commander Keen Dreams Definitive Edition|4,49€|25|2024-02-09 16h|2024-02-12 16h|
 |#|commandos-3-ba41db|Commandos 3 - HD Remaster|19,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|company-of-crime-a5af43|Company of Crime|19,99€|85|2024-02-09 16h|2024-02-12 16h|
@@ -345,6 +345,7 @@
 |#|hanoi-puzzles-solid-match-6a9e0c|Hanoi Puzzles - Solid Match|2,69€|25|2024-02-09 16h|2024-02-12 16h|
 |#|happys-humble-burger-farm-d16675|Happy's Humble Burger Farm|16,79€|60|2024-02-09 16h|2024-02-12 16h|
 |#|haunted-house-c5a71b|Haunted House|17,99€|20|2024-02-09 16h|2024-02-12 16h|
+|#|hell-pie-edc41f|Hell Pie|24,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|hello-neighbor|Hello Neighbor|27,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|hello-neighbor-2|Hello Neighbor 2|31,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|hello-neighbor-hide-and-seek|Hello Neighbor: Hide and Seek|24,99€|75|2024-02-09 16h|2024-02-12 16h|
@@ -437,6 +438,7 @@
 |#|lego-builders-journey|LEGO® Builder's Journey|16,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|lego-star-wars-the-skywalker-saga|LEGO® Star Wars™: The Skywalker Saga|49,99€|70|2024-02-09 16h|2024-02-12 16h|
 |#|love-3-c2516f|LOVE 3|8,99€|30|2024-02-09 16h|2024-02-12 16h|
+|#|laika-3293ee|Laika: Aged Through Blood|19,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|lake|Lake|19,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|larva-mortus-9d14c7|Larva Mortus|2,39€|67|2024-02-09 16h|2024-02-12 16h|
 |#|last-day-of-june|Last Day of June|19,99€|75|2024-02-09 16h|2024-02-12 16h|
@@ -983,6 +985,10 @@
 |#|tofas-sahin-online-car-driving-4bb680|Tofas Sahin Online Car Driving|1,79€|40|2024-02-01 17h|2024-02-15 17h|
 |#|indies-lies-57f843|Indies Lies|13,49€|50|2024-02-06 17h|2024-02-16 05h|
 |#|haven|Haven|24,99€|60|2024-02-09 16h|2024-02-16 11h|
+|#|aerial-knights-never-yield|Aerial_Knight's Never Yield|11,99€|80|2024-02-09 16h|2024-02-16 16h|
+|#|bridge-constructor-the-walking-dead|Bridge Constructor: The Walking Dead|9,99€|90|2024-02-09 16h|2024-02-16 16h|
+|#|dead-age-f46c67|Dead Age|14,99€|90|2024-02-09 16h|2024-02-16 16h|
+|#|gigapocalypse-fdc53b|Gigapocalypse|9,99€|75|2024-02-09 16h|2024-02-16 16h|
 |#|serbian-dancing-lady-94e658|Serbian Dancing Lady|0,89€|40|2024-02-10 03h|2024-02-17 01h|
 |#|eden-island-8cd344|Eden Island|8,99€|50|2024-02-03 12h|2024-02-17 15h|
 |#|oxide-room-104-4c1249|Oxide Room 104|17,99€|75|2024-02-09 17h|2024-02-18 11h|

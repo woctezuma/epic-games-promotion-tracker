@@ -316,6 +316,7 @@
 |#|hammerting|Hammerting|24,99€|90|2024-02-09 16h|2024-02-12 16h|
 |#|hammerting|Hammerting|24,99€|90|2024-03-18 16h|2024-04-01 15h|
 |#|haven|Haven|24,99€|60|2024-02-09 16h|2024-02-16 11h|
+|#|hell-pie-edc41f|Hell Pie|24,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|hello-neighbor-hide-and-seek|Hello Neighbor: Hide and Seek|24,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|horizon-chase-2|Horizon Chase 2|24,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|house-party-ae8b27|House Party|24,99€|50|2024-02-09 16h|2024-02-12 16h|
@@ -485,6 +486,7 @@
 |#|lego-batman-2|LEGO® Batman™ 2: DC Super Heroes|19,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|lego-batman-3|LEGO® Batman™ 3: Beyond Gotham|19,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|lego-batman|LEGO® Batman™: The Videogame|19,99€|75|2024-02-09 16h|2024-02-12 16h|
+|#|laika-3293ee|Laika: Aged Through Blood|19,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|lake|Lake|19,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|last-day-of-june|Last Day of June|19,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|lawn-mowing-simulator-838bf3|Lawn Mowing Simulator|19,99€|66|2024-02-16 18h|2024-03-01 18h|
@@ -776,7 +778,9 @@
 |#|blood-and-zombies-4273b6|Blood and Zombies|14,99€|67|2024-03-01 05h|2024-03-09 05h|
 |#|brothers-a-tale-of-two-sons|Brothers - A Tale of Two Sons|14,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|cassiodora-090292|Cassiodora|14,99€|40|2024-02-09 16h|2024-02-12 16h|
+|#|colt-canyon|Colt Canyon|14,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|curious-expedition-df0f2f|Curious Expedition|14,99€|80|2024-02-09 16h|2024-02-12 16h|
+|#|dead-age-f46c67|Dead Age|14,99€|90|2024-02-09 16h|2024-02-16 16h|
 |#|dice-legacy|Dice Legacy|14,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|eiyuden-chronicle-rising|Eiyuden Chronicle: Rising|14,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|elypse-b177a8|Elypse|14,99€|25|2024-02-09 16h|2024-02-12 16h|
@@ -916,6 +920,7 @@
 |#|7-billion-humans|7 Billion Humans|11,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|7-billion-humans|7 Billion Humans|11,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|adventures-of-chris-64c13b|Adventures of Chris|11,99€|80|2024-03-14 15h|2024-03-28 15h|
+|#|aerial-knights-never-yield|Aerial_Knight's Never Yield|11,99€|80|2024-02-09 16h|2024-02-16 16h|
 |#|ancient-enemy|Ancient Enemy|11,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|ancient-enemy|Ancient Enemy|11,99€|75|2024-03-14 00h|2024-04-12 22h|
 |#|ashwalkers|Ashwalkers|11,99€|75|2024-02-09 16h|2024-02-12 16h|
@@ -973,6 +978,7 @@
 |#|anno-1701|Anno 1701 History Edition|9,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|assassins-creed-2|Assassin's Creed II Standard Edition|9,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|assassins-creed-1|Assassin's Creed® I: Director's Cut|9,99€|75|2024-02-09 16h|2024-02-12 16h|
+|#|bridge-constructor-the-walking-dead|Bridge Constructor: The Walking Dead|9,99€|90|2024-02-09 16h|2024-02-16 16h|
 |#|calico|Calico|9,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|carcassonne|Carcassonne|9,99€|60|2024-02-11 16h|2024-02-13 16h|
 |#|culpa-innata-8997ac|Culpa Innata|9,99€|80|2024-02-09 16h|2024-02-12 16h|
@@ -982,6 +988,7 @@
 |#|far-cry|Far Cry|9,99€|70|2024-02-09 16h|2024-02-12 16h|
 |#|far-cry-2|Far Cry 2: Standard Edition|9,99€|70|2024-02-09 16h|2024-02-12 16h|
 |#|flat-heroes-fec628|Flat Heroes|9,99€|51|2024-03-14 15h|2024-03-28 15h|
+|#|gigapocalypse-fdc53b|Gigapocalypse|9,99€|75|2024-02-09 16h|2024-02-16 16h|
 |#|goetia-2-97b0ff|Goetia 2|9,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|haimrik-5f59a7|Haimrik|9,99€|90|2024-02-09 16h|2024-02-12 16h|
 |#|hordecore|HordeCore|9,99€|80|2024-02-09 16h|2024-02-12 16h|
@@ -1180,7 +1187,6 @@
 |#|forest-fire-b4bb7e|Forest Fire|5,39€|35|2024-10-01 07h|2024-10-14 07h|
 |#|forest-fire-b4bb7e|Forest Fire|5,39€|35|2024-12-15 07h|2024-12-30 07h|
 |#|hero-survival-4de339|Hero Survival|5,39€|20|2024-02-09 16h|2024-02-12 16h|
-|#|love-n-life-lucky-teacher-09bd18|Love n Life: Lucky Teacher|5,39€|10|2024-02-01 10h|2024-02-08 10h|
 |#|oxygen-cocktail-20cd1c|Oxygen Cocktail|5,39€|20|2024-02-09 16h|2024-02-12 16h|
 |#|picklock-33eab8|Picklock|5,39€|50|2024-02-09 16h|2024-02-12 16h|
 |#|shadows-price-for-our-sins-29e42e|Shadows. Price For Our Sins|5,39€|50|2024-02-13 16h|2024-02-20 16h|

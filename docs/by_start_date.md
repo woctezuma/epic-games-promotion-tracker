@@ -1,6 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|love-n-life-lucky-teacher-09bd18|Love n Life: Lucky Teacher|5,39€|10|2024-02-01 10h|2024-02-08 10h|
 |#|doors-paradox-5896c7|Doors - Paradox|13,49€|100|2024-02-01 16h|2024-02-08 16h|
 |#|atv-offroad-simulator-24-d9f4ad|ATV Offroad Simulator 24|0,89€|40|2024-02-01 17h|2024-02-15 17h|
 |#|car-parking-real-driving-sim-ba7eed|Car Parking Real Driving Sim|0,89€|40|2024-02-01 17h|2024-02-15 17h|
@@ -46,6 +45,7 @@
 |#|apico-f6e18b|APICO|15,99€|30|2024-02-09 16h|2024-02-12 16h|
 |#|absolute-tactics-ca91e4|Absolute Tactics|19,99€|30|2024-02-09 16h|2024-02-12 16h|
 |#|ad-infinitum|Ad Infinitum|34,99€|43|2024-02-09 16h|2024-02-12 16h|
+|#|aerial-knights-never-yield|Aerial_Knight's Never Yield|11,99€|80|2024-02-09 16h|2024-02-16 16h|
 |#|afterdream-6a9847|Afterdream|10,79€|20|2024-02-09 16h|2024-02-12 16h|
 |#|agatha-christie-hercule-poirot-london-cases-c81a32|Agatha Christie - Hercule Poirot: The London Case|29,99€|40|2024-02-09 16h|2024-02-12 16h|
 |#|agatha-christie-murder-on-the-orient-express-a53833|Agatha Christie - Murder on the Orient Express|39,99€|25|2024-02-09 16h|2024-02-12 16h|
@@ -148,6 +148,7 @@
 |#|boomerang-x|Boomerang X|19,50€|60|2024-02-09 16h|2024-02-12 16h|
 |#|bramble-the-mountain-king-c0d1c6|Bramble The Mountain King|26,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|breakout-recharged|Breakout: Recharged|8,99€|50|2024-02-09 16h|2024-02-12 16h|
+|#|bridge-constructor-the-walking-dead|Bridge Constructor: The Walking Dead|9,99€|90|2024-02-09 16h|2024-02-16 16h|
 |#|brothers-a-tale-of-two-sons|Brothers - A Tale of Two Sons|14,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|bucket-knight-1ac30c|Bucket Knight|4,49€|80|2024-02-09 16h|2024-02-12 16h|
 |#|bug-fables-the-everlasting-sapling-851aa9|Bug Fables -The Everlasting Sapling-|15,99€|60|2024-02-09 16h|2024-02-12 16h|
@@ -180,6 +181,7 @@
 |#|clad-in-iron-war-of-the-pacific-1879-68f244|Clad In Iron War of The Pacific 1879|23,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|clash-artifacts-of-chaos-53e881|Clash - Artifacts of Chaos|29,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|clid-the-snail|Clid The Snail|19,99€|85|2024-02-09 16h|2024-02-12 16h|
+|#|colt-canyon|Colt Canyon|14,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|commander-keen-dreams-definitive-edition-2beb3a|Commander Keen Dreams Definitive Edition|4,49€|25|2024-02-09 16h|2024-02-12 16h|
 |#|commandos-3-ba41db|Commandos 3 - HD Remaster|19,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|company-of-crime-a5af43|Company of Crime|19,99€|85|2024-02-09 16h|2024-02-12 16h|
@@ -215,6 +217,7 @@
 |#|darksiders|Darksiders Warmastered Edition|19,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|days-gone|Days Gone|49,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|days-of-doom-b29861|Days of Doom|26,99€|30|2024-02-09 16h|2024-02-12 16h|
+|#|dead-age-f46c67|Dead Age|14,99€|90|2024-02-09 16h|2024-02-16 16h|
 |#|dead-by-murder-190eab|Dead By Murder|4,49€|80|2024-02-09 16h|2024-02-12 16h|
 |#|dead-island-2|Dead Island 2|59,99€|40|2024-02-09 16h|2024-02-12 16h|
 |#|dead-space|Dead Space|59,99€|60|2024-02-09 16h|2024-02-12 16h|
@@ -348,6 +351,7 @@
 |#|ghostrunner-2|Ghostrunner 2|39,99€|40|2024-02-09 16h|2024-02-12 16h|
 |#|ghoul-castle-3d-gold-edition-566ac0|Ghoul Castle 3D - Gold Edition|2,69€|40|2024-02-09 16h|2024-02-12 16h|
 |#|gift-of-parthax-67ee4f|Gift of Parthax|6,99€|85|2024-02-09 16h|2024-02-12 16h|
+|#|gigapocalypse-fdc53b|Gigapocalypse|9,99€|75|2024-02-09 16h|2024-02-16 16h|
 |#|goat-simulator-3|Goat Simulator 3|29,99€|40|2024-02-09 16h|2024-02-12 16h|
 |#|goblins-of-elderstone-330b84|Goblins of Elderstone|24,50€|25|2024-02-09 16h|2024-02-12 16h|
 |#|god-of-war|God of War|49,99€|50|2024-02-09 16h|2024-02-12 16h|
@@ -376,6 +380,7 @@
 |#|happys-humble-burger-farm-d16675|Happy's Humble Burger Farm|16,79€|60|2024-02-09 16h|2024-02-12 16h|
 |#|haunted-house-c5a71b|Haunted House|17,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|haven|Haven|24,99€|60|2024-02-09 16h|2024-02-16 11h|
+|#|hell-pie-edc41f|Hell Pie|24,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|hello-neighbor|Hello Neighbor|27,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|hello-neighbor-2|Hello Neighbor 2|31,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|hello-neighbor-hide-and-seek|Hello Neighbor: Hide and Seek|24,99€|75|2024-02-09 16h|2024-02-12 16h|
@@ -469,6 +474,7 @@
 |#|lego-builders-journey|LEGO® Builder's Journey|16,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|lego-star-wars-the-skywalker-saga|LEGO® Star Wars™: The Skywalker Saga|49,99€|70|2024-02-09 16h|2024-02-12 16h|
 |#|love-3-c2516f|LOVE 3|8,99€|30|2024-02-09 16h|2024-02-12 16h|
+|#|laika-3293ee|Laika: Aged Through Blood|19,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|lake|Lake|19,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|larva-mortus-9d14c7|Larva Mortus|2,39€|67|2024-02-09 16h|2024-02-12 16h|
 |#|last-day-of-june|Last Day of June|19,99€|75|2024-02-09 16h|2024-02-12 16h|
