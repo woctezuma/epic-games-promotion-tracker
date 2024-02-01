@@ -3799,15 +3799,6 @@
   },
   {
     "discountPercentage": 20,
-    "endDate": "2024-02-14T08:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 539,
-    "slug": "forest-fire-b4bb7e",
-    "startDate": "2024-02-01T07:00:00.000Z",
-    "title": "Forest Fire"
-  },
-  {
-    "discountPercentage": 20,
     "endDate": "2024-04-14T07:00:00.000Z",
     "isFree": false,
     "originalPrice": 539,
@@ -4156,6 +4147,15 @@
     "slug": "ghostrunner",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Ghostrunner"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "ghostrunner-2",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Ghostrunner 2"
   },
   {
     "discountPercentage": 40,
@@ -9207,15 +9207,6 @@
     "title": "Sir Whoopass - Immortal Death"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2024-02-29T07:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 899,
-    "slug": "skotos-455463",
-    "startDate": "2024-02-01T07:00:00.000Z",
-    "title": "Skotos"
-  },
-  {
     "discountPercentage": 30,
     "endDate": "2024-05-30T06:00:00.000Z",
     "isFree": false,
@@ -10861,6 +10852,15 @@
     "slug": "the-long-dark",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "The Long Dark"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "the-lord-of-the-rings-return-to-moria-f01344",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "The Lord of The Rings Return to Moria"
   },
   {
     "discountPercentage": 30,
