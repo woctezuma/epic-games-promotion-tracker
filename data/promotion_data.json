@@ -2961,15 +2961,6 @@
     "title": "Doomed Lands"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2024-02-08T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 1349,
-    "slug": "doors-paradox-5896c7",
-    "startDate": "2024-02-01T16:00:00.000Z",
-    "title": "Doors - Paradox"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -4365,6 +4356,15 @@
     "title": "Going Under"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-02-27T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "gold-rush-classic-34d7d5",
+    "startDate": "2024-02-20T16:00:00.000Z",
+    "title": "Gold Rush! Classic"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -4732,6 +4732,15 @@
     "slug": "hero-survival-4de339",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Hero Survival"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "heros-hour-871285",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Hero's Hour"
   },
   {
     "discountPercentage": 75,
@@ -6091,6 +6100,15 @@
     "slug": "lost-abroad-cafe-a-language-learning-management-sim-bfc28c",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Lost Abroad Cafe - A Language Learning Management"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2024-02-15T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 899,
+    "slug": "lost-castle-abb2e2",
+    "startDate": "2024-02-08T16:00:00.000Z",
+    "title": "Lost Castle"
   },
   {
     "discountPercentage": 30,
@@ -10971,7 +10989,7 @@
     "title": "The Long Dark"
   },
   {
-    "discountPercentage": 35,
+    "discountPercentage": 38,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 3999,
