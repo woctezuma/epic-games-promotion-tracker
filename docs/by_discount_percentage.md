@@ -693,6 +693,7 @@
 |#|session-skate-sim|Session: Skate Sim|39,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#| skabma-snowfall|Skábma - Snowfall|19,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|spinch-239b03|Spinch|11,99€|60|2024-02-09 16h|2024-02-12 16h|
+|#|spinner-invaders-d453e7|Spinner Invaders|4,49€|60|2024-03-14 15h|2024-03-28 15h|
 |#|steelrising|Steelrising|49,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|stray-blade|Stray Blade|34,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|60|2024-05-24 21h|2024-05-31 21h|
@@ -1057,6 +1058,7 @@
 |#|goat-simulator-3|Goat Simulator 3|29,99€|40|2024-02-09 16h|2024-02-12 16h|
 |#|guild-of-dungeoneering-ultimate-edition|Guild of Dungeoneering Ultimate Edition|19,99€|40|2024-02-09 16h|2024-02-12 16h|
 |#|hogwarts-legacy|Hogwarts Legacy|59,99€|40|2024-02-09 16h|2024-02-12 16h|
+|#|ikonei-island-an-earthlock-adventure-fa1620|Ikonei Island: An Earthlock Adventure|22,39€|40|2024-03-14 15h|2024-03-28 15h|
 |#|inscryption-6b29ab|Inscryption|19,98€|40|2024-02-09 16h|2024-02-12 16h|
 |#|its-a-wrap-f392ae|It's a Wrap!|16,19€|40|2024-04-11 15h|2024-04-25 15h|
 |#|jackbox-party-pack-3|Jackbox Party Pack 3|22,99€|40|2024-02-09 16h|2024-02-12 16h|
