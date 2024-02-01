@@ -984,6 +984,7 @@
 |#|untitled-goose-game|Untitled Goose Game|15,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|warshift-127867|WARSHIFT|8,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|wonhon-a-vengeful-spirit-29e3c1|Wonhon: A Vengeful Spirit|9,89€|50|2024-02-09 16h|2024-02-12 16h|
+|#|world-of-goo|World of Goo|11,99€|50|2024-02-06 16h|2024-02-13 16h|
 |#|yars-revenge-recharged-fbdc11|Yars: Recharged|7,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|next-game-c139be|Zi|8,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|the-tale-of-bistun-9d6c5f|The Tale of Bistun|13,99€|48|2024-03-14 15h|2024-03-28 15h|

@@ -19,6 +19,7 @@
 |#|anime-vs-evil-apocalypse-4c8f91|Anime vs Evil: Apocalypse|17,99€|50|2024-02-06 16h|2024-02-13 16h|
 |#|galaxy-trek-c165da|Galaxy Trek|17,99€|25|2024-02-06 16h|2024-02-13 16h|
 |#|the-lost-village-22bf80|The Lost Village|17,99€|30|2024-02-06 16h|2024-02-13 16h|
+|#|world-of-goo|World of Goo|11,99€|50|2024-02-06 16h|2024-02-13 16h|
 |#|xr22seaguard-480497|XR22-SEAGUARD|6,29€|30|2024-02-06 16h|2024-02-13 16h|
 |#|indies-lies-57f843|Indies Lies|13,49€|50|2024-02-06 17h|2024-02-16 05h|
 |#|the-mystery-of-the-moon-7f3e48|The Mystery Of The Moon|53,99€|80|2024-02-07 16h|2024-02-25 16h|
