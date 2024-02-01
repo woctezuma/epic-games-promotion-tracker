@@ -1043,7 +1043,6 @@
 |#|forest-offroad-driving-simulator-e8f5c1|Forest Offroad Driving Simulator|0,89€|40|2024-02-01 17h|2024-02-15 17h|
 |#|foretales-d6c5bd|Foretales|19,99€|40|2024-02-09 16h|2024-02-12 16h|
 |#|grime|GRIME|19,99€|40|2024-02-09 16h|2024-02-12 16h|
-|#|ghostrunner-2|Ghostrunner 2|39,99€|40|2024-02-09 16h|2024-02-12 16h|
 |#|ghoul-castle-3d-gold-edition-566ac0|Ghoul Castle 3D - Gold Edition|2,69€|40|2024-02-09 16h|2024-02-12 16h|
 |#|goat-simulator-3|Goat Simulator 3|29,99€|40|2024-02-09 16h|2024-02-12 16h|
 |#|guild-of-dungeoneering-ultimate-edition|Guild of Dungeoneering Ultimate Edition|19,99€|40|2024-02-09 16h|2024-02-12 16h|
@@ -1145,7 +1144,6 @@
 |#|sweet-dreams-alex-7c602d|Sweet Dreams Alex|13,49€|35|2024-02-09 16h|2024-02-12 16h|
 |#|the-bookwalker-cd43ce|The Bookwalker: Thief of Tales|14,79€|35|2024-02-09 16h|2024-02-12 16h|
 |#|the-house-of-da-vinci-3-b0c022|The House of Da Vinci 3|19,99€|35|2024-02-09 16h|2024-02-12 16h|
-|#|the-lord-of-the-rings-return-to-moria-f01344|The Lord of The Rings Return to Moria|39,99€|35|2024-02-09 16h|2024-02-12 16h|
 |#|the-silent-city-chapter-1-94a47d|The Silent City Chapter 1|5,39€|35|2024-02-13 16h|2024-02-20 16h|
 |#|the-sisters-2-road-to-fame-287bbe|The Sisters 2 - Road to Fame|29,99€|35|2024-02-09 16h|2024-02-12 16h|
 |#|the-smurfs-2-the-prisonner-of-the-green-stone-ba4653|The Smurfs 2 - The Prisoner of the Green Stone|29,99€|35|2024-02-09 16h|2024-02-12 16h|
