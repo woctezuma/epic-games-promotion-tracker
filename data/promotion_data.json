@@ -711,6 +711,42 @@
     "title": "As Far As The Eye"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2239,
+    "slug": "ash-of-gods-redemption-e0b97d",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Ash of Gods: Redemption"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2239,
+    "slug": "ash-of-gods-redemption-e0b97d",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Ash of Gods: Redemption"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2450,
+    "slug": "ash-of-gods-the-way-58bd36",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Ash of Gods: The Way"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2450,
+    "slug": "ash-of-gods-the-way-58bd36",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Ash of Gods: The Way"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
