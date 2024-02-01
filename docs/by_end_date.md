@@ -970,6 +970,7 @@
 |#|gloomhaven-92f741|Gloomhaven|34,99€|50|2024-02-11 16h|2024-02-13 16h|
 |#|terraforming-mars-18c3ad|Terraforming Mars|19,99€|50|2024-02-11 16h|2024-02-13 16h|
 |#|the-lost-village-22bf80|The Lost Village|17,99€|30|2024-02-06 16h|2024-02-13 16h|
+|#|world-of-goo|World of Goo|11,99€|50|2024-02-06 16h|2024-02-13 16h|
 |#|xr22seaguard-480497|XR22-SEAGUARD|6,29€|30|2024-02-06 16h|2024-02-13 16h|
 |#|my-island-6fc611|My Island|8,99€|40|2024-02-08 12h|2024-02-15 12h|
 |#|doki-doki-literature-club-plus|Doki Doki Literature Club Plus!|12,49€|100|2024-02-08 16h|2024-02-15 16h|
