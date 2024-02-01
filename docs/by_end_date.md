@@ -1056,7 +1056,7 @@
 |#|bottle-pilgrim-redux-987f66|Bottle: Pilgrim Redux|3,59€|30|2024-02-20 16h|2024-02-27 16h|
 |#|counterattackuprising-06aed8|CounterAttack: Uprising|13,49€|50|2024-02-20 16h|2024-02-27 16h|
 |#|dead-cells|Dead Cells|24,99€|50|2024-02-20 16h|2024-02-27 16h|
-|#|ex-natura-nature-corrupted-d92548|Ex Natura Nature Corrupted|17,99€|50|2024-02-20 16h|2024-02-27 16h|
+|#|ex-natura-nature-corrupted-d92548|Ex Natura Nature Corrupted|17,99€|65|2024-02-20 16h|2024-02-27 16h|
 |#|gnomes-garden-return-of-the-queen-159f41|Gnomes Garden. Return Of The Queen|4,49€|30|2024-02-20 16h|2024-02-27 16h|
 |#|hero-battle-fantasy-arena-f15594|Hero Battle Fantasy Arena|3,59€|50|2024-02-20 16h|2024-02-27 16h|
 |#|image-747287|Image|8,99€|35|2024-02-20 16h|2024-02-27 16h|

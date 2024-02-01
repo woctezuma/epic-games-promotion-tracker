@@ -624,7 +624,7 @@
 |#|dinobreak-307b09|Dinobreak|17,99€|60|2024-02-13 16h|2024-02-20 16h|
 |#|ebola-3-2c79e9|EBOLA 3|17,99€|35|2024-02-13 16h|2024-02-20 16h|
 |#|evil-wizard-e4f80f|Evil Wizard|17,99€|30|2024-02-09 16h|2024-02-12 16h|
-|#|ex-natura-nature-corrupted-d92548|Ex Natura Nature Corrupted|17,99€|50|2024-02-20 16h|2024-02-27 16h|
+|#|ex-natura-nature-corrupted-d92548|Ex Natura Nature Corrupted|17,99€|65|2024-02-20 16h|2024-02-27 16h|
 |#|filthy-animals-f6c65c|Filthy Animals \| Heist Simulator|17,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|filthy-animals-f6c65c|Filthy Animals \| Heist Simulator|17,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|firegirl-29bf39|Firegirl: Hack 'n Splash Rescue DX|17,99€|70|2024-02-09 16h|2024-02-12 16h|
