@@ -667,6 +667,15 @@
   },
   {
     "discountPercentage": 50,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "argonauts-agency-captive-of-circe-547604",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Argonauts Agency 5: Captive of Circe"
+  },
+  {
+    "discountPercentage": 50,
     "endDate": "2024-03-12T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 449,
@@ -1414,11 +1423,11 @@
   },
   {
     "discountPercentage": 25,
-    "endDate": "2024-02-12T16:00:00.000Z",
+    "endDate": "2024-02-13T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 539,
     "slug": "black-hair-girl-is-best-girl-415031",
-    "startDate": "2024-02-09T16:00:00.000Z",
+    "startDate": "2024-02-06T16:00:00.000Z",
     "title": "Black Hair Girl is Best Girl"
   },
   {
@@ -3060,6 +3069,15 @@
     "title": "Drawful 2"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "drawful-2",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Drawful 2"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -3256,15 +3274,6 @@
     "slug": "ebenezer-and-the-invisible-world-9241e7",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Ebenezer and the Invisible World"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2024-02-17T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 899,
-    "slug": "eden-island-8cd344",
-    "startDate": "2024-02-03T12:00:00.000Z",
-    "title": "Eden Island"
   },
   {
     "discountPercentage": 70,
@@ -4698,6 +4707,15 @@
     "title": "Hanoi Puzzles - Solid Match"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "hanoi-puzzles-solid-match-6a9e0c",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Hanoi Puzzles - Solid Match"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -5406,6 +5424,15 @@
     "originalPrice": 2299,
     "slug": "jackbox-party-pack-3",
     "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Jackbox Party Pack 3"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2299,
+    "slug": "jackbox-party-pack-3",
+    "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Jackbox Party Pack 3"
   },
   {
@@ -6408,6 +6435,15 @@
     "title": "Marble It Up! Ultra"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2699,
+    "slug": "marble-it-up-ultra-7b5692",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Marble It Up! Ultra"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2024-03-09T05:00:00.000Z",
     "isFree": false,
@@ -6811,6 +6847,15 @@
     "slug": "mosaics-galore-2-034421",
     "startDate": "2024-03-05T16:00:00.000Z",
     "title": "Mosaics Galore 2"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-03-19T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "mosaics-galore-challenging-journey-3ee83b",
+    "startDate": "2024-03-12T15:00:00.000Z",
+    "title": "Mosaics Galore. Challenging journey"
   },
   {
     "discountPercentage": 40,
@@ -8202,6 +8247,15 @@
     "discountPercentage": 50,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
+    "originalPrice": 899,
+    "slug": "quiplash-2-interlashional-3c3888",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Quiplash 2 InterLASHional"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
     "originalPrice": 3999,
     "slug": "r-type-final-2",
     "startDate": "2024-03-14T15:00:00.000Z",
@@ -9225,6 +9279,15 @@
     "title": "Secret of Dream"
   },
   {
+    "discountPercentage": 10,
+    "endDate": "2024-02-11T02:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 719,
+    "slug": "jbdx-8b0de4",
+    "startDate": "2024-02-04T02:00:00.000Z",
+    "title": "Seduction of beauty"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -9240,6 +9303,15 @@
     "originalPrice": 1599,
     "slug": "sephonie-6ab6f7",
     "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Sephonie"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "sephonie-6ab6f7",
+    "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Sephonie"
   },
   {
@@ -10459,15 +10531,6 @@
   },
   {
     "discountPercentage": 55,
-    "endDate": "2024-02-09T22:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 359,
-    "slug": "tear-of-time-lost-memory-add761",
-    "startDate": "2024-02-02T22:00:00.000Z",
-    "title": "Tear of Time - Lost memory"
-  },
-  {
-    "discountPercentage": 55,
     "endDate": "2024-03-17T22:00:00.000Z",
     "isFree": false,
     "originalPrice": 359,
@@ -10698,6 +10761,15 @@
     "originalPrice": 449,
     "slug": "the-death-into-trouble-271916",
     "startDate": "2024-02-27T16:00:00.000Z",
+    "title": "The Death Into Trouble"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2024-04-25T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "the-death-into-trouble-271916",
+    "startDate": "2024-04-11T15:00:00.000Z",
     "title": "The Death Into Trouble"
   },
   {
@@ -11007,12 +11079,30 @@
     "title": "The Jackbox Party Pack"
   },
   {
+    "discountPercentage": 55,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2299,
+    "slug": "jackbox-party-pack-1",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "The Jackbox Party Pack"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 3499,
     "slug": "the-jackbox-party-pack-10-c6f152",
     "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "The Jackbox Party Pack 10"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3499,
+    "slug": "the-jackbox-party-pack-10-c6f152",
+    "startDate": "2024-03-14T15:00:00.000Z",
     "title": "The Jackbox Party Pack 10"
   },
   {
@@ -11026,11 +11116,29 @@
   },
   {
     "discountPercentage": 50,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2299,
+    "slug": "jackbox-party-pack-2",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "The Jackbox Party Pack 2"
+  },
+  {
+    "discountPercentage": 50,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 2299,
     "slug": "jackbox-party-pack-4",
     "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "The Jackbox Party Pack 4"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2299,
+    "slug": "jackbox-party-pack-4",
+    "startDate": "2024-03-14T15:00:00.000Z",
     "title": "The Jackbox Party Pack 4"
   },
   {
@@ -11044,11 +11152,29 @@
   },
   {
     "discountPercentage": 45,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "jackbox-party-pack-5",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "The Jackbox Party Pack 5"
+  },
+  {
+    "discountPercentage": 45,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 2499,
     "slug": "jackbox-party-pack-6",
     "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "The Jackbox Party Pack 6"
+  },
+  {
+    "discountPercentage": 45,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "jackbox-party-pack-6",
+    "startDate": "2024-03-14T15:00:00.000Z",
     "title": "The Jackbox Party Pack 6"
   },
   {
@@ -11058,6 +11184,15 @@
     "originalPrice": 2399,
     "slug": "jackbox-party-pack-7",
     "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "The Jackbox Party Pack 7"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2399,
+    "slug": "jackbox-party-pack-7",
+    "startDate": "2024-03-14T15:00:00.000Z",
     "title": "The Jackbox Party Pack 7"
   },
   {
@@ -11071,11 +11206,29 @@
   },
   {
     "discountPercentage": 40,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2399,
+    "slug": "jackbox-party-pack-8",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "The Jackbox Party Pack 8"
+  },
+  {
+    "discountPercentage": 40,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 2999,
     "slug": "jackbox-party-pack-9",
     "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "The Jackbox Party Pack 9"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "jackbox-party-pack-9",
+    "startDate": "2024-03-14T15:00:00.000Z",
     "title": "The Jackbox Party Pack 9"
   },
   {
