@@ -3,7 +3,9 @@
 |#| skabma-snowfall|Skábma - Snowfall|19,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|0dca2a0f6e1c4fdca84b59d47ddec25e-01|Howl|14,99€|35|2024-03-14 15h|2024-03-28 15h|
 |#|1001-jigsaw-castles-and-palaces-b256df|1001 Jigsaw Castles And Palaces|4,49€|50|2024-02-06 16h|2024-02-13 16h|
+|#|1001-jigsaw-castles-and-palaces-b256df|1001 Jigsaw Castles And Palaces|4,49€|50|2024-04-11 15h|2024-04-25 15h|
 |#|1001-jigsaw-cute-cats-36eb93|1001 Jigsaw Cute Cats|4,49€|50|2024-02-13 16h|2024-02-20 16h|
+|#|1001-jigsaw-earth-chronicles-7b25fc|1001 Jigsaw. Earth Chronicles|4,49€|60|2024-03-12 15h|2024-03-19 15h|
 |#|1001-jigsaw-home-sweet-home-1b1e16|1001 Jigsaw. Home Sweet Home|4,49€|30|2024-03-05 16h|2024-03-12 15h|
 |#|1001-jigsaw-legends-of-mystery-14e62d|1001 Jigsaw. Legends of Mystery|4,49€|30|2024-02-27 16h|2024-03-05 16h|
 |#|1001-jigsaw-world-tour-london-06dba1|1001 Jigsaw. World Tour: London|4,49€|50|2024-03-14 15h|2024-03-28 15h|
@@ -65,7 +67,6 @@
 |#|anno-2070|Anno 2070|29,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|anno-2205|Anno 2205 - Standard Edition|39,99€|85|2024-02-09 16h|2024-02-12 16h|
 |#|anodyne-2-return-to-dust|Anodyne 2: Return To Dust|16,79€|50|2024-02-09 16h|2024-02-12 16h|
-|#|anonymous-hunting-simulator-5eac14|ANONYMOUS HUNTING SIMULATOR|0,89€|50|2024-02-03 22h|2024-02-19 22h|
 |#|anuchard-08179d|Anuchard|14,99€|75|2024-03-01 05h|2024-03-09 05h|
 |#|ape-out|APE OUT|14,79€|75|2024-02-09 16h|2024-02-12 16h|
 |#|apico-f6e18b|APICO|15,99€|30|2024-02-09 16h|2024-02-12 16h|
@@ -243,6 +244,7 @@
 |#|conglomerate-451-6570f5|Conglomerate 451|19,99€|85|2024-02-09 16h|2024-02-12 16h|
 |#|control|Control|31,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|cooking-trip-d45abd|Cooking Trip Collectors Edition|4,49€|30|2024-02-27 16h|2024-03-05 16h|
+|#|cooking-trip-new-challenge-collectors-edition-59c8df|Cooking Trip New Challenge. Collector's Edition|4,49€|30|2024-03-12 15h|2024-03-19 15h|
 |#|coromon-d4ef84|Coromon|15,99€|60|2024-03-01 05h|2024-03-09 05h|
 |#|counterattackuprising-06aed8|CounterAttack: Uprising|13,49€|50|2024-02-20 16h|2024-02-27 16h|
 |#|covid-carl-7dd371|Covid Carl|3,59€|40|2024-02-09 16h|2024-02-12 16h|
@@ -374,7 +376,7 @@
 |#|elderand-09e6bc|Elderand|15,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|eldest-souls-83e12a|Eldest Souls|19,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|elegies-aya-17c3f1|ELEGIES Aya|16,19€|30|2024-03-14 15h|2024-03-28 15h|
-|#|elven-rivers-the-forgotten-lands-collectors-edition-13f068|Elven Rivers. The Forgotten Lands Collector's Edition|11,69€|30|2024-03-05 16h|2024-03-12 15h|
+|#|elven-rivers-the-forgotten-lands-collectors-edition-13f068|Elven Rivers. The Forgotten Lands Collector's Edition|11,69€|30|2024-02-20 16h|2024-02-27 16h|
 |#|elypse-b177a8|Elypse|14,99€|25|2024-02-09 16h|2024-02-12 16h|
 |#|emergency-crew-1-04340a|Emergency Crew 2 Global Warming|4,49€|50|2024-02-13 16h|2024-02-20 16h|
 |#|encased|Encased|29,99€|90|2024-02-09 16h|2024-02-12 16h|
@@ -624,7 +626,7 @@
 |#|jackbox-party-pack-8|The Jackbox Party Pack 8|23,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|jackbox-party-pack-9|The Jackbox Party Pack 9|29,99€|40|2024-02-09 16h|2024-02-12 16h|
 |#|jackbox-party-pack-9|The Jackbox Party Pack 9|29,99€|35|2024-03-14 15h|2024-03-28 15h|
-|#|jbdx-8b0de4|Seduction of beauty|7,19€|10|2024-02-04 02h|2024-02-11 02h|
+|#|jampjjj-7c830e|maze horror～迷宮ホラー～|2,19€|30|2024-03-14 15h|2024-03-28 15h|
 |#|jetboard-joust|Jetboard Joust|7,99€|90|2024-03-01 05h|2024-03-09 05h|
 |#|joggernauts-a7767f|Joggernauts|11,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|jotun|Jotun: Valhalla Edition|14,99€|75|2024-02-09 16h|2024-02-12 16h|
@@ -802,7 +804,6 @@
 |#|my-summer-adventure-memories-of-another-life-e30d54|My Summer Adventure: Memories of Another Life|7,79€|50|2024-02-09 16h|2024-02-12 16h|
 |#|my-summer-adventure-memories-of-another-life-e30d54|My Summer Adventure: Memories of Another Life|7,79€|50|2024-03-14 15h|2024-03-28 15h|
 |#|mysteries-of-the-undead-46140a|Mysteries of the Undead|4,49€|50|2024-02-13 16h|2024-02-20 16h|
-|#|mystery-in-the-office-f629ad|Mystery in the Office|1,99€|25|2024-02-03 18h|2024-02-06 17h|
 |#|mystery-in-the-office-f629ad|Mystery in the Office|1,99€|25|2024-03-07 17h|2024-03-21 17h|
 |#|mystery-solitaire-grimms-tales-2-e1e538|Mystery Solitaire. Grimm's Tales 2|4,49€|50|2024-02-27 16h|2024-03-05 16h|
 |#|mystery-solitaire-grimms-tales-244e2a|Mystery Solitaire. Grimm's Tales|4,49€|50|2024-03-05 16h|2024-03-12 15h|
@@ -942,6 +943,8 @@
 |#|quantum-recharged-6553fd|Quantum Recharged|8,99€|30|2024-02-09 16h|2024-02-12 16h|
 |#|quantum-storm-3d80ad|Quantum Storm|4,49€|10|2024-02-07 23h|2024-02-21 23h|
 |#|quest-hunter-96b20d|Quest Hunter|17,99€|70|2024-02-09 16h|2024-02-12 16h|
+|#|quest-of-dungeons-3064d5|Quest of Dungeons|4,99€|50|2024-02-06 16h|2024-02-13 16h|
+|#|quest-of-dungeons-3064d5|Quest of Dungeons|4,99€|60|2024-04-11 15h|2024-04-25 15h|
 |#|quick-race-293d39|Quick Race|1,79€|33|2024-02-09 16h|2024-02-12 16h|
 |#|quiplash-2-interlashional-3c3888|Quiplash 2 InterLASHional|8,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|r-type-final-2|R-Type Final 2|39,99€|50|2024-03-14 15h|2024-03-28 15h|
@@ -968,6 +971,7 @@
 |#|recall-113630|RECALL|15,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|recipe-for-disaster-83726f|Recipe for Disaster|16,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|recollection-71f3a4|Recollection|4,49€|40|2024-02-09 16h|2024-02-12 16h|
+|#|recollection-71f3a4|Recollection|4,49€|50|2024-04-11 15h|2024-04-25 15h|
 |#|recompile|Recompile|19,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|red-dead-redemption-2|Red Dead Redemption 2|59,99€|67|2024-02-09 16h|2024-02-12 16h|
 |#|red-dust-5e7397|Red Dust|4,49€|80|2024-02-09 16h|2024-02-12 16h|
@@ -1030,6 +1034,7 @@
 |#|saints-row|Saints Row|29,99€|67|2024-02-09 16h|2024-02-12 16h|
 |#|saints-row-iv-re-election|Saints Row IV Re-Elected|19,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|saints-row-the-third-remastered|Saints Row®: The Third™ Remastered|29,99€|80|2024-02-09 16h|2024-02-12 16h|
+|#|sakura-day-2-mahjong-9d664b|Sakura Day 2 Mahjong|4,49€|30|2024-03-12 15h|2024-03-19 15h|
 |#|sakura-day-mahjong-007b44|Sakura Day Mahjong|4,49€|50|2024-02-13 16h|2024-02-20 16h|
 |#|sands-of-aura|Sands of Aura|21,99€|40|2024-03-01 05h|2024-03-09 05h|
 |#|satisfactory|Satisfactory|29,99€|45|2024-02-09 16h|2024-02-12 16h|
