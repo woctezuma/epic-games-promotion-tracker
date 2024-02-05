@@ -216,6 +216,24 @@
     "title": "APICO"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "atom-rpg-3adb54",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "ATOM RPG"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1099,
+    "slug": "atom-rpg-trudograd-a97244",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "ATOM RPG Trudograd"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-02-20T16:00:00.000Z",
     "isFree": false,
@@ -630,6 +648,15 @@
     "title": "Anodyne 2: Return To Dust"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1679,
+    "slug": "anodyne-2-return-to-dust",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Anodyne 2: Return To Dust"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-03-09T05:00:00.000Z",
     "isFree": false,
@@ -781,6 +808,15 @@
     "slug": "ashwalkers",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Ashwalkers"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-03-19T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "asian-riddles-223489",
+    "startDate": "2024-03-12T15:00:00.000Z",
+    "title": "Asian Riddles"
   },
   {
     "discountPercentage": 80,
@@ -1429,6 +1465,15 @@
     "slug": "bite-the-bullet-22fa1f",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Bite the Bullet"
+  },
+  {
+    "discountPercentage": 45,
+    "endDate": "2024-02-20T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1579,
+    "slug": "black-academy-ed8e11",
+    "startDate": "2024-02-13T16:00:00.000Z",
+    "title": "Black Academy"
   },
   {
     "discountPercentage": 25,
@@ -2367,6 +2412,15 @@
     "title": "Cursed to Golf"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-02-13T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "cyvenge-55b56b",
+    "startDate": "2024-02-06T16:00:00.000Z",
+    "title": "CyVenge"
+  },
+  {
     "discountPercentage": 55,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -2707,6 +2761,15 @@
     "slug": "deepest-chamber-f7085f",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Deepest Chamber: Resurrection"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2024-02-20T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "my-product-b51a19",
+    "startDate": "2024-02-13T16:00:00.000Z",
+    "title": "Definitely Sneaky But Not Sneaky"
   },
   {
     "discountPercentage": 35,
@@ -3150,6 +3213,15 @@
     "title": "Druidstone: The Secret of the Menhir Forest"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-02-20T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2239,
+    "slug": "duel-princess-ec50b3",
+    "startDate": "2024-02-13T16:00:00.000Z",
+    "title": "Duel Princess"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -3373,15 +3445,6 @@
     "slug": "elven-rivers-the-forgotten-lands-collectors-edition-13f068",
     "startDate": "2024-02-20T16:00:00.000Z",
     "title": "Elven Rivers. The Forgotten Lands Collector's Edition"
-  },
-  {
-    "discountPercentage": 25,
-    "endDate": "2024-02-12T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "elypse-b177a8",
-    "startDate": "2024-02-09T16:00:00.000Z",
-    "title": "Elypse"
   },
   {
     "discountPercentage": 50,
@@ -3978,6 +4041,15 @@
     "title": "For The King"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2024-03-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "for-the-warp-b5c468",
+    "startDate": "2024-02-27T16:00:00.000Z",
+    "title": "For The Warp"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2024-04-14T07:00:00.000Z",
     "isFree": false,
@@ -4075,6 +4147,15 @@
     "slug": "fort-solis-9164ca",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Fort Solis"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "frogun-9cf69e",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Frogun"
   },
   {
     "discountPercentage": 25,
@@ -4765,6 +4846,15 @@
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 2499,
+    "slug": "hazel-sky-478373",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Hazel Sky"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
     "slug": "hell-pie-edc41f",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Hell Pie"
@@ -5400,6 +5490,15 @@
     "title": "Island Farmer"
   },
   {
+    "discountPercentage": 45,
+    "endDate": "2024-03-12T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "island-of-fear-00a3a6",
+    "startDate": "2024-03-05T16:00:00.000Z",
+    "title": "Island of Fear"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -5643,6 +5742,15 @@
     "title": "KarmaZoo"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 319,
+    "slug": "kawaii-deathu-desu-bc669f",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Kawaii Deathu Desu"
+  },
+  {
     "discountPercentage": 55,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -5704,6 +5812,15 @@
     "slug": "kholat-3f394b",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Kholat"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-03-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 629,
+    "slug": "kids-learn-e4a163",
+    "startDate": "2024-02-27T16:00:00.000Z",
+    "title": "Kids Learn"
   },
   {
     "discountPercentage": 50,
@@ -6003,6 +6120,15 @@
     "title": "Lake"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "lamentum-962e3e",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Lamentum"
+  },
+  {
     "discountPercentage": 67,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -6253,6 +6379,15 @@
     "slug": "lost-ruins-d6233b",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Lost Ruins"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-02-20T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2156,
+    "slug": "love-too-easily-1854cf",
+    "startDate": "2024-02-13T16:00:00.000Z",
+    "title": "Love Too Easily"
   },
   {
     "discountPercentage": 80,
@@ -6627,6 +6762,15 @@
     "discountPercentage": 80,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
+    "originalPrice": 319,
+    "slug": "merrily-perilly-99353b",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Merrily Perilly"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
     "originalPrice": 2239,
     "slug": "metamorphosis-547d51",
     "startDate": "2024-02-09T16:00:00.000Z",
@@ -6991,6 +7135,15 @@
     "slug": "my-island-6fc611",
     "startDate": "2024-02-08T12:00:00.000Z",
     "title": "My Island"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "my-lovely-wife-bef07f",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "My Lovely Wife"
   },
   {
     "discountPercentage": 83,
@@ -8559,6 +8712,24 @@
     "title": "Red Dust"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-03-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "red-glare-0c98c5",
+    "startDate": "2024-02-27T16:00:00.000Z",
+    "title": "Red Glare"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2024-04-25T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "red-glare-0c98c5",
+    "startDate": "2024-04-11T15:00:00.000Z",
+    "title": "Red Glare"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2024-02-20T16:00:00.000Z",
     "isFree": false,
@@ -8955,6 +9126,15 @@
     "title": "SCARY AND DOT"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 819,
+    "slug": "simulacra-3-61a15e",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "SIMULACRA 3"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -9324,6 +9504,15 @@
     "title": "Secret of Dream"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "sense-cyberpunk-ghost-story-8547ca",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Sense - A Cyberpunk Ghost Story"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -9457,6 +9646,15 @@
     "slug": "shalnor-legends-2-fea913",
     "startDate": "2024-02-20T16:00:00.000Z",
     "title": "Shalnor Legends 2: Trials of Thunder"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "sheepo-62cd3e",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "Sheepo"
   },
   {
     "discountPercentage": 80,
@@ -9754,6 +9952,15 @@
     "slug": "song-of-farca-1eb3f2",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Song of Farca"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-02-13T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "song-of-nunu-a-league-of-legends-story",
+    "startDate": "2024-02-06T16:00:00.000Z",
+    "title": "Song of Nunu: A League of Legends Story"
   },
   {
     "discountPercentage": 50,
@@ -10674,6 +10881,15 @@
     "title": "Thanksgiving Day Mosaic"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2024-02-20T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3599,
+    "slug": "the-alchemist-of-ars-magna-e68b84",
+    "startDate": "2024-02-13T16:00:00.000Z",
+    "title": "The Alchemist of Ars Magna"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -11356,6 +11572,24 @@
     "slug": "the-legend-of-nayuta-boundless-trails",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "The Legend of Nayuta: Boundless Trails"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "the-legend-of-tianding",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "The Legend of Tianding"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-02-12T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1899,
+    "slug": "library-of-babel-7cedb5",
+    "startDate": "2024-02-09T16:00:00.000Z",
+    "title": "The Library of Babel"
   },
   {
     "discountPercentage": 60,
