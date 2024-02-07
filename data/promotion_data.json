@@ -7308,15 +7308,6 @@
     "title": "Mutazione"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2024-02-21T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 989,
-    "slug": "my-demon-wife-0d2461",
-    "startDate": "2024-02-07T23:00:00.000Z",
-    "title": "My Demon Wife"
-  },
-  {
     "discountPercentage": 70,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -8611,15 +8602,6 @@
     "slug": "quantum-recharged-6553fd",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Quantum Recharged"
-  },
-  {
-    "discountPercentage": 10,
-    "endDate": "2024-02-21T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 449,
-    "slug": "quantum-storm-3d80ad",
-    "startDate": "2024-02-07T23:00:00.000Z",
-    "title": "Quantum Storm"
   },
   {
     "discountPercentage": 70,
