@@ -2574,6 +2574,15 @@
     "title": "DRAGON QUEST\u00ae XI S: Echoes of an Elusive Age\u2122"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2024-02-22T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 2999,
+    "slug": "dakar-desert-rally",
+    "startDate": "2024-02-15T16:00:00.000Z",
+    "title": "Dakar Desert Rally"
+  },
+  {
     "discountPercentage": 90,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
@@ -2695,7 +2704,7 @@
     "endDate": "2024-02-16T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1499,
-    "slug": "d8070300449b44acae69b408a91d6a75",
+    "slug": "dead-age-f46c67",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Dead Age"
   },
