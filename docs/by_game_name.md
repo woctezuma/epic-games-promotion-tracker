@@ -77,7 +77,7 @@
 |#|anodyne-2-return-to-dust|Anodyne 2: Return To Dust|16,79€|50|2024-02-09 16h|2024-02-12 16h|
 |#|anodyne-2-return-to-dust|Anodyne 2: Return To Dust|16,79€|50|2024-03-14 15h|2024-03-28 15h|
 |#|anuchard-08179d|Anuchard|14,99€|75|2024-03-01 05h|2024-03-09 05h|
-|#|apotheorasis-a33e73|Apotheorasis • Lab of the Blind Gods|9,75€|55|2024-02-09 16h|2024-02-12 16h|
+|#|apotheorasis-a33e73|Apotheorasis • Lab of the Blind Gods|N/A|55|2024-02-09 16h|2024-02-12 16h|
 |#|arcrunner-61fee6|ArcRunner|19,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|arcrunner-61fee6|ArcRunner|19,99€|20|2024-03-14 15h|2024-03-28 15h|
 |#|arcadegeddon|Arcadegeddon|13,49€|50|2024-02-09 16h|2024-02-12 16h|
@@ -122,7 +122,7 @@
 |#|automachef|Automachef|14,99€|80|2024-03-18 16h|2024-04-01 15h|
 |#|aven-colony|Aven Colony|29,99€|90|2024-02-09 16h|2024-02-12 16h|
 |#|aven-colony|Aven Colony|29,99€|90|2024-03-18 16h|2024-04-01 15h|
-|#|avencast-rise-of-the-mage-4668a2|Avencast - Rise Of The Mage|3,99€|80|2024-02-09 16h|2024-02-12 16h|
+|#|avencast-rise-of-the-mage-4668a2|Avencast - Rise Of The Mage|N/A|80|2024-02-09 16h|2024-02-12 16h|
 |#|awesome-pea-2-45617a|Awesome Pea 2|4,49€|80|2024-02-09 16h|2024-02-12 16h|
 |#|aya-and-naya-b7791e|Aya & Naya|2,69€|75|2024-02-16 22h|2024-03-15 22h|
 |#|biomutant|BIOMUTANT|39,99€|60|2024-02-09 16h|2024-02-12 16h|
@@ -670,8 +670,8 @@
 |#|kill-fish-1c85e9|Kill Fish|1,79€|50|2024-02-09 16h|2024-02-12 16h|
 |#|kill-it-with-fire|Kill It With Fire|11,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|killing-floor-2|Killing Floor 2|24,99€|80|2024-02-09 16h|2024-02-12 16h|
-|#|kine|Kine|11,99€|75|2024-02-09 16h|2024-02-12 16h|
-|#|kine|Kine|11,99€|75|2024-03-14 15h|2024-03-28 15h|
+|#|kine|Kine|N/A|75|2024-02-09 16h|2024-02-12 16h|
+|#|kine|Kine|N/A|75|2024-03-14 15h|2024-03-28 15h|
 |#|king-of-seas-646f95|King of Seas|22,39€|90|2024-02-19 16h|2024-03-04 16h|
 |#|king-of-seas-646f95|King of Seas|22,39€|90|2024-04-08 15h|2024-04-22 15h|
 |#|kings-bounty-ii|King's Bounty II|39,99€|90|2024-02-09 16h|2024-02-12 16h|
@@ -1135,8 +1135,8 @@
 |#|songs-of-conquest|Songs of Conquest|29,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|souldiers-3f612b|Souldiers|19,99€|55|2024-02-09 16h|2024-02-12 16h|
 |#|soulless-ray-of-hope-e37a13|Soulless - Ray Of Hope|3,99€|80|2024-02-09 16h|2024-02-12 16h|
-|#|source-of-madness-287857|Source of Madness|19,99€|55|2024-02-09 16h|2024-02-12 16h|
-|#|source-of-madness-287857|Source of Madness|19,99€|55|2024-03-14 15h|2024-03-28 15h|
+|#|source-of-madness-287857|Source of Madness|N/A|55|2024-02-09 16h|2024-02-12 16h|
+|#|source-of-madness-287857|Source of Madness|N/A|55|2024-03-14 15h|2024-03-28 15h|
 |#|south-park-the-fractured-but-whole|South Park™: The Fractured But Whole™ Standard Edition|59,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|south-park-the-stick-of-truth|South Park™: The Stick of Truth™|29,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|space-empires-ii-1fece2|Space Empires II|1,59€|90|2024-02-09 16h|2024-02-12 16h|
@@ -1325,8 +1325,8 @@
 |#|the-lions-song|The Lion's Song|7,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|the-long-dark|The Long Dark|27,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|the-lord-of-the-rings-return-to-moria-f01344|The Lord of The Rings Return to Moria|39,99€|38|2024-02-09 16h|2024-02-12 16h|
-|#|the-magnificent-trufflepigs|The Magnificent Trufflepigs|9,99€|70|2024-02-09 16h|2024-02-12 16h|
-|#|the-magnificent-trufflepigs|The Magnificent Trufflepigs|9,99€|75|2024-04-11 15h|2024-04-25 15h|
+|#|the-magnificent-trufflepigs|The Magnificent Trufflepigs|N/A|70|2024-02-09 16h|2024-02-12 16h|
+|#|the-magnificent-trufflepigs|The Magnificent Trufflepigs|N/A|75|2024-04-11 15h|2024-04-25 15h|
 |#|the-messenger|The Messenger|19,50€|75|2024-02-09 16h|2024-02-12 16h|
 |#|the-metronomicon-766679|The Metronomicon: Slay the Dance Floor|15,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|the-outer-worlds|The Outer Worlds|29,99€|34|2024-02-09 16h|2024-02-12 16h|
@@ -1387,7 +1387,7 @@
 |#|to-the-rescue-a6c254|To The Rescue|15,99€|75|2024-03-01 05h|2024-03-09 05h|
 |#|togges-17f696|Togges|19,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|togges-17f696|Togges|19,99€|50|2024-03-14 15h|2024-03-28 15h|
-|#|endwar|Tom Clancy's EndWar|9,99€|70|2024-02-09 16h|2024-02-12 16h|
+|#|endwar|Tom Clancy's EndWar|N/A|70|2024-02-09 16h|2024-02-12 16h|
 |#|ghost-recon|Tom Clancy's Ghost Recon|9,99€|70|2024-02-09 16h|2024-02-12 16h|
 |#|ghost-recon-wildlands|Tom Clancy's Ghost Recon Wildlands Standard Edition|49,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|rainbow-six-3-gold-edition|Tom Clancy's Rainbow Six 3 GOLD EDITION|4,99€|75|2024-02-09 16h|2024-02-12 16h|
