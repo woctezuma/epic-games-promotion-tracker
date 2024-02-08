@@ -297,6 +297,7 @@
 |#|the-division|Tom Clancy's The Division|29,99€|85|2024-02-09 16h|2024-02-12 16h|
 |#|trine-5|Trine 5: A Clockwork Conspiracy|29,99€|34|2024-02-09 16h|2024-02-12 16h|
 |#|truberbrook|Trüberbrook|29,99€|95|2024-02-09 16h|2024-02-12 16h|
+|#|voidtrain|Voidtrain|29,99€|20|2024-02-13 16h|2024-02-20 09h|
 |#|wrc-8|WRC 8 FIA World Rally Championship|29,99€|90|2024-02-09 16h|2024-02-12 16h|
 |#|wrc-9|WRC 9 FIA World Rally Championship|29,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|warhammer-mechanicus-0e4b71|Warhammer 40,000: Mechanicus - Standard Edition|29,99€|77|2024-02-09 16h|2024-02-12 16h|
@@ -333,8 +334,10 @@
 |#|asterix-and-obelix-slap-them-all-2-0ca63e|Asterix and Obelix Slap Them All 2|24,99€|30|2024-02-09 16h|2024-02-12 16h|
 |#|batora-lost-haven-1773c3|Batora: Lost Haven|24,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|batora-lost-haven-1773c3|Batora: Lost Haven|24,99€|50|2024-03-18 16h|2024-04-01 15h|
+|#|black-book|Black Book|24,99€|60|2024-02-13 16h|2024-02-20 09h|
 |#|blasphemous|Blasphemous|24,99€|75|2024-02-26 16h|2024-03-11 16h|
 |#|blasphemous|Blasphemous|24,99€|75|2024-04-15 15h|2024-04-29 15h|
+|#|breathedge|Breathedge|24,99€|60|2024-02-13 16h|2024-02-20 09h|
 |#|broken-pieces-b1c349|Broken Pieces|24,99€|60|2024-03-01 05h|2024-03-09 05h|
 |#|chorus|Chorus|24,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|dead-cells|Dead Cells|24,99€|50|2024-02-20 16h|2024-02-27 16h|
@@ -378,6 +381,7 @@
 |#|spiritfarer|Spiritfarer®: Farewell Edition|24,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|strayed-lights-351d29|Strayed Lights|24,99€|40|2024-02-13 16h|2024-02-20 16h|
 |#|strayed-lights-351d29|Strayed Lights|24,99€|40|2024-04-11 15h|2024-04-25 15h|
+|#|suchart-genius-artist-simulator|SuchArt: Genius Artist Simulator|24,99€|45|2024-02-13 16h|2024-02-20 09h|
 |#|tails-of-iron-587abd|Tails of Iron|24,99€|70|2024-02-09 16h|2024-02-12 16h|
 |#|terra-nil-508d16|Terra Nil|24,99€|25|2024-02-09 16h|2024-02-12 16h|
 |#|the-forgotten-city|The Forgotten City|24,99€|60|2024-02-09 16h|2024-02-12 16h|
@@ -388,6 +392,7 @@
 |#|the-telltale-batman|The Telltale Batman Shadows Edition|24,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|the-telltale-batman|The Telltale Batman Shadows Edition|24,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|the-witch-of-fern-island-18df35|The Witch of Fern Island|24,99€|30|2024-03-01 05h|2024-03-09 05h|
+|#|there-is-no-light-4eadf2|There Is No Light|24,99€|50|2024-02-13 16h|2024-02-20 09h|
 |#|tortuga-a-pirates-tale-e02635|Tortuga - A Pirate's Tale|24,99€|20|2024-02-09 16h|2024-02-12 16h|
 |#|we-are-football|WE ARE FOOTBALL|24,99€|66|2024-02-09 16h|2024-02-12 16h|
 |#|zorro-the-chronicles|Zorro The Chronicles|24,99€|80|2024-02-09 16h|2024-02-12 16h|
@@ -410,6 +415,7 @@
 |#|jackbox-party-pack-8|The Jackbox Party Pack 8|23,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|universe-sandbox|Universe Sandbox|23,99€|33|2024-02-09 16h|2024-02-12 16h|
 |#|universe-sandbox|Universe Sandbox|23,99€|33|2024-03-14 15h|2024-03-28 15h|
+|#|achilles-legends-untold-bb77ad|Achilles Legends Untold|22,99€|40|2024-02-10 00h|2024-02-24 00h|
 |#|good-company|Good Company|22,99€|33|2024-02-09 16h|2024-02-12 16h|
 |#|jackbox-party-pack-3|Jackbox Party Pack 3|22,99€|40|2024-02-09 16h|2024-02-12 16h|
 |#|jackbox-party-pack-3|Jackbox Party Pack 3|22,99€|35|2024-03-14 15h|2024-03-28 15h|
@@ -526,6 +532,7 @@
 |#|garden-story|Garden Story|19,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|going-under|Going Under|19,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|going-under|Going Under|19,99€|75|2024-03-18 16h|2024-04-01 15h|
+|#|golden-light-f543b3|Golden Light|19,99€|60|2024-02-13 16h|2024-02-20 09h|
 |#|guild-of-dungeoneering-ultimate-edition|Guild of Dungeoneering Ultimate Edition|19,99€|40|2024-02-09 16h|2024-02-12 16h|
 |#|hercule-poirot-the-first-cases-584238|Hercule Poirot - The First Cases|19,99€|70|2024-02-09 16h|2024-02-12 16h|
 |#|hob|Hob|19,99€|80|2024-02-09 16h|2024-02-12 16h|
@@ -536,6 +543,7 @@
 |#|inside|INSIDE|19,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|imp-of-the-sun|Imp of the Sun|19,99€|57|2024-02-09 16h|2024-02-12 16h|
 |#|imp-of-the-sun|Imp of the Sun|19,99€|57|2024-04-11 15h|2024-04-25 15h|
+|#|jack-move-8f3b25|Jack Move|19,99€|35|2024-02-13 16h|2024-02-20 09h|
 |#|kapital-sparks-of-revolution-70f07b|Kapital: Sparks of Revolution|19,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|keywe-c3a70e|KeyWe|19,99€|66|2024-02-09 16h|2024-02-12 16h|
 |#|keywe-c3a70e|KeyWe|19,99€|66|2024-04-11 15h|2024-04-25 15h|
@@ -568,6 +576,7 @@
 |#|neon-blight-6fe11b|Neon Blight|19,99€|75|2024-03-01 05h|2024-03-09 05h|
 |#|nexomon-extinction|Nexomon: Extinction|19,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|nexomon-extinction|Nexomon: Extinction|19,99€|60|2024-03-14 15h|2024-03-28 15h|
+|#|nova-lands-4d1788|Nova Lands|19,99€|30|2024-02-13 16h|2024-02-20 09h|
 |#|oddballers|OddBallers™|19,99€|60|2024-02-09 16h|2024-02-12 16h|
 |#|one-lonely-outpost-12afa6|One Lonely Outpost|19,99€|20|2024-03-01 05h|2024-03-09 05h|
 |#|outerverse-82d7ce|Outerverse|19,99€|75|2024-03-01 05h|2024-03-09 05h|
@@ -579,6 +588,7 @@
 |#|poker-club-6e18ee|Poker Club|19,99€|45|2024-02-09 16h|2024-02-12 16h|
 |#|poker-club-6e18ee|Poker Club|19,99€|45|2024-03-14 15h|2024-03-28 15h|
 |#|project-highrise-a567e8|Project Highrise|19,99€|50|2024-02-09 16h|2024-02-12 16h|
+|#|quasimorph-6d2b87|Quasimorph|19,99€|20|2024-02-13 16h|2024-02-20 09h|
 |#|rayman-legends|RAYMAN® LEGENDS|19,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|rad-rodgers-radical-edition-8f66a7|Rad Rodgers - Radical Edition|19,99€|80|2024-02-20 16h|2024-02-27 16h|
 |#|recompile|Recompile|19,99€|75|2024-02-09 16h|2024-02-12 16h|
@@ -645,6 +655,7 @@
 |#|trigon-ce1936|Trigon: Space Story|19,99€|70|2024-03-05 16h|2024-03-12 15h|
 |#|tropico-5|Tropico 5|19,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|parakacuk-22f4b2|Troublemaker|19,99€|50|2024-03-01 05h|2024-03-09 05h|
+|#|tunche|Tunche|19,99€|60|2024-02-13 16h|2024-02-20 09h|
 |#|tyrants-blessing-02fddd|Tyrants Blessing|19,99€|60|2024-03-01 05h|2024-03-09 05h|
 |#|unusual-findings-6997e3|Unusual Findings|19,99€|45|2024-02-09 16h|2024-02-12 16h|
 |#|urban-trial-tricky-eb0205|Urban Trial Tricky Deluxe Edition|19,99€|85|2024-02-13 16h|2024-02-20 16h|
