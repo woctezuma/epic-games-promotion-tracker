@@ -116,6 +116,8 @@
 |#|fae-farm|Fae Farm|39,99€|30|2024-02-09 16h|2024-02-12 16h|
 |#|fallen-legion-revenants-a2c944|Fallen Legion Revenants|39,99€|35|2024-03-14 15h|2024-03-28 15h|
 |#|gangs-of-sherwood|Gangs of Sherwood|39,99€|30|2024-02-09 16h|2024-02-12 16h|
+|#|ghostrunner-2|Ghostrunner 2|39,99€|45|2024-02-09 16h|2024-02-12 16h|
+|#|ghostrunner-2|Ghostrunner 2|39,99€|40|2024-02-09 16h|2024-02-12 16h|
 |#|it-takes-two|It Takes Two|39,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|kerbal-space-program|Kerbal Space Program|39,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|kings-bounty-ii|King's Bounty II|39,99€|90|2024-02-09 16h|2024-02-12 16h|
