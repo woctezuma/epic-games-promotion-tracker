@@ -6534,6 +6534,15 @@
     "title": "Lifeless Planet: Premier Edition"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-03-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "lifespace-traveler-1cc49a",
+    "startDate": "2024-02-27T16:00:00.000Z",
+    "title": "Lifespace Traveler"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
