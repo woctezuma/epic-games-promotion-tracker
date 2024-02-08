@@ -974,6 +974,7 @@
 |#|lego-bricktales-7ccf9b|LEGO® Bricktales|29,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|lego-bricktales-7ccf9b|LEGO® Bricktales|29,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|lake|Lake|19,99€|50|2024-02-09 16h|2024-02-12 16h|
+|#|lifespace-traveler-1cc49a|Lifespace Traveler|13,49€|50|2024-02-27 16h|2024-03-05 16h|
 |#|little-inferno|Little Inferno|11,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|loop-hero|Loop Hero|14,79€|50|2024-02-09 16h|2024-02-12 16h|
 |#|lost-ruins-d6233b|Lost Ruins|15,99€|50|2024-02-09 16h|2024-02-12 16h|
