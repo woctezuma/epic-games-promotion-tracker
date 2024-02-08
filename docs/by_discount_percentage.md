@@ -1150,6 +1150,7 @@
 |#|eigengrau-62aef0|Eigengrau|8,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|eternights-c2fbca|Eternights|29,99€|40|2024-02-09 16h|2024-02-12 16h|
 |#|eternights-c2fbca|Eternights|29,99€|40|2024-04-11 15h|2024-04-25 15h|
+|#|farwest-colony-aaa81c|FarWest Colony|15,29€|40|2024-03-14 15h|2024-03-28 15h|
 |#|foretales-d6c5bd|Foretales|19,99€|40|2024-02-09 16h|2024-02-12 16h|
 |#|grime|GRIME|19,99€|40|2024-02-09 16h|2024-02-12 16h|
 |#|ghoul-castle-3d-gold-edition-566ac0|Ghoul Castle 3D - Gold Edition|2,69€|40|2024-02-09 16h|2024-02-12 16h|

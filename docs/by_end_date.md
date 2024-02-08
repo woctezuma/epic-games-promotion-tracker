@@ -1325,6 +1325,7 @@
 |#|entomophobia-5e766c|Entomophobia|2,69€|33|2024-03-14 15h|2024-03-28 15h|
 |#|fallen-legion-revenants-a2c944|Fallen Legion Revenants|39,99€|35|2024-03-14 15h|2024-03-28 15h|
 |#|fallen-legion-rise-to-glory-0ea64a|Fallen Legion: Rise to Glory|29,99€|35|2024-03-14 15h|2024-03-28 15h|
+|#|farwest-colony-aaa81c|FarWest Colony|15,29€|40|2024-03-14 15h|2024-03-28 15h|
 |#|figment|Figment|19,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|figment2-creed-valley|Figment 2: Creed Valley|24,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|firegirl-29bf39|Firegirl: Hack 'n Splash Rescue DX|17,99€|70|2024-03-14 15h|2024-03-28 15h|

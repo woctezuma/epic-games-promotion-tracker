@@ -438,6 +438,7 @@
 |#|far-cry-new-dawn-ultimate|Far Cry New Dawn Ultimate|119,99€|85|2024-02-09 16h|2024-02-12 16h|
 |#|far-cry-primal|Far Cry Primal Standard Edition|29,99€|75|2024-02-09 16h|2024-02-12 16h|
 |#|far-cry-3|Far Cry®3 Standard Edition|19,99€|75|2024-02-09 16h|2024-02-12 16h|
+|#|farwest-colony-aaa81c|FarWest Colony|15,29€|40|2024-03-14 15h|2024-03-28 15h|
 |#|fell-seal-arbiters-mark|Fell Seal: Arbiter's Mark|29,99€|80|2024-02-09 16h|2024-02-12 16h|
 |#|figment|Figment|19,99€|65|2024-02-09 16h|2024-02-12 16h|
 |#|figment|Figment|19,99€|70|2024-03-14 15h|2024-03-28 15h|
