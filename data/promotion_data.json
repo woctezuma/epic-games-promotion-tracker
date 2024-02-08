@@ -7398,15 +7398,6 @@
     "title": "My Fantastic Ranch: Unicorns & Dragons"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2024-02-15T12:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 899,
-    "slug": "my-island-6fc611",
-    "startDate": "2024-02-08T12:00:00.000Z",
-    "title": "My Island"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
