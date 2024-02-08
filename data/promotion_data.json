@@ -696,7 +696,7 @@
     "discountPercentage": 55,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": null,
+    "originalPrice": 975,
     "slug": "apotheorasis-a33e73",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Apotheorasis \u2022 Lab of the Blind Gods"
@@ -1101,7 +1101,7 @@
     "discountPercentage": 80,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": null,
+    "originalPrice": 399,
     "slug": "avencast-rise-of-the-mage-4668a2",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Avencast - Rise Of The Mage"
@@ -3526,6 +3526,15 @@
     "slug": "eiyuden-chronicle-rising",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Eiyuden Chronicle: Rising"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2024-02-20T07:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "ekikoi-the-young-miss-falls-for-the-station-attendant-vam-e1ef50",
+    "startDate": "2024-02-14T07:00:00.000Z",
+    "title": "Ekikoi: The Young Miss Falls for the Station Attendant - VAM"
   },
   {
     "discountPercentage": 50,
@@ -6033,7 +6042,7 @@
     "discountPercentage": 75,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": null,
+    "originalPrice": 1199,
     "slug": "kine",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Kine"
@@ -6042,7 +6051,7 @@
     "discountPercentage": 75,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
-    "originalPrice": null,
+    "originalPrice": 1199,
     "slug": "kine",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Kine"
@@ -10218,7 +10227,7 @@
     "discountPercentage": 55,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": null,
+    "originalPrice": 1999,
     "slug": "source-of-madness-287857",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Source of Madness"
@@ -10227,7 +10236,7 @@
     "discountPercentage": 55,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
-    "originalPrice": null,
+    "originalPrice": 1999,
     "slug": "source-of-madness-287857",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Source of Madness"
@@ -11928,7 +11937,7 @@
     "discountPercentage": 70,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": null,
+    "originalPrice": 999,
     "slug": "the-magnificent-trufflepigs",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "The Magnificent Trufflepigs"
@@ -11937,7 +11946,7 @@
     "discountPercentage": 75,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
-    "originalPrice": null,
+    "originalPrice": 999,
     "slug": "the-magnificent-trufflepigs",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "The Magnificent Trufflepigs"
@@ -12486,7 +12495,7 @@
     "discountPercentage": 70,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": null,
+    "originalPrice": 999,
     "slug": "endwar",
     "startDate": "2024-02-09T16:00:00.000Z",
     "title": "Tom Clancy's EndWar"
