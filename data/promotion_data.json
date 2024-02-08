@@ -3942,6 +3942,15 @@
     "title": "Far Cry\u00ae3 Standard Edition"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1529,
+    "slug": "farwest-colony-aaa81c",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "FarWest Colony"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-02-12T16:00:00.000Z",
     "isFree": false,
