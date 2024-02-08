@@ -417,7 +417,7 @@
 |#|final-fantasy-vii-remake-intergrade|FINAL FANTASY VII REMAKE INTERGRADE|79,99€|50|2024-02-09 16h|2024-02-12 16h|
 |#|focus-indies-bundle|FOCUS INDIES BUNDLE: Curse of the Dead Gods + Shady Part of Me + Aeon Must Die!|39,99€|70|2024-02-09 16h|2024-02-12 16h|
 |#|foreclosed|FORECLOSED|16,99€|80|2024-02-09 16h|2024-02-12 16h|
-|#|frogue-c91fc5|FROGUE|8,99€|20|2024-02-14 18h|2024-02-21 18h|
+|#|frogue-c91fc5|FROGUE|9,89€|20|2024-02-14 18h|2024-02-21 18h|
 |#|front-mission-1st-remake-124a24|FRONT MISSION 1st: Remake|31,39€|33|2024-02-27 16h|2024-03-05 16h|
 |#|fur-squadron-0042b8|FUR Squadron|6,29€|45|2024-02-09 16h|2024-02-12 16h|
 |#|faces-of-war-3c2686|Faces of War|4,99€|85|2024-02-09 16h|2024-02-12 16h|

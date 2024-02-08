@@ -1117,7 +1117,7 @@
 |#|what-lies-in-the-multiverse-f604fa|What Lies in the Multiverse|11,99€|90|2024-02-13 16h|2024-02-20 16h|
 |#|what-the-duck-83e293|What The Duck|17,99€|80|2024-02-13 16h|2024-02-20 16h|
 |#|amber-1e2240|Amber|26,99€|34|2024-02-14 13h|2024-02-20 13h|
-|#|frogue-c91fc5|FROGUE|8,99€|20|2024-02-14 18h|2024-02-21 18h|
+|#|frogue-c91fc5|FROGUE|9,89€|20|2024-02-14 18h|2024-02-21 18h|
 |#|the-meme-hunter-bf7086|THE MEME HUNTER|0,89€|50|2024-02-14 22h|2024-02-29 22h|
 |#|dakar-desert-rally|Dakar Desert Rally|29,99€|100|2024-02-15 16h|2024-02-22 16h|
 |#|nextbots-in-the-backrooms-b5677b|Nextbots In The Backrooms|0,89€|50|2024-02-15 22h|2024-03-05 22h|
