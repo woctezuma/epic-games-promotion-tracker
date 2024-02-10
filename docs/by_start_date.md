@@ -1,12 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|oxide-room-104-4c1249|Oxide Room 104|17,99€|75|2024-02-09 17h|2024-02-18 11h|
-|#|timothy-vs-the-aliens-2f5b36|Timothy vs the Aliens|13,49€|80|2024-02-09 17h|2024-02-18 11h|
-|#|achilles-legends-untold-bb77ad|Achilles Legends Untold|22,99€|40|2024-02-10 00h|2024-02-24 00h|
-|#|serbian-dancing-lady-94e658|Serbian Dancing Lady|0,89€|40|2024-02-10 03h|2024-02-17 01h|
-|#|outbreak-epidemic-viral-terror-54b6e9|Outbreak Epidemic Viral Terror|8,99€|50|2024-02-10 05h|2024-02-26 15h|
-|#|the-inheritance-of-crimson-manor-81bc67|The Inheritance of Crimson Manor|17,99€|80|2024-02-10 06h|2024-02-26 06h|
-|#|dream-of-tiny-snow-36f018|Dream of Tiny Snow|8,09€|15|2024-02-10 15h|2024-02-18 04h|
 |#|rpg-survivors-8bf58c|RPG Survivors|4,49€|30|2024-02-11 15h|2024-02-18 14h|
 |#|a-game-of-thrones-5858a3|A Game Of Thrones: The Board Game Digital Edition|19,99€|30|2024-02-11 16h|2024-02-13 16h|
 |#|carcassonne|Carcassonne|9,99€|60|2024-02-11 16h|2024-02-13 16h|
@@ -15,6 +8,7 @@
 |#|backrooms-eight-levels-c7ea4c|Backrooms: Eight Levels|0,89€|50|2024-02-11 22h|2024-02-29 22h|
 |#|airhead-945e54|Airhead|19,99€|10|2024-02-12 14h|2024-02-19 14h|
 |#|the-escapists|The Escapists|14,99€|80|2024-02-12 16h|2024-02-26 16h|
+|#|search-de9485|Nihilsearch|8,99€|70|2024-02-13 10h|2024-02-24 08h|
 |#|football-manager-2024|Football Manager 2024|59,99€|20|2024-02-13 15h|2024-02-21 15h|
 |#|1001-jigsaw-cute-cats-36eb93|1001 Jigsaw Cute Cats|4,49€|50|2024-02-13 16h|2024-02-20 16h|
 |#|3DMark|3DMark|33,99€|75|2024-02-13 16h|2024-02-20 16h|
@@ -53,6 +47,7 @@
 |#|love-too-easily-1854cf|Love Too Easily|21,56€|50|2024-02-13 16h|2024-02-20 16h|
 |#|mordhau|MORDHAU|26,99€|66|2024-02-13 16h|2024-02-20 16h|
 |#|mage-math-b7ca14|Mage Math|11,69€|35|2024-02-13 16h|2024-02-20 16h|
+|#|medieval-delivery-938731|Medieval Delivery|11,69€|20|2024-02-13 16h|2024-02-20 16h|
 |#|moespotter-uncover-the-maiden-mysteries-56fc75|MoeSpotter - Uncover the Maiden Mysteries|3,59€|50|2024-02-13 16h|2024-02-20 16h|
 |#|mysteries-of-the-undead-46140a|Mysteries of the Undead|4,49€|50|2024-02-13 16h|2024-02-20 16h|
 |#|niche-a-genetics-survival-game|Niche - a genetics survival game|14,99€|60|2024-02-13 16h|2024-02-20 16h|
@@ -161,6 +156,7 @@
 |#|christmas-mahjong-50bcc6|Christmas Mahjong|4,49€|50|2024-02-27 16h|2024-03-05 16h|
 |#|cooking-trip-d45abd|Cooking Trip Collectors Edition|4,49€|30|2024-02-27 16h|2024-03-05 16h|
 |#|deexit-eternal-matters-da8992|De-Exit - Eternal Matters|19,99€|35|2024-02-27 16h|2024-03-05 16h|
+|#|evalinathe-sorceress-a9a60a|Evalina The Sorceress|1,79€|90|2024-02-27 16h|2024-03-05 16h|
 |#|front-mission-1st-remake-124a24|FRONT MISSION 1st: Remake|31,39€|33|2024-02-27 16h|2024-03-05 16h|
 |#|fairytale-solitaire-red-riding-hood-289828|Fairytale Solitaire: Red Riding Hood|4,49€|30|2024-02-27 16h|2024-03-05 16h|
 |#|for-the-warp-b5c468|For The Warp|13,49€|70|2024-02-27 16h|2024-03-05 16h|
@@ -183,6 +179,7 @@
 |#|sudoku-zenkai-3990b1|Sudoku Zenkai|3,59€|20|2024-02-27 16h|2024-03-05 16h|
 |#|the-death-into-trouble-271916|The Death Into Trouble|4,49€|20|2024-02-27 16h|2024-03-05 16h|
 |#|tiny-thor-76de1f|Tiny Thor|19,99€|35|2024-02-27 16h|2024-03-05 16h|
+|#|treasure-of-the-giantess-60391f|Treasure Of The Giantess|8,99€|70|2024-02-27 16h|2024-03-05 16h|
 |#|age-of-wonders-4|Age of Wonders 4|49,99€|30|2024-02-27 18h|2024-03-04 11h|
 |#|brothers-a-tale-of-two-sons-remake|Brothers: A Tale of Two Sons Remake|0,00€|20|2024-02-28 15h|2024-03-05 23h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|75|2024-02-29 22h|2024-03-17 22h|
@@ -244,6 +241,7 @@
 |#|mystery-solitaire-grimms-tales-244e2a|Mystery Solitaire. Grimm's Tales|4,49€|50|2024-03-05 16h|2024-03-12 15h|
 |#|rainbow-pixel-color-by-number-462613|Rainbow Pixel - Color by Number|4,49€|30|2024-03-05 16h|2024-03-12 15h|
 |#|strike-solitaire-e86661|Strike Solitaire|3,59€|30|2024-03-05 16h|2024-03-12 15h|
+|#|team-disorder-987adf|Team Disorder|17,99€|75|2024-03-05 16h|2024-03-12 15h|
 |#|terra-invicta-5bbf09|Terra Invicta|39,99€|30|2024-03-05 16h|2024-03-12 15h|
 |#|trigon-ce1936|Trigon: Space Story|19,99€|70|2024-03-05 16h|2024-03-12 15h|
 |#|poultrygeist-6ab305|Troma Presents Poultrygeist|9,89€|10|2024-03-05 16h|2024-03-12 15h|
@@ -256,6 +254,7 @@
 |#|travellers-rest-c115d1|Travellers Rest|17,99€|25|2024-03-07 18h|2024-03-28 18h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|55|2024-03-10 22h|2024-03-17 22h|
 |#|life-after-death-b4e964|Life After Death|4,49€|40|2024-03-11 01h|2024-04-04 00h|
+|#|man-in-the-dark-5c468e|Man in the Dark|10,79€|10|2024-03-11 04h|2024-03-25 04h|
 |#|1001-jigsaw-earth-chronicles-7b25fc|1001 Jigsaw. Earth Chronicles|4,49€|60|2024-03-12 15h|2024-03-19 15h|
 |#|asian-riddles-223489|Asian Riddles|4,49€|60|2024-03-12 15h|2024-03-19 15h|
 |#|cooking-trip-new-challenge-collectors-edition-59c8df|Cooking Trip New Challenge. Collector's Edition|4,49€|30|2024-03-12 15h|2024-03-19 15h|
@@ -372,6 +371,7 @@
 |#|restless-soul-d5baed|Restless Soul|11,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|return-of-red-riding-hood-enhanced-edition-3598e4|Return of Red Riding Hood Enhanced Edition|2,69€|60|2024-03-14 15h|2024-03-28 15h|
 |#|rimworld|RimWorld|32,99€|20|2024-03-14 15h|2024-03-28 15h|
+|#|rising-mist-36ba97|Rising Mist|13,49€|40|2024-03-14 15h|2024-03-28 15h|
 |#|stasis-bone-totem-ca8320|STASIS : BONE TOTEM|17,99€|38|2024-03-14 15h|2024-03-28 15h|
 |#|satisfactory|Satisfactory|29,99€|45|2024-03-14 15h|2024-03-28 15h|
 |#|saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited|Saviors of Sapphire Wings & Strangers of Sword City Revisited|49,99€|60|2024-03-14 15h|2024-03-28 15h|
@@ -427,6 +427,7 @@
 |#|the-uncertain-last-quiet-day|The Uncertain: Last Quiet Day|7,99€|85|2024-03-14 15h|2024-03-28 15h|
 |#|the-uncertain-light-at-the-end|The Uncertain: Light at the End|7,99€|85|2024-03-14 15h|2024-03-28 15h|
 |#|the-wolf-among-us|The Wolf Among Us|14,99€|60|2024-03-14 15h|2024-03-28 15h|
+|#|them-and-us-7c9c73|Them and Us|35,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|time-loader|Time Loader|12,49€|80|2024-03-14 15h|2024-03-28 15h|
 |#|togges-17f696|Togges|19,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|tormented-souls|Tormented Souls|19,99€|60|2024-03-14 15h|2024-03-28 15h|
@@ -436,6 +437,7 @@
 |#|turnip-boy-robs-a-bank-3fae0e|Turnip Boy Robs a Bank|13,49€|20|2024-03-14 15h|2024-03-28 15h|
 |#|ugly-da09b2|Ugly|17,99€|33|2024-03-14 15h|2024-03-28 15h|
 |#|universe-sandbox|Universe Sandbox|23,99€|33|2024-03-14 15h|2024-03-28 15h|
+|#|urban-tale-75b4f0|Urban Tale|12,59€|40|2024-03-14 15h|2024-03-28 15h|
 |#|verdun|Verdun|19,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|virtual-rides-3-2add3b|Virtual Rides 3|22,39€|50|2024-03-14 15h|2024-03-28 15h|
 |#|ww1-game-series-bundle|WW1 Game Series Bundle|59,99€|67|2024-03-14 15h|2024-03-28 15h|
