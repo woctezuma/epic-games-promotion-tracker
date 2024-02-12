@@ -216,15 +216,6 @@
     "title": "Airborne Kingdom"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2024-02-19T14:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "airhead-945e54",
-    "startDate": "2024-02-12T14:00:00.000Z",
-    "title": "Airhead"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -259,6 +250,15 @@
     "slug": "ancient-enemy",
     "startDate": "2024-03-14T00:00:00.000Z",
     "title": "Ancient Enemy"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 719,
+    "slug": "angelo-and-deemon-one-hell-of-a-quest-94d7e2",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Angelo and Deemon: One Hell of a Quest"
   },
   {
     "discountPercentage": 30,
@@ -604,15 +604,6 @@
   },
   {
     "discountPercentage": 50,
-    "endDate": "2024-02-29T22:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "backrooms-eight-levels-c7ea4c",
-    "startDate": "2024-02-11T22:00:00.000Z",
-    "title": "Backrooms: Eight Levels"
-  },
-  {
-    "discountPercentage": 50,
     "endDate": "2024-04-15T22:00:00.000Z",
     "isFree": false,
     "originalPrice": 89,
@@ -817,6 +808,15 @@
     "slug": "bottle-pilgrim-redux-987f66",
     "startDate": "2024-02-20T16:00:00.000Z",
     "title": "Bottle: Pilgrim Redux"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "bratz-flaunt-your-fashion-95d529",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Bratz\u2122: Flaunt Your Fashion"
   },
   {
     "discountPercentage": 60,
@@ -2574,6 +2574,15 @@
     "title": "Life After Death"
   },
   {
+    "discountPercentage": 22,
+    "endDate": "2024-03-14T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1263,
+    "slug": "life-changer-64fc81",
+    "startDate": "2024-02-22T17:00:00.000Z",
+    "title": "Life Changer"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -2698,6 +2707,15 @@
     "slug": "mordhau",
     "startDate": "2024-02-13T16:00:00.000Z",
     "title": "MORDHAU"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "my-little-pony-a-maretime-bay-adventure-6a2cce",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "MY LITTLE PONY A Maretime Bay Adventure"
   },
   {
     "discountPercentage": 80,
@@ -2950,6 +2968,15 @@
     "slug": "moving-out",
     "startDate": "2024-03-18T16:00:00.000Z",
     "title": "Moving Out"
+  },
+  {
+    "discountPercentage": 55,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "my-friend-peppa-pig-2de0dc",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "My Friend Peppa Pig"
   },
   {
     "discountPercentage": 50,
@@ -3310,6 +3337,15 @@
     "slug": "overtop-ed5e49",
     "startDate": "2024-06-05T22:00:00.000Z",
     "title": "Overtop"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "PAW Patrol Mighty Pups Save Adventure Bay"
   },
   {
     "discountPercentage": 70,
@@ -4095,6 +4131,15 @@
     "title": "Splinter Cell Chaos Theory"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "star-trek-prodigy-supernova-cdb770",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Star Trek Prodigy: Supernova"
+  },
+  {
     "discountPercentage": 90,
     "endDate": "2024-02-20T16:00:00.000Z",
     "isFree": false,
@@ -4147,6 +4192,15 @@
     "slug": "strayed-lights-351d29",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Strayed Lights"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-02-21T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "street-fighting-simulator-40f23a",
+    "startDate": "2024-02-15T22:00:00.000Z",
+    "title": "Street Fighting Simulator"
   },
   {
     "discountPercentage": 30,
@@ -4446,6 +4500,15 @@
     "title": "The Alchemist of Ars Magna"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 629,
+    "slug": "the-bunny-graveyard-310f69",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "The Bunny Graveyard"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -4525,15 +4588,6 @@
     "slug": "royal-defense-d046db",
     "startDate": "2024-02-20T16:00:00.000Z",
     "title": "The Empress of Mahjong"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2024-02-26T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "the-escapists",
-    "startDate": "2024-02-12T16:00:00.000Z",
-    "title": "The Escapists"
   },
   {
     "discountPercentage": 80,
@@ -5569,6 +5623,15 @@
     "slug": "zidouqianwen-865244",
     "startDate": "2024-02-13T16:00:00.000Z",
     "title": "ZiDouQianWen"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "zoological-era-ii-0869e0",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Zoological Era II"
   },
   {
     "discountPercentage": 30,
