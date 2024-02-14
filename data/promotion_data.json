@@ -739,11 +739,11 @@
   },
   {
     "discountPercentage": 50,
-    "endDate": "2024-03-30T22:00:00.000Z",
+    "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 539,
     "slug": "boltbreak-c2bf02",
-    "startDate": "2024-03-01T07:00:00.000Z",
+    "startDate": "2024-03-14T15:00:00.000Z",
     "title": "BoltBreak"
   },
   {
@@ -889,6 +889,15 @@
     "slug": "cat-cafe-manager-68bd0d",
     "startDate": "2024-03-01T05:00:00.000Z",
     "title": "Cat Cafe Manager"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-03-22T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "cat-slide-tiles-93b9d4",
+    "startDate": "2024-03-15T17:00:00.000Z",
+    "title": "Cat Slide Tiles"
   },
   {
     "discountPercentage": 50,
@@ -1510,15 +1519,6 @@
     "slug": "far-lone-sails",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "FAR: Lone Sails"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2024-02-21T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 989,
-    "slug": "frogue-c91fc5",
-    "startDate": "2024-02-14T18:00:00.000Z",
-    "title": "FROGUE"
   },
   {
     "discountPercentage": 33,
@@ -2790,15 +2790,6 @@
     "title": "Missile Command: Recharged"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2024-04-25T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1679,
-    "slug": "model-builder-f9b456",
-    "startDate": "2024-04-11T15:00:00.000Z",
-    "title": "Model Builder"
-  },
-  {
     "discountPercentage": 67,
     "endDate": "2024-03-09T05:00:00.000Z",
     "isFree": false,
@@ -3184,6 +3175,15 @@
     "slug": "outerverse-82d7ce",
     "startDate": "2024-03-01T05:00:00.000Z",
     "title": "Outerverse"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2024-02-29T09:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1169,
+    "slug": "outlive-e2f5b1",
+    "startDate": "2024-02-16T09:00:00.000Z",
+    "title": "Outlive"
   },
   {
     "discountPercentage": 80,
