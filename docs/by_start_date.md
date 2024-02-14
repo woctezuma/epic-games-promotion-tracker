@@ -1,7 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|the-meme-hunter-bf7086|THE MEME HUNTER|0,89€|50|2024-02-14 22h|2024-02-29 22h|
-|#|true-hate-007027|True Hate|5,99€|90|2024-02-14 22h|2024-02-29 22h|
 |#|pro-basketball-manager-2024-5c764f|Pro Basketball Manager 2024|26,99€|20|2024-02-15 00h|2024-02-22 00h|
 |#|red-ronin-d2678c|Red Ronin|5,99€|50|2024-02-15 14h|2024-02-22 14h|
 |#|dakar-desert-rally|Dakar Desert Rally|29,99€|100|2024-02-15 16h|2024-02-22 16h|
