@@ -472,7 +472,6 @@
 |#|the-bunny-graveyard-310f69|The Bunny Graveyard|6,29€|30|2024-03-14 15h|2024-03-28 15h|
 |#|red-ronin-d2678c|Red Ronin|5,99€|50|2024-02-15 14h|2024-02-22 14h|
 |#|stick-it-to-the-man|Stick It To The Man!|5,99€|80|2024-03-14 15h|2024-03-28 15h|
-|#|true-hate-007027|True Hate|5,99€|90|2024-02-14 22h|2024-02-29 22h|
 |#|boltbreak-c2bf02|BoltBreak|5,39€|50|2024-03-14 15h|2024-03-28 15h|
 |#|boltbreak-c2bf02|BoltBreak|5,39€|18|2024-06-01 06h|2024-06-30 22h|
 |#|boltbreak-c2bf02|BoltBreak|5,39€|17|2024-09-01 06h|2024-09-30 22h|
@@ -605,7 +604,6 @@
 |#|street-fighting-simulator-40f23a|Street Fighting Simulator|0,89€|40|2024-02-15 22h|2024-02-21 22h|
 |#|trex-dinosaur-game-d30355|T-Rex Dinosaur Game|0,89€|50|2024-02-17 22h|2024-03-05 22h|
 |#|trex-dinosaur-game-d30355|T-Rex Dinosaur Game|0,89€|50|2024-04-07 22h|2024-04-23 22h|
-|#|the-meme-hunter-bf7086|THE MEME HUNTER|0,89€|50|2024-02-14 22h|2024-02-29 22h|
 |#|the-meme-hunter-bf7086|THE MEME HUNTER|0,89€|50|2024-04-01 22h|2024-04-15 22h|
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2024-02-25 22h|2024-03-15 22h|
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2024-04-15 22h|2024-05-03 22h|
