@@ -4213,15 +4213,6 @@
   },
   {
     "discountPercentage": 50,
-    "endDate": "2024-02-29T22:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "the-meme-hunter-bf7086",
-    "startDate": "2024-02-14T22:00:00.000Z",
-    "title": "THE MEME HUNTER"
-  },
-  {
-    "discountPercentage": 50,
     "endDate": "2024-04-15T22:00:00.000Z",
     "isFree": false,
     "originalPrice": 89,
@@ -5200,15 +5191,6 @@
     "slug": "truck-simulator-ultimate-3d-fafeaa",
     "startDate": "2024-02-16T17:00:00.000Z",
     "title": "Truck Simulator Ultimate 3D"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2024-02-29T22:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 599,
-    "slug": "true-hate-007027",
-    "startDate": "2024-02-14T22:00:00.000Z",
-    "title": "True Hate"
   },
   {
     "discountPercentage": 66,
