@@ -3006,6 +3006,15 @@
     "title": "Mystery in the Office"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-03-05T08:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "ninja-kato-2-37fa87",
+    "startDate": "2024-02-22T08:00:00.000Z",
+    "title": "NINJA KATO 2"
+  },
+  {
     "discountPercentage": 15,
     "endDate": "2024-02-27T16:00:00.000Z",
     "isFree": false,
