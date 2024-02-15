@@ -93,6 +93,7 @@
 |#|nextbots-in-the-backrooms-b5677b|Nextbots In The Backrooms|0,89€|50|2024-02-15 22h|2024-03-05 22h|
 |#|trex-dinosaur-game-d30355|T-Rex Dinosaur Game|0,89€|50|2024-02-17 22h|2024-03-05 22h|
 |#|brothers-a-tale-of-two-sons-remake|Brothers: A Tale of Two Sons Remake|0,00€|20|2024-02-28 15h|2024-03-05 23h|
+|#|geometric-sniper-blood-in-paris-17ce16|Geometric Sniper - Blood in Paris|2,69€|20|2024-02-29 17h|2024-03-07 17h|
 |#|dying-light-2-stay-human|Dying Light 2 Stay Human|59,99€|50|2024-02-22 18h|2024-03-07 18h|
 |#|car-mechanic-city-driving-4996c5|Car Mechanic - City Driving|0,89€|50|2024-02-19 22h|2024-03-07 22h|
 |#|dizzy-fight-7bbfe7|Dizzy Fight|7,19€|40|2024-02-23 16h|2024-03-08 16h|
@@ -513,7 +514,7 @@
 |#|ageless|Ageless|14,99€|80|2024-03-18 16h|2024-04-01 15h|
 |#|automachef|Automachef|14,99€|80|2024-03-18 16h|2024-04-01 15h|
 |#|aven-colony|Aven Colony|29,99€|90|2024-03-18 16h|2024-04-01 15h|
-|#|633495cb69534bd8acb97d6d541f4268|Batora: Lost Haven|24,99€|50|2024-03-18 16h|2024-04-01 15h|
+|#|batora-lost-haven-1773c3|Batora: Lost Haven|24,99€|50|2024-03-18 16h|2024-04-01 15h|
 |#|before-we-leave|Before We Leave|17,99€|75|2024-03-18 16h|2024-04-01 15h|
 |#|blasphemous-2|Blasphemous 2|29,99€|34|2024-03-18 16h|2024-04-01 15h|
 |#|going-under|Going Under|19,99€|75|2024-03-18 16h|2024-04-01 15h|

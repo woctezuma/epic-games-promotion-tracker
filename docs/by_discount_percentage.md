@@ -313,7 +313,7 @@
 |#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2024-04-05 22h|2024-04-25 22h|
 |#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2024-05-27 22h|2024-06-13 22h|
 |#|backrooms-eight-levels-c7ea4c|Backrooms: Eight Levels|0,89€|50|2024-04-01 22h|2024-04-15 22h|
-|#|633495cb69534bd8acb97d6d541f4268|Batora: Lost Haven|24,99€|50|2024-03-18 16h|2024-04-01 15h|
+|#|batora-lost-haven-1773c3|Batora: Lost Haven|24,99€|50|2024-03-18 16h|2024-04-01 15h|
 |#|birch-simulator-21969e|Birch Simulator|0,89€|50|2024-03-17 22h|2024-04-03 22h|
 |#|birch-simulator-21969e|Birch Simulator|0,89€|50|2024-05-04 22h|2024-05-19 22h|
 |#|birch-simulator-21969e|Birch Simulator|0,89€|50|2024-06-21 22h|2024-07-07 22h|
@@ -588,6 +588,7 @@
 |#|brothers-a-tale-of-two-sons-remake|Brothers: A Tale of Two Sons Remake|0,00€|20|2024-02-28 15h|2024-03-05 23h|
 |#|dust-fleet-620614|Dust Fleet|19,99€|20|2024-03-01 05h|2024-03-09 05h|
 |#|forest-fire-b4bb7e|Forest Fire|5,39€|20|2024-04-01 07h|2024-04-14 07h|
+|#|geometric-sniper-blood-in-paris-17ce16|Geometric Sniper - Blood in Paris|2,69€|20|2024-02-29 17h|2024-03-07 17h|
 |#|island-idle-rpg-350c2e|Island Idle RPG|4,49€|20|2024-03-19 15h|2024-03-26 15h|
 |#|one-lonely-outpost-12afa6|One Lonely Outpost|19,99€|20|2024-03-01 05h|2024-03-09 05h|
 |#|prison-city-ac156c|Prison City|8,99€|20|2024-04-11 15h|2024-04-25 15h|
