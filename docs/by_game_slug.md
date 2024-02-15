@@ -359,6 +359,7 @@
 |#|nextbots-in-the-backrooms-b5677b|Nextbots In The Backrooms|0,89€|50|2024-02-15 22h|2024-03-05 22h|
 |#|nextbots-in-the-backrooms-b5677b|Nextbots In The Backrooms|0,89€|50|2024-04-07 22h|2024-04-23 22h|
 |#|night-loops-aa3cc2|Night Loops|8,99€|33|2024-03-01 05h|2024-03-09 05h|
+|#|ninja-kato-2-37fa87|NINJA KATO 2|4,49€|40|2024-02-22 08h|2024-03-05 08h|
 |#|nira-02f6ee|Nira|7,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|no-straight-roads|No Straight Roads|24,99€|66|2024-04-11 15h|2024-04-25 15h|
 |#|oirbo-c063b7|Oirbo|13,49€|22|2024-03-14 15h|2024-03-28 15h|

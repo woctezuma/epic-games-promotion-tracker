@@ -453,6 +453,7 @@
 |#|lunarlux-41403d|LunarLux|19,99€|40|2024-03-01 05h|2024-03-09 05h|
 |#|mail-time-ed1aea|Mail Time|19,99€|40|2024-03-01 05h|2024-03-09 05h|
 |#|mountain-bicycle-rider-simulator-e52374|Mountain Bicycle Rider Simulator|0,89€|40|2024-02-16 17h|2024-02-29 17h|
+|#|ninja-kato-2-37fa87|NINJA KATO 2|4,49€|40|2024-02-22 08h|2024-03-05 08h|
 |#|otok-6c2478|Otok|4,49€|40|2024-03-14 15h|2024-03-28 15h|
 |#|out-of-line-209cbb|Out of Line|7,19€|40|2024-03-14 15h|2024-03-28 15h|
 |#|paw-patrol-mighty-pups-save-adventure-bay-aaad37|PAW Patrol Mighty Pups Save Adventure Bay|29,99€|40|2024-03-14 15h|2024-03-28 15h|
