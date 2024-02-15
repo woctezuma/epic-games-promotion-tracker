@@ -66,6 +66,9 @@
 |#|unspottable|Unspottable|9,99€|50|2024-02-20 16h|2024-02-27 16h|
 |#|europa-universalis-iv|Europa Universalis IV|39,99€|70|2024-02-20 18h|2024-02-27 11h|
 |#|ninja-kato-2-37fa87|NINJA KATO 2|4,49€|40|2024-02-22 08h|2024-03-05 08h|
+|#|fallout-2|Fallout 2: A Post Nuclear Role Playing Game|9,99€|100|2024-02-22 16h|2024-02-29 16h|
+|#|fallout-tactics-brotherhood-of-steel|Fallout Tactics: Brotherhood of Steel|9,99€|100|2024-02-22 16h|2024-02-29 16h|
+|#|fallout|Fallout: A Post Nuclear Role Playing Game|9,99€|100|2024-02-22 16h|2024-02-29 16h|
 |#|life-changer-64fc81|Life Changer|12,63€|22|2024-02-22 17h|2024-03-14 17h|
 |#|dying-light-2-stay-human|Dying Light 2 Stay Human|59,99€|50|2024-02-22 18h|2024-03-07 18h|
 |#|revenge-of-the-ronin-faff20|Revenge Of The Ronin|4,49€|25|2024-02-23 12h|2024-03-01 12h|
