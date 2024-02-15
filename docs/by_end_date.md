@@ -1,7 +1,6 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
 |#|street-fighting-simulator-40f23a|Street Fighting Simulator|0,89€|40|2024-02-15 22h|2024-02-21 22h|
-|#|dakar-desert-rally|Dakar Desert Rally|29,99€|100|2024-02-15 16h|2024-02-22 16h|
 |#|gambit-shifter-93870e|Gambit Shifter|7,19€|15|2024-02-19 09h|2024-02-26 08h|
 |#|forest-grove-6b05cf|Forest Grove|17,99€|25|2024-02-19 14h|2024-02-26 14h|
 |#|europa-universalis-iv|Europa Universalis IV|39,99€|70|2024-02-20 18h|2024-02-27 11h|

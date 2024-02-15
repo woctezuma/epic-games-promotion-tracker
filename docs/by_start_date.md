@@ -1,6 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|dakar-desert-rally|Dakar Desert Rally|29,99€|100|2024-02-15 16h|2024-02-22 16h|
 |#|nextbots-in-the-backrooms-b5677b|Nextbots In The Backrooms|0,89€|50|2024-02-15 22h|2024-03-05 22h|
 |#|street-fighting-simulator-40f23a|Street Fighting Simulator|0,89€|40|2024-02-15 22h|2024-02-21 22h|
 |#|outlive-e2f5b1|Outlive|11,69€|70|2024-02-16 09h|2024-02-29 09h|

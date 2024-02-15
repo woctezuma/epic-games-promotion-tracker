@@ -127,7 +127,6 @@
 |#|cursed-to-golf-a6bc22|Cursed to Golf|19,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|cyanide-happiness-freakpocalypse|Cyanide & Happiness - Freakpocalypse (Episode 1)|15,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|cyber-hook-064d2c|Cyber Hook|11,99€|80|2024-03-14 15h|2024-03-28 15h|
-|#|dakar-desert-rally|Dakar Desert Rally|29,99€|100|2024-02-15 16h|2024-02-22 16h|
 |#|danger-scavenger-0cd9a9|Danger Scavenger|7,99€|90|2024-03-14 15h|2024-03-28 15h|
 |#|dark-deity-0b08d1|Dark Deity|21,99€|75|2024-03-01 05h|2024-03-09 05h|
 |#|dark-fantasy-2-jigsaw-puzzle-d65d41|Dark Fantasy 2: Jigsaw Puzzle|2,69€|50|2024-02-18 22h|2024-03-05 20h|
