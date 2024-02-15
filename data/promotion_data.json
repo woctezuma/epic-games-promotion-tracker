@@ -589,7 +589,7 @@
     "endDate": "2024-04-01T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 2499,
-    "slug": "633495cb69534bd8acb97d6d541f4268",
+    "slug": "batora-lost-haven-1773c3",
     "startDate": "2024-03-18T16:00:00.000Z",
     "title": "Batora: Lost Haven"
   },
@@ -1879,6 +1879,15 @@
     "slug": "genesis-alpha-one",
     "startDate": "2024-03-14T16:00:00.000Z",
     "title": "Genesis Alpha One Deluxe Edition"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2024-03-07T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "geometric-sniper-blood-in-paris-17ce16",
+    "startDate": "2024-02-29T17:00:00.000Z",
+    "title": "Geometric Sniper - Blood in Paris"
   },
   {
     "discountPercentage": 80,
