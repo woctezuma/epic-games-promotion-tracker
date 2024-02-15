@@ -1449,6 +1449,15 @@
     "title": "Elven Rivers. The Forgotten Lands Collector's Edition"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2024-04-02T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "emergency-crew-1-04340a",
+    "startDate": "2024-03-26T15:00:00.000Z",
+    "title": "Emergency Crew 2 Global Warming"
+  },
+  {
     "discountPercentage": 33,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -2086,6 +2095,15 @@
     "slug": "hordecore",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "HordeCore"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-04-14T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "test1-a822c4",
+    "startDate": "2024-03-15T15:00:00.000Z",
+    "title": "Horror Ken"
   },
   {
     "discountPercentage": 35,
@@ -3844,6 +3862,15 @@
   },
   {
     "discountPercentage": 20,
+    "endDate": "2024-04-15T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "aa-bb5edd",
+    "startDate": "2024-03-16T15:00:00.000Z",
+    "title": "Seven Bullets Horror 7\u767a\u306e\u5f3e\u4e38\u30db\u30e9\u30fc"
+  },
+  {
+    "discountPercentage": 20,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 3999,
@@ -5497,6 +5524,15 @@
     "slug": "zoological-era-ii-0869e0",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Zoological Era II"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-04-14T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "test-dd068f",
+    "startDate": "2024-03-15T15:00:00.000Z",
+    "title": "field peas~Sayaendou~"
   },
   {
     "discountPercentage": 30,
