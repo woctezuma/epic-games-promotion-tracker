@@ -12,6 +12,7 @@
 |#|9-years-of-shadows-a40c92|9 Years of Shadows|19,99€|30|2024-03-01 05h|2024-03-09 05h|
 |#|a-jugglers-tale|A Juggler's Tale|14,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|a-knights-quest|A Knights Quest|24,99€|90|2024-02-16 18h|2024-03-01 18h|
+|#|aa-bb5edd|Seven Bullets Horror 7発の弾丸ホラー|2,69€|20|2024-03-16 15h|2024-04-15 15h|
 |#|above-and-beyond-bundle|Above and Beyond Bundle|29,99€|34|2024-02-27 16h|2024-03-05 16h|
 |#|adventures-of-chris-64c13b|Adventures of Chris|11,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|aegis-descent-a1f5a0|Aegis Descent|15,99€|50|2024-03-14 15h|2024-03-28 15h|
@@ -162,6 +163,7 @@
 |#|eldest-souls-83e12a|Eldest Souls|19,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|elegies-aya-17c3f1|ELEGIES Aya|16,19€|30|2024-03-14 15h|2024-03-28 15h|
 |#|elven-rivers-the-forgotten-lands-collectors-edition-13f068|Elven Rivers. The Forgotten Lands Collector's Edition|11,69€|30|2024-02-20 16h|2024-02-27 16h|
+|#|emergency-crew-1-04340a|Emergency Crew 2 Global Warming|4,49€|70|2024-03-26 15h|2024-04-02 15h|
 |#|entomophobia-5e766c|Entomophobia|2,69€|33|2024-03-14 15h|2024-03-28 15h|
 |#|eternights-c2fbca|Eternights|29,99€|40|2024-04-11 15h|2024-04-25 15h|
 |#|europa-universalis-iv|Europa Universalis IV|39,99€|70|2024-02-20 18h|2024-02-27 11h|
@@ -505,6 +507,8 @@
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|65|2024-08-06 21h|2024-08-13 21h|
 |#|terra-invicta-5bbf09|Terra Invicta|39,99€|30|2024-03-05 16h|2024-03-12 15h|
 |#|terracotta-72cc62|TERRACOTTA|19,99€|75|2024-03-01 05h|2024-03-09 05h|
+|#|test-dd068f|field peas~Sayaendou~|4,49€|50|2024-03-15 15h|2024-04-14 15h|
+|#|test1-a822c4|Horror Ken|4,49€|50|2024-03-15 15h|2024-04-14 15h|
 |#|thanksgiving-day-mosaic-dc698a|Thanksgiving Day Mosaic|4,49€|30|2024-02-20 16h|2024-02-27 16h|
 |#|the-big-con|The Big Con|12,49€|75|2024-03-14 15h|2024-03-28 15h|
 |#|the-bunny-graveyard-310f69|The Bunny Graveyard|6,29€|30|2024-03-14 15h|2024-03-28 15h|

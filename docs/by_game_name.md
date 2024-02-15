@@ -161,6 +161,7 @@
 |#|elderand-09e6bc|Elderand|15,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|eldest-souls-83e12a|Eldest Souls|19,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|elven-rivers-the-forgotten-lands-collectors-edition-13f068|Elven Rivers. The Forgotten Lands Collector's Edition|11,69€|30|2024-02-20 16h|2024-02-27 16h|
+|#|emergency-crew-1-04340a|Emergency Crew 2 Global Warming|4,49€|70|2024-03-26 15h|2024-04-02 15h|
 |#|entomophobia-5e766c|Entomophobia|2,69€|33|2024-03-14 15h|2024-03-28 15h|
 |#|eternights-c2fbca|Eternights|29,99€|40|2024-04-11 15h|2024-04-25 15h|
 |#|europa-universalis-iv|Europa Universalis IV|39,99€|70|2024-02-20 18h|2024-02-27 11h|
@@ -232,6 +233,7 @@
 |#|high-on-life-3a855b|High On Life|35,99€|25|2024-03-14 15h|2024-03-28 15h|
 |#|homestead-arcana-60ff39|Homestead Arcana|19,99€|66|2024-03-14 15h|2024-03-28 15h|
 |#|hordecore|HordeCore|9,99€|80|2024-03-14 15h|2024-03-28 15h|
+|#|test1-a822c4|Horror Ken|4,49€|50|2024-03-15 15h|2024-04-14 15h|
 |#|0dca2a0f6e1c4fdca84b59d47ddec25e-02|Howl|14,99€|35|2024-03-14 15h|2024-03-28 15h|
 |#|hue|Hue|11,99€|80|2024-02-16 18h|2024-03-01 18h|
 |#|human-resource-machine|Human Resource Machine|11,99€|50|2024-03-14 15h|2024-03-28 15h|
@@ -427,6 +429,7 @@
 |#|secret-doctrine-342083|Secret Doctrine|8,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|sephonie-6ab6f7|Sephonie|15,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|serbian-dancing-lady-94e658|Serbian Dancing Lady|0,89€|50|2024-03-23 22h|2024-04-05 22h|
+|#|aa-bb5edd|Seven Bullets Horror 7発の弾丸ホラー|2,69€|20|2024-03-16 15h|2024-04-15 15h|
 |#|shadow-gambit-the-cursed-crew-0bca60|Shadow Gambit: The Cursed Crew|39,99€|20|2024-03-14 15h|2024-03-28 15h|
 |#|shadows-price-for-our-sins-29e42e|Shadows. Price For Our Sins|5,39€|50|2024-04-11 15h|2024-04-25 15h|
 |#|shalnor-legends-2-fea913|Shalnor Legends 2: Trials of Thunder|8,99€|50|2024-02-20 16h|2024-02-27 16h|
@@ -611,5 +614,6 @@
 |#|ys-ix-monstrum-nox|Ys IX: Monstrum Nox|59,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|next-game-c139be|Zi|8,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|zoological-era-ii-0869e0|Zoological Era II|13,49€|80|2024-03-14 15h|2024-03-28 15h|
+|#|test-dd068f|field peas~Sayaendou~|4,49€|50|2024-03-15 15h|2024-04-14 15h|
 |#|jampjjj-7c830e|maze horror～迷宮ホラー～|2,19€|30|2024-03-14 15h|2024-03-28 15h|
 |#|deltav-rings-of-saturn-4cd187|ΔV: Rings of Saturn|8,99€|42|2024-03-14 15h|2024-03-28 15h|

@@ -187,6 +187,7 @@
 |#|before-your-eyes|Before Your Eyes|8,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|biped|Biped|12,49€|70|2024-03-14 15h|2024-03-28 15h|
 |#|dying-light|Dying Light Enhanced Edition|29,99€|70|2024-03-14 15h|2024-03-28 15h|
+|#|emergency-crew-1-04340a|Emergency Crew 2 Global Warming|4,49€|70|2024-03-26 15h|2024-04-02 15h|
 |#|europa-universalis-iv|Europa Universalis IV|39,99€|70|2024-02-20 18h|2024-02-27 11h|
 |#|far-cry|Far Cry|9,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|far-cry-2|Far Cry 2: Standard Edition|9,99€|70|2024-03-14 15h|2024-03-28 15h|
@@ -351,6 +352,7 @@
 |#|gravitar-recharged-e606fe|Gravitar Recharged|7,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|gray-dawn-a0cc44|Gray Dawn|13,49€|50|2024-03-22 16h|2024-04-05 15h|
 |#|hero-battle-fantasy-arena-f15594|Hero Battle Fantasy Arena|3,59€|50|2024-02-20 16h|2024-02-27 16h|
+|#|test1-a822c4|Horror Ken|4,49€|50|2024-03-15 15h|2024-04-14 15h|
 |#|human-resource-machine|Human Resource Machine|11,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|im-in-love-with-your-dead-grandmother-15e7d4|I'm in Love With Your Dead Grandmother|4,49€|50|2024-03-14 15h|2024-03-28 15h|
 |#|in-the-gym-db2771|In The Gym|0,89€|50|2024-02-27 22h|2024-03-13 22h|
@@ -418,6 +420,7 @@
 |#|virtual-rides-3-2add3b|Virtual Rides 3|22,39€|50|2024-03-14 15h|2024-03-28 15h|
 |#|yars-revenge-recharged-fbdc11|Yars: Recharged|7,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|next-game-c139be|Zi|8,99€|50|2024-03-14 15h|2024-03-28 15h|
+|#|test-dd068f|field peas~Sayaendou~|4,49€|50|2024-03-15 15h|2024-04-14 15h|
 |#|the-tale-of-bistun-9d6c5f|The Tale of Bistun|13,99€|48|2024-03-14 15h|2024-03-28 15h|
 |#|covid-carl-7dd371|Covid Carl|3,59€|45|2024-03-14 15h|2024-03-28 15h|
 |#|hello-goodboy-4b2edb|Hello Goodboy|14,99€|45|2024-03-01 05h|2024-03-09 05h|
@@ -593,6 +596,7 @@
 |#|one-lonely-outpost-12afa6|One Lonely Outpost|19,99€|20|2024-03-01 05h|2024-03-09 05h|
 |#|prison-city-ac156c|Prison City|8,99€|20|2024-04-11 15h|2024-04-25 15h|
 |#|rimworld|RimWorld|32,99€|20|2024-03-14 15h|2024-03-28 15h|
+|#|aa-bb5edd|Seven Bullets Horror 7発の弾丸ホラー|2,69€|20|2024-03-16 15h|2024-04-15 15h|
 |#|shadow-gambit-the-cursed-crew-0bca60|Shadow Gambit: The Cursed Crew|39,99€|20|2024-03-14 15h|2024-03-28 15h|
 |#|sudoku-zenkai-3990b1|Sudoku Zenkai|3,59€|20|2024-02-27 16h|2024-03-05 16h|
 |#|the-death-into-trouble-271916|The Death Into Trouble|4,49€|20|2024-02-27 16h|2024-03-05 16h|
