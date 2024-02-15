@@ -1125,6 +1125,24 @@
     "title": "DARQ: Complete Edition"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2024-03-21T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "dnf-duel-07d055",
+    "startDate": "2024-03-14T17:00:00.000Z",
+    "title": "DNF Duel"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-04-04T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "dragon-quest-xi-s-echoes-of-an-elusive-age",
+    "startDate": "2024-03-21T15:00:00.000Z",
+    "title": "DRAGON QUEST\u00ae XI S: Echoes of an Elusive Age\u2122"
+  },
+  {
     "discountPercentage": 100,
     "endDate": "2024-02-22T16:00:00.000Z",
     "isFree": true,
@@ -1530,6 +1548,15 @@
     "title": "FAR: Lone Sails"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-04-04T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 7999,
+    "slug": "final-fantasy-vii-remake-intergrade",
+    "startDate": "2024-03-21T15:00:00.000Z",
+    "title": "FINAL FANTASY VII REMAKE INTERGRADE"
+  },
+  {
     "discountPercentage": 33,
     "endDate": "2024-03-05T16:00:00.000Z",
     "isFree": false,
@@ -1807,6 +1834,15 @@
     "slug": "forest-grove-6b05cf",
     "startDate": "2024-02-19T14:00:00.000Z",
     "title": "Forest Grove"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-04-04T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 7999,
+    "slug": "forspoken",
+    "startDate": "2024-03-21T15:00:00.000Z",
+    "title": "Forspoken"
   },
   {
     "discountPercentage": 75,
@@ -2383,6 +2419,42 @@
     "slug": "just-die-already",
     "startDate": "2024-02-16T18:00:00.000Z",
     "title": "Just Die Already"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-04-04T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "kingdom-hearts-hd-1-5-2-5-remix",
+    "startDate": "2024-03-21T15:00:00.000Z",
+    "title": "KINGDOM HEARTS HD 1.5+2.5 ReMIX"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-04-04T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "kingdom-hearts-hd-2-8-final-chapter-prologue",
+    "startDate": "2024-03-21T15:00:00.000Z",
+    "title": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-04-04T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "kingdom-hearts-iii",
+    "startDate": "2024-03-21T15:00:00.000Z",
+    "title": "KINGDOM HEARTS III + Re Mind (DLC)"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-04-04T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "kingdom-hearts-melody-of-memory",
+    "startDate": "2024-03-21T15:00:00.000Z",
+    "title": "KINGDOM HEARTS Melody of Memory"
   },
   {
     "discountPercentage": 50,
@@ -3004,6 +3076,15 @@
     "slug": "mystery-in-the-office-f629ad",
     "startDate": "2024-03-07T17:00:00.000Z",
     "title": "Mystery in the Office"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-04-04T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "neo-the-world-ends-with-you",
+    "startDate": "2024-03-21T15:00:00.000Z",
+    "title": "NEO: The World Ends with You"
   },
   {
     "discountPercentage": 40,
@@ -3742,6 +3823,15 @@
     "slug": "stasis-bone-totem-ca8320",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "STASIS : BONE TOTEM"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-04-04T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "stranger-of-paradise-final-fantasy-origin",
+    "startDate": "2024-03-21T15:00:00.000Z",
+    "title": "STRANGER OF PARADISE FINAL FANTASY ORIGIN"
   },
   {
     "discountPercentage": 10,
