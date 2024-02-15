@@ -1647,6 +1647,33 @@
     "title": "Fallen Legion: Rise to Glory"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2024-02-29T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 999,
+    "slug": "fallout-2",
+    "startDate": "2024-02-22T16:00:00.000Z",
+    "title": "Fallout 2: A Post Nuclear Role Playing Game"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2024-02-29T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 999,
+    "slug": "fallout-tactics-brotherhood-of-steel",
+    "startDate": "2024-02-22T16:00:00.000Z",
+    "title": "Fallout Tactics: Brotherhood of Steel"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2024-02-29T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 999,
+    "slug": "fallout",
+    "startDate": "2024-02-22T16:00:00.000Z",
+    "title": "Fallout: A Post Nuclear Role Playing Game"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
