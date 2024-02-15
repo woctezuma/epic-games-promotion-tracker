@@ -2097,6 +2097,15 @@
     "title": "Guardians of Hyelore"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "hot-wheels-unleashed-2",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged"
+  },
+  {
     "discountPercentage": 90,
     "endDate": "2024-04-01T15:00:00.000Z",
     "isFree": false,
@@ -4181,7 +4190,7 @@
     "isFree": false,
     "originalPrice": 3499,
     "slug": "smalland",
-    "startDate": "2024-02-15T16:00:00.000Z",
+    "startDate": "2024-02-15T14:00:00.000Z",
     "title": "Smalland: Survive the Wilds"
   },
   {
