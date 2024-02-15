@@ -39,7 +39,7 @@
 |#|the-lamplighters-league|The Lamplighters League|49,99€|40|2024-02-20 16h|2024-02-27 16h|
 |#|tribu-55feb1|Tribu|9,89€|60|2024-02-20 16h|2024-02-27 16h|
 |#|unspottable|Unspottable|9,99€|50|2024-02-20 16h|2024-02-27 16h|
-|#|smalland|Smalland: Survive the Wilds|34,99€|15|2024-02-15 16h|2024-02-28 16h|
+|#|smalland|Smalland: Survive the Wilds|34,99€|15|2024-02-15 14h|2024-02-28 16h|
 |#|outlive-e2f5b1|Outlive|11,69€|70|2024-02-16 09h|2024-02-29 09h|
 |#|ginsha-604f11|GINSHA|15,79€|23|2024-02-19 16h|2024-02-29 16h|
 |#|dirt-bike-racer-simulator-4c49b5|Dirt Bike Racer Simulator|0,89€|40|2024-02-16 17h|2024-02-29 17h|
@@ -315,6 +315,7 @@
 |#|goat-simulator-3|Goat Simulator 3|29,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|gone-home|Gone Home|11,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|gravitar-recharged-e606fe|Gravitar Recharged|7,99€|50|2024-03-14 15h|2024-03-28 15h|
+|#|hot-wheels-unleashed-2|HOT WHEELS UNLEASHED™ 2 - Turbocharged|49,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|hanoi-puzzles-solid-match-6a9e0c|Hanoi Puzzles - Solid Match|2,69€|30|2024-03-14 15h|2024-03-28 15h|
 |#|haunted-house-c5a71b|Haunted House|17,99€|30|2024-03-14 15h|2024-03-28 15h|
 |#|high-on-life-3a855b|High On Life|35,99€|25|2024-03-14 15h|2024-03-28 15h|

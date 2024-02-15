@@ -1,8 +1,8 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
 |#|red-ronin-d2678c|Red Ronin|5,99€|50|2024-02-15 14h|2024-02-22 14h|
+|#|smalland|Smalland: Survive the Wilds|34,99€|15|2024-02-15 14h|2024-02-28 16h|
 |#|dakar-desert-rally|Dakar Desert Rally|29,99€|100|2024-02-15 16h|2024-02-22 16h|
-|#|smalland|Smalland: Survive the Wilds|34,99€|15|2024-02-15 16h|2024-02-28 16h|
 |#|nextbots-in-the-backrooms-b5677b|Nextbots In The Backrooms|0,89€|50|2024-02-15 22h|2024-03-05 22h|
 |#|street-fighting-simulator-40f23a|Street Fighting Simulator|0,89€|40|2024-02-15 22h|2024-02-21 22h|
 |#|outlive-e2f5b1|Outlive|11,69€|70|2024-02-16 09h|2024-02-29 09h|
@@ -308,6 +308,7 @@
 |#|goat-simulator-3|Goat Simulator 3|29,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|gone-home|Gone Home|11,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|gravitar-recharged-e606fe|Gravitar Recharged|7,99€|50|2024-03-14 15h|2024-03-28 15h|
+|#|hot-wheels-unleashed-2|HOT WHEELS UNLEASHED™ 2 - Turbocharged|49,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|hanoi-puzzles-solid-match-6a9e0c|Hanoi Puzzles - Solid Match|2,69€|30|2024-03-14 15h|2024-03-28 15h|
 |#|haunted-house-c5a71b|Haunted House|17,99€|30|2024-03-14 15h|2024-03-28 15h|
 |#|high-on-life-3a855b|High On Life|35,99€|25|2024-03-14 15h|2024-03-28 15h|
