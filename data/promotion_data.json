@@ -846,6 +846,15 @@
     "title": "Bud Spencer and Terence Hill - Slaps and Beans 2"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-03-05T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "busway-islands-puzzle-91287d",
+    "startDate": "2024-02-27T16:00:00.000Z",
+    "title": "Busway Islands - Puzzle"
+  },
+  {
     "discountPercentage": 33,
     "endDate": "2024-03-04T15:00:00.000Z",
     "isFree": false,
@@ -1168,6 +1177,42 @@
     "slug": "dark-deity-0b08d1",
     "startDate": "2024-03-01T05:00:00.000Z",
     "title": "Dark Deity"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-03-05T20:59:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "dark-fantasy-2-jigsaw-puzzle-d65d41",
+    "startDate": "2024-02-18T22:00:00.000Z",
+    "title": "Dark Fantasy 2: Jigsaw Puzzle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-04-25T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "dark-fantasy-2-jigsaw-puzzle-d65d41",
+    "startDate": "2024-04-11T15:00:00.000Z",
+    "title": "Dark Fantasy 2: Jigsaw Puzzle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-03-05T23:59:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "dark-fantasy-jigsaw-puzzle-12769c",
+    "startDate": "2024-02-19T01:00:00.000Z",
+    "title": "Dark Fantasy Jigsaw Puzzle"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-04-25T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "dark-fantasy-jigsaw-puzzle-12769c",
+    "startDate": "2024-04-11T15:00:00.000Z",
+    "title": "Dark Fantasy Jigsaw Puzzle"
   },
   {
     "discountPercentage": 30,
@@ -2862,6 +2907,15 @@
     "title": "Martha Is Dead"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-03-12T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 359,
+    "slug": "match-village-5f41dd",
+    "startDate": "2024-03-05T16:00:00.000Z",
+    "title": "Match Village"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -2896,6 +2950,24 @@
     "slug": "model-builder-f9b456",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Model Builder"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-03-05T23:59:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "mokoko-x-e2b09d",
+    "startDate": "2024-02-19T01:00:00.000Z",
+    "title": "Mokoko X"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-04-25T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "mokoko-x-e2b09d",
+    "startDate": "2024-04-11T15:00:00.000Z",
+    "title": "Mokoko X"
   },
   {
     "discountPercentage": 67,
@@ -3814,6 +3886,24 @@
     "slug": "scary-and-dot-86b1ff",
     "startDate": "2024-04-19T22:00:00.000Z",
     "title": "SCARY AND DOT"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-02-27T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "space-elite-force-a00006",
+    "startDate": "2024-02-20T16:00:00.000Z",
+    "title": "SPACE ELITE FORCE"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-03-19T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "space-war-infinity-024a8f",
+    "startDate": "2024-03-12T15:00:00.000Z",
+    "title": "SPACE WAR - INFINITY"
   },
   {
     "discountPercentage": 38,
@@ -5425,6 +5515,24 @@
     "slug": "virtual-rides-3-2add3b",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Virtual Rides 3"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-03-05T23:59:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "volley-pals-0120b4",
+    "startDate": "2024-02-19T01:00:00.000Z",
+    "title": "Volley Pals"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-04-25T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "volley-pals-0120b4",
+    "startDate": "2024-04-11T15:00:00.000Z",
+    "title": "Volley Pals"
   },
   {
     "discountPercentage": 35,
