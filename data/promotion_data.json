@@ -3771,15 +3771,6 @@
     "title": "Red Glare"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2024-02-22T14:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 599,
-    "slug": "red-ronin-d2678c",
-    "startDate": "2024-02-15T14:00:00.000Z",
-    "title": "Red Ronin"
-  },
-  {
     "discountPercentage": 70,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -4192,15 +4183,6 @@
     "slug": "skotos-455463",
     "startDate": "2024-11-01T06:00:00.000Z",
     "title": "Skotos"
-  },
-  {
-    "discountPercentage": 15,
-    "endDate": "2024-02-28T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3499,
-    "slug": "smalland",
-    "startDate": "2024-02-15T14:00:00.000Z",
-    "title": "Smalland: Survive the Wilds"
   },
   {
     "discountPercentage": 40,
