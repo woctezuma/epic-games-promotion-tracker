@@ -419,7 +419,6 @@
 |#|recollection-71f3a4|Recollection|4,49€|50|2024-04-11 15h|2024-04-25 15h|
 |#|red-glare-0c98c5|Red Glare|13,49€|40|2024-02-27 16h|2024-03-05 16h|
 |#|red-glare-0c98c5|Red Glare|13,49€|35|2024-04-11 15h|2024-04-25 15h|
-|#|red-ronin-d2678c|Red Ronin|5,99€|50|2024-02-15 14h|2024-02-22 14h|
 |#|remnant-from-the-ashes|Remnant: From the Ashes|39,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|restless-soul-d5baed|Restless Soul|11,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|retreat-to-enen-60ef78|Retreat To Enen|24,99€|60|2024-03-01 05h|2024-03-09 05h|
@@ -466,7 +465,6 @@
 |#|skotos-455463|Skotos|8,99€|30|2024-05-01 06h|2024-05-30 06h|
 |#|skotos-455463|Skotos|8,99€|30|2024-08-01 06h|2024-08-30 06h|
 |#|skotos-455463|Skotos|8,99€|30|2024-11-01 06h|2024-11-30 07h|
-|#|smalland|Smalland: Survive the Wilds|34,99€|15|2024-02-15 14h|2024-02-28 16h|
 |#|sniper-hunter-shooter-5cda66|Sniper Hunter Shooter|0,89€|40|2024-02-16 17h|2024-02-29 17h|
 |#|solitaire-game-halloween-5268c1|Solitaire Game Halloween|4,49€|50|2024-03-14 15h|2024-03-28 15h|
 |#|songs-of-conquest|Songs of Conquest|29,99€|50|2024-03-14 15h|2024-03-28 15h|
