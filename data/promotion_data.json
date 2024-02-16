@@ -100,15 +100,6 @@
   },
   {
     "discountPercentage": 90,
-    "endDate": "2024-03-01T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2499,
-    "slug": "a-knights-quest",
-    "startDate": "2024-02-16T18:00:00.000Z",
-    "title": "A Knights Quest"
-  },
-  {
-    "discountPercentage": 90,
     "endDate": "2024-02-22T23:00:00.000Z",
     "isFree": false,
     "originalPrice": 1499,
@@ -529,15 +520,6 @@
     "slug": "aven-colony",
     "startDate": "2024-03-18T16:00:00.000Z",
     "title": "Aven Colony"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2024-03-15T22:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 269,
-    "slug": "aya-and-naya-b7791e",
-    "startDate": "2024-02-16T22:00:00.000Z",
-    "title": "Aya & Naya"
   },
   {
     "discountPercentage": 33,
@@ -1350,15 +1332,6 @@
     "title": "Devil's Island"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2024-02-29T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "dirt-bike-racer-simulator-4c49b5",
-    "startDate": "2024-02-16T17:00:00.000Z",
-    "title": "Dirt Bike Racer Simulator"
-  },
-  {
     "discountPercentage": 67,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -1755,33 +1728,6 @@
     "title": "Fallen Legion: Rise to Glory"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2024-02-29T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 999,
-    "slug": "fallout-2",
-    "startDate": "2024-02-22T16:00:00.000Z",
-    "title": "Fallout 2: A Post Nuclear Role Playing Game"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2024-02-29T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 999,
-    "slug": "fallout-tactics-brotherhood-of-steel",
-    "startDate": "2024-02-22T16:00:00.000Z",
-    "title": "Fallout Tactics: Brotherhood of Steel"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2024-02-29T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 999,
-    "slug": "fallout",
-    "startDate": "2024-02-22T16:00:00.000Z",
-    "title": "Fallout: A Post Nuclear Role Playing Game"
-  },
-  {
     "discountPercentage": 70,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -1951,15 +1897,6 @@
     "slug": "for-honor",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "For Honor Standard Edition"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2024-03-01T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "for-the-king",
-    "startDate": "2024-02-16T18:00:00.000Z",
-    "title": "For The King"
   },
   {
     "discountPercentage": 70,
@@ -2412,15 +2349,6 @@
     "title": "Howl"
   },
   {
-    "discountPercentage": 80,
-    "endDate": "2024-03-01T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1199,
-    "slug": "hue",
-    "startDate": "2024-02-16T18:00:00.000Z",
-    "title": "Hue"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -2709,15 +2637,6 @@
     "title": "Just Cause 4 Reloaded"
   },
   {
-    "discountPercentage": 70,
-    "endDate": "2024-03-01T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1399,
-    "slug": "just-die-already",
-    "startDate": "2024-02-16T18:00:00.000Z",
-    "title": "Just Die Already"
-  },
-  {
     "discountPercentage": 60,
     "endDate": "2024-04-04T15:00:00.000Z",
     "isFree": false,
@@ -2878,15 +2797,6 @@
     "slug": "love-3-c2516f",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "LOVE 3"
-  },
-  {
-    "discountPercentage": 66,
-    "endDate": "2024-03-01T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "lawn-mowing-simulator-838bf3",
-    "startDate": "2024-02-16T18:00:00.000Z",
-    "title": "Lawn Mowing Simulator"
   },
   {
     "discountPercentage": 80,
@@ -3339,15 +3249,6 @@
     "title": "MotoGP\u212221"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2024-02-29T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "mountain-bicycle-rider-simulator-e52374",
-    "startDate": "2024-02-16T17:00:00.000Z",
-    "title": "Mountain Bicycle Rider Simulator"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2024-03-12T15:00:00.000Z",
     "isFree": false,
@@ -3787,24 +3688,6 @@
     "slug": "poker-club-6e18ee",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Poker Club"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2024-02-29T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "police-car-armored-cop-simulator-60b997",
-    "startDate": "2024-02-16T17:00:00.000Z",
-    "title": "Police Car Armored Cop Simulator"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2024-02-29T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "police-car-simulator-d57d15",
-    "startDate": "2024-02-16T17:00:00.000Z",
-    "title": "Police Car Simulator"
   },
   {
     "discountPercentage": 70,
@@ -4509,15 +4392,6 @@
     "title": "Skotos"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2024-02-29T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "sniper-hunter-shooter-5cda66",
-    "startDate": "2024-02-16T17:00:00.000Z",
-    "title": "Sniper Hunter Shooter"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -4716,6 +4590,15 @@
     "title": "Super Kids Racing - Mini Edition"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2024-02-29T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1599,
+    "slug": "super-meat-boy-forever",
+    "startDate": "2024-02-22T16:00:00.000Z",
+    "title": "Super Meat Boy Forever"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-04-02T15:00:00.000Z",
     "isFree": false,
@@ -4833,15 +4716,6 @@
     "title": "Tales of the Tiny Planet"
   },
   {
-    "discountPercentage": 75,
-    "endDate": "2024-03-13T22:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 269,
-    "slug": "tamara-in-the-forsaken-dungeon-81aa5c",
-    "startDate": "2024-02-16T22:00:00.000Z",
-    "title": "Tamara In The Forsaken Dungeon"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -4858,15 +4732,6 @@
     "slug": "tannenberg",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Tannenberg"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2024-02-29T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "taxi-driver-simulator-car-parking-c5f70f",
-    "startDate": "2024-02-16T17:00:00.000Z",
-    "title": "Taxi Driver Simulator Car Parking"
   },
   {
     "discountPercentage": 50,
@@ -5778,15 +5643,6 @@
     "title": "Troublemaker"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2024-02-29T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "truck-simulator-ultimate-3d-fafeaa",
-    "startDate": "2024-02-16T17:00:00.000Z",
-    "title": "Truck Simulator Ultimate 3D"
-  },
-  {
     "discountPercentage": 66,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -5830,15 +5686,6 @@
     "slug": "ugly-da09b2",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Ugly"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2024-02-29T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "ultimate-flight-simulator-pro-8f1009",
-    "startDate": "2024-02-16T17:00:00.000Z",
-    "title": "Ultimate Flight Simulator Pro"
   },
   {
     "discountPercentage": 20,
