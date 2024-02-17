@@ -1,33 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|aer-memories-of-old|AER Memories of Old|14,99€|90|2024-02-17 09h|2024-02-22 23h|
-|#|annas-quest-fbefa2|Anna's Quest|19,99€|90|2024-02-17 09h|2024-02-22 23h|
-|#|children-of-silentown-52cc21|Children of Silentown|19,99€|50|2024-02-17 09h|2024-02-22 23h|
-|#|cryofall-331358|CryoFall|19,99€|80|2024-02-17 09h|2024-02-22 23h|
-|#|deponia-doomsday-1848dd|Deponia Doomsday|19,99€|90|2024-02-17 09h|2024-02-22 23h|
-|#|deponia-full-scrap-collection|Deponia: Full Scrap Collection|44,99€|90|2024-02-17 09h|2024-02-22 23h|
-|#|deponia-the-complete-journey|Deponia: The Complete Journey|29,99€|90|2024-02-17 09h|2024-02-22 23h|
-|#|fire-44c606|Fire: Ungh’s Quest|9,99€|90|2024-02-17 09h|2024-02-22 23h|
-|#|godlike-burger-4150a0|Godlike Burger|19,99€|70|2024-02-17 09h|2024-02-22 23h|
-|#|insurmountable-b02c31|Insurmountable|19,99€|80|2024-02-17 09h|2024-02-22 23h|
-|#|iratus-d0e5ba|Iratus: Lord of the Dead|29,99€|87|2024-02-17 09h|2024-02-22 23h|
-|#|iron-danger-b4320c|Iron Danger|19,98€|90|2024-02-17 09h|2024-02-22 23h|
-|#|jars-e39063|JARS|11,99€|90|2024-02-17 09h|2024-02-22 23h|
-|#|ken-follets-the-pillars-of-the-earth|Ken Follett's The Pillars of the Earth|19,99€|90|2024-02-17 09h|2024-02-22 23h|
-|#|life-of-delta-44f4e4|Life of Delta|19,99€|60|2024-02-17 09h|2024-02-22 23h|
-|#|partisans-1941|Partisans 1941|39,99€|85|2024-02-17 09h|2024-02-22 23h|
-|#|rough-justice-84-89dd7a|Rough Justice: '84|19,99€|50|2024-02-17 09h|2024-02-22 23h|
-|#|shadow-tactics-aikos-choice-5678c1|Shadow Tactics - Aiko's Choice|19,98€|75|2024-02-17 09h|2024-02-22 23h|
-|#|shadow-tactics-anniversary-bundle|Shadow Tactics: Anniversary Bundle|66,44€|90|2024-02-17 09h|2024-02-22 23h|
-|#|shadow-tactics|Shadow Tactics: Blades of the Shogun|39,99€|90|2024-02-17 09h|2024-02-22 23h|
-|#|silence-57bc4e|Silence|19,99€|90|2024-02-17 09h|2024-02-22 23h|
-|#|the-lord-of-the-rings-gollum|The Lord of the Rings - Gollum™|49,99€|70|2024-02-17 09h|2024-02-22 23h|
-|#|the-suicide-of-rachel-foster-1dc01b|The Suicide of Rachel Foster|16,99€|90|2024-02-17 09h|2024-02-22 23h|
-|#|unrailed-e19729|Unrailed!|19,99€|75|2024-02-17 09h|2024-02-22 23h|
-|#|velone-3c0487|VELONE|14,99€|90|2024-02-17 09h|2024-02-22 23h|
-|#|warpips-57e2c4|Warpips|14,99€|80|2024-02-17 09h|2024-02-22 23h|
-|#|wildcat-gun-machine-c66c4e|Wildcat Gun Machine|14,99€|90|2024-02-17 09h|2024-02-22 23h|
-|#|zombie-rollerz-7aa027|Zombie Rollerz: Pinball Heroes|14,99€|80|2024-02-17 09h|2024-02-22 23h|
 |#|gambit-shifter-93870e|Gambit Shifter|7,19€|15|2024-02-19 09h|2024-02-26 08h|
 |#|forest-grove-6b05cf|Forest Grove|17,99€|25|2024-02-19 14h|2024-02-26 14h|
 |#|europa-universalis-iv|Europa Universalis IV|39,99€|70|2024-02-20 18h|2024-02-27 11h|
@@ -64,6 +36,7 @@
 |#|royal-defense-d046db|The Empress of Mahjong|4,49€|40|2024-02-20 16h|2024-02-27 16h|
 |#|the-lamplighters-league|The Lamplighters League|49,99€|40|2024-02-20 16h|2024-02-27 16h|
 |#|timelie|Timelie - Game of the Year Edition|13,99€|50|2024-02-20 16h|2024-02-27 16h|
+|#|train-world-07e156|Train World|31,39€|20|2024-02-20 16h|2024-02-27 16h|
 |#|tribu-55feb1|Tribu|9,89€|60|2024-02-20 16h|2024-02-27 16h|
 |#|unspottable|Unspottable|9,99€|50|2024-02-20 16h|2024-02-27 16h|
 |#|ginsha-604f11|GINSHA|15,79€|23|2024-02-19 16h|2024-02-29 16h|
@@ -552,6 +525,7 @@
 |#|worms-rumble|Worms Rumble|14,99€|90|2024-03-14 16h|2024-03-28 16h|
 |#|travellers-rest-c115d1|Travellers Rest|17,99€|25|2024-03-07 18h|2024-03-28 18h|
 |#|frontier-hunter-erzas-wheel-of-fortune|Frontier Hunter: Erza's Wheel of Fortune|15,99€|25|2024-03-14 08h|2024-03-29 08h|
+|#|1428-shadows-over-silesia-266e5f|1428: Shadows over Silesia|19,99€|55|2024-03-13 18h|2024-03-31 17h|
 |#|ageless|Ageless|14,99€|80|2024-03-18 16h|2024-04-01 15h|
 |#|automachef|Automachef|14,99€|80|2024-03-18 16h|2024-04-01 15h|
 |#|aven-colony|Aven Colony|29,99€|90|2024-03-18 16h|2024-04-01 15h|
@@ -618,6 +592,7 @@
 |#|imp-of-the-sun|Imp of the Sun|19,99€|57|2024-04-11 15h|2024-04-25 15h|
 |#|isonzo|Isonzo|29,99€|67|2024-04-11 15h|2024-04-25 15h|
 |#|its-a-wrap-f392ae|It's a Wrap!|16,19€|40|2024-04-11 15h|2024-04-25 15h|
+|#|julai-03ca17|Julai|8,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|keywe-c3a70e|KeyWe|19,99€|66|2024-04-11 15h|2024-04-25 15h|
 |#|kholat-3f394b|Kholat|17,99€|88|2024-04-11 15h|2024-04-25 15h|
 |#|love-3-c2516f|LOVE 3|8,99€|30|2024-04-11 15h|2024-04-25 15h|
@@ -642,6 +617,7 @@
 |#|the-lions-song|The Lion's Song|7,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|the-magnificent-trufflepigs|The Magnificent Trufflepigs|9,99€|75|2024-04-11 15h|2024-04-25 15h|
 |#|the-repair-house-349cf9|The Repair House: Restoration Sim|19,99€|33|2024-04-11 15h|2024-04-25 15h|
+|#|train-world-07e156|Train World|31,39€|20|2024-04-11 15h|2024-04-25 15h|
 |#|volley-pals-0120b4|Volley Pals|4,49€|60|2024-04-11 15h|2024-04-25 15h|
 |#|we-were-here-forever|We Were Here Forever|17,99€|45|2024-04-11 15h|2024-04-25 15h|
 |#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2024-04-05 22h|2024-04-25 22h|
