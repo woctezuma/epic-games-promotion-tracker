@@ -1,6 +1,7 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
 |#|super-meat-boy-forever|Super Meat Boy Forever|15,99€|100|2024-02-22 16h|2024-02-29 16h|
+|#|sylvio-and-the-mountains-giants-e336bb|Sylvio And The Mountains Giants|2,69€|95|2024-03-14 15h|2024-03-28 15h|
 |#|n-verlore-verstand-1d7f5b|'n Verlore Verstand|13,49€|90|2024-03-14 15h|2024-03-28 15h|
 |#|aven-colony|Aven Colony|29,99€|90|2024-03-18 16h|2024-04-01 15h|
 |#|danger-scavenger-0cd9a9|Danger Scavenger|7,99€|90|2024-03-14 15h|2024-03-28 15h|
@@ -318,6 +319,7 @@
 |#|silt-6ca919|Silt|14,99€|54|2024-04-11 15h|2024-04-25 15h|
 |#|flat-heroes-fec628|Flat Heroes|9,99€|51|2024-03-14 15h|2024-03-28 15h|
 |#|1001-jigsaw-castles-and-palaces-b256df|1001 Jigsaw Castles And Palaces|4,49€|50|2024-04-11 15h|2024-04-25 15h|
+|#|1001-jigsaw-cute-cats-36eb93|1001 Jigsaw Cute Cats|4,49€|50|2024-03-26 15h|2024-04-02 15h|
 |#|1001-jigsaw-world-tour-london-06dba1|1001 Jigsaw. World Tour: London|4,49€|50|2024-03-14 15h|2024-03-28 15h|
 |#|7-billion-humans|7 Billion Humans|11,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|anonymous-hunting-simulator-5eac14|ANONYMOUS HUNTING SIMULATOR|0,89€|50|2024-03-21 22h|2024-04-07 22h|
@@ -327,11 +329,11 @@
 |#|anodyne-2-return-to-dust|Anodyne 2: Return To Dust|16,79€|50|2024-03-14 15h|2024-03-28 15h|
 |#|argonauts-agency-captive-of-circe-547604|Argonauts Agency 5: Captive of Circe|4,49€|50|2024-03-14 15h|2024-03-28 15h|
 |#|argonauts-agency-missing-daughter-1ca64b|Argonauts Agency 6: Missing Daughter|4,49€|50|2024-03-05 16h|2024-03-12 15h|
+|#|argonauts-agency-glove-of-midas-94bca3|Argonauts Agency: Glove of Midas|4,49€|50|2024-03-26 15h|2024-04-02 15h|
 |#|arto-ff98ff|Arto|19,99€|50|2024-03-01 05h|2024-03-09 05h|
 |#|asteroids-recharged|Asteroids: Recharged|8,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|atari-mania-702c68|Atari Mania|19,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|baby-storm-426245|Baby Storm|16,19€|50|2024-02-27 16h|2024-03-05 16h|
-|#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2024-02-17 22h|2024-03-01 22h|
 |#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2024-04-05 22h|2024-04-25 22h|
 |#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2024-05-27 22h|2024-06-13 22h|
 |#|backrooms-eight-levels-c7ea4c|Backrooms: Eight Levels|0,89€|50|2024-04-01 22h|2024-04-15 22h|
@@ -418,6 +420,7 @@
 |#|recollection-71f3a4|Recollection|4,49€|50|2024-04-11 15h|2024-04-25 15h|
 |#|space-elite-force-a00006|SPACE ELITE FORCE|2,69€|50|2024-02-20 16h|2024-02-27 16h|
 |#|space-war-infinity-024a8f|SPACE WAR - INFINITY|1,79€|50|2024-03-12 15h|2024-03-19 15h|
+|#|sakura-day-mahjong-007b44|Sakura Day Mahjong|4,49€|50|2024-03-26 15h|2024-04-02 15h|
 |#|secret-doctrine-342083|Secret Doctrine|8,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|sephonie-6ab6f7|Sephonie|15,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|serbian-dancing-lady-94e658|Serbian Dancing Lady|0,89€|50|2024-03-23 22h|2024-04-05 22h|
@@ -430,7 +433,6 @@
 |#|strange-horticulture-360e80|Strange Horticulture|14,99€|50|2024-02-27 16h|2024-03-05 16h|
 |#|suicide-guy-9f7963|Suicide Guy|7,19€|50|2024-02-20 16h|2024-02-27 16h|
 |#|swordship-b6c7f4|Swordship|19,99€|50|2024-03-14 15h|2024-03-28 15h|
-|#|trex-dinosaur-game-d30355|T-Rex Dinosaur Game|0,89€|50|2024-02-17 22h|2024-03-05 22h|
 |#|trex-dinosaur-game-d30355|T-Rex Dinosaur Game|0,89€|50|2024-04-07 22h|2024-04-23 22h|
 |#|the-meme-hunter-bf7086|THE MEME HUNTER|0,89€|50|2024-04-01 22h|2024-04-15 22h|
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2024-02-25 22h|2024-03-15 22h|
@@ -522,6 +524,7 @@
 |#|red-glare-0c98c5|Red Glare|13,49€|35|2024-04-11 15h|2024-04-25 15h|
 |#|scorchlands-823596|Scorchlands|10,79€|35|2024-03-14 15h|2024-03-28 15h|
 |#|sea-of-dreams-32035a|Sea of Dreams|2,69€|35|2024-03-14 15h|2024-03-28 15h|
+|#|settlement-survival-923f57|Settlement Survival|17,99€|35|2024-03-14 15h|2024-03-28 15h|
 |#|jackbox-party-pack-7|The Jackbox Party Pack 7|23,99€|35|2024-03-14 15h|2024-03-28 15h|
 |#|jackbox-party-pack-9|The Jackbox Party Pack 9|29,99€|35|2024-03-14 15h|2024-03-28 15h|
 |#|tiny-thor-76de1f|Tiny Thor|19,99€|35|2024-02-27 16h|2024-03-05 16h|
@@ -639,10 +642,12 @@
 |#|boltbreak-c2bf02|BoltBreak|5,39€|17|2024-09-01 06h|2024-09-30 22h|
 |#|bud-spencer-and-terence-hill-slaps-and-beans-2-faab3a|Bud Spencer and Terence Hill - Slaps and Beans 2|19,99€|15|2024-03-26 15h|2024-04-02 15h|
 |#|gambit-shifter-93870e|Gambit Shifter|7,19€|15|2024-02-19 09h|2024-02-26 08h|
+|#|hidden-shapes-lovely-cats-6bfb39|Hidden Shapes Lovely Cats|0,89€|15|2024-03-07 17h|2024-03-14 17h|
 |#|naheulbeuks-dungeon-master-b2694b|Naheulbeuk's Dungeon Master|24,99€|15|2024-02-20 16h|2024-02-27 16h|
 |#|gardenia-630482|Gardenia|8,99€|10|2024-03-05 23h|2024-03-19 23h|
 |#|man-in-the-dark-5c468e|Man in the Dark|10,79€|10|2024-03-11 04h|2024-03-25 04h|
 |#|psychiatrist-simulator-2-4fff6b|Psychiatrist Simulator 2|4,49€|10|2024-02-20 16h|2024-02-27 16h|
+|#|linghehanjianwuyu-cf98a0|Reiwa outliers|3,59€|10|2024-03-14 15h|2024-03-28 15h|
 |#|saboteur-ii-avenging-angel-33e83c|Saboteur II Avenging Angel|7,19€|10|2024-03-05 23h|2024-03-19 23h|
 |#|saboteur-sio-123236|Saboteur SiO|9,89€|10|2024-03-05 23h|2024-03-19 23h|
 |#|saboteur-f3d01d|Saboteur!|7,19€|10|2024-03-05 23h|2024-03-19 23h|

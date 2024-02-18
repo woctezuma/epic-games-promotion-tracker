@@ -259,6 +259,7 @@
 |#|potato-sack-racing-simulator-2024-3c3c83|Potato Sack Racing Simulator 2024|17,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|rainbow-billy-the-curse-of-the-leviathan|Rainbow Billy: The Curse of the Leviathan|17,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|stasis-bone-totem-ca8320|STASIS : BONE TOTEM|17,99€|38|2024-03-14 15h|2024-03-28 15h|
+|#|settlement-survival-923f57|Settlement Survival|17,99€|35|2024-03-14 15h|2024-03-28 15h|
 |#|strawhart-776f4d|Strawhart|17,99€|66|2024-03-14 15h|2024-03-28 15h|
 |#|suzerain|Suzerain|17,99€|75|2024-03-26 15h|2024-04-02 15h|
 |#|team-disorder-987adf|Team Disorder|17,99€|75|2024-03-05 16h|2024-03-12 15h|
@@ -519,6 +520,7 @@
 |#|splinter-cell|Tom Clancy's Splinter Cell|4,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|splinter-cell-double-agent|Tom Clancy’s Splinter Cell Double Agent|4,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|1001-jigsaw-castles-and-palaces-b256df|1001 Jigsaw Castles And Palaces|4,49€|50|2024-04-11 15h|2024-04-25 15h|
+|#|1001-jigsaw-cute-cats-36eb93|1001 Jigsaw Cute Cats|4,49€|50|2024-03-26 15h|2024-04-02 15h|
 |#|1001-jigsaw-earth-chronicles-7b25fc|1001 Jigsaw. Earth Chronicles|4,49€|60|2024-03-12 15h|2024-03-19 15h|
 |#|1001-jigsaw-home-sweet-home-1b1e16|1001 Jigsaw. Home Sweet Home|4,49€|30|2024-03-05 16h|2024-03-12 15h|
 |#|1001-jigsaw-legends-of-mystery-14e62d|1001 Jigsaw. Legends of Mystery|4,49€|30|2024-02-27 16h|2024-03-05 16h|
@@ -528,6 +530,7 @@
 |#|alices-jigsaw-wonderland-chronicles-2-361dc4|Alice's Jigsaw. Wonderland Chronicles 2|4,49€|30|2024-03-14 15h|2024-03-28 15h|
 |#|argonauts-agency-captive-of-circe-547604|Argonauts Agency 5: Captive of Circe|4,49€|50|2024-03-14 15h|2024-03-28 15h|
 |#|argonauts-agency-missing-daughter-1ca64b|Argonauts Agency 6: Missing Daughter|4,49€|50|2024-03-05 16h|2024-03-12 15h|
+|#|argonauts-agency-glove-of-midas-94bca3|Argonauts Agency: Glove of Midas|4,49€|50|2024-03-26 15h|2024-04-02 15h|
 |#|asian-riddles-223489|Asian Riddles|4,49€|60|2024-03-12 15h|2024-03-19 15h|
 |#|balloon-strike-c9a1ac|Balloon Strike|4,49€|80|2024-03-05 16h|2024-03-12 15h|
 |#|christmas-mahjong-50bcc6|Christmas Mahjong|4,49€|50|2024-02-27 16h|2024-03-05 16h|
@@ -572,6 +575,7 @@
 |#|royal-defense-invisible-threat-b39335|Royal Defense - Invisible Threat|4,49€|60|2024-03-19 15h|2024-03-26 15h|
 |#|royal-roads-2-the-magic-box-18eae3|Royal Roads 2: The Magic Box|4,49€|30|2024-02-20 16h|2024-02-27 16h|
 |#|sakura-day-2-mahjong-9d664b|Sakura Day 2 Mahjong|4,49€|30|2024-03-12 15h|2024-03-19 15h|
+|#|sakura-day-mahjong-007b44|Sakura Day Mahjong|4,49€|50|2024-03-26 15h|2024-04-02 15h|
 |#|solitaire-game-halloween-5268c1|Solitaire Game Halloween|4,49€|50|2024-03-14 15h|2024-03-28 15h|
 |#|spinner-invaders-d453e7|Spinner Invaders|4,49€|60|2024-03-14 15h|2024-03-28 15h|
 |#|thanksgiving-day-mosaic-dc698a|Thanksgiving Day Mosaic|4,49€|30|2024-02-20 16h|2024-02-27 16h|
@@ -592,6 +596,7 @@
 |#|hero-battle-fantasy-arena-f15594|Hero Battle Fantasy Arena|3,59€|50|2024-02-20 16h|2024-02-27 16h|
 |#|mahjong-magic-journey-2-28de53|Mahjong Magic Journey 2|3,59€|50|2024-02-27 16h|2024-03-05 16h|
 |#|match-village-5f41dd|Match Village|3,59€|50|2024-03-05 16h|2024-03-12 15h|
+|#|linghehanjianwuyu-cf98a0|Reiwa outliers|3,59€|10|2024-03-14 15h|2024-03-28 15h|
 |#|strike-solitaire-e86661|Strike Solitaire|3,59€|30|2024-03-05 16h|2024-03-12 15h|
 |#|sudoku-zenkai-3990b1|Sudoku Zenkai|3,59€|20|2024-02-27 16h|2024-03-05 16h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|55|2024-03-10 22h|2024-03-17 22h|
@@ -615,6 +620,7 @@
 |#|sea-of-dreams-32035a|Sea of Dreams|2,69€|35|2024-03-14 15h|2024-03-28 15h|
 |#|aa-bb5edd|Seven Bullets Horror 7発の弾丸ホラー|2,69€|20|2024-03-16 15h|2024-04-15 15h|
 |#|strike-solitaire-2-fe76a2|Strike Solitaire 2|2,69€|30|2024-02-27 16h|2024-03-05 16h|
+|#|sylvio-and-the-mountains-giants-e336bb|Sylvio And The Mountains Giants|2,69€|95|2024-03-14 15h|2024-03-28 15h|
 |#|jampjjj-7c830e|maze horror～迷宮ホラー～|2,19€|30|2024-03-14 15h|2024-03-28 15h|
 |#|mystery-in-the-office-f629ad|Mystery in the Office|1,99€|25|2024-03-07 17h|2024-03-21 17h|
 |#|cat-slide-tiles-93b9d4|Cat Slide Tiles|1,79€|40|2024-03-15 17h|2024-03-22 17h|
@@ -627,7 +633,6 @@
 |#|he-will-shoot-46efff|He Will Shoot|1,59€|75|2024-03-11 22h|2024-03-23 22h|
 |#|it-follows-you-b11f3e|It follows you|1,59€|75|2024-02-29 22h|2024-03-14 22h|
 |#|anonymous-hunting-simulator-5eac14|ANONYMOUS HUNTING SIMULATOR|0,89€|50|2024-03-21 22h|2024-04-07 22h|
-|#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2024-02-17 22h|2024-03-01 22h|
 |#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2024-04-05 22h|2024-04-25 22h|
 |#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2024-05-27 22h|2024-06-13 22h|
 |#|backrooms-eight-levels-c7ea4c|Backrooms: Eight Levels|0,89€|50|2024-04-01 22h|2024-04-15 22h|
@@ -636,10 +641,10 @@
 |#|birch-simulator-21969e|Birch Simulator|0,89€|50|2024-06-21 22h|2024-07-07 22h|
 |#|car-mechanic-city-driving-4996c5|Car Mechanic - City Driving|0,89€|50|2024-02-19 22h|2024-03-07 22h|
 |#|car-mechanic-city-driving-4996c5|Car Mechanic - City Driving|0,89€|50|2024-04-09 22h|2024-04-24 22h|
+|#|hidden-shapes-lovely-cats-6bfb39|Hidden Shapes Lovely Cats|0,89€|15|2024-03-07 17h|2024-03-14 17h|
 |#|in-the-gym-db2771|In The Gym|0,89€|50|2024-02-27 22h|2024-03-13 22h|
 |#|nextbots-in-the-backrooms-b5677b|Nextbots In The Backrooms|0,89€|50|2024-04-07 22h|2024-04-23 22h|
 |#|serbian-dancing-lady-94e658|Serbian Dancing Lady|0,89€|50|2024-03-23 22h|2024-04-05 22h|
-|#|trex-dinosaur-game-d30355|T-Rex Dinosaur Game|0,89€|50|2024-02-17 22h|2024-03-05 22h|
 |#|trex-dinosaur-game-d30355|T-Rex Dinosaur Game|0,89€|50|2024-04-07 22h|2024-04-23 22h|
 |#|the-meme-hunter-bf7086|THE MEME HUNTER|0,89€|50|2024-04-01 22h|2024-04-15 22h|
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2024-02-25 22h|2024-03-15 22h|
