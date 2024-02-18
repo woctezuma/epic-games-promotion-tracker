@@ -18,6 +18,15 @@
     "title": "1001 Jigsaw Castles And Palaces"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-04-02T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "1001-jigsaw-cute-cats-36eb93",
+    "startDate": "2024-03-26T15:00:00.000Z",
+    "title": "1001 Jigsaw Cute Cats"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2024-03-19T15:00:00.000Z",
     "isFree": false,
@@ -289,6 +298,15 @@
   },
   {
     "discountPercentage": 50,
+    "endDate": "2024-04-02T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "argonauts-agency-glove-of-midas-94bca3",
+    "startDate": "2024-03-26T15:00:00.000Z",
+    "title": "Argonauts Agency: Glove of Midas"
+  },
+  {
+    "discountPercentage": 50,
     "endDate": "2024-03-09T05:00:00.000Z",
     "isFree": false,
     "originalPrice": 1999,
@@ -538,15 +556,6 @@
     "slug": "back-then-2072ca",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Back Then"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2024-03-01T22:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "backrooms-doors-248a0f",
-    "startDate": "2024-02-17T22:00:00.000Z",
-    "title": "Backrooms Doors"
   },
   {
     "discountPercentage": 50,
@@ -2205,6 +2214,15 @@
     "title": "Hero Battle Fantasy Arena"
   },
   {
+    "discountPercentage": 15,
+    "endDate": "2024-03-14T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "hidden-shapes-lovely-cats-6bfb39",
+    "startDate": "2024-03-07T17:00:00.000Z",
+    "title": "Hidden Shapes Lovely Cats"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -3807,6 +3825,15 @@
     "title": "Red Glare"
   },
   {
+    "discountPercentage": 10,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 359,
+    "slug": "linghehanjianwuyu-cf98a0",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Reiwa outliers"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -4005,6 +4032,15 @@
     "title": "Sakura Day 2 Mahjong"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-04-02T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "sakura-day-mahjong-007b44",
+    "startDate": "2024-03-26T15:00:00.000Z",
+    "title": "Sakura Day Mahjong"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2024-03-09T05:00:00.000Z",
     "isFree": false,
@@ -4093,6 +4129,15 @@
     "slug": "serbian-dancing-lady-94e658",
     "startDate": "2024-03-23T22:00:00.000Z",
     "title": "Serbian Dancing Lady"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "settlement-survival-923f57",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Settlement Survival"
   },
   {
     "discountPercentage": 20,
@@ -4446,6 +4491,15 @@
     "title": "Swordship"
   },
   {
+    "discountPercentage": 95,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "sylvio-and-the-mountains-giants-e336bb",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Sylvio And The Mountains Giants"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2024-03-09T05:00:00.000Z",
     "isFree": false,
@@ -4453,15 +4507,6 @@
     "slug": "symphony-of-war-60a76e",
     "startDate": "2024-03-01T05:00:00.000Z",
     "title": "Symphony of War"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2024-03-05T22:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "trex-dinosaur-game-d30355",
-    "startDate": "2024-02-17T22:00:00.000Z",
-    "title": "T-Rex Dinosaur Game"
   },
   {
     "discountPercentage": 50,
