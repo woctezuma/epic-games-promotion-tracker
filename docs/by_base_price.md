@@ -14,6 +14,7 @@
 |#|assassins-creed-origins|Assassin's Creed Origins Standard Edition|59,99€|85|2024-03-14 15h|2024-03-28 15h|
 |#|assassins-creed-valhalla|Assassin's Creed® Valhalla Standard Edition|59,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|assassins-creed-odyssey|Assassins Creed Odyssey Standard Edition|59,99€|80|2024-03-14 15h|2024-03-28 15h|
+|#|dead-island-2|Dead Island 2|59,99€|45|2024-03-14 15h|2024-03-28 15h|
 |#|disaster-report-4-summer-memories|Disaster Report 4: Summer Memories|59,99€|67|2024-03-14 15h|2024-03-28 15h|
 |#|disgaea-6-complete|Disgaea 6 Complete|59,99€|35|2024-03-14 15h|2024-03-28 15h|
 |#|dying-light-2-stay-human|Dying Light 2 Stay Human|59,99€|50|2024-02-22 18h|2024-03-07 18h|
@@ -36,6 +37,7 @@
 |#|watch-dogs-2|Watch Dogs 2 Standard Edition|59,99€|85|2024-03-14 15h|2024-03-28 15h|
 |#|watch-dogs-legion|Watch Dogs: Legion Standard Edition|59,99€|85|2024-03-14 15h|2024-03-28 15h|
 |#|ys-ix-monstrum-nox|Ys IX: Monstrum Nox|59,99€|40|2024-03-14 15h|2024-03-28 15h|
+|#|a-total-war-saga-troy|A Total War Saga: TROY|49,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|age-of-wonders-4|Age of Wonders 4|49,99€|30|2024-02-27 18h|2024-03-04 11h|
 |#|assassins-creed-mirage|Assassin's Creed® Mirage|49,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|dnf-duel-07d055|DNF Duel|49,99€|60|2024-03-14 17h|2024-03-21 17h|
@@ -55,9 +57,12 @@
 |#|disco-elysium|Disco Elysium - The Final Cut|39,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|europa-universalis-iv|Europa Universalis IV|39,99€|70|2024-02-20 18h|2024-02-27 11h|
 |#|fallen-legion-revenants-a2c944|Fallen Legion Revenants|39,99€|35|2024-03-14 15h|2024-03-28 15h|
+|#|kings-bounty-ii|King's Bounty II|39,99€|90|2024-03-14 15h|2024-03-28 15h|
 |#|monopoly-plus-monopoly-madness-bundle|MONOPOLY PLUS + MONOPOLY Madness|39,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|my-little-pony-a-maretime-bay-adventure-6a2cce|MY LITTLE PONY A Maretime Bay Adventure|39,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|my-friend-peppa-pig-2de0dc|My Friend Peppa Pig|39,99€|55|2024-03-14 15h|2024-03-28 15h|
+|#|outward|Outward Definitive Edition|39,99€|85|2024-03-14 15h|2024-03-28 15h|
+|#|payday-3|PAYDAY 3|39,99€|35|2024-03-14 15h|2024-03-28 15h|
 |#|pathfinder-wrath-of-the-righteous|Pathfinder: Wrath of the Righteous - Enhanced Edition|39,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|r-type-final-2|R-Type Final 2|39,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|remnant-from-the-ashes|Remnant: From the Ashes|39,99€|70|2024-03-14 15h|2024-03-28 15h|
@@ -68,6 +73,7 @@
 |#|sherlock-holmes-the-awakened|Sherlock Holmes The Awakened|39,99€|60|2024-02-27 16h|2024-03-05 16h|
 |#|sifu|Sifu|39,99€|50|2024-02-27 16h|2024-03-05 16h|
 |#|sifu|Sifu|39,99€|50|2024-04-11 15h|2024-04-25 15h|
+|#|system-shock|System Shock|39,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|terra-invicta-5bbf09|Terra Invicta|39,99€|30|2024-03-05 16h|2024-03-12 15h|
 |#|the-legend-of-heroes-trails-from-zero|The Legend of Heroes: Trails from Zero|39,99€|25|2024-03-14 15h|2024-03-28 15h|
 |#|the-legend-of-heroes-trails-to-azure|The Legend of Heroes: Trails to Azure|39,99€|20|2024-03-14 15h|2024-03-28 15h|
@@ -90,6 +96,7 @@
 |#|blasphemous-2|Blasphemous 2|29,99€|34|2024-03-18 16h|2024-04-01 15h|
 |#|bratz-flaunt-your-fashion-95d529|Bratz™: Flaunt Your Fashion|29,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|dying-light|Dying Light Enhanced Edition|29,99€|70|2024-03-14 15h|2024-03-28 15h|
+|#|encased|Encased|29,99€|90|2024-03-14 15h|2024-03-28 15h|
 |#|eternights-c2fbca|Eternights|29,99€|40|2024-04-11 15h|2024-04-25 15h|
 |#|far-cry-4|FAR CRY 4|29,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|fallen-legion-rise-to-glory-0ea64a|Fallen Legion: Rise to Glory|29,99€|35|2024-03-14 15h|2024-03-28 15h|
@@ -98,13 +105,19 @@
 |#|gamedec|Gamedec - Definitive Edition|29,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|ghost-recon-future-soldier|Ghost Recon Future Soldier: Ultimate Edition|29,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|goat-simulator-3|Goat Simulator 3|29,99€|40|2024-03-14 15h|2024-03-28 15h|
+|#|iron-harvest|Iron Harvest|29,99€|85|2024-03-14 15h|2024-03-28 15h|
 |#|isonzo|Isonzo|29,99€|67|2024-04-11 15h|2024-04-25 15h|
+|#|kingdom-come-deliverance|Kingdom Come: Deliverance|29,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|lego-bricktales-7ccf9b|LEGO® Bricktales|29,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|monopoly-madness|MONOPOLY MADNESS|29,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|martha-is-dead|Martha Is Dead|29,99€|50|2024-02-27 16h|2024-03-05 16h|
+|#|metro-exodus|Metro Exodus Standard Edition|29,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|motogp-21|MotoGP™21|29,99€|85|2024-02-20 16h|2024-02-27 16h|
 |#|paw-patrol-mighty-pups-save-adventure-bay-aaad37|PAW Patrol Mighty Pups Save Adventure Bay|29,99€|40|2024-03-14 15h|2024-03-28 15h|
+|#|saints-row|Saints Row|29,99€|67|2024-03-14 15h|2024-03-28 15h|
+|#|saints-row-the-third-remastered|Saints Row®: The Third™ Remastered|29,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|satisfactory|Satisfactory|29,99€|45|2024-03-14 15h|2024-03-28 15h|
+|#|shenmue-3|Shenmue III - Standard Edition|29,99€|90|2024-03-14 15h|2024-03-28 15h|
 |#|songs-of-conquest|Songs of Conquest|29,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|tchia|Tchia|29,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|the-division-2|The Division 2 Standard Edition|29,99€|70|2024-03-14 15h|2024-03-28 15h|
@@ -116,31 +129,33 @@
 |#|wavetale-f9cfdf|Wavetale|29,99€|55|2024-03-14 15h|2024-03-28 15h|
 |#|wrestlequest-324fb5|WrestleQuest|29,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|yooka-laylee-and-the-impossible-lair|Yooka-Laylee and the Impossible Lair|29,99€|90|2024-03-18 16h|2024-04-01 15h|
+|#|nightingale|Nightingale|28,99€|10|2024-02-20 17h|2024-02-27 17h|
 |#|frostpunk|Frostpunk|27,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|days-of-doom-b29861|Days of Doom|26,99€|30|2024-03-14 15h|2024-03-28 15h|
 |#|marble-it-up-ultra-7b5692|Marble It Up! Ultra|26,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|railgrade|RAILGRADE|26,99€|35|2024-03-14 15h|2024-03-28 15h|
+|#|road-96-full-journey|Road 96: Mile 0 – Full Journey Bundle|26,96€|73|2024-03-14 15h|2024-03-28 15h|
 |#|assassins-creed-chronicles-trilogy|Assassin's Creed Chronicles – Trilogy|24,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|batora-lost-haven-1773c3|Batora: Lost Haven|24,99€|50|2024-03-18 16h|2024-04-01 15h|
 |#|blasphemous|Blasphemous|24,99€|75|2024-02-26 16h|2024-03-11 16h|
 |#|blasphemous|Blasphemous|24,99€|75|2024-04-15 15h|2024-04-29 15h|
-|#|broken-pieces-b1c349|Broken Pieces|24,99€|60|2024-03-01 05h|2024-03-09 05h|
+|#|chorus|Chorus|24,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|dead-cells|Dead Cells|24,99€|50|2024-02-20 16h|2024-02-27 16h|
 |#|dead-cells|Dead Cells|24,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|figment2-creed-valley|Figment 2: Creed Valley|24,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|genesis-alpha-one|Genesis Alpha One Deluxe Edition|24,99€|90|2024-03-14 16h|2024-03-28 16h|
 |#|hammerting|Hammerting|24,99€|90|2024-03-18 16h|2024-04-01 15h|
+|#|inkulinati-b60b1c|Inkulinati|24,99€|40|2024-02-22 18h|2024-02-29 18h|
 |#|naheulbeuks-dungeon-master-b2694b|Naheulbeuk's Dungeon Master|24,99€|15|2024-02-20 16h|2024-02-27 16h|
 |#|narita-boy|Narita Boy|24,99€|90|2024-03-14 16h|2024-03-28 16h|
 |#|no-straight-roads|No Straight Roads|24,99€|66|2024-04-11 15h|2024-04-25 15h|
-|#|retreat-to-enen-60ef78|Retreat To Enen|24,99€|60|2024-03-01 05h|2024-03-09 05h|
+|#|siege-survival-gloria-victis|Siege Survival - Gloria Victis|24,99€|84|2024-03-14 15h|2024-03-28 15h|
 |#|spiritfarer|Spiritfarer®: Farewell Edition|24,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|strayed-lights-351d29|Strayed Lights|24,99€|40|2024-04-11 15h|2024-04-25 15h|
 |#|tails-of-iron-587abd|Tails of Iron|24,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|jackbox-party-pack-5|The Jackbox Party Pack 5|24,99€|45|2024-03-14 15h|2024-03-28 15h|
 |#|jackbox-party-pack-6|The Jackbox Party Pack 6|24,99€|45|2024-03-14 15h|2024-03-28 15h|
 |#|the-telltale-batman|The Telltale Batman Shadows Edition|24,99€|60|2024-03-14 15h|2024-03-28 15h|
-|#|the-witch-of-fern-island-18df35|The Witch of Fern Island|24,99€|30|2024-03-01 05h|2024-03-09 05h|
 |#|ultros|Ultros|24,99€|20|2024-03-14 15h|2024-03-28 15h|
 |#|ash-of-gods-the-way-58bd36|Ash of Gods: The Way|24,50€|25|2024-03-14 15h|2024-03-28 15h|
 |#|jackbox-party-pack-7|The Jackbox Party Pack 7|23,99€|35|2024-03-14 15h|2024-03-28 15h|
@@ -155,30 +170,21 @@
 |#|ash-of-gods-redemption-e0b97d|Ash of Gods: Redemption|22,39€|80|2024-03-14 15h|2024-03-28 15h|
 |#|fish-db1795|Fish|22,39€|50|2024-03-14 15h|2024-03-28 15h|
 |#|ikonei-island-an-earthlock-adventure-fa1620|Ikonei Island: An Earthlock Adventure|22,39€|40|2024-03-14 15h|2024-03-28 15h|
-|#|king-of-seas-646f95|King of Seas|22,39€|90|2024-02-19 16h|2024-03-04 16h|
 |#|king-of-seas-646f95|King of Seas|22,39€|90|2024-04-08 15h|2024-04-22 15h|
 |#|mr-run-and-jump-91ed30|Mr. Run and Jump|22,39€|30|2024-03-14 15h|2024-03-28 15h|
 |#|virtual-rides-3-2add3b|Virtual Rides 3|22,39€|50|2024-03-14 15h|2024-03-28 15h|
-|#|dark-deity-0b08d1|Dark Deity|21,99€|75|2024-03-01 05h|2024-03-09 05h|
 |#|roki-38e7c2|Röki|21,99€|75|2024-03-14 15h|2024-03-28 15h|
-|#|sands-of-aura|Sands of Aura|21,99€|40|2024-03-01 05h|2024-03-09 05h|
-|#|airborne-kingdom|Airborne Kingdom|20,99€|50|2024-03-01 05h|2024-03-09 05h|
 |#|1428-shadows-over-silesia-266e5f|1428: Shadows over Silesia|19,99€|55|2024-03-13 18h|2024-03-31 17h|
-|#|9-years-of-shadows-a40c92|9 Years of Shadows|19,99€|30|2024-03-01 05h|2024-03-09 05h|
 |#|arcrunner-61fee6|ArcRunner|19,99€|20|2024-03-14 15h|2024-03-28 15h|
-|#|arto-ff98ff|Arto|19,99€|50|2024-03-01 05h|2024-03-09 05h|
 |#|assassins-creed-rogue|Assassin's Creed Rogue Standard Edition|19,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|atari-mania-702c68|Atari Mania|19,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|bud-spencer-and-terence-hill-slaps-and-beans-2-faab3a|Bud Spencer and Terence Hill - Slaps and Beans 2|19,99€|15|2024-03-26 15h|2024-04-02 15h|
-|#|cat-cafe-manager-68bd0d|Cat Cafe Manager|19,99€|40|2024-03-01 05h|2024-03-09 05h|
-|#|city-of-beats-08f8c2|City of Beats|19,99€|50|2024-03-01 05h|2024-03-09 05h|
+|#|clid-the-snail|Clid The Snail|19,99€|85|2024-03-14 15h|2024-03-28 15h|
 |#|crowns-and-pawns-kingdom-of-deceit-51b045|Crowns and Pawns: Kingdom of Deceit|19,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|curious-expedition-2-8cb901|Curious Expedition 2|19,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|cursed-to-golf-a6bc22|Cursed to Golf|19,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|deexit-eternal-matters-da8992|De-Exit - Eternal Matters|19,99€|35|2024-02-27 16h|2024-03-05 16h|
 |#|discovery-tour-viking-age|Discovery Tour: Viking Age|19,99€|60|2024-03-14 15h|2024-03-28 15h|
-|#|dreamscaper|Dreamscaper|19,99€|75|2024-03-01 05h|2024-03-09 05h|
-|#|dust-fleet-620614|Dust Fleet|19,99€|20|2024-03-01 05h|2024-03-09 05h|
 |#|eldest-souls-83e12a|Eldest Souls|19,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|fall-of-porcupine-659d85|Fall of Porcupine|19,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|far-cry-3|Far Cry®3 Standard Edition|19,99€|75|2024-03-14 15h|2024-03-28 15h|
@@ -191,29 +197,25 @@
 |#|keywe-c3a70e|KeyWe|19,99€|66|2024-04-11 15h|2024-04-25 15h|
 |#|kitaria-fables|Kitaria Fables|19,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|knight-vs-giant-the-broken-excalibur-230c5c|Knight vs Giant: The Broken Excalibur|19,99€|25|2024-03-14 15h|2024-03-28 15h|
-|#|lunarlux-41403d|LunarLux|19,99€|40|2024-03-01 05h|2024-03-09 05h|
-|#|mail-time-ed1aea|Mail Time|19,99€|40|2024-03-01 05h|2024-03-09 05h|
-|#|mars-base-a00ce0|Mars Base|19,99€|60|2024-03-01 05h|2024-03-09 05h|
-|#|monster-tribe-3ca102|Monster Tribe|19,99€|50|2024-03-01 05h|2024-03-09 05h|
+|#|metro-2033-redux|Metro 2033 Redux|19,99€|90|2024-03-14 15h|2024-03-28 15h|
+|#|metro-last-light-redux|Metro Last Light Redux|19,99€|90|2024-03-14 15h|2024-03-28 15h|
 |#|moonlighter|Moonlighter|19,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|moons-of-ardan-d4f9a3|Moons of Ardan|19,99€|25|2024-03-14 15h|2024-03-28 15h|
 |#|neon-abyss|Neon Abyss|19,99€|66|2024-03-18 16h|2024-04-01 15h|
-|#|neon-blight-6fe11b|Neon Blight|19,99€|75|2024-03-01 05h|2024-03-09 05h|
 |#|nexomon-extinction|Nexomon: Extinction|19,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|next-up-hero|Next Up Hero|19,99€|80|2024-02-20 16h|2024-02-27 16h|
 |#|outriders|OUTRIDERS|19,99€|75|2024-03-21 15h|2024-04-04 15h|
-|#|one-lonely-outpost-12afa6|One Lonely Outpost|19,99€|20|2024-03-01 05h|2024-03-09 05h|
-|#|outerverse-82d7ce|Outerverse|19,99€|75|2024-03-01 05h|2024-03-09 05h|
 |#|paper-cut-mansion-2c67e2|Paper Cut Mansion|19,99€|60|2024-03-14 15h|2024-03-28 15h|
+|#|pathfinder-kingmaker|Pathfinder: Kingmaker - Enhanced Plus Edition|19,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|planet-of-lana-a9febe|Planet of Lana|19,99€|30|2024-03-14 15h|2024-03-28 15h|
 |#|poker-club-6e18ee|Poker Club|19,99€|45|2024-03-14 15h|2024-03-28 15h|
 |#|rayman-legends|RAYMAN® LEGENDS|19,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|rad-rodgers-radical-edition-8f66a7|Rad Rodgers - Radical Edition|19,99€|80|2024-02-20 16h|2024-02-27 16h|
+|#|relicta|Relicta|19,99€|90|2024-03-14 15h|2024-03-28 15h|
+|#|saints-row-iv-re-election|Saints Row IV Re-Elected|19,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|source-of-madness-287857|Source of Madness|19,99€|55|2024-03-14 15h|2024-03-28 15h|
 |#|sundered-eldritch-edition|Sundered: Eldritch Edition|19,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|swordship-b6c7f4|Swordship|19,99€|50|2024-03-14 15h|2024-03-28 15h|
-|#|symphony-of-war-60a76e|Symphony of War|19,99€|40|2024-03-01 05h|2024-03-09 05h|
-|#|terracotta-72cc62|TERRACOTTA|19,99€|75|2024-03-01 05h|2024-03-09 05h|
 |#|tannenberg|Tannenberg|19,99€|75|2024-04-11 15h|2024-04-25 15h|
 |#|the-dragoness-command-of-the-flame-b3b544|The Dragoness Command Of The Flame|19,99€|25|2024-03-14 15h|2024-03-28 15h|
 |#|the-escapists-2|The Escapists 2|19,99€|75|2024-03-18 16h|2024-04-01 15h|
@@ -229,15 +231,13 @@
 |#|rainbow-six-siege|Tom Clancy's Rainbow Six® Siege|19,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|tormented-souls|Tormented Souls|19,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|trigon-ce1936|Trigon: Space Story|19,99€|70|2024-03-05 16h|2024-03-12 15h|
-|#|parakacuk-22f4b2|Troublemaker|19,99€|50|2024-03-01 05h|2024-03-09 05h|
-|#|tyrants-blessing-02fddd|Tyrants Blessing|19,99€|60|2024-03-01 05h|2024-03-09 05h|
 |#|verdun|Verdun|19,99€|75|2024-03-14 15h|2024-03-28 15h|
-|#|voltaire-e1c517|Voltaire: The Vegan Vampire|19,99€|35|2024-03-01 05h|2024-03-09 05h|
 |#|white-shadows-64e014|White Shadows|19,99€|65|2024-03-14 15h|2024-03-28 15h|
-|#|world-turtles-b2139d|World Turtles|19,99€|30|2024-03-01 05h|2024-03-09 05h|
+|#|windbound|Windbound|19,99€|90|2024-03-14 15h|2024-03-28 15h|
 |#|yokus-island-express|Yoku's Island Express|19,99€|80|2024-03-18 16h|2024-04-01 15h|
 |#|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|75|2024-02-20 16h|2024-02-27 16h|
 |#|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|80|2024-04-11 15h|2024-04-25 15h|
+|#|road-96|Road 96|19,96€|75|2024-03-14 15h|2024-03-28 15h|
 |#|huntdown|Huntdown|19,50€|80|2024-03-14 15h|2024-03-28 15h|
 |#|this-war-of-mine|This War of Mine|18,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|brok-the-investigator-fb0513|BROK the InvestiGator|17,99€|33|2024-03-14 15h|2024-03-28 15h|
@@ -247,7 +247,6 @@
 |#|ex-natura-nature-corrupted-d92548|Ex Natura Nature Corrupted|17,99€|65|2024-02-20 16h|2024-02-27 16h|
 |#|filthy-animals-f6c65c|Filthy Animals \| Heist Simulator|17,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|firegirl-29bf39|Firegirl: Hack 'n Splash Rescue DX|17,99€|70|2024-03-14 15h|2024-03-28 15h|
-|#|forest-grove-6b05cf|Forest Grove|17,99€|25|2024-02-19 14h|2024-02-26 14h|
 |#|greak-memories-of-azur-e05a8d|Greak: Memories of Azur|17,99€|75|2024-03-18 16h|2024-04-01 15h|
 |#|greak-memories-of-azur-e05a8d|Greak: Memories of Azur|17,99€|75|2024-05-06 15h|2024-05-20 15h|
 |#|haunted-house-c5a71b|Haunted House|17,99€|30|2024-03-14 15h|2024-03-28 15h|
@@ -255,13 +254,11 @@
 |#|legend-of-keepers|Legend of Keepers|17,99€|80|2024-03-05 16h|2024-03-12 15h|
 |#|liberte-96a5e5|Liberte|17,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|lumencraft-abc105|Lumencraft|17,99€|45|2024-03-14 15h|2024-03-28 15h|
-|#|one-more-island-0014e2|One More Island|17,99€|55|2024-03-01 05h|2024-03-09 05h|
 |#|potato-sack-racing-simulator-2024-3c3c83|Potato Sack Racing Simulator 2024|17,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|rainbow-billy-the-curse-of-the-leviathan|Rainbow Billy: The Curse of the Leviathan|17,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|stasis-bone-totem-ca8320|STASIS : BONE TOTEM|17,99€|38|2024-03-14 15h|2024-03-28 15h|
 |#|settlement-survival-923f57|Settlement Survival|17,99€|35|2024-03-14 15h|2024-03-28 15h|
 |#|strawhart-776f4d|Strawhart|17,99€|66|2024-03-14 15h|2024-03-28 15h|
-|#|suzerain|Suzerain|17,99€|75|2024-03-26 15h|2024-04-02 15h|
 |#|team-disorder-987adf|Team Disorder|17,99€|75|2024-03-05 16h|2024-03-12 15h|
 |#|travellers-rest-c115d1|Travellers Rest|17,99€|25|2024-03-07 18h|2024-03-28 18h|
 |#|ugly-da09b2|Ugly|17,99€|33|2024-03-14 15h|2024-03-28 15h|
@@ -282,42 +279,33 @@
 |#|blind-fate-edo-no-yami-87e748|Blind Fate: Edo no Yami|15,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|blue-fire-9c1dac|Blue Fire|15,99€|66|2024-03-14 15h|2024-03-28 15h|
 |#|celeste|Celeste|15,99€|75|2024-03-14 15h|2024-03-28 15h|
-|#|coromon-d4ef84|Coromon|15,99€|60|2024-03-01 05h|2024-03-09 05h|
 |#|cyanide-happiness-freakpocalypse|Cyanide & Happiness - Freakpocalypse (Episode 1)|15,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|double-cross-08a736|Double Cross|15,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|down-in-bermuda|Down in Bermuda|15,99€|90|2024-03-14 15h|2024-03-28 15h|
 |#|elderand-09e6bc|Elderand|15,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|frontier-hunter-erzas-wheel-of-fortune|Frontier Hunter: Erza's Wheel of Fortune|15,99€|25|2024-03-14 08h|2024-03-29 08h|
-|#|guardians-of-hyelore-0b07d3|Guardians of Hyelore|15,99€|80|2024-03-01 05h|2024-03-09 05h|
 |#|inertial-drift|Inertial Drift|15,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|kainga-seeds-of-civilization-7314ee|Kainga: Seeds of Civilization|15,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|lifeless-planet-premier-edition|Lifeless Planet: Premier Edition|15,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|overcooked|Overcooked|15,99€|80|2024-02-26 16h|2024-03-11 16h|
 |#|overcooked|Overcooked|15,99€|80|2024-04-15 15h|2024-04-29 15h|
 |#|potion-permit|Potion Permit|15,99€|30|2024-03-14 15h|2024-03-28 15h|
-|#|ruin-raiders-d2d613|Ruin Raiders|15,99€|75|2024-03-01 05h|2024-03-09 05h|
 |#|sephonie-6ab6f7|Sephonie|15,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|super-meat-boy-forever|Super Meat Boy Forever|15,99€|100|2024-02-22 16h|2024-02-29 16h|
 |#|the-captain|The Captain|15,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|the-darkest-tales-7d0dab|The Darkest Tales|15,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|the-kings-bird-a5b589|The King's Bird|15,99€|80|2024-03-14 15h|2024-03-28 15h|
-|#|to-the-rescue-a6c254|To The Rescue|15,99€|75|2024-03-01 05h|2024-03-09 05h|
-|#|ginsha-604f11|GINSHA|15,79€|23|2024-02-19 16h|2024-02-29 16h|
 |#|farwest-colony-aaa81c|FarWest Colony|15,29€|40|2024-03-14 15h|2024-03-28 15h|
 |#|infindustry-cccc40|Infindustry|15,29€|50|2024-03-14 15h|2024-03-28 15h|
 |#|a-jugglers-tale|A Juggler's Tale|14,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|ageless|Ageless|14,99€|80|2024-03-18 16h|2024-04-01 15h|
-|#|anuchard-08179d|Anuchard|14,99€|75|2024-03-01 05h|2024-03-09 05h|
 |#|automachef|Automachef|14,99€|80|2024-03-18 16h|2024-04-01 15h|
-|#|blood-and-zombies-4273b6|Blood and Zombies|14,99€|67|2024-03-01 05h|2024-03-09 05h|
+|#|dice-legacy|Dice Legacy|14,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|far-lone-sails|FAR: Lone Sails|14,99€|85|2024-03-14 15h|2024-03-28 15h|
-|#|funtasia-furry-road-bd0756|Funtasia|14,99€|67|2024-03-01 05h|2024-03-09 05h|
-|#|hello-goodboy-4b2edb|Hello Goodboy|14,99€|45|2024-03-01 05h|2024-03-09 05h|
+|#|gods-will-fall|Gods Will Fall|14,99€|90|2024-03-14 15h|2024-03-28 15h|
 |#|0dca2a0f6e1c4fdca84b59d47ddec25e-02|Howl|14,99€|35|2024-03-14 15h|2024-03-28 15h|
 |#|jotun|Jotun: Valhalla Edition|14,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|monopoly-plus|MONOPOLY® PLUS|14,99€|60|2024-03-14 15h|2024-03-28 15h|
-|#|monorail-stories-4b4a69|Monorail Stories|14,99€|67|2024-03-01 05h|2024-03-09 05h|
-|#|monster-outbreak-2e8c08|Monster Outbreak|14,99€|50|2024-03-01 05h|2024-03-09 05h|
 |#|neighbours-back-from-hell|Neighbours back From Hell|14,99€|67|2024-02-20 16h|2024-02-27 16h|
 |#|scott-pilgrim-vs-the-world-the-game|Scott Pilgrim vs. The World: The Game – Complete Edition|14,99€|67|2024-03-14 15h|2024-03-28 15h|
 |#|sheltered|Sheltered|14,99€|80|2024-03-18 16h|2024-04-01 15h|
@@ -357,6 +345,7 @@
 |#|chromagun|ChromaGun|12,99€|55|2024-03-14 15h|2024-03-28 15h|
 |#|ironcast|Ironcast|12,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|the-spectrum-retreat|The Spectrum Retreat|12,99€|65|2024-03-14 15h|2024-03-28 15h|
+|#|road-96-mile-0|Road 96: Mile 0|12,96€|70|2024-03-14 15h|2024-03-28 15h|
 |#|life-changer-64fc81|Life Changer|12,63€|22|2024-02-22 17h|2024-03-14 17h|
 |#|urban-tale-75b4f0|Urban Tale|12,59€|40|2024-03-14 15h|2024-03-28 15h|
 |#|biped|Biped|12,49€|70|2024-03-14 15h|2024-03-28 15h|
@@ -367,11 +356,8 @@
 |#|adventures-of-chris-64c13b|Adventures of Chris|11,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|ancient-enemy|Ancient Enemy|11,99€|75|2024-03-14 00h|2024-04-12 22h|
 |#|bite-the-bullet-22fa1f|Bite the Bullet|11,99€|80|2024-03-14 15h|2024-03-28 15h|
-|#|clouzy-c67f4b|Clouzy|11,99€|67|2024-03-01 05h|2024-03-09 05h|
 |#|cyber-hook-064d2c|Cyber Hook|11,99€|80|2024-03-14 15h|2024-03-28 15h|
-|#|doomed-lands-7e2565|Doomed Lands|11,99€|50|2024-03-01 05h|2024-03-09 05h|
 |#|fire-commander-df24ad|Fire Commander|11,99€|50|2024-03-14 07h|2024-04-13 06h|
-|#|godstrike-dad86e|Godstrike|11,99€|67|2024-03-01 05h|2024-03-09 05h|
 |#|gone-home|Gone Home|11,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|human-resource-machine|Human Resource Machine|11,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|joggernauts-a7767f|Joggernauts|11,99€|80|2024-03-14 15h|2024-03-28 15h|
@@ -386,6 +372,7 @@
 |#|elven-rivers-the-forgotten-lands-collectors-edition-13f068|Elven Rivers. The Forgotten Lands Collector's Edition|11,69€|30|2024-02-20 16h|2024-02-27 16h|
 |#|presences-dark-awakening-b1c9eb|Presences: Dark Awakening|11,69€|25|2024-02-20 16h|2024-02-27 16h|
 |#|stellar-interface-d14cc4|Stellar Interface|11,69€|80|2024-03-14 15h|2024-03-28 15h|
+|#|stone-guardian-81fcc1|Stone Guardian|11,69€|30|2024-03-14 15h|2024-03-28 15h|
 |#|devils-island-03e902|Devil's Island|10,79€|40|2024-02-25 14h|2024-03-03 14h|
 |#|man-in-the-dark-5c468e|Man in the Dark|10,79€|10|2024-03-11 04h|2024-03-25 04h|
 |#|scorchlands-823596|Scorchlands|10,79€|35|2024-03-14 15h|2024-03-28 15h|
@@ -412,7 +399,6 @@
 |#|sine-mora-ex-d4fd23|Sine Mora Ex|9,99€|80|2024-02-20 16h|2024-02-27 16h|
 |#|splinter-cell-chaos-theory|Splinter Cell Chaos Theory|9,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|the-magnificent-trufflepigs|The Magnificent Trufflepigs|9,99€|75|2024-04-11 15h|2024-04-25 15h|
-|#|they-are-coming-a17087|They Are Coming|9,99€|60|2024-03-01 05h|2024-03-09 05h|
 |#|ghost-recon|Tom Clancy's Ghost Recon|9,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|uno|UNO Standard Edition|9,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|unspottable|Unspottable|9,99€|50|2024-02-20 16h|2024-02-27 16h|
@@ -442,10 +428,8 @@
 |#|image-747287|Image|8,99€|35|2024-02-20 16h|2024-02-27 16h|
 |#|julai-03ca17|Julai|8,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|love-3-c2516f|LOVE 3|8,99€|30|2024-04-11 15h|2024-04-25 15h|
-|#|mokoko-x-e2b09d|Mokoko X|8,99€|50|2024-02-19 01h|2024-03-05 23h|
 |#|mokoko-x-e2b09d|Mokoko X|8,99€|60|2024-04-11 15h|2024-04-25 15h|
 |#|my-island-6fc611|My Island|8,99€|50|2024-04-11 15h|2024-04-25 15h|
-|#|night-loops-aa3cc2|Night Loops|8,99€|33|2024-03-01 05h|2024-03-09 05h|
 |#|outbreak-the-new-nightmare-revisited-90517a|Outbreak The New Nightmare Revisited|8,99€|50|2024-02-27 16h|2024-03-05 16h|
 |#|outbreak-the-nightmare-chronicles-reinvestigated-b631d4|Outbreak The Nightmare Chronicles Reinvestigated|8,99€|50|2024-02-20 16h|2024-02-27 16h|
 |#|outcore-desktop-adventure-eb3aff|Outcore - Desktop Adventure|8,99€|25|2024-02-27 16h|2024-03-05 16h|
@@ -460,6 +444,7 @@
 |#|skotos-455463|Skotos|8,99€|30|2024-08-01 06h|2024-08-30 06h|
 |#|skotos-455463|Skotos|8,99€|30|2024-11-01 06h|2024-11-30 07h|
 |#|space-explore-d8aab3|Space Explore|8,99€|80|2024-03-05 16h|2024-03-12 15h|
+|#|super-alloy-ranger-4252cc|Super Alloy Ranger|8,99€|30|2024-03-14 15h|2024-03-28 15h|
 |#|super-kids-racing-7bf296|Super Kids Racing|8,99€|80|2024-03-05 16h|2024-03-12 15h|
 |#|super-kids-racing-mini-edition-65c0fa|Super Kids Racing - Mini Edition|8,99€|80|2024-03-05 16h|2024-03-12 15h|
 |#|tales-of-the-tiny-planet-ab9e11|Tales of the Tiny Planet|8,99€|80|2024-03-14 15h|2024-03-28 15h|
@@ -472,7 +457,6 @@
 |#|deltav-rings-of-saturn-4cd187|ΔV: Rings of Saturn|8,99€|42|2024-03-14 15h|2024-03-28 15h|
 |#|danger-scavenger-0cd9a9|Danger Scavenger|7,99€|90|2024-03-14 15h|2024-03-28 15h|
 |#|gravitar-recharged-e606fe|Gravitar Recharged|7,99€|50|2024-03-14 15h|2024-03-28 15h|
-|#|jetboard-joust|Jetboard Joust|7,99€|90|2024-03-01 05h|2024-03-09 05h|
 |#|lego-brawls|LEGO® Brawls|7,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|missile-command-recharged-2022-33e34b|Missile Command: Recharged|7,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|nira-02f6ee|Nira|7,99€|80|2024-03-14 15h|2024-03-28 15h|
@@ -485,7 +469,6 @@
 |#|angelo-and-deemon-one-hell-of-a-quest-94d7e2|Angelo and Deemon: One Hell of a Quest|7,19€|60|2024-03-14 15h|2024-03-28 15h|
 |#|dizzy-fight-7bbfe7|Dizzy Fight|7,19€|40|2024-02-23 16h|2024-03-08 16h|
 |#|extreme-formula-championship-a8271d|Extreme Formula Championship|7,19€|80|2024-03-05 16h|2024-03-12 15h|
-|#|gambit-shifter-93870e|Gambit Shifter|7,19€|15|2024-02-19 09h|2024-02-26 08h|
 |#|mallofmayhem-15344c|Mall of Mayhem|7,19€|30|2024-07-01 06h|2024-07-30 22h|
 |#|mallofmayhem-15344c|Mall of Mayhem|7,19€|30|2024-10-01 06h|2024-10-30 22h|
 |#|maze-the-amazing-labyrinth-291abe|Maze - The Amazing Labyrinth|7,19€|80|2024-03-05 16h|2024-03-12 15h|
@@ -493,7 +476,7 @@
 |#|saboteur-ii-avenging-angel-33e83c|Saboteur II Avenging Angel|7,19€|10|2024-03-05 23h|2024-03-19 23h|
 |#|saboteur-f3d01d|Saboteur!|7,19€|10|2024-03-05 23h|2024-03-19 23h|
 |#|suicide-guy-9f7963|Suicide Guy|7,19€|50|2024-02-20 16h|2024-02-27 16h|
-|#|march-of-shrooms-2581de|March of Shrooms|6,99€|30|2024-03-01 05h|2024-03-09 05h|
+|#|protocorgi|ProtoCorgi|6,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|dark-mystery-baf914|Dark Mystery|6,29€|80|2024-03-05 16h|2024-03-12 15h|
 |#|epic-world-hunt-for-quest-4500b1|Epic World - Hunt For Quest|6,29€|80|2024-03-05 16h|2024-03-12 15h|
 |#|kids-learn-e4a163|Kids Learn|6,29€|80|2024-02-27 16h|2024-03-05 16h|
@@ -511,10 +494,8 @@
 |#|forest-fire-b4bb7e|Forest Fire|5,39€|35|2024-12-15 07h|2024-12-30 07h|
 |#|funtoons-world-0e63dd|Funtoon's World|5,39€|80|2024-03-05 16h|2024-03-12 15h|
 |#|shadows-price-for-our-sins-29e42e|Shadows. Price For Our Sins|5,39€|50|2024-04-11 15h|2024-04-25 15h|
-|#|against-all-odds-409105|Against All Odds|4,99€|20|2024-03-01 05h|2024-03-09 05h|
 |#|luckygoal-201ee6|Lucky Goal|4,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|quest-of-dungeons-3064d5|Quest of Dungeons|4,99€|60|2024-04-11 15h|2024-04-25 15h|
-|#|rice-d1b792|R.I.C.E.|4,99€|34|2024-03-01 05h|2024-03-09 05h|
 |#|rainbow-six-3-gold-edition|Tom Clancy's Rainbow Six 3 GOLD EDITION|4,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|rainbow-six-lockdown|Tom Clancy's Rainbow Six Lockdown STANDARD EDITION|4,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|splinter-cell|Tom Clancy's Splinter Cell|4,99€|75|2024-03-14 15h|2024-03-28 15h|
@@ -545,6 +526,7 @@
 |#|emergency-crew-1-04340a|Emergency Crew 2 Global Warming|4,49€|70|2024-03-26 15h|2024-04-02 15h|
 |#|fairytale-solitaire-red-riding-hood-289828|Fairytale Solitaire: Red Riding Hood|4,49€|30|2024-02-27 16h|2024-03-05 16h|
 |#|gems-of-the-aztecs-c88b67|Gems of the Aztecs|4,49€|60|2024-03-19 15h|2024-03-26 15h|
+|#|geometric-sniper-z-ef97ef|Geometric Sniper - Z|4,49€|35|2024-03-14 15h|2024-03-28 15h|
 |#|gnomes-garden-return-of-the-queen-159f41|Gnomes Garden. Return Of The Queen|4,49€|30|2024-02-20 16h|2024-02-27 16h|
 |#|test1-a822c4|Horror Ken|4,49€|50|2024-03-15 15h|2024-04-14 15h|
 |#|im-in-love-with-your-dead-grandmother-15e7d4|I'm in Love With Your Dead Grandmother|4,49€|50|2024-03-14 15h|2024-03-28 15h|
@@ -585,7 +567,6 @@
 |#|traffic-brains-2-c0ce5e|Traffic Brains 2|4,49€|30|2024-03-12 15h|2024-03-19 15h|
 |#|travel-cuisine-2-sweet-life-7a4239|Travel Cuisine 2: Sweet Life|4,49€|50|2024-03-19 15h|2024-03-26 15h|
 |#|underworld-defense-9a270a|Underworld Defense|4,49€|70|2024-03-14 15h|2024-03-28 15h|
-|#|volley-pals-0120b4|Volley Pals|4,49€|50|2024-02-19 01h|2024-03-05 23h|
 |#|volley-pals-0120b4|Volley Pals|4,49€|60|2024-04-11 15h|2024-04-25 15h|
 |#|test-dd068f|field peas~Sayaendou~|4,49€|50|2024-03-15 15h|2024-04-14 15h|
 |#|dumpy-and-bumpy-86c9d7|Dumpy and Bumpy|3,99€|30|2024-04-11 15h|2024-04-25 15h|
@@ -605,9 +586,7 @@
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|60|2024-06-30 21h|2024-07-07 21h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|65|2024-08-06 21h|2024-08-13 21h|
 |#|busway-islands-puzzle-91287d|Busway Islands - Puzzle|2,69€|50|2024-02-27 16h|2024-03-05 16h|
-|#|dark-fantasy-2-jigsaw-puzzle-d65d41|Dark Fantasy 2: Jigsaw Puzzle|2,69€|50|2024-02-18 22h|2024-03-05 20h|
 |#|dark-fantasy-2-jigsaw-puzzle-d65d41|Dark Fantasy 2: Jigsaw Puzzle|2,69€|50|2024-04-11 15h|2024-04-25 15h|
-|#|dark-fantasy-jigsaw-puzzle-12769c|Dark Fantasy Jigsaw Puzzle|2,69€|50|2024-02-19 01h|2024-03-05 23h|
 |#|dark-fantasy-jigsaw-puzzle-12769c|Dark Fantasy Jigsaw Puzzle|2,69€|50|2024-04-11 15h|2024-04-25 15h|
 |#|entomophobia-5e766c|Entomophobia|2,69€|33|2024-03-14 15h|2024-03-28 15h|
 |#|geometric-sniper-blood-in-paris-17ce16|Geometric Sniper - Blood in Paris|2,69€|20|2024-02-29 17h|2024-03-07 17h|
@@ -625,6 +604,7 @@
 |#|mystery-in-the-office-f629ad|Mystery in the Office|1,99€|25|2024-03-07 17h|2024-03-21 17h|
 |#|cat-slide-tiles-93b9d4|Cat Slide Tiles|1,79€|40|2024-03-15 17h|2024-03-22 17h|
 |#|evalinathe-sorceress-a9a60a|Evalina The Sorceress|1,79€|90|2024-02-27 16h|2024-03-05 16h|
+|#|geometric-sniper-82e0e0|Geometric Sniper|1,79€|30|2024-03-14 15h|2024-03-28 15h|
 |#|island-cities-0a3026|Island Cities|1,79€|30|2024-03-05 16h|2024-03-12 15h|
 |#|island-farmer-ce8ee6|Island Farmer|1,79€|30|2024-03-14 15h|2024-03-28 15h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|75|2024-02-29 22h|2024-03-17 22h|
