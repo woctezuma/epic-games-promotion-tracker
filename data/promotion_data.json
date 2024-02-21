@@ -1017,15 +1017,6 @@
     "title": "Celeste"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2024-03-28T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 899,
-    "slug": "centipede-recharged",
-    "startDate": "2024-03-14T15:00:00.000Z",
-    "title": "Centipede: Recharged"
-  },
-  {
     "discountPercentage": 60,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -2104,6 +2095,24 @@
     "slug": "galaxy-trek-c165da",
     "startDate": "2024-04-02T15:00:00.000Z",
     "title": "Galaxy Trek"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-03-12T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "game-dev-masters-f5d8f9",
+    "startDate": "2024-03-05T16:00:00.000Z",
+    "title": "Game Dev Masters"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-04-25T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "game-dev-masters-f5d8f9",
+    "startDate": "2024-04-11T15:00:00.000Z",
+    "title": "Game Dev Masters"
   },
   {
     "discountPercentage": 60,
