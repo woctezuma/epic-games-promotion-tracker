@@ -191,7 +191,6 @@
 |#|moving-out|Moving Out|22,99€|75|2024-03-18 16h|2024-04-01 15h|
 |#|neon-blight-6fe11b|Neon Blight|19,99€|75|2024-03-01 16h|2024-03-09 16h|
 |#|nibiru-ce8efd|Nibiru|15,99€|75|2024-03-01 16h|2024-03-09 16h|
-|#|outriders|OUTRIDERS|19,99€|75|2024-03-21 15h|2024-04-04 15h|
 |#|outerverse-82d7ce|Outerverse|19,99€|75|2024-03-01 16h|2024-03-09 16h|
 |#|overcooked-2|Overcooked! 2|22,99€|75|2024-03-14 16h|2024-03-28 16h|
 |#|protocorgi|ProtoCorgi|6,99€|75|2024-03-14 15h|2024-03-28 15h|
