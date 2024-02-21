@@ -213,7 +213,6 @@
 |#|neon-abyss|Neon Abyss|19,99€|66|2024-03-18 16h|2024-04-01 15h|
 |#|neon-blight-6fe11b|Neon Blight|19,99€|75|2024-03-01 16h|2024-03-09 16h|
 |#|nexomon-extinction|Nexomon: Extinction|19,99€|60|2024-03-14 15h|2024-03-28 15h|
-|#|outriders|OUTRIDERS|19,99€|75|2024-03-21 15h|2024-04-04 15h|
 |#|one-lonely-outpost-12afa6|One Lonely Outpost|19,99€|20|2024-03-01 16h|2024-03-09 16h|
 |#|outerverse-82d7ce|Outerverse|19,99€|75|2024-03-01 16h|2024-03-09 16h|
 |#|paper-cut-mansion-2c67e2|Paper Cut Mansion|19,99€|60|2024-03-14 15h|2024-03-28 15h|

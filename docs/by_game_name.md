@@ -403,7 +403,6 @@
 |#|nira-02f6ee|Nira|7,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|no-straight-roads|No Straight Roads|24,99€|66|2024-04-11 15h|2024-04-25 15h|
 |#|number-one-fighter-26f88c|Number One Fighter|4,49€|50|2024-02-22 15h|2024-02-29 15h|
-|#|outriders|OUTRIDERS|19,99€|75|2024-03-21 15h|2024-04-04 15h|
 |#|oirbo-c063b7|Oirbo|13,49€|22|2024-03-14 15h|2024-03-28 15h|
 |#|one-lonely-outpost-12afa6|One Lonely Outpost|19,99€|20|2024-03-01 16h|2024-03-09 16h|
 |#|one-more-island-0014e2|One More Island|17,99€|55|2024-03-01 16h|2024-03-09 16h|

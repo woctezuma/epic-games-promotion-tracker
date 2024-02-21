@@ -426,7 +426,6 @@
 |#|outbreak-the-new-nightmare-revisited-90517a|Outbreak The New Nightmare Revisited|8,99€|50|2024-02-27 16h|2024-03-05 16h|
 |#|outcore-desktop-adventure-eb3aff|Outcore - Desktop Adventure|8,99€|25|2024-02-27 16h|2024-03-05 16h|
 |#|outerverse-82d7ce|Outerverse|19,99€|75|2024-03-01 16h|2024-03-09 16h|
-|#|outriders|OUTRIDERS|19,99€|75|2024-03-21 15h|2024-04-04 15h|
 |#|outward|Outward Definitive Edition|39,99€|85|2024-03-14 15h|2024-03-28 15h|
 |#|overcooked|Overcooked|15,99€|80|2024-02-26 16h|2024-03-11 16h|
 |#|overcooked|Overcooked|15,99€|80|2024-04-15 15h|2024-04-29 15h|
