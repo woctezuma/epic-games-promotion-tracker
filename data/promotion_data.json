@@ -315,15 +315,6 @@
     "title": "Arcatron-Z"
   },
   {
-    "discountPercentage": 80,
-    "endDate": "2024-03-06T18:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 899,
-    "slug": "arctico-c29f1d",
-    "startDate": "2024-02-21T18:00:00.000Z",
-    "title": "Arctico"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -4264,15 +4255,6 @@
     "slug": "stasis-bone-totem-ca8320",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "STASIS : BONE TOTEM"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2024-04-04T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "stranger-of-paradise-final-fantasy-origin",
-    "startDate": "2024-03-21T15:00:00.000Z",
-    "title": "STRANGER OF PARADISE FINAL FANTASY ORIGIN"
   },
   {
     "discountPercentage": 10,
