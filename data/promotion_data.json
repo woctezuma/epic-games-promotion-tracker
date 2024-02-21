@@ -1017,6 +1017,15 @@
     "title": "Celeste"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "centipede-recharged",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Centipede: Recharged"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
