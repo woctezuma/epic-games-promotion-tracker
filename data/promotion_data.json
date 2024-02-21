@@ -153,6 +153,15 @@
     "title": "Aegis Descent"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2024-03-07T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1199,
+    "slug": "aerial-knights-never-yield",
+    "startDate": "2024-02-29T16:00:00.000Z",
+    "title": "Aerial_Knight's Never Yield"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2024-03-09T16:00:00.000Z",
     "isFree": false,
@@ -165,7 +174,7 @@
     "discountPercentage": 35,
     "endDate": "2024-03-12T15:00:00.000Z",
     "isFree": false,
-    "originalPrice": 2999,
+    "originalPrice": 1999,
     "slug": "against-the-storm",
     "startDate": "2024-03-05T16:00:00.000Z",
     "title": "Against the Storm"
@@ -279,6 +288,15 @@
     "title": "ArcRunner"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "arcadegeddon",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Arcadegeddon"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -286,6 +304,15 @@
     "slug": "arcanium-ab22e4",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Arcanium"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-03-06T05:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 359,
+    "slug": "arcatronz-2bb3f2",
+    "startDate": "2024-02-22T17:00:00.000Z",
+    "title": "Arcatron-Z"
   },
   {
     "discountPercentage": 80,
@@ -729,6 +756,15 @@
     "title": "Blasphemous 2"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-03-12T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1479,
+    "slug": "blazing-sails",
+    "startDate": "2024-03-05T16:00:00.000Z",
+    "title": "Blazing Sails"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -736,6 +772,15 @@
     "slug": "blind-fate-edo-no-yami-87e748",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Blind Fate: Edo no Yami"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2024-04-13T16:59:00.000Z",
+    "isFree": false,
+    "originalPrice": 1259,
+    "slug": "blood-hunting-cec461",
+    "startDate": "2024-03-15T05:00:00.000Z",
+    "title": "Blood Hunting"
   },
   {
     "discountPercentage": 67,
@@ -889,6 +934,24 @@
     "slug": "bud-spencer-and-terence-hill-slaps-and-beans-2-faab3a",
     "startDate": "2024-03-26T15:00:00.000Z",
     "title": "Bud Spencer and Terence Hill - Slaps and Beans 2"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "bus-driver-simulator-186e62",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Bus Driver Simulator"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "bus-world-5de29e",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Bus World"
   },
   {
     "discountPercentage": 50,
@@ -1611,15 +1674,6 @@
     "title": "Eternights"
   },
   {
-    "discountPercentage": 70,
-    "endDate": "2024-02-27T11:59:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "europa-universalis-iv",
-    "startDate": "2024-02-20T18:00:00.000Z",
-    "title": "Europa Universalis IV"
-  },
-  {
     "discountPercentage": 90,
     "endDate": "2024-03-05T16:00:00.000Z",
     "isFree": false,
@@ -1917,6 +1971,15 @@
     "title": "Flat Heroes"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1079,
+    "slug": "fly-corp-398021",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Fly Corp"
+  },
+  {
     "discountPercentage": 85,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -2061,6 +2124,15 @@
     "title": "Gamedec - Definitive Edition"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2024-04-02T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "garden-city-c73d37",
+    "startDate": "2024-03-26T15:00:00.000Z",
+    "title": "Garden City"
+  },
+  {
     "discountPercentage": 10,
     "endDate": "2024-03-19T23:00:00.000Z",
     "isFree": false,
@@ -2124,13 +2196,13 @@
     "title": "Ghost Recon Breakpoint Standard Edition"
   },
   {
-    "discountPercentage": 75,
+    "discountPercentage": 35,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
-    "originalPrice": 2999,
-    "slug": "ghost-recon-future-soldier",
+    "originalPrice": 1799,
+    "slug": "ghostbusters-spirits-unleashed ",
     "startDate": "2024-03-14T15:00:00.000Z",
-    "title": "Ghost Recon Future Soldier: Ultimate Edition"
+    "title": "Ghostbusters: Spirits Unleashed"
   },
   {
     "discountPercentage": 80,
@@ -2223,6 +2295,15 @@
     "title": "Greak: Memories of Azur"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2024-04-02T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "griddlers-victorian-picnic-fcc2ab",
+    "startDate": "2024-03-26T15:00:00.000Z",
+    "title": "Griddlers Victorian Picnic"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-03-09T16:00:00.000Z",
     "isFree": false,
@@ -2293,6 +2374,15 @@
     "slug": "hello-goodboy-4b2edb",
     "startDate": "2024-03-01T16:00:00.000Z",
     "title": "Hello Goodboy"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-04-25T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 359,
+    "slug": "hero-battle-fantasy-arena-f15594",
+    "startDate": "2024-04-11T15:00:00.000Z",
+    "title": "Hero Battle Fantasy Arena"
   },
   {
     "discountPercentage": 15,
@@ -3177,6 +3267,24 @@
     "title": "Metro Last Light Redux"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "metro-simulator-494510",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Metro Simulator"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "metro-simulator-2-532ff8",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Metro Simulator 2"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -3358,6 +3466,15 @@
   },
   {
     "discountPercentage": 50,
+    "endDate": "2024-04-02T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "mysteries-of-the-undead-46140a",
+    "startDate": "2024-03-26T15:00:00.000Z",
+    "title": "Mysteries of the Undead"
+  },
+  {
+    "discountPercentage": 50,
     "endDate": "2024-03-12T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 449,
@@ -3472,15 +3589,6 @@
     "slug": "night-loops-aa3cc2",
     "startDate": "2024-03-01T16:00:00.000Z",
     "title": "Night Loops"
-  },
-  {
-    "discountPercentage": 10,
-    "endDate": "2024-02-27T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2899,
-    "slug": "nightingale",
-    "startDate": "2024-02-20T17:00:00.000Z",
-    "title": "Nightingale"
   },
   {
     "discountPercentage": 80,
@@ -5652,6 +5760,15 @@
     "title": "Travel Cuisine 2: Sweet Life"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2024-04-02T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "travel-cuisine-collectors-edition-f24880",
+    "startDate": "2024-03-26T15:00:00.000Z",
+    "title": "Travel Cuisine Collector's Edition"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2024-03-28T18:00:00.000Z",
     "isFree": false,
@@ -5803,6 +5920,15 @@
     "slug": "urban-tale-75b4f0",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Urban Tale"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "vcb-why-city-4k-68d7f2",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "VCB Why City 4k"
   },
   {
     "discountPercentage": 75,
