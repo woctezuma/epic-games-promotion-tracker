@@ -189,15 +189,6 @@
     "title": "Against All Odds"
   },
   {
-    "discountPercentage": 35,
-    "endDate": "2024-03-12T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "against-the-storm",
-    "startDate": "2024-03-05T16:00:00.000Z",
-    "title": "Against the Storm"
-  },
-  {
     "discountPercentage": 30,
     "endDate": "2024-03-04T11:59:00.000Z",
     "isFree": false,
@@ -2295,15 +2286,6 @@
     "title": "Funtoon's World"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2024-02-29T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 179,
-    "slug": "galacticdefender-0d9f3d",
-    "startDate": "2024-02-22T15:00:00.000Z",
-    "title": "Galactic Defender"
-  },
-  {
     "discountPercentage": 25,
     "endDate": "2024-04-09T15:00:00.000Z",
     "isFree": false,
@@ -3871,15 +3853,6 @@
   },
   {
     "discountPercentage": 50,
-    "endDate": "2024-02-29T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 449,
-    "slug": "number-one-fighter-26f88c",
-    "startDate": "2024-02-22T15:00:00.000Z",
-    "title": "Number One Fighter"
-  },
-  {
-    "discountPercentage": 50,
     "endDate": "2024-04-04T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1999,
@@ -5355,15 +5328,6 @@
     "title": "Tear of Time - Lost memory"
   },
   {
-    "discountPercentage": 30,
-    "endDate": "2024-03-12T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "terra-invicta-5bbf09",
-    "startDate": "2024-03-05T16:00:00.000Z",
-    "title": "Terra Invicta"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -6523,15 +6487,6 @@
     "slug": "wrestlequest-324fb5",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "WrestleQuest"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2024-03-12T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "xenonauts-2-42a236",
-    "startDate": "2024-03-05T16:00:00.000Z",
-    "title": "Xenonauts 2"
   },
   {
     "discountPercentage": 50,
