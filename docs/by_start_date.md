@@ -110,6 +110,14 @@
 |#|tyrants-blessing-02fddd|Tyrants Blessing|19,99€|60|2024-03-01 16h|2024-03-09 16h|
 |#|voltaire-e1c517|Voltaire: The Vegan Vampire|19,99€|35|2024-03-01 16h|2024-03-09 16h|
 |#|world-turtles-b2139d|World Turtles|19,99€|30|2024-03-01 16h|2024-03-09 16h|
+|#|3d-chess-online-615201|3D Chess Online|0,89€|40|2024-03-01 17h|2024-03-15 17h|
+|#|bus-simulator-car-driving-40dbef|Bus Simulator Car Driving|0,89€|40|2024-03-01 17h|2024-03-15 17h|
+|#|cargo-truck-simulator-2023-ff83fb|Cargo Truck Simulator 2023|0,89€|40|2024-03-01 17h|2024-03-15 17h|
+|#|city-ambulance-car-driving-1d3872|City Ambulance Car Driving|0,89€|40|2024-03-01 17h|2024-03-15 17h|
+|#|e30-drift-car-simulator-2d2977|E30 Drift Car Simulator|0,89€|40|2024-03-01 17h|2024-03-15 17h|
+|#|extreme-car-drift-simulator-cbd3c8|Extreme Car Drift Simulator|0,89€|40|2024-03-01 17h|2024-03-15 17h|
+|#|gangster-city-mafia-car-driving-88434c|Gangster City Mafia Car Driving|0,89€|40|2024-03-01 17h|2024-03-15 17h|
+|#|offroad-jeep-4x4-car-driving-simulator-2a3e3d|Offroad Jeep 4x4 Car Driving Simulator|0,89€|40|2024-03-01 17h|2024-03-15 17h|
 |#|1001-jigsaw-home-sweet-home-1b1e16|1001 Jigsaw. Home Sweet Home|4,49€|30|2024-03-05 16h|2024-03-12 15h|
 |#|against-the-storm|Against the Storm|19,99€|35|2024-03-05 16h|2024-03-12 15h|
 |#|argonauts-agency-missing-daughter-1ca64b|Argonauts Agency 6: Missing Daughter|4,49€|50|2024-03-05 16h|2024-03-12 15h|
@@ -569,6 +577,13 @@
 |#|test-dd068f|field peas~Sayaendou~|4,49€|50|2024-03-15 15h|2024-04-14 15h|
 |#|cat-slide-tiles-93b9d4|Cat Slide Tiles|1,79€|40|2024-03-15 17h|2024-03-22 17h|
 |#|aa-bb5edd|Seven Bullets Horror 7発の弾丸ホラー|2,69€|20|2024-03-16 15h|2024-04-15 15h|
+|#|atv-offroad-simulator-24-d9f4ad|ATV Offroad Simulator 24|0,89€|40|2024-03-16 17h|2024-03-30 17h|
+|#|car-parking-real-driving-sim-ba7eed|Car Parking Real Driving Sim|0,89€|40|2024-03-16 17h|2024-03-30 17h|
+|#|classic-car-drive-simulator-a540a9|Classic Car Simulator Car Driving|0,89€|40|2024-03-16 17h|2024-03-30 17h|
+|#|forest-offroad-driving-simulator-e8f5c1|Forest Offroad Driving Simulator|0,89€|40|2024-03-16 17h|2024-03-30 17h|
+|#|rod-multiplayer-car-driving-8b748d|ROD Multiplayer Car Driving|0,89€|40|2024-03-16 17h|2024-03-30 17h|
+|#|suv-4x4-car-parking-simulator-5d6c9e|Suv 4x4 Car Parking Simulator|0,89€|40|2024-03-16 17h|2024-03-30 17h|
+|#|tofas-sahin-online-car-driving-4bb680|Tofas Sahin Online Car Driving|1,79€|40|2024-03-16 17h|2024-03-30 17h|
 |#|corrupt-political-simulator-f94058|Corrupt - Political Simulator|3,59€|93|2024-03-16 23h|2024-03-30 23h|
 |#|birch-simulator-21969e|Birch Simulator|0,89€|50|2024-03-17 22h|2024-04-03 22h|
 |#|ageless|Ageless|14,99€|80|2024-03-18 16h|2024-04-01 15h|

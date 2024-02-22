@@ -517,20 +517,31 @@
 |#|jackbox-party-pack-6|The Jackbox Party Pack 6|24,99€|45|2024-03-14 15h|2024-03-28 15h|
 |#|we-were-here-forever|We Were Here Forever|17,99€|45|2024-04-11 15h|2024-04-25 15h|
 |#|deltav-rings-of-saturn-4cd187|ΔV: Rings of Saturn|8,99€|42|2024-03-14 15h|2024-03-28 15h|
+|#|3d-chess-online-615201|3D Chess Online|0,89€|40|2024-03-01 17h|2024-03-15 17h|
+|#|atv-offroad-simulator-24-d9f4ad|ATV Offroad Simulator 24|0,89€|40|2024-03-16 17h|2024-03-30 17h|
 |#|aircraft-carrier-survival-769456|Aircraft Carrier Survival|17,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|assassins-creed-mirage|Assassin's Creed® Mirage|49,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|avatar-frontiers-of-pandora|Avatar: Frontiers of Pandora|69,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|blazing-sails|Blazing Sails|14,79€|40|2024-03-05 16h|2024-03-12 15h|
 |#|bratz-flaunt-your-fashion-95d529|Bratz™: Flaunt Your Fashion|29,99€|40|2024-03-14 15h|2024-03-28 15h|
+|#|bus-simulator-car-driving-40dbef|Bus Simulator Car Driving|0,89€|40|2024-03-01 17h|2024-03-15 17h|
+|#|car-parking-real-driving-sim-ba7eed|Car Parking Real Driving Sim|0,89€|40|2024-03-16 17h|2024-03-30 17h|
+|#|cargo-truck-simulator-2023-ff83fb|Cargo Truck Simulator 2023|0,89€|40|2024-03-01 17h|2024-03-15 17h|
 |#|cat-cafe-manager-68bd0d|Cat Cafe Manager|19,99€|40|2024-03-01 16h|2024-03-09 16h|
 |#|cat-slide-tiles-93b9d4|Cat Slide Tiles|1,79€|40|2024-03-15 17h|2024-03-22 17h|
+|#|city-ambulance-car-driving-1d3872|City Ambulance Car Driving|0,89€|40|2024-03-01 17h|2024-03-15 17h|
+|#|classic-car-drive-simulator-a540a9|Classic Car Simulator Car Driving|0,89€|40|2024-03-16 17h|2024-03-30 17h|
 |#|dragon-quest-xi-s-echoes-of-an-elusive-age|DRAGON QUEST® XI S: Echoes of an Elusive Age™|39,99€|40|2024-03-21 15h|2024-04-04 15h|
 |#|devils-island-03e902|Devil's Island|10,79€|40|2024-02-25 14h|2024-03-03 14h|
 |#|dizzy-fight-7bbfe7|Dizzy Fight|7,19€|40|2024-02-23 16h|2024-03-08 16h|
+|#|e30-drift-car-simulator-2d2977|E30 Drift Car Simulator|0,89€|40|2024-03-01 17h|2024-03-15 17h|
 |#|eigengrau-62aef0|Eigengrau|8,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|eternights-c2fbca|Eternights|29,99€|40|2024-04-11 15h|2024-04-25 15h|
+|#|extreme-car-drift-simulator-cbd3c8|Extreme Car Drift Simulator|0,89€|40|2024-03-01 17h|2024-03-15 17h|
 |#|farwest-colony-aaa81c|FarWest Colony|15,29€|40|2024-03-14 15h|2024-03-28 15h|
 |#|fly-corp-398021|Fly Corp|10,79€|40|2024-03-14 15h|2024-03-28 15h|
+|#|forest-offroad-driving-simulator-e8f5c1|Forest Offroad Driving Simulator|0,89€|40|2024-03-16 17h|2024-03-30 17h|
+|#|gangster-city-mafia-car-driving-88434c|Gangster City Mafia Car Driving|0,89€|40|2024-03-01 17h|2024-03-15 17h|
 |#|goat-simulator-3|Goat Simulator 3|29,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|hot-wheels-unleashed-2|HOT WHEELS UNLEASHED™ 2 - Turbocharged|49,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|haven|Haven|24,99€|40|2024-04-11 15h|2024-04-25 15h|
@@ -542,20 +553,24 @@
 |#|lunarlux-41403d|LunarLux|19,99€|40|2024-03-01 16h|2024-03-09 16h|
 |#|mail-time-ed1aea|Mail Time|19,99€|40|2024-03-01 16h|2024-03-09 16h|
 |#|miniland-adventure-ee81ff|Miniland Adventure|9,89€|40|2024-03-14 15h|2024-03-28 15h|
+|#|offroad-jeep-4x4-car-driving-simulator-2a3e3d|Offroad Jeep 4x4 Car Driving Simulator|0,89€|40|2024-03-01 17h|2024-03-15 17h|
 |#|otok-6c2478|Otok|4,49€|40|2024-03-14 15h|2024-03-28 15h|
 |#|out-of-line-209cbb|Out of Line|7,19€|40|2024-03-14 15h|2024-03-28 15h|
 |#|paw-patrol-mighty-pups-save-adventure-bay-aaad37|PAW Patrol Mighty Pups Save Adventure Bay|29,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|quantum-recharged-6553fd|Quantum Recharged|8,99€|40|2024-03-14 15h|2024-03-28 15h|
+|#|rod-multiplayer-car-driving-8b748d|ROD Multiplayer Car Driving|0,89€|40|2024-03-16 17h|2024-03-30 17h|
 |#|red-glare-0c98c5|Red Glare|13,49€|40|2024-02-27 16h|2024-03-05 16h|
 |#|rising-mist-36ba97|Rising Mist|13,49€|40|2024-03-14 15h|2024-03-28 15h|
 |#|stranger-of-paradise-final-fantasy-origin|STRANGER OF PARADISE FINAL FANTASY ORIGIN|39,99€|40|2024-03-21 15h|2024-04-04 15h|
 |#|sands-of-aura|Sands of Aura|21,99€|40|2024-03-01 16h|2024-03-09 16h|
 |#|strayed-lights-351d29|Strayed Lights|24,99€|40|2024-04-11 15h|2024-04-25 15h|
+|#|suv-4x4-car-parking-simulator-5d6c9e|Suv 4x4 Car Parking Simulator|0,89€|40|2024-03-16 17h|2024-03-30 17h|
 |#|symphony-of-war-60a76e|Symphony of War|19,99€|40|2024-03-01 16h|2024-03-09 16h|
 |#|the-house-of-da-vinci-3-b0c022|The House of Da Vinci 3|19,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|the-jackbox-party-pack-10-c6f152|The Jackbox Party Pack 10|34,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|jackbox-party-pack-8|The Jackbox Party Pack 8|23,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|the-riftbreaker|The Riftbreaker|29,99€|40|2024-03-14 15h|2024-03-28 15h|
+|#|tofas-sahin-online-car-driving-4bb680|Tofas Sahin Online Car Driving|1,79€|40|2024-03-16 17h|2024-03-30 17h|
 |#|trail-of-ayash-31a1d4|Trail Of Ayash|17,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|urban-tale-75b4f0|Urban Tale|12,59€|40|2024-03-14 15h|2024-03-28 15h|
 |#|we-were-here-expeditions-the-friendship-1e8fb2|We Were Here Expeditions: The FriendShip|3,99€|40|2024-03-14 15h|2024-03-28 15h|
