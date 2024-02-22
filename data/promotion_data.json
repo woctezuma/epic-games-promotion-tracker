@@ -1707,7 +1707,7 @@
     "originalPrice": 5999,
     "slug": "dying-light-2-stay-human",
     "startDate": "2024-02-22T18:00:00.000Z",
-    "title": "Dying Light 2 Stay Human"
+    "title": "Dying Light 2 Stay Human - Reloaded Edition"
   },
   {
     "discountPercentage": 70,
@@ -5689,11 +5689,29 @@
   },
   {
     "discountPercentage": 80,
+    "endDate": "2024-08-15T15:59:00.000Z",
+    "isFree": false,
+    "originalPrice": 5399,
+    "slug": "the-mystery-of-the-moon-7f3e48",
+    "startDate": "2024-07-20T16:00:00.000Z",
+    "title": "The Mystery Of The Moon"
+  },
+  {
+    "discountPercentage": 80,
     "endDate": "2024-10-15T15:59:00.000Z",
     "isFree": false,
     "originalPrice": 5399,
     "slug": "the-mystery-of-the-moon-7f3e48",
     "startDate": "2024-09-29T16:00:00.000Z",
+    "title": "The Mystery Of The Moon"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-11-19T15:59:00.000Z",
+    "isFree": false,
+    "originalPrice": 5399,
+    "slug": "the-mystery-of-the-moon-7f3e48",
+    "startDate": "2024-11-14T16:00:00.000Z",
     "title": "The Mystery Of The Moon"
   },
   {
