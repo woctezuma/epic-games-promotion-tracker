@@ -48,7 +48,7 @@
 |#|arcatronz-2bb3f2|Arcatron-Z|3,59€|50|2024-02-22 17h|2024-03-06 05h|
 |#|aerial-knights-never-yield|Aerial_Knight's Never Yield|11,99€|100|2024-02-29 16h|2024-03-07 16h|
 |#|geometric-sniper-blood-in-paris-17ce16|Geometric Sniper - Blood in Paris|2,69€|20|2024-02-29 17h|2024-03-07 17h|
-|#|dying-light-2-stay-human|Dying Light 2 Stay Human|59,99€|50|2024-02-22 18h|2024-03-07 18h|
+|#|dying-light-2-stay-human|Dying Light 2 Stay Human - Reloaded Edition|59,99€|50|2024-02-22 18h|2024-03-07 18h|
 |#|dizzy-fight-7bbfe7|Dizzy Fight|7,19€|40|2024-02-23 16h|2024-03-08 16h|
 |#|9-years-of-shadows-a40c92|9 Years of Shadows|19,99€|30|2024-03-01 16h|2024-03-09 16h|
 |#|against-all-odds-409105|Against All Odds|4,99€|20|2024-03-01 16h|2024-03-09 16h|
@@ -719,11 +719,13 @@
 |#|mallofmayhem-15344c|Mall of Mayhem|7,19€|30|2024-07-01 06h|2024-07-30 22h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|65|2024-08-06 21h|2024-08-13 21h|
 |#|forest-fire-b4bb7e|Forest Fire|5,39€|35|2024-08-01 07h|2024-08-14 07h|
+|#|the-mystery-of-the-moon-7f3e48|The Mystery Of The Moon|53,99€|80|2024-07-20 16h|2024-08-15 15h|
 |#|skotos-455463|Skotos|8,99€|30|2024-08-01 06h|2024-08-30 06h|
 |#|boltbreak-c2bf02|BoltBreak|5,39€|17|2024-09-01 06h|2024-09-30 22h|
 |#|forest-fire-b4bb7e|Forest Fire|5,39€|35|2024-10-01 07h|2024-10-14 07h|
 |#|the-mystery-of-the-moon-7f3e48|The Mystery Of The Moon|53,99€|80|2024-09-29 16h|2024-10-15 15h|
 |#|mallofmayhem-15344c|Mall of Mayhem|7,19€|30|2024-10-01 06h|2024-10-30 22h|
+|#|the-mystery-of-the-moon-7f3e48|The Mystery Of The Moon|53,99€|80|2024-11-14 16h|2024-11-19 15h|
 |#|skotos-455463|Skotos|8,99€|30|2024-11-01 06h|2024-11-30 07h|
 |#|boltbreak-c2bf02|BoltBreak|5,39€|30|2024-12-01 07h|2024-12-30 07h|
 |#|forest-fire-b4bb7e|Forest Fire|5,39€|35|2024-12-15 07h|2024-12-30 07h|

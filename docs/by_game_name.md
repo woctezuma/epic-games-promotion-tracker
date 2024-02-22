@@ -189,7 +189,7 @@
 |#|dumpy-and-bumpy-86c9d7|Dumpy and Bumpy|3,99€|30|2024-04-11 15h|2024-04-25 15h|
 |#|dust-fleet-620614|Dust Fleet|19,99€|20|2024-03-01 16h|2024-03-09 16h|
 |#|dust-and-neon-41b927|Dust and Neon|17,99€|50|2024-03-14 15h|2024-03-28 15h|
-|#|dying-light-2-stay-human|Dying Light 2 Stay Human|59,99€|50|2024-02-22 18h|2024-03-07 18h|
+|#|dying-light-2-stay-human|Dying Light 2 Stay Human - Reloaded Edition|59,99€|50|2024-02-22 18h|2024-03-07 18h|
 |#|dying-light|Dying Light Enhanced Edition|29,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|dynopunk-2035f5|Dynopunk|14,79€|50|2024-03-14 15h|2024-03-28 15h|
 |#|e30-drift-car-simulator-2d2977|E30 Drift Car Simulator|0,89€|40|2024-03-01 17h|2024-03-15 17h|
@@ -632,7 +632,9 @@
 |#|the-magnificent-trufflepigs|The Magnificent Trufflepigs|9,99€|75|2024-04-11 15h|2024-04-25 15h|
 |#|the-mystery-of-the-moon-7f3e48|The Mystery Of The Moon|53,99€|80|2024-03-27 16h|2024-04-06 15h|
 |#|the-mystery-of-the-moon-7f3e48|The Mystery Of The Moon|53,99€|80|2024-06-06 16h|2024-06-20 15h|
+|#|the-mystery-of-the-moon-7f3e48|The Mystery Of The Moon|53,99€|80|2024-07-20 16h|2024-08-15 15h|
 |#|the-mystery-of-the-moon-7f3e48|The Mystery Of The Moon|53,99€|80|2024-09-29 16h|2024-10-15 15h|
+|#|the-mystery-of-the-moon-7f3e48|The Mystery Of The Moon|53,99€|80|2024-11-14 16h|2024-11-19 15h|
 |#|the-mystery-of-the-moon-7f3e48|The Mystery Of The Moon|53,99€|80|2024-12-19 16h|2025-01-04 16h|
 |#|the-plane-effect|The Plane Effect|14,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|the-red-exile-67804a|The Red Exile: Survival Horror|4,49€|25|2024-03-05 16h|2024-03-12 15h|
