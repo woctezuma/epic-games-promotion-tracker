@@ -5,7 +5,7 @@
 |#|super-meat-boy-forever|Super Meat Boy Forever|15,99€|100|2024-02-22 16h|2024-02-29 16h|
 |#|arcatronz-2bb3f2|Arcatron-Z|3,59€|50|2024-02-22 17h|2024-03-06 05h|
 |#|life-changer-64fc81|Life Changer|12,63€|22|2024-02-22 17h|2024-03-14 17h|
-|#|dying-light-2-stay-human|Dying Light 2 Stay Human|59,99€|50|2024-02-22 18h|2024-03-07 18h|
+|#|dying-light-2-stay-human|Dying Light 2 Stay Human - Reloaded Edition|59,99€|50|2024-02-22 18h|2024-03-07 18h|
 |#|inkulinati-b60b1c|Inkulinati|24,99€|40|2024-02-22 18h|2024-02-29 18h|
 |#|revenge-of-the-ronin-faff20|Revenge Of The Ronin|4,49€|25|2024-02-23 12h|2024-03-01 12h|
 |#|bridge-constructor-c3ef67|Bridge Constructor|9,99€|90|2024-02-23 16h|2024-03-03 16h|
@@ -717,6 +717,7 @@
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|60|2024-06-30 21h|2024-07-07 21h|
 |#|mallofmayhem-15344c|Mall of Mayhem|7,19€|30|2024-07-01 06h|2024-07-30 22h|
 |#|choochoo-charles-0eece5|Choo-Choo Charles|17,99€|60|2024-07-12 08h|2024-07-20 08h|
+|#|the-mystery-of-the-moon-7f3e48|The Mystery Of The Moon|53,99€|80|2024-07-20 16h|2024-08-15 15h|
 |#|skotos-455463|Skotos|8,99€|30|2024-08-01 06h|2024-08-30 06h|
 |#|forest-fire-b4bb7e|Forest Fire|5,39€|35|2024-08-01 07h|2024-08-14 07h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|65|2024-08-06 21h|2024-08-13 21h|
@@ -725,6 +726,7 @@
 |#|mallofmayhem-15344c|Mall of Mayhem|7,19€|30|2024-10-01 06h|2024-10-30 22h|
 |#|forest-fire-b4bb7e|Forest Fire|5,39€|35|2024-10-01 07h|2024-10-14 07h|
 |#|skotos-455463|Skotos|8,99€|30|2024-11-01 06h|2024-11-30 07h|
+|#|the-mystery-of-the-moon-7f3e48|The Mystery Of The Moon|53,99€|80|2024-11-14 16h|2024-11-19 15h|
 |#|boltbreak-c2bf02|BoltBreak|5,39€|30|2024-12-01 07h|2024-12-30 07h|
 |#|forest-fire-b4bb7e|Forest Fire|5,39€|35|2024-12-15 07h|2024-12-30 07h|
 |#|the-mystery-of-the-moon-7f3e48|The Mystery Of The Moon|53,99€|80|2024-12-19 16h|2025-01-04 16h|

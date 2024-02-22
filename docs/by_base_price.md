@@ -16,7 +16,7 @@
 |#|assassins-creed-odyssey|Assassins Creed Odyssey Standard Edition|59,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|disaster-report-4-summer-memories|Disaster Report 4: Summer Memories|59,99€|67|2024-03-14 15h|2024-03-28 15h|
 |#|disgaea-6-complete|Disgaea 6 Complete|59,99€|35|2024-03-14 15h|2024-03-28 15h|
-|#|dying-light-2-stay-human|Dying Light 2 Stay Human|59,99€|50|2024-02-22 18h|2024-03-07 18h|
+|#|dying-light-2-stay-human|Dying Light 2 Stay Human - Reloaded Edition|59,99€|50|2024-02-22 18h|2024-03-07 18h|
 |#|far-cry-5|Far Cry 5 Standard Edition|59,99€|85|2024-03-14 15h|2024-03-28 15h|
 |#|far-cry-6|Far Cry 6 Standard Edition|59,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|ghost-recon-breakpoint|Ghost Recon Breakpoint Standard Edition|59,99€|80|2024-03-14 15h|2024-03-28 15h|
@@ -38,7 +38,9 @@
 |#|ys-ix-monstrum-nox|Ys IX: Monstrum Nox|59,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|the-mystery-of-the-moon-7f3e48|The Mystery Of The Moon|53,99€|80|2024-03-27 16h|2024-04-06 15h|
 |#|the-mystery-of-the-moon-7f3e48|The Mystery Of The Moon|53,99€|80|2024-06-06 16h|2024-06-20 15h|
+|#|the-mystery-of-the-moon-7f3e48|The Mystery Of The Moon|53,99€|80|2024-07-20 16h|2024-08-15 15h|
 |#|the-mystery-of-the-moon-7f3e48|The Mystery Of The Moon|53,99€|80|2024-09-29 16h|2024-10-15 15h|
+|#|the-mystery-of-the-moon-7f3e48|The Mystery Of The Moon|53,99€|80|2024-11-14 16h|2024-11-19 15h|
 |#|the-mystery-of-the-moon-7f3e48|The Mystery Of The Moon|53,99€|80|2024-12-19 16h|2025-01-04 16h|
 |#|a-total-war-saga-troy|A Total War Saga: TROY|49,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|age-of-wonders-4|Age of Wonders 4|49,99€|30|2024-02-27 18h|2024-03-04 11h|
