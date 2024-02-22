@@ -873,6 +873,15 @@
     "title": "BoltBreak"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "botanicula-50043d",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Botanicula"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -1015,6 +1024,15 @@
     "slug": "busway-islands-puzzle-91287d",
     "startDate": "2024-02-27T16:00:00.000Z",
     "title": "Busway Islands - Puzzle"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "chuchel-203808",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "CHUCHEL"
   },
   {
     "discountPercentage": 45,
@@ -4068,6 +4086,15 @@
     "title": "Pathfinder: Wrath of the Righteous - Enhanced Edition"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 699,
+    "slug": "pilgrims-6d250f",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Pilgrims"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-03-26T15:00:00.000Z",
     "isFree": false,
@@ -4615,6 +4642,24 @@
     "slug": "sakura-day-mahjong-007b44",
     "startDate": "2024-03-26T15:00:00.000Z",
     "title": "Sakura Day Mahjong"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 499,
+    "slug": "samorost-2-1b9bb1",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Samorost 2"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "samorost-3-0c4489",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Samorost 3"
   },
   {
     "discountPercentage": 40,
