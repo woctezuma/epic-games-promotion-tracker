@@ -687,21 +687,36 @@
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|75|2024-04-19 22h|2024-05-04 22h|
 |#|space-war-infinity-024a8f|SPACE WAR - INFINITY|1,79€|50|2024-03-12 15h|2024-03-19 15h|
 |#|obelixes-tower-defense-0efb67|Secret Agent 001|1,79€|85|2024-02-29 23h|2024-03-14 23h|
+|#|tofas-sahin-online-car-driving-4bb680|Tofas Sahin Online Car Driving|1,79€|40|2024-03-16 17h|2024-03-30 17h|
 |#|two-skateboards-driving-simulator-c0ea1f|Two Skateboards Driving Simulator|1,79€|85|2024-02-29 23h|2024-03-14 23h|
 |#|he-will-shoot-46efff|He Will Shoot|1,59€|75|2024-03-11 22h|2024-03-23 22h|
 |#|it-follows-you-b11f3e|It follows you|1,59€|75|2024-02-29 22h|2024-03-14 22h|
+|#|3d-chess-online-615201|3D Chess Online|0,89€|40|2024-03-01 17h|2024-03-15 17h|
 |#|anonymous-hunting-simulator-5eac14|ANONYMOUS HUNTING SIMULATOR|0,89€|50|2024-03-21 22h|2024-04-07 22h|
+|#|atv-offroad-simulator-24-d9f4ad|ATV Offroad Simulator 24|0,89€|40|2024-03-16 17h|2024-03-30 17h|
 |#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2024-04-05 22h|2024-04-25 22h|
 |#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2024-05-27 22h|2024-06-13 22h|
 |#|backrooms-eight-levels-c7ea4c|Backrooms: Eight Levels|0,89€|50|2024-04-01 22h|2024-04-15 22h|
 |#|birch-simulator-21969e|Birch Simulator|0,89€|50|2024-03-17 22h|2024-04-03 22h|
 |#|birch-simulator-21969e|Birch Simulator|0,89€|50|2024-05-04 22h|2024-05-19 22h|
 |#|birch-simulator-21969e|Birch Simulator|0,89€|50|2024-06-21 22h|2024-07-07 22h|
+|#|bus-simulator-car-driving-40dbef|Bus Simulator Car Driving|0,89€|40|2024-03-01 17h|2024-03-15 17h|
 |#|car-mechanic-city-driving-4996c5|Car Mechanic - City Driving|0,89€|50|2024-04-09 22h|2024-04-24 22h|
+|#|car-parking-real-driving-sim-ba7eed|Car Parking Real Driving Sim|0,89€|40|2024-03-16 17h|2024-03-30 17h|
+|#|cargo-truck-simulator-2023-ff83fb|Cargo Truck Simulator 2023|0,89€|40|2024-03-01 17h|2024-03-15 17h|
+|#|city-ambulance-car-driving-1d3872|City Ambulance Car Driving|0,89€|40|2024-03-01 17h|2024-03-15 17h|
+|#|classic-car-drive-simulator-a540a9|Classic Car Simulator Car Driving|0,89€|40|2024-03-16 17h|2024-03-30 17h|
+|#|e30-drift-car-simulator-2d2977|E30 Drift Car Simulator|0,89€|40|2024-03-01 17h|2024-03-15 17h|
+|#|extreme-car-drift-simulator-cbd3c8|Extreme Car Drift Simulator|0,89€|40|2024-03-01 17h|2024-03-15 17h|
+|#|forest-offroad-driving-simulator-e8f5c1|Forest Offroad Driving Simulator|0,89€|40|2024-03-16 17h|2024-03-30 17h|
+|#|gangster-city-mafia-car-driving-88434c|Gangster City Mafia Car Driving|0,89€|40|2024-03-01 17h|2024-03-15 17h|
 |#|hidden-shapes-lovely-cats-6bfb39|Hidden Shapes Lovely Cats|0,89€|15|2024-03-07 17h|2024-03-14 17h|
 |#|in-the-gym-db2771|In The Gym|0,89€|50|2024-02-27 22h|2024-03-13 22h|
 |#|nextbots-in-the-backrooms-b5677b|Nextbots In The Backrooms|0,89€|50|2024-04-07 22h|2024-04-23 22h|
+|#|offroad-jeep-4x4-car-driving-simulator-2a3e3d|Offroad Jeep 4x4 Car Driving Simulator|0,89€|40|2024-03-01 17h|2024-03-15 17h|
+|#|rod-multiplayer-car-driving-8b748d|ROD Multiplayer Car Driving|0,89€|40|2024-03-16 17h|2024-03-30 17h|
 |#|serbian-dancing-lady-94e658|Serbian Dancing Lady|0,89€|50|2024-03-23 22h|2024-04-05 22h|
+|#|suv-4x4-car-parking-simulator-5d6c9e|Suv 4x4 Car Parking Simulator|0,89€|40|2024-03-16 17h|2024-03-30 17h|
 |#|trex-dinosaur-game-d30355|T-Rex Dinosaur Game|0,89€|50|2024-04-07 22h|2024-04-23 22h|
 |#|the-meme-hunter-bf7086|THE MEME HUNTER|0,89€|50|2024-04-01 22h|2024-04-15 22h|
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2024-02-25 22h|2024-03-15 22h|

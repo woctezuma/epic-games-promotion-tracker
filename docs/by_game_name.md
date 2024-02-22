@@ -9,11 +9,13 @@
 |#|1001-jigsaw-world-tour-great-america-61afca|1001 Jigsaw. World Tour: Great America|4,49€|30|2024-03-14 15h|2024-03-28 15h|
 |#|1001-jigsaw-world-tour-london-06dba1|1001 Jigsaw. World Tour: London|4,49€|50|2024-03-14 15h|2024-03-28 15h|
 |#|1428-shadows-over-silesia-266e5f|1428: Shadows over Silesia|19,99€|55|2024-03-13 18h|2024-03-31 17h|
+|#|3d-chess-online-615201|3D Chess Online|0,89€|40|2024-03-01 17h|2024-03-15 17h|
 |#|7-billion-humans|7 Billion Humans|11,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|9-years-of-shadows-a40c92|9 Years of Shadows|19,99€|30|2024-03-01 16h|2024-03-09 16h|
 |#|a-jugglers-tale|A Juggler's Tale|14,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|a-total-war-saga-troy|A Total War Saga: TROY|49,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|anonymous-hunting-simulator-5eac14|ANONYMOUS HUNTING SIMULATOR|0,89€|50|2024-03-21 22h|2024-04-07 22h|
+|#|atv-offroad-simulator-24-d9f4ad|ATV Offroad Simulator 24|0,89€|40|2024-03-16 17h|2024-03-30 17h|
 |#|above-and-beyond-bundle|Above and Beyond Bundle|29,99€|34|2024-02-27 16h|2024-03-05 16h|
 |#|adventures-of-chris-64c13b|Adventures of Chris|11,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|aegis-descent-a1f5a0|Aegis Descent|15,99€|50|2024-03-14 15h|2024-03-28 15h|
@@ -108,12 +110,15 @@
 |#|bud-spencer-and-terence-hill-slaps-and-beans-2-faab3a|Bud Spencer and Terence Hill - Slaps and Beans 2|19,99€|15|2024-03-26 15h|2024-04-02 15h|
 |#|bugsnax|Bugsnax|19,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|bus-driver-simulator-186e62|Bus Driver Simulator|17,99€|80|2024-03-14 15h|2024-03-28 15h|
+|#|bus-simulator-car-driving-40dbef|Bus Simulator Car Driving|0,89€|40|2024-03-01 17h|2024-03-15 17h|
 |#|bus-world-5de29e|Bus World|17,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|busway-islands-puzzle-91287d|Busway Islands - Puzzle|2,69€|50|2024-02-27 16h|2024-03-05 16h|
 |#|cafe-owner-simulator-749e0f|Cafe Owner Simulator|17,09€|45|2024-03-14 15h|2024-03-28 15h|
 |#|camp-canyonwood-dd54ff|Camp Canyonwood|17,99€|33|2024-02-26 15h|2024-03-04 15h|
 |#|car-mechanic-city-driving-4996c5|Car Mechanic - City Driving|0,89€|50|2024-04-09 22h|2024-04-24 22h|
+|#|car-parking-real-driving-sim-ba7eed|Car Parking Real Driving Sim|0,89€|40|2024-03-16 17h|2024-03-30 17h|
 |#|car-tuning-simulator-38ddaf|Car Tuning Simulator|0,79€|50|2024-04-01 22h|2024-04-15 22h|
+|#|cargo-truck-simulator-2023-ff83fb|Cargo Truck Simulator 2023|0,89€|40|2024-03-01 17h|2024-03-15 17h|
 |#|cat-cafe-manager-68bd0d|Cat Cafe Manager|19,99€|40|2024-03-01 16h|2024-03-09 16h|
 |#|cat-slide-tiles-93b9d4|Cat Slide Tiles|1,79€|40|2024-03-15 17h|2024-03-22 17h|
 |#|caverns-of-mars-recharged-6686f6|Caverns of Mars Recharged|8,99€|50|2024-03-14 15h|2024-03-28 15h|
@@ -130,8 +135,10 @@
 |#|christmas-mahjong-50bcc6|Christmas Mahjong|4,49€|50|2024-02-27 16h|2024-03-05 16h|
 |#|christmas-mahjong-2-27e98b|Christmas Mahjong 2|4,49€|50|2024-03-05 16h|2024-03-12 15h|
 |#|chromagun|ChromaGun|12,99€|55|2024-03-14 15h|2024-03-28 15h|
+|#|city-ambulance-car-driving-1d3872|City Ambulance Car Driving|0,89€|40|2024-03-01 17h|2024-03-15 17h|
 |#|city-gridlock-7bff10|City Gridlock|4,49€|30|2024-03-12 15h|2024-03-19 15h|
 |#|city-of-beats-08f8c2|City of Beats|19,99€|50|2024-03-01 16h|2024-03-09 16h|
+|#|classic-car-drive-simulator-a540a9|Classic Car Simulator Car Driving|0,89€|40|2024-03-16 17h|2024-03-30 17h|
 |#|clid-the-snail|Clid The Snail|19,99€|85|2024-03-14 15h|2024-03-28 15h|
 |#|clouzy-c67f4b|Clouzy|11,99€|67|2024-03-01 16h|2024-03-09 16h|
 |#|cookie-cutter-d25fbc|Cookie Cutter|17,99€|30|2024-03-14 15h|2024-03-28 15h|
@@ -185,6 +192,7 @@
 |#|dying-light-2-stay-human|Dying Light 2 Stay Human|59,99€|50|2024-02-22 18h|2024-03-07 18h|
 |#|dying-light|Dying Light Enhanced Edition|29,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|dynopunk-2035f5|Dynopunk|14,79€|50|2024-03-14 15h|2024-03-28 15h|
+|#|e30-drift-car-simulator-2d2977|E30 Drift Car Simulator|0,89€|40|2024-03-01 17h|2024-03-15 17h|
 |#|elegies-aya-17c3f1|ELEGIES Aya|16,19€|30|2024-03-14 15h|2024-03-28 15h|
 |#|eden-island-8cd344|Eden Island|8,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|effie-f06e3c|Effie|16,79€|75|2024-03-14 15h|2024-03-28 15h|
@@ -199,6 +207,7 @@
 |#|evalinathe-sorceress-a9a60a|Evalina The Sorceress|1,79€|90|2024-02-27 16h|2024-03-05 16h|
 |#|everlasting-guilt-213534|Everlasting Guilt|8,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|extreme-bike-racing-e00c81|Extreme Bike Racing|8,99€|80|2024-03-05 16h|2024-03-12 15h|
+|#|extreme-car-drift-simulator-cbd3c8|Extreme Car Drift Simulator|0,89€|40|2024-03-01 17h|2024-03-15 17h|
 |#|extreme-formula-championship-a8271d|Extreme Formula Championship|7,19€|80|2024-03-05 16h|2024-03-12 15h|
 |#|extreme-offroad-racing-439263|Extreme Offroad Racing|8,99€|80|2024-03-05 16h|2024-03-12 15h|
 |#|far-cry-4|FAR CRY 4|29,99€|80|2024-03-14 15h|2024-03-28 15h|
@@ -237,6 +246,7 @@
 |#|forest-fire-b4bb7e|Forest Fire|5,39€|35|2024-08-01 07h|2024-08-14 07h|
 |#|forest-fire-b4bb7e|Forest Fire|5,39€|35|2024-10-01 07h|2024-10-14 07h|
 |#|forest-fire-b4bb7e|Forest Fire|5,39€|35|2024-12-15 07h|2024-12-30 07h|
+|#|forest-offroad-driving-simulator-e8f5c1|Forest Offroad Driving Simulator|0,89€|40|2024-03-16 17h|2024-03-30 17h|
 |#|forspoken|Forspoken|79,99€|60|2024-03-21 15h|2024-04-04 15h|
 |#|from-dust|From Dust|9,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|frontier-hunter-erzas-wheel-of-fortune|Frontier Hunter: Erza's Wheel of Fortune|15,99€|25|2024-03-14 08h|2024-03-29 08h|
@@ -248,6 +258,7 @@
 |#|game-dev-masters-f5d8f9|Game Dev Masters|13,49€|50|2024-03-05 16h|2024-03-12 15h|
 |#|game-dev-masters-f5d8f9|Game Dev Masters|13,49€|50|2024-04-11 15h|2024-04-25 15h|
 |#|gamedec|Gamedec - Definitive Edition|29,99€|60|2024-03-14 15h|2024-03-28 15h|
+|#|gangster-city-mafia-car-driving-88434c|Gangster City Mafia Car Driving|0,89€|40|2024-03-01 17h|2024-03-15 17h|
 |#|garden-city-c73d37|Garden City|4,49€|30|2024-03-26 15h|2024-04-02 15h|
 |#|gardenia-630482|Gardenia|8,99€|10|2024-03-05 23h|2024-03-19 23h|
 |#|gems-of-the-aztecs-c88b67|Gems of the Aztecs|4,49€|60|2024-03-19 15h|2024-03-26 15h|
@@ -419,6 +430,7 @@
 |#|no-straight-roads|No Straight Roads|24,99€|66|2024-04-11 15h|2024-04-25 15h|
 |#|number-one-fighter-26f88c|Number One Fighter|4,49€|50|2024-02-22 15h|2024-02-29 15h|
 |#|outriders|OUTRIDERS|19,99€|50|2024-03-21 15h|2024-04-04 15h|
+|#|offroad-jeep-4x4-car-driving-simulator-2a3e3d|Offroad Jeep 4x4 Car Driving Simulator|0,89€|40|2024-03-01 17h|2024-03-15 17h|
 |#|oirbo-c063b7|Oirbo|13,49€|22|2024-03-14 15h|2024-03-28 15h|
 |#|one-lonely-outpost-12afa6|One Lonely Outpost|19,99€|20|2024-03-01 16h|2024-03-09 16h|
 |#|one-more-island-0014e2|One More Island|17,99€|55|2024-03-01 16h|2024-03-09 16h|
@@ -463,6 +475,7 @@
 |#|rayman-legends|RAYMAN® LEGENDS|19,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|rez-plz-324485|REZ PLZ|11,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|ride-5|RIDE 5|59,99€|50|2024-03-14 15h|2024-03-28 15h|
+|#|rod-multiplayer-car-driving-8b748d|ROD Multiplayer Car Driving|0,89€|40|2024-03-16 17h|2024-03-30 17h|
 |#|rainbow-billy-the-curse-of-the-leviathan|Rainbow Billy: The Curse of the Leviathan|17,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|rainbow-pixel-color-by-number-462613|Rainbow Pixel - Color by Number|4,49€|30|2024-03-05 16h|2024-03-12 15h|
 |#|rayman-origins|Rayman Origins|9,99€|70|2024-03-14 15h|2024-03-28 15h|
@@ -554,6 +567,7 @@
 |#|super-kids-racing-mini-edition-65c0fa|Super Kids Racing - Mini Edition|8,99€|80|2024-03-05 16h|2024-03-12 15h|
 |#|super-meat-boy-forever|Super Meat Boy Forever|15,99€|100|2024-02-22 16h|2024-02-29 16h|
 |#|super-mega-zero-485299|Super Mega Zero|7,99€|75|2024-03-14 15h|2024-03-28 15h|
+|#|suv-4x4-car-parking-simulator-5d6c9e|Suv 4x4 Car Parking Simulator|0,89€|40|2024-03-16 17h|2024-03-30 17h|
 |#|swordship-b6c7f4|Swordship|19,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|sylvio-and-the-mountains-giants-e336bb|Sylvio And The Mountains Giants|2,69€|95|2024-03-14 15h|2024-03-28 15h|
 |#|symphony-of-war-60a76e|Symphony of War|19,99€|40|2024-03-01 16h|2024-03-09 16h|
@@ -640,6 +654,7 @@
 |#|time-loader|Time Loader|12,49€|80|2024-03-14 15h|2024-03-28 15h|
 |#|tiny-thor-76de1f|Tiny Thor|19,99€|35|2024-02-27 16h|2024-03-05 16h|
 |#|to-the-rescue-a6c254|To The Rescue|15,99€|75|2024-03-01 16h|2024-03-09 16h|
+|#|tofas-sahin-online-car-driving-4bb680|Tofas Sahin Online Car Driving|1,79€|40|2024-03-16 17h|2024-03-30 17h|
 |#|togges-17f696|Togges|19,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|ghost-recon|Tom Clancy's Ghost Recon|9,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|ghost-recon-wildlands|Tom Clancy's Ghost Recon Wildlands Standard Edition|49,99€|80|2024-03-14 15h|2024-03-28 15h|
