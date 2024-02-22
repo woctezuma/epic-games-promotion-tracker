@@ -97,6 +97,7 @@
 |#|boltbreak-c2bf02|BoltBreak|5,39€|18|2024-06-01 06h|2024-06-30 22h|
 |#|boltbreak-c2bf02|BoltBreak|5,39€|17|2024-09-01 06h|2024-09-30 22h|
 |#|boltbreak-c2bf02|BoltBreak|5,39€|30|2024-12-01 07h|2024-12-30 07h|
+|#|botanicula-50043d|Botanicula|14,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|bratz-flaunt-your-fashion-95d529|Bratz™: Flaunt Your Fashion|29,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|breakout-recharged|Breakout: Recharged|8,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|bridge-constructor-c3ef67|Bridge Constructor|9,99€|90|2024-02-23 16h|2024-03-03 16h|
@@ -113,6 +114,7 @@
 |#|bus-simulator-car-driving-40dbef|Bus Simulator Car Driving|0,89€|40|2024-03-01 17h|2024-03-15 17h|
 |#|bus-world-5de29e|Bus World|17,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|busway-islands-puzzle-91287d|Busway Islands - Puzzle|2,69€|50|2024-02-27 16h|2024-03-05 16h|
+|#|chuchel-203808|CHUCHEL|9,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|cafe-owner-simulator-749e0f|Cafe Owner Simulator|17,09€|45|2024-03-14 15h|2024-03-28 15h|
 |#|camp-canyonwood-dd54ff|Camp Canyonwood|17,99€|33|2024-02-26 15h|2024-03-04 15h|
 |#|car-mechanic-city-driving-4996c5|Car Mechanic - City Driving|0,89€|50|2024-04-09 22h|2024-04-24 22h|
@@ -452,6 +454,7 @@
 |#|paper-cut-mansion-2c67e2|Paper Cut Mansion|19,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|pathfinder-kingmaker|Pathfinder: Kingmaker - Enhanced Plus Edition|19,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|pathfinder-wrath-of-the-righteous|Pathfinder: Wrath of the Righteous - Enhanced Edition|39,99€|70|2024-03-14 15h|2024-03-28 15h|
+|#|pilgrims-6d250f|Pilgrims|6,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|pirate-mosaic-puzzle-caribbean-treasures-86cb74|Pirate Mosaic Puzzle. Caribbean Treasures|4,49€|50|2024-03-19 15h|2024-03-26 15h|
 |#|planet-of-lana-a9febe|Planet of Lana|19,99€|30|2024-03-14 15h|2024-03-28 15h|
 |#|poker-club-6e18ee|Poker Club|19,99€|45|2024-03-14 15h|2024-03-28 15h|
@@ -513,6 +516,8 @@
 |#|saints-row-the-third-remastered|Saints Row®: The Third™ Remastered|29,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|sakura-day-2-mahjong-9d664b|Sakura Day 2 Mahjong|4,49€|30|2024-03-12 15h|2024-03-19 15h|
 |#|sakura-day-mahjong-007b44|Sakura Day Mahjong|4,49€|50|2024-03-26 15h|2024-04-02 15h|
+|#|samorost-2-1b9bb1|Samorost 2|4,99€|70|2024-03-14 15h|2024-03-28 15h|
+|#|samorost-3-0c4489|Samorost 3|19,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|sands-of-aura|Sands of Aura|21,99€|40|2024-03-01 16h|2024-03-09 16h|
 |#|satisfactory|Satisfactory|29,99€|45|2024-03-14 15h|2024-03-28 15h|
 |#|saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited|Saviors of Sapphire Wings & Strangers of Sword City Revisited|49,99€|60|2024-03-14 15h|2024-03-28 15h|
