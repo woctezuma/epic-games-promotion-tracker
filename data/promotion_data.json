@@ -81,6 +81,15 @@
     "title": "1428: Shadows over Silesia"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-03-15T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "3d-chess-online-615201",
+    "startDate": "2024-03-01T17:00:00.000Z",
+    "title": "3D Chess Online"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -124,6 +133,15 @@
     "slug": "anonymous-hunting-simulator-5eac14",
     "startDate": "2024-03-21T22:00:00.000Z",
     "title": "ANONYMOUS HUNTING SIMULATOR"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-03-30T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "atv-offroad-simulator-24-d9f4ad",
+    "startDate": "2024-03-16T17:00:00.000Z",
+    "title": "ATV Offroad Simulator 24"
   },
   {
     "discountPercentage": 34,
@@ -972,6 +990,15 @@
     "title": "Bus Driver Simulator"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-03-15T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "bus-simulator-car-driving-40dbef",
+    "startDate": "2024-03-01T17:00:00.000Z",
+    "title": "Bus Simulator Car Driving"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -1017,6 +1044,15 @@
     "title": "Car Mechanic - City Driving"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-03-30T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "car-parking-real-driving-sim-ba7eed",
+    "startDate": "2024-03-16T17:00:00.000Z",
+    "title": "Car Parking Real Driving Sim"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-04-15T22:00:00.000Z",
     "isFree": false,
@@ -1024,6 +1060,15 @@
     "slug": "car-tuning-simulator-38ddaf",
     "startDate": "2024-04-01T22:00:00.000Z",
     "title": "Car Tuning Simulator"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-03-15T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "cargo-truck-simulator-2023-ff83fb",
+    "startDate": "2024-03-01T17:00:00.000Z",
+    "title": "Cargo Truck Simulator 2023"
   },
   {
     "discountPercentage": 40,
@@ -1170,6 +1215,15 @@
     "title": "ChromaGun"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-03-15T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "city-ambulance-car-driving-1d3872",
+    "startDate": "2024-03-01T17:00:00.000Z",
+    "title": "City Ambulance Car Driving"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2024-03-19T15:00:00.000Z",
     "isFree": false,
@@ -1186,6 +1240,15 @@
     "slug": "city-of-beats-08f8c2",
     "startDate": "2024-03-01T16:00:00.000Z",
     "title": "City of Beats"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-03-30T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "classic-car-drive-simulator-a540a9",
+    "startDate": "2024-03-16T17:00:00.000Z",
+    "title": "Classic Car Simulator Car Driving"
   },
   {
     "discountPercentage": 85,
@@ -1665,6 +1728,15 @@
     "title": "Dynopunk"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-03-15T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "e30-drift-car-simulator-2d2977",
+    "startDate": "2024-03-01T17:00:00.000Z",
+    "title": "E30 Drift Car Simulator"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -1789,6 +1861,15 @@
     "slug": "extreme-bike-racing-e00c81",
     "startDate": "2024-03-05T16:00:00.000Z",
     "title": "Extreme Bike Racing"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-03-15T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "extreme-car-drift-simulator-cbd3c8",
+    "startDate": "2024-03-01T17:00:00.000Z",
+    "title": "Extreme Car Drift Simulator"
   },
   {
     "discountPercentage": 80,
@@ -2133,6 +2214,15 @@
     "title": "Forest Fire"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-03-30T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "forest-offroad-driving-simulator-e8f5c1",
+    "startDate": "2024-03-16T17:00:00.000Z",
+    "title": "Forest Offroad Driving Simulator"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2024-04-04T15:00:00.000Z",
     "isFree": false,
@@ -2230,6 +2320,15 @@
     "slug": "gamedec",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Gamedec - Definitive Edition"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-03-15T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "gangster-city-mafia-car-driving-88434c",
+    "startDate": "2024-03-01T17:00:00.000Z",
+    "title": "Gangster City Mafia Car Driving"
   },
   {
     "discountPercentage": 30,
@@ -3771,6 +3870,15 @@
     "title": "OUTRIDERS"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-03-15T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "offroad-jeep-4x4-car-driving-simulator-2a3e3d",
+    "startDate": "2024-03-01T17:00:00.000Z",
+    "title": "Offroad Jeep 4x4 Car Driving Simulator"
+  },
+  {
     "discountPercentage": 22,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -4165,6 +4273,15 @@
     "slug": "ride-5",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "RIDE 5"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-03-30T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "rod-multiplayer-car-driving-8b748d",
+    "startDate": "2024-03-16T17:00:00.000Z",
+    "title": "ROD Multiplayer Car Driving"
   },
   {
     "discountPercentage": 50,
@@ -4986,6 +5103,15 @@
     "title": "Super Mega Zero"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-03-30T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "suv-4x4-car-parking-simulator-5d6c9e",
+    "startDate": "2024-03-16T17:00:00.000Z",
+    "title": "Suv 4x4 Car Parking Simulator"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -5758,6 +5884,15 @@
     "slug": "to-the-rescue-a6c254",
     "startDate": "2024-03-01T16:00:00.000Z",
     "title": "To The Rescue"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-03-30T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "tofas-sahin-online-car-driving-4bb680",
+    "startDate": "2024-03-16T17:00:00.000Z",
+    "title": "Tofas Sahin Online Car Driving"
   },
   {
     "discountPercentage": 50,
