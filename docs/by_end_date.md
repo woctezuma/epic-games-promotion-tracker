@@ -97,7 +97,7 @@
 |#|voltaire-e1c517|Voltaire: The Vegan Vampire|19,99€|35|2024-03-01 16h|2024-03-09 16h|
 |#|world-turtles-b2139d|World Turtles|19,99€|30|2024-03-01 16h|2024-03-09 16h|
 |#|fix-me-up-doc-dark-humor-9ebac0|Fix Me Up Doc - Dark Humor|2,69€|90|2024-02-24 23h|2024-03-09 23h|
-|#|e449b4f00e884dc5974492823d7d634a|I Need Spirit Drink and Drive Simulator|1,79€|85|2024-02-24 23h|2024-03-09 23h|
+|#|need-for-spirit-drink-and-drive-simulator-db9660|I Need Spirit Drink and Drive Simulator|1,79€|85|2024-02-24 23h|2024-03-09 23h|
 |#|project-first-contact-ff7fdc|Project First Contact|2,69€|90|2024-02-24 23h|2024-03-09 23h|
 |#|blasphemous|Blasphemous|24,99€|75|2024-02-26 16h|2024-03-11 16h|
 |#|overcooked|Overcooked|15,99€|80|2024-02-26 16h|2024-03-11 16h|

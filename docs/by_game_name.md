@@ -292,7 +292,7 @@
 |#|human-resource-machine|Human Resource Machine|11,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|hundred-days-winemaking-simulator|Hundred Days - Winemaking Simulator|19,99€|66|2024-04-11 15h|2024-04-25 15h|
 |#|huntdown|Huntdown|19,50€|80|2024-03-14 15h|2024-03-28 15h|
-|#|e449b4f00e884dc5974492823d7d634a|I Need Spirit Drink and Drive Simulator|1,79€|85|2024-02-24 23h|2024-03-09 23h|
+|#|need-for-spirit-drink-and-drive-simulator-db9660|I Need Spirit Drink and Drive Simulator|1,79€|85|2024-02-24 23h|2024-03-09 23h|
 |#|need-for-spirit-offroad-edition-7eee16|I Need Spirit! Off-Road Edition|2,69€|90|2024-03-09 23h|2024-03-23 23h|
 |#|im-in-love-with-your-dead-grandmother-15e7d4|I'm in Love With Your Dead Grandmother|4,49€|50|2024-03-14 15h|2024-03-28 15h|
 |#|inside|INSIDE|19,99€|75|2024-03-14 15h|2024-03-28 15h|
