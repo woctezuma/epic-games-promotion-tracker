@@ -108,6 +108,15 @@
     "title": "9 Years of Shadows"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2450,
+    "slug": "a-heros-rest-67f117",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "A Hero's Rest: An RPG Town Simulator"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -313,6 +322,15 @@
     "slug": "anuchard-08179d",
     "startDate": "2024-03-01T16:00:00.000Z",
     "title": "Anuchard"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "aquatico-b4f0ce",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Aquatico"
   },
   {
     "discountPercentage": 20,
@@ -1512,6 +1530,15 @@
     "title": "Dead Cells"
   },
   {
+    "discountPercentage": 45,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "dead-island-2",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Dead Island 2"
+  },
+  {
     "discountPercentage": 65,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -2349,6 +2376,24 @@
     "title": "Gardenia"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "gas-station-simulator-ee93c7",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Gas Station Simulator"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2024-05-13T19:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "gas-station-simulator-ee93c7",
+    "startDate": "2024-04-29T19:00:00.000Z",
+    "title": "Gas Station Simulator"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2024-03-26T15:00:00.000Z",
     "isFree": false,
@@ -2689,6 +2734,15 @@
     "slug": "horse-racing-4192a0",
     "startDate": "2024-03-05T16:00:00.000Z",
     "title": "Horse Racing"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "house-party-ae8b27",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "House Party"
   },
   {
     "discountPercentage": 35,
@@ -4059,6 +4113,15 @@
     "title": "Pathfinder: Wrath of the Righteous - Enhanced Edition"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-03-26T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "patron-4ab1c1",
+    "startDate": "2024-03-19T15:00:00.000Z",
+    "title": "Patron"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -5103,15 +5166,6 @@
     "title": "Super Kids Racing - Mini Edition"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2024-02-29T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 1599,
-    "slug": "super-meat-boy-forever",
-    "startDate": "2024-02-22T16:00:00.000Z",
-    "title": "Super Meat Boy Forever"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -5895,7 +5949,7 @@
     "title": "The Wolf Among Us"
   },
   {
-    "discountPercentage": 60,
+    "discountPercentage": 70,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 3599,
