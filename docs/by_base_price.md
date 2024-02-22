@@ -79,12 +79,10 @@
 |#|sifu|Sifu|39,99€|50|2024-02-27 16h|2024-03-05 16h|
 |#|sifu|Sifu|39,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|system-shock|System Shock|39,99€|50|2024-03-14 15h|2024-03-28 15h|
-|#|terra-invicta-5bbf09|Terra Invicta|39,99€|30|2024-03-05 16h|2024-03-12 15h|
 |#|the-legend-of-heroes-trails-from-zero|The Legend of Heroes: Trails from Zero|39,99€|25|2024-03-14 15h|2024-03-28 15h|
 |#|the-legend-of-heroes-trails-to-azure|The Legend of Heroes: Trails to Azure|39,99€|20|2024-03-14 15h|2024-03-28 15h|
 |#|the-legend-of-nayuta-boundless-trails|The Legend of Nayuta: Boundless Trails|39,99€|20|2024-03-14 15h|2024-03-28 15h|
 |#|rainbow-six-extraction|Tom Clancy's Rainbow Six Extraction|39,99€|75|2024-03-14 15h|2024-03-28 15h|
-|#|xenonauts-2-42a236|Xenonauts 2|39,99€|30|2024-03-05 16h|2024-03-12 15h|
 |#|maneater|Maneater|36,99€|65|2024-03-14 15h|2024-03-28 15h|
 |#|chivalry-2|Chivalry 2|35,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|high-on-life-3a855b|High On Life|35,99€|25|2024-03-14 15h|2024-03-28 15h|
@@ -188,7 +186,6 @@
 |#|airborne-kingdom|Airborne Kingdom|20,99€|50|2024-03-01 16h|2024-03-09 16h|
 |#|1428-shadows-over-silesia-266e5f|1428: Shadows over Silesia|19,99€|55|2024-03-13 18h|2024-03-31 17h|
 |#|9-years-of-shadows-a40c92|9 Years of Shadows|19,99€|30|2024-03-01 16h|2024-03-09 16h|
-|#|against-the-storm|Against the Storm|19,99€|35|2024-03-05 16h|2024-03-12 15h|
 |#|arcrunner-61fee6|ArcRunner|19,99€|20|2024-03-14 15h|2024-03-28 15h|
 |#|arto-ff98ff|Arto|19,99€|50|2024-03-01 16h|2024-03-09 16h|
 |#|assassins-creed-rogue|Assassin's Creed Rogue Standard Edition|19,99€|70|2024-03-14 15h|2024-03-28 15h|
@@ -626,7 +623,6 @@
 |#|mystery-solitaire-grimms-tales-244e2a|Mystery Solitaire. Grimm's Tales|4,49€|50|2024-03-05 16h|2024-03-12 15h|
 |#|mystery-solitaire-grimms-tales-2-e1e538|Mystery Solitaire. Grimm's Tales 2|4,49€|50|2024-02-27 16h|2024-03-05 16h|
 |#|mystery-solitaire-the-black-raven-65336d|Mystery Solitaire. The Black Raven|4,49€|50|2024-03-19 15h|2024-03-26 15h|
-|#|number-one-fighter-26f88c|Number One Fighter|4,49€|50|2024-02-22 15h|2024-02-29 15h|
 |#|otok-6c2478|Otok|4,49€|40|2024-03-14 15h|2024-03-28 15h|
 |#|overtop-ed5e49|Overtop|4,49€|90|2024-02-24 22h|2024-03-14 22h|
 |#|overtop-ed5e49|Overtop|4,49€|90|2024-04-15 22h|2024-05-03 22h|
@@ -689,7 +685,6 @@
 |#|cat-slide-tiles-93b9d4|Cat Slide Tiles|1,79€|40|2024-03-15 17h|2024-03-22 17h|
 |#|evalinathe-sorceress-a9a60a|Evalina The Sorceress|1,79€|90|2024-02-27 16h|2024-03-05 16h|
 |#|the-last-hope-atomic-bomb-crypto-war-d307f6|Find the Oil Racing Edition|1,79€|95|2024-03-09 23h|2024-03-23 23h|
-|#|galacticdefender-0d9f3d|Galactic Defender|1,79€|50|2024-02-22 15h|2024-02-29 15h|
 |#|geometric-sniper-82e0e0|Geometric Sniper|1,79€|30|2024-03-14 15h|2024-03-28 15h|
 |#|need-for-spirit-drink-and-drive-simulator-db9660|I Need Spirit Drink and Drive Simulator|1,79€|85|2024-02-24 23h|2024-03-09 23h|
 |#|island-cities-0a3026|Island Cities|1,79€|30|2024-03-05 16h|2024-03-12 15h|
