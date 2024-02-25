@@ -1314,6 +1314,15 @@
     "title": "Corrupt - Political Simulator"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2024-03-12T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "county-hospital-aa8e79",
+    "startDate": "2024-03-05T16:00:00.000Z",
+    "title": "County Hospital"
+  },
+  {
     "discountPercentage": 45,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -1663,15 +1672,6 @@
     "slug": "detective-solitaire-butler-story-a24413",
     "startDate": "2024-04-02T15:00:00.000Z",
     "title": "Detective Solitaire. Butler Story"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2024-03-03T14:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1079,
-    "slug": "devils-island-03e902",
-    "startDate": "2024-02-25T14:00:00.000Z",
-    "title": "Devil's Island"
   },
   {
     "discountPercentage": 75,
@@ -2376,15 +2376,6 @@
     "title": "Fisti-Fluffs"
   },
   {
-    "discountPercentage": 90,
-    "endDate": "2024-03-09T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 269,
-    "slug": "fix-me-up-doc-dark-humor-9ebac0",
-    "startDate": "2024-02-24T23:00:00.000Z",
-    "title": "Fix Me Up Doc - Dark Humor"
-  },
-  {
     "discountPercentage": 51,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -3078,15 +3069,6 @@
     "title": "Hunter Girls"
   },
   {
-    "discountPercentage": 85,
-    "endDate": "2024-03-09T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 179,
-    "slug": "need-for-spirit-drink-and-drive-simulator-db9660",
-    "startDate": "2024-02-24T23:00:00.000Z",
-    "title": "I Need Spirit Drink and Drive Simulator"
-  },
-  {
     "discountPercentage": 90,
     "endDate": "2024-03-23T23:00:00.000Z",
     "isFree": false,
@@ -3771,6 +3753,15 @@
     "title": "Mahjong World Contest 2"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-03-14T14:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 719,
+    "slug": "mallofmayhem-15344c",
+    "startDate": "2024-03-01T19:00:00.000Z",
+    "title": "Mall of Mayhem"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2024-07-30T22:00:00.000Z",
     "isFree": false,
@@ -3906,6 +3897,15 @@
     "title": "MechDefender"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "mediterranea-inferno-6a1352",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Mediterranea Inferno"
+  },
+  {
     "discountPercentage": 90,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -3967,6 +3967,15 @@
     "slug": "might-and-magic-heroes-7",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Might and Magic: Heroes VII - Ultimate Edition"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "milky-way-prince-the-vampire-star",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Milky Way Prince \u2013 The Vampire Star"
   },
   {
     "discountPercentage": 40,
@@ -4456,15 +4465,6 @@
   },
   {
     "discountPercentage": 90,
-    "endDate": "2024-03-14T22:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 449,
-    "slug": "overtop-ed5e49",
-    "startDate": "2024-02-24T22:00:00.000Z",
-    "title": "Overtop"
-  },
-  {
-    "discountPercentage": 90,
     "endDate": "2024-05-03T22:00:00.000Z",
     "isFree": false,
     "originalPrice": 449,
@@ -4705,15 +4705,6 @@
     "slug": "probo-rush-b3ee54",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Probo Rush"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2024-03-09T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 269,
-    "slug": "project-first-contact-ff7fdc",
-    "startDate": "2024-02-24T23:00:00.000Z",
-    "title": "Project First Contact"
   },
   {
     "discountPercentage": 50,
@@ -5331,6 +5322,15 @@
     "discountPercentage": 60,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
+    "originalPrice": 1999,
+    "slug": "saturnalia",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Saturnalia"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
     "originalPrice": 4999,
     "slug": "saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited",
     "startDate": "2024-03-14T15:00:00.000Z",
@@ -5632,15 +5632,6 @@
     "slug": "skydrift-infinity-c4ca37",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "SkyDrift Infinity"
-  },
-  {
-    "discountPercentage": 25,
-    "endDate": "2024-02-29T00:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "skyts-f5dfd7",
-    "startDate": "2024-02-25T11:59:00.000Z",
-    "title": "Skyts"
   },
   {
     "discountPercentage": 50,
@@ -6064,6 +6055,15 @@
     "slug": "the-meme-hunter-bf7086",
     "startDate": "2024-04-01T22:00:00.000Z",
     "title": "THE MEME HUNTER"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-04-29T23:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 809,
+    "slug": "the-silent-city-chapter-2-cccb19",
+    "startDate": "2024-03-31T00:00:00.000Z",
+    "title": "THE SILENT CITY CHAPTER 2"
   },
   {
     "discountPercentage": 50,
@@ -6759,6 +6759,15 @@
     "title": "The Silent Age"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-04-29T23:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 539,
+    "slug": "the-silent-city-chapter-1-94a47d",
+    "startDate": "2024-03-31T00:00:00.000Z",
+    "title": "The Silent City Chapter 1"
+  },
+  {
     "discountPercentage": 65,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -7236,6 +7245,15 @@
     "title": "Train World"
   },
   {
+    "discountPercentage": 25,
+    "endDate": "2024-03-12T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "trash-troopers-earth-reclaim-48721c",
+    "startDate": "2024-03-05T16:00:00.000Z",
+    "title": "Trash Troopers Earth Reclaim"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-03-26T15:00:00.000Z",
     "isFree": false,
@@ -7612,6 +7630,15 @@
     "slug": "weird-west-906661",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Weird West: Definitive Edition"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "wheels-of-aurelia",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Wheels of Aurelia"
   },
   {
     "discountPercentage": 65,
