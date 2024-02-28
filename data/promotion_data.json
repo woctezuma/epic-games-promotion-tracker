@@ -5844,6 +5844,15 @@
     "discountPercentage": 50,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
+    "originalPrice": 2399,
+    "slug": "mechwarrior-5",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "MechWarrior 5: Mercenaries Standard Edition"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
     "originalPrice": 1349,
     "slug": "mediterranea-inferno-6a1352",
     "startDate": "2024-03-14T15:00:00.000Z",
