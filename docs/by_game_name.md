@@ -649,6 +649,7 @@
 |#|maze-the-amazing-labyrinth-291abe|Maze - The Amazing Labyrinth|7,19€|80|2024-03-05 16h|2024-03-12 15h|
 |#|mcpixel-3-fae9c2|McPixel 3|9,75€|60|2024-03-14 15h|2024-03-28 15h|
 |#|mechdefender-fb9793|MechDefender|3,59€|90|2024-02-29 23h|2024-03-14 23h|
+|#|mechwarrior-5|MechWarrior 5: Mercenaries Standard Edition|23,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|mediterranea-inferno-6a1352|Mediterranea Inferno|13,49€|50|2024-03-14 15h|2024-03-28 15h|
 |#|men-of-war-74bf75|Men of War|4,99€|85|2024-03-14 15h|2024-03-28 15h|
 |#|men-of-war-assault-squad-1294b4|Men of War Assault Squad|9,99€|90|2024-03-14 15h|2024-03-28 15h|

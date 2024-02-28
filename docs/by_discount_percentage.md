@@ -836,6 +836,7 @@
 |#|my-little-pony-a-maretime-bay-adventure-6a2cce|MY LITTLE PONY A Maretime Bay Adventure|39,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|mahjong-valentines-day-6e1e50|Mahjong Valentine's Day|4,49€|50|2024-03-19 15h|2024-03-26 15h|
 |#|match-village-5f41dd|Match Village|3,59€|50|2024-03-05 16h|2024-03-12 15h|
+|#|mechwarrior-5|MechWarrior 5: Mercenaries Standard Edition|23,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|mediterranea-inferno-6a1352|Mediterranea Inferno|13,49€|50|2024-03-14 15h|2024-03-28 15h|
 |#|missile-command-recharged-2022-33e34b|Missile Command: Recharged|7,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|model-builder-f9b456|Model Builder|16,79€|50|2024-04-11 15h|2024-04-25 15h|
