@@ -3042,15 +3042,6 @@
     "title": "Electro Magnate"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2024-03-28T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2399,
-    "slug": "elite-dangerous",
-    "startDate": "2024-03-14T15:00:00.000Z",
-    "title": "Elite Dangerous"
-  },
-  {
     "discountPercentage": 40,
     "endDate": "2024-04-09T15:00:00.000Z",
     "isFree": false,
@@ -4914,12 +4905,12 @@
     "title": "Island Farmer"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2024-04-02T15:00:00.000Z",
+    "discountPercentage": 27,
+    "endDate": "2024-03-22T18:00:00.000Z",
     "isFree": false,
     "originalPrice": 449,
     "slug": "island-idle-rpg-350c2e",
-    "startDate": "2024-03-26T15:00:00.000Z",
+    "startDate": "2024-03-15T18:00:00.000Z",
     "title": "Island Idle RPG"
   },
   {
