@@ -2592,6 +2592,15 @@
     "title": "Diluvian Ultra"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-04-25T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "dinobreak-307b09",
+    "startDate": "2024-04-11T15:00:00.000Z",
+    "title": "Dinobreak"
+  },
+  {
     "discountPercentage": 67,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -6705,6 +6714,69 @@
     "title": "Out of Line"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2699,
+    "slug": "outbreak-contagious-memories-9e3c2a",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Outbreak Contagious Memories"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-04-25T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "outbreak-devious-beginnings-5c0af8",
+    "startDate": "2024-04-11T15:00:00.000Z",
+    "title": "Outbreak Devious Beginnings"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "outbreak-endless-nightmares-restless-dreams-40507b",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Outbreak Endless Nightmares Restless Dreams"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-04-25T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "outbreak-epidemic-viral-terror-54b6e9",
+    "startDate": "2024-04-11T15:00:00.000Z",
+    "title": "Outbreak Epidemic Viral Terror"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "outbreak-lost-hope-broken-faith-77b3f9",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Outbreak Lost Hope Broken Faith"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-04-25T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "outbreak-the-new-nightmare-revisited-90517a",
+    "startDate": "2024-04-11T15:00:00.000Z",
+    "title": "Outbreak The New Nightmare Revisited"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-04-25T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "outbreak-the-nightmare-chronicles-reinvestigated-b631d4",
+    "startDate": "2024-04-11T15:00:00.000Z",
+    "title": "Outbreak The Nightmare Chronicles Reinvestigated"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -7378,6 +7450,15 @@
     "slug": "run-the-world-inbetween-399e64",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "RUN - The world in-between"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "railbreak-f87a0c",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Railbreak"
   },
   {
     "discountPercentage": 80,
