@@ -218,6 +218,7 @@
 |#|clouzy-c67f4b|Clouzy|11,99€|67|2024-03-01 16h|2024-03-09 16h|
 |#|clouzy-c67f4b|Clouzy|11,99€|67|2024-04-11 15h|2024-04-25 15h|
 |#|comanche|Comanche|19,99€|75|2024-03-14 15h|2024-03-28 15h|
+|#|commander-keen-dreams-definitive-edition-2beb3a|Commander Keen Dreams Definitive Edition|4,49€|40|2024-03-14 15h|2024-03-28 15h|
 |#|company-of-crime-a5af43|Company of Crime|19,99€|85|2024-03-14 15h|2024-03-28 15h|
 |#|conglomerate-451-6570f5|Conglomerate 451|19,99€|85|2024-03-14 15h|2024-03-28 15h|
 |#|contraption-maker-66e1ec|Contraption Maker|10,79€|30|2024-03-14 15h|2024-03-28 15h|
@@ -315,7 +316,6 @@
 |#|dream-magic-will-358429|Dream magic will|3,59€|60|2024-03-14 15h|2024-03-28 15h|
 |#|dreamscaper|Dreamscaper|19,99€|60|2024-03-01 16h|2024-03-09 16h|
 |#|dreamscaper|Dreamscaper|19,99€|60|2024-04-11 15h|2024-04-25 15h|
-|#|dros-6da0b2|Dros|17,99€|68|2024-02-28 21h|2024-03-11 06h|
 |#|dumpy-and-bumpy-86c9d7|Dumpy and Bumpy|3,99€|30|2024-04-11 15h|2024-04-25 15h|
 |#|dust-fleet-620614|Dust Fleet|19,99€|20|2024-03-01 16h|2024-03-09 16h|
 |#|dust-fleet-620614|Dust Fleet|19,99€|20|2024-04-11 15h|2024-04-25 15h|
