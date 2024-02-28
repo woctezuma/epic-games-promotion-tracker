@@ -278,6 +278,7 @@
 |#|marble-it-up-ultra-7b5692|Marble It Up! Ultra|26,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|marble-it-up-ultra-7b5692|Marble It Up! Ultra|26,99€|60|2024-05-01 07h|2024-05-14 07h|
 |#|mythforce-d2710b|MythForce|26,99€|50|2024-03-14 15h|2024-03-28 15h|
+|#|outbreak-contagious-memories-9e3c2a|Outbreak Contagious Memories|26,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|railgrade|RAILGRADE|26,99€|35|2024-03-14 15h|2024-03-28 15h|
 |#|river-city-girls-e6f608|River City Girls|26,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|starship-troopers-extermination-57f59d|Starship Troopers: Extermination|26,99€|35|2024-03-14 15h|2024-03-28 15h|
@@ -569,6 +570,7 @@
 |#|choochoo-charles-0eece5|Choo-Choo Charles|17,99€|60|2024-07-12 08h|2024-07-20 08h|
 |#|cookie-cutter-d25fbc|Cookie Cutter|17,99€|30|2024-03-14 15h|2024-03-28 15h|
 |#|curse-of-the-sea-rats-8f28b1|Curse of the Sea Rats|17,99€|33|2024-03-14 15h|2024-03-28 15h|
+|#|dinobreak-307b09|Dinobreak|17,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|dust-and-neon-41b927|Dust and Neon|17,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|ebola-3-2c79e9|EBOLA 3|17,99€|35|2024-03-26 15h|2024-04-02 15h|
 |#|ex-natura-nature-corrupted-d92548|Ex Natura Nature Corrupted|17,99€|70|2024-04-11 15h|2024-04-25 15h|
@@ -591,6 +593,7 @@
 |#|one-more-island-0014e2|One More Island|17,99€|50|2024-03-01 16h|2024-03-09 16h|
 |#|one-more-island-0014e2|One More Island|17,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|potato-sack-racing-simulator-2024-3c3c83|Potato Sack Racing Simulator 2024|17,99€|70|2024-03-14 15h|2024-03-28 15h|
+|#|railbreak-f87a0c|Railbreak|17,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|rainbow-billy-the-curse-of-the-leviathan|Rainbow Billy: The Curse of the Leviathan|17,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|stasis-bone-totem-ca8320|STASIS : BONE TOTEM|17,99€|38|2024-03-14 15h|2024-03-28 15h|
 |#|settlement-survival-923f57|Settlement Survival|17,99€|35|2024-03-14 15h|2024-03-28 15h|
@@ -762,6 +765,7 @@
 |#|nour|Nour: Play with Your Food|13,49€|25|2024-03-14 15h|2024-03-28 15h|
 |#|oirbo-c063b7|Oirbo|13,49€|22|2024-03-14 15h|2024-03-28 15h|
 |#|orten-was-the-case-d108fb|Orten Was The Case|13,49€|20|2024-03-14 15h|2024-03-28 15h|
+|#|outbreak-endless-nightmares-restless-dreams-40507b|Outbreak Endless Nightmares Restless Dreams|13,49€|50|2024-03-14 15h|2024-03-28 15h|
 |#|red-glare-0c98c5|Red Glare|13,49€|35|2024-04-11 15h|2024-04-25 15h|
 |#|reef-escape-22dfdd|Reef Escape|13,49€|50|2024-03-19 15h|2024-03-26 15h|
 |#|rising-mist-36ba97|Rising Mist|13,49€|40|2024-03-14 15h|2024-03-28 15h|
@@ -935,6 +939,11 @@
 |#|my-island-6fc611|My Island|8,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|night-loops-aa3cc2|Night Loops|8,99€|20|2024-03-01 16h|2024-03-09 16h|
 |#|night-loops-aa3cc2|Night Loops|8,99€|20|2024-04-11 15h|2024-04-25 15h|
+|#|outbreak-devious-beginnings-5c0af8|Outbreak Devious Beginnings|8,99€|50|2024-04-11 15h|2024-04-25 15h|
+|#|outbreak-epidemic-viral-terror-54b6e9|Outbreak Epidemic Viral Terror|8,99€|50|2024-04-11 15h|2024-04-25 15h|
+|#|outbreak-lost-hope-broken-faith-77b3f9|Outbreak Lost Hope Broken Faith|8,99€|50|2024-03-14 15h|2024-03-28 15h|
+|#|outbreak-the-new-nightmare-revisited-90517a|Outbreak The New Nightmare Revisited|8,99€|50|2024-04-11 15h|2024-04-25 15h|
+|#|outbreak-the-nightmare-chronicles-reinvestigated-b631d4|Outbreak The Nightmare Chronicles Reinvestigated|8,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|palladium-adventure-in-greece-f1ee1b|Palladium: Adventure in Greece|8,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|prison-city-ac156c|Prison City|8,99€|20|2024-04-11 15h|2024-04-25 15h|
 |#|quantum-recharged-6553fd|Quantum Recharged|8,99€|40|2024-03-14 15h|2024-03-28 15h|

@@ -288,6 +288,7 @@
 |#|detective-solitaire-butler-story-a24413|Detective Solitaire. Butler Story|4,49€|50|2024-04-02 15h|2024-04-09 15h|
 |#|dice-legacy|Dice Legacy|14,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|diluvian-ultra-a5ad8c|Diluvian Ultra|9,99€|30|2024-03-14 15h|2024-03-28 15h|
+|#|dinobreak-307b09|Dinobreak|17,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|disaster-report-4-summer-memories|Disaster Report 4: Summer Memories|59,99€|67|2024-03-14 15h|2024-03-28 15h|
 |#|disaster-report-4-summer-memories|Disaster Report 4: Summer Memories|59,99€|67|2024-04-27 15h|2024-05-06 14h|
 |#|disciples-ii-galleans-return-9ecd70|Disciples II - Galleans Return|5,99€|80|2024-03-14 15h|2024-03-28 15h|
@@ -745,6 +746,13 @@
 |#|orten-was-the-case-d108fb|Orten Was The Case|13,49€|20|2024-03-14 15h|2024-03-28 15h|
 |#|otok-6c2478|Otok|4,49€|40|2024-03-14 15h|2024-03-28 15h|
 |#|out-of-line-209cbb|Out of Line|7,19€|40|2024-03-14 15h|2024-03-28 15h|
+|#|outbreak-contagious-memories-9e3c2a|Outbreak Contagious Memories|26,99€|50|2024-03-14 15h|2024-03-28 15h|
+|#|outbreak-devious-beginnings-5c0af8|Outbreak Devious Beginnings|8,99€|50|2024-04-11 15h|2024-04-25 15h|
+|#|outbreak-endless-nightmares-restless-dreams-40507b|Outbreak Endless Nightmares Restless Dreams|13,49€|50|2024-03-14 15h|2024-03-28 15h|
+|#|outbreak-epidemic-viral-terror-54b6e9|Outbreak Epidemic Viral Terror|8,99€|50|2024-04-11 15h|2024-04-25 15h|
+|#|outbreak-lost-hope-broken-faith-77b3f9|Outbreak Lost Hope Broken Faith|8,99€|50|2024-03-14 15h|2024-03-28 15h|
+|#|outbreak-the-new-nightmare-revisited-90517a|Outbreak The New Nightmare Revisited|8,99€|50|2024-04-11 15h|2024-04-25 15h|
+|#|outbreak-the-nightmare-chronicles-reinvestigated-b631d4|Outbreak The Nightmare Chronicles Reinvestigated|8,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|outerwilds|Outer Wilds|22,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|outerverse-82d7ce|Outerverse|19,99€|75|2024-03-01 16h|2024-03-09 16h|
 |#|outerverse-82d7ce|Outerverse|19,99€|75|2024-04-11 15h|2024-04-25 15h|
@@ -820,6 +828,7 @@
 |#|rpgunite-819421|RPG MAKER UNITE|89,99€|10|2024-02-29 06h|2024-03-06 06h|
 |#|ruiner|RUINER|19,50€|80|2024-03-14 15h|2024-03-28 15h|
 |#|run-the-world-inbetween-399e64|RUN - The world in-between|9,99€|55|2024-03-14 15h|2024-03-28 15h|
+|#|railbreak-f87a0c|Railbreak|17,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|rails-across-america-958ba8|Rails Across America|8,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|rainbow-billy-the-curse-of-the-leviathan|Rainbow Billy: The Curse of the Leviathan|17,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|rainbow-pixel-color-by-number-462613|Rainbow Pixel - Color by Number|4,49€|30|2024-03-05 16h|2024-03-12 15h|
