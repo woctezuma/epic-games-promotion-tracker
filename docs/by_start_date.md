@@ -605,6 +605,7 @@
 |#|monster-jam-steel-titans-2|Monster Jam Steel Titans 2|29,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|moonlighter|Moonlighter|19,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|moons-of-ardan-d4f9a3|Moons of Ardan|19,99€|25|2024-03-14 15h|2024-03-28 15h|
+|#|morels-ed7501|Morels: The Hunt|17,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|mortal-kombat-1|Mortal Kombat 1|69,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|mount-and-blade-2|Mount & Blade II: Bannerlord|49,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|moving-out|Moving Out|22,99€|75|2024-03-14 15h|2024-03-28 15h|
@@ -763,7 +764,7 @@
 |#|sentinel-3-homeworld-2f6183|Sentinel 3 - Homeworld|5,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|sephonie-6ab6f7|Sephonie|15,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|settlement-survival-923f57|Settlement Survival|17,99€|35|2024-03-14 15h|2024-03-28 15h|
-|#|shadow-gambit-the-cursed-crew-0bca60|Shadow Gambit: The Cursed Crew|39,99€|20|2024-03-14 15h|2024-03-28 15h|
+|#|shadow-gambit-the-cursed-crew-0bca60|Shadow Gambit: The Cursed Crew|39,99€|25|2024-03-14 15h|2024-03-28 15h|
 |#|shadow-vault-868782|Shadow Vault|8,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|shadow-of-the-tomb-raider|Shadow of the Tomb Raider: Definitive Edition|39,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|shadowhand|Shadowhand|11,99€|70|2024-03-14 15h|2024-03-28 15h|

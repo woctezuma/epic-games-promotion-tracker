@@ -136,7 +136,7 @@
 |#|stranger-of-paradise-final-fantasy-origin|STRANGER OF PARADISE FINAL FANTASY ORIGIN|39,99€|40|2024-03-21 15h|2024-04-04 15h|
 |#|scorn|Scorn|39,99€|65|2024-04-11 15h|2024-04-25 15h|
 |#|session-skate-sim|Session: Skate Sim|39,99€|60|2024-03-13 17h|2024-03-27 17h|
-|#|shadow-gambit-the-cursed-crew-0bca60|Shadow Gambit: The Cursed Crew|39,99€|20|2024-03-14 15h|2024-03-28 15h|
+|#|shadow-gambit-the-cursed-crew-0bca60|Shadow Gambit: The Cursed Crew|39,99€|25|2024-03-14 15h|2024-03-28 15h|
 |#|shadow-of-the-tomb-raider|Shadow of the Tomb Raider: Definitive Edition|39,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|sifu|Sifu|39,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|spellforce-3|SpellForce 3 Reforced|39,99€|75|2024-03-14 15h|2024-03-28 15h|
@@ -587,6 +587,7 @@
 |#|legend-of-keepers|Legend of Keepers|17,99€|80|2024-03-05 16h|2024-03-12 15h|
 |#|liberte-96a5e5|Liberte|17,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|lumencraft-abc105|Lumencraft|17,99€|45|2024-03-14 15h|2024-03-28 15h|
+|#|morels-ed7501|Morels: The Hunt|17,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|one-more-island-0014e2|One More Island|17,99€|50|2024-03-01 16h|2024-03-09 16h|
 |#|one-more-island-0014e2|One More Island|17,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|potato-sack-racing-simulator-2024-3c3c83|Potato Sack Racing Simulator 2024|17,99€|70|2024-03-14 15h|2024-03-28 15h|

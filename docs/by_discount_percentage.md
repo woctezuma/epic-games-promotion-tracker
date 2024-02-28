@@ -378,6 +378,7 @@
 |#|might-and-magic-heroes-7|Might and Magic: Heroes VII - Ultimate Edition|44,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|milky-way-prince-the-vampire-star|Milky Way Prince – The Vampire Star|14,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|monster-jam-steel-titans-2|Monster Jam Steel Titans 2|29,99€|75|2024-03-14 15h|2024-03-28 15h|
+|#|morels-ed7501|Morels: The Hunt|17,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|moving-out|Moving Out|22,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|my-fantastic-ranch|My Fantastic Ranch: Unicorns & Dragons|29,99€|75|2024-03-13 17h|2024-03-27 17h|
 |#|new-joe-and-mac-caveman-ninja-bbaa73|NEW Joe and Mac Caveman Ninja|24,99€|75|2024-03-14 15h|2024-03-28 15h|
@@ -1200,6 +1201,7 @@
 |#|nour|Nour: Play with Your Food|13,49€|25|2024-03-14 15h|2024-03-28 15h|
 |#|paquerette-down-the-bunburrows-2fd777|Paquerette Down the Bunburrows|11,99€|25|2024-03-14 15h|2024-03-28 15h|
 |#|prehistoric-kingdom|Prehistoric Kingdom|23,99€|25|2024-03-14 15h|2024-03-28 15h|
+|#|shadow-gambit-the-cursed-crew-0bca60|Shadow Gambit: The Cursed Crew|39,99€|25|2024-03-14 15h|2024-03-28 15h|
 |#|terra-nil-508d16|Terra Nil|24,99€|25|2024-03-14 15h|2024-03-28 15h|
 |#|the-dragoness-command-of-the-flame-b3b544|The Dragoness Command Of The Flame|19,99€|25|2024-03-14 15h|2024-03-28 15h|
 |#|the-legend-of-heroes-trails-from-zero|The Legend of Heroes: Trails from Zero|39,99€|25|2024-03-14 15h|2024-03-28 15h|
@@ -1242,7 +1244,6 @@
 |#|rimworld|RimWorld|32,99€|20|2024-04-11 15h|2024-04-25 15h|
 |#|seaorama-world-of-shipping-ff5abb|SeaOrama: World of Shipping|19,99€|20|2024-03-14 15h|2024-03-28 15h|
 |#|aa-bb5edd|Seven Bullets Horror 7発の弾丸ホラー|2,69€|20|2024-03-16 15h|2024-04-15 15h|
-|#|shadow-gambit-the-cursed-crew-0bca60|Shadow Gambit: The Cursed Crew|39,99€|20|2024-03-14 15h|2024-03-28 15h|
 |#|stillborn-slayer-298dd7|Stillborn Slayer|9,89€|20|2024-03-14 15h|2024-03-28 15h|
 |#|stray-gods-the-roleplaying-musical-0e651d|Stray Gods: The Roleplaying Musical|29,99€|20|2024-03-14 15h|2024-03-28 15h|
 |#|the-invincible|The Invincible|29,99€|20|2024-03-14 15h|2024-03-28 15h|
