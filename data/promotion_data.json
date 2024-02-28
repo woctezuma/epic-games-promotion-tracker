@@ -6120,6 +6120,15 @@
     "title": "Moons of Ardan"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "morels-ed7501",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Morels: The Hunt"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -8244,7 +8253,7 @@
     "title": "Seven Bullets Horror 7\u767a\u306e\u5f3e\u4e38\u30db\u30e9\u30fc"
   },
   {
-    "discountPercentage": 20,
+    "discountPercentage": 25,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 3999,
