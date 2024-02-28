@@ -642,6 +642,9 @@
 |#|orten-was-the-case-d108fb|Orten Was The Case|13,49€|20|2024-03-14 15h|2024-03-28 15h|
 |#|otok-6c2478|Otok|4,49€|40|2024-03-14 15h|2024-03-28 15h|
 |#|out-of-line-209cbb|Out of Line|7,19€|40|2024-03-14 15h|2024-03-28 15h|
+|#|outbreak-contagious-memories-9e3c2a|Outbreak Contagious Memories|26,99€|50|2024-03-14 15h|2024-03-28 15h|
+|#|outbreak-endless-nightmares-restless-dreams-40507b|Outbreak Endless Nightmares Restless Dreams|13,49€|50|2024-03-14 15h|2024-03-28 15h|
+|#|outbreak-lost-hope-broken-faith-77b3f9|Outbreak Lost Hope Broken Faith|8,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|outerwilds|Outer Wilds|22,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|outliver-tribulations-679884|Outliver: Tribulation|7,19€|60|2024-03-14 15h|2024-03-28 15h|
 |#|outward|Outward Definitive Edition|39,99€|85|2024-03-14 15h|2024-03-28 15h|
@@ -698,6 +701,7 @@
 |#|ride-5|RIDE 5|59,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|ruiner|RUINER|19,50€|80|2024-03-14 15h|2024-03-28 15h|
 |#|run-the-world-inbetween-399e64|RUN - The world in-between|9,99€|55|2024-03-14 15h|2024-03-28 15h|
+|#|railbreak-f87a0c|Railbreak|17,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|rails-across-america-958ba8|Rails Across America|8,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|rainbow-billy-the-curse-of-the-leviathan|Rainbow Billy: The Curse of the Leviathan|17,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|rayman-origins|Rayman Origins|9,99€|70|2024-03-14 15h|2024-03-28 15h|
@@ -1152,6 +1156,7 @@
 |#|dark-fantasy-2-jigsaw-puzzle-d65d41|Dark Fantasy 2: Jigsaw Puzzle|2,69€|50|2024-04-11 15h|2024-04-25 15h|
 |#|dark-fantasy-jigsaw-puzzle-12769c|Dark Fantasy Jigsaw Puzzle|2,69€|50|2024-04-11 15h|2024-04-25 15h|
 |#|dead-cells|Dead Cells|24,99€|50|2024-04-11 15h|2024-04-25 15h|
+|#|dinobreak-307b09|Dinobreak|17,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|doki-doki-literature-club-plus|Doki Doki Literature Club Plus!|12,49€|25|2024-04-11 15h|2024-04-25 15h|
 |#|dolphin-spirit-ocean-mission-2d0f3b|Dolphin Spirit - Ocean Mission|24,99€|40|2024-04-11 15h|2024-04-25 15h|
 |#|doomed-lands-7e2565|Doomed Lands|11,99€|50|2024-04-11 15h|2024-04-25 15h|
@@ -1198,6 +1203,10 @@
 |#|no-straight-roads|No Straight Roads|24,99€|66|2024-04-11 15h|2024-04-25 15h|
 |#|one-lonely-outpost-12afa6|One Lonely Outpost|19,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|one-more-island-0014e2|One More Island|17,99€|50|2024-04-11 15h|2024-04-25 15h|
+|#|outbreak-devious-beginnings-5c0af8|Outbreak Devious Beginnings|8,99€|50|2024-04-11 15h|2024-04-25 15h|
+|#|outbreak-epidemic-viral-terror-54b6e9|Outbreak Epidemic Viral Terror|8,99€|50|2024-04-11 15h|2024-04-25 15h|
+|#|outbreak-the-new-nightmare-revisited-90517a|Outbreak The New Nightmare Revisited|8,99€|50|2024-04-11 15h|2024-04-25 15h|
+|#|outbreak-the-nightmare-chronicles-reinvestigated-b631d4|Outbreak The Nightmare Chronicles Reinvestigated|8,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|outerverse-82d7ce|Outerverse|19,99€|75|2024-04-11 15h|2024-04-25 15h|
 |#|overcooked|Overcooked|15,99€|80|2024-04-11 15h|2024-04-25 15h|
 |#|prison-city-ac156c|Prison City|8,99€|20|2024-04-11 15h|2024-04-25 15h|

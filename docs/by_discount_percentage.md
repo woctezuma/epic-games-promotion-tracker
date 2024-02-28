@@ -787,6 +787,7 @@
 |#|dead-cells|Dead Cells|24,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|dead-by-daylight|Dead by Daylight|19,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|detective-solitaire-butler-story-a24413|Detective Solitaire. Butler Story|4,49€|50|2024-04-02 15h|2024-04-09 15h|
+|#|dinobreak-307b09|Dinobreak|17,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|dizzy-fight-7bbfe7|Dizzy Fight|7,19€|50|2024-04-09 15h|2024-04-16 15h|
 |#|dojoran-1e6fb7|Dojoran|4,49€|50|2024-03-14 15h|2024-03-28 15h|
 |#|doomed-lands-7e2565|Doomed Lands|11,99€|50|2024-03-01 16h|2024-03-09 16h|
@@ -861,6 +862,13 @@
 |#|one-more-island-0014e2|One More Island|17,99€|50|2024-03-01 16h|2024-03-09 16h|
 |#|one-more-island-0014e2|One More Island|17,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|operation-wolf-returns-first-mission-vr-446fba|Operation Wolf Returns: First Mission VR|24,99€|50|2024-03-14 15h|2024-03-28 15h|
+|#|outbreak-contagious-memories-9e3c2a|Outbreak Contagious Memories|26,99€|50|2024-03-14 15h|2024-03-28 15h|
+|#|outbreak-devious-beginnings-5c0af8|Outbreak Devious Beginnings|8,99€|50|2024-04-11 15h|2024-04-25 15h|
+|#|outbreak-endless-nightmares-restless-dreams-40507b|Outbreak Endless Nightmares Restless Dreams|13,49€|50|2024-03-14 15h|2024-03-28 15h|
+|#|outbreak-epidemic-viral-terror-54b6e9|Outbreak Epidemic Viral Terror|8,99€|50|2024-04-11 15h|2024-04-25 15h|
+|#|outbreak-lost-hope-broken-faith-77b3f9|Outbreak Lost Hope Broken Faith|8,99€|50|2024-03-14 15h|2024-03-28 15h|
+|#|outbreak-the-new-nightmare-revisited-90517a|Outbreak The New Nightmare Revisited|8,99€|50|2024-04-11 15h|2024-04-25 15h|
+|#|outbreak-the-nightmare-chronicles-reinvestigated-b631d4|Outbreak The Nightmare Chronicles Reinvestigated|8,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|paranoia-happiness-is-mandatory|Paranoia: Happiness is Mandatory|29,99€|50|2024-03-13 17h|2024-03-27 17h|
 |#|pirate-mosaic-puzzle-caribbean-treasures-86cb74|Pirate Mosaic Puzzle. Caribbean Treasures|4,49€|50|2024-03-19 15h|2024-03-26 15h|
 |#|project-pastorate-6e8765|Project Pastorate|1,59€|50|2024-03-14 15h|2024-03-28 15h|
@@ -1012,6 +1020,7 @@
 |#|paw-patrol-mighty-pups-save-adventure-bay-aaad37|PAW Patrol Mighty Pups Save Adventure Bay|29,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|quantum-recharged-6553fd|Quantum Recharged|8,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|rod-multiplayer-car-driving-8b748d|ROD Multiplayer Car Driving|0,89€|40|2024-03-16 17h|2024-03-30 17h|
+|#|railbreak-f87a0c|Railbreak|17,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|remnant-2|Remnant II®|49,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|return-to-monkey-island-f4af79|Return to Monkey Island|24,50€|40|2024-03-14 15h|2024-03-28 15h|
 |#|rising-mist-36ba97|Rising Mist|13,49€|40|2024-03-14 15h|2024-03-28 15h|
