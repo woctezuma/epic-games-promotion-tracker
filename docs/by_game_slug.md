@@ -692,6 +692,7 @@
 |#|monster-tribe-3ca102|Monster Tribe|19,99€|33|2024-04-11 15h|2024-04-25 15h|
 |#|moonlighter|Moonlighter|19,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|moons-of-ardan-d4f9a3|Moons of Ardan|19,99€|25|2024-03-14 15h|2024-03-28 15h|
+|#|morels-ed7501|Morels: The Hunt|17,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|mortal-kombat-1|Mortal Kombat 1|69,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|mosaics-galore-2-034421|Mosaics Galore 2|4,49€|30|2024-03-05 16h|2024-03-12 15h|
 |#|mosaics-galore-4fbedf|Mosaics Galore|4,49€|30|2024-03-19 15h|2024-03-26 15h|
@@ -933,7 +934,7 @@
 |#|serbian-dancing-lady-94e658|Serbian Dancing Lady|0,89€|50|2024-03-23 22h|2024-04-05 22h|
 |#|session-skate-sim|Session: Skate Sim|39,99€|60|2024-03-13 17h|2024-03-27 17h|
 |#|settlement-survival-923f57|Settlement Survival|17,99€|35|2024-03-14 15h|2024-03-28 15h|
-|#|shadow-gambit-the-cursed-crew-0bca60|Shadow Gambit: The Cursed Crew|39,99€|20|2024-03-14 15h|2024-03-28 15h|
+|#|shadow-gambit-the-cursed-crew-0bca60|Shadow Gambit: The Cursed Crew|39,99€|25|2024-03-14 15h|2024-03-28 15h|
 |#|shadow-of-the-tomb-raider|Shadow of the Tomb Raider: Definitive Edition|39,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|shadow-vault-868782|Shadow Vault|8,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|shadowhand|Shadowhand|11,99€|70|2024-03-14 15h|2024-03-28 15h|
