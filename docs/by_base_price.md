@@ -338,6 +338,7 @@
 |#|train-world-07e156|Train World|24,19€|20|2024-04-11 15h|2024-04-25 15h|
 |#|clad-in-iron-war-of-the-pacific-1879-68f244|Clad In Iron War of The Pacific 1879|23,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|legend-of-grimrock-2|Legend of Grimrock 2|23,99€|80|2024-03-14 15h|2024-03-28 15h|
+|#|mechwarrior-5|MechWarrior 5: Mercenaries Standard Edition|23,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|prehistoric-kingdom|Prehistoric Kingdom|23,99€|25|2024-03-14 15h|2024-03-28 15h|
 |#|slime-rancher-2|Slime Rancher 2|23,99€|30|2024-03-14 15h|2024-03-28 15h|
 |#|tank-warfare-tunisia-1943-62f6e9|Tank Warfare - Tunisia 1943|23,99€|80|2024-03-14 15h|2024-03-28 15h|
