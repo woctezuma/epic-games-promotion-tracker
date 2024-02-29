@@ -127,6 +127,7 @@
 |#|overpass-2|Overpass 2|39,99€|55|2024-03-13 17h|2024-03-27 17h|
 |#|payday-3|PAYDAY 3|39,99€|35|2024-03-14 15h|2024-03-28 15h|
 |#|pathfinder-wrath-of-the-righteous|Pathfinder: Wrath of the Righteous - Enhanced Edition|39,99€|70|2024-03-14 15h|2024-03-28 15h|
+|#|prey|Prey|39,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|r-type-final-2|R-Type Final 2|39,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|r-type-final-2|R-Type Final 2|39,99€|50|2024-04-27 15h|2024-05-06 14h|
 |#|rage-2|RAGE 2|39,99€|80|2024-03-14 15h|2024-03-28 15h|
@@ -230,6 +231,7 @@
 |#|paw-patrol-mighty-pups-save-adventure-bay-aaad37|PAW Patrol Mighty Pups Save Adventure Bay|29,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|paranoia-happiness-is-mandatory|Paranoia: Happiness is Mandatory|29,99€|50|2024-03-13 17h|2024-03-27 17h|
 |#|prison-architect|Prison Architect|29,99€|75|2024-03-14 15h|2024-03-28 15h|
+|#|rise-of-the-tomb-raider|Rise of the Tomb Raider: 20 Year Celebration|29,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|saints-row|Saints Row|29,99€|67|2024-03-14 15h|2024-03-28 15h|
 |#|saints-row-the-third-remastered|Saints Row®: The Third™ Remastered|29,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|satisfactory|Satisfactory|29,99€|45|2024-03-14 15h|2024-03-28 15h|
@@ -413,6 +415,7 @@
 |#|deceive-inc|Deceive Inc.|19,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|deep-sky-derelicts|Deep Sky Derelicts|19,99€|85|2024-03-14 15h|2024-03-28 15h|
 |#|discovery-tour-viking-age|Discovery Tour: Viking Age|19,99€|60|2024-03-14 15h|2024-03-28 15h|
+|#|dishonored-definitive-edition|Dishonored - Definitive Edition|19,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|dread-templar-d8e8fa|Dread Templar|19,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|dreamscaper|Dreamscaper|19,99€|60|2024-03-01 16h|2024-03-09 16h|
 |#|dreamscaper|Dreamscaper|19,99€|60|2024-04-11 15h|2024-04-25 15h|
@@ -713,6 +716,7 @@
 |#|scott-pilgrim-vs-the-world-the-game|Scott Pilgrim vs. The World: The Game – Complete Edition|14,99€|67|2024-03-14 15h|2024-03-28 15h|
 |#|shadowrun-returns|Shadowrun Returns|14,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|shadowrun-dragonfall|Shadowrun: Dragonfall - Director’s Cut|14,99€|75|2024-03-14 15h|2024-03-28 15h|
+|#|sheltered|Sheltered|14,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|silt-6ca919|Silt|14,99€|54|2024-04-11 15h|2024-04-25 15h|
 |#|space-rangers-hd-a-war-apart-455702|Space Rangers HD A War Apart|14,99€|85|2024-03-14 15h|2024-03-28 15h|
 |#|the-escapists|The Escapists|14,99€|80|2024-04-11 15h|2024-04-25 15h|

@@ -302,6 +302,7 @@
 |#|disgaea-6-complete|Disgaea 6 Complete|59,99€|35|2024-04-27 15h|2024-05-06 14h|
 |#|dishonored-2|Dishonored 2|29,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|dishonored-death-of-the-outsider|Dishonored®: Death of the Outsider™|29,99€|80|2024-03-14 15h|2024-03-28 15h|
+|#|dishonored-definitive-edition|Dishonored - Definitive Edition|19,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|dizzy-fight-7bbfe7|Dizzy Fight|7,19€|50|2024-04-09 15h|2024-04-16 15h|
 |#|dnf-duel-07d055|DNF Duel|49,99€|60|2024-03-14 17h|2024-03-21 17h|
 |#|dojoran-1e6fb7|Dojoran|4,49€|50|2024-03-14 15h|2024-03-28 15h|
@@ -815,6 +816,7 @@
 |#|poultrygeist-6ab305|Troma Presents Poultrygeist|9,89€|10|2024-03-05 16h|2024-03-12 15h|
 |#|power-to-the-people-dfb0f9|Power to the People|11,99€|45|2024-03-14 15h|2024-03-28 15h|
 |#|prehistoric-kingdom|Prehistoric Kingdom|23,99€|25|2024-03-14 15h|2024-03-28 15h|
+|#|prey|Prey|39,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|prince-of-persia|Prince of Persia Standard Edition|9,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|prince-of-persia-sands-of-time|Prince of Persia: Sands of Time|9,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|prince-of-persia-the-forgotten-sands|Prince of Persia: The Forgotten Sands STANDARD EDITION|9,99€|80|2024-03-14 15h|2024-03-28 15h|
@@ -882,6 +884,7 @@
 |#|rims-racing|RiMS Racing|49,99€|75|2024-03-13 17h|2024-03-27 17h|
 |#|rimworld|RimWorld|32,99€|20|2024-04-11 15h|2024-04-25 15h|
 |#|ring-of-pain|Ring of Pain|19,99€|70|2024-03-14 15h|2024-03-28 15h|
+|#|rise-of-the-tomb-raider|Rise of the Tomb Raider: 20 Year Celebration|29,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|risen-e8e55e|Risen|14,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|rising-mist-36ba97|Rising Mist|13,49€|40|2024-03-14 15h|2024-03-28 15h|
 |#|rising-storm-2-vietnam|Rising Storm 2: Vietnam|21,99€|75|2024-03-14 15h|2024-03-28 15h|
@@ -951,6 +954,7 @@
 |#|shadowrun-hong-kong|Shadowrun Hong Kong - Extended Edition|19,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|shadowrun-returns|Shadowrun Returns|14,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|shadows-price-for-our-sins-29e42e|Shadows. Price For Our Sins|5,39€|50|2024-04-11 15h|2024-04-25 15h|
+|#|sheltered|Sheltered|14,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|shenmue-3|Shenmue III - Standard Edition|29,99€|90|2024-03-14 15h|2024-03-28 15h|
 |#|sherlock-holmes-crimes-and-punishments|Sherlock Holmes: Crimes and Punishments|29,99€|90|2024-03-14 15h|2024-03-28 15h|
 |#|sherlock-holmes-the-devils-daughter|Sherlock Holmes: The Devil's Daughter|29,99€|85|2024-03-14 15h|2024-03-28 15h|
