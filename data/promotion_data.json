@@ -2691,6 +2691,15 @@
     "title": "Dishonored & Prey: The Arkane Collection"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "dishonored-definitive-edition",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Dishonored - Definitive Edition"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -7137,6 +7146,15 @@
     "title": "Prehistoric Kingdom"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "prey",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Prey"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -7738,6 +7756,15 @@
     "slug": "ring-of-pain",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Ring of Pain"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "rise-of-the-tomb-raider",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Rise of the Tomb Raider: 20 Year Celebration"
   },
   {
     "discountPercentage": 75,
@@ -8404,6 +8431,15 @@
     "slug": "shadows-price-for-our-sins-29e42e",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Shadows. Price For Our Sins"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "sheltered",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Sheltered"
   },
   {
     "discountPercentage": 90,
