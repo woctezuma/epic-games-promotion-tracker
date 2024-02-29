@@ -606,6 +606,7 @@
 |#|aircraft-carrier-survival-769456|Aircraft Carrier Survival|17,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|anvil-saga-c6fe9d|Anvil Saga|17,99€|20|2024-03-05 16h|2024-03-12 15h|
 |#|arcanium-ab22e4|Arcanium|17,99€|75|2024-03-14 15h|2024-03-28 15h|
+|#|astro-duel-2-e1261d|Astro Duel 2|17,99€|100|2024-03-07 16h|2024-03-14 16h|
 |#|brok-the-investigator-fb0513|BROK the InvestiGator|17,99€|33|2024-03-14 15h|2024-03-28 15h|
 |#|banners-of-ruin|Banners of Ruin|17,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|before-we-leave|Before We Leave|17,99€|75|2024-03-14 15h|2024-03-28 15h|
