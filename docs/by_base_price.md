@@ -849,6 +849,7 @@
 |#|bibots-aad4d0|Bibots|12,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|chess-ultra-91bba3|Chess Ultra|12,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|chromagun|ChromaGun|12,99€|55|2024-03-14 15h|2024-03-28 15h|
+|#|deepest-chamber-f7085f|Deepest Chamber: Resurrection|12,99€|25|2024-03-14 15h|2024-03-28 15h|
 |#|ironcast|Ironcast|12,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|kings-bounty-dark-side-c3066f|King's Bounty: Dark Side|12,99€|85|2024-03-14 15h|2024-03-28 15h|
 |#|mari-and-bayu-the-road-home-7dc1d0|Mari and Bayu - The Road Home|12,99€|60|2024-03-14 15h|2024-03-28 15h|

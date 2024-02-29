@@ -1277,6 +1277,7 @@
 |#|booze-masters-freezing-moonshine-f0449d|Booze Masters: Freezing Moonshine|13,49€|25|2024-03-14 15h|2024-03-28 15h|
 |#|born-of-bread-008e66|Born of Bread|24,99€|25|2024-03-14 15h|2024-03-28 15h|
 |#|commandos-3-ba41db|Commandos 3 - HD Remaster|19,99€|25|2024-03-14 15h|2024-03-28 15h|
+|#|deepest-chamber-f7085f|Deepest Chamber: Resurrection|12,99€|25|2024-03-14 15h|2024-03-28 15h|
 |#|disney-dreamlight-valley|Disney Dreamlight Valley|39,99€|25|2024-03-14 15h|2024-03-28 15h|
 |#|doki-doki-literature-club-plus|Doki Doki Literature Club Plus!|12,49€|25|2024-04-11 15h|2024-04-25 15h|
 |#|fort-solis-9164ca|Fort Solis|24,99€|25|2024-03-14 15h|2024-03-28 15h|

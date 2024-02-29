@@ -377,6 +377,7 @@
 |#|deaths-door|Death's Door|19,50€|60|2024-03-14 15h|2024-03-28 15h|
 |#|deceive-inc|Deceive Inc.|19,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|deep-sky-derelicts|Deep Sky Derelicts|19,99€|85|2024-03-14 15h|2024-03-28 15h|
+|#|deepest-chamber-f7085f|Deepest Chamber: Resurrection|12,99€|25|2024-03-14 15h|2024-03-28 15h|
 |#|defend-the-rook|Defend the Rook|14,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|deflector-fedbe0|Deflector|17,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|deliver-us-mars|Deliver Us Mars|29,99€|60|2024-03-14 15h|2024-03-28 15h|
