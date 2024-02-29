@@ -950,6 +950,7 @@
 |#|ghoul-castle-3d-gold-edition-566ac0|Ghoul Castle 3D - Gold Edition|2,69€|45|2024-03-14 15h|2024-03-28 15h|
 |#|island-of-fear-00a3a6|Island of Fear|2,69€|45|2024-03-05 16h|2024-03-12 15h|
 |#|lumencraft-abc105|Lumencraft|17,99€|45|2024-03-14 15h|2024-03-28 15h|
+|#|mortal-online-2-d7bb78|Mortal Online 2|35,99€|45|2024-03-14 15h|2024-03-28 15h|
 |#|poker-club-6e18ee|Poker Club|19,99€|45|2024-03-14 15h|2024-03-28 15h|
 |#|power-to-the-people-dfb0f9|Power to the People|11,99€|45|2024-03-14 15h|2024-03-28 15h|
 |#|recollection-71f3a4|Recollection|4,49€|45|2024-03-14 15h|2024-03-28 15h|
@@ -1196,7 +1197,7 @@
 |#|doki-doki-literature-club-plus|Doki Doki Literature Club Plus!|12,49€|25|2024-04-11 15h|2024-04-25 15h|
 |#|fort-solis-9164ca|Fort Solis|24,99€|25|2024-03-14 15h|2024-03-28 15h|
 |#|frontier-hunter-erzas-wheel-of-fortune|Frontier Hunter: Erza's Wheel of Fortune|15,99€|25|2024-03-14 08h|2024-03-29 08h|
-|#|galaxy-trek-c165da|Galaxy Trek|17,99€|25|2024-04-02 15h|2024-04-09 15h|
+|#|galaxy-trek-c165da|Galaxy Trek|17,99€|25|2024-04-09 15h|2024-04-16 15h|
 |#|horse-club-adventures-19e7a0|HORSE CLUB Adventures|17,99€|25|2024-04-11 15h|2024-04-25 15h|
 |#|horse-club-adventures-2-hazelwood-stories-b257d3|HORSE CLUB Adventures 2 - Hazelwood Stories|17,99€|25|2024-04-11 15h|2024-04-25 15h|
 |#|high-on-life-3a855b|High On Life|35,99€|25|2024-03-14 15h|2024-03-28 15h|
@@ -1252,6 +1253,7 @@
 |#|rice-d1b792|R.I.C.E.|4,99€|20|2024-03-01 16h|2024-03-09 16h|
 |#|rice-d1b792|R.I.C.E.|4,99€|20|2024-04-11 15h|2024-04-25 15h|
 |#|rimworld|RimWorld|32,99€|20|2024-04-11 15h|2024-04-25 15h|
+|#|road-defense-outsiders-22e4ba|Road Defense: Outsiders|2,99€|20|2024-03-26 15h|2024-04-02 15h|
 |#|seaorama-world-of-shipping-ff5abb|SeaOrama: World of Shipping|19,99€|20|2024-03-14 15h|2024-03-28 15h|
 |#|aa-bb5edd|Seven Bullets Horror 7発の弾丸ホラー|2,69€|20|2024-03-16 15h|2024-04-15 15h|
 |#|stillborn-slayer-298dd7|Stillborn Slayer|9,89€|20|2024-03-14 15h|2024-03-28 15h|

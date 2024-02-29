@@ -423,7 +423,7 @@
 |#|funtasia-furry-road-bd0756|Funtasia|14,99€|67|2024-04-11 15h|2024-04-25 15h|
 |#|funtoons-world-0e63dd|Funtoon's World|5,39€|80|2024-03-05 16h|2024-03-12 15h|
 |#|graven|GRAVEN|24,99€|15|2024-03-14 15h|2024-03-28 15h|
-|#|galaxy-trek-c165da|Galaxy Trek|17,99€|25|2024-04-02 15h|2024-04-09 15h|
+|#|galaxy-trek-c165da|Galaxy Trek|17,99€|25|2024-04-09 15h|2024-04-16 15h|
 |#|game-dev-masters-f5d8f9|Game Dev Masters|13,49€|50|2024-03-05 16h|2024-03-12 15h|
 |#|game-dev-masters-f5d8f9|Game Dev Masters|13,49€|50|2024-04-11 15h|2024-04-25 15h|
 |#|gamedec|Gamedec - Definitive Edition|29,99€|60|2024-03-14 15h|2024-03-28 15h|
@@ -684,6 +684,7 @@
 |#|moons-of-ardan-d4f9a3|Moons of Ardan|19,99€|25|2024-03-14 15h|2024-03-28 15h|
 |#|morels-ed7501|Morels: The Hunt|17,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|mortal-kombat-1|Mortal Kombat 1|69,99€|40|2024-03-14 15h|2024-03-28 15h|
+|#|mortal-online-2-d7bb78|Mortal Online 2|35,99€|45|2024-03-14 15h|2024-03-28 15h|
 |#|mosaics-galore-4fbedf|Mosaics Galore|4,49€|30|2024-03-19 15h|2024-03-26 15h|
 |#|mosaics-galore-2-034421|Mosaics Galore 2|4,49€|30|2024-03-05 16h|2024-03-12 15h|
 |#|mosaics-galore-challenging-journey-3ee83b|Mosaics Galore. Challenging journey|4,49€|50|2024-03-12 15h|2024-03-19 15h|
@@ -870,6 +871,7 @@
 |#|road-96|Road 96|19,96€|75|2024-03-14 15h|2024-03-28 15h|
 |#|road-96-mile-0|Road 96: Mile 0|12,96€|70|2024-03-14 15h|2024-03-28 15h|
 |#|road-96-full-journey|Road 96: Mile 0 – Full Journey Bundle|26,96€|73|2024-03-14 15h|2024-03-28 15h|
+|#|road-defense-outsiders-22e4ba|Road Defense: Outsiders|2,99€|20|2024-03-26 15h|2024-04-02 15h|
 |#|robocop-rogue-city|RoboCop: Rogue City|49,99€|40|2024-03-13 17h|2024-03-27 17h|
 |#|rogue-legacy|Rogue Legacy|11,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|rogue-legacy-2|Rogue Legacy 2|19,99€|40|2024-03-14 15h|2024-03-28 15h|
