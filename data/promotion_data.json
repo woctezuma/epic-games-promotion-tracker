@@ -3808,11 +3808,11 @@
   },
   {
     "discountPercentage": 25,
-    "endDate": "2024-04-09T15:00:00.000Z",
+    "endDate": "2024-04-16T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1799,
     "slug": "galaxy-trek-c165da",
-    "startDate": "2024-04-02T15:00:00.000Z",
+    "startDate": "2024-04-09T15:00:00.000Z",
     "title": "Galaxy Trek"
   },
   {
@@ -6156,6 +6156,15 @@
     "title": "Mortal Kombat 1"
   },
   {
+    "discountPercentage": 45,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3599,
+    "slug": "mortal-online-2-d7bb78",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Mortal Online 2"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2024-03-26T15:00:00.000Z",
     "isFree": false,
@@ -7828,6 +7837,15 @@
     "slug": "road-96-full-journey",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Road 96: Mile 0 \u2013 Full Journey Bundle"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2024-04-02T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 299,
+    "slug": "road-defense-outsiders-22e4ba",
+    "startDate": "2024-03-26T15:00:00.000Z",
+    "title": "Road Defense: Outsiders"
   },
   {
     "discountPercentage": 40,
