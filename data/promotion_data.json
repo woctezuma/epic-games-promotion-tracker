@@ -3019,7 +3019,7 @@
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1599,
-    "slug": "elderand-09e6bc",
+    "slug": "877328abf77e4156bdcf056a6b2ee732",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Elderand"
   },
@@ -7434,15 +7434,6 @@
     "title": "ROD Multiplayer Car Driving"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2024-03-06T06:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 8999,
-    "slug": "rpgunite-819421",
-    "startDate": "2024-02-29T06:00:00.000Z",
-    "title": "RPG MAKER UNITE"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -8998,6 +8989,15 @@
     "slug": "strike-solitaire-e86661",
     "startDate": "2024-03-05T16:00:00.000Z",
     "title": "Strike Solitaire"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-04-16T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "strike-solitaire-2-fe76a2",
+    "startDate": "2024-04-09T15:00:00.000Z",
+    "title": "Strike Solitaire 2"
   },
   {
     "discountPercentage": 80,
