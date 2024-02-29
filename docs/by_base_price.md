@@ -641,7 +641,7 @@
 |#|cyanide-happiness-freakpocalypse|Cyanide & Happiness - Freakpocalypse (Episode 1)|15,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|double-cross-08a736|Double Cross|15,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|down-in-bermuda|Down in Bermuda|15,99€|90|2024-03-14 15h|2024-03-28 15h|
-|#|877328abf77e4156bdcf056a6b2ee732|Elderand|15,99€|50|2024-03-14 15h|2024-03-28 15h|
+|#|elderand-09e6bc|Elderand|15,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|fisti-fluffs|Fisti-Fluffs|15,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|frontier-hunter-erzas-wheel-of-fortune|Frontier Hunter: Erza's Wheel of Fortune|15,99€|25|2024-03-14 08h|2024-03-29 08h|
 |#|guardians-of-hyelore-0b07d3|Guardians of Hyelore|15,99€|80|2024-03-01 16h|2024-03-09 16h|

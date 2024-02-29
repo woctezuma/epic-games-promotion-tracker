@@ -14,7 +14,6 @@
 |#|3d-chess-online-615201|3D Chess Online|0,89€|40|2024-03-01 17h|2024-03-15 17h|
 |#|7-billion-humans|7 Billion Humans|11,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|762-high-calibre-762-hard-life-93f60a|7,62 High Calibre|4,99€|85|2024-03-14 15h|2024-03-28 15h|
-|#|877328abf77e4156bdcf056a6b2ee732|Elderand|15,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|9-years-of-shadows-a40c92|9 Years of Shadows|19,99€|30|2024-03-01 16h|2024-03-09 16h|
 |#|9-years-of-shadows-a40c92|9 Years of Shadows|19,99€|30|2024-04-11 15h|2024-04-25 15h|
 |#|a-game-of-thrones-5858a3|A Game Of Thrones: The Board Game Digital Edition|19,99€|50|2024-03-15 15h|2024-03-28 15h|
@@ -340,6 +339,7 @@
 |#|edge-of-galaxy-092087|Edge Of Galaxy|6,99€|65|2024-03-14 15h|2024-03-28 15h|
 |#|effie-f06e3c|Effie|16,79€|75|2024-03-14 15h|2024-03-28 15h|
 |#|eigengrau-62aef0|Eigengrau|8,99€|40|2024-03-14 15h|2024-03-28 15h|
+|#|elderand-09e6bc|Elderand|15,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|eldest-souls-83e12a|Eldest Souls|19,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|electrician-simulator-164e9f|Electrician Simulator|16,19€|45|2024-03-14 15h|2024-03-28 15h|
 |#|electro-magnate-6ac0b7|Electro Magnate|3,59€|30|2024-02-29 17h|2024-03-07 19h|
