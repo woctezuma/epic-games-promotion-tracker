@@ -2421,6 +2421,24 @@
     "title": "Cursed to Golf"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-03-26T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "cyvenge-55b56b",
+    "startDate": "2024-03-19T15:00:00.000Z",
+    "title": "CyVenge"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-05-10T23:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "cyvenge-55b56b",
+    "startDate": "2024-04-29T22:00:00.000Z",
+    "title": "CyVenge"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -5436,12 +5454,12 @@
     "title": "Island Farmer"
   },
   {
-    "discountPercentage": 27,
-    "endDate": "2024-03-22T18:00:00.000Z",
+    "discountPercentage": 30,
+    "endDate": "2024-03-22T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 449,
     "slug": "island-idle-rpg-350c2e",
-    "startDate": "2024-03-15T18:00:00.000Z",
+    "startDate": "2024-03-16T16:00:00.000Z",
     "title": "Island Idle RPG"
   },
   {
@@ -8017,15 +8035,6 @@
     "slug": "protocorgi",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "ProtoCorgi"
-  },
-  {
-    "discountPercentage": 10,
-    "endDate": "2024-03-28T02:05:00.000Z",
-    "isFree": false,
-    "originalPrice": 449,
-    "slug": "psychiatrist-simulator-bfbcc4",
-    "startDate": "2024-02-29T13:00:00.000Z",
-    "title": "Psychiatrist Simulator"
   },
   {
     "discountPercentage": 60,
