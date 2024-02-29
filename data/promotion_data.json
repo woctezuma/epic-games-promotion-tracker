@@ -2781,6 +2781,15 @@
     "title": "Deep Sky Derelicts"
   },
   {
+    "discountPercentage": 25,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1299,
+    "slug": "deepest-chamber-f7085f",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Deepest Chamber: Resurrection"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
