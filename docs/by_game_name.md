@@ -104,6 +104,7 @@
 |#|asteroids-recharged|Asteroids: Recharged|8,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|astrea-six-sided-oracles-33c949|Astrea Six Sided Oracles|22,39€|20|2024-03-14 15h|2024-03-28 15h|
 |#|astria-ascending|Astria Ascending|34,99€|75|2024-03-14 15h|2024-03-28 15h|
+|#|astro-duel-2-e1261d|Astro Duel 2|17,99€|100|2024-03-07 16h|2024-03-14 16h|
 |#|atari-mania-702c68|Atari Mania|19,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|automachef|Automachef|14,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|avatar-frontiers-of-pandora|Avatar: Frontiers of Pandora|69,99€|40|2024-03-14 15h|2024-03-28 15h|
