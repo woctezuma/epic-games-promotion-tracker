@@ -1,6 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|unwording-a20943|Unwording|4,49€|15|2024-03-01 18h|2024-03-08 17h|
 |#|we-are-football-2024-1654a9|WE ARE FOOTBALL 2024|39,99€|10|2024-03-04 14h|2024-03-11 14h|
 |#|1001-jigsaw-home-sweet-home-1b1e16|1001 Jigsaw. Home Sweet Home|4,49€|30|2024-03-05 16h|2024-03-12 15h|
 |#|anvil-saga-c6fe9d|Anvil Saga|17,99€|30|2024-03-05 16h|2024-03-12 15h|
@@ -44,17 +43,8 @@
 |#|trigon-ce1936|Trigon: Space Story|19,99€|70|2024-03-05 16h|2024-03-12 15h|
 |#|poultrygeist-6ab305|Troma Presents Poultrygeist|9,89€|10|2024-03-05 16h|2024-03-12 15h|
 |#|metal-mind-84cb32|Metal Mind|16,19€|15|2024-03-07 08h|2024-03-14 08h|
-|#|mallofmayhem-15344c|Mall of Mayhem|7,19€|80|2024-03-01 19h|2024-03-14 14h|
 |#|astro-duel-2-e1261d|Astro Duel 2|17,99€|100|2024-03-07 16h|2024-03-14 16h|
 |#|hidden-shapes-lovely-cats-6bfb39|Hidden Shapes Lovely Cats|0,89€|15|2024-03-07 17h|2024-03-14 17h|
-|#|3d-chess-online-615201|3D Chess Online|0,89€|40|2024-03-01 17h|2024-03-15 17h|
-|#|bus-simulator-car-driving-40dbef|Bus Simulator Car Driving|0,89€|40|2024-03-01 17h|2024-03-15 17h|
-|#|cargo-truck-simulator-2023-ff83fb|Cargo Truck Simulator 2023|0,89€|40|2024-03-01 17h|2024-03-15 17h|
-|#|city-ambulance-car-driving-1d3872|City Ambulance Car Driving|0,89€|40|2024-03-01 17h|2024-03-15 17h|
-|#|e30-drift-car-simulator-2d2977|E30 Drift Car Simulator|0,89€|40|2024-03-01 17h|2024-03-15 17h|
-|#|extreme-car-drift-simulator-cbd3c8|Extreme Car Drift Simulator|0,89€|40|2024-03-01 17h|2024-03-15 17h|
-|#|gangster-city-mafia-car-driving-88434c|Gangster City Mafia Car Driving|0,89€|40|2024-03-01 17h|2024-03-15 17h|
-|#|offroad-jeep-4x4-car-driving-simulator-2a3e3d|Offroad Jeep 4x4 Car Driving Simulator|0,89€|40|2024-03-01 17h|2024-03-15 17h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|55|2024-03-10 22h|2024-03-17 22h|
 |#|passing-by-d47e9b|Passing By - A Tailwind Journey|9,99€|10|2024-03-12 14h|2024-03-19 14h|
 |#|1001-jigsaw-earth-chronicles-7b25fc|1001 Jigsaw. Earth Chronicles|4,49€|60|2024-03-12 15h|2024-03-19 15h|
@@ -77,6 +67,13 @@
 |#|revive-and-prosper-267559|Revive and Prosper|17,99€|20|2024-03-14 17h|2024-03-21 17h|
 |#|island-idle-rpg-350c2e|Island Idle RPG|4,49€|30|2024-03-16 16h|2024-03-22 16h|
 |#|cat-slide-tiles-93b9d4|Cat Slide Tiles|1,79€|40|2024-03-15 17h|2024-03-22 17h|
+|#|city-car-parking-simulator-231485|City Car Parking Simulator|0,89€|45|2024-03-09 17h|2024-03-23 17h|
+|#|garbage-truck-driving-simulator-5dcc67|Garbage Truck Driving Simulator|0,89€|45|2024-03-09 17h|2024-03-23 17h|
+|#|police-car-escape-simulator-f9cd17|Police Car Escape Simulator|0,89€|45|2024-03-09 17h|2024-03-23 17h|
+|#|police-car-suv-simulator-092560|Police Car SUV Simulator|0,89€|45|2024-03-09 17h|2024-03-23 17h|
+|#|real-drift-multiplayer-4bdd6d|Real Drift Multiplayer|1,79€|70|2024-03-09 17h|2024-03-23 17h|
+|#|real-motocross-driving-simulator-c8ff84|Real Motocross Driving Simulator|0,89€|45|2024-03-09 17h|2024-03-23 17h|
+|#|school-bus-driving-simulator-b878a8|School Bus Driving Simulator|0,89€|45|2024-03-09 17h|2024-03-23 17h|
 |#|he-will-shoot-46efff|He Will Shoot|1,59€|75|2024-03-11 22h|2024-03-23 22h|
 |#|the-last-hope-atomic-bomb-crypto-war-d307f6|Find the Oil Racing Edition|1,79€|95|2024-03-09 23h|2024-03-23 23h|
 |#|need-for-spirit-offroad-edition-7eee16|I Need Spirit! Off-Road Edition|2,69€|90|2024-03-09 23h|2024-03-23 23h|
@@ -94,6 +91,7 @@
 |#|reef-escape-22dfdd|Reef Escape|13,49€|50|2024-03-19 15h|2024-03-26 15h|
 |#|royal-defense-invisible-threat-b39335|Royal Defense - Invisible Threat|4,49€|60|2024-03-19 15h|2024-03-26 15h|
 |#|travel-cuisine-2-sweet-life-7a4239|Travel Cuisine 2: Sweet Life|4,49€|50|2024-03-19 15h|2024-03-26 15h|
+|#|xr22seaguard-480497|XR22-SEAGUARD|6,29€|30|2024-03-19 15h|2024-03-26 15h|
 |#|ad-infinitum|Ad Infinitum|34,99€|50|2024-03-13 17h|2024-03-27 17h|
 |#|asterix-and-obelix-heroes|Asterix and Obelix Heroes|19,99€|60|2024-03-13 17h|2024-03-27 17h|
 |#|bee-simulator|Bee Simulator|19,99€|90|2024-03-13 17h|2024-03-27 17h|
@@ -1021,6 +1019,7 @@
 |#|the-talos-principle|The Talos Principle|28,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|137a5c5247e345fa93205635036979bc-08|The Talos Principle 2|28,99€|20|2024-03-14 15h|2024-03-28 15h|
 |#|the-telltale-batman|The Telltale Batman Shadows Edition|24,99€|60|2024-03-14 15h|2024-03-28 15h|
+|#|the-unbeatable-path-8af8fc|The Unbeatable Path|17,99€|25|2024-03-14 15h|2024-03-28 15h|
 |#|the-uncertain-last-quiet-day|The Uncertain: Last Quiet Day|7,99€|85|2024-03-14 15h|2024-03-28 15h|
 |#|the-uncertain-light-at-the-end|The Uncertain: Light at the End|7,99€|85|2024-03-14 15h|2024-03-28 15h|
 |#|the-unfinished-swan|The Unfinished Swan|13,99€|70|2024-03-14 15h|2024-03-28 15h|
@@ -1163,6 +1162,7 @@
 |#|deltav-rings-of-saturn-4cd187|ΔV: Rings of Saturn|8,99€|42|2024-03-14 15h|2024-03-28 15h|
 |#|travellers-rest-c115d1|Travellers Rest|17,99€|25|2024-03-07 18h|2024-03-28 18h|
 |#|frontier-hunter-erzas-wheel-of-fortune|Frontier Hunter: Erza's Wheel of Fortune|15,99€|25|2024-03-14 08h|2024-03-29 08h|
+|#|unlock-the-cat-487fac|Unlock The Cat|1,79€|40|2024-03-22 17h|2024-03-29 17h|
 |#|atv-offroad-simulator-24-d9f4ad|ATV Offroad Simulator 24|0,89€|40|2024-03-16 17h|2024-03-30 17h|
 |#|car-parking-real-driving-sim-ba7eed|Car Parking Real Driving Sim|0,89€|40|2024-03-16 17h|2024-03-30 17h|
 |#|classic-car-drive-simulator-a540a9|Classic Car Simulator Car Driving|0,89€|40|2024-03-16 17h|2024-03-30 17h|
@@ -1209,6 +1209,7 @@
 |#|detective-solitaire-butler-story-a24413|Detective Solitaire. Butler Story|4,49€|50|2024-04-02 15h|2024-04-09 15h|
 |#|elven-rivers-the-forgotten-lands-collectors-edition-13f068|Elven Rivers. The Forgotten Lands Collector's Edition|11,69€|40|2024-04-02 15h|2024-04-09 15h|
 |#|gnomes-garden-return-of-the-queen-159f41|Gnomes Garden. Return Of The Queen|4,49€|40|2024-04-02 15h|2024-04-09 15h|
+|#|roads-of-time-2-odyssey-c63595|Roads of Time 2: Odyssey Collector's Edition|4,49€|50|2024-04-02 15h|2024-04-09 15h|
 |#|royal-roads-2-the-magic-box-18eae3|Royal Roads 2: The Magic Box|4,49€|50|2024-04-02 15h|2024-04-09 15h|
 |#|spooky-mahjong-b9f12c|Spooky Mahjong|4,49€|50|2024-04-02 15h|2024-04-09 15h|
 |#|thanksgiving-day-mosaic-dc698a|Thanksgiving Day Mosaic|4,49€|50|2024-04-02 15h|2024-04-09 15h|
@@ -1240,8 +1241,16 @@
 |#|backrooms-eight-levels-c7ea4c|Backrooms: Eight Levels|0,89€|50|2024-04-01 22h|2024-04-15 22h|
 |#|car-tuning-simulator-38ddaf|Car Tuning Simulator|0,79€|50|2024-04-01 22h|2024-04-15 22h|
 |#|the-meme-hunter-bf7086|THE MEME HUNTER|0,89€|50|2024-04-01 22h|2024-04-15 22h|
+|#|1001-jigsaw-legends-of-mystery-14e62d|1001 Jigsaw. Legends of Mystery|4,49€|50|2024-04-09 15h|2024-04-16 15h|
+|#|christmas-mahjong-50bcc6|Christmas Mahjong|4,49€|80|2024-04-09 15h|2024-04-16 15h|
+|#|cooking-trip-d45abd|Cooking Trip Collectors Edition|4,49€|50|2024-04-09 15h|2024-04-16 15h|
 |#|dizzy-fight-7bbfe7|Dizzy Fight|7,19€|50|2024-04-09 15h|2024-04-16 15h|
+|#|fairytale-solitaire-red-riding-hood-289828|Fairytale Solitaire: Red Riding Hood|4,49€|50|2024-04-09 15h|2024-04-16 15h|
 |#|galaxy-trek-c165da|Galaxy Trek|17,99€|25|2024-04-09 15h|2024-04-16 15h|
+|#|iron-heart-7b7727|Iron Heart Steam Tower|4,49€|50|2024-04-09 15h|2024-04-16 15h|
+|#|mahjong-magic-journey-2-28de53|Mahjong Magic Journey 2|3,59€|50|2024-04-09 15h|2024-04-16 15h|
+|#|mahjong-world-contest-2-0d946a|Mahjong World Contest 2|4,49€|50|2024-04-09 15h|2024-04-16 15h|
+|#|mystery-solitaire-grimms-tales-2-e1e538|Mystery Solitaire. Grimm's Tales 2|4,49€|60|2024-04-09 15h|2024-04-16 15h|
 |#|strike-solitaire-2-fe76a2|Strike Solitaire 2|2,69€|50|2024-04-09 15h|2024-04-16 15h|
 |#|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|40|2024-04-09 05h|2024-04-22 04h|
 |#|nextbots-in-the-backrooms-b5677b|Nextbots In The Backrooms|0,89€|50|2024-04-07 22h|2024-04-23 22h|
@@ -1377,6 +1386,7 @@
 |#|revive-and-prosper-267559|Revive and Prosper|17,99€|20|2024-04-21 16h|2024-04-28 16h|
 |#|the-silent-city-chapter-2-cccb19|THE SILENT CITY CHAPTER 2|8,09€|40|2024-03-31 00h|2024-04-29 23h|
 |#|the-silent-city-chapter-1-94a47d|The Silent City Chapter 1|5,39€|40|2024-03-31 00h|2024-04-29 23h|
+|#|reyna-darkness-0e1bb8|Reyna Darkness|7,50€|40|2024-04-01 00h|2024-05-01 00h|
 |#|overtop-ed5e49|Overtop|4,49€|90|2024-04-15 22h|2024-05-03 22h|
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2024-04-15 22h|2024-05-03 22h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|75|2024-04-19 22h|2024-05-04 22h|

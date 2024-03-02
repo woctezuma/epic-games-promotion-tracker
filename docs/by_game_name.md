@@ -5,11 +5,11 @@
 |#|1001-jigsaw-cute-cats-36eb93|1001 Jigsaw Cute Cats|4,49€|50|2024-03-26 15h|2024-04-02 15h|
 |#|1001-jigsaw-earth-chronicles-7b25fc|1001 Jigsaw. Earth Chronicles|4,49€|60|2024-03-12 15h|2024-03-19 15h|
 |#|1001-jigsaw-home-sweet-home-1b1e16|1001 Jigsaw. Home Sweet Home|4,49€|30|2024-03-05 16h|2024-03-12 15h|
+|#|1001-jigsaw-legends-of-mystery-14e62d|1001 Jigsaw. Legends of Mystery|4,49€|50|2024-04-09 15h|2024-04-16 15h|
 |#|1001-jigsaw-world-tour-australian-puzzles-ae477c|1001 Jigsaw. World Tour: Australian Puzzles|4,49€|50|2024-04-02 15h|2024-04-09 15h|
 |#|1001-jigsaw-world-tour-great-america-61afca|1001 Jigsaw. World Tour: Great America|4,49€|30|2024-03-14 15h|2024-03-28 15h|
 |#|1001-jigsaw-world-tour-london-06dba1|1001 Jigsaw. World Tour: London|4,49€|50|2024-03-14 15h|2024-03-28 15h|
 |#|1428-shadows-over-silesia-266e5f|1428: Shadows over Silesia|19,99€|55|2024-03-13 18h|2024-03-31 17h|
-|#|3d-chess-online-615201|3D Chess Online|0,89€|40|2024-03-01 17h|2024-03-15 17h|
 |#|combat-naval-package-hunter-killer-685f4a|688(I) Hunter/Killer|7,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|7-billion-humans|7 Billion Humans|11,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|762-high-calibre-762-hard-life-93f60a|7,62 High Calibre|4,99€|85|2024-03-14 15h|2024-03-28 15h|
@@ -192,7 +192,6 @@
 |#|bug-fables-the-everlasting-sapling-851aa9|Bug Fables -The Everlasting Sapling-|15,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|bugsnax|Bugsnax|19,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|bus-driver-simulator-186e62|Bus Driver Simulator|17,99€|80|2024-03-14 15h|2024-03-28 15h|
-|#|bus-simulator-car-driving-40dbef|Bus Simulator Car Driving|0,89€|40|2024-03-01 17h|2024-03-15 17h|
 |#|bus-world-5de29e|Bus World|17,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|carrion|CARRION|19,50€|60|2024-03-14 15h|2024-03-28 15h|
 |#|chuchel-203808|CHUCHEL|9,99€|70|2024-03-14 15h|2024-03-28 15h|
@@ -203,7 +202,6 @@
 |#|car-tuning-simulator-38ddaf|Car Tuning Simulator|0,79€|50|2024-04-01 22h|2024-04-15 22h|
 |#|carcassonne|Carcassonne|9,99€|60|2024-03-15 15h|2024-03-28 15h|
 |#|card-shark-8f95f0|Card Shark|19,50€|40|2024-03-14 15h|2024-03-28 15h|
-|#|cargo-truck-simulator-2023-ff83fb|Cargo Truck Simulator 2023|0,89€|40|2024-03-01 17h|2024-03-15 17h|
 |#|carnival-games|Carnival Games|39,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|carto|Carto|19,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|cassiodora-090292|Cassiodora|14,99€|45|2024-03-14 15h|2024-03-28 15h|
@@ -225,11 +223,12 @@
 |#|choochoo-charles-0eece5|Choo-Choo Charles|17,99€|20|2024-05-31 08h|2024-06-08 08h|
 |#|choochoo-charles-0eece5|Choo-Choo Charles|17,99€|60|2024-07-12 08h|2024-07-20 08h|
 |#|chorus|Chorus|24,99€|75|2024-03-14 15h|2024-03-28 15h|
+|#|christmas-mahjong-50bcc6|Christmas Mahjong|4,49€|80|2024-04-09 15h|2024-04-16 15h|
 |#|christmas-mahjong-2-27e98b|Christmas Mahjong 2|4,49€|50|2024-03-05 16h|2024-03-12 15h|
 |#|chromagun|ChromaGun|12,99€|55|2024-03-14 15h|2024-03-28 15h|
 |#|chronos-before-the-ashes|Chronos: Before the Ashes|29,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|cities-skylines|Cities: Skylines|29,99€|70|2024-03-14 15h|2024-03-28 15h|
-|#|city-ambulance-car-driving-1d3872|City Ambulance Car Driving|0,89€|40|2024-03-01 17h|2024-03-15 17h|
+|#|city-car-parking-simulator-231485|City Car Parking Simulator|0,89€|45|2024-03-09 17h|2024-03-23 17h|
 |#|city-gridlock-7bff10|City Gridlock|4,49€|30|2024-03-12 15h|2024-03-19 15h|
 |#|city-of-beats-08f8c2|City of Beats|19,99€|30|2024-04-11 15h|2024-04-25 15h|
 |#|clad-in-iron-war-of-the-pacific-1879-68f244|Clad In Iron War of The Pacific 1879|23,99€|80|2024-03-14 15h|2024-03-28 15h|
@@ -247,6 +246,7 @@
 |#|conquest-of-the-new-world-f321f0|Conquest of the New World|7,99€|20|2024-03-14 15h|2024-03-28 15h|
 |#|contraption-maker-66e1ec|Contraption Maker|10,79€|30|2024-03-14 15h|2024-03-28 15h|
 |#|cookie-cutter-d25fbc|Cookie Cutter|17,99€|30|2024-03-14 15h|2024-03-28 15h|
+|#|cooking-trip-d45abd|Cooking Trip Collectors Edition|4,49€|50|2024-04-09 15h|2024-04-16 15h|
 |#|cooking-trip-new-challenge-collectors-edition-59c8df|Cooking Trip New Challenge. Collector's Edition|4,49€|30|2024-03-12 15h|2024-03-19 15h|
 |#|coromon-d4ef84|Coromon|15,99€|40|2024-04-11 15h|2024-04-25 15h|
 |#|corrupt-political-simulator-f94058|Corrupt - Political Simulator|3,59€|93|2024-03-16 23h|2024-03-30 23h|
@@ -361,7 +361,6 @@
 |#|dust-and-neon-41b927|Dust and Neon|17,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|dying-light|Dying Light Enhanced Edition|29,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|dynopunk-2035f5|Dynopunk|14,79€|50|2024-03-14 15h|2024-03-28 15h|
-|#|e30-drift-car-simulator-2d2977|E30 Drift Car Simulator|0,89€|40|2024-03-01 17h|2024-03-15 17h|
 |#|ea-sports-fc-24|EA SPORTS FC™ 24 Standard Edition|69,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|ea-sports-pga-tour|EA SPORTS™ PGA TOUR™|69,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|wrc|EA SPORTS™ WRC|49,99€|60|2024-03-14 15h|2024-03-28 15h|
@@ -399,7 +398,6 @@
 |#|expeditions-rome|Expeditions: Rome|44,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|expeditions-viking|Expeditions: Viking|29,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|extreme-bike-racing-e00c81|Extreme Bike Racing|8,99€|80|2024-03-05 16h|2024-03-12 15h|
-|#|extreme-car-drift-simulator-cbd3c8|Extreme Car Drift Simulator|0,89€|40|2024-03-01 17h|2024-03-15 17h|
 |#|extreme-formula-championship-a8271d|Extreme Formula Championship|7,19€|80|2024-03-05 16h|2024-03-12 15h|
 |#|extreme-offroad-racing-439263|Extreme Offroad Racing|8,99€|80|2024-03-05 16h|2024-03-12 15h|
 |#|eyes-in-the-dark|Eyes in the Dark|12,50€|60|2024-03-14 15h|2024-03-28 15h|
@@ -411,6 +409,7 @@
 |#|faster-than-light|FTL: Faster Than Light|9,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|faces-of-war-3c2686|Faces of War|4,99€|85|2024-03-14 15h|2024-03-28 15h|
 |#|fae-farm|Fae Farm|39,99€|30|2024-03-14 15h|2024-03-28 15h|
+|#|fairytale-solitaire-red-riding-hood-289828|Fairytale Solitaire: Red Riding Hood|4,49€|50|2024-04-09 15h|2024-04-16 15h|
 |#|fall-of-light-darkest-edition-055f95|Fall of Light: Darkest Edition|14,99€|90|2024-03-14 15h|2024-03-28 15h|
 |#|fall-of-porcupine-659d85|Fall of Porcupine|19,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|fallen-legion-revenants-a2c944|Fallen Legion Revenants|39,99€|35|2024-03-14 15h|2024-03-28 15h|
@@ -478,7 +477,7 @@
 |#|game-dev-masters-f5d8f9|Game Dev Masters|13,49€|50|2024-04-11 15h|2024-04-25 15h|
 |#|gamedec|Gamedec - Definitive Edition|29,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|gangs-of-sherwood|Gangs of Sherwood|39,99€|55|2024-03-13 17h|2024-03-27 17h|
-|#|gangster-city-mafia-car-driving-88434c|Gangster City Mafia Car Driving|0,89€|40|2024-03-01 17h|2024-03-15 17h|
+|#|garbage-truck-driving-simulator-5dcc67|Garbage Truck Driving Simulator|0,89€|45|2024-03-09 17h|2024-03-23 17h|
 |#|garden-city-c73d37|Garden City|4,49€|30|2024-03-26 15h|2024-04-02 15h|
 |#|gardenia-630482|Gardenia|8,99€|10|2024-03-05 23h|2024-03-19 23h|
 |#|gas-station-simulator-ee93c7|Gas Station Simulator|17,99€|30|2024-03-14 15h|2024-03-28 15h|
@@ -590,6 +589,7 @@
 |#|atom-eve-ff090d|Invincible Presents: Atom Eve|9,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|iron-dungeon-4345a1|Iron Dungeon|8,99€|20|2024-03-14 15h|2024-03-28 15h|
 |#|iron-harvest|Iron Harvest|29,99€|85|2024-03-14 15h|2024-03-28 15h|
+|#|iron-heart-7b7727|Iron Heart Steam Tower|4,49€|50|2024-04-09 15h|2024-04-16 15h|
 |#|ironcast|Ironcast|12,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|ironclads-anglo-russian-war-1866-0d16d5|Ironclads - Anglo Russian War 1866|8,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|ironclads-chincha-islands-war-1866-7e49e1|Ironclads - Chincha Islands War 1866|8,99€|80|2024-03-14 15h|2024-03-28 15h|
@@ -698,10 +698,11 @@
 |#|mafia-iii-definitive-edition|Mafia III: Definitive Edition|29,99€|67|2024-03-14 15h|2024-03-28 15h|
 |#|mafia-definitive-edition|Mafia: Definitive Edition|39,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|mafia-trilogy|Mafia: Trilogy|59,99€|67|2024-03-14 15h|2024-03-28 15h|
+|#|mahjong-magic-journey-2-28de53|Mahjong Magic Journey 2|3,59€|50|2024-04-09 15h|2024-04-16 15h|
 |#|mahjong-royal-towers-e327ab|Mahjong Royal Towers|2,69€|30|2024-03-19 15h|2024-03-26 15h|
 |#|mahjong-valentines-day-6e1e50|Mahjong Valentine's Day|4,49€|50|2024-03-19 15h|2024-03-26 15h|
+|#|mahjong-world-contest-2-0d946a|Mahjong World Contest 2|4,49€|50|2024-04-09 15h|2024-04-16 15h|
 |#|mail-time-ed1aea|Mail Time|19,99€|30|2024-04-11 15h|2024-04-25 15h|
-|#|mallofmayhem-15344c|Mall of Mayhem|7,19€|80|2024-03-01 19h|2024-03-14 14h|
 |#|mallofmayhem-15344c|Mall of Mayhem|7,19€|30|2024-07-01 06h|2024-07-30 22h|
 |#|mallofmayhem-15344c|Mall of Mayhem|7,19€|30|2024-10-01 06h|2024-10-30 22h|
 |#|man-in-the-dark-5c468e|Man in the Dark|10,79€|10|2024-03-11 04h|2024-03-25 04h|
@@ -773,6 +774,7 @@
 |#|my-summer-adventure-memories-of-another-life-e30d54|My Summer Adventure: Memories of Another Life|7,79€|50|2024-03-14 15h|2024-03-28 15h|
 |#|mysteries-of-the-undead-46140a|Mysteries of the Undead|4,49€|50|2024-03-26 15h|2024-04-02 15h|
 |#|mystery-solitaire-grimms-tales-244e2a|Mystery Solitaire. Grimm's Tales|4,49€|50|2024-03-05 16h|2024-03-12 15h|
+|#|mystery-solitaire-grimms-tales-2-e1e538|Mystery Solitaire. Grimm's Tales 2|4,49€|60|2024-04-09 15h|2024-04-16 15h|
 |#|mystery-solitaire-the-black-raven-65336d|Mystery Solitaire. The Black Raven|4,49€|50|2024-03-19 15h|2024-03-26 15h|
 |#|mystery-in-the-office-f629ad|Mystery in the Office|1,99€|25|2024-03-07 17h|2024-03-21 17h|
 |#|mythforce-d2710b|MythForce|26,99€|50|2024-03-14 15h|2024-03-28 15h|
@@ -805,7 +807,6 @@
 |#|outriders|OUTRIDERS|19,99€|50|2024-03-21 15h|2024-04-04 15h|
 |#|overpass|OVERPASS™|39,99€|80|2024-03-13 17h|2024-03-27 17h|
 |#|observation|Observation|24,50€|75|2024-03-14 15h|2024-03-28 15h|
-|#|offroad-jeep-4x4-car-driving-simulator-2a3e3d|Offroad Jeep 4x4 Car Driving Simulator|0,89€|40|2024-03-01 17h|2024-03-15 17h|
 |#|offworld-trading-company|Offworld Trading Company|29,99€|66|2024-03-14 15h|2024-03-28 15h|
 |#|oirbo-c063b7|Oirbo|13,49€|22|2024-03-14 15h|2024-03-28 15h|
 |#|olija|Olija|14,79€|70|2024-03-14 15h|2024-03-28 15h|
@@ -864,6 +865,8 @@
 |#|planet-of-lana-a9febe|Planet of Lana|19,99€|30|2024-03-14 15h|2024-03-28 15h|
 |#|play-with-me-escape-room-586cc4|Play with Me - Escape Room|2,69€|90|2024-03-25 14h|2024-04-14 13h|
 |#|poker-club-6e18ee|Poker Club|19,99€|45|2024-03-14 15h|2024-03-28 15h|
+|#|police-car-escape-simulator-f9cd17|Police Car Escape Simulator|0,89€|45|2024-03-09 17h|2024-03-23 17h|
+|#|police-car-suv-simulator-092560|Police Car SUV Simulator|0,89€|45|2024-03-09 17h|2024-03-23 17h|
 |#|potato-sack-racing-simulator-2024-3c3c83|Potato Sack Racing Simulator 2024|17,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|potion-permit|Potion Permit|15,99€|30|2024-03-14 15h|2024-03-28 15h|
 |#|power-to-the-people-dfb0f9|Power to the People|11,99€|45|2024-03-14 15h|2024-03-28 15h|
@@ -915,6 +918,8 @@
 |#|ranch-simulator|Ranch Simulator|20,99€|55|2024-03-14 15h|2024-03-28 15h|
 |#|rayman-origins|Rayman Origins|9,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|relegion-fe9684|Re-Legion|9,99€|85|2024-03-14 15h|2024-03-28 15h|
+|#|real-drift-multiplayer-4bdd6d|Real Drift Multiplayer|1,79€|70|2024-03-09 17h|2024-03-23 17h|
+|#|real-motocross-driving-simulator-c8ff84|Real Motocross Driving Simulator|0,89€|45|2024-03-09 17h|2024-03-23 17h|
 |#|realpolitiks-2|Realpolitiks II|24,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|rebel-cops|Rebel Cops|9,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|recollection-71f3a4|Recollection|4,49€|45|2024-03-14 15h|2024-03-28 15h|
@@ -940,6 +945,7 @@
 |#|revita-d8ff55|Revita|16,99€|45|2024-03-14 15h|2024-03-28 15h|
 |#|revive-and-prosper-267559|Revive and Prosper|17,99€|20|2024-03-14 17h|2024-03-21 17h|
 |#|revive-and-prosper-267559|Revive and Prosper|17,99€|20|2024-04-21 16h|2024-04-28 16h|
+|#|reyna-darkness-0e1bb8|Reyna Darkness|7,50€|40|2024-04-01 00h|2024-05-01 00h|
 |#|rhiannon-curse-of-the-four-branches-ae93f9|Rhiannon - Curse of the Four Branches|3,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|rims-racing|RiMS Racing|49,99€|75|2024-03-13 17h|2024-03-27 17h|
 |#|riders-republic|Riders Republic|39,99€|75|2024-03-14 15h|2024-03-28 15h|
@@ -957,6 +963,7 @@
 |#|road-96-mile-0|Road 96: Mile 0|12,96€|70|2024-03-14 15h|2024-03-28 15h|
 |#|road-96-full-journey|Road 96: Mile 0 – Full Journey Bundle|26,96€|73|2024-03-14 15h|2024-03-28 15h|
 |#|road-defense-outsiders-22e4ba|Road Defense: Outsiders|2,99€|20|2024-03-26 15h|2024-04-02 15h|
+|#|roads-of-time-2-odyssey-c63595|Roads of Time 2: Odyssey Collector's Edition|4,49€|50|2024-04-02 15h|2024-04-09 15h|
 |#|robocop-rogue-city|RoboCop: Rogue City|49,99€|40|2024-03-13 17h|2024-03-27 17h|
 |#|rogue-legacy|Rogue Legacy|11,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|rogue-legacy-2|Rogue Legacy 2|19,99€|40|2024-03-14 15h|2024-03-28 15h|
@@ -1000,6 +1007,7 @@
 |#|saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited|Saviors of Sapphire Wings & Strangers of Sword City Revisited|49,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited|Saviors of Sapphire Wings & Strangers of Sword City Revisited|49,99€|60|2024-04-27 15h|2024-05-06 14h|
 |#|schein-77f039|Schein|3,99€|80|2024-03-14 15h|2024-03-28 15h|
+|#|school-bus-driving-simulator-b878a8|School Bus Driving Simulator|0,89€|45|2024-03-09 17h|2024-03-23 17h|
 |#|scorchlands-823596|Scorchlands|10,79€|35|2024-03-14 15h|2024-03-28 15h|
 |#|scorn|Scorn|39,99€|65|2024-04-11 15h|2024-04-25 15h|
 |#|scott-pilgrim-vs-the-world-the-game|Scott Pilgrim vs. The World: The Game – Complete Edition|14,99€|67|2024-03-14 15h|2024-03-28 15h|
@@ -1244,6 +1252,7 @@
 |#|the-talos-principle|The Talos Principle|28,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|137a5c5247e345fa93205635036979bc-08|The Talos Principle 2|28,99€|20|2024-03-14 15h|2024-03-28 15h|
 |#|the-telltale-batman|The Telltale Batman Shadows Edition|24,99€|60|2024-03-14 15h|2024-03-28 15h|
+|#|the-unbeatable-path-8af8fc|The Unbeatable Path|17,99€|25|2024-03-14 15h|2024-03-28 15h|
 |#|the-uncertain-last-quiet-day|The Uncertain: Last Quiet Day|7,99€|85|2024-03-14 15h|2024-03-28 15h|
 |#|the-uncertain-light-at-the-end|The Uncertain: Light at the End|7,99€|85|2024-03-14 15h|2024-03-28 15h|
 |#|the-unfinished-swan|The Unfinished Swan|13,99€|70|2024-03-14 15h|2024-03-28 15h|
@@ -1341,8 +1350,8 @@
 |#|universe-sandbox|Universe Sandbox|23,99€|33|2024-03-14 15h|2024-03-28 15h|
 |#|universe-for-sale-05c53e|Universe for Sale|13,49€|15|2024-03-14 15h|2024-03-28 15h|
 |#|unlimited-escape-fdcd10|Unlimited Escape|7,19€|80|2024-03-14 15h|2024-03-28 15h|
+|#|unlock-the-cat-487fac|Unlock The Cat|1,79€|40|2024-03-22 17h|2024-03-29 17h|
 |#|untitled-goose-game|Untitled Goose Game|15,99€|50|2024-03-14 15h|2024-03-28 15h|
-|#|unwording-a20943|Unwording|4,49€|15|2024-03-01 18h|2024-03-08 17h|
 |#|urban-tale-75b4f0|Urban Tale|12,59€|40|2024-03-14 15h|2024-03-28 15h|
 |#|urbek-city-builder-17cf7d|Urbek City Builder|17,09€|45|2024-04-11 15h|2024-04-25 15h|
 |#|vcb-why-city-4k-68d7f2|VCB Why City 4k|4,49€|80|2024-03-14 15h|2024-03-28 15h|
@@ -1411,6 +1420,7 @@
 |#|wrestlequest-324fb5|WrestleQuest|29,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|xcom-2|XCOM® 2|49,99€|95|2024-03-14 15h|2024-03-28 15h|
 |#|xiii-07f8c3|XIII|19,99€|80|2024-03-14 15h|2024-03-28 15h|
+|#|xr22seaguard-480497|XR22-SEAGUARD|6,29€|30|2024-03-19 15h|2024-03-26 15h|
 |#|yars-revenge-recharged-fbdc11|Yars: Recharged|7,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|yokus-island-express|Yoku's Island Express|19,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|yooka-laylee-and-the-impossible-lair|Yooka-Laylee and the Impossible Lair|29,99€|90|2024-03-14 15h|2024-03-28 15h|
