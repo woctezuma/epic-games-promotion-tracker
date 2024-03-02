@@ -46,6 +46,15 @@
   },
   {
     "discountPercentage": 50,
+    "endDate": "2024-04-16T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "1001-jigsaw-legends-of-mystery-14e62d",
+    "startDate": "2024-04-09T15:00:00.000Z",
+    "title": "1001 Jigsaw. Legends of Mystery"
+  },
+  {
+    "discountPercentage": 50,
     "endDate": "2024-04-09T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 449,
@@ -79,15 +88,6 @@
     "slug": "1428-shadows-over-silesia-266e5f",
     "startDate": "2024-03-13T18:00:00.000Z",
     "title": "1428: Shadows over Silesia"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2024-03-15T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "3d-chess-online-615201",
-    "startDate": "2024-03-01T17:00:00.000Z",
-    "title": "3D Chess Online"
   },
   {
     "discountPercentage": 80,
@@ -1728,15 +1728,6 @@
     "title": "Bus Driver Simulator"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2024-03-15T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "bus-simulator-car-driving-40dbef",
-    "startDate": "2024-03-01T17:00:00.000Z",
-    "title": "Bus Simulator Car Driving"
-  },
-  {
     "discountPercentage": 60,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -1825,15 +1816,6 @@
     "slug": "card-shark-8f95f0",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Card Shark"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2024-03-15T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "cargo-truck-simulator-2023-ff83fb",
-    "startDate": "2024-03-01T17:00:00.000Z",
-    "title": "Cargo Truck Simulator 2023"
   },
   {
     "discountPercentage": 80,
@@ -2025,6 +2007,15 @@
     "title": "Chorus"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-04-16T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "christmas-mahjong-50bcc6",
+    "startDate": "2024-04-09T15:00:00.000Z",
+    "title": "Christmas Mahjong"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-03-12T15:00:00.000Z",
     "isFree": false,
@@ -2061,13 +2052,13 @@
     "title": "Cities: Skylines"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2024-03-15T17:00:00.000Z",
+    "discountPercentage": 45,
+    "endDate": "2024-03-23T17:00:00.000Z",
     "isFree": false,
     "originalPrice": 89,
-    "slug": "city-ambulance-car-driving-1d3872",
-    "startDate": "2024-03-01T17:00:00.000Z",
-    "title": "City Ambulance Car Driving"
+    "slug": "city-car-parking-simulator-231485",
+    "startDate": "2024-03-09T17:00:00.000Z",
+    "title": "City Car Parking Simulator"
   },
   {
     "discountPercentage": 30,
@@ -2221,6 +2212,15 @@
     "slug": "cookie-cutter-d25fbc",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Cookie Cutter"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-04-16T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "cooking-trip-d45abd",
+    "startDate": "2024-04-09T15:00:00.000Z",
+    "title": "Cooking Trip Collectors Edition"
   },
   {
     "discountPercentage": 30,
@@ -3249,15 +3249,6 @@
     "title": "Dynopunk"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2024-03-15T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "e30-drift-car-simulator-2d2977",
-    "startDate": "2024-03-01T17:00:00.000Z",
-    "title": "E30 Drift Car Simulator"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -3591,15 +3582,6 @@
     "title": "Extreme Bike Racing"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2024-03-15T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "extreme-car-drift-simulator-cbd3c8",
-    "startDate": "2024-03-01T17:00:00.000Z",
-    "title": "Extreme Car Drift Simulator"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2024-03-12T15:00:00.000Z",
     "isFree": false,
@@ -3697,6 +3679,15 @@
     "slug": "fae-farm",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Fae Farm"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-04-16T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "fairytale-solitaire-red-riding-hood-289828",
+    "startDate": "2024-04-09T15:00:00.000Z",
+    "title": "Fairytale Solitaire: Red Riding Hood"
   },
   {
     "discountPercentage": 90,
@@ -4302,13 +4293,13 @@
     "title": "Gangs of Sherwood"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2024-03-15T17:00:00.000Z",
+    "discountPercentage": 45,
+    "endDate": "2024-03-23T17:00:00.000Z",
     "isFree": false,
     "originalPrice": 89,
-    "slug": "gangster-city-mafia-car-driving-88434c",
-    "startDate": "2024-03-01T17:00:00.000Z",
-    "title": "Gangster City Mafia Car Driving"
+    "slug": "garbage-truck-driving-simulator-5dcc67",
+    "startDate": "2024-03-09T17:00:00.000Z",
+    "title": "Garbage Truck Driving Simulator"
   },
   {
     "discountPercentage": 30,
@@ -5310,6 +5301,15 @@
     "title": "Iron Harvest"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-04-16T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "iron-heart-7b7727",
+    "startDate": "2024-04-09T15:00:00.000Z",
+    "title": "Iron Heart Steam Tower"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -6282,6 +6282,15 @@
     "title": "Mafia: Trilogy"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-04-16T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 359,
+    "slug": "mahjong-magic-journey-2-28de53",
+    "startDate": "2024-04-09T15:00:00.000Z",
+    "title": "Mahjong Magic Journey 2"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2024-03-26T15:00:00.000Z",
     "isFree": false,
@@ -6300,6 +6309,15 @@
     "title": "Mahjong Valentine's Day"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-04-16T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "mahjong-world-contest-2-0d946a",
+    "startDate": "2024-04-09T15:00:00.000Z",
+    "title": "Mahjong World Contest 2"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -6307,15 +6325,6 @@
     "slug": "mail-time-ed1aea",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Mail Time"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2024-03-14T14:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 719,
-    "slug": "mallofmayhem-15344c",
-    "startDate": "2024-03-01T19:00:00.000Z",
-    "title": "Mall of Mayhem"
   },
   {
     "discountPercentage": 30,
@@ -6957,6 +6966,15 @@
     "title": "Mystery Solitaire. Grimm's Tales"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2024-04-16T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "mystery-solitaire-grimms-tales-2-e1e538",
+    "startDate": "2024-04-09T15:00:00.000Z",
+    "title": "Mystery Solitaire. Grimm's Tales 2"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-03-26T15:00:00.000Z",
     "isFree": false,
@@ -7243,15 +7261,6 @@
     "slug": "observation",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Observation"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2024-03-15T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "offroad-jeep-4x4-car-driving-simulator-2a3e3d",
-    "startDate": "2024-03-01T17:00:00.000Z",
-    "title": "Offroad Jeep 4x4 Car Driving Simulator"
   },
   {
     "discountPercentage": 66,
@@ -7776,6 +7785,24 @@
     "title": "Poker Club"
   },
   {
+    "discountPercentage": 45,
+    "endDate": "2024-03-23T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "police-car-escape-simulator-f9cd17",
+    "startDate": "2024-03-09T17:00:00.000Z",
+    "title": "Police Car Escape Simulator"
+  },
+  {
+    "discountPercentage": 45,
+    "endDate": "2024-03-23T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "police-car-suv-simulator-092560",
+    "startDate": "2024-03-09T17:00:00.000Z",
+    "title": "Police Car SUV Simulator"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -8235,6 +8262,24 @@
     "title": "Re-Legion"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2024-03-23T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "real-drift-multiplayer-4bdd6d",
+    "startDate": "2024-03-09T17:00:00.000Z",
+    "title": "Real Drift Multiplayer"
+  },
+  {
+    "discountPercentage": 45,
+    "endDate": "2024-03-23T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "real-motocross-driving-simulator-c8ff84",
+    "startDate": "2024-03-09T17:00:00.000Z",
+    "title": "Real Motocross Driving Simulator"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -8460,6 +8505,15 @@
     "title": "Revive and Prosper"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-05-01T00:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 750,
+    "slug": "reyna-darkness-0e1bb8",
+    "startDate": "2024-04-01T00:00:00.000Z",
+    "title": "Reyna Darkness"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -8611,6 +8665,15 @@
     "slug": "road-defense-outsiders-22e4ba",
     "startDate": "2024-03-26T15:00:00.000Z",
     "title": "Road Defense: Outsiders"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-04-09T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "roads-of-time-2-odyssey-c63595",
+    "startDate": "2024-04-02T15:00:00.000Z",
+    "title": "Roads of Time 2: Odyssey Collector's Edition"
   },
   {
     "discountPercentage": 40,
@@ -8998,6 +9061,15 @@
     "slug": "schein-77f039",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Schein"
+  },
+  {
+    "discountPercentage": 45,
+    "endDate": "2024-03-23T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "school-bus-driving-simulator-b878a8",
+    "startDate": "2024-03-09T17:00:00.000Z",
+    "title": "School Bus Driving Simulator"
   },
   {
     "discountPercentage": 35,
@@ -11196,6 +11268,15 @@
     "title": "The Telltale Batman Shadows Edition"
   },
   {
+    "discountPercentage": 25,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "the-unbeatable-path-8af8fc",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "The Unbeatable Path"
+  },
+  {
     "discountPercentage": 85,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -12069,6 +12150,15 @@
     "title": "Unlimited Escape"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-03-29T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "unlock-the-cat-487fac",
+    "startDate": "2024-03-22T17:00:00.000Z",
+    "title": "Unlock The Cat"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -12076,15 +12166,6 @@
     "slug": "untitled-goose-game",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Untitled Goose Game"
-  },
-  {
-    "discountPercentage": 15,
-    "endDate": "2024-03-08T17:30:00.000Z",
-    "isFree": false,
-    "originalPrice": 449,
-    "slug": "unwording-a20943",
-    "startDate": "2024-03-01T18:30:00.000Z",
-    "title": "Unwording"
   },
   {
     "discountPercentage": 40,
@@ -12697,6 +12778,15 @@
     "slug": "xiii-07f8c3",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "XIII"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2024-03-26T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 629,
+    "slug": "xr22seaguard-480497",
+    "startDate": "2024-03-19T15:00:00.000Z",
+    "title": "XR22-SEAGUARD"
   },
   {
     "discountPercentage": 50,
