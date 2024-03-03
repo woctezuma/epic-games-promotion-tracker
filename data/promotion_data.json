@@ -1719,6 +1719,15 @@
     "title": "Bugsnax"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "bum-ball-bears-067a49",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Bum Ball Bears"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -1951,6 +1960,15 @@
     "slug": "chicken-assassin-reloaded-279863",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Chicken Assassin Reloaded"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-03-12T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "chicken-vs-eggs-b807ab",
+    "startDate": "2024-03-05T16:00:00.000Z",
+    "title": "Chicken vs Eggs"
   },
   {
     "discountPercentage": 60,
@@ -3097,6 +3115,15 @@
   },
   {
     "discountPercentage": 50,
+    "endDate": "2024-03-12T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "dont-stop-7bbd8c",
+    "startDate": "2024-03-05T16:00:00.000Z",
+    "title": "Don\u00b4t STOP"
+  },
+  {
+    "discountPercentage": 50,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1199,
@@ -3463,6 +3490,15 @@
     "slug": "encased",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Encased"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1950,
+    "slug": "enchanted-portals-65ca68",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Enchanted Portals"
   },
   {
     "discountPercentage": 50,
@@ -7110,6 +7146,15 @@
     "title": "Neurodeck"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-03-12T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "never-synth-403a04",
+    "startDate": "2024-03-05T22:00:00.000Z",
+    "title": "Never Synth"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -7954,6 +7999,24 @@
     "slug": "prison-city-ac156c",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Prison City"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2024-04-03T23:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2699,
+    "slug": "pro-basketball-manager-2024-5c764f",
+    "startDate": "2024-03-23T05:00:00.000Z",
+    "title": "Pro Basketball Manager 2024"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2024-05-16T23:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2699,
+    "slug": "pro-basketball-manager-2024-5c764f",
+    "startDate": "2024-05-04T04:05:00.000Z",
+    "title": "Pro Basketball Manager 2024"
   },
   {
     "discountPercentage": 15,
@@ -9880,6 +9943,33 @@
     "slug": "starship-troopers-terran-command",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Starship Troopers: Terran Command"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-04-11T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 369,
+    "slug": "steal-then-just-escape-87b7b6",
+    "startDate": "2024-03-29T16:00:00.000Z",
+    "title": "Steal, Then Just Escape"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-05-24T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 369,
+    "slug": "steal-then-just-escape-87b7b6",
+    "startDate": "2024-05-13T16:00:00.000Z",
+    "title": "Steal, Then Just Escape"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-07-11T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 369,
+    "slug": "steal-then-just-escape-87b7b6",
+    "startDate": "2024-06-27T16:00:00.000Z",
+    "title": "Steal, Then Just Escape"
   },
   {
     "discountPercentage": 80,
