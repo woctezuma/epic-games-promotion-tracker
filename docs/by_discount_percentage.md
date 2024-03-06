@@ -282,6 +282,8 @@
 |#|this-war-of-mine|This War of Mine|18,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|through-the-darkest-of-times|Through the Darkest of Times|14,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|time-loader|Time Loader|12,49€|80|2024-03-14 15h|2024-03-28 15h|
+|#|timothy-vs-the-aliens-2f5b36|Timothy vs the Aliens|13,49€|80|2024-03-29 13h|2024-04-07 10h|
+|#|timothy-vs-the-aliens-2f5b36|Timothy vs the Aliens|13,49€|80|2024-05-08 12h|2024-05-19 10h|
 |#|ghost-recon-wildlands|Tom Clancy's Ghost Recon Wildlands Standard Edition|49,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|rainbow-six-siege|Tom Clancy's Rainbow Six® Siege|19,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|tomb-raider|Tomb Raider GAME OF THE YEAR EDITION|19,99€|80|2024-03-14 15h|2024-03-28 15h|
