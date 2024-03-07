@@ -6687,6 +6687,15 @@
     "title": "Mediterranea Inferno"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 975,
+    "slug": "melvor-idle-b6a9b3",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Melvor Idle"
+  },
+  {
     "discountPercentage": 85,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -6739,15 +6748,6 @@
     "slug": "merrily-perilly-99353b",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Merrily Perilly"
-  },
-  {
-    "discountPercentage": 15,
-    "endDate": "2024-03-14T08:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1619,
-    "slug": "metal-mind-84cb32",
-    "startDate": "2024-03-07T08:00:00.000Z",
-    "title": "Metal Mind"
   },
   {
     "discountPercentage": 90,
