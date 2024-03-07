@@ -11088,6 +11088,15 @@
     "title": "The Dungeon of Naheulbeuk"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1079,
+    "slug": "the-ecdysis-9c880c",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "The Ecdysis"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
