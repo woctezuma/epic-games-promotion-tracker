@@ -743,13 +743,13 @@
 |#|mcpixel-3-fae9c2|McPixel 3|9,75€|60|2024-03-14 15h|2024-03-28 15h|
 |#|mechwarrior-5|MechWarrior 5: Mercenaries Standard Edition|23,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|mediterranea-inferno-6a1352|Mediterranea Inferno|13,49€|50|2024-03-14 15h|2024-03-28 15h|
+|#|melvor-idle-b6a9b3|Melvor Idle|9,75€|50|2024-03-14 15h|2024-03-28 15h|
 |#|men-of-war-74bf75|Men of War|4,99€|85|2024-03-14 15h|2024-03-28 15h|
 |#|men-of-war-assault-squad-1294b4|Men of War Assault Squad|9,99€|90|2024-03-14 15h|2024-03-28 15h|
 |#|men-of-war-condemned-heroes-5947be|Men of War Condemned Heroes|7,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|men-of-war-red-tide-984ee6|Men of War: Red Tide|4,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|men-of-war-vietnam-a61b4f|Men of War: Vietnam - Special edition|8,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|merrily-perilly-99353b|Merrily Perilly|3,19€|75|2024-03-14 15h|2024-03-28 15h|
-|#|metal-mind-84cb32|Metal Mind|16,19€|15|2024-03-07 08h|2024-03-14 08h|
 |#|metro-2033-redux|Metro 2033 Redux|19,99€|90|2024-03-14 15h|2024-03-28 15h|
 |#|metro-exodus|Metro Exodus Standard Edition|29,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|metro-last-light-redux|Metro Last Light Redux|19,99€|90|2024-03-14 15h|2024-03-28 15h|

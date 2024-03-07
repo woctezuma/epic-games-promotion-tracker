@@ -1,6 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|metal-mind-84cb32|Metal Mind|16,19€|15|2024-03-07 08h|2024-03-14 08h|
 |#|astro-duel-2-e1261d|Astro Duel 2|17,99€|100|2024-03-07 16h|2024-03-14 16h|
 |#|stoneshard-5dd96e|Stoneshard|22,39€|20|2024-03-07 16h|2024-03-14 16h|
 |#|hidden-shapes-lovely-cats-6bfb39|Hidden Shapes Lovely Cats|0,89€|15|2024-03-07 17h|2024-03-14 17h|
@@ -598,6 +597,7 @@
 |#|mcpixel-3-fae9c2|McPixel 3|9,75€|60|2024-03-14 15h|2024-03-28 15h|
 |#|mechwarrior-5|MechWarrior 5: Mercenaries Standard Edition|23,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|mediterranea-inferno-6a1352|Mediterranea Inferno|13,49€|50|2024-03-14 15h|2024-03-28 15h|
+|#|melvor-idle-b6a9b3|Melvor Idle|9,75€|50|2024-03-14 15h|2024-03-28 15h|
 |#|men-of-war-74bf75|Men of War|4,99€|85|2024-03-14 15h|2024-03-28 15h|
 |#|men-of-war-assault-squad-1294b4|Men of War Assault Squad|9,99€|90|2024-03-14 15h|2024-03-28 15h|
 |#|men-of-war-condemned-heroes-5947be|Men of War Condemned Heroes|7,99€|80|2024-03-14 15h|2024-03-28 15h|

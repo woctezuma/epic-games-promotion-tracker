@@ -964,6 +964,7 @@
 |#|mahjong-world-contest-2-0d946a|Mahjong World Contest 2|4,49€|50|2024-04-09 15h|2024-04-16 15h|
 |#|mechwarrior-5|MechWarrior 5: Mercenaries Standard Edition|23,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|mediterranea-inferno-6a1352|Mediterranea Inferno|13,49€|50|2024-03-14 15h|2024-03-28 15h|
+|#|melvor-idle-b6a9b3|Melvor Idle|9,75€|50|2024-03-14 15h|2024-03-28 15h|
 |#|missile-command-recharged-2022-33e34b|Missile Command: Recharged|7,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|model-builder-f9b456|Model Builder|16,79€|50|2024-04-11 15h|2024-04-25 15h|
 |#|monster-outbreak-2e8c08|Monster Outbreak|14,99€|50|2024-04-11 15h|2024-04-25 15h|
@@ -1485,7 +1486,6 @@
 |#|graven|GRAVEN|24,99€|15|2024-03-14 15h|2024-03-28 15h|
 |#|hidden-shapes-lovely-cats-6bfb39|Hidden Shapes Lovely Cats|0,89€|15|2024-03-07 17h|2024-03-14 17h|
 |#|lilaina-space-bounty-hunter-dcf0d4|Lilaina: Space Bounty Hunter|1,79€|15|2024-03-19 15h|2024-03-26 15h|
-|#|metal-mind-84cb32|Metal Mind|16,19€|15|2024-03-07 08h|2024-03-14 08h|
 |#|murder-is-game-over-deal-killer-7449bf|Murder Is Game Over - Deal Killer|4,49€|15|2024-03-14 15h|2024-03-28 15h|
 |#|probo-rush-b3ee54|Probo Rush|4,49€|15|2024-03-14 15h|2024-03-28 15h|
 |#|railway-empire-2-01|Railway Empire 2|49,99€|15|2024-03-14 15h|2024-03-28 15h|
