@@ -18,6 +18,7 @@
 |#|traffic-brains-2-c0ce5e|Traffic Brains 2|4,49€|30|2024-03-12 15h|2024-03-19 15h|
 |#|virus-infinite-b9ed68|Virus Infinite|8,99€|50|2024-03-12 15h|2024-03-19 15h|
 |#|world-war-z|World War Z Aftermath|39,99€|40|2024-03-12 15h|2024-03-19 15h|
+|#|the-bridge|The Bridge|9,99€|100|2024-03-14 15h|2024-03-21 15h|
 |#|dnf-duel-07d055|DNF Duel|49,99€|60|2024-03-14 17h|2024-03-21 17h|
 |#|mystery-in-the-office-f629ad|Mystery in the Office|1,99€|25|2024-03-07 17h|2024-03-21 17h|
 |#|revive-and-prosper-267559|Revive and Prosper|17,99€|20|2024-03-14 17h|2024-03-21 17h|
@@ -941,7 +942,7 @@
 |#|tetris-effect|Tetris® Effect: Connected|31,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|the-alien-cube-789431|The Alien Cube|19,99€|77|2024-03-14 15h|2024-03-28 15h|
 |#|the-big-con|The Big Con|12,49€|75|2024-03-14 15h|2024-03-28 15h|
-|#|6f6d898469b942eb9b0664be35ac6555|The Bunny Graveyard|6,29€|30|2024-03-14 15h|2024-03-28 15h|
+|#|the-bunny-graveyard-310f69|The Bunny Graveyard|6,29€|30|2024-03-14 15h|2024-03-28 15h|
 |#|the-callisto-protocol|The Callisto Protocol|59,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|the-captain|The Captain|15,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|the-crew-motorfest|The Crew™ Motorfest Standard Edition|69,99€|50|2024-03-14 15h|2024-03-28 15h|
