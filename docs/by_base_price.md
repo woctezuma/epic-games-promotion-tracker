@@ -1102,7 +1102,7 @@
 |#|super-alloy-ranger-4252cc|Super Alloy Ranger|8,99€|30|2024-03-14 15h|2024-03-28 15h|
 |#|survive-on-raft-9845bd|Survive on Raft|8,99€|30|2024-03-14 15h|2024-03-28 15h|
 |#|tales-of-the-tiny-planet-ab9e11|Tales of the Tiny Planet|8,99€|80|2024-03-14 15h|2024-03-28 15h|
-|#|tandem-a-tale-of-shadows-c3f55e|Tandem: A Tale of Shadows|8,99€|50|2024-03-14 15h|2024-03-28 15h|
+|#|24ed2fb76b334158b9e580c01f7282a6|Tandem: A Tale of Shadows|8,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|forest-quartet-5d03e3|The Forest Quartet|8,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|the-future-project-f19b52|The Future Project|8,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|the-outforce-acfbb8|The Outforce|8,99€|80|2024-03-14 15h|2024-03-28 15h|
