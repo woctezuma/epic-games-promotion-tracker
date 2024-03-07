@@ -96,6 +96,7 @@
 |#|assassins-creed-mirage|Assassin's Creed® Mirage|49,99€|40|2024-04-08 15h|2024-04-15 15h|
 |#|battlefield-v-definitive-edition|Battlefield V Definitive Edition|49,99€|85|2024-03-14 15h|2024-03-28 15h|
 |#|dnf-duel-07d055|DNF Duel|49,99€|60|2024-03-14 17h|2024-03-21 17h|
+|#|cd4304b032534cf89a166241c23b32d5-04|Dungeons 4|49,99€|15|2024-03-14 15h|2024-03-28 15h|
 |#|wrc|EA SPORTS™ WRC|49,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|elex-ii|ELEX II|49,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|hot-wheels-unleashed-2|HOT WHEELS UNLEASHED™ 2 - Turbocharged|49,99€|50|2024-03-14 15h|2024-03-28 15h|
@@ -1081,6 +1082,7 @@
 |#|men-of-war-vietnam-a61b4f|Men of War: Vietnam - Special edition|8,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|mokoko-x-e2b09d|Mokoko X|8,99€|60|2024-04-11 15h|2024-04-25 15h|
 |#|my-island-6fc611|My Island|8,99€|50|2024-04-11 15h|2024-04-25 15h|
+|#|night-loops-aa3cc2|Night Loops|8,99€|20|2024-04-11 15h|2024-04-25 15h|
 |#|outbreak-devious-beginnings-5c0af8|Outbreak Devious Beginnings|8,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|outbreak-epidemic-viral-terror-54b6e9|Outbreak Epidemic Viral Terror|8,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|outbreak-lost-hope-broken-faith-77b3f9|Outbreak Lost Hope Broken Faith|8,99€|50|2024-03-14 15h|2024-03-28 15h|
@@ -1209,6 +1211,7 @@
 |#|edge-of-galaxy-092087|Edge Of Galaxy|6,99€|65|2024-03-14 15h|2024-03-28 15h|
 |#|gift-of-parthax-67ee4f|Gift of Parthax|6,99€|85|2024-03-14 15h|2024-03-28 15h|
 |#|kings-bounty-the-legend-b69320|King's Bounty: The Legend|6,99€|85|2024-03-14 15h|2024-03-28 15h|
+|#|march-of-shrooms-2581de|March of Shrooms|6,99€|30|2024-04-11 15h|2024-04-25 15h|
 |#|necrovision-lost-company-6896c2|NecroVisioN: Lost Company|6,99€|85|2024-03-14 15h|2024-03-28 15h|
 |#|pilgrims-6d250f|Pilgrims|6,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|protocorgi|ProtoCorgi|6,99€|75|2024-03-14 15h|2024-03-28 15h|

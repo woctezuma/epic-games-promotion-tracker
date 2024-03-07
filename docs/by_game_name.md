@@ -373,6 +373,7 @@
 |#|dumpy-and-bumpy-86c9d7|Dumpy and Bumpy|3,99€|30|2024-04-11 15h|2024-04-25 15h|
 |#|dungeon-drafters-82c40a|Dungeon Drafters|22,39€|20|2024-03-14 15h|2024-03-28 15h|
 |#|dungeons-3|Dungeons 3|29,99€|75|2024-03-14 15h|2024-03-28 15h|
+|#|cd4304b032534cf89a166241c23b32d5-04|Dungeons 4|49,99€|15|2024-03-14 15h|2024-03-28 15h|
 |#|dust-fleet-620614|Dust Fleet|19,99€|20|2024-04-11 15h|2024-04-25 15h|
 |#|dust-and-neon-41b927|Dust and Neon|17,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|dying-light|Dying Light Enhanced Edition|29,99€|70|2024-03-14 15h|2024-03-28 15h|
@@ -731,6 +732,7 @@
 |#|maneater|Maneater|36,99€|65|2024-03-14 15h|2024-03-28 15h|
 |#|marble-it-up-ultra-7b5692|Marble It Up! Ultra|26,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|marble-it-up-ultra-7b5692|Marble It Up! Ultra|26,99€|60|2024-05-01 07h|2024-05-14 07h|
+|#|march-of-shrooms-2581de|March of Shrooms|6,99€|30|2024-04-11 15h|2024-04-25 15h|
 |#|mari-and-bayu-the-road-home-7dc1d0|Mari and Bayu - The Road Home|12,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|mars-base-a00ce0|Mars Base|19,99€|60|2024-04-11 15h|2024-04-25 15h|
 |#|mars-horizon|Mars Horizon|15,99€|70|2024-04-11 15h|2024-04-25 15h|
@@ -816,6 +818,7 @@
 |#|nextbots-in-the-backrooms-b5677b|Nextbots In The Backrooms|0,89€|50|2024-05-25 22h|2024-06-11 22h|
 |#|nibiru-ce8efd|Nibiru|15,99€|75|2024-04-11 15h|2024-04-25 15h|
 |#|night-lights-4cd904|Night Lights|3,99€|70|2024-03-14 15h|2024-03-28 15h|
+|#|night-loops-aa3cc2|Night Loops|8,99€|20|2024-04-11 15h|2024-04-25 15h|
 |#|nikopol-secrets-of-the-immortals-18adec|Nikopol - Secrets of the Immortals|3,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|nira-02f6ee|Nira|7,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|no-straight-roads|No Straight Roads|24,99€|66|2024-04-11 15h|2024-04-25 15h|

@@ -1305,6 +1305,7 @@
 |#|mail-time-ed1aea|Mail Time|19,99€|30|2024-04-11 15h|2024-04-25 15h|
 |#|mallofmayhem-15344c|Mall of Mayhem|7,19€|30|2024-07-01 06h|2024-07-30 22h|
 |#|mallofmayhem-15344c|Mall of Mayhem|7,19€|30|2024-10-01 06h|2024-10-30 22h|
+|#|march-of-shrooms-2581de|March of Shrooms|6,99€|30|2024-04-11 15h|2024-04-25 15h|
 |#|mosaics-galore-4fbedf|Mosaics Galore|4,49€|30|2024-03-19 15h|2024-03-26 15h|
 |#|mr-run-and-jump-91ed30|Mr. Run and Jump|22,39€|30|2024-03-14 15h|2024-03-28 15h|
 |#|old-world|Old World|39,99€|30|2024-03-22 13h|2024-04-05 12h|
@@ -1432,6 +1433,7 @@
 |#|m1-tank-platoon-eef993|M1 Tank Platoon|7,99€|20|2024-03-14 15h|2024-03-28 15h|
 |#|m1-tank-platoon-2-2d2c31|M1 Tank Platoon II|7,99€|20|2024-03-14 15h|2024-03-28 15h|
 |#|molten-horn-e846ef|Molten Horn|7,19€|20|2024-03-14 15h|2024-03-28 15h|
+|#|night-loops-aa3cc2|Night Loops|8,99€|20|2024-04-11 15h|2024-04-25 15h|
 |#|orten-was-the-case-d108fb|Orten Was The Case|13,49€|20|2024-03-14 15h|2024-03-28 15h|
 |#|oxygen-cocktail-20cd1c|Oxygen Cocktail|5,39€|20|2024-03-14 15h|2024-03-28 15h|
 |#|pray-for-death-fe9a43|Pray for Death|7,99€|20|2024-03-14 15h|2024-03-28 15h|
@@ -1478,6 +1480,7 @@
 |#|boltbreak-c2bf02|BoltBreak|5,39€|18|2024-06-01 06h|2024-06-30 22h|
 |#|boltbreak-c2bf02|BoltBreak|5,39€|17|2024-09-01 06h|2024-09-30 22h|
 |#|bud-spencer-and-terence-hill-slaps-and-beans-2-faab3a|Bud Spencer and Terence Hill - Slaps and Beans 2|19,99€|15|2024-03-26 15h|2024-04-02 15h|
+|#|cd4304b032534cf89a166241c23b32d5-04|Dungeons 4|49,99€|15|2024-03-14 15h|2024-03-28 15h|
 |#|full-moon-rush-15f674|Full Moon Rush|4,49€|15|2024-03-14 15h|2024-03-28 15h|
 |#|graven|GRAVEN|24,99€|15|2024-03-14 15h|2024-03-28 15h|
 |#|hidden-shapes-lovely-cats-6bfb39|Hidden Shapes Lovely Cats|0,89€|15|2024-03-07 17h|2024-03-14 17h|
