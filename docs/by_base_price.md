@@ -733,7 +733,6 @@
 |#|eastern-exorcist-d49923|Eastern Exorcist|16,19€|20|2024-03-14 15h|2024-03-28 15h|
 |#|electrician-simulator-164e9f|Electrician Simulator|16,19€|45|2024-03-14 15h|2024-03-28 15h|
 |#|its-a-wrap-f392ae|It's a Wrap!|16,19€|40|2024-04-11 15h|2024-04-25 15h|
-|#|metal-mind-84cb32|Metal Mind|16,19€|15|2024-03-07 08h|2024-03-14 08h|
 |#|spirit-of-the-island|Spirit of the Island|16,19€|65|2024-03-14 15h|2024-03-28 15h|
 |#|the-fabulous-fear-machine-8e7c6b|The Fabulous Fear Machine|16,19€|33|2024-03-14 15h|2024-03-28 15h|
 |#|8doors-arums-afterlife-adventure|8Doors: Arum's Afterlife Adventure|15,99€|80|2024-03-14 15h|2024-03-28 15h|
@@ -1046,6 +1045,7 @@
 |#|bleak-sword-dx-5b2d4c|Bleak Sword DX|9,75€|20|2024-03-14 15h|2024-03-28 15h|
 |#|karmazoo-616bd0|KarmaZoo|9,75€|30|2024-03-14 15h|2024-03-28 15h|
 |#|mcpixel-3-fae9c2|McPixel 3|9,75€|60|2024-03-14 15h|2024-03-28 15h|
+|#|melvor-idle-b6a9b3|Melvor Idle|9,75€|50|2024-03-14 15h|2024-03-28 15h|
 |#|minit|Minit|9,75€|60|2024-03-14 15h|2024-03-28 15h|
 |#|stories-untold|Stories Untold|9,75€|80|2024-03-14 15h|2024-03-28 15h|
 |#|angry-video-game-nerd-1-and-2-deluxe-1eea79|Angry Video Game Nerd I & II Deluxe|8,99€|30|2024-04-11 15h|2024-04-25 15h|
