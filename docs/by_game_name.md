@@ -105,7 +105,6 @@
 |#|asteroids-recharged|Asteroids: Recharged|8,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|astrea-six-sided-oracles-33c949|Astrea Six Sided Oracles|22,39€|20|2024-03-14 15h|2024-03-28 15h|
 |#|astria-ascending|Astria Ascending|34,99€|75|2024-03-14 15h|2024-03-28 15h|
-|#|astro-duel-2-e1261d|Astro Duel 2|17,99€|100|2024-03-07 16h|2024-03-14 16h|
 |#|atari-mania-702c68|Atari Mania|19,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|automachef|Automachef|14,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|avatar-frontiers-of-pandora|Avatar: Frontiers of Pandora|69,99€|40|2024-03-14 15h|2024-03-28 15h|
@@ -336,6 +335,7 @@
 |#|destroy-all-humans|Destroy All Humans!|29,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|destroy-all-humans-2-reprobed|Destroy All Humans! 2 - Reprobed|39,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|detective-solitaire-butler-story-a24413|Detective Solitaire. Butler Story|4,49€|50|2024-04-02 15h|2024-04-09 15h|
+|#|deus-ex-mankind-divided-4c6370|Deus Ex - Mankind Divided|29,99€|100|2024-03-14 15h|2024-03-21 15h|
 |#|devils-island-03e902|Devil's Island|10,79€|65|2024-04-09 15h|2024-04-16 15h|
 |#|devils-island-03e902|Devil's Island|10,79€|70|2024-05-27 13h|2024-06-03 13h|
 |#|dice-legacy|Dice Legacy|14,99€|75|2024-03-14 15h|2024-03-28 15h|
@@ -428,6 +428,7 @@
 |#|final-fantasy-vii-remake-intergrade|FINAL FANTASY VII REMAKE INTERGRADE|79,99€|50|2024-03-21 15h|2024-04-04 15h|
 |#|frogue-c91fc5|FROGUE|9,89€|20|2024-03-26 15h|2024-04-02 15h|
 |#|faster-than-light|FTL: Faster Than Light|9,99€|75|2024-03-14 15h|2024-03-28 15h|
+|#|fur-squadron-0042b8|FUR Squadron|6,29€|50|2024-03-14 00h|2024-03-21 00h|
 |#|faces-of-war-3c2686|Faces of War|4,99€|85|2024-03-14 15h|2024-03-28 15h|
 |#|fae-farm|Fae Farm|39,99€|30|2024-03-14 15h|2024-03-28 15h|
 |#|fairytale-solitaire-red-riding-hood-289828|Fairytale Solitaire: Red Riding Hood|4,49€|50|2024-04-09 15h|2024-04-16 15h|
@@ -1151,7 +1152,6 @@
 |#|stillborn-slayer-298dd7|Stillborn Slayer|9,89€|20|2024-03-14 15h|2024-03-28 15h|
 |#|stone-guardian-81fcc1|Stone Guardian|11,69€|30|2024-03-14 15h|2024-03-28 15h|
 |#|stonekeep-d87a3b|Stonekeep|7,99€|20|2024-03-14 15h|2024-03-28 15h|
-|#|stoneshard-5dd96e|Stoneshard|22,39€|20|2024-03-07 16h|2024-03-14 16h|
 |#|stories-untold|Stories Untold|9,75€|80|2024-03-14 15h|2024-03-28 15h|
 |#|stranded-alien-dawn|Stranded: Alien Dawn|34,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|strawhart-776f4d|Strawhart|17,99€|66|2024-03-14 15h|2024-03-28 15h|

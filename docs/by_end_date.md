@@ -1,7 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|astro-duel-2-e1261d|Astro Duel 2|17,99€|100|2024-03-07 16h|2024-03-14 16h|
-|#|stoneshard-5dd96e|Stoneshard|22,39€|20|2024-03-07 16h|2024-03-14 16h|
 |#|hidden-shapes-lovely-cats-6bfb39|Hidden Shapes Lovely Cats|0,89€|15|2024-03-07 17h|2024-03-14 17h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|55|2024-03-10 22h|2024-03-17 22h|
 |#|passing-by-d47e9b|Passing By - A Tailwind Journey|9,99€|10|2024-03-12 14h|2024-03-19 14h|
@@ -18,6 +16,8 @@
 |#|traffic-brains-2-c0ce5e|Traffic Brains 2|4,49€|30|2024-03-12 15h|2024-03-19 15h|
 |#|virus-infinite-b9ed68|Virus Infinite|8,99€|50|2024-03-12 15h|2024-03-19 15h|
 |#|world-war-z|World War Z Aftermath|39,99€|40|2024-03-12 15h|2024-03-19 15h|
+|#|fur-squadron-0042b8|FUR Squadron|6,29€|50|2024-03-14 00h|2024-03-21 00h|
+|#|deus-ex-mankind-divided-4c6370|Deus Ex - Mankind Divided|29,99€|100|2024-03-14 15h|2024-03-21 15h|
 |#|the-bridge|The Bridge|9,99€|100|2024-03-14 15h|2024-03-21 15h|
 |#|dnf-duel-07d055|DNF Duel|49,99€|60|2024-03-14 17h|2024-03-21 17h|
 |#|mystery-in-the-office-f629ad|Mystery in the Office|1,99€|25|2024-03-07 17h|2024-03-21 17h|
