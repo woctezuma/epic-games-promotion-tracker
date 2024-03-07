@@ -945,15 +945,6 @@
     "title": "Astria Ascending"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2024-03-14T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 1799,
-    "slug": "astro-duel-2-e1261d",
-    "startDate": "2024-03-07T16:00:00.000Z",
-    "title": "Astro Duel 2"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -3024,6 +3015,15 @@
     "title": "Detective Solitaire. Butler Story"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2024-03-21T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 2999,
+    "slug": "deus-ex-mankind-divided-4c6370",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Deus Ex - Mankind Divided"
+  },
+  {
     "discountPercentage": 65,
     "endDate": "2024-04-16T15:00:00.000Z",
     "isFree": false,
@@ -3850,6 +3850,15 @@
     "slug": "faster-than-light",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "FTL: Faster Than Light"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-03-21T00:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 629,
+    "slug": "fur-squadron-0042b8",
+    "startDate": "2024-03-14T00:00:00.000Z",
+    "title": "FUR Squadron"
   },
   {
     "discountPercentage": 85,
@@ -10357,15 +10366,6 @@
     "slug": "stonekeep-d87a3b",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Stonekeep"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2024-03-14T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2239,
-    "slug": "stoneshard-5dd96e",
-    "startDate": "2024-03-07T16:00:00.000Z",
-    "title": "Stoneshard"
   },
   {
     "discountPercentage": 80,
