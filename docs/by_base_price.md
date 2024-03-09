@@ -918,6 +918,7 @@
 |#|rising-mist-36ba97|Rising Mist|13,49€|40|2024-03-14 15h|2024-03-28 15h|
 |#|sprawl-db4324|SPRAWL|13,49€|50|2024-03-14 15h|2024-03-28 15h|
 |#|sokobond|Sokobond|13,49€|70|2024-03-14 15h|2024-03-28 15h|
+|#|starport-trading-company-9b3538|Spaceport Trading Company|13,49€|25|2024-04-16 15h|2024-04-23 15h|
 |#|the-darkside-detective-02fd5a|The Darkside Detective|13,49€|70|2024-03-14 15h|2024-03-28 15h|
 |#|the-darkside-detective-a-fumble-in-the-dark-174fcf|The Darkside Detective A Fumble in the Dark|13,49€|45|2024-03-14 15h|2024-03-28 15h|
 |#|the-hive-f5c2c8|The Hive|13,49€|50|2024-03-14 15h|2024-03-28 15h|
@@ -1110,6 +1111,7 @@
 |#|mokoko-x-e2b09d|Mokoko X|8,99€|60|2024-04-11 15h|2024-04-25 15h|
 |#|my-island-6fc611|My Island|8,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|night-loops-aa3cc2|Night Loops|8,99€|20|2024-04-11 15h|2024-04-25 15h|
+|#|noroy-06d946|NoRoY|8,99€|70|2024-03-12 15h|2024-03-19 15h|
 |#|outbreak-devious-beginnings-5c0af8|Outbreak Devious Beginnings|8,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|outbreak-epidemic-viral-terror-54b6e9|Outbreak Epidemic Viral Terror|8,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|outbreak-lost-hope-broken-faith-77b3f9|Outbreak Lost Hope Broken Faith|8,99€|50|2024-03-14 15h|2024-03-28 15h|
@@ -1421,6 +1423,8 @@
 |#|steal-then-just-escape-87b7b6|Steal, Then Just Escape|3,69€|40|2024-03-29 16h|2024-04-11 16h|
 |#|steal-then-just-escape-87b7b6|Steal, Then Just Escape|3,69€|60|2024-05-13 16h|2024-05-24 16h|
 |#|steal-then-just-escape-87b7b6|Steal, Then Just Escape|3,69€|50|2024-06-27 16h|2024-07-11 16h|
+|#|steal-then-just-escape-87b7b6|Steal, Then Just Escape|3,69€|35|2024-08-17 16h|2024-09-06 16h|
+|#|steal-then-just-escape-87b7b6|Steal, Then Just Escape|3,69€|70|2024-10-27 16h|2024-11-20 16h|
 |#|boom-blaster-f3c6e0|Boom Blaster|3,59€|65|2024-03-14 15h|2024-03-28 15h|
 |#|corrupt-political-simulator-f94058|Corrupt - Political Simulator|3,59€|93|2024-03-16 23h|2024-03-30 23h|
 |#|covid-carl-7dd371|Covid Carl|3,59€|45|2024-03-14 15h|2024-03-28 15h|

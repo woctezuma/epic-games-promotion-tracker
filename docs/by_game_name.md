@@ -841,6 +841,7 @@
 |#|nikopol-secrets-of-the-immortals-18adec|Nikopol - Secrets of the Immortals|3,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|nira-02f6ee|Nira|7,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|no-straight-roads|No Straight Roads|24,99€|66|2024-04-11 15h|2024-04-25 15h|
+|#|noroy-06d946|NoRoY|8,99€|70|2024-03-12 15h|2024-03-19 15h|
 |#|nocturnal-ef3fa0|Nocturnal|16,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|nour|Nour: Play with Your Food|13,49€|25|2024-03-14 15h|2024-03-28 15h|
 |#|nova-strike|Nova Strike|9,99€|60|2024-03-13 17h|2024-03-27 17h|
@@ -1144,6 +1145,7 @@
 |#|space-rangers-hd-a-war-apart-455702|Space Rangers HD A War Apart|14,99€|85|2024-03-14 15h|2024-03-28 15h|
 |#|space-trader-merchant-marine-0426a8|Space Trader - Merchant Marine|3,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|spacebase-startopia|Spacebase Startopia - Standard Edition|39,99€|67|2024-03-14 15h|2024-03-28 15h|
+|#|starport-trading-company-9b3538|Spaceport Trading Company|13,49€|25|2024-04-16 15h|2024-04-23 15h|
 |#|spellforce-3|SpellForce 3 Reforced|39,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|spellforce-3-fallen-god|SpellForce 3: Fallen God|19,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|spellforce-3-soul-harvest|SpellForce 3: Soul Harvest|19,99€|75|2024-03-14 15h|2024-03-28 15h|
@@ -1164,6 +1166,8 @@
 |#|steal-then-just-escape-87b7b6|Steal, Then Just Escape|3,69€|40|2024-03-29 16h|2024-04-11 16h|
 |#|steal-then-just-escape-87b7b6|Steal, Then Just Escape|3,69€|60|2024-05-13 16h|2024-05-24 16h|
 |#|steal-then-just-escape-87b7b6|Steal, Then Just Escape|3,69€|50|2024-06-27 16h|2024-07-11 16h|
+|#|steal-then-just-escape-87b7b6|Steal, Then Just Escape|3,69€|35|2024-08-17 16h|2024-09-06 16h|
+|#|steal-then-just-escape-87b7b6|Steal, Then Just Escape|3,69€|70|2024-10-27 16h|2024-11-20 16h|
 |#|steel-fury-kharkov-1942-cdfbd6|Steel Fury Kharkov 1942|3,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|steelrising|Steelrising|49,99€|65|2024-03-13 17h|2024-03-27 17h|
 |#|steep|Steep Standard Edition|29,99€|85|2024-04-11 15h|2024-04-25 15h|
