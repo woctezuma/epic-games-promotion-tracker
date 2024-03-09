@@ -7569,6 +7569,15 @@
     "title": "No Straight Roads"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2024-03-19T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "noroy-06d946",
+    "startDate": "2024-03-12T15:00:00.000Z",
+    "title": "NoRoY"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -10296,6 +10305,15 @@
     "title": "Spacebase Startopia - Standard Edition"
   },
   {
+    "discountPercentage": 25,
+    "endDate": "2024-04-23T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "starport-trading-company-9b3538",
+    "startDate": "2024-04-16T15:00:00.000Z",
+    "title": "Spaceport Trading Company"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -10473,6 +10491,24 @@
     "originalPrice": 369,
     "slug": "steal-then-just-escape-87b7b6",
     "startDate": "2024-06-27T16:00:00.000Z",
+    "title": "Steal, Then Just Escape"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2024-09-06T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 369,
+    "slug": "steal-then-just-escape-87b7b6",
+    "startDate": "2024-08-17T16:00:00.000Z",
+    "title": "Steal, Then Just Escape"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2024-11-20T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 369,
+    "slug": "steal-then-just-escape-87b7b6",
+    "startDate": "2024-10-27T16:00:00.000Z",
     "title": "Steal, Then Just Escape"
   },
   {
