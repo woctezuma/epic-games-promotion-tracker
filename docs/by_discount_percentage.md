@@ -587,6 +587,7 @@
 |#|metro-simulator-2-532ff8|Metro Simulator 2|13,49€|70|2024-03-14 15h|2024-03-28 15h|
 |#|mutant-year-zero|Mutant Year Zero: Road to Eden|34,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|night-lights-4cd904|Night Lights|3,99€|70|2024-03-14 15h|2024-03-28 15h|
+|#|noroy-06d946|NoRoY|8,99€|70|2024-03-12 15h|2024-03-19 15h|
 |#|olija|Olija|14,79€|70|2024-03-14 15h|2024-03-28 15h|
 |#|paladin-dream-5d04e2|Paladin Dream|3,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|palladium-adventure-in-greece-f1ee1b|Palladium: Adventure in Greece|8,99€|70|2024-03-14 15h|2024-03-28 15h|
@@ -610,6 +611,7 @@
 |#|shadowhand|Shadowhand|11,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|sokobond|Sokobond|13,49€|70|2024-03-14 15h|2024-03-28 15h|
 |#|song-of-farca-1eb3f2|Song of Farca|19,50€|70|2024-03-14 15h|2024-03-28 15h|
+|#|steal-then-just-escape-87b7b6|Steal, Then Just Escape|3,69€|70|2024-10-27 16h|2024-11-20 16h|
 |#|tails-of-iron-587abd|Tails of Iron|24,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|the-callisto-protocol|The Callisto Protocol|59,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|the-darkside-detective-02fd5a|The Darkside Detective|13,49€|70|2024-03-14 15h|2024-03-28 15h|
@@ -1265,6 +1267,7 @@
 |#|settlement-survival-923f57|Settlement Survival|17,99€|35|2024-03-14 15h|2024-03-28 15h|
 |#|sheepo-62cd3e|Sheepo|7,99€|35|2024-03-14 15h|2024-03-28 15h|
 |#|starship-troopers-extermination-57f59d|Starship Troopers: Extermination|26,99€|35|2024-03-14 15h|2024-03-28 15h|
+|#|steal-then-just-escape-87b7b6|Steal, Then Just Escape|3,69€|35|2024-08-17 16h|2024-09-06 16h|
 |#|symphony-of-war-60a76e|Symphony of War|19,99€|35|2024-04-11 15h|2024-04-25 15h|
 |#|jackbox-party-pack-7|The Jackbox Party Pack 7|23,99€|35|2024-03-14 15h|2024-03-28 15h|
 |#|jackbox-party-pack-9|The Jackbox Party Pack 9|29,99€|35|2024-03-14 15h|2024-03-28 15h|
@@ -1399,6 +1402,7 @@
 |#|prehistoric-kingdom|Prehistoric Kingdom|23,99€|25|2024-03-14 15h|2024-03-28 15h|
 |#|skull-and-bones|SKULL AND BONES™|59,99€|25|2024-03-17 15h|2024-03-28 15h|
 |#|shadow-gambit-the-cursed-crew-0bca60|Shadow Gambit: The Cursed Crew|39,99€|25|2024-03-14 15h|2024-03-28 15h|
+|#|starport-trading-company-9b3538|Spaceport Trading Company|13,49€|25|2024-04-16 15h|2024-04-23 15h|
 |#|starship-troopers-terran-command|Starship Troopers: Terran Command|23,99€|25|2024-03-14 15h|2024-03-28 15h|
 |#|sudoku-zenkai-3990b1|Sudoku Zenkai|3,59€|25|2024-04-09 15h|2024-04-16 15h|
 |#|tales-from-the-borderlands|Tales from the Borderlands|19,99€|25|2024-03-14 15h|2024-03-28 15h|

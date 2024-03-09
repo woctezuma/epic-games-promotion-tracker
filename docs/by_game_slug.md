@@ -860,6 +860,7 @@
 |#|no-straight-roads|No Straight Roads|24,99€|66|2024-04-11 15h|2024-04-25 15h|
 |#|nocturnal-ef3fa0|Nocturnal|16,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|noob-the-factionless-ac623f|NOOB - The Factionless|29,99€|50|2024-03-14 15h|2024-03-28 15h|
+|#|noroy-06d946|NoRoY|8,99€|70|2024-03-12 15h|2024-03-19 15h|
 |#|nour|Nour: Play with Your Food|13,49€|25|2024-03-14 15h|2024-03-28 15h|
 |#|nova-strike|Nova Strike|9,99€|60|2024-03-13 17h|2024-03-27 17h|
 |#|observation|Observation|24,50€|75|2024-03-14 15h|2024-03-28 15h|
@@ -1180,12 +1181,15 @@
 |#|star-wars-squadrons|STAR WARS™: Squadrons|39,99€|95|2024-05-02 15h|2024-05-09 15h|
 |#|stareraabyss-border-c4fe84|STARS ERA: ABYSS FRONTIER|8,99€|30|2024-04-11 15h|2024-04-25 15h|
 |#|starless-bb4b3c|Starless|5,99€|50|2024-03-14 15h|2024-03-28 15h|
+|#|starport-trading-company-9b3538|Spaceport Trading Company|13,49€|25|2024-04-16 15h|2024-04-23 15h|
 |#|starship-troopers-extermination-57f59d|Starship Troopers: Extermination|26,99€|35|2024-03-14 15h|2024-03-28 15h|
 |#|starship-troopers-terran-command|Starship Troopers: Terran Command|23,99€|25|2024-03-14 15h|2024-03-28 15h|
 |#|stasis-bone-totem-ca8320|STASIS : BONE TOTEM|17,99€|38|2024-03-14 15h|2024-03-28 15h|
 |#|steal-then-just-escape-87b7b6|Steal, Then Just Escape|3,69€|40|2024-03-29 16h|2024-04-11 16h|
 |#|steal-then-just-escape-87b7b6|Steal, Then Just Escape|3,69€|60|2024-05-13 16h|2024-05-24 16h|
 |#|steal-then-just-escape-87b7b6|Steal, Then Just Escape|3,69€|50|2024-06-27 16h|2024-07-11 16h|
+|#|steal-then-just-escape-87b7b6|Steal, Then Just Escape|3,69€|35|2024-08-17 16h|2024-09-06 16h|
+|#|steal-then-just-escape-87b7b6|Steal, Then Just Escape|3,69€|70|2024-10-27 16h|2024-11-20 16h|
 |#|steel-fury-kharkov-1942-cdfbd6|Steel Fury Kharkov 1942|3,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|steelrising|Steelrising|49,99€|65|2024-03-13 17h|2024-03-27 17h|
 |#|steep|Steep Standard Edition|29,99€|85|2024-04-11 15h|2024-04-25 15h|
