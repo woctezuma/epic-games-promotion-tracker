@@ -74,7 +74,6 @@
 |#|the-legend-of-heroes-trails-of-cold-steel-iii|The Legend of Heroes: Trails of Cold Steel III|59,99€|67|2024-04-27 15h|2024-05-06 14h|
 |#|the-legend-of-heroes-trails-of-cold-steel-iv|The Legend of Heroes: Trails of Cold Steel IV|59,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|the-legend-of-heroes-trails-of-cold-steel-iv|The Legend of Heroes: Trails of Cold Steel IV|59,99€|50|2024-04-27 15h|2024-05-06 14h|
-|#|the-outer-worlds-spacers-choice-edition|The Outer Worlds: Spacer's Choice Edition|59,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|the-settlers|The Settlers®: New Allies|59,99€|67|2024-04-11 15h|2024-04-25 15h|
 |#|tiny-tinas-wonderlands|Tiny Tina's Wonderlands|59,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|rainbow-six-united-bundle|Tom Clancy's Rainbow Six® Siege & Tom Clancy's Rainbow Six® Extraction Deluxe United Bundle|59,99€|67|2024-03-14 15h|2024-03-28 15h|
@@ -720,6 +719,7 @@
 |#|rainbow-billy-the-curse-of-the-leviathan|Rainbow Billy: The Curse of the Leviathan|17,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|revive-and-prosper-267559|Revive and Prosper|17,99€|20|2024-03-14 17h|2024-03-21 17h|
 |#|revive-and-prosper-267559|Revive and Prosper|17,99€|20|2024-04-21 16h|2024-04-28 16h|
+|#|run-a-cafe-58705c|Run A Cafe|17,99€|45|2024-03-14 15h|2024-03-28 15h|
 |#|stasis-bone-totem-ca8320|STASIS : BONE TOTEM|17,99€|38|2024-03-14 15h|2024-03-28 15h|
 |#|settlement-survival-923f57|Settlement Survival|17,99€|35|2024-03-14 15h|2024-03-28 15h|
 |#|strawhart-776f4d|Strawhart|17,99€|66|2024-03-14 15h|2024-03-28 15h|
@@ -748,7 +748,7 @@
 |#|anodyne-2-return-to-dust|Anodyne 2: Return To Dust|16,79€|50|2024-03-14 15h|2024-03-28 15h|
 |#|demons-tilt|DEMON'S TILT|16,79€|50|2024-03-14 15h|2024-03-28 15h|
 |#|effie-f06e3c|Effie|16,79€|75|2024-03-14 15h|2024-03-28 15h|
-|#|model-builder-f9b456|Model Builder|16,79€|50|2024-04-11 15h|2024-04-25 15h|
+|#|3f18c54a6e00424ba6e8f4422167cac7|Model Builder|16,79€|50|2024-04-11 15h|2024-04-25 15h|
 |#|mundaun|Mundaun|16,79€|50|2024-03-14 15h|2024-03-28 15h|
 |#|totally-accurate-battle-simulator|Totally Accurate Battle Simulator|16,79€|50|2024-03-14 15h|2024-03-28 15h|
 |#|beholder-3-d23253|Beholder 3|16,19€|60|2024-03-14 15h|2024-03-28 15h|
@@ -931,7 +931,6 @@
 |#|victorian-admirals-panama-crisis-1885-7e5372|Victorian Admirals Panama Crisis 1885|13,49€|80|2024-03-14 15h|2024-03-28 15h|
 |#|zoological-era-ii-0869e0|Zoological Era II|13,49€|80|2024-03-14 15h|2024-03-28 15h|
 |#|bibots-aad4d0|Bibots|12,99€|50|2024-03-14 15h|2024-03-28 15h|
-|#|chess-ultra-91bba3|Chess Ultra|12,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|chromagun|ChromaGun|12,99€|55|2024-03-14 15h|2024-03-28 15h|
 |#|deepest-chamber-f7085f|Deepest Chamber: Resurrection|12,99€|25|2024-03-14 15h|2024-03-28 15h|
 |#|ironcast|Ironcast|12,99€|80|2024-03-14 15h|2024-03-28 15h|
@@ -959,7 +958,7 @@
 |#|clouzy-c67f4b|Clouzy|11,99€|67|2024-04-11 15h|2024-04-25 15h|
 |#|cyber-hook-064d2c|Cyber Hook|11,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|doomed-lands-7e2565|Doomed Lands|11,99€|50|2024-04-11 15h|2024-04-25 15h|
-|#|epistory-typing-chronicles-445794|Epistory - Typing Chronicles|11,99€|70|2024-03-14 15h|2024-03-28 15h|
+|#|e627683054b14bf1b1c7f4e8769eca54|Epistory - Typing Chronicles|11,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|fire-commander-df24ad|Fire Commander|11,99€|50|2024-03-14 07h|2024-04-13 06h|
 |#|frogun-9cf69e|Frogun|11,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|godstrike-dad86e|Godstrike|11,99€|67|2024-04-11 15h|2024-04-25 15h|
@@ -1084,7 +1083,6 @@
 |#|black-widow-recharged|Black Widow: Recharged|8,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|breakout-recharged|Breakout: Recharged|8,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|butchers-dont-surf-56b0c2|Butchers Don't Surf!|8,99€|75|2024-03-12 15h|2024-03-19 15h|
-|#|caverns-of-mars-recharged-6686f6|Caverns of Mars Recharged|8,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|centipede-recharged|Centipede: Recharged|8,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|class-of-09-b7c7ab|Class of '09|8,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|creepy-tale-3-ingrid-penance-1daff4|Creepy Tale 3 - Ingrid Penance|8,99€|60|2024-03-14 15h|2024-03-28 15h|
@@ -1146,6 +1144,8 @@
 |#|deltav-rings-of-saturn-4cd187|ΔV: Rings of Saturn|8,99€|42|2024-03-14 15h|2024-03-28 15h|
 |#|firework-a03fdc|Firework|8,19€|50|2024-03-14 15h|2024-03-28 15h|
 |#|filthy-us-complete-edition-82a6b1|Filthy Us Complete Edition|8,09€|30|2024-03-14 15h|2024-03-28 15h|
+|#|peerless-destiny-chinese-838f90|Peerless Destiny|8,09€|20|2024-03-27 22h|2024-04-03 22h|
+|#|eternal-supreme-a3866b|Peerless Destiny|8,09€|20|2024-03-28 11h|2024-04-04 11h|
 |#|switchball-hd-6d3802|Switchball HD|8,09€|50|2024-03-14 15h|2024-03-28 15h|
 |#|the-silent-city-chapter-2-cccb19|THE SILENT CITY CHAPTER 2|8,09€|40|2024-03-31 00h|2024-04-29 23h|
 |#|combat-naval-package-hunter-killer-685f4a|688(I) Hunter/Killer|7,99€|80|2024-03-14 15h|2024-03-28 15h|
@@ -1449,7 +1449,6 @@
 |#|entomophobia-5e766c|Entomophobia|2,69€|33|2024-03-14 15h|2024-03-28 15h|
 |#|ghoul-castle-3d-gold-edition-566ac0|Ghoul Castle 3D - Gold Edition|2,69€|45|2024-03-14 15h|2024-03-28 15h|
 |#|hanoi-puzzles-solid-match-6a9e0c|Hanoi Puzzles - Solid Match|2,69€|30|2024-03-14 15h|2024-03-28 15h|
-|#|need-for-spirit-offroad-edition-7eee16|I Need Spirit! Off-Road Edition|2,69€|90|2024-03-09 23h|2024-03-23 23h|
 |#|lost-abroad-cafe-a-language-learning-management-sim-bfc28c|Lost Abroad Cafe - A Language Learning Management|2,69€|20|2024-04-02 15h|2024-04-09 15h|
 |#|mahjong-royal-towers-e327ab|Mahjong Royal Towers|2,69€|30|2024-03-19 15h|2024-03-26 15h|
 |#|play-with-me-escape-room-586cc4|Play with Me - Escape Room|2,69€|90|2024-03-25 14h|2024-04-14 13h|
@@ -1470,13 +1469,11 @@
 |#|bad-rats-show-1b74cf|Bad Rats Show|1,79€|80|2024-03-14 15h|2024-03-28 15h|
 |#|bum-ball-bears-067a49|Bum Ball Bears|1,79€|50|2024-03-14 15h|2024-03-28 15h|
 |#|cat-slide-tiles-93b9d4|Cat Slide Tiles|1,79€|40|2024-03-15 17h|2024-03-22 17h|
-|#|the-last-hope-atomic-bomb-crypto-war-d307f6|Find the Oil Racing Edition|1,79€|95|2024-03-09 23h|2024-03-23 23h|
 |#|floppa-the-dark-forest-518460|Floppa: The Dark Forest|1,79€|75|2024-04-09 23h|2024-04-29 23h|
 |#|geometric-sniper-82e0e0|Geometric Sniper|1,79€|30|2024-03-14 15h|2024-03-28 15h|
 |#|island-farmer-ce8ee6|Island Farmer|1,79€|30|2024-03-14 15h|2024-03-28 15h|
 |#|kill-fish-1c85e9|Kill Fish|1,79€|50|2024-03-14 15h|2024-03-28 15h|
 |#|lilaina-space-bounty-hunter-dcf0d4|Lilaina: Space Bounty Hunter|1,79€|15|2024-03-19 15h|2024-03-26 15h|
-|#|real-drift-multiplayer-4bdd6d|Real Drift Multiplayer|1,79€|70|2024-03-09 17h|2024-03-23 17h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|75|2024-04-19 22h|2024-05-04 22h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|75|2024-06-05 22h|2024-06-19 22h|
 |#|space-war-infinity-024a8f|SPACE WAR - INFINITY|1,79€|50|2024-03-12 15h|2024-03-19 15h|
@@ -1505,20 +1502,14 @@
 |#|car-mechanic-city-driving-4996c5|Car Mechanic - City Driving|0,89€|50|2024-04-09 22h|2024-04-24 22h|
 |#|car-mechanic-city-driving-4996c5|Car Mechanic - City Driving|0,89€|50|2024-06-03 22h|2024-06-19 22h|
 |#|car-parking-real-driving-sim-ba7eed|Car Parking Real Driving Sim|0,89€|40|2024-03-16 17h|2024-03-30 17h|
-|#|city-car-parking-simulator-231485|City Car Parking Simulator|0,89€|45|2024-03-09 17h|2024-03-23 17h|
 |#|classic-car-drive-simulator-a540a9|Classic Car Simulator Car Driving|0,89€|40|2024-03-16 17h|2024-03-30 17h|
 |#|exit-left-or-right-bfedd2|Exit: Left or Right|0,89€|40|2024-03-15 03h|2024-03-22 03h|
 |#|eyes-of-memes-d8864a|Eyes Of Memes|0,89€|50|2024-04-01 22h|2024-04-17 22h|
 |#|forest-offroad-driving-simulator-e8f5c1|Forest Offroad Driving Simulator|0,89€|40|2024-03-16 17h|2024-03-30 17h|
-|#|garbage-truck-driving-simulator-5dcc67|Garbage Truck Driving Simulator|0,89€|45|2024-03-09 17h|2024-03-23 17h|
 |#|in-the-gym-db2771|In The Gym|0,89€|50|2024-04-14 22h|2024-04-29 22h|
 |#|nextbots-in-the-backrooms-b5677b|Nextbots In The Backrooms|0,89€|50|2024-04-07 22h|2024-04-23 22h|
 |#|nextbots-in-the-backrooms-b5677b|Nextbots In The Backrooms|0,89€|50|2024-05-25 22h|2024-06-11 22h|
-|#|police-car-escape-simulator-f9cd17|Police Car Escape Simulator|0,89€|45|2024-03-09 17h|2024-03-23 17h|
-|#|police-car-suv-simulator-092560|Police Car SUV Simulator|0,89€|45|2024-03-09 17h|2024-03-23 17h|
 |#|rod-multiplayer-car-driving-8b748d|ROD Multiplayer Car Driving|0,89€|40|2024-03-16 17h|2024-03-30 17h|
-|#|real-motocross-driving-simulator-c8ff84|Real Motocross Driving Simulator|0,89€|45|2024-03-09 17h|2024-03-23 17h|
-|#|school-bus-driving-simulator-b878a8|School Bus Driving Simulator|0,89€|45|2024-03-09 17h|2024-03-23 17h|
 |#|serbian-dancing-lady-94e658|Serbian Dancing Lady|0,89€|50|2024-03-23 22h|2024-04-05 22h|
 |#|serbian-dancing-lady-94e658|Serbian Dancing Lady|0,89€|50|2024-05-07 22h|2024-05-29 22h|
 |#|street-fighting-simulator-40f23a|Street Fighting Simulator|0,89€|50|2024-03-24 03h|2024-04-10 03h|

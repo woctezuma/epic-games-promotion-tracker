@@ -2,7 +2,6 @@
 |---|---|---|---|---|---|---|
 |#|deus-ex-mankind-divided-4c6370|Deus Ex - Mankind Divided|29,99€|100|2024-03-14 15h|2024-03-21 15h|
 |#|the-bridge|The Bridge|9,99€|100|2024-03-14 15h|2024-03-21 15h|
-|#|the-last-hope-atomic-bomb-crypto-war-d307f6|Find the Oil Racing Edition|1,79€|95|2024-03-09 23h|2024-03-23 23h|
 |#|innerspace|InnerSpace|19,99€|95|2024-03-14 15h|2024-03-28 15h|
 |#|star-wars-squadrons|STAR WARS™: Squadrons|39,99€|95|2024-03-14 15h|2024-03-28 15h|
 |#|star-wars-squadrons|STAR WARS™: Squadrons|39,99€|95|2024-05-02 15h|2024-05-09 15h|
@@ -24,7 +23,6 @@
 |#|hammerting|Hammerting|24,99€|90|2024-03-14 15h|2024-03-28 15h|
 |#|homeworld-remastered-collection|Homeworld Remastered Collection|31,99€|90|2024-03-14 15h|2024-03-28 15h|
 |#|homeworld-deserts-of-kharak|Homeworld: Deserts of Kharak|45,99€|90|2024-03-14 15h|2024-03-28 15h|
-|#|need-for-spirit-offroad-edition-7eee16|I Need Spirit! Off-Road Edition|2,69€|90|2024-03-09 23h|2024-03-23 23h|
 |#|jetboard-joust|Jetboard Joust|7,99€|90|2024-04-11 15h|2024-04-25 15h|
 |#|king-of-seas-646f95|King of Seas|22,39€|90|2024-04-11 15h|2024-04-25 15h|
 |#|kings-bounty-ii|King's Bounty II|39,99€|90|2024-03-14 15h|2024-03-28 15h|
@@ -564,7 +562,7 @@
 |#|dying-light|Dying Light Enhanced Edition|29,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|eiyuden-chronicle-rising|Eiyuden Chronicle: Rising|14,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|emergency-crew-1-04340a|Emergency Crew 2 Global Warming|4,49€|70|2024-03-26 15h|2024-04-02 15h|
-|#|epistory-typing-chronicles-445794|Epistory - Typing Chronicles|11,99€|70|2024-03-14 15h|2024-03-28 15h|
+|#|e627683054b14bf1b1c7f4e8769eca54|Epistory - Typing Chronicles|11,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|far-cry|Far Cry|9,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|far-cry-2|Far Cry 2: Standard Edition|9,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|figment|Figment|19,99€|70|2024-03-14 15h|2024-03-28 15h|
@@ -600,7 +598,6 @@
 |#|production-line|Production Line|20,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|railway-empire|Railway Empire|29,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|rayman-origins|Rayman Origins|9,99€|70|2024-03-14 15h|2024-03-28 15h|
-|#|real-drift-multiplayer-4bdd6d|Real Drift Multiplayer|1,79€|70|2024-03-09 17h|2024-03-23 17h|
 |#|remnant-from-the-ashes|Remnant: From the Ashes|39,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|ring-of-pain|Ring of Pain|19,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|road-96-mile-0|Road 96: Mile 0|12,96€|70|2024-03-14 15h|2024-03-28 15h|
@@ -729,7 +726,6 @@
 |#|carcassonne|Carcassonne|9,99€|60|2024-03-15 15h|2024-03-28 15h|
 |#|chaos-galaxy-a33dac|Chaos Galaxy|13,49€|60|2024-03-14 15h|2024-03-28 15h|
 |#|chef-life-a-restaurant-simulator|Chef Life - A Restaurant Simulator|29,99€|60|2024-03-13 17h|2024-03-27 17h|
-|#|chess-ultra-91bba3|Chess Ultra|12,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|chivalry-2|Chivalry 2|35,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|choochoo-charles-0eece5|Choo-Choo Charles|17,99€|60|2024-07-12 08h|2024-07-20 08h|
 |#|clash-artifacts-of-chaos-53e881|Clash - Artifacts of Chaos|29,99€|60|2024-03-13 17h|2024-03-27 17h|
@@ -823,7 +819,6 @@
 |#|the-guild-3|The Guild 3|29,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|the-house-of-da-vinci-2-970dc3|The House of Da Vinci 2|19,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|the-life-and-suffering-of-sir-brante|The Life and Suffering of Sir Brante|19,99€|60|2024-03-14 15h|2024-03-28 15h|
-|#|the-outer-worlds-spacers-choice-edition|The Outer Worlds: Spacer's Choice Edition|59,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|the-pathless|The Pathless|37,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|the-telltale-batman|The Telltale Batman Shadows Edition|24,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|the-wolf-among-us|The Wolf Among Us|14,99€|60|2024-03-14 15h|2024-03-28 15h|
@@ -909,7 +904,6 @@
 |#|car-mechanic-city-driving-4996c5|Car Mechanic - City Driving|0,89€|50|2024-06-03 22h|2024-06-19 22h|
 |#|car-tuning-simulator-38ddaf|Car Tuning Simulator|0,79€|50|2024-04-01 22h|2024-04-15 22h|
 |#|car-tuning-simulator-38ddaf|Car Tuning Simulator|0,79€|50|2024-05-17 22h|2024-06-05 22h|
-|#|caverns-of-mars-recharged-6686f6|Caverns of Mars Recharged|8,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|centipede-recharged|Centipede: Recharged|8,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|choochoo-charles-0eece5|Choo-Choo Charles|17,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|class-of-09-b7c7ab|Class of '09|8,99€|50|2024-03-14 15h|2024-03-28 15h|
@@ -991,7 +985,7 @@
 |#|mediterranea-inferno-6a1352|Mediterranea Inferno|13,49€|50|2024-03-14 15h|2024-03-28 15h|
 |#|melvor-idle-b6a9b3|Melvor Idle|9,75€|50|2024-03-14 15h|2024-03-28 15h|
 |#|missile-command-recharged-2022-33e34b|Missile Command: Recharged|7,99€|50|2024-03-14 15h|2024-03-28 15h|
-|#|model-builder-f9b456|Model Builder|16,79€|50|2024-04-11 15h|2024-04-25 15h|
+|#|3f18c54a6e00424ba6e8f4422167cac7|Model Builder|16,79€|50|2024-04-11 15h|2024-04-25 15h|
 |#|monster-outbreak-2e8c08|Monster Outbreak|14,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|mosaics-galore-challenging-journey-3ee83b|Mosaics Galore. Challenging journey|4,49€|50|2024-03-12 15h|2024-03-19 15h|
 |#|mundaun|Mundaun|16,79€|50|2024-03-14 15h|2024-03-28 15h|
@@ -1112,24 +1106,19 @@
 |#|aliens-dark-descent|Aliens: Dark Descent|39,99€|45|2024-03-14 15h|2024-03-28 15h|
 |#|cafe-owner-simulator-749e0f|Cafe Owner Simulator|17,09€|45|2024-03-14 15h|2024-03-28 15h|
 |#|cassiodora-090292|Cassiodora|14,99€|45|2024-03-14 15h|2024-03-28 15h|
-|#|city-car-parking-simulator-231485|City Car Parking Simulator|0,89€|45|2024-03-09 17h|2024-03-23 17h|
 |#|covid-carl-7dd371|Covid Carl|3,59€|45|2024-03-14 15h|2024-03-28 15h|
 |#|dead-island-2|Dead Island 2|59,99€|45|2024-03-14 15h|2024-03-28 15h|
 |#|electrician-simulator-164e9f|Electrician Simulator|16,19€|45|2024-03-14 15h|2024-03-28 15h|
 |#|foretales-d6c5bd|Foretales|19,99€|45|2024-03-14 15h|2024-03-28 15h|
-|#|garbage-truck-driving-simulator-5dcc67|Garbage Truck Driving Simulator|0,89€|45|2024-03-09 17h|2024-03-23 17h|
 |#|ghoul-castle-3d-gold-edition-566ac0|Ghoul Castle 3D - Gold Edition|2,69€|45|2024-03-14 15h|2024-03-28 15h|
 |#|lumencraft-abc105|Lumencraft|17,99€|45|2024-03-14 15h|2024-03-28 15h|
 |#|mortal-online-2-d7bb78|Mortal Online 2|35,99€|45|2024-03-14 15h|2024-03-28 15h|
 |#|poker-club-6e18ee|Poker Club|19,99€|45|2024-03-14 15h|2024-03-28 15h|
-|#|police-car-escape-simulator-f9cd17|Police Car Escape Simulator|0,89€|45|2024-03-09 17h|2024-03-23 17h|
-|#|police-car-suv-simulator-092560|Police Car SUV Simulator|0,89€|45|2024-03-09 17h|2024-03-23 17h|
 |#|power-to-the-people-dfb0f9|Power to the People|11,99€|45|2024-03-14 15h|2024-03-28 15h|
-|#|real-motocross-driving-simulator-c8ff84|Real Motocross Driving Simulator|0,89€|45|2024-03-09 17h|2024-03-23 17h|
 |#|recollection-71f3a4|Recollection|4,49€|45|2024-03-14 15h|2024-03-28 15h|
 |#|revita-d8ff55|Revita|16,99€|45|2024-03-14 15h|2024-03-28 15h|
+|#|run-a-cafe-58705c|Run A Cafe|17,99€|45|2024-03-14 15h|2024-03-28 15h|
 |#|satisfactory|Satisfactory|29,99€|45|2024-03-14 15h|2024-03-28 15h|
-|#|school-bus-driving-simulator-b878a8|School Bus Driving Simulator|0,89€|45|2024-03-09 17h|2024-03-23 17h|
 |#|slime-rancher-and-slime-rancher-2|Slime Rancher & Slime Rancher 2 Bundle|35,99€|45|2024-03-14 15h|2024-03-28 15h|
 |#|the-darkside-detective-a-fumble-in-the-dark-174fcf|The Darkside Detective A Fumble in the Dark|13,49€|45|2024-03-14 15h|2024-03-28 15h|
 |#|jackbox-party-pack-5|The Jackbox Party Pack 5|24,99€|45|2024-03-14 15h|2024-03-28 15h|
@@ -1470,6 +1459,8 @@
 |#|night-loops-aa3cc2|Night Loops|8,99€|20|2024-04-11 15h|2024-04-25 15h|
 |#|orten-was-the-case-d108fb|Orten Was The Case|13,49€|20|2024-03-14 15h|2024-03-28 15h|
 |#|oxygen-cocktail-20cd1c|Oxygen Cocktail|5,39€|20|2024-03-14 15h|2024-03-28 15h|
+|#|peerless-destiny-chinese-838f90|Peerless Destiny|8,09€|20|2024-03-27 22h|2024-04-03 22h|
+|#|eternal-supreme-a3866b|Peerless Destiny|8,09€|20|2024-03-28 11h|2024-04-04 11h|
 |#|pray-for-death-fe9a43|Pray for Death|7,99€|20|2024-03-14 15h|2024-03-28 15h|
 |#|prehistorik-d64136|Prehistorik|7,99€|20|2024-03-14 15h|2024-03-28 15h|
 |#|prehistorik-2-0c6998|Prehistorik 2|7,99€|20|2024-03-14 15h|2024-03-28 15h|
