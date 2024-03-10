@@ -24,16 +24,7 @@
 |#|exit-left-or-right-bfedd2|Exit: Left or Right|0,89€|40|2024-03-15 03h|2024-03-22 03h|
 |#|island-idle-rpg-350c2e|Island Idle RPG|4,49€|30|2024-03-16 16h|2024-03-22 16h|
 |#|cat-slide-tiles-93b9d4|Cat Slide Tiles|1,79€|40|2024-03-15 17h|2024-03-22 17h|
-|#|city-car-parking-simulator-231485|City Car Parking Simulator|0,89€|45|2024-03-09 17h|2024-03-23 17h|
-|#|garbage-truck-driving-simulator-5dcc67|Garbage Truck Driving Simulator|0,89€|45|2024-03-09 17h|2024-03-23 17h|
-|#|police-car-escape-simulator-f9cd17|Police Car Escape Simulator|0,89€|45|2024-03-09 17h|2024-03-23 17h|
-|#|police-car-suv-simulator-092560|Police Car SUV Simulator|0,89€|45|2024-03-09 17h|2024-03-23 17h|
-|#|real-drift-multiplayer-4bdd6d|Real Drift Multiplayer|1,79€|70|2024-03-09 17h|2024-03-23 17h|
-|#|real-motocross-driving-simulator-c8ff84|Real Motocross Driving Simulator|0,89€|45|2024-03-09 17h|2024-03-23 17h|
-|#|school-bus-driving-simulator-b878a8|School Bus Driving Simulator|0,89€|45|2024-03-09 17h|2024-03-23 17h|
 |#|he-will-shoot-46efff|He Will Shoot|1,59€|75|2024-03-11 22h|2024-03-23 22h|
-|#|the-last-hope-atomic-bomb-crypto-war-d307f6|Find the Oil Racing Edition|1,79€|95|2024-03-09 23h|2024-03-23 23h|
-|#|need-for-spirit-offroad-edition-7eee16|I Need Spirit! Off-Road Edition|2,69€|90|2024-03-09 23h|2024-03-23 23h|
 |#|man-in-the-dark-5c468e|Man in the Dark|7,19€|10|2024-03-11 04h|2024-03-25 04h|
 |#|crown-of-the-empire-86cf18|Crown Of The Empire Collectors Edition|4,49€|50|2024-03-19 15h|2024-03-26 15h|
 |#|cyvenge-55b56b|CyVenge|4,49€|80|2024-03-19 15h|2024-03-26 15h|
@@ -235,13 +226,11 @@
 |#|cassiodora-090292|Cassiodora|14,99€|45|2024-03-14 15h|2024-03-28 15h|
 |#|castles-5a423e|Castles|7,99€|20|2024-03-14 15h|2024-03-28 15h|
 |#|castles-ii-siege-and-conquest-aa3f88|Castles II - Siege and Conquest|7,99€|20|2024-03-14 15h|2024-03-28 15h|
-|#|caverns-of-mars-recharged-6686f6|Caverns of Mars Recharged|8,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|celeste|Celeste|15,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|centipede-recharged|Centipede: Recharged|8,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|chants-of-sennaar|Chants of Sennaar|19,99€|25|2024-03-14 15h|2024-03-28 15h|
 |#|chaos-galaxy-a33dac|Chaos Galaxy|13,49€|60|2024-03-14 15h|2024-03-28 15h|
 |#|chased-by-darkness-d00d26|Chased by Darkness|4,49€|30|2024-03-14 15h|2024-03-28 15h|
-|#|chess-ultra-91bba3|Chess Ultra|12,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|chicken-assassin-reloaded-279863|Chicken Assassin Reloaded|3,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|chivalry-2|Chivalry 2|35,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|chorus|Chorus|24,99€|75|2024-03-14 15h|2024-03-28 15h|
@@ -375,7 +364,7 @@
 |#|endling-extinction-is-forever|Endling - Extinction is Forever|29,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|enter-the-gungeon|Enter the Gungeon|14,79€|60|2024-03-14 15h|2024-03-28 15h|
 |#|entomophobia-5e766c|Entomophobia|2,69€|33|2024-03-14 15h|2024-03-28 15h|
-|#|epistory-typing-chronicles-445794|Epistory - Typing Chronicles|11,99€|70|2024-03-14 15h|2024-03-28 15h|
+|#|e627683054b14bf1b1c7f4e8769eca54|Epistory - Typing Chronicles|11,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|etherborn-00f378|Etherborn|13,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|everlasting-guilt-213534|Everlasting Guilt|8,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|expeditions-conquistador|Expeditions: Conquistador|19,99€|75|2024-03-14 15h|2024-03-28 15h|
@@ -816,6 +805,7 @@
 |#|rogue-spirit|Rogue Spirit|19,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|rollercoaster-tycoon-3-complete-edition|RollerCoaster Tycoon 3 Complete Edition|19,99€|65|2024-03-14 15h|2024-03-28 15h|
 |#|ruggnar-06d06b|Ruggnar|13,99€|55|2024-03-14 15h|2024-03-28 15h|
+|#|run-a-cafe-58705c|Run A Cafe|17,99€|45|2024-03-14 15h|2024-03-28 15h|
 |#|roki-38e7c2|Röki|21,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|skull-and-bones|SKULL AND BONES™|59,99€|25|2024-03-17 15h|2024-03-28 15h|
 |#|sludge-life|SLUDGE LIFE|14,99€|75|2024-03-14 15h|2024-03-28 15h|
@@ -1016,7 +1006,6 @@
 |#|the-messenger|The Messenger|19,50€|75|2024-03-14 15h|2024-03-28 15h|
 |#|the-metronomicon-766679|The Metronomicon: Slay the Dance Floor|15,99€|85|2024-03-14 15h|2024-03-28 15h|
 |#|the-outer-worlds|The Outer Worlds|29,99€|50|2024-03-14 15h|2024-03-28 15h|
-|#|the-outer-worlds-spacers-choice-edition|The Outer Worlds: Spacer's Choice Edition|59,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|the-outforce-acfbb8|The Outforce|8,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|the-pathless|The Pathless|37,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|the-pegasus-expedition-224279|The Pegasus Expedition|19,99€|75|2024-03-14 15h|2024-03-28 15h|
@@ -1211,8 +1200,10 @@
 |#|undergrave-4d084b|Undergrave|7,99€|60|2024-03-26 15h|2024-04-02 15h|
 |#|upaon-a-snakes-journey-672f92|Upaon A Snakes Journey|1,99€|50|2024-03-26 15h|2024-04-02 15h|
 |#|birch-simulator-21969e|Birch Simulator|0,89€|50|2024-03-17 22h|2024-04-03 22h|
+|#|peerless-destiny-chinese-838f90|Peerless Destiny|8,09€|20|2024-03-27 22h|2024-04-03 22h|
 |#|pro-basketball-manager-2024-5c764f|Pro Basketball Manager 2024|26,99€|30|2024-03-23 05h|2024-04-03 23h|
 |#|life-after-death-b4e964|Life After Death|4,49€|40|2024-03-11 01h|2024-04-04 00h|
+|#|eternal-supreme-a3866b|Peerless Destiny|8,09€|20|2024-03-28 11h|2024-04-04 11h|
 |#|dark-light|Dark Light|15,29€|35|2024-03-22 13h|2024-04-04 13h|
 |#|dragon-quest-xi-s-echoes-of-an-elusive-age|DRAGON QUEST® XI S: Echoes of an Elusive Age™|39,99€|40|2024-03-21 15h|2024-04-04 15h|
 |#|final-fantasy-vii-remake-intergrade|FINAL FANTASY VII REMAKE INTERGRADE|79,99€|50|2024-03-21 15h|2024-04-04 15h|
@@ -1373,7 +1364,7 @@
 |#|march-of-shrooms-2581de|March of Shrooms|6,99€|30|2024-04-11 15h|2024-04-25 15h|
 |#|mars-base-a00ce0|Mars Base|19,99€|60|2024-04-11 15h|2024-04-25 15h|
 |#|mars-horizon|Mars Horizon|15,99€|70|2024-04-11 15h|2024-04-25 15h|
-|#|model-builder-f9b456|Model Builder|16,79€|50|2024-04-11 15h|2024-04-25 15h|
+|#|3f18c54a6e00424ba6e8f4422167cac7|Model Builder|16,79€|50|2024-04-11 15h|2024-04-25 15h|
 |#|mokoko-x-e2b09d|Mokoko X|8,99€|60|2024-04-11 15h|2024-04-25 15h|
 |#|monorail-stories-4b4a69|Monorail Stories|14,99€|34|2024-04-11 15h|2024-04-25 15h|
 |#|monster-outbreak-2e8c08|Monster Outbreak|14,99€|50|2024-04-11 15h|2024-04-25 15h|
