@@ -2052,15 +2052,6 @@
     "title": "Cat Slide Tiles"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2024-03-28T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 899,
-    "slug": "caverns-of-mars-recharged-6686f6",
-    "startDate": "2024-03-14T15:00:00.000Z",
-    "title": "Caverns of Mars Recharged"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -2113,15 +2104,6 @@
     "slug": "chef-life-a-restaurant-simulator",
     "startDate": "2024-03-13T17:00:00.000Z",
     "title": "Chef Life - A Restaurant Simulator"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2024-03-28T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1299,
-    "slug": "chess-ultra-91bba3",
-    "startDate": "2024-03-14T15:00:00.000Z",
-    "title": "Chess Ultra"
   },
   {
     "discountPercentage": 75,
@@ -2221,15 +2203,6 @@
     "slug": "cities-skylines",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Cities: Skylines"
-  },
-  {
-    "discountPercentage": 45,
-    "endDate": "2024-03-23T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "city-car-parking-simulator-231485",
-    "startDate": "2024-03-09T17:00:00.000Z",
-    "title": "City Car Parking Simulator"
   },
   {
     "discountPercentage": 30,
@@ -3775,7 +3748,7 @@
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1199,
-    "slug": "epistory-typing-chronicles-445794",
+    "slug": "e627683054b14bf1b1c7f4e8769eca54",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Epistory - Typing Chronicles"
   },
@@ -4185,15 +4158,6 @@
     "title": "Filthy Us Complete Edition"
   },
   {
-    "discountPercentage": 95,
-    "endDate": "2024-03-23T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 179,
-    "slug": "the-last-hope-atomic-bomb-crypto-war-d307f6",
-    "startDate": "2024-03-09T23:00:00.000Z",
-    "title": "Find the Oil Racing Edition"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-04-13T06:00:00.000Z",
     "isFree": false,
@@ -4597,15 +4561,6 @@
     "slug": "gangs-of-sherwood",
     "startDate": "2024-03-13T17:00:00.000Z",
     "title": "Gangs of Sherwood"
-  },
-  {
-    "discountPercentage": 45,
-    "endDate": "2024-03-23T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "garbage-truck-driving-simulator-5dcc67",
-    "startDate": "2024-03-09T17:00:00.000Z",
-    "title": "Garbage Truck Driving Simulator"
   },
   {
     "discountPercentage": 30,
@@ -5407,15 +5362,6 @@
     "slug": "i-am-dead",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "I Am Dead"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2024-03-23T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 269,
-    "slug": "need-for-spirit-offroad-edition-7eee16",
-    "startDate": "2024-03-09T23:00:00.000Z",
-    "title": "I Need Spirit! Off-Road Edition"
   },
   {
     "discountPercentage": 50,
@@ -7024,7 +6970,7 @@
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1679,
-    "slug": "model-builder-f9b456",
+    "slug": "3f18c54a6e00424ba6e8f4422167cac7",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Model Builder"
   },
@@ -8100,6 +8046,24 @@
     "title": "Patron"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2024-04-03T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 809,
+    "slug": "peerless-destiny-chinese-838f90",
+    "startDate": "2024-03-27T22:00:00.000Z",
+    "title": "Peerless Destiny"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2024-04-04T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 809,
+    "slug": "eternal-supreme-a3866b",
+    "startDate": "2024-03-28T11:00:00.000Z",
+    "title": "Peerless Destiny"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -8206,24 +8170,6 @@
     "slug": "poker-club-6e18ee",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Poker Club"
-  },
-  {
-    "discountPercentage": 45,
-    "endDate": "2024-03-23T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "police-car-escape-simulator-f9cd17",
-    "startDate": "2024-03-09T17:00:00.000Z",
-    "title": "Police Car Escape Simulator"
-  },
-  {
-    "discountPercentage": 45,
-    "endDate": "2024-03-23T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "police-car-suv-simulator-092560",
-    "startDate": "2024-03-09T17:00:00.000Z",
-    "title": "Police Car SUV Simulator"
   },
   {
     "discountPercentage": 70,
@@ -8701,24 +8647,6 @@
     "slug": "relegion-fe9684",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Re-Legion"
-  },
-  {
-    "discountPercentage": 70,
-    "endDate": "2024-03-23T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 179,
-    "slug": "real-drift-multiplayer-4bdd6d",
-    "startDate": "2024-03-09T17:00:00.000Z",
-    "title": "Real Drift Multiplayer"
-  },
-  {
-    "discountPercentage": 45,
-    "endDate": "2024-03-23T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "real-motocross-driving-simulator-c8ff84",
-    "startDate": "2024-03-09T17:00:00.000Z",
-    "title": "Real Motocross Driving Simulator"
   },
   {
     "discountPercentage": 80,
@@ -9225,6 +9153,15 @@
     "title": "Ruin Raiders"
   },
   {
+    "discountPercentage": 45,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "run-a-cafe-58705c",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Run A Cafe"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -9592,15 +9529,6 @@
     "slug": "schein-77f039",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Schein"
-  },
-  {
-    "discountPercentage": 45,
-    "endDate": "2024-03-23T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "school-bus-driving-simulator-b878a8",
-    "startDate": "2024-03-09T17:00:00.000Z",
-    "title": "School Bus Driving Simulator"
   },
   {
     "discountPercentage": 35,
@@ -11842,15 +11770,6 @@
     "slug": "the-outer-worlds",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "The Outer Worlds"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2024-03-28T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "the-outer-worlds-spacers-choice-edition",
-    "startDate": "2024-03-14T15:00:00.000Z",
-    "title": "The Outer Worlds: Spacer's Choice Edition"
   },
   {
     "discountPercentage": 80,
