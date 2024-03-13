@@ -1196,6 +1196,7 @@
 |#|jackbox-party-pack-8|The Jackbox Party Pack 8|23,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|the-riftbreaker|The Riftbreaker|29,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|the-silent-city-chapter-1-94a47d|The Silent City Chapter 1|5,39€|40|2024-03-31 00h|2024-04-29 23h|
+|#|the-wraith-of-the-galaxy-ac9fc1|The Wraith of the Galaxy|4,49€|40|2024-03-17 22h|2024-03-24 22h|
 |#|tofas-sahin-online-car-driving-4bb680|Tofas Sahin Online Car Driving|1,79€|40|2024-03-16 17h|2024-03-30 17h|
 |#|trail-of-ayash-31a1d4|Trail Of Ayash|17,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|unlock-the-cat-487fac|Unlock The Cat|1,79€|40|2024-03-22 17h|2024-03-29 17h|
@@ -1320,6 +1321,7 @@
 |#|one-military-camp-8db1f6|One Military Camp|24,99€|30|2024-03-14 15h|2024-03-28 15h|
 |#|planet-of-lana-a9febe|Planet of Lana|19,99€|30|2024-03-14 15h|2024-03-28 15h|
 |#|potion-permit|Potion Permit|15,99€|30|2024-03-14 15h|2024-03-28 15h|
+|#|presences-dark-awakening-b1c9eb|Presences: Dark Awakening|11,69€|30|2024-04-11 15h|2024-04-25 15h|
 |#|pro-basketball-manager-2024-5c764f|Pro Basketball Manager 2024|26,99€|30|2024-03-23 05h|2024-04-03 23h|
 |#|stareraabyss-border-c4fe84|STARS ERA: ABYSS FRONTIER|8,99€|30|2024-04-11 15h|2024-04-25 15h|
 |#|sailingera-450a80|Sailing Era|19,99€|30|2024-03-14 15h|2024-03-28 15h|

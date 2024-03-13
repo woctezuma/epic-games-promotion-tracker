@@ -976,6 +976,7 @@
 |#|voodoo-detective-75d493|Voodoo Detective|11,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|back-then-2072ca|Back Then|11,69€|20|2024-03-14 15h|2024-03-28 15h|
 |#|elven-rivers-the-forgotten-lands-collectors-edition-13f068|Elven Rivers. The Forgotten Lands Collector's Edition|11,69€|40|2024-04-02 15h|2024-04-09 15h|
+|#|presences-dark-awakening-b1c9eb|Presences: Dark Awakening|11,69€|30|2024-04-11 15h|2024-04-25 15h|
 |#|stellar-interface-d14cc4|Stellar Interface|11,69€|80|2024-03-14 15h|2024-03-28 15h|
 |#|stone-guardian-81fcc1|Stone Guardian|11,69€|30|2024-03-14 15h|2024-03-28 15h|
 |#|bloons-td-6-bf95a0|Bloons TD 6|10,99€|30|2024-03-14 15h|2024-03-28 15h|
@@ -1369,6 +1370,7 @@
 |#|the-death-into-trouble-271916|The Death Into Trouble|4,49€|30|2024-04-11 15h|2024-04-25 15h|
 |#|the-devils-face-356c31|The Devil's Face|4,49€|30|2024-03-14 15h|2024-03-28 15h|
 |#|royal-defense-d046db|The Empress of Mahjong|4,49€|50|2024-04-02 15h|2024-04-09 15h|
+|#|the-wraith-of-the-galaxy-ac9fc1|The Wraith of the Galaxy|4,49€|40|2024-03-17 22h|2024-03-24 22h|
 |#|travel-cuisine-2-sweet-life-7a4239|Travel Cuisine 2: Sweet Life|4,49€|50|2024-03-19 15h|2024-03-26 15h|
 |#|travel-cuisine-collectors-edition-f24880|Travel Cuisine Collector's Edition|4,49€|30|2024-03-26 15h|2024-04-02 15h|
 |#|underworld-defense-9a270a|Underworld Defense|4,49€|70|2024-03-14 15h|2024-03-28 15h|
