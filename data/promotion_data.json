@@ -1026,6 +1026,15 @@
     "title": "Avatar: Frontiers of Pandora"
   },
   {
+    "discountPercentage": 90,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "aven-colony",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Aven Colony"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -12211,6 +12220,15 @@
     "slug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Tintin Reporter - Cigars of the Pharaoh"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure"
   },
   {
     "discountPercentage": 75,
