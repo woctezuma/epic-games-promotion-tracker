@@ -8226,6 +8226,15 @@
     "title": "Prehistorik 2"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2024-04-25T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1169,
+    "slug": "presences-dark-awakening-b1c9eb",
+    "startDate": "2024-04-11T15:00:00.000Z",
+    "title": "Presences: Dark Awakening"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -12067,6 +12076,15 @@
     "slug": "the-wolf-among-us",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "The Wolf Among Us"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-03-24T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "the-wraith-of-the-galaxy-ac9fc1",
+    "startDate": "2024-03-17T22:00:00.000Z",
+    "title": "The Wraith of the Galaxy"
   },
   {
     "discountPercentage": 70,
