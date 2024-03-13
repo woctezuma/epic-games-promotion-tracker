@@ -309,7 +309,7 @@
     "discountPercentage": 50,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
-    "originalPrice": 1599,
+    "originalPrice": 899,
     "slug": "aegis-descent-a1f5a0",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Aegis Descent"
@@ -540,6 +540,15 @@
     "title": "Angry Video Game Nerd I & II Deluxe"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2024-04-13T20:06:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "anime-vs-evil-apocalypse-4c8f91",
+    "startDate": "2024-03-31T20:09:00.000Z",
+    "title": "Anime vs Evil: Apocalypse"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -628,6 +637,15 @@
     "slug": "anuchard-08179d",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Anuchard"
+  },
+  {
+    "discountPercentage": 65,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 975,
+    "slug": "apotheorasis-a33e73",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Apotheorasis \u2022 Lab of the Blind Gods"
   },
   {
     "discountPercentage": 75,
@@ -1674,6 +1692,15 @@
     "title": "Blue Fire"
   },
   {
+    "discountPercentage": 90,
+    "endDate": "2024-04-02T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "bob-a-thousand-lives-802452",
+    "startDate": "2024-03-26T15:00:00.000Z",
+    "title": "Bob A thousand lives - Enhanced Edition"
+  },
+  {
     "discountPercentage": 18,
     "endDate": "2024-06-30T22:00:00.000Z",
     "isFree": false,
@@ -1897,6 +1924,15 @@
     "slug": "carrion",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "CARRION"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2024-04-14T10:03:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "cataire-6ce6b7",
+    "startDate": "2024-03-25T16:00:00.000Z",
+    "title": "CATAIRE"
   },
   {
     "discountPercentage": 70,
@@ -2572,6 +2608,15 @@
     "slug": "curse-of-the-sea-rats-8f28b1",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Curse of the Sea Rats"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "cursed-castilla-maldita-castilla-ex-adaa43",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Cursed Castilla (Maldita Castilla EX)"
   },
   {
     "discountPercentage": 60,
@@ -3789,7 +3834,7 @@
     "title": "Enter the Gungeon"
   },
   {
-    "discountPercentage": 33,
+    "discountPercentage": 50,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 269,
@@ -3832,6 +3877,15 @@
     "slug": "everlasting-guilt-213534",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Everlasting Guilt"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "evil-nun-the-broken-mask-372461",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Evil Nun: The Broken Mask"
   },
   {
     "discountPercentage": 75,
@@ -7452,6 +7506,15 @@
     "title": "Neurodeck"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2799,
+    "slug": "new-super-luckys-tale",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "New Super Lucky's Tale"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -7666,6 +7729,15 @@
     "slug": "one-lonely-outpost-12afa6",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "One Lonely Outpost"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "one-military-camp-8db1f6",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "One Military Camp"
   },
   {
     "discountPercentage": 50,
@@ -8415,7 +8487,16 @@
     "title": "ProtoCorgi"
   },
   {
-    "discountPercentage": 10,
+    "discountPercentage": 20,
+    "endDate": "2024-05-12T23:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "psychiatrist-simulator-bfbcc4",
+    "startDate": "2024-04-28T23:00:00.000Z",
+    "title": "Psychiatrist Simulator"
+  },
+  {
+    "discountPercentage": 20,
     "endDate": "2024-04-27T23:00:00.000Z",
     "isFree": false,
     "originalPrice": 449,
@@ -10314,6 +10395,15 @@
     "title": "SpellForce: Conquest of Eo"
   },
   {
+    "discountPercentage": 85,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "spelldrifter",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Spelldrifter"
+  },
+  {
     "discountPercentage": 55,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -10699,6 +10789,15 @@
     "slug": "super-alloy-ranger-4252cc",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Super Alloy Ranger"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "super-hydorah-56d575",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Super Hydorah"
   },
   {
     "discountPercentage": 75,
@@ -11392,6 +11491,15 @@
     "slug": "the-galactic-junkers-7fef21",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "The Galactic Junkers"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "the-gap-e8d40c",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "The Gap"
   },
   {
     "discountPercentage": 60,
@@ -12987,6 +13095,15 @@
     "title": "Vampyr"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "vaudeville-86cff0",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Vaudeville"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -13120,6 +13237,15 @@
     "slug": "voltaire-e1c517",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Voltaire: The Vegan Vampire"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "voodoo-detective-75d493",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Voodoo Detective"
   },
   {
     "discountPercentage": 50,
