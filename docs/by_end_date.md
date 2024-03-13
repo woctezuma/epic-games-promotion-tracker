@@ -1,5 +1,6 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
+|#|highwater-090fb0|Highwater|17,99€|20|2024-03-14 07h|2024-03-20 07h|
 |#|fur-squadron-0042b8|FUR Squadron|6,29€|50|2024-03-14 00h|2024-03-21 00h|
 |#|deus-ex-mankind-divided-4c6370|Deus Ex - Mankind Divided|29,99€|100|2024-03-14 15h|2024-03-21 15h|
 |#|the-bridge|The Bridge|9,99€|100|2024-03-14 15h|2024-03-21 15h|
@@ -97,7 +98,6 @@
 |#|atlas-fallen|Atlas Fallen|39,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|automachef|Automachef|14,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|avatar-frontiers-of-pandora|Avatar: Frontiers of Pandora|69,99€|40|2024-03-14 15h|2024-03-28 15h|
-|#|aven-colony|Aven Colony|29,99€|90|2024-03-14 15h|2024-03-28 15h|
 |#|avencast-rise-of-the-mage-4668a2|Avencast - Rise Of The Mage|3,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|awesome-pea-2-45617a|Awesome Pea 2|4,49€|80|2024-03-14 15h|2024-03-28 15h|
 |#|bc-kings-779bb0|BC Kings|7,19€|80|2024-03-14 15h|2024-03-28 15h|
@@ -1024,7 +1024,6 @@
 |#|time-loader|Time Loader|12,49€|80|2024-03-14 15h|2024-03-28 15h|
 |#|tin-hearts-221ecf|Tin Hearts|17,99€|30|2024-03-14 15h|2024-03-28 15h|
 |#|tintin-reporter-cigars-of-the-pharaoh-8b32ea|Tintin Reporter - Cigars of the Pharaoh|39,99€|30|2024-03-14 15h|2024-03-28 15h|
-|#|tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure|Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure|9,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|tiny-tinas-wonderlands|Tiny Tina's Wonderlands|59,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|tiny-troopers-global-ops-4ac32b|Tiny Troopers Global Ops|17,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|titan-quest|Titan Quest Anniversary Edition|19,99€|75|2024-03-14 15h|2024-03-28 15h|
