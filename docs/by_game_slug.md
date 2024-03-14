@@ -53,7 +53,6 @@
 |#|aliens-dark-descent|Aliens: Dark Descent|39,99€|45|2024-03-14 15h|2024-03-28 15h|
 |#|among-us|Among Us|3,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|ancestors|Ancestors: The Humankind Odyssey|39,99€|75|2024-03-14 15h|2024-03-28 15h|
-|#|ancient-enemy|Ancient Enemy|11,99€|75|2024-03-14 00h|2024-04-12 22h|
 |#|angelo-and-deemon-one-hell-of-a-quest-94d7e2|Angelo and Deemon: One Hell of a Quest|7,19€|60|2024-03-14 15h|2024-03-28 15h|
 |#|angry-video-game-nerd-1-and-2-deluxe-1eea79|Angry Video Game Nerd I & II Deluxe|8,99€|30|2024-04-11 15h|2024-04-25 15h|
 |#|anime-vs-evil-apocalypse-4c8f91|Anime vs Evil: Apocalypse|17,99€|70|2024-03-31 20h|2024-04-13 20h|
@@ -294,6 +293,8 @@
 |#|cursed-castilla-maldita-castilla-ex-adaa43|Cursed Castilla (Maldita Castilla EX)|11,99€|35|2024-03-14 15h|2024-03-28 15h|
 |#|cursed-to-golf-a6bc22|Cursed to Golf|19,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|cyanide-happiness-freakpocalypse|Cyanide & Happiness - Freakpocalypse (Episode 1)|15,99€|60|2024-03-14 15h|2024-03-28 15h|
+|#|cyber-drift-6ac51b|Cyber Drift|6,29€|50|2024-04-11 15h|2024-04-25 15h|
+|#|cyber-drift-6ac51b|Cyber Drift|6,29€|50|2024-05-25 16h|2024-06-24 16h|
 |#|cyber-hook-064d2c|Cyber Hook|11,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|cyberia-2-resurrection-23a676|Cyberia 2 - Resurrection|7,99€|20|2024-03-14 15h|2024-03-28 15h|
 |#|cyberia-bfdd70|Cyberia|7,99€|20|2024-03-14 15h|2024-03-28 15h|
@@ -512,7 +513,6 @@
 |#|frostpunk|Frostpunk|27,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|full-moon-rush-15f674|Full Moon Rush|4,49€|15|2024-03-14 15h|2024-03-28 15h|
 |#|funtasia-furry-road-bd0756|Funtasia|14,99€|67|2024-04-11 15h|2024-04-25 15h|
-|#|fur-squadron-0042b8|FUR Squadron|6,29€|50|2024-03-14 00h|2024-03-21 00h|
 |#|galactic-civilizations-iii|Galactic Civilizations III|20,99€|66|2024-03-14 15h|2024-03-28 15h|
 |#|galactic-civilizations-iv-supernova|Galactic Civilizations IV: Supernova|44,99€|20|2024-03-14 15h|2024-03-28 15h|
 |#|galaxy-trek-c165da|Galaxy Trek|17,99€|25|2024-04-09 15h|2024-04-16 15h|
@@ -722,6 +722,8 @@
 |#|lilaina-space-bounty-hunter-dcf0d4|Lilaina: Space Bounty Hunter|1,79€|15|2024-03-19 15h|2024-03-26 15h|
 |#|lilas-sky-ark-610f75|Lila's Sky Ark|11,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|limbo|Limbo|9,99€|75|2024-03-14 15h|2024-03-28 15h|
+|#|lines-guarder-174742|Line's Guarder|8,99€|35|2024-04-11 15h|2024-04-25 15h|
+|#|lines-guarder-174742|Line's Guarder|8,99€|40|2024-05-25 16h|2024-06-24 16h|
 |#|linghehanjianwuyu-cf98a0|Reiwa outliers|3,59€|10|2024-03-14 15h|2024-03-28 15h|
 |#|little-inferno|Little Inferno|11,99€|66|2024-03-14 15h|2024-03-28 15h|
 |#|loop-hero|Loop Hero|14,79€|67|2024-03-14 15h|2024-03-28 15h|
