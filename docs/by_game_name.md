@@ -720,6 +720,7 @@
 |#|lost-eden-13175e|Lost Eden|7,99€|20|2024-03-14 15h|2024-03-28 15h|
 |#|lost-eidolons|Lost Eidolons|34,99€|30|2024-03-14 15h|2024-03-28 15h|
 |#|lost-ruins-d6233b|Lost Ruins|15,99€|40|2024-03-14 15h|2024-03-28 15h|
+|#|love-n-life-lucky-teacher-09bd18|Love n Life: Lucky Teacher|5,39€|10|2024-03-15 09h|2024-03-26 17h|
 |#|lovecrafts-untold-stories|Lovecraft's Untold Stories|14,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|lovecraft-untold-stories-2-a0857a|Lovecraft's Untold Stories 2|19,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|luckygoal-201ee6|Lucky Goal|4,99€|40|2024-03-14 15h|2024-03-28 15h|

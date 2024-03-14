@@ -1132,6 +1132,7 @@
 |#|revive-and-prosper-267559|Revive and Prosper|17,99€|20|2024-03-14 17h|2024-03-21 17h|
 |#|exit-left-or-right-bfedd2|Exit: Left or Right|0,89€|40|2024-03-15 03h|2024-03-22 03h|
 |#|blood-hunting-cec461|Blood Hunting|12,59€|20|2024-03-15 05h|2024-04-13 16h|
+|#|love-n-life-lucky-teacher-09bd18|Love n Life: Lucky Teacher|5,39€|10|2024-03-15 09h|2024-03-26 17h|
 |#|a-game-of-thrones-5858a3|A Game Of Thrones: The Board Game Digital Edition|19,99€|50|2024-03-15 15h|2024-03-28 15h|
 |#|carcassonne|Carcassonne|9,99€|60|2024-03-15 15h|2024-03-28 15h|
 |#|gloomhaven-92f741|Gloomhaven|34,99€|50|2024-03-15 15h|2024-03-28 15h|
