@@ -959,8 +959,8 @@
 |#|production-line|Production Line|20,99€|70|2024-03-14 15h|2024-03-28 15h|
 |#|project-pastorate-6e8765|Project Pastorate|1,59€|50|2024-03-14 15h|2024-03-28 15h|
 |#|protocorgi|ProtoCorgi|6,99€|75|2024-03-14 15h|2024-03-28 15h|
-|#|psychiatrist-simulator-2-4fff6b|Psychiatrist Simulator 2|4,49€|20|2024-03-29 00h|2024-04-27 23h|
-|#|psychiatrist-simulator-bfbcc4|Psychiatrist Simulator|4,49€|20|2024-04-28 23h|2024-05-12 23h|
+|#|psychiatrist-simulator-2-4fff6b|Psychiatrist Simulator 2|4,49€|80|2024-03-29 00h|2024-04-27 23h|
+|#|psychiatrist-simulator-bfbcc4|Psychiatrist Simulator|4,49€|80|2024-04-28 23h|2024-05-12 23h|
 |#|quake|Quake|9,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|quake-ii|Quake II|9,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|quake-quake-ii-enhanced-bundle|Quake + Quake II Enhanced Bundle|14,99€|60|2024-03-14 15h|2024-03-28 15h|

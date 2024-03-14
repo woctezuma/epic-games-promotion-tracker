@@ -227,6 +227,8 @@
 |#|prince-of-persia-the-forgotten-sands|Prince of Persia: The Forgotten Sands STANDARD EDITION|9,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|prince-of-persia-the-two-thrones|Prince of Persia: The Two Thrones Standard Edition|9,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|prince-of-persia-warrior-within|Prince of Persia: Warrior Within Standard Edition|9,99€|80|2024-03-14 15h|2024-03-28 15h|
+|#|psychiatrist-simulator-bfbcc4|Psychiatrist Simulator|4,49€|80|2024-04-28 23h|2024-05-12 23h|
+|#|psychiatrist-simulator-2-4fff6b|Psychiatrist Simulator 2|4,49€|80|2024-03-29 00h|2024-04-27 23h|
 |#|rage-2|RAGE 2|39,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|rayman-legends|RAYMAN® LEGENDS|19,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|rez-plz-324485|REZ PLZ|11,99€|80|2024-03-14 15h|2024-03-28 15h|
@@ -1461,8 +1463,6 @@
 |#|prehistorik-d64136|Prehistorik|7,99€|20|2024-03-14 15h|2024-03-28 15h|
 |#|prehistorik-2-0c6998|Prehistorik 2|7,99€|20|2024-03-14 15h|2024-03-28 15h|
 |#|prison-city-ac156c|Prison City|8,99€|20|2024-04-11 15h|2024-04-25 15h|
-|#|psychiatrist-simulator-bfbcc4|Psychiatrist Simulator|4,49€|20|2024-04-28 23h|2024-05-12 23h|
-|#|psychiatrist-simulator-2-4fff6b|Psychiatrist Simulator 2|4,49€|20|2024-03-29 00h|2024-04-27 23h|
 |#|rice-d1b792|R.I.C.E.|4,99€|20|2024-04-11 15h|2024-04-25 15h|
 |#|redneck-deer-huntin-012a33|Redneck Deer Huntin|7,99€|20|2024-03-14 15h|2024-03-28 15h|
 |#|redneck-rampage-653f04|Redneck Rampage|7,99€|20|2024-03-14 15h|2024-03-28 15h|
