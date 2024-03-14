@@ -7,6 +7,7 @@
 |#|bob-a-thousand-lives-802452|Bob A thousand lives - Enhanced Edition|8,99€|90|2024-03-26 15h|2024-04-02 15h|
 |#|cataire-6ce6b7|CATAIRE|0,89€|90|2024-03-25 16h|2024-04-14 10h|
 |#|ea-star-wars-triple-bundle|EA STAR WARS™ TRIPLE BUNDLE|89,99€|90|2024-05-02 15h|2024-05-09 15h|
+|#|earthlock-e7d979|EARTHLOCK|26,99€|90|2024-04-11 15h|2024-04-25 15h|
 |#|jetboard-joust|Jetboard Joust|7,99€|90|2024-04-11 15h|2024-04-25 15h|
 |#|king-of-seas-646f95|King of Seas|22,39€|90|2024-04-11 15h|2024-04-25 15h|
 |#|overtop-ed5e49|Overtop|4,49€|90|2024-04-15 22h|2024-05-03 22h|

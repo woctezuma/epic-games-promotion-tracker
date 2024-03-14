@@ -197,6 +197,7 @@
 |#|dreamscaper|Dreamscaper|19,99€|60|2024-04-11 15h|2024-04-25 15h|
 |#|dumpy-and-bumpy-86c9d7|Dumpy and Bumpy|3,99€|30|2024-04-11 15h|2024-04-25 15h|
 |#|dust-fleet-620614|Dust Fleet|19,99€|20|2024-04-11 15h|2024-04-25 15h|
+|#|earthlock-e7d979|EARTHLOCK|26,99€|90|2024-04-11 15h|2024-04-25 15h|
 |#|eden-island-8cd344|Eden Island|8,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|eternights-c2fbca|Eternights|29,99€|40|2024-04-11 15h|2024-04-25 15h|
 |#|ex-natura-nature-corrupted-d92548|Ex Natura Nature Corrupted|17,99€|75|2024-04-11 15h|2024-04-25 15h|
