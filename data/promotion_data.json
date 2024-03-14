@@ -6480,6 +6480,15 @@
     "title": "Lost Ruins"
   },
   {
+    "discountPercentage": 10,
+    "endDate": "2024-03-26T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 539,
+    "slug": "love-n-life-lucky-teacher-09bd18",
+    "startDate": "2024-03-15T09:00:00.000Z",
+    "title": "Love n Life: Lucky Teacher"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
