@@ -261,6 +261,15 @@
     "title": "APE OUT"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "apico-f6e18b",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "APICO"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2024-03-30T17:00:00.000Z",
     "isFree": false,
@@ -1341,6 +1350,15 @@
     "title": "Beach Invasion 1944"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "beasts-of-maravilla-island",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Beasts of Maravilla Island"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -1897,6 +1915,15 @@
     "slug": "cafe-owner-simulator-749e0f",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Cafe Owner Simulator"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "calico",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Calico"
   },
   {
     "discountPercentage": 80,
@@ -3819,6 +3846,15 @@
     "discountPercentage": 50,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
+    "originalPrice": 599,
+    "slug": "evans-remains",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Evan's Remains"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
     "originalPrice": 899,
     "slug": "everlasting-guilt-213534",
     "startDate": "2024-03-14T15:00:00.000Z",
@@ -4201,15 +4237,6 @@
     "slug": "filthy-us-complete-edition-82a6b1",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Filthy Us Complete Edition"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2024-04-13T06:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1199,
-    "slug": "fire-commander-df24ad",
-    "startDate": "2024-03-14T07:00:00.000Z",
-    "title": "Fire Commander"
   },
   {
     "discountPercentage": 80,
@@ -5182,15 +5209,6 @@
     "slug": "high-on-life-3a855b",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "High On Life"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2024-03-20T07:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1799,
-    "slug": "highwater-090fb0",
-    "startDate": "2024-03-14T07:00:00.000Z",
-    "title": "Highwater"
   },
   {
     "discountPercentage": 65,
@@ -6262,6 +6280,15 @@
     "slug": "love-3-c2516f",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "LOVE 3"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "lake",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Lake"
   },
   {
     "discountPercentage": 67,
@@ -8046,6 +8073,15 @@
     "title": "Pathway"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-04-25T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "pato-box-311c99",
+    "startDate": "2024-04-11T15:00:00.000Z",
+    "title": "Pato Box"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-03-26T15:00:00.000Z",
     "isFree": false,
@@ -8323,6 +8359,15 @@
     "slug": "prince-of-qin-3bb44c",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Prince of Qin"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "princess-farmer-bd4c4e",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Princess Farmer"
   },
   {
     "discountPercentage": 75,
@@ -10969,6 +11014,15 @@
     "slug": "tchia",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Tchia"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "teacup",
+    "startDate": "2024-03-14T15:00:00.000Z",
+    "title": "Teacup"
   },
   {
     "discountPercentage": 55,
