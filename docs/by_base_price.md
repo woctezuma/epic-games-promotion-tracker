@@ -69,6 +69,7 @@
 |#|the-sisters-2-road-to-fame-287bbe|The Sisters 2 - Road to Fame|29,99€|35|2024-04-11 15h|2024-04-25 15h|
 |#|wild-card-football|Wild Card Football|29,99€|67|2024-03-19 15h|2024-03-26 15h|
 |#|airship-kingdoms-adrift-cc8448|Airship Kingdoms Adrift|26,99€|34|2024-04-11 15h|2024-04-25 15h|
+|#|earthlock-e7d979|EARTHLOCK|26,99€|90|2024-04-11 15h|2024-04-25 15h|
 |#|marble-it-up-ultra-7b5692|Marble It Up! Ultra|26,99€|60|2024-05-01 07h|2024-05-14 07h|
 |#|pro-basketball-manager-2024-5c764f|Pro Basketball Manager 2024|26,99€|30|2024-03-23 05h|2024-04-03 23h|
 |#|pro-basketball-manager-2024-5c764f|Pro Basketball Manager 2024|26,99€|35|2024-05-04 04h|2024-05-16 23h|

@@ -115,6 +115,7 @@
 |#|dumpy-and-bumpy-86c9d7|Dumpy and Bumpy|3,99€|30|2024-04-11 15h|2024-04-25 15h|
 |#|dust-fleet-620614|Dust Fleet|19,99€|20|2024-04-11 15h|2024-04-25 15h|
 |#|ea-star-wars-triple-bundle|EA STAR WARS™ TRIPLE BUNDLE|89,99€|90|2024-05-02 15h|2024-05-09 15h|
+|#|earthlock-e7d979|EARTHLOCK|26,99€|90|2024-04-11 15h|2024-04-25 15h|
 |#|ebola-2-b61221|EBOLA 2|13,49€|35|2024-03-26 15h|2024-04-02 15h|
 |#|ebola-3-2c79e9|EBOLA 3|17,99€|35|2024-03-26 15h|2024-04-02 15h|
 |#|eden-island-8cd344|Eden Island|8,99€|50|2024-04-11 15h|2024-04-25 15h|
