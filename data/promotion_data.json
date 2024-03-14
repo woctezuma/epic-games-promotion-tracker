@@ -8442,7 +8442,7 @@
     "title": "ProtoCorgi"
   },
   {
-    "discountPercentage": 20,
+    "discountPercentage": 80,
     "endDate": "2024-05-12T23:00:00.000Z",
     "isFree": false,
     "originalPrice": 449,
@@ -8451,7 +8451,7 @@
     "title": "Psychiatrist Simulator"
   },
   {
-    "discountPercentage": 20,
+    "discountPercentage": 80,
     "endDate": "2024-04-27T23:00:00.000Z",
     "isFree": false,
     "originalPrice": 449,
