@@ -495,15 +495,6 @@
     "title": "Ancestors: The Humankind Odyssey"
   },
   {
-    "discountPercentage": 75,
-    "endDate": "2024-04-12T22:59:00.000Z",
-    "isFree": false,
-    "originalPrice": 1199,
-    "slug": "ancient-enemy",
-    "startDate": "2024-03-14T00:00:00.000Z",
-    "title": "Ancient Enemy"
-  },
-  {
     "discountPercentage": 60,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -2592,6 +2583,24 @@
     "title": "Cyanide & Happiness - Freakpocalypse (Episode 1)"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-04-25T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 629,
+    "slug": "cyber-drift-6ac51b",
+    "startDate": "2024-04-11T15:00:00.000Z",
+    "title": "Cyber Drift"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-06-24T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 629,
+    "slug": "cyber-drift-6ac51b",
+    "startDate": "2024-05-25T16:00:00.000Z",
+    "title": "Cyber Drift"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -3967,15 +3976,6 @@
     "slug": "faster-than-light",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "FTL: Faster Than Light"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2024-03-21T00:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 629,
-    "slug": "fur-squadron-0042b8",
-    "startDate": "2024-03-14T00:00:00.000Z",
-    "title": "FUR Squadron"
   },
   {
     "discountPercentage": 85,
@@ -6361,6 +6361,24 @@
     "slug": "limbo",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Limbo"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2024-04-25T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "lines-guarder-174742",
+    "startDate": "2024-04-11T15:00:00.000Z",
+    "title": "Line's Guarder"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-06-24T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "lines-guarder-174742",
+    "startDate": "2024-05-25T16:00:00.000Z",
+    "title": "Line's Guarder"
   },
   {
     "discountPercentage": 66,
