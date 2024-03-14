@@ -24,6 +24,7 @@
 |#|travel-cuisine-2-sweet-life-7a4239|Travel Cuisine 2: Sweet Life|4,49€|50|2024-03-19 15h|2024-03-26 15h|
 |#|wild-card-football|Wild Card Football|29,99€|67|2024-03-19 15h|2024-03-26 15h|
 |#|xr22seaguard-480497|XR22-SEAGUARD|6,29€|30|2024-03-19 15h|2024-03-26 15h|
+|#|love-n-life-lucky-teacher-09bd18|Love n Life: Lucky Teacher|5,39€|10|2024-03-15 09h|2024-03-26 17h|
 |#|n-verlore-verstand-1d7f5b|'n Verlore Verstand|13,49€|90|2024-03-14 15h|2024-03-28 15h|
 |#|100-doors-escape-from-prison-1e0ba3|100 Doors - Escape from Prison|8,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|100-doors-escape-from-work-8e2958|100 Doors - Escape from Work|8,99€|50|2024-03-14 15h|2024-03-28 15h|
