@@ -760,7 +760,6 @@
 |#|dread-nautical|Dread Nautical|15,99€|66|2024-03-14 15h|2024-03-28 15h|
 |#|elderand-09e6bc|Elderand|15,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|fisti-fluffs|Fisti-Fluffs|15,99€|75|2024-03-14 15h|2024-03-28 15h|
-|#|frontier-hunter-erzas-wheel-of-fortune|Frontier Hunter: Erza's Wheel of Fortune|15,99€|25|2024-03-14 08h|2024-03-29 08h|
 |#|gone-viral-c60635|Gone Viral|15,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|guardians-of-hyelore-0b07d3|Guardians of Hyelore|15,99€|80|2024-04-11 15h|2024-04-25 15h|
 |#|hellslave-cc8a71|Hellslave|15,99€|70|2024-03-14 15h|2024-03-28 15h|
