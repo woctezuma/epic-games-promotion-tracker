@@ -382,7 +382,6 @@
 |#|naval-combat-package-34e444|Fleet Command|7,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|flower|Flower|6,69€|73|2024-03-14 15h|2024-03-28 15h|
 |#|fly-corp-398021|Fly Corp|10,79€|40|2024-03-14 15h|2024-03-28 15h|
-|#|for-honor|For Honor Standard Edition|29,99€|85|2024-03-14 15h|2024-03-28 15h|
 |#|foretales-d6c5bd|Foretales|19,99€|45|2024-03-14 15h|2024-03-28 15h|
 |#|forgive-me-father-133635|Forgive Me Father|19,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|forgive-me-father-2-ea03a5|Forgive Me Father 2|19,99€|20|2024-03-14 15h|2024-03-28 15h|
