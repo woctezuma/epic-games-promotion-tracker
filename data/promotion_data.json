@@ -1944,6 +1944,15 @@
     "title": "Call of the Wild: The Angler\u2122"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 2999,
+    "slug": "call-of-the-wild-the-angler",
+    "startDate": "2024-03-21T15:00:00.000Z",
+    "title": "Call of the Wild: The Angler\u2122"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-04-24T22:00:00.000Z",
     "isFree": false,
@@ -5607,6 +5616,15 @@
     "title": "Invincible Presents: Atom Eve"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2024-03-28T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 999,
+    "slug": "atom-eve-ff090d",
+    "startDate": "2024-03-21T15:00:00.000Z",
+    "title": "Invincible Presents: Atom Eve"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -7542,6 +7560,15 @@
     "title": "Night Loops"
   },
   {
+    "discountPercentage": 65,
+    "endDate": "2024-04-25T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "search-de9485",
+    "startDate": "2024-04-11T15:00:00.000Z",
+    "title": "Nihilsearch"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-03-28T15:00:00.000Z",
     "isFree": false,
@@ -8683,15 +8710,6 @@
     "slug": "rainbow-billy-the-curse-of-the-leviathan",
     "startDate": "2024-03-14T15:00:00.000Z",
     "title": "Rainbow Billy: The Curse of the Leviathan"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2024-03-21T18:29:00.000Z",
-    "isFree": false,
-    "originalPrice": 2299,
-    "slug": "raji-an-ancient-epic",
-    "startDate": "2024-03-14T14:30:00.000Z",
-    "title": "Raji: An Ancient Epic"
   },
   {
     "discountPercentage": 55,
