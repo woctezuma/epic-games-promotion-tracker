@@ -537,6 +537,7 @@
 |#|lego-batman-2|LEGO® Batman™ 2: DC Super Heroes|19,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|lego-batman-3|LEGO® Batman™ 3: Beyond Gotham|19,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|lego-batman|LEGO® Batman™: The Videogame|19,99€|75|2024-03-14 15h|2024-03-28 15h|
+|#|lake|Lake|19,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|last-day-of-june|Last Day of June|19,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|legend-bowl-10bc86|Legend Bowl|19,99€|30|2024-03-14 15h|2024-03-28 15h|
 |#|lempo-a6a67d|Lempo|19,99€|25|2024-03-14 15h|2024-03-28 15h|
@@ -684,7 +685,6 @@
 |#|horse-club-adventures-19e7a0|HORSE CLUB Adventures|17,99€|25|2024-04-11 15h|2024-04-25 15h|
 |#|horse-club-adventures-2-hazelwood-stories-b257d3|HORSE CLUB Adventures 2 - Hazelwood Stories|17,99€|25|2024-04-11 15h|2024-04-25 15h|
 |#|haunted-house-c5a71b|Haunted House|17,99€|30|2024-03-14 15h|2024-03-28 15h|
-|#|highwater-090fb0|Highwater|17,99€|20|2024-03-14 07h|2024-03-20 07h|
 |#|homebody-569576|Homebody|17,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|hunt-the-night-3f1eb5|Hunt the Night|17,99€|20|2024-03-14 15h|2024-03-28 15h|
 |#|kholat-3f394b|Kholat|17,99€|88|2024-04-11 15h|2024-04-25 15h|
@@ -744,6 +744,7 @@
 |#|the-fabulous-fear-machine-8e7c6b|The Fabulous Fear Machine|16,19€|33|2024-03-14 15h|2024-03-28 15h|
 |#|8doors-arums-afterlife-adventure|8Doors: Arum's Afterlife Adventure|15,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|abzu|ABZU|15,99€|75|2024-03-14 15h|2024-03-28 15h|
+|#|apico-f6e18b|APICO|15,99€|30|2024-03-14 15h|2024-03-28 15h|
 |#|astalon-tears-of-the-earth-1b2279|Astalon -Tears of the Earth-|15,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|baldurs-gate-2-enhanced-edition|Baldur's Gate II: Enhanced Edition|15,99€|65|2024-03-14 15h|2024-03-28 15h|
 |#|baldurs-gate-enhanced-edition|Baldur's Gate: Enhanced Edition|15,99€|65|2024-03-14 15h|2024-03-28 15h|
@@ -948,7 +949,6 @@
 |#|cyber-hook-064d2c|Cyber Hook|11,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|doomed-lands-7e2565|Doomed Lands|11,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|epistory-typing-chronicles-445794|Epistory - Typing Chronicles|11,99€|70|2024-03-14 15h|2024-03-28 15h|
-|#|fire-commander-df24ad|Fire Commander|11,99€|50|2024-03-14 07h|2024-04-13 06h|
 |#|frogun-9cf69e|Frogun|11,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|godstrike-dad86e|Godstrike|11,99€|67|2024-04-11 15h|2024-04-25 15h|
 |#|gone-home|Gone Home|11,99€|75|2024-03-14 15h|2024-03-28 15h|
@@ -963,6 +963,7 @@
 |#|neurodeck|Neurodeck|11,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|paquerette-down-the-bunburrows-2fd777|Paquerette Down the Bunburrows|11,99€|25|2024-03-14 15h|2024-03-28 15h|
 |#|power-to-the-people-dfb0f9|Power to the People|11,99€|45|2024-03-14 15h|2024-03-28 15h|
+|#|princess-farmer-bd4c4e|Princess Farmer|11,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|rez-plz-324485|REZ PLZ|11,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|restless-soul-d5baed|Restless Soul|11,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|rogue-legacy|Rogue Legacy|11,99€|80|2024-03-14 15h|2024-03-28 15h|
@@ -998,6 +999,7 @@
 |#|assassins-creed-1|Assassin's Creed® I: Director's Cut|9,99€|75|2024-04-08 15h|2024-04-15 15h|
 |#|bright-paw-definitive-edition-cbe813|Bright Paw - Definitive Edition|9,99€|75|2024-03-14 15h|2024-03-28 15h|
 |#|chuchel-203808|CHUCHEL|9,99€|70|2024-03-14 15h|2024-03-28 15h|
+|#|calico|Calico|9,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|carcassonne|Carcassonne|9,99€|60|2024-03-15 15h|2024-03-28 15h|
 |#|culpa-innata-8997ac|Culpa Innata|9,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|doom-3|DOOM 3|9,99€|60|2024-03-14 15h|2024-03-28 15h|
@@ -1113,6 +1115,7 @@
 |#|outbreak-the-new-nightmare-revisited-90517a|Outbreak The New Nightmare Revisited|8,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|outbreak-the-nightmare-chronicles-reinvestigated-b631d4|Outbreak The Nightmare Chronicles Reinvestigated|8,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|palladium-adventure-in-greece-f1ee1b|Palladium: Adventure in Greece|8,99€|70|2024-03-14 15h|2024-03-28 15h|
+|#|pato-box-311c99|Pato Box|8,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|prison-city-ac156c|Prison City|8,99€|20|2024-04-11 15h|2024-04-25 15h|
 |#|quantum-recharged-6553fd|Quantum Recharged|8,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|quiplash-2-interlashional-3c3888|Quiplash 2 InterLASHional|8,99€|50|2024-03-14 15h|2024-03-28 15h|
@@ -1150,6 +1153,7 @@
 |#|battle-chess-4000-d6d255|Battle Chess 4000|7,99€|20|2024-03-14 15h|2024-03-28 15h|
 |#|battle-chess-ii-chinese-chess-f67c3c|Battle Chess II: Chinese Chess|7,99€|20|2024-03-14 15h|2024-03-28 15h|
 |#|battle-of-europe-00b917|Battle Of Europe|7,99€|80|2024-03-14 15h|2024-03-28 15h|
+|#|beasts-of-maravilla-island|Beasts of Maravilla Island|7,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|big-mutha-truckers-990060|Big Mutha Truckers 2|7,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|castles-5a423e|Castles|7,99€|20|2024-03-14 15h|2024-03-28 15h|
 |#|castles-ii-siege-and-conquest-aa3f88|Castles II - Siege and Conquest|7,99€|20|2024-03-14 15h|2024-03-28 15h|
@@ -1198,6 +1202,7 @@
 |#|combat-naval-package-sub-command-5e51d7|Sub Command|7,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|subwar-2050-9ec629|Subwar 2050|7,99€|20|2024-03-14 15h|2024-03-28 15h|
 |#|super-mega-zero-485299|Super Mega Zero|7,99€|75|2024-03-14 15h|2024-03-28 15h|
+|#|teacup|Teacup|7,99€|40|2024-03-14 15h|2024-03-28 15h|
 |#|the-crows-eye-af7d60|The Crows Eye|7,99€|60|2024-03-14 15h|2024-03-28 15h|
 |#|the-dark-prophecy-2193c4|The Dark Prophecy|7,99€|65|2024-03-14 15h|2024-03-28 15h|
 |#|the-lions-song|The Lion's Song|7,99€|50|2024-04-11 15h|2024-04-25 15h|
@@ -1253,6 +1258,7 @@
 |#|xr22seaguard-480497|XR22-SEAGUARD|6,29€|30|2024-03-19 15h|2024-03-26 15h|
 |#|ankh-3-295256|Ankh 3: Battle of the Gods|5,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|disciples-ii-galleans-return-9ecd70|Disciples II - Galleans Return|5,99€|80|2024-03-14 15h|2024-03-28 15h|
+|#|evans-remains|Evan's Remains|5,99€|50|2024-03-14 15h|2024-03-28 15h|
 |#|red-ronin-d2678c|Red Ronin|5,99€|60|2024-03-26 15h|2024-04-02 15h|
 |#|sentinel-3-homeworld-2f6183|Sentinel 3 - Homeworld|5,99€|80|2024-03-14 15h|2024-03-28 15h|
 |#|starless-bb4b3c|Starless|5,99€|50|2024-03-14 15h|2024-03-28 15h|
