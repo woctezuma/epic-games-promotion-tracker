@@ -81,15 +81,6 @@
     "title": "ANXRacers - Drift Space"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2024-03-30T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "atv-offroad-simulator-24-d9f4ad",
-    "startDate": "2024-03-16T17:00:00.000Z",
-    "title": "ATV Offroad Simulator 24"
-  },
-  {
     "discountPercentage": 20,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -612,15 +603,6 @@
     "title": "Car Mechanic - City Driving"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2024-03-30T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "car-parking-real-driving-sim-ba7eed",
-    "startDate": "2024-03-16T17:00:00.000Z",
-    "title": "Car Parking Real Driving Sim"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-04-15T22:00:00.000Z",
     "isFree": false,
@@ -702,15 +684,6 @@
     "title": "City of Beats"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2024-03-30T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "classic-car-drive-simulator-a540a9",
-    "startDate": "2024-03-16T17:00:00.000Z",
-    "title": "Classic Car Simulator Car Driving"
-  },
-  {
     "discountPercentage": 67,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -745,15 +718,6 @@
     "slug": "coromon-d4ef84",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Coromon"
-  },
-  {
-    "discountPercentage": 93,
-    "endDate": "2024-03-30T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 359,
-    "slug": "corrupt-political-simulator-f94058",
-    "startDate": "2024-03-16T23:00:00.000Z",
-    "title": "Corrupt - Political Simulator"
   },
   {
     "discountPercentage": 65,
@@ -1249,15 +1213,6 @@
     "slug": "forest-fire-b4bb7e",
     "startDate": "2024-12-15T07:00:00.000Z",
     "title": "Forest Fire"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2024-03-30T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "forest-offroad-driving-simulator-e8f5c1",
-    "startDate": "2024-03-16T17:00:00.000Z",
-    "title": "Forest Offroad Driving Simulator"
   },
   {
     "discountPercentage": 60,
@@ -2313,15 +2268,6 @@
     "title": "R.I.C.E."
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2024-03-30T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "rod-multiplayer-car-driving-8b748d",
-    "startDate": "2024-03-16T17:00:00.000Z",
-    "title": "ROD Multiplayer Car Driving"
-  },
-  {
     "discountPercentage": 10,
     "endDate": "2024-04-16T15:00:00.000Z",
     "isFree": false,
@@ -2349,7 +2295,7 @@
     "title": "Ravens Hike"
   },
   {
-    "discountPercentage": 35,
+    "discountPercentage": 42,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1349,
@@ -2473,15 +2419,6 @@
     "slug": "scary-and-dot-86b1ff",
     "startDate": "2024-06-05T22:00:00.000Z",
     "title": "SCARY AND DOT"
-  },
-  {
-    "discountPercentage": 25,
-    "endDate": "2024-03-28T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "skull-and-bones",
-    "startDate": "2024-03-17T15:00:00.000Z",
-    "title": "SKULL AND BONES\u2122"
   },
   {
     "discountPercentage": 90,
@@ -2833,15 +2770,6 @@
     "slug": "survivor-castaway-island-16f672",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Survivor - Castaway Island"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2024-03-30T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "suv-4x4-car-parking-simulator-5d6c9e",
-    "startDate": "2024-03-16T17:00:00.000Z",
-    "title": "Suv 4x4 Car Parking Simulator"
   },
   {
     "discountPercentage": 75,
@@ -3319,15 +3247,6 @@
     "slug": "to-the-rescue-a6c254",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "To The Rescue"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2024-03-30T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 179,
-    "slug": "tofas-sahin-online-car-driving-4bb680",
-    "startDate": "2024-03-16T17:00:00.000Z",
-    "title": "Tofas Sahin Online Car Driving"
   },
   {
     "discountPercentage": 70,
