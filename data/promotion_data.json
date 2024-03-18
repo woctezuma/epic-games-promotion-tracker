@@ -81,6 +81,15 @@
     "title": "ANXRacers - Drift Space"
   },
   {
+    "discountPercentage": 66,
+    "endDate": "2024-04-09T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "aces-of-the-luftwaffe-squadron-97086d",
+    "startDate": "2024-04-02T15:00:00.000Z",
+    "title": "Aces of the Luftwaffe - Squadron Extended Edition"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -106,6 +115,15 @@
     "slug": "airborne-kingdom",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Airborne Kingdom"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2024-04-16T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "airhead-945e54",
+    "startDate": "2024-04-09T15:00:00.000Z",
+    "title": "Airhead"
   },
   {
     "discountPercentage": 34,
@@ -442,15 +460,6 @@
   },
   {
     "discountPercentage": 50,
-    "endDate": "2024-04-03T22:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "birch-simulator-21969e",
-    "startDate": "2024-03-17T22:00:00.000Z",
-    "title": "Birch Simulator"
-  },
-  {
-    "discountPercentage": 50,
     "endDate": "2024-05-19T22:00:00.000Z",
     "isFree": false,
     "originalPrice": 89,
@@ -628,6 +637,15 @@
     "slug": "cat-cafe-manager-68bd0d",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Cat Cafe Manager"
+  },
+  {
+    "discountPercentage": 65,
+    "endDate": "2024-04-16T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "chicken-police-paint-it-red",
+    "startDate": "2024-04-09T15:00:00.000Z",
+    "title": "Chicken Police - Paint it Red!"
   },
   {
     "discountPercentage": 70,
@@ -837,6 +855,15 @@
     "title": "Dark Light"
   },
   {
+    "discountPercentage": 35,
+    "endDate": "2024-04-25T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "deexit-eternal-matters-da8992",
+    "startDate": "2024-04-11T15:00:00.000Z",
+    "title": "De-Exit - Eternal Matters"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -1024,6 +1051,15 @@
     "slug": "eden-island-8cd344",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Eden Island"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-04-09T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "el-hijo-6b63c5",
+    "startDate": "2024-04-02T15:00:00.000Z",
+    "title": "El Hijo \u2013 A Wild West Tale"
   },
   {
     "discountPercentage": 40,
@@ -1233,6 +1269,24 @@
     "title": "Fortune Follow: The Mansion"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-04-25T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "fuga-melodies-of-steel",
+    "startDate": "2024-04-11T15:00:00.000Z",
+    "title": "Fuga: Melodies of Steel"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2024-04-25T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "fuga-melodies-of-steel-2-a756d1",
+    "startDate": "2024-04-11T15:00:00.000Z",
+    "title": "Fuga: Melodies of Steel 2"
+  },
+  {
     "discountPercentage": 67,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -1429,6 +1483,15 @@
     "slug": "i-want-to-be-alive-0fcb6e",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "I Want to be Alive"
+  },
+  {
+    "discountPercentage": 55,
+    "endDate": "2024-04-02T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "imagine-earth-7498e4",
+    "startDate": "2024-03-26T15:00:00.000Z",
+    "title": "Imagine Earth"
   },
   {
     "discountPercentage": 57,
@@ -1654,6 +1717,24 @@
     "slug": "lines-guarder-174742",
     "startDate": "2024-05-25T16:00:00.000Z",
     "title": "Line's Guarder"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-04-16T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "little-big-workshop",
+    "startDate": "2024-04-09T15:00:00.000Z",
+    "title": "Little Big Workshop"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2024-04-16T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "locks-quest-befcf1",
+    "startDate": "2024-04-09T15:00:00.000Z",
+    "title": "Locks Quest"
   },
   {
     "discountPercentage": 20,
@@ -1899,6 +1980,15 @@
     "title": "NOSTALGIC TRAIN"
   },
   {
+    "discountPercentage": 67,
+    "endDate": "2024-04-16T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "neighbours-back-from-hell",
+    "startDate": "2024-04-09T15:00:00.000Z",
+    "title": "Neighbours back From Hell"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -1989,6 +2079,15 @@
     "title": "Old World"
   },
   {
+    "discountPercentage": 67,
+    "endDate": "2024-04-16T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "one-hand-clapping",
+    "startDate": "2024-04-09T15:00:00.000Z",
+    "title": "One Hand Clapping"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -2005,6 +2104,24 @@
     "slug": "one-more-island-0014e2",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "One More Island"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2024-03-26T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1259,
+    "slug": "organs-please-a5e5e4",
+    "startDate": "2024-03-19T15:00:00.000Z",
+    "title": "Organs Please"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2024-05-07T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "orten-was-the-case-d108fb",
+    "startDate": "2024-04-30T15:00:00.000Z",
+    "title": "Orten Was The Case"
   },
   {
     "discountPercentage": 50,
@@ -2161,6 +2278,15 @@
   },
   {
     "discountPercentage": 50,
+    "endDate": "2024-04-09T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "pile-up-b1e2af",
+    "startDate": "2024-04-02T15:00:00.000Z",
+    "title": "Pile Up"
+  },
+  {
+    "discountPercentage": 50,
     "endDate": "2024-03-26T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 449,
@@ -2286,6 +2412,15 @@
     "title": "RPG Survivors"
   },
   {
+    "discountPercentage": 90,
+    "endDate": "2024-04-16T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "rad-rodgers-radical-edition-8f66a7",
+    "startDate": "2024-04-09T15:00:00.000Z",
+    "title": "Rad Rodgers - Radical Edition"
+  },
+  {
     "discountPercentage": 65,
     "endDate": "2024-04-02T15:00:00.000Z",
     "isFree": false,
@@ -2374,6 +2509,24 @@
     "slug": "roads-of-time-2-odyssey-c63595",
     "startDate": "2024-04-02T15:00:00.000Z",
     "title": "Roads of Time 2: Odyssey Collector's Edition"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2024-03-26T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2239,
+    "slug": "roboquest-9ad17a",
+    "startDate": "2024-03-19T15:00:00.000Z",
+    "title": "Roboquest"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2024-07-12T07:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2239,
+    "slug": "roboquest-9ad17a",
+    "startDate": "2024-06-27T07:00:00.000Z",
+    "title": "Roboquest"
   },
   {
     "discountPercentage": 60,
@@ -2538,6 +2691,15 @@
     "title": "Saviors of Sapphire Wings & Strangers of Sword City Revisited"
   },
   {
+    "discountPercentage": 67,
+    "endDate": "2024-04-16T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "scarf-dd1030",
+    "startDate": "2024-04-09T15:00:00.000Z",
+    "title": "Scarf"
+  },
+  {
     "discountPercentage": 65,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -2617,6 +2779,15 @@
     "slug": "silt-6ca919",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Silt"
+  },
+  {
+    "discountPercentage": 85,
+    "endDate": "2024-04-16T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "sine-mora-ex-d4fd23",
+    "startDate": "2024-04-09T15:00:00.000Z",
+    "title": "Sine Mora Ex"
   },
   {
     "discountPercentage": 30,
@@ -2761,6 +2932,15 @@
     "slug": "sudoku-zenkai-3990b1",
     "startDate": "2024-04-09T15:00:00.000Z",
     "title": "Sudoku Zenkai"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-04-25T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1169,
+    "slug": "super-adventure-hand-62ec9a",
+    "startDate": "2024-04-11T15:00:00.000Z",
+    "title": "Super Adventure Hand"
   },
   {
     "discountPercentage": 40,
@@ -3204,15 +3384,6 @@
     "title": "The Witch of Fern Island"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2024-03-24T22:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 449,
-    "slug": "the-wraith-of-the-galaxy-ac9fc1",
-    "startDate": "2024-03-17T22:00:00.000Z",
-    "title": "The Wraith of the Galaxy"
-  },
-  {
     "discountPercentage": 60,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -3265,6 +3436,15 @@
     "slug": "touch-type-tale",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Touch Type Tale"
+  },
+  {
+    "discountPercentage": 85,
+    "endDate": "2024-04-16T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1998,
+    "slug": "townsmen-a-kingdom-rebuilt-07c09d",
+    "startDate": "2024-04-09T15:00:00.000Z",
+    "title": "Townsmen - A Kingdom Rebuilt"
   },
   {
     "discountPercentage": 60,
@@ -3400,15 +3580,6 @@
     "slug": "urbek-city-builder-17cf7d",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Urbek City Builder"
-  },
-  {
-    "discountPercentage": 35,
-    "endDate": "2024-03-28T19:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2699,
-    "slug": "vagrus-the-riven-realms-c635d5",
-    "startDate": "2024-03-18T12:00:00.000Z",
-    "title": "Vagrus - The Riven Realms"
   },
   {
     "discountPercentage": 60,
