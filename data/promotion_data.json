@@ -685,6 +685,15 @@
   },
   {
     "discountPercentage": 50,
+    "endDate": "2024-04-10T04:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "choice-clash-what-would-you-rather-b75cac",
+    "startDate": "2024-03-22T05:00:00.000Z",
+    "title": "Choice Clash: What Would you Rather?"
+  },
+  {
+    "discountPercentage": 50,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1799,
@@ -1368,6 +1377,15 @@
     "title": "Gas Station Simulator"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-04-21T10:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "geojelly-a44cfe",
+    "startDate": "2024-03-24T00:00:00.000Z",
+    "title": "GeoJelly"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2024-04-09T15:00:00.000Z",
     "isFree": false,
@@ -1645,6 +1663,15 @@
     "slug": "julai-03ca17",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Julai"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2024-04-09T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "jump-challenge-228ff0",
+    "startDate": "2024-04-02T15:00:00.000Z",
+    "title": "Jump Challenge!"
   },
   {
     "discountPercentage": 85,
@@ -2494,6 +2521,15 @@
   },
   {
     "discountPercentage": 50,
+    "endDate": "2024-04-02T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "quick-race-293d39",
+    "startDate": "2024-03-26T15:00:00.000Z",
+    "title": "Quick Race"
+  },
+  {
+    "discountPercentage": 50,
     "endDate": "2024-05-06T14:59:00.000Z",
     "isFree": false,
     "originalPrice": 3999,
@@ -3114,6 +3150,15 @@
     "title": "Super Adventure Hand"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2024-04-15T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 359,
+    "slug": "supfly-delivery-simulator-82d2fd",
+    "startDate": "2024-03-25T23:00:00.000Z",
+    "title": "Supfly Delivery Simulator"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -3652,6 +3697,15 @@
     "slug": "endwar",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Tom Clancy's EndWar"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-04-12T00:01:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "top-web-search-23-a34613",
+    "startDate": "2024-03-22T03:00:00.000Z",
+    "title": "Top Web Search 23"
   },
   {
     "discountPercentage": 25,
