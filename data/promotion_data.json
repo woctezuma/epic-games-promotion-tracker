@@ -1800,6 +1800,15 @@
     "title": "Land of the Vikings"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-04-02T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "liberated-f13008",
+    "startDate": "2024-03-26T15:00:00.000Z",
+    "title": "Liberated"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-04-02T15:00:00.000Z",
     "isFree": false,
@@ -2079,6 +2088,15 @@
     "title": "NEO: The World Ends with You"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-04-02T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 399,
+    "slug": "necroworm-5784e5",
+    "startDate": "2024-03-26T15:00:00.000Z",
+    "title": "NecroWorm"
+  },
+  {
     "discountPercentage": 67,
     "endDate": "2024-04-16T15:00:00.000Z",
     "isFree": false,
@@ -2320,6 +2338,15 @@
     "slug": "pc-building-simulator",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "PC Building Simulator"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-04-02T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1249,
+    "slug": "paradise-lost",
+    "startDate": "2024-03-26T15:00:00.000Z",
+    "title": "Paradise Lost"
   },
   {
     "discountPercentage": 50,
