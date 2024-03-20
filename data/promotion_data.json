@@ -999,15 +999,6 @@
     "title": "Doomed Lands"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2024-03-26T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1349,
-    "slug": "dreadful-river-21e04b",
-    "startDate": "2024-03-19T23:00:00.000Z",
-    "title": "Dreadful River"
-  },
-  {
     "discountPercentage": 60,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -1123,6 +1114,15 @@
     "slug": "eternights-c2fbca",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Eternights"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2024-04-25T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "evil-wizard-e4f80f",
+    "startDate": "2024-04-11T15:00:00.000Z",
+    "title": "Evil Wizard"
   },
   {
     "discountPercentage": 75,
@@ -1798,6 +1798,15 @@
     "slug": "land-of-the-vikings-d542d8",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Land of the Vikings"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-04-02T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 719,
+    "slug": "lifeslide",
+    "startDate": "2024-03-26T15:00:00.000Z",
+    "title": "Lifeslide"
   },
   {
     "discountPercentage": 50,
@@ -2745,6 +2754,15 @@
     "title": "Sands of Aura"
   },
   {
+    "discountPercentage": 10,
+    "endDate": "2024-04-09T13:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1299,
+    "slug": "saviorless-bdcd28",
+    "startDate": "2024-04-02T13:00:00.000Z",
+    "title": "Saviorless"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2024-05-06T14:59:00.000Z",
     "isFree": false,
@@ -2786,7 +2804,7 @@
     "isFree": false,
     "originalPrice": 1799,
     "slug": "serafinas-saga-awakened-921f2a",
-    "startDate": "2024-03-20T15:00:00.000Z",
+    "startDate": "2024-03-22T15:00:00.000Z",
     "title": "Serafina's Saga: Awakened"
   },
   {
@@ -3564,6 +3582,15 @@
     "title": "Timothy vs the Aliens"
   },
   {
+    "discountPercentage": 35,
+    "endDate": "2024-04-16T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "tiny-thor-76de1f",
+    "startDate": "2024-04-09T15:00:00.000Z",
+    "title": "Tiny Thor"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -3666,10 +3693,19 @@
     "discountPercentage": 75,
     "endDate": "2024-04-05T23:00:00.000Z",
     "isFree": false,
-    "originalPrice": 989,
+    "originalPrice": 899,
     "slug": "tribu-55feb1",
     "startDate": "2024-03-29T00:00:00.000Z",
     "title": "Tribu"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2024-04-23T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "trigon-ce1936",
+    "startDate": "2024-04-16T15:00:00.000Z",
+    "title": "Trigon: Space Story"
   },
   {
     "discountPercentage": 30,
