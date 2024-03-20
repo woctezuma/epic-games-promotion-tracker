@@ -1422,6 +1422,24 @@
     "title": "Griddlers Victorian Picnic"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2024-04-25T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1950,
+    "slug": "guacamelee-2-ac4977",
+    "startDate": "2024-04-11T15:00:00.000Z",
+    "title": "Guacamelee! 2"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-04-25T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1479,
+    "slug": "guacamelee-stce-7cdbc8",
+    "startDate": "2024-04-11T15:00:00.000Z",
+    "title": "Guacamelee! Super Turbo Championship Edition"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
