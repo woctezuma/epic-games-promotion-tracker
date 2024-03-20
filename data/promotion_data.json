@@ -99,15 +99,6 @@
     "title": "Against All Odds"
   },
   {
-    "discountPercentage": 35,
-    "endDate": "2024-04-19T13:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "against-the-storm",
-    "startDate": "2024-04-05T13:00:00.000Z",
-    "title": "Against the Storm"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -1105,15 +1096,6 @@
     "slug": "emergency-crew-1-04340a",
     "startDate": "2024-03-26T15:00:00.000Z",
     "title": "Emergency Crew 2 Global Warming"
-  },
-  {
-    "discountPercentage": 35,
-    "endDate": "2024-04-19T13:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "empires-of-the-undergrowth",
-    "startDate": "2024-04-05T13:00:00.000Z",
-    "title": "Empires of the Undergrowth"
   },
   {
     "discountPercentage": 40,
@@ -2232,15 +2214,6 @@
     "title": "OddBallers\u2122"
   },
   {
-    "discountPercentage": 30,
-    "endDate": "2024-04-19T13:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "old-world",
-    "startDate": "2024-04-05T13:00:00.000Z",
-    "title": "Old World"
-  },
-  {
     "discountPercentage": 67,
     "endDate": "2024-04-16T15:00:00.000Z",
     "isFree": false,
@@ -3339,15 +3312,6 @@
     "title": "Tear of Time - Lost memory"
   },
   {
-    "discountPercentage": 30,
-    "endDate": "2024-04-19T13:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "terra-invicta-5bbf09",
-    "startDate": "2024-04-05T13:00:00.000Z",
-    "title": "Terra Invicta"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -3967,15 +3931,6 @@
     "slug": "world-turtles-b2139d",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "World Turtles"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2024-04-19T13:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "xenonauts-2-42a236",
-    "startDate": "2024-04-05T13:00:00.000Z",
-    "title": "Xenonauts 2"
   },
   {
     "discountPercentage": 40,
