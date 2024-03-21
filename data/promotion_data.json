@@ -1530,6 +1530,15 @@
     "title": "He Will Shoot"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2024-04-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "hell-pie-edc41f",
+    "startDate": "2024-03-22T16:00:00.000Z",
+    "title": "Hell Pie"
+  },
+  {
     "discountPercentage": 34,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -1843,6 +1852,15 @@
     "slug": "love-3-c2516f",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "LOVE 3"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2024-04-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "laika-3293ee",
+    "startDate": "2024-03-22T16:00:00.000Z",
+    "title": "Laika: Aged Through Blood"
   },
   {
     "discountPercentage": 60,
@@ -2529,6 +2547,15 @@
     "title": "Psychiatrist Simulator 2"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2024-04-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "pumpkin-jack",
+    "startDate": "2024-03-22T16:00:00.000Z",
+    "title": "Pumpkin Jack"
+  },
+  {
     "discountPercentage": 10,
     "endDate": "2024-04-21T23:00:00.000Z",
     "isFree": false,
@@ -2887,6 +2914,15 @@
     "slug": "scarf-dd1030",
     "startDate": "2024-04-09T15:00:00.000Z",
     "title": "Scarf"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-04-02T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "scarlet-hood-and-the-wicked-wood",
+    "startDate": "2024-03-26T15:00:00.000Z",
+    "title": "Scarlet Hood and the Wicked Wood"
   },
   {
     "discountPercentage": 25,
@@ -3859,6 +3895,15 @@
     "slug": "true-hate-007027",
     "startDate": "2024-04-01T22:00:00.000Z",
     "title": "True Hate"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2024-03-31T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "truberbrook",
+    "startDate": "2024-03-22T16:00:00.000Z",
+    "title": "Tr\u00fcberbrook"
   },
   {
     "discountPercentage": 50,
