@@ -46,6 +46,7 @@
 |#|dragon-quest-xi-s-echoes-of-an-elusive-age|DRAGON QUEST® XI S: Echoes of an Elusive Age™|39,99€|40|2024-03-21 15h|2024-04-04 15h|
 |#|final-fantasy-vii-remake-intergrade|FINAL FANTASY VII REMAKE INTERGRADE|79,99€|50|2024-03-21 15h|2024-04-04 15h|
 |#|forspoken|Forspoken|79,99€|60|2024-03-21 15h|2024-04-04 15h|
+|#|islets-5f2670|Islets|19,50€|100|2024-03-28 15h|2024-04-04 15h|
 |#|just-cause-4|Just Cause 4 Reloaded|32,99€|85|2024-03-21 15h|2024-04-04 15h|
 |#|kingdom-hearts-hd-1-5-2-5-remix|KINGDOM HEARTS HD 1.5+2.5 ReMIX|49,99€|60|2024-03-21 15h|2024-04-04 15h|
 |#|kingdom-hearts-hd-2-8-final-chapter-prologue|KINGDOM HEARTS HD 2.8 Final Chapter Prologue|59,99€|60|2024-03-21 15h|2024-04-04 15h|

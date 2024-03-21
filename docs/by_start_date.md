@@ -71,6 +71,7 @@
 |#|peerless-destiny-chinese-838f90|Peerless Destiny|8,09€|20|2024-03-27 22h|2024-04-03 22h|
 |#|eternal-supreme-a3866b|Peerless Destiny|8,09€|20|2024-03-28 11h|2024-04-04 11h|
 |#|football-manager-2024|Football Manager 2024|59,99€|33|2024-03-28 15h|2024-04-11 14h|
+|#|islets-5f2670|Islets|19,50€|100|2024-03-28 15h|2024-04-04 15h|
 |#|death-crown-b2f5cd|Death Crown|8,99€|80|2024-03-29 00h|2024-04-04 23h|
 |#|psychiatrist-simulator-2-4fff6b|Psychiatrist Simulator 2|4,49€|80|2024-03-29 00h|2024-04-27 23h|
 |#|tribu-55feb1|Tribu|8,99€|75|2024-03-29 00h|2024-04-05 23h|
