@@ -234,15 +234,6 @@
     "title": "Argonauts Agency: Glove of Midas"
   },
   {
-    "discountPercentage": 80,
-    "endDate": "2024-04-25T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "arkanoid-eternal-battle-e1b089",
-    "startDate": "2024-04-11T15:00:00.000Z",
-    "title": "Arkanoid - Eternal Battle"
-  },
-  {
     "discountPercentage": 30,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -385,15 +376,6 @@
     "slug": "assassins-creed-valhalla-immortals-fenyx-rising-bundle",
     "startDate": "2024-04-08T15:00:00.000Z",
     "title": "Assassin\u2019s Creed\u00ae Valhalla + Immortals Fenyx Rising\u2122 Bundle"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2024-04-25T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "asterix-and-obelix-xxxl-the-ram-of-hibernia-3eb1f4",
-    "startDate": "2024-04-11T15:00:00.000Z",
-    "title": "Asterix and Obelix XXXL - The Ram of Hibernia"
   },
   {
     "discountPercentage": 50,
@@ -630,15 +612,6 @@
     "title": "CLeM"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2024-03-28T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 2999,
-    "slug": "call-of-the-wild-the-angler",
-    "startDate": "2024-03-21T15:00:00.000Z",
-    "title": "Call of the Wild: The Angler\u2122"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-04-24T22:00:00.000Z",
     "isFree": false,
@@ -855,15 +828,6 @@
     "title": "DOOMBLADE"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2024-04-04T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "dragon-quest-xi-s-echoes-of-an-elusive-age",
-    "startDate": "2024-03-21T15:00:00.000Z",
-    "title": "DRAGON QUEST\u00ae XI S: Echoes of an Elusive Age\u2122"
-  },
-  {
     "discountPercentage": 60,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -1006,15 +970,6 @@
     "slug": "doki-doki-literature-club-plus",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Doki Doki Literature Club Plus!"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2024-04-25T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2499,
-    "slug": "dolphin-spirit-ocean-mission-2d0f3b",
-    "startDate": "2024-04-11T15:00:00.000Z",
-    "title": "Dolphin Spirit - Ocean Mission"
   },
   {
     "discountPercentage": 50,
@@ -1170,15 +1125,6 @@
     "title": "Eyes Of Memes"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2024-04-04T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 7999,
-    "slug": "final-fantasy-vii-remake-intergrade",
-    "startDate": "2024-03-21T15:00:00.000Z",
-    "title": "FINAL FANTASY VII REMAKE INTERGRADE"
-  },
-  {
     "discountPercentage": 20,
     "endDate": "2024-04-02T15:00:00.000Z",
     "isFree": false,
@@ -1303,15 +1249,6 @@
     "slug": "forest-fire-b4bb7e",
     "startDate": "2024-12-15T07:00:00.000Z",
     "title": "Forest Fire"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2024-04-04T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 7999,
-    "slug": "forspoken",
-    "startDate": "2024-03-21T15:00:00.000Z",
-    "title": "Forspoken"
   },
   {
     "discountPercentage": 40,
@@ -1611,15 +1548,6 @@
     "title": "Indies Lies"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2024-03-28T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 999,
-    "slug": "atom-eve-ff090d",
-    "startDate": "2024-03-21T15:00:00.000Z",
-    "title": "Invincible Presents: Atom Eve"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-04-16T15:00:00.000Z",
     "isFree": false,
@@ -1708,51 +1636,6 @@
     "slug": "jump-challenge-228ff0",
     "startDate": "2024-04-02T15:00:00.000Z",
     "title": "Jump Challenge!"
-  },
-  {
-    "discountPercentage": 85,
-    "endDate": "2024-04-04T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3299,
-    "slug": "just-cause-4",
-    "startDate": "2024-03-21T15:00:00.000Z",
-    "title": "Just Cause 4 Reloaded"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2024-04-04T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 4999,
-    "slug": "kingdom-hearts-hd-1-5-2-5-remix",
-    "startDate": "2024-03-21T15:00:00.000Z",
-    "title": "KINGDOM HEARTS HD 1.5+2.5 ReMIX"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2024-04-04T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "kingdom-hearts-hd-2-8-final-chapter-prologue",
-    "startDate": "2024-03-21T15:00:00.000Z",
-    "title": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2024-04-04T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "kingdom-hearts-iii",
-    "startDate": "2024-03-21T15:00:00.000Z",
-    "title": "KINGDOM HEARTS III + Re Mind (DLC)"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2024-04-04T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "kingdom-hearts-melody-of-memory",
-    "startDate": "2024-03-21T15:00:00.000Z",
-    "title": "KINGDOM HEARTS Melody of Memory"
   },
   {
     "discountPercentage": 65,
@@ -2178,15 +2061,6 @@
     "title": "Mystery Solitaire. Grimm's Tales 2"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2024-04-04T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "neo-the-world-ends-with-you",
-    "startDate": "2024-03-21T15:00:00.000Z",
-    "title": "NEO: The World Ends with You"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2024-04-02T15:00:00.000Z",
     "isFree": false,
@@ -2266,15 +2140,6 @@
     "slug": "no-straight-roads",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "No Straight Roads"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2024-04-04T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "outriders",
-    "startDate": "2024-03-21T15:00:00.000Z",
-    "title": "OUTRIDERS"
   },
   {
     "discountPercentage": 75,
@@ -2842,15 +2707,6 @@
     "slug": "stareraabyss-border-c4fe84",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "STARS ERA: ABYSS FRONTIER"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2024-04-04T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "stranger-of-paradise-final-fantasy-origin",
-    "startDate": "2024-03-21T15:00:00.000Z",
-    "title": "STRANGER OF PARADISE FINAL FANTASY ORIGIN"
   },
   {
     "discountPercentage": 10,
