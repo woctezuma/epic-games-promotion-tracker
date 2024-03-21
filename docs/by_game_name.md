@@ -170,6 +170,7 @@
 |#|haven|Haven|24,99€|40|2024-04-11 15h|2024-04-25 15h|
 |#|hazel-sky-478373|Hazel Sky|24,99€|60|2024-04-11 15h|2024-04-25 15h|
 |#|he-will-shoot-46efff|He Will Shoot|1,59€|70|2024-04-25 22h|2024-05-13 22h|
+|#|hell-pie-edc41f|Hell Pie|24,99€|60|2024-03-22 16h|2024-04-01 15h|
 |#|hello-goodboy-4b2edb|Hello Goodboy|14,99€|34|2024-04-11 15h|2024-04-25 15h|
 |#|hero-battle-fantasy-arena-f15594|Hero Battle Fantasy Arena|3,59€|50|2024-04-11 15h|2024-04-25 15h|
 |#|hundred-days-winemaking-simulator|Hundred Days - Winemaking Simulator|19,99€|66|2024-04-11 15h|2024-04-25 15h|
@@ -205,6 +206,7 @@
 |#|king-of-seas-646f95|King of Seas|22,39€|90|2024-04-11 15h|2024-04-25 15h|
 |#|lego-star-wars-the-skywalker-saga|LEGO® Star Wars™: The Skywalker Saga|49,99€|70|2024-05-02 15h|2024-05-09 15h|
 |#|love-3-c2516f|LOVE 3|8,99€|30|2024-04-11 15h|2024-04-25 15h|
+|#|laika-3293ee|Laika: Aged Through Blood|19,99€|20|2024-03-22 16h|2024-04-01 15h|
 |#|lamentum-962e3e|Lamentum|15,99€|60|2024-04-11 15h|2024-04-25 15h|
 |#|land-of-the-vikings-d542d8|Land of the Vikings|24,50€|40|2024-04-11 15h|2024-04-25 15h|
 |#|liberated-f13008|Liberated|15,99€|80|2024-03-26 15h|2024-04-02 15h|
@@ -281,6 +283,7 @@
 |#|pro-basketball-manager-2024-5c764f|Pro Basketball Manager 2024|26,99€|35|2024-05-04 04h|2024-05-16 23h|
 |#|psychiatrist-simulator-bfbcc4|Psychiatrist Simulator|4,49€|80|2024-04-28 23h|2024-05-12 23h|
 |#|psychiatrist-simulator-2-4fff6b|Psychiatrist Simulator 2|4,49€|80|2024-03-29 00h|2024-04-27 23h|
+|#|pumpkin-jack|Pumpkin Jack|29,99€|75|2024-03-22 16h|2024-04-01 15h|
 |#|quantum-storm-3d80ad|Quantum Storm|4,49€|10|2024-03-23 00h|2024-04-21 23h|
 |#|quest-of-dungeons-3064d5|Quest of Dungeons|4,99€|60|2024-04-11 15h|2024-04-25 15h|
 |#|quick-race-293d39|Quick Race|1,79€|50|2024-03-26 15h|2024-04-02 15h|
@@ -321,6 +324,7 @@
 |#|saviorless-bdcd28|Saviorless|12,99€|10|2024-04-02 13h|2024-04-09 13h|
 |#|saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited|Saviors of Sapphire Wings & Strangers of Sword City Revisited|49,99€|60|2024-04-27 15h|2024-05-06 14h|
 |#|scarf-dd1030|Scarf|14,99€|67|2024-04-09 15h|2024-04-16 15h|
+|#|scarlet-hood-and-the-wicked-wood|Scarlet Hood and the Wicked Wood|14,99€|80|2024-03-26 15h|2024-04-02 15h|
 |#|scholar-of-the-arcane-arts-6f4c67|Scholar of the Arcane Arts|3,99€|25|2024-04-11 15h|2024-04-25 15h|
 |#|scorn|Scorn|39,99€|65|2024-04-11 15h|2024-04-25 15h|
 |#|serafinas-saga-awakened-921f2a|Serafina's Saga: Awakened|17,99€|10|2024-03-22 15h|2024-03-26 04h|
@@ -429,6 +433,7 @@
 |#|trigon-ce1936|Trigon: Space Story|19,99€|70|2024-04-16 15h|2024-04-23 15h|
 |#|parakacuk-22f4b2|Troublemaker|19,99€|30|2024-04-11 15h|2024-04-25 15h|
 |#|true-hate-007027|True Hate|5,99€|90|2024-04-01 22h|2024-04-15 22h|
+|#|truberbrook|Trüberbrook|29,99€|90|2024-03-22 16h|2024-03-31 15h|
 |#|tyrants-blessing-02fddd|Tyrants Blessing|19,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|undergrave-4d084b|Undergrave|7,99€|60|2024-03-26 15h|2024-04-02 15h|
 |#|unlock-the-cat-487fac|Unlock The Cat|1,79€|40|2024-03-22 17h|2024-03-29 17h|

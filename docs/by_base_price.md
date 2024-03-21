@@ -66,9 +66,11 @@
 |#|fallen-legion-rise-to-glory-0ea64a|Fallen Legion: Rise to Glory|29,99€|35|2024-04-27 15h|2024-05-06 14h|
 |#|isonzo|Isonzo|29,99€|67|2024-04-11 15h|2024-04-25 15h|
 |#|kao-the-kangaroo-62abe3|Kao the Kangaroo|29,99€|65|2024-04-09 15h|2024-04-16 15h|
+|#|pumpkin-jack|Pumpkin Jack|29,99€|75|2024-03-22 16h|2024-04-01 15h|
 |#|steep|Steep Standard Edition|29,99€|85|2024-04-11 15h|2024-04-25 15h|
 |#|tchia|Tchia|29,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|the-sisters-2-road-to-fame-287bbe|The Sisters 2 - Road to Fame|29,99€|35|2024-04-11 15h|2024-04-25 15h|
+|#|truberbrook|Trüberbrook|29,99€|90|2024-03-22 16h|2024-03-31 15h|
 |#|airship-kingdoms-adrift-cc8448|Airship Kingdoms Adrift|26,99€|34|2024-04-11 15h|2024-04-25 15h|
 |#|battle-ram-d001fd|Battle Ram|26,99€|90|2024-03-26 15h|2024-04-02 15h|
 |#|earthlock-e7d979|EARTHLOCK|26,99€|90|2024-04-11 15h|2024-04-25 15h|
@@ -83,6 +85,7 @@
 |#|dolphin-spirit-ocean-mission-2d0f3b|Dolphin Spirit - Ocean Mission|24,99€|40|2024-04-11 15h|2024-04-25 15h|
 |#|haven|Haven|24,99€|40|2024-04-11 15h|2024-04-25 15h|
 |#|hazel-sky-478373|Hazel Sky|24,99€|60|2024-04-11 15h|2024-04-25 15h|
+|#|hell-pie-edc41f|Hell Pie|24,99€|60|2024-03-22 16h|2024-04-01 15h|
 |#|imagine-earth-7498e4|Imagine Earth|24,99€|55|2024-03-26 15h|2024-04-02 15h|
 |#|king-of-retail-c3ad3e|King of Retail|24,99€|55|2024-04-11 15h|2024-04-25 15h|
 |#|no-straight-roads|No Straight Roads|24,99€|66|2024-04-11 15h|2024-04-25 15h|
@@ -123,6 +126,7 @@
 |#|hundred-days-winemaking-simulator|Hundred Days - Winemaking Simulator|19,99€|66|2024-04-11 15h|2024-04-25 15h|
 |#|imp-of-the-sun|Imp of the Sun|19,99€|57|2024-04-11 15h|2024-04-25 15h|
 |#|keywe-c3a70e|KeyWe|19,99€|66|2024-04-11 15h|2024-04-25 15h|
+|#|laika-3293ee|Laika: Aged Through Blood|19,99€|20|2024-03-22 16h|2024-04-01 15h|
 |#|little-big-workshop|Little Big Workshop|19,99€|75|2024-04-09 15h|2024-04-16 15h|
 |#|lunarlux-41403d|LunarLux|19,99€|25|2024-04-11 15h|2024-04-25 15h|
 |#|mail-time-ed1aea|Mail Time|19,99€|30|2024-04-11 15h|2024-04-25 15h|
@@ -215,6 +219,7 @@
 |#|one-hand-clapping|One Hand Clapping|14,99€|67|2024-04-09 15h|2024-04-16 15h|
 |#|pile-up-b1e2af|Pile Up|14,99€|50|2024-04-02 15h|2024-04-09 15h|
 |#|scarf-dd1030|Scarf|14,99€|67|2024-04-09 15h|2024-04-16 15h|
+|#|scarlet-hood-and-the-wicked-wood|Scarlet Hood and the Wicked Wood|14,99€|80|2024-03-26 15h|2024-04-02 15h|
 |#|shuyan-saga-cd1476|Shuyan Saga|14,99€|30|2024-04-11 15h|2024-04-25 15h|
 |#|silent-hunter-4-wolves-of-the-pacific-gold-edition|Silent Hunter 4: Wolves of the Pacific GOLD EDITION|14,99€|75|2024-04-11 15h|2024-04-25 15h|
 |#|silt-6ca919|Silt|14,99€|54|2024-04-11 15h|2024-04-25 15h|

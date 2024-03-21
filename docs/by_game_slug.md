@@ -171,6 +171,7 @@
 |#|haven|Haven|24,99€|40|2024-04-11 15h|2024-04-25 15h|
 |#|hazel-sky-478373|Hazel Sky|24,99€|60|2024-04-11 15h|2024-04-25 15h|
 |#|he-will-shoot-46efff|He Will Shoot|1,59€|70|2024-04-25 22h|2024-05-13 22h|
+|#|hell-pie-edc41f|Hell Pie|24,99€|60|2024-03-22 16h|2024-04-01 15h|
 |#|hello-goodboy-4b2edb|Hello Goodboy|14,99€|34|2024-04-11 15h|2024-04-25 15h|
 |#|hero-battle-fantasy-arena-f15594|Hero Battle Fantasy Arena|3,59€|50|2024-04-11 15h|2024-04-25 15h|
 |#|horse-club-adventures-19e7a0|HORSE CLUB Adventures|17,99€|25|2024-04-11 15h|2024-04-25 15h|
@@ -205,6 +206,7 @@
 |#|kingdom-hearts-hd-2-8-final-chapter-prologue|KINGDOM HEARTS HD 2.8 Final Chapter Prologue|59,99€|60|2024-03-21 15h|2024-04-04 15h|
 |#|kingdom-hearts-iii|KINGDOM HEARTS III + Re Mind (DLC)|59,99€|60|2024-03-21 15h|2024-04-04 15h|
 |#|kingdom-hearts-melody-of-memory|KINGDOM HEARTS Melody of Memory|59,99€|60|2024-03-21 15h|2024-04-04 15h|
+|#|laika-3293ee|Laika: Aged Through Blood|19,99€|20|2024-03-22 16h|2024-04-01 15h|
 |#|lamentum-962e3e|Lamentum|15,99€|60|2024-04-11 15h|2024-04-25 15h|
 |#|land-of-the-vikings-d542d8|Land of the Vikings|24,50€|40|2024-04-11 15h|2024-04-25 15h|
 |#|lego-star-wars-the-skywalker-saga|LEGO® Star Wars™: The Skywalker Saga|49,99€|70|2024-05-02 15h|2024-05-09 15h|
@@ -284,6 +286,7 @@
 |#|pro-basketball-manager-2024-5c764f|Pro Basketball Manager 2024|26,99€|35|2024-05-04 04h|2024-05-16 23h|
 |#|psychiatrist-simulator-2-4fff6b|Psychiatrist Simulator 2|4,49€|80|2024-03-29 00h|2024-04-27 23h|
 |#|psychiatrist-simulator-bfbcc4|Psychiatrist Simulator|4,49€|80|2024-04-28 23h|2024-05-12 23h|
+|#|pumpkin-jack|Pumpkin Jack|29,99€|75|2024-03-22 16h|2024-04-01 15h|
 |#|quantum-storm-3d80ad|Quantum Storm|4,49€|10|2024-03-23 00h|2024-04-21 23h|
 |#|quest-of-dungeons-3064d5|Quest of Dungeons|4,99€|60|2024-04-11 15h|2024-04-25 15h|
 |#|quick-race-293d39|Quick Race|1,79€|50|2024-03-26 15h|2024-04-02 15h|
@@ -315,6 +318,7 @@
 |#|saviorless-bdcd28|Saviorless|12,99€|10|2024-04-02 13h|2024-04-09 13h|
 |#|saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited|Saviors of Sapphire Wings & Strangers of Sword City Revisited|49,99€|60|2024-04-27 15h|2024-05-06 14h|
 |#|scarf-dd1030|Scarf|14,99€|67|2024-04-09 15h|2024-04-16 15h|
+|#|scarlet-hood-and-the-wicked-wood|Scarlet Hood and the Wicked Wood|14,99€|80|2024-03-26 15h|2024-04-02 15h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|75|2024-04-19 22h|2024-05-04 22h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|75|2024-06-05 22h|2024-06-19 22h|
 |#|scholar-of-the-arcane-arts-6f4c67|Scholar of the Arcane Arts|3,99€|25|2024-04-11 15h|2024-04-25 15h|
@@ -426,6 +430,7 @@
 |#|trials-rising|Trials Rising Standard Edition|19,99€|80|2024-04-11 15h|2024-04-25 15h|
 |#|tribu-55feb1|Tribu|8,99€|75|2024-03-29 00h|2024-04-05 23h|
 |#|trigon-ce1936|Trigon: Space Story|19,99€|70|2024-04-16 15h|2024-04-23 15h|
+|#|truberbrook|Trüberbrook|29,99€|90|2024-03-22 16h|2024-03-31 15h|
 |#|true-hate-007027|True Hate|5,99€|90|2024-04-01 22h|2024-04-15 22h|
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2024-04-15 22h|2024-05-03 22h|
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2024-06-04 22h|2024-06-19 22h|

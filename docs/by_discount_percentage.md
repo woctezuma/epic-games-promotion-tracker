@@ -20,6 +20,7 @@
 |#|steel-rats-445306|Steel Rats|9,99€|90|2024-04-09 15h|2024-04-16 15h|
 |#|the-impossible-fcebf7|THE IMPOSSIBLE|4,49€|90|2024-04-11 15h|2024-04-25 15h|
 |#|true-hate-007027|True Hate|5,99€|90|2024-04-01 22h|2024-04-15 22h|
+|#|truberbrook|Trüberbrook|29,99€|90|2024-03-22 16h|2024-03-31 15h|
 |#|urban-trial-freestyle-b30b3e|Urban Trial Freestyle|6,99€|90|2024-04-09 15h|2024-04-16 15h|
 |#|kholat-3f394b|Kholat|17,99€|88|2024-04-11 15h|2024-04-25 15h|
 |#|my-memory-of-us-709675|My Memory of Us|13,99€|88|2024-04-11 15h|2024-04-25 15h|
@@ -48,6 +49,7 @@
 |#|paradise-lost|Paradise Lost|12,49€|80|2024-03-26 15h|2024-04-02 15h|
 |#|psychiatrist-simulator-bfbcc4|Psychiatrist Simulator|4,49€|80|2024-04-28 23h|2024-05-12 23h|
 |#|psychiatrist-simulator-2-4fff6b|Psychiatrist Simulator 2|4,49€|80|2024-03-29 00h|2024-04-27 23h|
+|#|scarlet-hood-and-the-wicked-wood|Scarlet Hood and the Wicked Wood|14,99€|80|2024-03-26 15h|2024-04-02 15h|
 |#|tetragon-edc5d5|Tetragon|14,99€|80|2024-04-11 15h|2024-04-25 15h|
 |#|the-count-lucanor|The Count Lucanor|7,99€|80|2024-04-11 15h|2024-04-25 15h|
 |#|the-crew-2|The Crew 2 Standard Edition|49,99€|80|2024-04-11 15h|2024-04-25 15h|
@@ -85,6 +87,7 @@
 |#|oxide-room-104-4c1249|Oxide Room 104|17,99€|75|2024-03-29 13h|2024-04-07 10h|
 |#|oxide-room-104-4c1249|Oxide Room 104|17,99€|75|2024-05-08 12h|2024-05-19 10h|
 |#|pc-building-simulator|PC Building Simulator|15,99€|75|2024-04-11 15h|2024-04-25 15h|
+|#|pumpkin-jack|Pumpkin Jack|29,99€|75|2024-03-22 16h|2024-04-01 15h|
 |#|ruin-raiders-d2d613|Ruin Raiders|15,99€|75|2024-04-11 15h|2024-04-25 15h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|75|2024-04-19 22h|2024-05-04 22h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|75|2024-06-05 22h|2024-06-19 22h|
@@ -155,6 +158,7 @@
 |#|for-the-warp-b5c468|For The Warp|13,49€|60|2024-04-09 15h|2024-04-16 15h|
 |#|forspoken|Forspoken|79,99€|60|2024-03-21 15h|2024-04-04 15h|
 |#|hazel-sky-478373|Hazel Sky|24,99€|60|2024-04-11 15h|2024-04-25 15h|
+|#|hell-pie-edc41f|Hell Pie|24,99€|60|2024-03-22 16h|2024-04-01 15h|
 |#|kingdom-hearts-hd-1-5-2-5-remix|KINGDOM HEARTS HD 1.5+2.5 ReMIX|49,99€|60|2024-03-21 15h|2024-04-04 15h|
 |#|kingdom-hearts-hd-2-8-final-chapter-prologue|KINGDOM HEARTS HD 2.8 Final Chapter Prologue|59,99€|60|2024-03-21 15h|2024-04-04 15h|
 |#|kingdom-hearts-iii|KINGDOM HEARTS III + Re Mind (DLC)|59,99€|60|2024-03-21 15h|2024-04-04 15h|
@@ -416,6 +420,7 @@
 |#|forest-fire-b4bb7e|Forest Fire|5,39€|20|2024-04-01 07h|2024-04-14 07h|
 |#|going-medieval|Going Medieval|24,49€|20|2024-04-11 15h|2024-04-25 15h|
 |#|journey-into-darkness-2b6bf8|Journey Into Darkness|4,49€|20|2024-04-11 15h|2024-04-25 15h|
+|#|laika-3293ee|Laika: Aged Through Blood|19,99€|20|2024-03-22 16h|2024-04-01 15h|
 |#|lost-abroad-cafe-a-language-learning-management-sim-bfc28c|Lost Abroad Cafe - A Language Learning Management|2,69€|20|2024-04-02 15h|2024-04-09 15h|
 |#|night-loops-aa3cc2|Night Loops|8,99€|20|2024-04-11 15h|2024-04-25 15h|
 |#|orten-was-the-case-d108fb|Orten Was The Case|13,49€|20|2024-04-30 15h|2024-05-07 15h|
