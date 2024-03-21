@@ -2,6 +2,7 @@
 |---|---|---|---|---|---|---|
 |#|call-of-the-wild-the-angler|Call of the Wild: The Angler™|29,99€|100|2024-03-21 15h|2024-03-28 15h|
 |#|atom-eve-ff090d|Invincible Presents: Atom Eve|9,99€|100|2024-03-21 15h|2024-03-28 15h|
+|#|islets-5f2670|Islets|19,50€|100|2024-03-28 15h|2024-04-04 15h|
 |#|star-wars-squadrons|STAR WARS™: Squadrons|39,99€|95|2024-05-02 15h|2024-05-09 15h|
 |#|battle-ram-d001fd|Battle Ram|26,99€|90|2024-03-26 15h|2024-04-02 15h|
 |#|bob-a-thousand-lives-802452|Bob A thousand lives - Enhanced Edition|8,99€|90|2024-03-26 15h|2024-04-02 15h|

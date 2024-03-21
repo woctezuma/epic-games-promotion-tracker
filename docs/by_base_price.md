@@ -163,6 +163,7 @@
 |#|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|80|2024-04-11 15h|2024-04-25 15h|
 |#|townsmen-a-kingdom-rebuilt-07c09d|Townsmen - A Kingdom Rebuilt|19,98€|85|2024-04-09 15h|2024-04-16 15h|
 |#|guacamelee-2-ac4977|Guacamelee! 2|19,50€|75|2024-04-11 15h|2024-04-25 15h|
+|#|islets-5f2670|Islets|19,50€|100|2024-03-28 15h|2024-04-04 15h|
 |#|library-of-babel-7cedb5|The Library of Babel|18,99€|60|2024-04-11 15h|2024-04-25 15h|
 |#|art-is-rifle-897224|ART IS RIFLE|17,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|anime-vs-evil-apocalypse-4c8f91|Anime vs Evil: Apocalypse|17,99€|70|2024-03-31 20h|2024-04-13 20h|
