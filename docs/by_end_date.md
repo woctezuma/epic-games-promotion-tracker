@@ -1,8 +1,6 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
 |#|serafinas-saga-awakened-921f2a|Serafina's Saga: Awakened|17,99€|10|2024-03-22 15h|2024-03-26 04h|
-|#|call-of-the-wild-the-angler|Call of the Wild: The Angler™|29,99€|100|2024-03-21 15h|2024-03-28 15h|
-|#|atom-eve-ff090d|Invincible Presents: Atom Eve|9,99€|100|2024-03-21 15h|2024-03-28 15h|
 |#|bears-in-space|Bears in Space|19,99€|10|2024-03-22 16h|2024-03-29 16h|
 |#|unlock-the-cat-487fac|Unlock The Cat|1,79€|40|2024-03-22 17h|2024-03-29 17h|
 |#|truberbrook|Trüberbrook|29,99€|90|2024-03-22 16h|2024-03-31 15h|
@@ -43,18 +41,7 @@
 |#|pro-basketball-manager-2024-5c764f|Pro Basketball Manager 2024|26,99€|30|2024-03-23 05h|2024-04-03 23h|
 |#|eternal-supreme-a3866b|Peerless Destiny|8,09€|20|2024-03-28 11h|2024-04-04 11h|
 |#|dark-light|Dark Light|15,29€|35|2024-03-22 13h|2024-04-04 13h|
-|#|dragon-quest-xi-s-echoes-of-an-elusive-age|DRAGON QUEST® XI S: Echoes of an Elusive Age™|39,99€|40|2024-03-21 15h|2024-04-04 15h|
-|#|final-fantasy-vii-remake-intergrade|FINAL FANTASY VII REMAKE INTERGRADE|79,99€|50|2024-03-21 15h|2024-04-04 15h|
-|#|forspoken|Forspoken|79,99€|60|2024-03-21 15h|2024-04-04 15h|
 |#|islets-5f2670|Islets|19,50€|100|2024-03-28 15h|2024-04-04 15h|
-|#|just-cause-4|Just Cause 4 Reloaded|32,99€|85|2024-03-21 15h|2024-04-04 15h|
-|#|kingdom-hearts-hd-1-5-2-5-remix|KINGDOM HEARTS HD 1.5+2.5 ReMIX|49,99€|60|2024-03-21 15h|2024-04-04 15h|
-|#|kingdom-hearts-hd-2-8-final-chapter-prologue|KINGDOM HEARTS HD 2.8 Final Chapter Prologue|59,99€|60|2024-03-21 15h|2024-04-04 15h|
-|#|kingdom-hearts-iii|KINGDOM HEARTS III + Re Mind (DLC)|59,99€|60|2024-03-21 15h|2024-04-04 15h|
-|#|kingdom-hearts-melody-of-memory|KINGDOM HEARTS Melody of Memory|59,99€|60|2024-03-21 15h|2024-04-04 15h|
-|#|neo-the-world-ends-with-you|NEO: The World Ends with You|59,99€|50|2024-03-21 15h|2024-04-04 15h|
-|#|outriders|OUTRIDERS|19,99€|50|2024-03-21 15h|2024-04-04 15h|
-|#|stranger-of-paradise-final-fantasy-origin|STRANGER OF PARADISE FINAL FANTASY ORIGIN|39,99€|40|2024-03-21 15h|2024-04-04 15h|
 |#|midnight-ghost-hunt|Midnight Ghost Hunt|19,99€|66|2024-03-21 17h|2024-04-04 16h|
 |#|death-crown-b2f5cd|Death Crown|8,99€|80|2024-03-29 00h|2024-04-04 23h|
 |#|gray-dawn-a0cc44|Gray Dawn|13,49€|50|2024-03-22 16h|2024-04-05 15h|
@@ -183,9 +170,7 @@
 |#|anno-2205|Anno 2205 - Standard Edition|39,99€|85|2024-04-11 15h|2024-04-25 15h|
 |#|anuchard-08179d|Anuchard|14,99€|70|2024-04-11 15h|2024-04-25 15h|
 |#|arcatronz-2bb3f2|Arcatron-Z|3,59€|50|2024-04-11 15h|2024-04-25 15h|
-|#|arkanoid-eternal-battle-e1b089|Arkanoid - Eternal Battle|19,99€|80|2024-04-11 15h|2024-04-25 15h|
 |#|arto-ff98ff|Arto|19,99€|30|2024-04-11 15h|2024-04-25 15h|
-|#|asterix-and-obelix-xxxl-the-ram-of-hibernia-3eb1f4|Asterix and Obelix XXXL - The Ram of Hibernia|39,99€|60|2024-04-11 15h|2024-04-25 15h|
 |#|baby-storm-426245|Baby Storm|16,19€|50|2024-04-11 15h|2024-04-25 15h|
 |#|beyond-good-and-evil|Beyond Good & Evil|4,99€|70|2024-04-11 15h|2024-04-25 15h|
 |#|black-academy-ed8e11|Black Academy|15,79€|60|2024-04-11 15h|2024-04-25 15h|
@@ -215,7 +200,6 @@
 |#|dinobreak-307b09|Dinobreak|17,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|dizzy-fight-7bbfe7|Dizzy Fight|7,19€|50|2024-04-11 15h|2024-04-25 15h|
 |#|doki-doki-literature-club-plus|Doki Doki Literature Club Plus!|12,49€|25|2024-04-11 15h|2024-04-25 15h|
-|#|dolphin-spirit-ocean-mission-2d0f3b|Dolphin Spirit - Ocean Mission|24,99€|40|2024-04-11 15h|2024-04-25 15h|
 |#|doomed-lands-7e2565|Doomed Lands|11,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|dreamscaper|Dreamscaper|19,99€|60|2024-04-11 15h|2024-04-25 15h|
 |#|dumpy-and-bumpy-86c9d7|Dumpy and Bumpy|3,99€|30|2024-04-11 15h|2024-04-25 15h|

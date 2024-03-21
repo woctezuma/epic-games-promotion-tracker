@@ -4,8 +4,6 @@
 |#|assassins-creed-valhalla-immortals-fenyx-rising-bundle|Assassin’s Creed® Valhalla + Immortals Fenyx Rising™ Bundle|109,99€|75|2024-04-08 15h|2024-04-15 15h|
 |#|ea-star-wars-triple-bundle|EA STAR WARS™ TRIPLE BUNDLE|89,99€|90|2024-05-02 15h|2024-05-09 15h|
 |#|rpgunite-819421|RPG MAKER UNITE|89,99€|10|2024-04-09 15h|2024-04-16 15h|
-|#|final-fantasy-vii-remake-intergrade|FINAL FANTASY VII REMAKE INTERGRADE|79,99€|50|2024-03-21 15h|2024-04-04 15h|
-|#|forspoken|Forspoken|79,99€|60|2024-03-21 15h|2024-04-04 15h|
 |#|star-wars-jedi-survivor|STAR WARS Jedi: Survivor™|69,99€|55|2024-05-02 15h|2024-05-09 15h|
 |#|assassins-creed-origins|Assassin's Creed Origins Standard Edition|59,99€|85|2024-04-08 15h|2024-04-15 15h|
 |#|assassins-creed-valhalla|Assassin's Creed® Valhalla Standard Edition|59,99€|75|2024-04-08 15h|2024-04-15 15h|
@@ -13,10 +11,6 @@
 |#|disaster-report-4-summer-memories|Disaster Report 4: Summer Memories|59,99€|67|2024-04-27 15h|2024-05-06 14h|
 |#|disgaea-6-complete|Disgaea 6 Complete|59,99€|35|2024-04-27 15h|2024-05-06 14h|
 |#|football-manager-2024|Football Manager 2024|59,99€|33|2024-03-28 15h|2024-04-11 14h|
-|#|kingdom-hearts-hd-2-8-final-chapter-prologue|KINGDOM HEARTS HD 2.8 Final Chapter Prologue|59,99€|60|2024-03-21 15h|2024-04-04 15h|
-|#|kingdom-hearts-iii|KINGDOM HEARTS III + Re Mind (DLC)|59,99€|60|2024-03-21 15h|2024-04-04 15h|
-|#|kingdom-hearts-melody-of-memory|KINGDOM HEARTS Melody of Memory|59,99€|60|2024-03-21 15h|2024-04-04 15h|
-|#|neo-the-world-ends-with-you|NEO: The World Ends with You|59,99€|50|2024-03-21 15h|2024-04-04 15h|
 |#|the-legend-of-heroes-trails-into-reverie|The Legend of Heroes: Trails into Reverie|59,99€|20|2024-04-27 15h|2024-05-06 14h|
 |#|the-legend-of-heroes-trails-of-cold-steel-iii|The Legend of Heroes: Trails of Cold Steel III|59,99€|67|2024-04-27 15h|2024-05-06 14h|
 |#|the-legend-of-heroes-trails-of-cold-steel-iv|The Legend of Heroes: Trails of Cold Steel IV|59,99€|50|2024-04-27 15h|2024-05-06 14h|
@@ -29,14 +23,11 @@
 |#|the-mystery-of-the-moon-7f3e48|The Mystery Of The Moon|53,99€|80|2024-11-14 16h|2024-11-19 15h|
 |#|the-mystery-of-the-moon-7f3e48|The Mystery Of The Moon|53,99€|80|2024-12-19 16h|2025-01-04 16h|
 |#|assassins-creed-mirage|Assassin's Creed® Mirage|49,99€|40|2024-04-08 15h|2024-04-15 15h|
-|#|kingdom-hearts-hd-1-5-2-5-remix|KINGDOM HEARTS HD 1.5+2.5 ReMIX|49,99€|60|2024-03-21 15h|2024-04-04 15h|
 |#|lego-star-wars-the-skywalker-saga|LEGO® Star Wars™: The Skywalker Saga|49,99€|70|2024-05-02 15h|2024-05-09 15h|
 |#|saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited|Saviors of Sapphire Wings & Strangers of Sword City Revisited|49,99€|60|2024-04-27 15h|2024-05-06 14h|
 |#|the-crew-2|The Crew 2 Standard Edition|49,99€|80|2024-04-11 15h|2024-04-25 15h|
 |#|anno-2205|Anno 2205 - Standard Edition|39,99€|85|2024-04-11 15h|2024-04-25 15h|
 |#|assassins-creed-3|Assassin's Creed® III: Remastered|39,99€|75|2024-04-08 15h|2024-04-15 15h|
-|#|asterix-and-obelix-xxxl-the-ram-of-hibernia-3eb1f4|Asterix and Obelix XXXL - The Ram of Hibernia|39,99€|60|2024-04-11 15h|2024-04-25 15h|
-|#|dragon-quest-xi-s-echoes-of-an-elusive-age|DRAGON QUEST® XI S: Echoes of an Elusive Age™|39,99€|40|2024-03-21 15h|2024-04-04 15h|
 |#|fallen-legion-revenants-a2c944|Fallen Legion Revenants|39,99€|35|2024-04-27 15h|2024-05-06 14h|
 |#|fuga-melodies-of-steel|Fuga: Melodies of Steel|39,99€|40|2024-04-11 15h|2024-04-25 15h|
 |#|fuga-melodies-of-steel-2-a756d1|Fuga: Melodies of Steel 2|39,99€|30|2024-04-11 15h|2024-04-25 15h|
@@ -45,7 +36,6 @@
 |#|star-wars-jedi-fallen-order|STAR WARS Jedi: Fallen Order Standard Edition|39,99€|90|2024-05-02 15h|2024-05-09 15h|
 |#|star-wars-battlefront-2|STAR WARS™ Battlefront™ II: Celebration Edition|39,99€|88|2024-05-02 15h|2024-05-09 15h|
 |#|star-wars-squadrons|STAR WARS™: Squadrons|39,99€|95|2024-05-02 15h|2024-05-09 15h|
-|#|stranger-of-paradise-final-fantasy-origin|STRANGER OF PARADISE FINAL FANTASY ORIGIN|39,99€|40|2024-03-21 15h|2024-04-04 15h|
 |#|scorn|Scorn|39,99€|65|2024-04-11 15h|2024-04-25 15h|
 |#|sifu|Sifu|39,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|terra-invicta-5bbf09|Terra Invicta|39,99€|30|2024-04-05 13h|2024-04-12 13h|
@@ -55,12 +45,10 @@
 |#|trackmania-turbo|Trackmania Turbo|39,99€|60|2024-04-11 15h|2024-04-25 15h|
 |#|xenonauts-2-42a236|Xenonauts 2|39,99€|30|2024-04-05 13h|2024-04-12 13h|
 |#|aragami-2|Aragami 2|34,99€|70|2024-03-26 15h|2024-04-02 15h|
-|#|just-cause-4|Just Cause 4 Reloaded|32,99€|85|2024-03-21 15h|2024-04-04 15h|
 |#|rimworld|RimWorld|32,99€|20|2024-04-11 15h|2024-04-25 15h|
 |#|control|Control|31,99€|75|2024-04-11 15h|2024-04-25 15h|
 |#|anno-2070|Anno 2070|29,99€|75|2024-04-11 15h|2024-04-25 15h|
 |#|assassins-creed-unity|Assassin's Creed Unity|29,99€|75|2024-04-08 15h|2024-04-15 15h|
-|#|call-of-the-wild-the-angler|Call of the Wild: The Angler™|29,99€|100|2024-03-21 15h|2024-03-28 15h|
 |#|empires-of-the-undergrowth|Empires of the Undergrowth|29,99€|35|2024-04-05 13h|2024-04-12 13h|
 |#|eternights-c2fbca|Eternights|29,99€|40|2024-04-11 15h|2024-04-25 15h|
 |#|fallen-legion-rise-to-glory-0ea64a|Fallen Legion: Rise to Glory|29,99€|35|2024-04-27 15h|2024-05-06 14h|
@@ -82,7 +70,6 @@
 |#|assassins-creed-chronicles-trilogy|Assassin's Creed Chronicles – Trilogy|24,99€|70|2024-04-08 15h|2024-04-15 15h|
 |#|broken-pieces-b1c349|Broken Pieces|24,99€|35|2024-04-11 15h|2024-04-25 15h|
 |#|dead-cells|Dead Cells|24,99€|50|2024-04-11 15h|2024-04-25 15h|
-|#|dolphin-spirit-ocean-mission-2d0f3b|Dolphin Spirit - Ocean Mission|24,99€|40|2024-04-11 15h|2024-04-25 15h|
 |#|haven|Haven|24,99€|40|2024-04-11 15h|2024-04-25 15h|
 |#|hazel-sky-478373|Hazel Sky|24,99€|60|2024-04-11 15h|2024-04-25 15h|
 |#|hell-pie-edc41f|Hell Pie|24,99€|60|2024-03-22 16h|2024-04-01 15h|
@@ -109,7 +96,6 @@
 |#|9-years-of-shadows-a40c92|9 Years of Shadows|19,99€|30|2024-04-11 15h|2024-04-25 15h|
 |#|against-the-storm|Against the Storm|19,99€|35|2024-04-05 13h|2024-04-12 13h|
 |#|airhead-945e54|Airhead|19,99€|20|2024-04-09 15h|2024-04-16 15h|
-|#|arkanoid-eternal-battle-e1b089|Arkanoid - Eternal Battle|19,99€|80|2024-04-11 15h|2024-04-25 15h|
 |#|arto-ff98ff|Arto|19,99€|30|2024-04-11 15h|2024-04-25 15h|
 |#|assassins-creed-rogue|Assassin's Creed Rogue Standard Edition|19,99€|70|2024-04-08 15h|2024-04-15 15h|
 |#|bears-in-space|Bears in Space|19,99€|10|2024-03-22 16h|2024-03-29 16h|
@@ -134,7 +120,6 @@
 |#|midnight-ghost-hunt|Midnight Ghost Hunt|19,99€|66|2024-03-21 17h|2024-04-04 16h|
 |#|monster-tribe-3ca102|Monster Tribe|19,99€|33|2024-04-11 15h|2024-04-25 15h|
 |#|neon-blight-6fe11b|Neon Blight|19,99€|75|2024-04-11 15h|2024-04-25 15h|
-|#|outriders|OUTRIDERS|19,99€|50|2024-03-21 15h|2024-04-04 15h|
 |#|oddballers|OddBallers™|19,99€|75|2024-04-11 15h|2024-04-25 15h|
 |#|one-lonely-outpost-12afa6|One Lonely Outpost|19,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|outerverse-82d7ce|Outerverse|19,99€|75|2024-04-11 15h|2024-04-25 15h|
@@ -267,7 +252,6 @@
 |#|assassins-creed-chronicles-russia|Assassin's Creed Chronicles: Russia|9,99€|70|2024-04-08 15h|2024-04-15 15h|
 |#|assassins-creed-2|Assassin's Creed II Standard Edition|9,99€|75|2024-04-08 15h|2024-04-15 15h|
 |#|assassins-creed-1|Assassin's Creed® I: Director's Cut|9,99€|75|2024-04-08 15h|2024-04-15 15h|
-|#|atom-eve-ff090d|Invincible Presents: Atom Eve|9,99€|100|2024-03-21 15h|2024-03-28 15h|
 |#|sine-mora-ex-d4fd23|Sine Mora Ex|9,99€|85|2024-04-09 15h|2024-04-16 15h|
 |#|steel-rats-445306|Steel Rats|9,99€|90|2024-04-09 15h|2024-04-16 15h|
 |#|the-magnificent-trufflepigs|The Magnificent Trufflepigs|9,99€|75|2024-04-11 15h|2024-04-25 15h|

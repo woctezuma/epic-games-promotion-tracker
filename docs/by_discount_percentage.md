@@ -1,7 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|call-of-the-wild-the-angler|Call of the Wild: The Angler™|29,99€|100|2024-03-21 15h|2024-03-28 15h|
-|#|atom-eve-ff090d|Invincible Presents: Atom Eve|9,99€|100|2024-03-21 15h|2024-03-28 15h|
 |#|islets-5f2670|Islets|19,50€|100|2024-03-28 15h|2024-04-04 15h|
 |#|star-wars-squadrons|STAR WARS™: Squadrons|39,99€|95|2024-05-02 15h|2024-05-09 15h|
 |#|battle-ram-d001fd|Battle Ram|26,99€|90|2024-03-26 15h|2024-04-02 15h|
@@ -28,14 +26,12 @@
 |#|star-wars-battlefront-2|STAR WARS™ Battlefront™ II: Celebration Edition|39,99€|88|2024-05-02 15h|2024-05-09 15h|
 |#|anno-2205|Anno 2205 - Standard Edition|39,99€|85|2024-04-11 15h|2024-04-25 15h|
 |#|assassins-creed-origins|Assassin's Creed Origins Standard Edition|59,99€|85|2024-04-08 15h|2024-04-15 15h|
-|#|just-cause-4|Just Cause 4 Reloaded|32,99€|85|2024-03-21 15h|2024-04-04 15h|
 |#|overtop-ed5e49|Overtop|4,49€|85|2024-07-23 22h|2024-08-09 22h|
 |#|sine-mora-ex-d4fd23|Sine Mora Ex|9,99€|85|2024-04-09 15h|2024-04-16 15h|
 |#|steep|Steep Standard Edition|29,99€|85|2024-04-11 15h|2024-04-25 15h|
 |#|townsmen-a-kingdom-rebuilt-07c09d|Townsmen - A Kingdom Rebuilt|19,98€|85|2024-04-09 15h|2024-04-16 15h|
 |#|urban-trial-playground-41e403|Urban Trial Playground|6,99€|85|2024-04-09 15h|2024-04-16 15h|
 |#|urban-trial-tricky-eb0205|Urban Trial Tricky Deluxe Edition|19,99€|85|2024-04-09 15h|2024-04-16 15h|
-|#|arkanoid-eternal-battle-e1b089|Arkanoid - Eternal Battle|19,99€|80|2024-04-11 15h|2024-04-25 15h|
 |#|assassins-creed-odyssey|Assassins Creed Odyssey Standard Edition|59,99€|80|2024-04-08 15h|2024-04-15 15h|
 |#|assassins-creed-valhalla-watch-dogs-legion-bundle|Assassin’s Creed Valhalla + Watch Dogs: Legion Bundle|109,99€|80|2024-04-08 15h|2024-04-15 15h|
 |#|bud-spencer-and-terence-hill-slaps-and-beans-0bdb3b|Bud Spencer and Terence Hill - Slaps and Beans|19,98€|80|2024-04-11 15h|2024-04-25 15h|
@@ -151,19 +147,13 @@
 |#|ravens-hike-c34341|Ravens Hike|3,19€|65|2024-03-26 15h|2024-04-02 15h|
 |#|scorn|Scorn|39,99€|65|2024-04-11 15h|2024-04-25 15h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|65|2024-08-06 21h|2024-08-13 21h|
-|#|asterix-and-obelix-xxxl-the-ram-of-hibernia-3eb1f4|Asterix and Obelix XXXL - The Ram of Hibernia|39,99€|60|2024-04-11 15h|2024-04-25 15h|
 |#|black-academy-ed8e11|Black Academy|15,79€|60|2024-04-11 15h|2024-04-25 15h|
 |#|choochoo-charles-0eece5|Choo-Choo Charles|17,99€|60|2024-07-12 08h|2024-07-20 08h|
 |#|dark-deity-0b08d1|Dark Deity|21,99€|60|2024-04-11 15h|2024-04-25 15h|
 |#|dreamscaper|Dreamscaper|19,99€|60|2024-04-11 15h|2024-04-25 15h|
 |#|for-the-warp-b5c468|For The Warp|13,49€|60|2024-04-09 15h|2024-04-16 15h|
-|#|forspoken|Forspoken|79,99€|60|2024-03-21 15h|2024-04-04 15h|
 |#|hazel-sky-478373|Hazel Sky|24,99€|60|2024-04-11 15h|2024-04-25 15h|
 |#|hell-pie-edc41f|Hell Pie|24,99€|60|2024-03-22 16h|2024-04-01 15h|
-|#|kingdom-hearts-hd-1-5-2-5-remix|KINGDOM HEARTS HD 1.5+2.5 ReMIX|49,99€|60|2024-03-21 15h|2024-04-04 15h|
-|#|kingdom-hearts-hd-2-8-final-chapter-prologue|KINGDOM HEARTS HD 2.8 Final Chapter Prologue|59,99€|60|2024-03-21 15h|2024-04-04 15h|
-|#|kingdom-hearts-iii|KINGDOM HEARTS III + Re Mind (DLC)|59,99€|60|2024-03-21 15h|2024-04-04 15h|
-|#|kingdom-hearts-melody-of-memory|KINGDOM HEARTS Melody of Memory|59,99€|60|2024-03-21 15h|2024-04-04 15h|
 |#|lamentum-962e3e|Lamentum|15,99€|60|2024-04-11 15h|2024-04-25 15h|
 |#|lost-castle-abb2e2|Lost Castle|8,99€|60|2024-04-11 15h|2024-04-25 15h|
 |#|marble-it-up-ultra-7b5692|Marble It Up! Ultra|26,99€|60|2024-05-01 07h|2024-05-14 07h|
@@ -231,7 +221,6 @@
 |#|doomed-lands-7e2565|Doomed Lands|11,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|eden-island-8cd344|Eden Island|8,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|eyes-of-memes-d8864a|Eyes Of Memes|0,89€|50|2024-04-01 22h|2024-04-17 22h|
-|#|final-fantasy-vii-remake-intergrade|FINAL FANTASY VII REMAKE INTERGRADE|79,99€|50|2024-03-21 15h|2024-04-04 15h|
 |#|fairytale-solitaire-red-riding-hood-289828|Fairytale Solitaire: Red Riding Hood|4,49€|50|2024-04-09 15h|2024-04-16 15h|
 |#|filthy-animals-f6c65c|Filthy Animals \| Heist Simulator|17,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|game-dev-masters-f5d8f9|Game Dev Masters|13,49€|50|2024-04-11 15h|2024-04-25 15h|
@@ -255,10 +244,8 @@
 |#|my-island-6fc611|My Island|8,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|my-lovely-wife-bef07f|My Lovely Wife|14,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|mysteries-of-the-undead-46140a|Mysteries of the Undead|4,49€|50|2024-03-26 15h|2024-04-02 15h|
-|#|neo-the-world-ends-with-you|NEO: The World Ends with You|59,99€|50|2024-03-21 15h|2024-04-04 15h|
 |#|nextbots-in-the-backrooms-b5677b|Nextbots In The Backrooms|0,89€|50|2024-04-07 22h|2024-04-23 22h|
 |#|nextbots-in-the-backrooms-b5677b|Nextbots In The Backrooms|0,89€|50|2024-05-25 22h|2024-06-11 22h|
-|#|outriders|OUTRIDERS|19,99€|50|2024-03-21 15h|2024-04-04 15h|
 |#|one-lonely-outpost-12afa6|One Lonely Outpost|19,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|one-more-island-0014e2|One More Island|17,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|outbreak-devious-beginnings-5c0af8|Outbreak Devious Beginnings|8,99€|50|2024-04-11 15h|2024-04-25 15h|
@@ -311,8 +298,6 @@
 |#|blazing-sails|Blazing Sails|14,79€|40|2024-04-11 15h|2024-04-25 15h|
 |#|coromon-d4ef84|Coromon|15,99€|40|2024-04-11 15h|2024-04-25 15h|
 |#|doomblade-afdf9a|DOOMBLADE|14,79€|40|2024-04-11 15h|2024-04-25 15h|
-|#|dragon-quest-xi-s-echoes-of-an-elusive-age|DRAGON QUEST® XI S: Echoes of an Elusive Age™|39,99€|40|2024-03-21 15h|2024-04-04 15h|
-|#|dolphin-spirit-ocean-mission-2d0f3b|Dolphin Spirit - Ocean Mission|24,99€|40|2024-04-11 15h|2024-04-25 15h|
 |#|elven-rivers-the-forgotten-lands-collectors-edition-13f068|Elven Rivers. The Forgotten Lands Collector's Edition|11,69€|40|2024-04-02 15h|2024-04-09 15h|
 |#|eternights-c2fbca|Eternights|29,99€|40|2024-04-11 15h|2024-04-25 15h|
 |#|fantasy-world-td-851287|Fantasy World TD|4,49€|40|2024-04-11 15h|2024-04-25 15h|
@@ -327,7 +312,6 @@
 |#|lines-guarder-174742|Line's Guarder|8,99€|40|2024-05-25 16h|2024-06-24 16h|
 |#|reyna-darkness-0e1bb8|Reyna Darkness|7,50€|40|2024-04-01 00h|2024-05-01 00h|
 |#|simulacra-3-61a15e|SIMULACRA 3|8,19€|40|2024-04-11 15h|2024-04-25 15h|
-|#|stranger-of-paradise-final-fantasy-origin|STRANGER OF PARADISE FINAL FANTASY ORIGIN|39,99€|40|2024-03-21 15h|2024-04-04 15h|
 |#|sands-of-aura|Sands of Aura|21,99€|40|2024-04-11 15h|2024-04-25 15h|
 |#|steal-then-just-escape-87b7b6|Steal, Then Just Escape|3,69€|40|2024-03-29 16h|2024-04-11 16h|
 |#|strayed-lights-351d29|Strayed Lights|24,99€|40|2024-04-11 15h|2024-04-25 15h|

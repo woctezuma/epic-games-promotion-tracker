@@ -1,5 +1,3 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|call-of-the-wild-the-angler|Call of the Wild: The Angler™|29,99€|100|2024-03-21 15h|2024-03-28 15h|
-|#|atom-eve-ff090d|Invincible Presents: Atom Eve|9,99€|100|2024-03-21 15h|2024-03-28 15h|
 |#|islets-5f2670|Islets|19,50€|100|2024-03-28 15h|2024-04-04 15h|
