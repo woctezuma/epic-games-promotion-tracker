@@ -99,6 +99,15 @@
     "title": "Against All Odds"
   },
   {
+    "discountPercentage": 35,
+    "endDate": "2024-04-12T13:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "against-the-storm",
+    "startDate": "2024-04-05T13:00:00.000Z",
+    "title": "Against the Storm"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -196,6 +205,15 @@
     "slug": "anuchard-08179d",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Anuchard"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2024-04-02T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3499,
+    "slug": "aragami-2",
+    "startDate": "2024-03-26T15:00:00.000Z",
+    "title": "Aragami 2"
   },
   {
     "discountPercentage": 50,
@@ -448,6 +466,15 @@
     "slug": "battle-ram-d001fd",
     "startDate": "2024-03-26T15:00:00.000Z",
     "title": "Battle Ram"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2024-03-29T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "bears-in-space",
+    "startDate": "2024-03-22T16:00:00.000Z",
+    "title": "Bears in Space"
   },
   {
     "discountPercentage": 70,
@@ -1096,6 +1123,15 @@
     "slug": "emergency-crew-1-04340a",
     "startDate": "2024-03-26T15:00:00.000Z",
     "title": "Emergency Crew 2 Global Warming"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2024-04-12T13:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "empires-of-the-undergrowth",
+    "startDate": "2024-04-05T13:00:00.000Z",
+    "title": "Empires of the Undergrowth"
   },
   {
     "discountPercentage": 40,
@@ -2007,6 +2043,15 @@
     "title": "Mars Horizon"
   },
   {
+    "discountPercentage": 66,
+    "endDate": "2024-04-04T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "midnight-ghost-hunt",
+    "startDate": "2024-03-21T17:00:00.000Z",
+    "title": "Midnight Ghost Hunt"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -2212,6 +2257,15 @@
     "slug": "oddballers",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "OddBallers\u2122"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2024-04-12T13:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "old-world",
+    "startDate": "2024-04-05T13:00:00.000Z",
+    "title": "Old World"
   },
   {
     "discountPercentage": 67,
@@ -2979,6 +3033,15 @@
     "title": "Skotos"
   },
   {
+    "discountPercentage": 10,
+    "endDate": "2024-04-12T13:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "sons-of-valhalla-97db6e",
+    "startDate": "2024-04-05T13:00:00.000Z",
+    "title": "Sons of Valhalla"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2024-04-23T15:00:00.000Z",
     "isFree": false,
@@ -3310,6 +3373,15 @@
     "slug": "tear-of-time-lost-memory-add761",
     "startDate": "2024-08-06T21:00:00.000Z",
     "title": "Tear of Time - Lost memory"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2024-04-12T13:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "terra-invicta-5bbf09",
+    "startDate": "2024-04-05T13:00:00.000Z",
+    "title": "Terra Invicta"
   },
   {
     "discountPercentage": 80,
@@ -3931,6 +4003,15 @@
     "slug": "world-turtles-b2139d",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "World Turtles"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2024-04-12T13:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "xenonauts-2-42a236",
+    "startDate": "2024-04-05T13:00:00.000Z",
+    "title": "Xenonauts 2"
   },
   {
     "discountPercentage": 40,
