@@ -1863,6 +1863,15 @@
     "title": "Liberated"
   },
   {
+    "discountPercentage": 22,
+    "endDate": "2024-05-05T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1263,
+    "slug": "life-changer-64fc81",
+    "startDate": "2024-04-14T17:00:00.000Z",
+    "title": "Life Changer"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-04-02T15:00:00.000Z",
     "isFree": false,
@@ -2457,6 +2466,15 @@
     "title": "Paw Paw Destiny"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2024-04-28T03:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 809,
+    "slug": "eternal-supreme-a3866b",
+    "startDate": "2024-04-21T03:00:00.000Z",
+    "title": "Peerless Destiny"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-04-09T15:00:00.000Z",
     "isFree": false,
@@ -2493,15 +2511,6 @@
     "title": "Prison City"
   },
   {
-    "discountPercentage": 30,
-    "endDate": "2024-04-03T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2699,
-    "slug": "pro-basketball-manager-2024-5c764f",
-    "startDate": "2024-03-23T05:00:00.000Z",
-    "title": "Pro Basketball Manager 2024"
-  },
-  {
     "discountPercentage": 35,
     "endDate": "2024-05-16T23:00:00.000Z",
     "isFree": false,
@@ -2527,15 +2536,6 @@
     "slug": "psychiatrist-simulator-2-4fff6b",
     "startDate": "2024-03-29T00:00:00.000Z",
     "title": "Psychiatrist Simulator 2"
-  },
-  {
-    "discountPercentage": 10,
-    "endDate": "2024-04-21T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 449,
-    "slug": "quantum-storm-3d80ad",
-    "startDate": "2024-03-23T00:00:00.000Z",
-    "title": "Quantum Storm"
   },
   {
     "discountPercentage": 60,
@@ -2698,6 +2698,15 @@
     "slug": "rimworld",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "RimWorld"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-05-07T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2239,
+    "slug": "rise-of-jericho-cb083c",
+    "startDate": "2024-04-30T15:00:00.000Z",
+    "title": "Rise of Jericho"
   },
   {
     "discountPercentage": 20,
@@ -3940,15 +3949,6 @@
     "slug": "undergrave-4d084b",
     "startDate": "2024-03-26T15:00:00.000Z",
     "title": "Undergrave"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2024-03-29T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 179,
-    "slug": "unlock-the-cat-487fac",
-    "startDate": "2024-03-22T17:00:00.000Z",
-    "title": "Unlock The Cat"
   },
   {
     "discountPercentage": 50,
