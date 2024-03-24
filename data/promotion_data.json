@@ -711,6 +711,15 @@
     "title": "Cat Cafe Manager"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-04-30T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "cat-slide-tiles-93b9d4",
+    "startDate": "2024-04-23T15:00:00.000Z",
+    "title": "Cat Slide Tiles"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -1411,15 +1420,6 @@
     "slug": "gas-station-simulator-ee93c7",
     "startDate": "2024-04-29T19:00:00.000Z",
     "title": "Gas Station Simulator"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2024-04-21T10:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 449,
-    "slug": "geojelly-a44cfe",
-    "startDate": "2024-03-24T00:00:00.000Z",
-    "title": "GeoJelly"
   },
   {
     "discountPercentage": 40,
@@ -2133,15 +2133,6 @@
     "title": "MotoGP\u212221"
   },
   {
-    "discountPercentage": 10,
-    "endDate": "2024-04-22T23:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 989,
-    "slug": "my-demon-wife-0d2461",
-    "startDate": "2024-03-24T00:00:00.000Z",
-    "title": "My Demon Wife"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -2457,7 +2448,7 @@
     "title": "Pato Box"
   },
   {
-    "discountPercentage": 20,
+    "discountPercentage": 34,
     "endDate": "2024-05-07T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1349,
@@ -2703,7 +2694,7 @@
     "discountPercentage": 50,
     "endDate": "2024-05-07T15:00:00.000Z",
     "isFree": false,
-    "originalPrice": 2239,
+    "originalPrice": 1799,
     "slug": "rise-of-jericho-cb083c",
     "startDate": "2024-04-30T15:00:00.000Z",
     "title": "Rise of Jericho"
@@ -2935,15 +2926,6 @@
   },
   {
     "discountPercentage": 50,
-    "endDate": "2024-04-05T22:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "serbian-dancing-lady-94e658",
-    "startDate": "2024-03-23T22:00:00.000Z",
-    "title": "Serbian Dancing Lady"
-  },
-  {
-    "discountPercentage": 50,
     "endDate": "2024-05-29T22:00:00.000Z",
     "isFree": false,
     "originalPrice": 89,
@@ -3027,7 +3009,7 @@
     "discountPercentage": 30,
     "endDate": "2024-05-30T06:00:00.000Z",
     "isFree": false,
-    "originalPrice": 899,
+    "originalPrice": 1349,
     "slug": "skotos-455463",
     "startDate": "2024-05-01T06:00:00.000Z",
     "title": "Skotos"
@@ -3036,7 +3018,7 @@
     "discountPercentage": 30,
     "endDate": "2024-08-30T06:00:00.000Z",
     "isFree": false,
-    "originalPrice": 899,
+    "originalPrice": 1349,
     "slug": "skotos-455463",
     "startDate": "2024-08-01T06:00:00.000Z",
     "title": "Skotos"
@@ -3045,7 +3027,7 @@
     "discountPercentage": 30,
     "endDate": "2024-11-30T07:00:00.000Z",
     "isFree": false,
-    "originalPrice": 899,
+    "originalPrice": 1349,
     "slug": "skotos-455463",
     "startDate": "2024-11-01T06:00:00.000Z",
     "title": "Skotos"
@@ -3166,15 +3148,6 @@
     "slug": "strayed-lights-351d29",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Strayed Lights"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2024-04-10T03:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "street-fighting-simulator-40f23a",
-    "startDate": "2024-03-24T03:00:00.000Z",
-    "title": "Street Fighting Simulator"
   },
   {
     "discountPercentage": 50,
