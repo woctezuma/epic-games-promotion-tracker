@@ -1,5 +1,31 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
+|#|ancestors|Ancestors: The Humankind Odyssey|39,99€|75|2024-03-28 15h|2024-03-31 15h|
+|#|bioshock-2-remastered|BioShock 2 Remastered|19,99€|85|2024-03-28 15h|2024-03-31 15h|
+|#|bioshock-infinite-complete-edition|BioShock Infinite: Complete Edition|54,97€|80|2024-03-28 15h|2024-03-31 15h|
+|#|bioshock-remastered|BioShock Remastered|19,99€|75|2024-03-28 15h|2024-03-31 15h|
+|#|bioshock-the-collection|BioShock: The Collection|59,99€|80|2024-03-28 15h|2024-03-31 15h|
+|#|borderlands-3|Borderlands 3|59,99€|85|2024-03-28 15h|2024-03-31 15h|
+|#|borderlands-the-handsome-collection|Borderlands: The Handsome Collection|59,99€|75|2024-03-28 15h|2024-03-31 15h|
+|#|carnival-games|Carnival Games|39,99€|80|2024-03-28 15h|2024-03-31 15h|
+|#|grand-theft-auto-v|Grand Theft Auto V: Premium Edition|29,99€|50|2024-03-28 15h|2024-03-31 15h|
+|#|grand-theft-auto-the-trilogy-the-definitive-edition|Grand Theft Auto: The Trilogy – The Definitive Edition|59,99€|50|2024-03-28 15h|2024-03-31 15h|
+|#|kerbal-space-program|Kerbal Space Program|39,99€|75|2024-03-28 15h|2024-03-31 15h|
+|#|kerbal-space-program-2|Kerbal Space Program 2|49,99€|20|2024-03-28 15h|2024-03-31 15h|
+|#|lego-2k-drive|LEGO® 2K Drive|59,99€|67|2024-03-28 15h|2024-03-31 15h|
+|#|mafia-ii-definitive-edition|Mafia II: Definitive Edition|29,99€|67|2024-03-28 15h|2024-03-31 15h|
+|#|mafia-iii-definitive-edition|Mafia III: Definitive Edition|29,99€|67|2024-03-28 15h|2024-03-31 15h|
+|#|mafia-definitive-edition|Mafia: Definitive Edition|39,99€|75|2024-03-28 15h|2024-03-31 15h|
+|#|mafia-trilogy|Mafia: Trilogy|59,99€|67|2024-03-28 15h|2024-03-31 15h|
+|#|marvels-midnight-suns|Marvel's Midnight Suns|59,99€|75|2024-03-28 15h|2024-03-31 15h|
+|#|new-tales-from-the-borderlands|New Tales from the Borderlands|39,99€|50|2024-03-28 15h|2024-03-31 15h|
+|#|red-dead-redemption-2|Red Dead Redemption 2|59,99€|67|2024-03-28 15h|2024-03-31 15h|
+|#|sid-meiers-civilization-vi|Sid Meier’s Civilization® VI|59,99€|90|2024-03-28 15h|2024-03-31 15h|
+|#|tales-from-the-borderlands|Tales from the Borderlands|19,99€|25|2024-03-28 15h|2024-03-31 15h|
+|#|the-outer-worlds|The Outer Worlds|29,99€|50|2024-03-28 15h|2024-03-31 15h|
+|#|tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure|Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure|9,99€|50|2024-03-28 15h|2024-03-31 15h|
+|#|tiny-tinas-wonderlands|Tiny Tina's Wonderlands|59,99€|75|2024-03-28 15h|2024-03-31 15h|
+|#|xcom-2|XCOM® 2|49,99€|95|2024-03-28 15h|2024-03-31 15h|
 |#|islets-5f2670|Islets|19,50€|100|2024-03-28 15h|2024-04-04 15h|
 |#|death-crown-b2f5cd|Death Crown|8,99€|80|2024-03-29 00h|2024-04-04 23h|
 |#|aer-memories-of-old|AER Memories of Old|14,99€|90|2024-03-28 16h|2024-04-05 16h|
@@ -31,10 +57,9 @@
 |#|zombie-rollerz-7aa027|Zombie Rollerz: Pinball Heroes|14,99€|80|2024-03-28 16h|2024-04-05 16h|
 |#|inkulinati-b60b1c|Inkulinati|24,99€|40|2024-03-30 19h|2024-04-05 19h|
 |#|tribu-55feb1|Tribu|8,99€|75|2024-03-29 00h|2024-04-05 23h|
-|#|the-mystery-of-the-moon-7f3e48|The Mystery Of The Moon|53,99€|80|2024-03-27 16h|2024-04-06 15h|
+|#|farming-simulator-22|Farming Simulator 22|19,99€|30|2024-03-29 00h|2024-04-07 10h|
 |#|oxide-room-104-4c1249|Oxide Room 104|17,99€|75|2024-03-29 13h|2024-04-07 10h|
 |#|timothy-vs-the-aliens-2f5b36|Timothy vs the Aliens|13,49€|80|2024-03-29 13h|2024-04-07 10h|
-|#|compass-of-the-destiny-istanbul-598642|Compass of the Destiny: Istanbul|14,79€|40|2024-03-27 10h|2024-04-08 22h|
 |#|saviorless-bdcd28|Saviorless|12,99€|10|2024-04-02 13h|2024-04-09 13h|
 |#|1001-jigsaw-world-tour-australian-puzzles-ae477c|1001 Jigsaw. World Tour: Australian Puzzles|4,49€|50|2024-04-02 15h|2024-04-09 15h|
 |#|1971-indian-naval-front-9cc046|1971 Indian Naval Front|13,49€|50|2024-04-02 15h|2024-04-09 15h|
@@ -52,7 +77,6 @@
 |#|thanksgiving-day-mosaic-dc698a|Thanksgiving Day Mosaic|4,49€|50|2024-04-02 15h|2024-04-09 15h|
 |#|the-elder-scrolls-online|The Elder Scrolls Online|19,99€|75|2024-04-02 15h|2024-04-09 15h|
 |#|royal-defense-d046db|The Empress of Mahjong|4,49€|50|2024-04-02 15h|2024-04-09 15h|
-|#|the-inheritance-of-crimson-manor-81bc67|The Inheritance of Crimson Manor|17,99€|80|2024-03-27 13h|2024-04-10 14h|
 |#|football-manager-2024|Football Manager 2024|59,99€|33|2024-03-28 15h|2024-04-11 14h|
 |#|steal-then-just-escape-87b7b6|Steal, Then Just Escape|3,69€|40|2024-03-29 16h|2024-04-11 16h|
 |#|against-the-storm|Against the Storm|19,99€|35|2024-04-05 13h|2024-04-12 13h|
@@ -89,7 +113,6 @@
 |#|christmas-mahjong-50bcc6|Christmas Mahjong|4,49€|80|2024-04-09 15h|2024-04-16 15h|
 |#|cooking-trip-d45abd|Cooking Trip Collectors Edition|4,49€|50|2024-04-09 15h|2024-04-16 15h|
 |#|dark-journey-the-fate-of-the-demon-king-4bf628|Dark Journey:The Fate of the Demon King|6,29€|15|2024-04-09 15h|2024-04-16 15h|
-|#|devils-island-03e902|Devil's Island|10,79€|65|2024-04-09 15h|2024-04-16 15h|
 |#|fairytale-solitaire-red-riding-hood-289828|Fairytale Solitaire: Red Riding Hood|4,49€|50|2024-04-09 15h|2024-04-16 15h|
 |#|for-the-warp-b5c468|For The Warp|13,49€|60|2024-04-09 15h|2024-04-16 15h|
 |#|galaxy-trek-c165da|Galaxy Trek|17,99€|25|2024-04-09 15h|2024-04-16 15h|
@@ -122,6 +145,7 @@
 |#|urban-trial-tricky-eb0205|Urban Trial Tricky Deluxe Edition|19,99€|85|2024-04-09 15h|2024-04-16 15h|
 |#|voodolls-46c6a8|Voodolls|14,99€|75|2024-04-09 15h|2024-04-16 15h|
 |#|eyes-of-memes-d8864a|Eyes Of Memes|0,89€|50|2024-04-01 22h|2024-04-17 22h|
+|#|devils-island-03e902|Devil's Island|10,79€|65|2024-04-09 15h|2024-04-20 15h|
 |#|meiqi2023-08a61e|With in the Obscurity|1,79€|50|2024-04-05 16h|2024-04-20 15h|
 |#|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|40|2024-04-09 05h|2024-04-22 04h|
 |#|island-of-fear-00a3a6|Island of Fear|2,69€|45|2024-04-16 15h|2024-04-23 15h|
@@ -322,6 +346,7 @@
 |#|strange-horticulture-360e80|Strange Horticulture|14,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|strayed-lights-351d29|Strayed Lights|24,99€|40|2024-04-11 15h|2024-04-25 15h|
 |#|strike-solitaire-e86661|Strike Solitaire|3,59€|50|2024-04-11 15h|2024-04-25 15h|
+|#|suicide-guy-9f7963|Suicide Guy|7,19€|45|2024-04-11 15h|2024-04-25 15h|
 |#|sunlight-scream-de8642|Sunlight Scream|6,29€|50|2024-04-11 15h|2024-04-25 15h|
 |#|super-adventure-hand-62ec9a|Super Adventure Hand|11,69€|40|2024-04-11 15h|2024-04-25 15h|
 |#|superliminal|Superliminal|17,99€|50|2024-04-11 15h|2024-04-25 15h|
