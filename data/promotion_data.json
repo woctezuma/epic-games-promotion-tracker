@@ -1281,6 +1281,15 @@
     "discountPercentage": 50,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
+    "originalPrice": 2999,
+    "slug": "endlessdungeonnewgene",
+    "startDate": "2024-04-11T15:00:00.000Z",
+    "title": "ENDLESS\u2122 Dungeon"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-04-25T15:00:00.000Z",
+    "isFree": false,
     "originalPrice": 899,
     "slug": "eden-island-8cd344",
     "startDate": "2024-04-11T15:00:00.000Z",
@@ -4273,6 +4282,15 @@
     "slug": "the-outer-worlds",
     "startDate": "2024-03-28T15:00:00.000Z",
     "title": "The Outer Worlds"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2024-04-11T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 5999,
+    "slug": "the-outer-worlds-spacers-choice-edition",
+    "startDate": "2024-04-04T15:00:00.000Z",
+    "title": "The Outer Worlds: Spacer's Choice Edition"
   },
   {
     "discountPercentage": 33,
