@@ -2,6 +2,7 @@
 |---|---|---|---|---|---|---|
 |#|islets-5f2670|Islets|19,50€|100|2024-03-28 15h|2024-04-04 15h|
 |#|the-outer-worlds-spacers-choice-edition|The Outer Worlds: Spacer's Choice Edition|59,99€|100|2024-04-04 15h|2024-04-11 15h|
+|#|thief-5bb95f|Thief|19,99€|100|2024-04-04 15h|2024-04-11 15h|
 |#|star-wars-squadrons|STAR WARS™: Squadrons|39,99€|95|2024-05-02 15h|2024-05-09 15h|
 |#|xcom-2|XCOM® 2|49,99€|95|2024-03-28 15h|2024-03-31 15h|
 |#|a-knights-quest|A Knights Quest|24,99€|90|2024-04-01 17h|2024-05-01 17h|
@@ -429,6 +430,7 @@
 |#|deexit-eternal-matters-da8992|De-Exit - Eternal Matters|19,99€|35|2024-04-11 15h|2024-04-25 15h|
 |#|disgaea-6-complete|Disgaea 6 Complete|59,99€|35|2024-04-27 15h|2024-05-06 14h|
 |#|empires-of-the-undergrowth|Empires of the Undergrowth|29,99€|35|2024-04-05 13h|2024-04-12 13h|
+|#|escape-from-blackwood-0d8657|Escape from Blackwood|7,19€|35|2024-04-02 15h|2024-04-09 15h|
 |#|evil-wizard-e4f80f|Evil Wizard|17,99€|35|2024-04-11 15h|2024-04-25 15h|
 |#|fallen-legion-revenants-a2c944|Fallen Legion Revenants|39,99€|35|2024-04-27 15h|2024-05-06 14h|
 |#|fallen-legion-rise-to-glory-0ea64a|Fallen Legion: Rise to Glory|29,99€|35|2024-04-27 15h|2024-05-06 14h|

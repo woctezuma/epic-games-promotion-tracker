@@ -149,6 +149,7 @@
 |#|elderand-09e6bc|Elderand|15,99€|50|2024-04-30 15h|2024-05-07 15h|
 |#|elven-rivers-the-forgotten-lands-collectors-edition-13f068|Elven Rivers. The Forgotten Lands Collector's Edition|11,69€|40|2024-04-02 15h|2024-04-09 15h|
 |#|empires-of-the-undergrowth|Empires of the Undergrowth|29,99€|35|2024-04-05 13h|2024-04-12 13h|
+|#|escape-from-blackwood-0d8657|Escape from Blackwood|7,19€|35|2024-04-02 15h|2024-04-09 15h|
 |#|eternights-c2fbca|Eternights|29,99€|40|2024-04-11 15h|2024-04-25 15h|
 |#|evalinathe-sorceress-a9a60a|Evalina The Sorceress|1,79€|90|2024-04-04 22h|2024-05-04 22h|
 |#|evil-wizard-e4f80f|Evil Wizard|17,99€|35|2024-04-11 15h|2024-04-25 15h|
@@ -488,6 +489,7 @@
 |#|the-suicide-of-rachel-foster-1dc01b|The Suicide of Rachel Foster|16,99€|90|2024-03-28 16h|2024-04-05 16h|
 |#|the-witch-of-fern-island-18df35|The Witch of Fern Island|24,99€|30|2024-04-11 15h|2024-04-25 15h|
 |#|they-are-coming-a17087|They Are Coming|9,99€|60|2024-04-11 15h|2024-04-25 15h|
+|#|thief-5bb95f|Thief|19,99€|100|2024-04-04 15h|2024-04-11 15h|
 |#|timothy-vs-the-aliens-2f5b36|Timothy vs the Aliens|13,49€|80|2024-03-29 13h|2024-04-07 10h|
 |#|timothy-vs-the-aliens-2f5b36|Timothy vs the Aliens|13,49€|80|2024-05-08 12h|2024-05-19 10h|
 |#|tiny-thor-76de1f|Tiny Thor|19,99€|35|2024-04-09 15h|2024-04-16 15h|
