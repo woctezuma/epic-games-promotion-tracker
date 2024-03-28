@@ -72,15 +72,6 @@
     "title": "ABRISS - build to destroy"
   },
   {
-    "discountPercentage": 90,
-    "endDate": "2024-04-05T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "aer-memories-of-old",
-    "startDate": "2024-03-28T16:00:00.000Z",
-    "title": "AER Memories of Old"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-05-24T22:00:00.000Z",
     "isFree": false,
@@ -207,15 +198,6 @@
     "title": "Anime vs Evil: Apocalypse"
   },
   {
-    "discountPercentage": 90,
-    "endDate": "2024-04-05T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "annas-quest-fbefa2",
-    "startDate": "2024-03-28T16:00:00.000Z",
-    "title": "Anna's Quest"
-  },
-  {
     "discountPercentage": 70,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -286,6 +268,15 @@
     "slug": "arkanoid-eternal-battle-e1b089",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Arkanoid - Eternal Battle"
+  },
+  {
+    "discountPercentage": 45,
+    "endDate": "2024-04-25T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "art-of-rally",
+    "startDate": "2024-04-11T15:00:00.000Z",
+    "title": "Art of Rally"
   },
   {
     "discountPercentage": 30,
@@ -774,15 +765,6 @@
     "title": "Child of Light: Ultimate Edition"
   },
   {
-    "discountPercentage": 55,
-    "endDate": "2024-04-05T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "children-of-silentown-52cc21",
-    "startDate": "2024-03-28T16:00:00.000Z",
-    "title": "Children of Silentown"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -901,15 +883,6 @@
   },
   {
     "discountPercentage": 80,
-    "endDate": "2024-04-05T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "cryofall-331358",
-    "startDate": "2024-03-28T16:00:00.000Z",
-    "title": "CryoFall"
-  },
-  {
-    "discountPercentage": 80,
     "endDate": "2024-05-10T23:00:00.000Z",
     "isFree": false,
     "originalPrice": 449,
@@ -1024,24 +997,6 @@
     "slug": "death-crown-b2f5cd",
     "startDate": "2024-03-29T00:01:00.000Z",
     "title": "Death Crown"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2024-04-05T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "deponia-doomsday-1848dd",
-    "startDate": "2024-03-28T16:00:00.000Z",
-    "title": "Deponia Doomsday"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2024-04-05T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "deponia-the-complete-journey",
-    "startDate": "2024-03-28T16:00:00.000Z",
-    "title": "Deponia: The Complete Journey"
   },
   {
     "discountPercentage": 60,
@@ -1431,15 +1386,6 @@
     "title": "Filthy Animals | Heist Simulator"
   },
   {
-    "discountPercentage": 90,
-    "endDate": "2024-04-05T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "fire-44c606",
-    "startDate": "2024-03-28T16:00:00.000Z",
-    "title": "Fire: Ungh\u2019s Quest"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2024-04-29T23:00:00.000Z",
     "isFree": false,
@@ -1566,6 +1512,15 @@
     "title": "Game Dev Masters"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2024-06-13T05:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "gamedec",
+    "startDate": "2024-05-16T05:00:00.000Z",
+    "title": "Gamedec - Definitive Edition"
+  },
+  {
     "discountPercentage": 10,
     "endDate": "2024-05-19T23:00:00.000Z",
     "isFree": false,
@@ -1591,15 +1546,6 @@
     "slug": "gnomes-garden-return-of-the-queen-159f41",
     "startDate": "2024-04-02T15:00:00.000Z",
     "title": "Gnomes Garden. Return Of The Queen"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2024-04-05T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "godlike-burger-4150a0",
-    "startDate": "2024-03-28T16:00:00.000Z",
-    "title": "Godlike Burger"
   },
   {
     "discountPercentage": 67,
@@ -1854,33 +1800,6 @@
     "title": "Inkulinati"
   },
   {
-    "discountPercentage": 82,
-    "endDate": "2024-04-05T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "insurmountable-b02c31",
-    "startDate": "2024-03-28T16:00:00.000Z",
-    "title": "Insurmountable"
-  },
-  {
-    "discountPercentage": 85,
-    "endDate": "2024-04-05T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "iratus-d0e5ba",
-    "startDate": "2024-03-28T16:00:00.000Z",
-    "title": "Iratus: Lord of the Dead"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2024-04-05T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1998,
-    "slug": "iron-danger-b4320c",
-    "startDate": "2024-03-28T16:00:00.000Z",
-    "title": "Iron Danger"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-04-16T15:00:00.000Z",
     "isFree": false,
@@ -1924,15 +1843,6 @@
     "slug": "its-a-wrap-f392ae",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "It's a Wrap!"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2024-04-05T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1199,
-    "slug": "jars-e39063",
-    "startDate": "2024-03-28T16:00:00.000Z",
-    "title": "JARS"
   },
   {
     "discountPercentage": 70,
@@ -2043,15 +1953,6 @@
     "title": "Kao the Kangaroo Trilogy"
   },
   {
-    "discountPercentage": 90,
-    "endDate": "2024-04-05T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "ken-follets-the-pillars-of-the-earth",
-    "startDate": "2024-03-28T16:00:00.000Z",
-    "title": "Ken Follett's The Pillars of the Earth"
-  },
-  {
     "discountPercentage": 40,
     "endDate": "2024-04-15T15:00:00.000Z",
     "isFree": false,
@@ -2160,6 +2061,15 @@
     "title": "Lawn Mowing Simulator"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2024-06-13T05:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "liberte-96a5e5",
+    "startDate": "2024-05-16T05:00:00.000Z",
+    "title": "Liberte"
+  },
+  {
     "discountPercentage": 22,
     "endDate": "2024-05-05T17:00:00.000Z",
     "isFree": false,
@@ -2167,15 +2077,6 @@
     "slug": "life-changer-64fc81",
     "startDate": "2024-04-14T17:00:00.000Z",
     "title": "Life Changer"
-  },
-  {
-    "discountPercentage": 60,
-    "endDate": "2024-04-05T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "life-of-delta-44f4e4",
-    "startDate": "2024-03-28T16:00:00.000Z",
-    "title": "Life of Delta"
   },
   {
     "discountPercentage": 50,
@@ -2763,15 +2664,6 @@
     "title": "Pacific Drive: Deluxe Edition"
   },
   {
-    "discountPercentage": 79,
-    "endDate": "2024-04-05T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "partisans-1941",
-    "startDate": "2024-03-28T16:00:00.000Z",
-    "title": "Partisans 1941"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -3069,15 +2961,6 @@
     "title": "Roboquest"
   },
   {
-    "discountPercentage": 60,
-    "endDate": "2024-04-05T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "rough-justice-84-89dd7a",
-    "startDate": "2024-03-28T16:00:00.000Z",
-    "title": "Rough Justice: '84"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-04-09T15:00:00.000Z",
     "isFree": false,
@@ -3276,33 +3159,6 @@
     "title": "Shadow Gambit: The Cursed Crew"
   },
   {
-    "discountPercentage": 75,
-    "endDate": "2024-04-05T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1998,
-    "slug": "shadow-tactics-aikos-choice-5678c1",
-    "startDate": "2024-03-28T16:00:00.000Z",
-    "title": "Shadow Tactics - Aiko's Choice"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2024-04-05T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 6644,
-    "slug": "shadow-tactics-anniversary-bundle",
-    "startDate": "2024-03-28T16:00:00.000Z",
-    "title": "Shadow Tactics: Anniversary Bundle"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2024-04-05T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "shadow-tactics",
-    "startDate": "2024-03-28T16:00:00.000Z",
-    "title": "Shadow Tactics: Blades of the Shogun"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -3346,15 +3202,6 @@
     "slug": "sifu",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Sifu"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2024-04-05T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "silence-57bc4e",
-    "startDate": "2024-03-28T16:00:00.000Z",
-    "title": "Silence"
   },
   {
     "discountPercentage": 75,
@@ -4032,15 +3879,6 @@
     "title": "The Lion's Song"
   },
   {
-    "discountPercentage": 70,
-    "endDate": "2024-04-05T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 4999,
-    "slug": "the-lord-of-the-rings-gollum",
-    "startDate": "2024-03-28T16:00:00.000Z",
-    "title": "The Lord of the Rings - Gollum\u2122"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -4149,13 +3987,13 @@
     "title": "The Sojourn"
   },
   {
-    "discountPercentage": 90,
-    "endDate": "2024-04-05T16:00:00.000Z",
+    "discountPercentage": 40,
+    "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
-    "originalPrice": 1699,
-    "slug": "the-suicide-of-rachel-foster-1dc01b",
-    "startDate": "2024-03-28T16:00:00.000Z",
-    "title": "The Suicide of Rachel Foster"
+    "originalPrice": 1599,
+    "slug": "the-vale-shadow-of-the-crown",
+    "startDate": "2024-04-11T15:00:00.000Z",
+    "title": "The Vale: Shadow of the Crown"
   },
   {
     "discountPercentage": 30,
@@ -4419,15 +4257,6 @@
     "title": "Undungeon"
   },
   {
-    "discountPercentage": 75,
-    "endDate": "2024-04-05T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "unrailed-e19729",
-    "startDate": "2024-03-28T16:00:00.000Z",
-    "title": "Unrailed!"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -4471,15 +4300,6 @@
     "slug": "urbek-city-builder-17cf7d",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Urbek City Builder"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2024-04-05T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "velone-3c0487",
-    "startDate": "2024-03-28T16:04:00.000Z",
-    "title": "VELONE"
   },
   {
     "discountPercentage": 65,
@@ -4527,13 +4347,22 @@
     "title": "WORLD OF ART - learn with JIGSAW PUZZLES"
   },
   {
-    "discountPercentage": 80,
-    "endDate": "2024-04-05T16:00:00.000Z",
+    "discountPercentage": 70,
+    "endDate": "2024-05-30T16:00:00.000Z",
     "isFree": false,
-    "originalPrice": 1499,
-    "slug": "warpips-57e2c4",
-    "startDate": "2024-03-28T16:00:00.000Z",
-    "title": "Warpips"
+    "originalPrice": 4499,
+    "slug": "warhammer-40000-chaos-gate-daemonhunters",
+    "startDate": "2024-05-23T16:00:00.000Z",
+    "title": "Warhammer 40,000: Chaos Gate - Daemonhunters"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-05-30T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "warhammer-age-of-sigmar-realms-of-ruin",
+    "startDate": "2024-05-23T16:00:00.000Z",
+    "title": "Warhammer Age of Sigmar: Realms of Ruin"
   },
   {
     "discountPercentage": 45,
@@ -4543,15 +4372,6 @@
     "slug": "we-were-here-forever",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "We Were Here Forever"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2024-04-05T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "wildcat-gun-machine-c66c4e",
-    "startDate": "2024-03-28T16:00:00.000Z",
-    "title": "Wildcat Gun Machine"
   },
   {
     "discountPercentage": 50,
@@ -4617,12 +4437,12 @@
     "title": "ZiDouQianWen"
   },
   {
-    "discountPercentage": 80,
-    "endDate": "2024-04-05T16:00:00.000Z",
+    "discountPercentage": 20,
+    "endDate": "2024-05-23T05:00:00.000Z",
     "isFree": false,
-    "originalPrice": 1499,
-    "slug": "zombie-rollerz-7aa027",
-    "startDate": "2024-03-28T16:00:00.000Z",
-    "title": "Zombie Rollerz: Pinball Heroes"
+    "originalPrice": 2239,
+    "slug": "zoria-age-of-shattering-334aa7",
+    "startDate": "2024-05-16T05:00:00.000Z",
+    "title": "Zoria Age of Shattering"
   }
 ]
