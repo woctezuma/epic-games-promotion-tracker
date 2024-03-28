@@ -1,33 +1,6 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
 |#|death-crown-b2f5cd|Death Crown|8,99€|80|2024-03-29 00h|2024-04-04 23h|
-|#|aer-memories-of-old|AER Memories of Old|14,99€|90|2024-03-28 16h|2024-04-05 16h|
-|#|annas-quest-fbefa2|Anna's Quest|19,99€|90|2024-03-28 16h|2024-04-05 16h|
-|#|children-of-silentown-52cc21|Children of Silentown|19,99€|55|2024-03-28 16h|2024-04-05 16h|
-|#|cryofall-331358|CryoFall|19,99€|80|2024-03-28 16h|2024-04-05 16h|
-|#|deponia-doomsday-1848dd|Deponia Doomsday|19,99€|90|2024-03-28 16h|2024-04-05 16h|
-|#|deponia-the-complete-journey|Deponia: The Complete Journey|29,99€|90|2024-03-28 16h|2024-04-05 16h|
-|#|fire-44c606|Fire: Ungh’s Quest|9,99€|90|2024-03-28 16h|2024-04-05 16h|
-|#|godlike-burger-4150a0|Godlike Burger|19,99€|80|2024-03-28 16h|2024-04-05 16h|
-|#|insurmountable-b02c31|Insurmountable|19,99€|82|2024-03-28 16h|2024-04-05 16h|
-|#|iratus-d0e5ba|Iratus: Lord of the Dead|29,99€|85|2024-03-28 16h|2024-04-05 16h|
-|#|iron-danger-b4320c|Iron Danger|19,98€|90|2024-03-28 16h|2024-04-05 16h|
-|#|jars-e39063|JARS|11,99€|90|2024-03-28 16h|2024-04-05 16h|
-|#|ken-follets-the-pillars-of-the-earth|Ken Follett's The Pillars of the Earth|19,99€|90|2024-03-28 16h|2024-04-05 16h|
-|#|life-of-delta-44f4e4|Life of Delta|19,99€|60|2024-03-28 16h|2024-04-05 16h|
-|#|partisans-1941|Partisans 1941|39,99€|79|2024-03-28 16h|2024-04-05 16h|
-|#|rough-justice-84-89dd7a|Rough Justice: '84|19,99€|60|2024-03-28 16h|2024-04-05 16h|
-|#|shadow-tactics-aikos-choice-5678c1|Shadow Tactics - Aiko's Choice|19,98€|75|2024-03-28 16h|2024-04-05 16h|
-|#|shadow-tactics-anniversary-bundle|Shadow Tactics: Anniversary Bundle|66,44€|90|2024-03-28 16h|2024-04-05 16h|
-|#|shadow-tactics|Shadow Tactics: Blades of the Shogun|39,99€|90|2024-03-28 16h|2024-04-05 16h|
-|#|silence-57bc4e|Silence|19,99€|90|2024-03-28 16h|2024-04-05 16h|
-|#|the-lord-of-the-rings-gollum|The Lord of the Rings - Gollum™|49,99€|70|2024-03-28 16h|2024-04-05 16h|
-|#|the-suicide-of-rachel-foster-1dc01b|The Suicide of Rachel Foster|16,99€|90|2024-03-28 16h|2024-04-05 16h|
-|#|unrailed-e19729|Unrailed!|19,99€|75|2024-03-28 16h|2024-04-05 16h|
-|#|velone-3c0487|VELONE|14,99€|90|2024-03-28 16h|2024-04-05 16h|
-|#|warpips-57e2c4|Warpips|14,99€|80|2024-03-28 16h|2024-04-05 16h|
-|#|wildcat-gun-machine-c66c4e|Wildcat Gun Machine|14,99€|90|2024-03-28 16h|2024-04-05 16h|
-|#|zombie-rollerz-7aa027|Zombie Rollerz: Pinball Heroes|14,99€|80|2024-03-28 16h|2024-04-05 16h|
 |#|inkulinati-b60b1c|Inkulinati|24,99€|40|2024-03-30 19h|2024-04-05 19h|
 |#|tribu-55feb1|Tribu|8,99€|75|2024-03-29 00h|2024-04-05 23h|
 |#|farming-simulator-22|Farming Simulator 22|19,99€|30|2024-03-29 00h|2024-04-07 10h|
@@ -150,6 +123,7 @@
 |#|arcatronz-2bb3f2|Arcatron-Z|3,59€|50|2024-04-11 15h|2024-04-25 15h|
 |#|argonauts-agency-missing-daughter-1ca64b|Argonauts Agency 6: Missing Daughter|4,49€|50|2024-04-11 15h|2024-04-25 15h|
 |#|arkanoid-eternal-battle-e1b089|Arkanoid - Eternal Battle|19,99€|90|2024-04-11 15h|2024-04-25 15h|
+|#|art-of-rally|Art of Rally|24,99€|45|2024-04-11 15h|2024-04-25 15h|
 |#|arto-ff98ff|Arto|19,99€|30|2024-04-11 15h|2024-04-25 15h|
 |#|asterigos-424313|Asterigos: Curse of the Stars|34,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|asterix-and-obelix-xxxl-the-ram-of-hibernia-3eb1f4|Asterix and Obelix XXXL - The Ram of Hibernia|39,99€|70|2024-04-11 15h|2024-04-25 15h|
@@ -353,6 +327,7 @@
 |#|the-settlers|The Settlers®: New Allies|59,99€|67|2024-04-11 15h|2024-04-25 15h|
 |#|the-sisters-2-road-to-fame-287bbe|The Sisters 2 - Road to Fame|29,99€|35|2024-04-11 15h|2024-04-25 15h|
 |#|the-sojourn|The Sojourn|21,99€|75|2024-04-11 15h|2024-04-25 15h|
+|#|the-vale-shadow-of-the-crown|The Vale: Shadow of the Crown|15,99€|40|2024-04-11 15h|2024-04-25 15h|
 |#|the-witch-of-fern-island-18df35|The Witch of Fern Island|24,99€|30|2024-04-11 15h|2024-04-25 15h|
 |#|they-are-coming-a17087|They Are Coming|9,99€|60|2024-04-11 15h|2024-04-25 15h|
 |#|tinykin-d1a022|Tinykin|19,99€|60|2024-04-11 15h|2024-04-25 15h|
@@ -466,11 +441,14 @@
 |#|saboteur-ii-avenging-angel-33e83c|Saboteur II Avenging Angel|7,19€|10|2024-04-20 23h|2024-05-19 23h|
 |#|saboteur-sio-123236|Saboteur SiO|9,89€|10|2024-04-20 23h|2024-05-19 23h|
 |#|saboteur-f3d01d|Saboteur!|7,19€|10|2024-04-20 23h|2024-05-19 23h|
+|#|zoria-age-of-shattering-334aa7|Zoria Age of Shattering|22,39€|20|2024-05-16 05h|2024-05-23 05h|
 |#|steal-then-just-escape-87b7b6|Steal, Then Just Escape|3,69€|60|2024-05-13 16h|2024-05-24 16h|
 |#|anonymous-hunting-simulator-5eac14|ANONYMOUS HUNTING SIMULATOR|0,89€|50|2024-05-09 22h|2024-05-24 22h|
 |#|the-inheritance-of-crimson-manor-81bc67|The Inheritance of Crimson Manor|17,99€|80|2024-05-11 14h|2024-05-26 07h|
 |#|serbian-dancing-lady-94e658|Serbian Dancing Lady|0,89€|50|2024-05-07 22h|2024-05-29 22h|
 |#|skotos-455463|Skotos|13,49€|30|2024-05-01 06h|2024-05-30 06h|
+|#|warhammer-40000-chaos-gate-daemonhunters|Warhammer 40,000: Chaos Gate - Daemonhunters|44,99€|70|2024-05-23 16h|2024-05-30 16h|
+|#|warhammer-age-of-sigmar-realms-of-ruin|Warhammer Age of Sigmar: Realms of Ruin|59,99€|80|2024-05-23 16h|2024-05-30 16h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|60|2024-05-24 21h|2024-05-31 21h|
 |#|devils-island-03e902|Devil's Island|10,79€|70|2024-05-27 13h|2024-06-03 13h|
 |#|backrooms-eight-levels-c7ea4c|Backrooms: Eight Levels|0,89€|50|2024-05-19 22h|2024-06-03 22h|
@@ -478,6 +456,8 @@
 |#|car-tuning-simulator-38ddaf|Car Tuning Simulator|0,79€|50|2024-05-17 22h|2024-06-05 22h|
 |#|choochoo-charles-0eece5|Choo-Choo Charles|17,99€|20|2024-05-31 08h|2024-06-08 08h|
 |#|nextbots-in-the-backrooms-b5677b|Nextbots In The Backrooms|0,89€|50|2024-05-25 22h|2024-06-11 22h|
+|#|gamedec|Gamedec - Definitive Edition|29,99€|60|2024-05-16 05h|2024-06-13 05h|
+|#|liberte-96a5e5|Liberte|17,99€|60|2024-05-16 05h|2024-06-13 05h|
 |#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2024-05-27 22h|2024-06-13 22h|
 |#|trex-dinosaur-game-d30355|T-Rex Dinosaur Game|0,89€|50|2024-05-25 22h|2024-06-13 22h|
 |#|forest-fire-b4bb7e|Forest Fire|5,39€|35|2024-06-01 07h|2024-06-14 07h|
