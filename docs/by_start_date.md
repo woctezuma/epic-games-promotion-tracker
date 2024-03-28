@@ -1,33 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|ancestors|Ancestors: The Humankind Odyssey|39,99€|75|2024-03-28 15h|2024-03-31 15h|
-|#|bioshock-2-remastered|BioShock 2 Remastered|19,99€|85|2024-03-28 15h|2024-03-31 15h|
-|#|bioshock-infinite-complete-edition|BioShock Infinite: Complete Edition|54,97€|80|2024-03-28 15h|2024-03-31 15h|
-|#|bioshock-remastered|BioShock Remastered|19,99€|75|2024-03-28 15h|2024-03-31 15h|
-|#|bioshock-the-collection|BioShock: The Collection|59,99€|80|2024-03-28 15h|2024-03-31 15h|
-|#|borderlands-3|Borderlands 3|59,99€|85|2024-03-28 15h|2024-03-31 15h|
-|#|borderlands-the-handsome-collection|Borderlands: The Handsome Collection|59,99€|75|2024-03-28 15h|2024-03-31 15h|
-|#|carnival-games|Carnival Games|39,99€|80|2024-03-28 15h|2024-03-31 15h|
-|#|football-manager-2024|Football Manager 2024|59,99€|33|2024-03-28 15h|2024-04-11 14h|
-|#|grand-theft-auto-v|Grand Theft Auto V: Premium Edition|29,99€|50|2024-03-28 15h|2024-03-31 15h|
-|#|grand-theft-auto-the-trilogy-the-definitive-edition|Grand Theft Auto: The Trilogy – The Definitive Edition|59,99€|50|2024-03-28 15h|2024-03-31 15h|
-|#|islets-5f2670|Islets|19,50€|100|2024-03-28 15h|2024-04-04 15h|
-|#|kerbal-space-program|Kerbal Space Program|39,99€|75|2024-03-28 15h|2024-03-31 15h|
-|#|kerbal-space-program-2|Kerbal Space Program 2|49,99€|20|2024-03-28 15h|2024-03-31 15h|
-|#|lego-2k-drive|LEGO® 2K Drive|59,99€|67|2024-03-28 15h|2024-03-31 15h|
-|#|mafia-ii-definitive-edition|Mafia II: Definitive Edition|29,99€|67|2024-03-28 15h|2024-03-31 15h|
-|#|mafia-iii-definitive-edition|Mafia III: Definitive Edition|29,99€|67|2024-03-28 15h|2024-03-31 15h|
-|#|mafia-definitive-edition|Mafia: Definitive Edition|39,99€|75|2024-03-28 15h|2024-03-31 15h|
-|#|mafia-trilogy|Mafia: Trilogy|59,99€|67|2024-03-28 15h|2024-03-31 15h|
-|#|marvels-midnight-suns|Marvel's Midnight Suns|59,99€|75|2024-03-28 15h|2024-03-31 15h|
-|#|new-tales-from-the-borderlands|New Tales from the Borderlands|39,99€|50|2024-03-28 15h|2024-03-31 15h|
-|#|red-dead-redemption-2|Red Dead Redemption 2|59,99€|67|2024-03-28 15h|2024-03-31 15h|
-|#|sid-meiers-civilization-vi|Sid Meier’s Civilization® VI|59,99€|90|2024-03-28 15h|2024-03-31 15h|
-|#|tales-from-the-borderlands|Tales from the Borderlands|19,99€|25|2024-03-28 15h|2024-03-31 15h|
-|#|the-outer-worlds|The Outer Worlds|29,99€|50|2024-03-28 15h|2024-03-31 15h|
-|#|tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure|Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure|9,99€|50|2024-03-28 15h|2024-03-31 15h|
-|#|tiny-tinas-wonderlands|Tiny Tina's Wonderlands|59,99€|75|2024-03-28 15h|2024-03-31 15h|
-|#|xcom-2|XCOM® 2|49,99€|95|2024-03-28 15h|2024-03-31 15h|
 |#|aer-memories-of-old|AER Memories of Old|14,99€|90|2024-03-28 16h|2024-04-05 16h|
 |#|annas-quest-fbefa2|Anna's Quest|19,99€|90|2024-03-28 16h|2024-04-05 16h|
 |#|children-of-silentown-52cc21|Children of Silentown|19,99€|55|2024-03-28 16h|2024-04-05 16h|
