@@ -1926,6 +1926,15 @@
     "title": "In The Gym"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-05-07T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1709,
+    "slug": "indoorlands-3b2356",
+    "startDate": "2024-04-30T15:00:00.000Z",
+    "title": "Indoorlands"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2024-04-05T19:00:00.000Z",
     "isFree": false,
@@ -3942,6 +3951,15 @@
     "title": "Tales from the Borderlands"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-05-07T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "tales-of-the-tiny-planet-ab9e11",
+    "startDate": "2024-04-30T15:00:00.000Z",
+    "title": "Tales of the Tiny Planet"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -4687,6 +4705,15 @@
     "slug": "velone-3c0487",
     "startDate": "2024-03-28T16:04:00.000Z",
     "title": "VELONE"
+  },
+  {
+    "discountPercentage": 65,
+    "endDate": "2024-05-07T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2239,
+    "slug": "virtual-rides-3-2add3b",
+    "startDate": "2024-04-30T15:00:00.000Z",
+    "title": "Virtual Rides 3"
   },
   {
     "discountPercentage": 60,
