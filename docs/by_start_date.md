@@ -85,6 +85,7 @@
 |#|detective-solitaire-butler-story-a24413|Detective Solitaire. Butler Story|4,49€|50|2024-04-02 15h|2024-04-09 15h|
 |#|el-hijo-6b63c5|El Hijo – A Wild West Tale|19,99€|75|2024-04-02 15h|2024-04-09 15h|
 |#|elven-rivers-the-forgotten-lands-collectors-edition-13f068|Elven Rivers. The Forgotten Lands Collector's Edition|11,69€|40|2024-04-02 15h|2024-04-09 15h|
+|#|escape-from-blackwood-0d8657|Escape from Blackwood|7,19€|35|2024-04-02 15h|2024-04-09 15h|
 |#|gnomes-garden-return-of-the-queen-159f41|Gnomes Garden. Return Of The Queen|4,49€|40|2024-04-02 15h|2024-04-09 15h|
 |#|jump-challenge-228ff0|Jump Challenge!|2,69€|70|2024-04-02 15h|2024-04-09 15h|
 |#|lost-abroad-cafe-a-language-learning-management-sim-bfc28c|Lost Abroad Cafe - A Language Learning Management|2,69€|20|2024-04-02 15h|2024-04-09 15h|
@@ -96,6 +97,7 @@
 |#|the-elder-scrolls-online|The Elder Scrolls Online|19,99€|75|2024-04-02 15h|2024-04-09 15h|
 |#|royal-defense-d046db|The Empress of Mahjong|4,49€|50|2024-04-02 15h|2024-04-09 15h|
 |#|the-outer-worlds-spacers-choice-edition|The Outer Worlds: Spacer's Choice Edition|59,99€|100|2024-04-04 15h|2024-04-11 15h|
+|#|thief-5bb95f|Thief|19,99€|100|2024-04-04 15h|2024-04-11 15h|
 |#|evalinathe-sorceress-a9a60a|Evalina The Sorceress|1,79€|90|2024-04-04 22h|2024-05-04 22h|
 |#|treasure-of-the-giantess-60391f|Treasure Of The Giantess|8,99€|80|2024-04-04 22h|2024-05-04 22h|
 |#|against-the-storm|Against the Storm|19,99€|35|2024-04-05 13h|2024-04-12 13h|

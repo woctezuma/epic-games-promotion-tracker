@@ -196,6 +196,7 @@
 |#|the-elder-scrolls-online|The Elder Scrolls Online|19,99€|75|2024-04-02 15h|2024-04-09 15h|
 |#|the-legend-of-tianding|The Legend of Tianding|19,99€|60|2024-04-11 15h|2024-04-25 15h|
 |#|the-repair-house-349cf9|The Repair House: Restoration Sim|19,99€|33|2024-04-11 15h|2024-04-25 15h|
+|#|thief-5bb95f|Thief|19,99€|100|2024-04-04 15h|2024-04-11 15h|
 |#|tiny-thor-76de1f|Tiny Thor|19,99€|35|2024-04-09 15h|2024-04-16 15h|
 |#|tinykin-d1a022|Tinykin|19,99€|60|2024-04-11 15h|2024-04-25 15h|
 |#|touch-type-tale|Touch Type Tale|19,99€|25|2024-04-11 15h|2024-04-25 15h|
@@ -410,6 +411,7 @@
 |#|the-lions-song|The Lion's Song|7,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|reyna-darkness-0e1bb8|Reyna Darkness|7,50€|40|2024-04-01 00h|2024-05-01 00h|
 |#|dizzy-fight-7bbfe7|Dizzy Fight|7,19€|50|2024-04-11 15h|2024-04-25 15h|
+|#|escape-from-blackwood-0d8657|Escape from Blackwood|7,19€|35|2024-04-02 15h|2024-04-09 15h|
 |#|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|40|2024-04-09 05h|2024-04-22 04h|
 |#|mallofmayhem-15344c|Mall of Mayhem|7,19€|30|2024-07-01 06h|2024-07-30 22h|
 |#|mallofmayhem-15344c|Mall of Mayhem|7,19€|30|2024-10-01 06h|2024-10-30 22h|
