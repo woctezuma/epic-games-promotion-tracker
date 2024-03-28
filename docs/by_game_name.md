@@ -511,6 +511,7 @@
 |#|turnip-boy-robs-a-bank-3fae0e|Turnip Boy Robs a Bank|13,49€|25|2024-04-30 15h|2024-05-07 15h|
 |#|tyrants-blessing-02fddd|Tyrants Blessing|19,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|ugly-da09b2|Ugly|17,99€|50|2024-04-30 15h|2024-05-07 15h|
+|#|underworld-defense-9a270a|Underworld Defense|4,49€|70|2024-04-30 15h|2024-05-07 15h|
 |#|undungeon-49cec0|Undungeon|16,79€|75|2024-04-11 15h|2024-04-25 15h|
 |#|unrailed-e19729|Unrailed!|19,99€|75|2024-03-28 16h|2024-04-05 16h|
 |#|unusual-findings-6997e3|Unusual Findings|19,99€|50|2024-04-11 15h|2024-04-25 15h|

@@ -475,6 +475,7 @@
 |#|thanksgiving-day-mosaic-dc698a|Thanksgiving Day Mosaic|4,49€|50|2024-04-02 15h|2024-04-09 15h|
 |#|the-death-into-trouble-271916|The Death Into Trouble|4,49€|30|2024-04-11 15h|2024-04-25 15h|
 |#|royal-defense-d046db|The Empress of Mahjong|4,49€|50|2024-04-02 15h|2024-04-09 15h|
+|#|underworld-defense-9a270a|Underworld Defense|4,49€|70|2024-04-30 15h|2024-05-07 15h|
 |#|volley-pals-0120b4|Volley Pals|4,49€|60|2024-04-11 15h|2024-04-25 15h|
 |#|dumpy-and-bumpy-86c9d7|Dumpy and Bumpy|3,99€|30|2024-04-11 15h|2024-04-25 15h|
 |#|scholar-of-the-arcane-arts-6f4c67|Scholar of the Arcane Arts|3,99€|25|2024-04-11 15h|2024-04-25 15h|
