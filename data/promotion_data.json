@@ -189,15 +189,6 @@
     "title": "Alice's Jigsaw. Wonderland Chronicles"
   },
   {
-    "discountPercentage": 75,
-    "endDate": "2024-03-31T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "ancestors",
-    "startDate": "2024-03-28T15:00:00.000Z",
-    "title": "Ancestors: The Humankind Odyssey"
-  },
-  {
     "discountPercentage": 30,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -531,42 +522,6 @@
     "title": "Beyond Good & Evil"
   },
   {
-    "discountPercentage": 85,
-    "endDate": "2024-03-31T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "bioshock-2-remastered",
-    "startDate": "2024-03-28T15:00:00.000Z",
-    "title": "BioShock 2 Remastered"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2024-03-31T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5497,
-    "slug": "bioshock-infinite-complete-edition",
-    "startDate": "2024-03-28T15:00:00.000Z",
-    "title": "BioShock Infinite: Complete Edition"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2024-03-31T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "bioshock-remastered",
-    "startDate": "2024-03-28T15:00:00.000Z",
-    "title": "BioShock Remastered"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2024-03-31T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "bioshock-the-collection",
-    "startDate": "2024-03-28T15:00:00.000Z",
-    "title": "BioShock: The Collection"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-05-19T22:00:00.000Z",
     "isFree": false,
@@ -684,24 +639,6 @@
     "title": "BoltBreak"
   },
   {
-    "discountPercentage": 85,
-    "endDate": "2024-03-31T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "borderlands-3",
-    "startDate": "2024-03-28T15:00:00.000Z",
-    "title": "Borderlands 3"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2024-03-31T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "borderlands-the-handsome-collection",
-    "startDate": "2024-03-28T15:00:00.000Z",
-    "title": "Borderlands: The Handsome Collection"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -790,15 +727,6 @@
     "slug": "car-tuning-simulator-38ddaf",
     "startDate": "2024-05-17T22:00:00.000Z",
     "title": "Car Tuning Simulator"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2024-03-31T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "carnival-games",
-    "startDate": "2024-03-28T15:00:00.000Z",
-    "title": "Carnival Games"
   },
   {
     "discountPercentage": 35,
@@ -1521,15 +1449,6 @@
     "title": "Floppa: The Dark Forest"
   },
   {
-    "discountPercentage": 33,
-    "endDate": "2024-04-11T14:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "football-manager-2024",
-    "startDate": "2024-03-28T15:00:00.000Z",
-    "title": "Football Manager 2024"
-  },
-  {
     "discountPercentage": 75,
     "endDate": "2024-05-01T17:00:00.000Z",
     "isFree": false,
@@ -1708,24 +1627,6 @@
     "slug": "good-company",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Good Company"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2024-03-31T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "grand-theft-auto-v",
-    "startDate": "2024-03-28T15:00:00.000Z",
-    "title": "Grand Theft Auto V: Premium Edition"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2024-03-31T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "grand-theft-auto-the-trilogy-the-definitive-edition",
-    "startDate": "2024-03-28T15:00:00.000Z",
-    "title": "Grand Theft Auto: The Trilogy \u2013 The Definitive Edition"
   },
   {
     "discountPercentage": 75,
@@ -1998,15 +1899,6 @@
     "title": "Island of Fear"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2024-04-04T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 1950,
-    "slug": "islets-5f2670",
-    "startDate": "2024-03-28T15:00:00.000Z",
-    "title": "Islets"
-  },
-  {
     "discountPercentage": 67,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -2169,24 +2061,6 @@
     "title": "Kenshi"
   },
   {
-    "discountPercentage": 75,
-    "endDate": "2024-03-31T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "kerbal-space-program",
-    "startDate": "2024-03-28T15:00:00.000Z",
-    "title": "Kerbal Space Program"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2024-03-31T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 4999,
-    "slug": "kerbal-space-program-2",
-    "startDate": "2024-03-28T15:00:00.000Z",
-    "title": "Kerbal Space Program 2"
-  },
-  {
     "discountPercentage": 66,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -2239,15 +2113,6 @@
     "slug": "chickenbeauty-08b149",
     "startDate": "2024-04-23T15:00:00.000Z",
     "title": "KunKunBeauty"
-  },
-  {
-    "discountPercentage": 67,
-    "endDate": "2024-03-31T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "lego-2k-drive",
-    "startDate": "2024-03-28T15:00:00.000Z",
-    "title": "LEGO\u00ae 2K Drive"
   },
   {
     "discountPercentage": 70,
@@ -2412,42 +2277,6 @@
     "title": "Mable & The Wood"
   },
   {
-    "discountPercentage": 67,
-    "endDate": "2024-03-31T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "mafia-ii-definitive-edition",
-    "startDate": "2024-03-28T15:00:00.000Z",
-    "title": "Mafia II: Definitive Edition"
-  },
-  {
-    "discountPercentage": 67,
-    "endDate": "2024-03-31T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "mafia-iii-definitive-edition",
-    "startDate": "2024-03-28T15:00:00.000Z",
-    "title": "Mafia III: Definitive Edition"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2024-03-31T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "mafia-definitive-edition",
-    "startDate": "2024-03-28T15:00:00.000Z",
-    "title": "Mafia: Definitive Edition"
-  },
-  {
-    "discountPercentage": 67,
-    "endDate": "2024-03-31T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "mafia-trilogy",
-    "startDate": "2024-03-28T15:00:00.000Z",
-    "title": "Mafia: Trilogy"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-04-16T15:00:00.000Z",
     "isFree": false,
@@ -2536,15 +2365,6 @@
     "slug": "mars-horizon",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Mars Horizon"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2024-03-31T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "marvels-midnight-suns",
-    "startDate": "2024-03-28T15:00:00.000Z",
-    "title": "Marvel's Midnight Suns"
   },
   {
     "discountPercentage": 75,
@@ -2689,15 +2509,6 @@
     "slug": "neon-blight-6fe11b",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Neon Blight"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2024-03-31T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3999,
-    "slug": "new-tales-from-the-borderlands",
-    "startDate": "2024-03-28T15:00:00.000Z",
-    "title": "New Tales from the Borderlands"
   },
   {
     "discountPercentage": 50,
@@ -3168,15 +2979,6 @@
     "title": "Recursive Ruin"
   },
   {
-    "discountPercentage": 67,
-    "endDate": "2024-03-31T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "red-dead-redemption-2",
-    "startDate": "2024-03-28T15:00:00.000Z",
-    "title": "Red Dead Redemption 2"
-  },
-  {
     "discountPercentage": 42,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -3535,15 +3337,6 @@
     "slug": "shuyan-saga-cd1476",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Shuyan Saga"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2024-03-31T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "sid-meiers-civilization-vi",
-    "startDate": "2024-03-28T15:00:00.000Z",
-    "title": "Sid Meier\u2019s Civilization\u00ae VI"
   },
   {
     "discountPercentage": 50,
@@ -3951,15 +3744,6 @@
     "title": "Tabletop Playground"
   },
   {
-    "discountPercentage": 25,
-    "endDate": "2024-03-31T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "tales-from-the-borderlands",
-    "startDate": "2024-03-28T15:00:00.000Z",
-    "title": "Tales from the Borderlands"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2024-05-07T15:00:00.000Z",
     "isFree": false,
@@ -4311,15 +4095,6 @@
     "title": "The Mystery Of The Moon"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2024-03-31T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2999,
-    "slug": "the-outer-worlds",
-    "startDate": "2024-03-28T15:00:00.000Z",
-    "title": "The Outer Worlds"
-  },
-  {
     "discountPercentage": 100,
     "endDate": "2024-04-11T15:00:00.000Z",
     "isFree": true,
@@ -4435,24 +4210,6 @@
     "slug": "tiny-thor-76de1f",
     "startDate": "2024-04-09T15:00:00.000Z",
     "title": "Tiny Thor"
-  },
-  {
-    "discountPercentage": 50,
-    "endDate": "2024-03-31T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure",
-    "startDate": "2024-03-28T15:00:00.000Z",
-    "title": "Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2024-03-31T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "tiny-tinas-wonderlands",
-    "startDate": "2024-03-28T15:00:00.000Z",
-    "title": "Tiny Tina's Wonderlands"
   },
   {
     "discountPercentage": 60,
@@ -4813,15 +4570,6 @@
     "slug": "world-turtles-b2139d",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "World Turtles"
-  },
-  {
-    "discountPercentage": 95,
-    "endDate": "2024-03-31T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 4999,
-    "slug": "xcom-2",
-    "startDate": "2024-03-28T15:00:00.000Z",
-    "title": "XCOM\u00ae 2"
   },
   {
     "discountPercentage": 30,
