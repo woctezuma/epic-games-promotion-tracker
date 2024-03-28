@@ -1341,6 +1341,15 @@
     "title": "Empires of the Undergrowth"
   },
   {
+    "discountPercentage": 35,
+    "endDate": "2024-04-09T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 719,
+    "slug": "escape-from-blackwood-0d8657",
+    "startDate": "2024-04-02T15:00:00.000Z",
+    "title": "Escape from Blackwood"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -4390,6 +4399,15 @@
     "slug": "they-are-coming-a17087",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "They Are Coming"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2024-04-11T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1999,
+    "slug": "thief-5bb95f",
+    "startDate": "2024-04-04T15:00:00.000Z",
+    "title": "Thief"
   },
   {
     "discountPercentage": 80,
