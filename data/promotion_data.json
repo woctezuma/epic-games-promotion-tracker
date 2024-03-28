@@ -1776,6 +1776,15 @@
     "discountPercentage": 75,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
+    "originalPrice": 4999,
+    "slug": "humankind",
+    "startDate": "2024-04-11T15:00:00.000Z",
+    "title": "HUMANKIND\u2122 Standard Edition"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-04-25T15:00:00.000Z",
+    "isFree": false,
     "originalPrice": 1679,
     "slug": "happys-humble-burger-farm-d16675",
     "startDate": "2024-04-11T15:00:00.000Z",
