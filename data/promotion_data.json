@@ -1800,6 +1800,15 @@
     "title": "Iron Heart Steam Tower"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2024-05-14T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "island-idle-rpg-350c2e",
+    "startDate": "2024-05-07T15:00:00.000Z",
+    "title": "Island Idle RPG"
+  },
+  {
     "discountPercentage": 45,
     "endDate": "2024-04-23T15:00:00.000Z",
     "isFree": false,
@@ -2137,7 +2146,7 @@
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 899,
-    "slug": "a20922cfbb894a3bb690164a380c78d9",
+    "slug": "lost-castle-abb2e2",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Lost Castle"
   },
@@ -2664,7 +2673,7 @@
     "title": "Pato Box"
   },
   {
-    "discountPercentage": 34,
+    "discountPercentage": 36,
     "endDate": "2024-05-07T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1349,
@@ -2734,6 +2743,15 @@
     "slug": "pro-basketball-manager-2024-5c764f",
     "startDate": "2024-05-04T04:05:00.000Z",
     "title": "Pro Basketball Manager 2024"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2024-05-07T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "projectelement-a1ec94",
+    "startDate": "2024-04-30T15:00:00.000Z",
+    "title": "Project Element"
   },
   {
     "discountPercentage": 80,
@@ -2889,6 +2907,15 @@
     "title": "Retreat To Enen"
   },
   {
+    "discountPercentage": 65,
+    "endDate": "2024-04-25T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "revenge-of-the-ronin-faff20",
+    "startDate": "2024-04-11T15:00:00.000Z",
+    "title": "Revenge Of The Ronin"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2024-04-28T16:00:00.000Z",
     "isFree": false,
@@ -2926,21 +2953,21 @@
   },
   {
     "discountPercentage": 50,
-    "endDate": "2024-04-05T20:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 989,
-    "slug": "rise-of-gun-73a9d9",
-    "startDate": "2024-03-29T20:00:00.000Z",
-    "title": "Rise of Gun"
-  },
-  {
-    "discountPercentage": 50,
     "endDate": "2024-05-07T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1799,
     "slug": "rise-of-jericho-cb083c",
     "startDate": "2024-04-30T15:00:00.000Z",
     "title": "Rise of Jericho"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2024-05-14T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 299,
+    "slug": "road-defense-outsiders-22e4ba",
+    "startDate": "2024-05-07T15:00:00.000Z",
+    "title": "Road Defense: Outsiders"
   },
   {
     "discountPercentage": 50,
@@ -3265,6 +3292,15 @@
     "slug": "skotos-455463",
     "startDate": "2024-11-01T06:00:00.000Z",
     "title": "Skotos"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2024-04-15T10:59:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "skyts-f5dfd7",
+    "startDate": "2024-04-03T10:59:00.000Z",
+    "title": "Skyts"
   },
   {
     "discountPercentage": 10,
@@ -4230,6 +4266,15 @@
     "title": "Undungeon"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-05-07T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "unlock-the-cat-487fac",
+    "startDate": "2024-04-30T15:00:00.000Z",
+    "title": "Unlock The Cat"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -4399,6 +4444,15 @@
     "slug": "zombi",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "ZOMBI"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-06-13T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "next-game-c139be",
+    "startDate": "2024-05-16T16:00:00.000Z",
+    "title": "Zi"
   },
   {
     "discountPercentage": 90,
