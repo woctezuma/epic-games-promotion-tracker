@@ -39,6 +39,8 @@
 |#|arctico-c29f1d|Arctico|8,99€|80|2024-04-09 15h|2024-04-16 15h|
 |#|chicken-police-paint-it-red|Chicken Police - Paint it Red!|19,99€|65|2024-04-09 15h|2024-04-16 15h|
 |#|christmas-mahjong-50bcc6|Christmas Mahjong|4,49€|80|2024-04-09 15h|2024-04-16 15h|
+|#|cook-serve-delicious-2-6db46c|Cook Serve Delicious 2|9,99€|75|2024-04-09 15h|2024-04-16 15h|
+|#|cook-serve-delicious-3-fb9aae|Cook, Serve, Delicious! 3?!|15,99€|75|2024-04-09 15h|2024-04-16 15h|
 |#|cooking-trip-d45abd|Cooking Trip Collectors Edition|4,49€|50|2024-04-09 15h|2024-04-16 15h|
 |#|cris-tales|Cris Tales|39,99€|90|2024-04-09 15h|2024-04-16 15h|
 |#|dark-journey-the-fate-of-the-demon-king-4bf628|Dark Journey:The Fate of the Demon King|6,29€|15|2024-04-09 15h|2024-04-16 15h|
