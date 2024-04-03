@@ -927,6 +927,15 @@
     "title": "Cartel Tycoon"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "carto",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Carto"
+  },
+  {
     "discountPercentage": 35,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -1143,6 +1152,15 @@
     "title": "Crown of the Empire 2: Around the World Collectors Edition"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2199,
+    "slug": "crying-suns",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Crying Suns"
+  },
+  {
     "discountPercentage": 35,
     "endDate": "2024-06-13T15:00:00.000Z",
     "isFree": false,
@@ -1305,7 +1323,7 @@
     "title": "Despot's Game"
   },
   {
-    "discountPercentage": 65,
+    "discountPercentage": 70,
     "endDate": "2024-04-20T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1079,
@@ -1314,7 +1332,7 @@
     "title": "Devil's Island"
   },
   {
-    "discountPercentage": 70,
+    "discountPercentage": 80,
     "endDate": "2024-06-03T13:00:00.000Z",
     "isFree": false,
     "originalPrice": 1079,
@@ -1629,15 +1647,6 @@
     "title": "Expedition Zero"
   },
   {
-    "discountPercentage": 45,
-    "endDate": "2024-04-16T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "extreme-bus-driver-simulator-b7a96d",
-    "startDate": "2024-04-03T17:00:00.000Z",
-    "title": "Extreme Bus Driver 2024"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-06-04T03:00:00.000Z",
     "isFree": false,
@@ -1735,15 +1744,6 @@
     "slug": "fantasy-world-td-851287",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Fantasy World TD"
-  },
-  {
-    "discountPercentage": 45,
-    "endDate": "2024-04-16T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "fastest-cars-traffic-racer-d363db",
-    "startDate": "2024-04-03T17:00:00.000Z",
-    "title": "Fastest Cars Traffic Racer"
   },
   {
     "discountPercentage": 50,
@@ -2394,6 +2394,24 @@
     "title": "Julai"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2024-05-06T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "jusant",
+    "startDate": "2024-04-30T17:00:00.000Z",
+    "title": "Jusant"
+  },
+  {
+    "discountPercentage": 85,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3299,
+    "slug": "just-cause-4",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Just Cause 4 Reloaded"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2024-04-16T15:00:00.000Z",
     "isFree": false,
@@ -2979,15 +2997,6 @@
     "title": "MotoGP\u212221"
   },
   {
-    "discountPercentage": 45,
-    "endDate": "2024-04-16T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "multiplayer-drone-simulator-048a09",
-    "startDate": "2024-04-03T17:00:00.000Z",
-    "title": "Multiplayer Drone Simulator"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -3067,15 +3076,6 @@
     "slug": "neon-blight-6fe11b",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Neon Blight"
-  },
-  {
-    "discountPercentage": 45,
-    "endDate": "2024-04-16T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "neon-city-climbing-simulator-c917dd",
-    "startDate": "2024-04-03T17:00:00.000Z",
-    "title": "Neon City Climbing Simulator"
   },
   {
     "discountPercentage": 35,
@@ -3175,6 +3175,15 @@
     "slug": "not-for-broadcast-7e523f",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Not For Broadcast"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "outriders",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "OUTRIDERS"
   },
   {
     "discountPercentage": 75,
@@ -3627,15 +3636,6 @@
     "title": "Rainbow Pixel - Color by Number"
   },
   {
-    "discountPercentage": 45,
-    "endDate": "2024-04-16T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "real-drift-multiplayer-2-bdc182",
-    "startDate": "2024-04-03T17:00:00.000Z",
-    "title": "Real Drift Multiplayer 2"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -3706,6 +3706,15 @@
     "slug": "rimworld",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "RimWorld"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "ring-of-pain",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Ring of Pain"
   },
   {
     "discountPercentage": 50,
@@ -4158,15 +4167,6 @@
     "title": "Skotos"
   },
   {
-    "discountPercentage": 45,
-    "endDate": "2024-04-16T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 89,
-    "slug": "sniper-wild-west-shooting-simulator-e3378a",
-    "startDate": "2024-04-03T17:00:00.000Z",
-    "title": "Sniper Wild West Shooting Simulator"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-05-21T15:00:00.000Z",
     "isFree": false,
@@ -4318,6 +4318,15 @@
     "slug": "strange-horticulture-360e80",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Strange Horticulture"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "stray-gods-the-roleplaying-musical-0e651d",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Stray Gods: The Roleplaying Musical"
   },
   {
     "discountPercentage": 40,
@@ -4788,6 +4797,15 @@
     "title": "The Fabled Woods"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1619,
+    "slug": "the-fabulous-fear-machine-8e7c6b",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "The Fabulous Fear Machine"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-06-13T15:00:00.000Z",
     "isFree": false,
@@ -4993,6 +5011,15 @@
     "slug": "the-repair-house-349cf9",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "The Repair House: Restoration Sim"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "the-saviors-gang-959fd2",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "The Savior's Gang"
   },
   {
     "discountPercentage": 67,
@@ -5479,6 +5506,15 @@
     "slug": "virtual-rides-3-2add3b",
     "startDate": "2024-04-30T15:00:00.000Z",
     "title": "Virtual Rides 3"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2799,
+    "slug": "void-bastards",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Void Bastards"
   },
   {
     "discountPercentage": 60,
