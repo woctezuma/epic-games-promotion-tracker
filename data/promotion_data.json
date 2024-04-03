@@ -1071,6 +1071,24 @@
     "title": "Control"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2024-04-16T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "cook-serve-delicious-2-6db46c",
+    "startDate": "2024-04-09T15:00:00.000Z",
+    "title": "Cook Serve Delicious 2"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-04-16T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "cook-serve-delicious-3-fb9aae",
+    "startDate": "2024-04-09T15:00:00.000Z",
+    "title": "Cook, Serve, Delicious! 3?!"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-04-16T15:00:00.000Z",
     "isFree": false,
