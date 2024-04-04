@@ -1,16 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|bridge-constructor-c3ef67|Bridge Constructor|9,99€|88|2024-04-04 15h|2024-04-11 15h|
-|#|bridge-constructor-medieval-cff987|Bridge Constructor Medieval|9,99€|88|2024-04-04 15h|2024-04-11 15h|
-|#|bridge-constructor-playground-eade24|Bridge Constructor Playground|9,99€|88|2024-04-04 15h|2024-04-11 15h|
-|#|bridge-constructor-stunts-da814c|Bridge Constructor Stunts|9,99€|88|2024-04-04 15h|2024-04-11 15h|
-|#|bridge-constructor-the-walking-dead|Bridge Constructor: The Walking Dead|9,99€|88|2024-04-04 15h|2024-04-11 15h|
-|#|dead-age-f46c67|Dead Age|14,99€|90|2024-04-04 15h|2024-04-11 15h|
-|#|dead-age-2|Dead Age 2|17,99€|85|2024-04-04 15h|2024-04-11 15h|
-|#|silver-chains-0d3bd1|Silver Chains|24,99€|90|2024-04-04 15h|2024-04-11 15h|
-|#|the-outer-worlds-spacers-choice-edition|The Outer Worlds: Spacer's Choice Edition|59,99€|100|2024-04-04 15h|2024-04-11 15h|
-|#|the-textorcist|The Textorcist: The Story of Ray Bibbia|14,99€|88|2024-04-04 15h|2024-04-11 15h|
-|#|thief-5bb95f|Thief|19,99€|100|2024-04-04 15h|2024-04-11 15h|
 |#|against-the-storm|Against the Storm|19,99€|35|2024-04-05 13h|2024-04-12 13h|
 |#|empires-of-the-undergrowth|Empires of the Undergrowth|29,99€|35|2024-04-05 13h|2024-04-12 13h|
 |#|old-world|Old World|39,99€|30|2024-04-05 13h|2024-04-12 13h|
@@ -435,7 +424,6 @@
 |#|virtual-rides-3-2add3b|Virtual Rides 3|22,39€|65|2024-04-30 15h|2024-05-07 15h|
 |#|exit-left-or-right-bfedd2|Exit: Left or Right|0,89€|50|2024-04-23 22h|2024-05-07 22h|
 |#|ea-star-wars-triple-bundle|EA STAR WARS™ TRIPLE BUNDLE|89,99€|90|2024-05-02 15h|2024-05-09 15h|
-|#|lego-star-wars-the-skywalker-saga|LEGO® Star Wars™: The Skywalker Saga|49,99€|70|2024-05-02 15h|2024-05-09 15h|
 |#|star-wars-jedi-fallen-order|STAR WARS Jedi: Fallen Order Standard Edition|39,99€|90|2024-05-02 15h|2024-05-09 15h|
 |#|star-wars-jedi-survivor|STAR WARS Jedi: Survivor™|69,99€|55|2024-05-02 15h|2024-05-09 15h|
 |#|star-wars-battlefront-2|STAR WARS™ Battlefront™ II: Celebration Edition|39,99€|88|2024-05-02 15h|2024-05-09 15h|
