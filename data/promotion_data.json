@@ -828,51 +828,6 @@
     "title": "Boyfriend Dungeon"
   },
   {
-    "discountPercentage": 88,
-    "endDate": "2024-04-11T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "bridge-constructor-c3ef67",
-    "startDate": "2024-04-04T15:00:00.000Z",
-    "title": "Bridge Constructor"
-  },
-  {
-    "discountPercentage": 88,
-    "endDate": "2024-04-11T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "bridge-constructor-medieval-cff987",
-    "startDate": "2024-04-04T15:00:00.000Z",
-    "title": "Bridge Constructor Medieval"
-  },
-  {
-    "discountPercentage": 88,
-    "endDate": "2024-04-11T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "bridge-constructor-playground-eade24",
-    "startDate": "2024-04-04T15:00:00.000Z",
-    "title": "Bridge Constructor Playground"
-  },
-  {
-    "discountPercentage": 88,
-    "endDate": "2024-04-11T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "bridge-constructor-stunts-da814c",
-    "startDate": "2024-04-04T15:00:00.000Z",
-    "title": "Bridge Constructor Stunts"
-  },
-  {
-    "discountPercentage": 88,
-    "endDate": "2024-04-11T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 999,
-    "slug": "bridge-constructor-the-walking-dead",
-    "startDate": "2024-04-04T15:00:00.000Z",
-    "title": "Bridge Constructor: The Walking Dead"
-  },
-  {
     "discountPercentage": 35,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -1357,24 +1312,6 @@
     "slug": "deexit-eternal-matters-da8992",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "De-Exit - Eternal Matters"
-  },
-  {
-    "discountPercentage": 90,
-    "endDate": "2024-04-11T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "dead-age-f46c67",
-    "startDate": "2024-04-04T15:00:00.000Z",
-    "title": "Dead Age"
-  },
-  {
-    "discountPercentage": 85,
-    "endDate": "2024-04-11T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1799,
-    "slug": "dead-age-2",
-    "startDate": "2024-04-04T15:00:00.000Z",
-    "title": "Dead Age 2"
   },
   {
     "discountPercentage": 50,
@@ -2671,15 +2608,6 @@
     "slug": "lego-builders-journey",
     "startDate": "2024-05-16T15:00:00.000Z",
     "title": "LEGO\u00ae Builder's Journey"
-  },
-  {
-    "discountPercentage": 70,
-    "endDate": "2024-05-09T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 4999,
-    "slug": "lego-star-wars-the-skywalker-saga",
-    "startDate": "2024-05-02T15:00:00.000Z",
-    "title": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   {
     "discountPercentage": 30,
@@ -4320,15 +4248,6 @@
     "title": "Silt"
   },
   {
-    "discountPercentage": 90,
-    "endDate": "2024-04-11T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2499,
-    "slug": "silver-chains-0d3bd1",
-    "startDate": "2024-04-04T15:00:00.000Z",
-    "title": "Silver Chains"
-  },
-  {
     "discountPercentage": 85,
     "endDate": "2024-04-16T15:00:00.000Z",
     "isFree": false,
@@ -5202,15 +5121,6 @@
     "title": "The Mystery Of The Moon"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2024-04-11T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 5999,
-    "slug": "the-outer-worlds-spacers-choice-edition",
-    "startDate": "2024-04-04T15:00:00.000Z",
-    "title": "The Outer Worlds: Spacer's Choice Edition"
-  },
-  {
     "discountPercentage": 85,
     "endDate": "2024-06-13T15:00:00.000Z",
     "isFree": false,
@@ -5283,15 +5193,6 @@
     "title": "The Telltale Batman Shadows Edition"
   },
   {
-    "discountPercentage": 88,
-    "endDate": "2024-04-11T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1499,
-    "slug": "the-textorcist",
-    "startDate": "2024-04-04T15:00:00.000Z",
-    "title": "The Textorcist: The Story of Ray Bibbia"
-  },
-  {
     "discountPercentage": 85,
     "endDate": "2024-06-13T15:00:00.000Z",
     "isFree": false,
@@ -5344,15 +5245,6 @@
     "slug": "they-are-coming-a17087",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "They Are Coming"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2024-04-11T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 1999,
-    "slug": "thief-5bb95f",
-    "startDate": "2024-04-04T15:00:00.000Z",
-    "title": "Thief"
   },
   {
     "discountPercentage": 80,
