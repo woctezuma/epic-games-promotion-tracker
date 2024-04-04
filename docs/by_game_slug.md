@@ -480,6 +480,7 @@
 |#|spiderbro-2-8d3665|Spiderbro 2|5,39€|50|2024-04-11 15h|2024-04-25 15h|
 |#|spiderheck-0fb81d|SpiderHeck|14,99€|40|2024-04-11 15h|2024-04-25 15h|
 |#|spirit-of-the-island|Spirit of the Island|16,19€|65|2024-05-16 15h|2024-06-13 15h|
+|#|spooky-mahjong-b9f12c|Spooky Mahjong|4,49€|60|2024-05-14 15h|2024-05-21 15h|
 |#|star-wars-battlefront|STAR WARS™ Battlefront™ Ultimate Edition|19,99€|75|2024-05-02 15h|2024-05-09 15h|
 |#|star-wars-battlefront-2|STAR WARS™ Battlefront™ II: Celebration Edition|39,99€|88|2024-05-02 15h|2024-05-09 15h|
 |#|star-wars-jedi-fallen-order|STAR WARS Jedi: Fallen Order Standard Edition|39,99€|90|2024-05-02 15h|2024-05-09 15h|
