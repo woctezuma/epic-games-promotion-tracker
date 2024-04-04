@@ -424,6 +424,7 @@
 |#|virtual-rides-3-2add3b|Virtual Rides 3|22,39€|65|2024-04-30 15h|2024-05-07 15h|
 |#|exit-left-or-right-bfedd2|Exit: Left or Right|0,89€|50|2024-04-23 22h|2024-05-07 22h|
 |#|ea-star-wars-triple-bundle|EA STAR WARS™ TRIPLE BUNDLE|89,99€|90|2024-05-02 15h|2024-05-09 15h|
+|#|lego-star-wars-the-skywalker-saga|LEGO® Star Wars™: The Skywalker Saga|49,99€|75|2024-05-02 15h|2024-05-09 15h|
 |#|star-wars-jedi-fallen-order|STAR WARS Jedi: Fallen Order Standard Edition|39,99€|90|2024-05-02 15h|2024-05-09 15h|
 |#|star-wars-jedi-survivor|STAR WARS Jedi: Survivor™|69,99€|55|2024-05-02 15h|2024-05-09 15h|
 |#|star-wars-battlefront-2|STAR WARS™ Battlefront™ II: Celebration Edition|39,99€|88|2024-05-02 15h|2024-05-09 15h|
@@ -492,12 +493,14 @@
 |#|arcrunner-61fee6|ArcRunner|19,99€|25|2024-05-16 15h|2024-06-13 15h|
 |#|brok-the-investigator-fb0513|BROK the InvestiGator|17,99€|33|2024-05-16 15h|2024-06-13 15h|
 |#|back-then-2072ca|Back Then|11,69€|25|2024-05-16 15h|2024-06-13 15h|
+|#|beholder-3-d23253|Beholder 3|16,19€|65|2024-05-16 15h|2024-06-13 15h|
 |#|below-the-stone-2be6fa|Below the Stone|17,99€|20|2024-05-16 15h|2024-06-13 15h|
 |#|berzerk-recharged-c35563|Berzerk Recharged|8,99€|40|2024-05-16 15h|2024-06-13 15h|
 |#|biped|Biped|12,49€|70|2024-05-16 15h|2024-06-13 15h|
 |#|bob-a-thousand-lives-802452|Bob A thousand lives - Enhanced Edition|8,99€|80|2024-05-16 15h|2024-06-13 15h|
 |#|cartel-tycoon|Cartel Tycoon|26,99€|60|2024-05-16 15h|2024-06-13 15h|
 |#|carto|Carto|19,99€|70|2024-05-16 15h|2024-06-13 15h|
+|#|cities-skylines|Cities: Skylines|29,99€|70|2024-05-16 15h|2024-06-13 15h|
 |#|covid-carl-7dd371|Covid Carl|3,59€|45|2024-05-16 15h|2024-06-13 15h|
 |#|cris-tales|Cris Tales|39,99€|90|2024-05-16 15h|2024-06-13 15h|
 |#|crosshair-x-5d70eb|Crosshair X|7,19€|20|2024-05-16 15h|2024-06-13 15h|
@@ -532,6 +535,7 @@
 |#|moons-of-ardan-d4f9a3|Moons of Ardan|19,99€|25|2024-05-16 15h|2024-06-13 15h|
 |#|morels-ed7501|Morels: The Hunt|17,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|mortal-online-2-d7bb78|Mortal Online 2|35,99€|30|2024-05-16 15h|2024-06-13 15h|
+|#|necrosmith-b2ef15|Necrosmith|2,39€|50|2024-05-16 15h|2024-06-13 15h|
 |#|nexomon-extinction|Nexomon: Extinction|19,99€|65|2024-05-16 15h|2024-06-13 15h|
 |#|outriders|OUTRIDERS|19,99€|50|2024-05-16 15h|2024-06-13 15h|
 |#|oirbo-c063b7|Oirbo|13,49€|25|2024-05-16 15h|2024-06-13 15h|
@@ -559,6 +563,7 @@
 |#|sherlock-holmes-crimes-and-punishments|Sherlock Holmes: Crimes and Punishments|29,99€|90|2024-05-16 15h|2024-06-13 15h|
 |#|sherlock-holmes-the-devils-daughter|Sherlock Holmes: The Devil's Daughter|29,99€|85|2024-05-16 15h|2024-06-13 15h|
 |#|sir-whoopass-757c5c|Sir Whoopass - Immortal Death|15,29€|30|2024-05-16 15h|2024-06-13 15h|
+|#|song-of-farca-1eb3f2|Song of Farca|19,50€|75|2024-05-16 15h|2024-06-13 15h|
 |#|soulstice|Soulstice|39,99€|60|2024-05-16 15h|2024-06-13 15h|
 |#|spirit-of-the-island|Spirit of the Island|16,19€|65|2024-05-16 15h|2024-06-13 15h|
 |#|stellar-interface-d14cc4|Stellar Interface|11,69€|80|2024-05-16 15h|2024-06-13 15h|
@@ -578,6 +583,7 @@
 |#|the-uncertain-last-quiet-day|The Uncertain: Last Quiet Day|7,99€|85|2024-05-16 15h|2024-06-13 15h|
 |#|the-uncertain-light-at-the-end|The Uncertain: Light at the End|7,99€|85|2024-05-16 15h|2024-06-13 15h|
 |#|the-wolf-among-us|The Wolf Among Us|14,99€|60|2024-05-16 15h|2024-06-13 15h|
+|#|they-always-run-965bb3|They Always Run|8,99€|65|2024-05-16 15h|2024-06-13 15h|
 |#|time-loader|Time Loader|12,49€|80|2024-05-16 15h|2024-06-13 15h|
 |#|tormented-souls|Tormented Souls|19,99€|65|2024-05-16 15h|2024-06-13 15h|
 |#|train-valley-ead642|Train Valley|7,99€|85|2024-05-16 15h|2024-06-13 15h|
@@ -588,6 +594,7 @@
 |#|unspottable|Unspottable|9,99€|50|2024-05-16 15h|2024-06-13 15h|
 |#|urban-tale-75b4f0|Urban Tale|12,59€|45|2024-05-16 15h|2024-06-13 15h|
 |#|void-bastards|Void Bastards|27,99€|70|2024-05-16 15h|2024-06-13 15h|
+|#|wall-world-02e132|Wall World|6,89€|50|2024-05-16 15h|2024-06-13 15h|
 |#|warmsnow-7e3180|WarmSnow|13,99€|30|2024-05-16 15h|2024-06-13 15h|
 |#|next-game-c139be|Zi|8,99€|50|2024-05-16 15h|2024-06-13 15h|
 |#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2024-05-27 22h|2024-06-13 22h|
@@ -624,6 +631,7 @@
 |#|floppa-the-dark-forest-518460|Floppa: The Dark Forest|1,79€|75|2024-07-17 22h|2024-08-01 22h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|75|2024-07-21 22h|2024-08-07 22h|
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2024-07-21 22h|2024-08-07 22h|
+|#|orten-was-the-case-d108fb|Orten Was The Case|13,49€|25|2024-08-05 08h|2024-08-09 22h|
 |#|overtop-ed5e49|Overtop|4,49€|85|2024-07-23 22h|2024-08-09 22h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|65|2024-08-06 21h|2024-08-13 21h|
 |#|car-mechanic-city-driving-4996c5|Car Mechanic - City Driving|0,89€|50|2024-07-24 22h|2024-08-13 22h|
