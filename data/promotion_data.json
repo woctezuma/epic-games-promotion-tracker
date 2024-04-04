@@ -3771,6 +3771,15 @@
     "title": "Rise of Jericho"
   },
   {
+    "discountPercentage": 45,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "rising-mist-36ba97",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Rising Mist"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2024-05-14T15:00:00.000Z",
     "isFree": false,
@@ -5506,6 +5515,15 @@
     "slug": "unusual-findings-6997e3",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Unusual Findings"
+  },
+  {
+    "discountPercentage": 45,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1259,
+    "slug": "urban-tale-75b4f0",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Urban Tale"
   },
   {
     "discountPercentage": 90,
