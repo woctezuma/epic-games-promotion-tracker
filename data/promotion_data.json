@@ -81,6 +81,15 @@
     "title": "9 Years of Shadows"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "a-game-of-thrones-5858a3",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "A Game Of Thrones: The Board Game Digital Edition"
+  },
+  {
     "discountPercentage": 35,
     "endDate": "2024-06-13T15:00:00.000Z",
     "isFree": false,
@@ -727,6 +736,15 @@
     "slug": "blazing-sails",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Blazing Sails"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-05-30T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "blood-bowl-3",
+    "startDate": "2024-05-23T16:00:00.000Z",
+    "title": "Blood Bowl 3\t"
   },
   {
     "discountPercentage": 67,
@@ -2131,6 +2149,15 @@
     "slug": "hot-wheels-unleashed",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "HOT WHEELS UNLEASHED\u2122"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "hot-wheels-unleashed-2",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged"
   },
   {
     "discountPercentage": 75,
@@ -3681,6 +3708,15 @@
     "title": "REZ PLZ"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "ride-5",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "RIDE 5"
+  },
+  {
     "discountPercentage": 10,
     "endDate": "2024-04-16T15:00:00.000Z",
     "isFree": false,
@@ -4120,6 +4156,42 @@
     "slug": "shadow-gambit-the-cursed-crew-0bca60",
     "startDate": "2024-05-07T15:00:00.000Z",
     "title": "Shadow Gambit: The Cursed Crew"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "shadowrun-hong-kong",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Shadowrun Hong Kong - Extended Edition"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "shadowrun-returns",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Shadowrun Returns"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5499,
+    "slug": "shadowrun-trilogy",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Shadowrun Trilogy"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "shadowrun-dragonfall",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Shadowrun: Dragonfall - Director\u2019s Cut"
   },
   {
     "discountPercentage": 50,
@@ -5497,6 +5569,15 @@
     "slug": "turnip-boy-robs-a-bank-3fae0e",
     "startDate": "2024-04-30T15:00:00.000Z",
     "title": "Turnip Boy Robs a Bank"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "tyranny",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Tyranny - Gold Edition"
   },
   {
     "discountPercentage": 50,
