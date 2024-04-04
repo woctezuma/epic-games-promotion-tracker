@@ -7,6 +7,7 @@
 |#|cris-tales|Cris Tales|39,99€|90|2024-04-09 15h|2024-04-16 15h|
 |#|cris-tales|Cris Tales|39,99€|90|2024-05-16 15h|2024-06-13 15h|
 |#|dead-age-f46c67|Dead Age|14,99€|90|2024-04-04 15h|2024-04-11 15h|
+|#|down-in-bermuda|Down in Bermuda|15,99€|90|2024-05-16 15h|2024-06-13 15h|
 |#|ea-star-wars-triple-bundle|EA STAR WARS™ TRIPLE BUNDLE|89,99€|90|2024-05-02 15h|2024-05-09 15h|
 |#|earthlock-e7d979|EARTHLOCK|26,99€|90|2024-04-11 15h|2024-04-25 15h|
 |#|evalinathe-sorceress-a9a60a|Evalina The Sorceress|1,79€|90|2024-04-04 22h|2024-05-04 22h|
@@ -261,6 +262,8 @@
 |#|mokoko-x-e2b09d|Mokoko X|8,99€|60|2024-04-11 15h|2024-04-25 15h|
 |#|mystery-solitaire-grimms-tales-2-e1e538|Mystery Solitaire. Grimm's Tales 2|4,49€|60|2024-04-09 15h|2024-04-16 15h|
 |#|quest-of-dungeons-3064d5|Quest of Dungeons|4,99€|60|2024-04-11 15h|2024-04-25 15h|
+|#|ravens-hike-c34341|Ravens Hike|3,19€|60|2024-05-07 15h|2024-05-14 15h|
+|#|red-ronin-d2678c|Red Ronin|5,99€|60|2024-05-07 15h|2024-05-14 15h|
 |#|royal-defense-invisible-threat-b39335|Royal Defense - Invisible Threat|4,49€|60|2024-04-30 15h|2024-05-07 15h|
 |#|saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited|Saviors of Sapphire Wings & Strangers of Sword City Revisited|49,99€|60|2024-04-27 15h|2024-05-06 14h|
 |#|sephonie-6ab6f7|Sephonie|15,99€|60|2024-05-16 15h|2024-06-13 15h|
@@ -277,6 +280,7 @@
 |#|they-are-coming-a17087|They Are Coming|9,99€|60|2024-04-11 15h|2024-04-25 15h|
 |#|tinykin-d1a022|Tinykin|19,99€|60|2024-04-11 15h|2024-04-25 15h|
 |#|trackmania-turbo|Trackmania Turbo|39,99€|60|2024-04-11 15h|2024-04-25 15h|
+|#|upaon-a-snakes-journey-672f92|Upaon A Snakes Journey|1,99€|60|2024-05-07 15h|2024-05-14 15h|
 |#|volley-pals-0120b4|Volley Pals|4,49€|60|2024-04-11 15h|2024-04-25 15h|
 |#|yuppie-psycho|Yuppie Psycho: Executive Edition|16,66€|60|2024-04-11 15h|2024-04-25 15h|
 |#|imp-of-the-sun|Imp of the Sun|19,99€|57|2024-04-11 15h|2024-04-25 15h|
@@ -431,6 +435,7 @@
 |#|travel-cuisine-2-sweet-life-7a4239|Travel Cuisine 2: Sweet Life|4,49€|50|2024-04-30 15h|2024-05-07 15h|
 |#|tyrants-blessing-02fddd|Tyrants Blessing|19,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|ugly-da09b2|Ugly|17,99€|50|2024-04-30 15h|2024-05-07 15h|
+|#|undergrave-4d084b|Undergrave|7,99€|50|2024-05-07 15h|2024-05-14 15h|
 |#|unspottable|Unspottable|9,99€|50|2024-05-16 15h|2024-06-13 15h|
 |#|unusual-findings-6997e3|Unusual Findings|19,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|meiqi2023-08a61e|With in the Obscurity|1,79€|50|2024-04-05 16h|2024-04-20 15h|
@@ -448,6 +453,7 @@
 |#|red-glare-0c98c5|Red Glare|13,49€|42|2024-04-11 15h|2024-04-25 15h|
 |#|achilles-legends-untold-bb77ad|Achilles Legends Untold|22,99€|40|2024-04-11 15h|2024-04-25 15h|
 |#|assassins-creed-mirage|Assassin's Creed® Mirage|49,99€|40|2024-04-08 15h|2024-04-15 15h|
+|#|berzerk-recharged-c35563|Berzerk Recharged|8,99€|40|2024-05-16 15h|2024-06-13 15h|
 |#|blazing-sails|Blazing Sails|14,79€|40|2024-04-11 15h|2024-04-25 15h|
 |#|cat-slide-tiles-93b9d4|Cat Slide Tiles|1,79€|40|2024-04-23 15h|2024-04-30 15h|
 |#|coromon-d4ef84|Coromon|15,99€|40|2024-04-11 15h|2024-04-25 15h|

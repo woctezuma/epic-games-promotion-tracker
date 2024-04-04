@@ -453,10 +453,14 @@
 |#|griddlers-victorian-picnic-fcc2ab|Griddlers Victorian Picnic|4,49€|70|2024-05-07 15h|2024-05-14 15h|
 |#|island-idle-rpg-350c2e|Island Idle RPG|4,49€|30|2024-05-07 15h|2024-05-14 15h|
 |#|mysteries-of-the-undead-46140a|Mysteries of the Undead|4,49€|50|2024-05-07 15h|2024-05-14 15h|
+|#|ravens-hike-c34341|Ravens Hike|3,19€|60|2024-05-07 15h|2024-05-14 15h|
+|#|red-ronin-d2678c|Red Ronin|5,99€|60|2024-05-07 15h|2024-05-14 15h|
 |#|road-defense-outsiders-22e4ba|Road Defense: Outsiders|2,99€|20|2024-05-07 15h|2024-05-14 15h|
 |#|sakura-day-mahjong-007b44|Sakura Day Mahjong|4,49€|30|2024-05-07 15h|2024-05-14 15h|
 |#|shadow-gambit-the-cursed-crew-0bca60|Shadow Gambit: The Cursed Crew|39,99€|25|2024-05-07 15h|2024-05-14 15h|
 |#|travel-cuisine-collectors-edition-f24880|Travel Cuisine Collector's Edition|4,49€|40|2024-05-07 15h|2024-05-14 15h|
+|#|undergrave-4d084b|Undergrave|7,99€|50|2024-05-07 15h|2024-05-14 15h|
+|#|upaon-a-snakes-journey-672f92|Upaon A Snakes Journey|1,99€|60|2024-05-07 15h|2024-05-14 15h|
 |#|oxide-room-104-4c1249|Oxide Room 104|17,99€|75|2024-05-08 12h|2024-05-19 10h|
 |#|timothy-vs-the-aliens-2f5b36|Timothy vs the Aliens|13,49€|80|2024-05-08 12h|2024-05-19 10h|
 |#|birch-simulator-21969e|Birch Simulator|0,89€|50|2024-05-04 22h|2024-05-19 22h|
@@ -495,6 +499,7 @@
 |#|brok-the-investigator-fb0513|BROK the InvestiGator|17,99€|33|2024-05-16 15h|2024-06-13 15h|
 |#|back-then-2072ca|Back Then|11,69€|25|2024-05-16 15h|2024-06-13 15h|
 |#|below-the-stone-2be6fa|Below the Stone|17,99€|20|2024-05-16 15h|2024-06-13 15h|
+|#|berzerk-recharged-c35563|Berzerk Recharged|8,99€|40|2024-05-16 15h|2024-06-13 15h|
 |#|biped|Biped|12,49€|70|2024-05-16 15h|2024-06-13 15h|
 |#|cartel-tycoon|Cartel Tycoon|26,99€|60|2024-05-16 15h|2024-06-13 15h|
 |#|carto|Carto|19,99€|70|2024-05-16 15h|2024-06-13 15h|
@@ -504,6 +509,7 @@
 |#|crying-suns|Crying Suns|21,99€|70|2024-05-16 15h|2024-06-13 15h|
 |#|curse-of-the-sea-rats-8f28b1|Curse of the Sea Rats|17,99€|35|2024-05-16 15h|2024-06-13 15h|
 |#|cursed-castilla-maldita-castilla-ex-adaa43|Cursed Castilla (Maldita Castilla EX)|11,99€|40|2024-05-16 15h|2024-06-13 15h|
+|#|down-in-bermuda|Down in Bermuda|15,99€|90|2024-05-16 15h|2024-06-13 15h|
 |#|eastern-exorcist-d49923|Eastern Exorcist|16,19€|30|2024-05-16 15h|2024-06-13 15h|
 |#|ebenezer-and-the-invisible-world-9241e7|Ebenezer and the Invisible World|19,99€|20|2024-05-16 15h|2024-06-13 15h|
 |#|effie-f06e3c|Effie|16,79€|75|2024-05-16 15h|2024-06-13 15h|

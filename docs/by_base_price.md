@@ -268,6 +268,7 @@
 |#|cook-serve-delicious-3-fb9aae|Cook, Serve, Delicious! 3?!|15,99€|75|2024-04-09 15h|2024-04-16 15h|
 |#|coromon-d4ef84|Coromon|15,99€|40|2024-04-11 15h|2024-04-25 15h|
 |#|double-cross-08a736|Double Cross|15,99€|80|2024-04-30 15h|2024-05-07 15h|
+|#|down-in-bermuda|Down in Bermuda|15,99€|90|2024-05-16 15h|2024-06-13 15h|
 |#|elderand-09e6bc|Elderand|15,99€|50|2024-04-30 15h|2024-05-07 15h|
 |#|expedition-zero-d2c4c3|Expedition Zero|15,99€|75|2024-04-11 15h|2024-04-25 15h|
 |#|guardians-of-hyelore-0b07d3|Guardians of Hyelore|15,99€|80|2024-04-11 15h|2024-04-25 15h|
@@ -418,6 +419,7 @@
 |#|masterplan-tycoon-379d81|Masterplan Tycoon|9,75€|35|2024-04-09 15h|2024-04-16 15h|
 |#|angry-video-game-nerd-1-and-2-deluxe-1eea79|Angry Video Game Nerd I & II Deluxe|8,99€|30|2024-04-11 15h|2024-04-25 15h|
 |#|arctico-c29f1d|Arctico|8,99€|80|2024-04-09 15h|2024-04-16 15h|
+|#|berzerk-recharged-c35563|Berzerk Recharged|8,99€|40|2024-05-16 15h|2024-06-13 15h|
 |#|chicken-journey-415550|Chicken Journey|8,99€|25|2024-04-11 15h|2024-04-25 15h|
 |#|eden-island-8cd344|Eden Island|8,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|eigengrau-62aef0|Eigengrau|8,99€|50|2024-05-16 15h|2024-06-13 15h|
@@ -458,6 +460,7 @@
 |#|the-uncertain-last-quiet-day|The Uncertain: Last Quiet Day|7,99€|85|2024-05-16 15h|2024-06-13 15h|
 |#|the-uncertain-light-at-the-end|The Uncertain: Light at the End|7,99€|85|2024-05-16 15h|2024-06-13 15h|
 |#|train-valley-ead642|Train Valley|7,99€|85|2024-05-16 15h|2024-06-13 15h|
+|#|undergrave-4d084b|Undergrave|7,99€|50|2024-05-07 15h|2024-05-14 15h|
 |#|crosshair-x-5d70eb|Crosshair X|7,19€|20|2024-05-16 15h|2024-06-13 15h|
 |#|dizzy-fight-7bbfe7|Dizzy Fight|7,19€|50|2024-04-11 15h|2024-04-25 15h|
 |#|fortune-follow-the-mansion-bad0b2|Fortune Follow: The Mansion|7,19€|40|2024-04-09 05h|2024-04-22 04h|
@@ -474,6 +477,7 @@
 |#|dark-journey-the-fate-of-the-demon-king-4bf628|Dark Journey:The Fate of the Demon King|6,29€|15|2024-04-09 15h|2024-04-16 15h|
 |#|i-want-to-be-alive-0fcb6e|I Want to be Alive|6,29€|40|2024-04-11 15h|2024-04-25 15h|
 |#|sunlight-scream-de8642|Sunlight Scream|6,29€|50|2024-04-11 15h|2024-04-25 15h|
+|#|red-ronin-d2678c|Red Ronin|5,99€|60|2024-05-07 15h|2024-05-14 15h|
 |#|true-hate-007027|True Hate|5,99€|90|2024-05-17 22h|2024-06-01 22h|
 |#|black-hair-girl-is-best-girl-415031|Black Hair Girl is Best Girl|5,39€|33|2024-04-11 15h|2024-04-25 15h|
 |#|forest-fire-b4bb7e|Forest Fire|5,39€|35|2024-06-01 07h|2024-06-14 07h|
@@ -567,6 +571,7 @@
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|60|2024-05-24 21h|2024-05-31 21h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|60|2024-06-30 21h|2024-07-07 21h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|65|2024-08-06 21h|2024-08-13 21h|
+|#|ravens-hike-c34341|Ravens Hike|3,19€|60|2024-05-07 15h|2024-05-14 15h|
 |#|road-defense-outsiders-22e4ba|Road Defense: Outsiders|2,99€|20|2024-05-07 15h|2024-05-14 15h|
 |#|aya-and-naya-b7791e|Aya & Naya|2,69€|80|2024-04-14 22h|2024-04-30 22h|
 |#|dark-fantasy-2-jigsaw-puzzle-d65d41|Dark Fantasy 2: Jigsaw Puzzle|2,69€|50|2024-04-11 15h|2024-04-25 15h|
@@ -584,6 +589,7 @@
 |#|kao-the-kangaroo-2000-rerelease-1b53f5|Kao the Kangaroo - 2000 re-release|1,99€|50|2024-04-09 15h|2024-04-16 15h|
 |#|kao-the-kangaroo-mystery-of-the-volcano-4b433a|Kao the Kangaroo - Mystery of the Volcano|1,99€|50|2024-04-09 15h|2024-04-16 15h|
 |#|kao-the-kangaroo-round-2-5d4d25|Kao the Kangaroo - Round 2|1,99€|50|2024-04-09 15h|2024-04-16 15h|
+|#|upaon-a-snakes-journey-672f92|Upaon A Snakes Journey|1,99€|60|2024-05-07 15h|2024-05-14 15h|
 |#|cat-slide-tiles-93b9d4|Cat Slide Tiles|1,79€|40|2024-04-23 15h|2024-04-30 15h|
 |#|evalinathe-sorceress-a9a60a|Evalina The Sorceress|1,79€|90|2024-04-04 22h|2024-05-04 22h|
 |#|floppa-the-dark-forest-518460|Floppa: The Dark Forest|1,79€|75|2024-04-09 23h|2024-04-29 23h|
