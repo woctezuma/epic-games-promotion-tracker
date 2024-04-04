@@ -747,6 +747,15 @@
     "title": "Blue Fire"
   },
   {
+    "discountPercentage": 80,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "bob-a-thousand-lives-802452",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Bob A thousand lives - Enhanced Edition"
+  },
+  {
     "discountPercentage": 18,
     "endDate": "2024-06-30T22:00:00.000Z",
     "isFree": false,
