@@ -530,6 +530,7 @@
 |#|prison-architect|Prison Architect|29,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|pro-basketball-manager-2024-5c764f|Pro Basketball Manager 2024|26,99€|40|2024-05-16 15h|2024-06-13 15h|
 |#|ring-of-pain|Ring of Pain|19,99€|70|2024-05-16 15h|2024-06-13 15h|
+|#|rising-mist-36ba97|Rising Mist|13,49€|45|2024-05-16 15h|2024-06-13 15h|
 |#|sailingera-450a80|Sailing Era|19,99€|30|2024-05-16 15h|2024-06-13 15h|
 |#|satisfactory|Satisfactory|29,99€|50|2024-05-16 15h|2024-06-13 15h|
 |#|sea-of-dreams-32035a|Sea of Dreams|2,69€|50|2024-05-16 15h|2024-06-13 15h|
@@ -565,6 +566,7 @@
 |#|turbo-overkill-c5e3c7|Turbo Overkill|24,50€|30|2024-05-16 15h|2024-06-13 15h|
 |#|universe-sandbox|Universe Sandbox|23,99€|33|2024-05-16 15h|2024-06-13 15h|
 |#|unspottable|Unspottable|9,99€|50|2024-05-16 15h|2024-06-13 15h|
+|#|urban-tale-75b4f0|Urban Tale|12,59€|45|2024-05-16 15h|2024-06-13 15h|
 |#|void-bastards|Void Bastards|27,99€|70|2024-05-16 15h|2024-06-13 15h|
 |#|warmsnow-7e3180|WarmSnow|13,99€|30|2024-05-16 15h|2024-06-13 15h|
 |#|next-game-c139be|Zi|8,99€|50|2024-05-16 15h|2024-06-13 15h|
