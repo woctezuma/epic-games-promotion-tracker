@@ -234,6 +234,15 @@
     "title": "Alice's Jigsaw. Wonderland Chronicles 2"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2024-05-29T23:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "ancient-enemy",
+    "startDate": "2024-05-15T23:00:00.000Z",
+    "title": "Ancient Enemy"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -2043,6 +2052,15 @@
     "title": "Geometric Sniper - Blood in Paris"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2024-04-18T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 2999,
+    "slug": "ghostrunner",
+    "startDate": "2024-04-11T15:00:00.000Z",
+    "title": "Ghostrunner"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -2212,6 +2230,15 @@
     "slug": "he-will-shoot-46efff",
     "startDate": "2024-06-14T22:00:00.000Z",
     "title": "He Will Shoot"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-04-14T09:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "heavy-burden-e689c4",
+    "startDate": "2024-04-07T09:00:00.000Z",
+    "title": "Heavy Burden"
   },
   {
     "discountPercentage": 34,
@@ -3058,6 +3085,15 @@
     "slug": "morels-ed7501",
     "startDate": "2024-05-16T15:00:00.000Z",
     "title": "Morels: The Hunt"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3599,
+    "slug": "mortal-online-2-d7bb78",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Mortal Online 2"
   },
   {
     "discountPercentage": 50,
