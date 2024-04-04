@@ -639,6 +639,15 @@
     "title": "Backrooms: Eight Levels"
   },
   {
+    "discountPercentage": 65,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1619,
+    "slug": "beholder-3-d23253",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Beholder 3"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2024-06-13T15:00:00.000Z",
     "isFree": false,
@@ -1024,6 +1033,15 @@
     "slug": "christmas-mahjong-2-27e98b",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Christmas Mahjong 2"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2999,
+    "slug": "cities-skylines",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Cities: Skylines"
   },
   {
     "discountPercentage": 30,
@@ -2610,6 +2628,15 @@
     "title": "LEGO\u00ae Builder's Journey"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2024-05-09T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "lego-star-wars-the-skywalker-saga",
+    "startDate": "2024-05-02T15:00:00.000Z",
+    "title": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -3123,6 +3150,15 @@
     "title": "Mystery Solitaire. The Black Raven"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 239,
+    "slug": "necrosmith-b2ef15",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Necrosmith"
+  },
+  {
     "discountPercentage": 67,
     "endDate": "2024-04-16T15:00:00.000Z",
     "isFree": false,
@@ -3318,6 +3354,15 @@
     "originalPrice": 1349,
     "slug": "orten-was-the-case-d108fb",
     "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Orten Was The Case"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2024-08-09T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "orten-was-the-case-d108fb",
+    "startDate": "2024-08-05T08:00:00.000Z",
     "title": "Orten Was The Case"
   },
   {
@@ -4302,6 +4347,15 @@
     "title": "Solitaire Game Halloween"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1950,
+    "slug": "song-of-farca-1eb3f2",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Song of Farca"
+  },
+  {
     "discountPercentage": 10,
     "endDate": "2024-04-12T13:00:00.000Z",
     "isFree": false,
@@ -5238,6 +5292,15 @@
     "title": "The Wolf Among Us"
   },
   {
+    "discountPercentage": 65,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "they-always-run-965bb3",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "They Always Run"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -5695,6 +5758,15 @@
     "slug": "world-of-art-learn-with-jigsaw-puzzles-c908c2",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "WORLD OF ART - learn with JIGSAW PUZZLES"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 689,
+    "slug": "wall-world-02e132",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Wall World"
   },
   {
     "discountPercentage": 70,
