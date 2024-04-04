@@ -630,6 +630,15 @@
     "title": "Below the Stone"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "berzerk-recharged-c35563",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Berzerk Recharged"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -1438,6 +1447,15 @@
     "slug": "double-cross-08a736",
     "startDate": "2024-04-30T15:00:00.000Z",
     "title": "Double Cross"
+  },
+  {
+    "discountPercentage": 90,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "down-in-bermuda",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Down in Bermuda"
   },
   {
     "discountPercentage": 70,
@@ -3681,6 +3699,15 @@
     "title": "Rainbow Pixel - Color by Number"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2024-05-14T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 319,
+    "slug": "ravens-hike-c34341",
+    "startDate": "2024-05-07T15:00:00.000Z",
+    "title": "Ravens Hike"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -3697,6 +3724,15 @@
     "slug": "red-glare-0c98c5",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Red Glare"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-05-14T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 599,
+    "slug": "red-ronin-d2678c",
+    "startDate": "2024-05-07T15:00:00.000Z",
+    "title": "Red Ronin"
   },
   {
     "discountPercentage": 80,
@@ -5463,6 +5499,15 @@
     "title": "Ugly"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-05-14T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 799,
+    "slug": "undergrave-4d084b",
+    "startDate": "2024-05-07T15:00:00.000Z",
+    "title": "Undergrave"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2024-05-07T15:00:00.000Z",
     "isFree": false,
@@ -5515,6 +5560,15 @@
     "slug": "unusual-findings-6997e3",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Unusual Findings"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-05-14T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 199,
+    "slug": "upaon-a-snakes-journey-672f92",
+    "startDate": "2024-05-07T15:00:00.000Z",
+    "title": "Upaon A Snakes Journey"
   },
   {
     "discountPercentage": 45,
