@@ -292,7 +292,7 @@
 |#|black-academy-ed8e11|Black Academy|15,79€|60|2024-04-11 15h|2024-04-25 15h|
 |#|clem-d637c0|CLeM|15,79€|15|2024-04-11 15h|2024-04-25 15h|
 |#|farwest-colony-aaa81c|FarWest Colony|15,29€|50|2024-05-16 15h|2024-06-13 15h|
-|#|sir-whoopass-757c5c|Sir Whoopass - Immortal Death|15,29€|50|2024-05-16 15h|2024-06-13 15h|
+|#|sir-whoopass-757c5c|Sir Whoopass - Immortal Death|15,29€|30|2024-05-16 15h|2024-06-13 15h|
 |#|anno-1404|Anno 1404 History Edition|14,99€|70|2024-04-11 15h|2024-04-25 15h|
 |#|anuchard-08179d|Anuchard|14,99€|70|2024-04-11 15h|2024-04-25 15h|
 |#|blood-and-zombies-4273b6|Blood and Zombies|14,99€|67|2024-04-11 15h|2024-04-25 15h|

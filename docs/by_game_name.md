@@ -469,7 +469,7 @@
 |#|silt-6ca919|Silt|14,99€|54|2024-04-11 15h|2024-04-25 15h|
 |#|silver-chains-0d3bd1|Silver Chains|24,99€|90|2024-04-04 15h|2024-04-11 15h|
 |#|sine-mora-ex-d4fd23|Sine Mora Ex|9,99€|85|2024-04-09 15h|2024-04-16 15h|
-|#|sir-whoopass-757c5c|Sir Whoopass - Immortal Death|15,29€|50|2024-05-16 15h|2024-06-13 15h|
+|#|sir-whoopass-757c5c|Sir Whoopass - Immortal Death|15,29€|30|2024-05-16 15h|2024-06-13 15h|
 |#|skotos-455463|Skotos|13,49€|30|2024-05-01 06h|2024-05-30 06h|
 |#|skotos-455463|Skotos|13,49€|30|2024-08-01 06h|2024-08-30 06h|
 |#|skotos-455463|Skotos|13,49€|30|2024-11-01 06h|2024-11-30 07h|

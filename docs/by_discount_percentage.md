@@ -402,7 +402,6 @@
 |#|serbian-dancing-lady-94e658|Serbian Dancing Lady|0,89€|50|2024-06-30 22h|2024-07-15 22h|
 |#|shadows-price-for-our-sins-29e42e|Shadows. Price For Our Sins|5,39€|50|2024-04-11 15h|2024-04-25 15h|
 |#|sifu|Sifu|39,99€|50|2024-04-11 15h|2024-04-25 15h|
-|#|sir-whoopass-757c5c|Sir Whoopass - Immortal Death|15,29€|50|2024-05-16 15h|2024-06-13 15h|
 |#|solitaire-game-halloween-5268c1|Solitaire Game Halloween|4,49€|50|2024-05-14 15h|2024-05-21 15h|
 |#|spiderbro-2-8d3665|Spiderbro 2|5,39€|50|2024-04-11 15h|2024-04-25 15h|
 |#|steal-then-just-escape-87b7b6|Steal, Then Just Escape|3,69€|50|2024-06-27 16h|2024-07-11 16h|
@@ -562,6 +561,7 @@
 |#|sailingera-450a80|Sailing Era|19,99€|30|2024-05-16 15h|2024-06-13 15h|
 |#|sakura-day-mahjong-007b44|Sakura Day Mahjong|4,49€|30|2024-05-07 15h|2024-05-14 15h|
 |#|shuyan-saga-cd1476|Shuyan Saga|14,99€|30|2024-04-11 15h|2024-04-25 15h|
+|#|sir-whoopass-757c5c|Sir Whoopass - Immortal Death|15,29€|30|2024-05-16 15h|2024-06-13 15h|
 |#|skotos-455463|Skotos|13,49€|30|2024-05-01 06h|2024-05-30 06h|
 |#|skotos-455463|Skotos|13,49€|30|2024-08-01 06h|2024-08-30 06h|
 |#|skotos-455463|Skotos|13,49€|30|2024-11-01 06h|2024-11-30 07h|
