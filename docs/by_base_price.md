@@ -360,6 +360,7 @@
 |#|double-cross-08a736|Double Cross|15,99€|80|2024-04-30 15h|2024-05-07 15h|
 |#|down-in-bermuda|Down in Bermuda|15,99€|90|2024-05-16 15h|2024-06-13 15h|
 |#|elderand-09e6bc|Elderand|15,99€|50|2024-04-30 15h|2024-05-07 15h|
+|#|escape-academy-bfc2bf|Escape Academy|15,99€|50|2024-04-18 16h|2024-04-26 16h|
 |#|expedition-zero-d2c4c3|Expedition Zero|15,99€|75|2024-04-11 15h|2024-04-25 15h|
 |#|guardians-of-hyelore-0b07d3|Guardians of Hyelore|15,99€|80|2024-04-11 15h|2024-04-25 15h|
 |#|inertial-drift|Inertial Drift|15,99€|85|2024-05-16 15h|2024-06-13 15h|

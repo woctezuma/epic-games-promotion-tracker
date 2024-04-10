@@ -206,6 +206,7 @@
 |#|endlessdungeonnewgene|ENDLESS™ Dungeon|29,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|endlessdungeonnewgene|ENDLESS™ Dungeon|29,99€|50|2024-05-30 14h|2024-06-13 14h|
 |#|endwar|Tom Clancy's EndWar|9,99€|70|2024-04-11 15h|2024-04-25 15h|
+|#|escape-academy-bfc2bf|Escape Academy|15,99€|50|2024-04-18 16h|2024-04-26 16h|
 |#|eternal-supreme-a3866b|Peerless Destiny|8,09€|20|2024-04-21 03h|2024-04-28 03h|
 |#|eternights-c2fbca|Eternights|29,99€|40|2024-04-11 15h|2024-04-25 15h|
 |#|europa-universalis-iv|Europa Universalis IV|39,99€|70|2024-05-16 15h|2024-06-13 15h|

@@ -290,6 +290,7 @@
 |#|zombi|ZOMBI|15,99€|75|2024-04-11 15h|2024-04-25 15h|
 |#|hidden-shapes-animals-0fca0f|Hidden Shapes Animals|0,89€|15|2024-04-18 17h|2024-04-25 17h|
 |#|hidden-shapes-lovely-cats-6bfb39|Hidden Shapes Lovely Cats|0,89€|15|2024-04-14 17h|2024-04-25 17h|
+|#|escape-academy-bfc2bf|Escape Academy|15,99€|50|2024-04-18 16h|2024-04-26 16h|
 |#|peerless-destiny-chinese-838f90|Peerless Destiny|8,09€|20|2024-04-20 12h|2024-04-27 12h|
 |#|fur-squadron-0042b8|FUR Squadron|6,29€|50|2024-04-20 23h|2024-04-27 23h|
 |#|eternal-supreme-a3866b|Peerless Destiny|8,09€|20|2024-04-21 03h|2024-04-28 03h|

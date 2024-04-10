@@ -296,6 +296,7 @@
 |#|trigon-ce1936|Trigon: Space Story|19,99€|70|2024-04-16 15h|2024-04-23 15h|
 |#|island-paradise-6a6d26|Island Paradise|17,09€|25|2024-04-17 13h|2024-04-24 05h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|55|2024-04-17 21h|2024-04-24 21h|
+|#|escape-academy-bfc2bf|Escape Academy|15,99€|50|2024-04-18 16h|2024-04-26 16h|
 |#|hidden-shapes-animals-0fca0f|Hidden Shapes Animals|0,89€|15|2024-04-18 17h|2024-04-25 17h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|75|2024-04-19 22h|2024-05-04 22h|
 |#|peerless-destiny-chinese-838f90|Peerless Destiny|8,09€|20|2024-04-20 12h|2024-04-27 12h|
