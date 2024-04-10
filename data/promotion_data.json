@@ -1368,6 +1368,15 @@
     "title": "DOOMBLADE"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-05-20T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "dragon-quest-xi-s-echoes-of-an-elusive-age",
+    "startDate": "2024-05-06T15:00:00.000Z",
+    "title": "DRAGON QUEST\u00ae XI S: Echoes of an Elusive Age\u2122"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -1935,6 +1944,15 @@
     "title": "F.I.S.T.: Forged In Shadow Torch"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-05-20T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 7999,
+    "slug": "final-fantasy-vii-remake-intergrade",
+    "startDate": "2024-05-06T15:00:00.000Z",
+    "title": "FINAL FANTASY VII REMAKE INTERGRADE"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -2176,6 +2194,15 @@
     "slug": "forklift-extreme-deluxe-edition-50689a",
     "startDate": "2024-05-16T15:00:00.000Z",
     "title": "Forklift Extreme - Deluxe Edition"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-05-20T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 7999,
+    "slug": "forspoken",
+    "startDate": "2024-05-06T15:00:00.000Z",
+    "title": "Forspoken"
   },
   {
     "discountPercentage": 40,
@@ -2907,6 +2934,42 @@
     "title": "Just Cause 4 Reloaded"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2024-05-20T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "kingdom-hearts-hd-1-5-2-5-remix",
+    "startDate": "2024-05-06T15:00:00.000Z",
+    "title": "KINGDOM HEARTS HD 1.5+2.5 ReMIX"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-05-20T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "kingdom-hearts-hd-2-8-final-chapter-prologue",
+    "startDate": "2024-05-06T15:00:00.000Z",
+    "title": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-05-20T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "kingdom-hearts-iii",
+    "startDate": "2024-05-06T15:00:00.000Z",
+    "title": "KINGDOM HEARTS III + Re Mind (DLC)"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-05-20T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "kingdom-hearts-melody-of-memory",
+    "startDate": "2024-05-06T15:00:00.000Z",
+    "title": "KINGDOM HEARTS Melody of Memory"
+  },
+  {
     "discountPercentage": 66,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -3580,6 +3643,15 @@
     "slug": "mystery-solitaire-the-black-raven-65336d",
     "startDate": "2024-04-30T15:00:00.000Z",
     "title": "Mystery Solitaire. The Black Raven"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-05-20T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "neo-the-world-ends-with-you",
+    "startDate": "2024-05-06T15:00:00.000Z",
+    "title": "NEO: The World Ends with You"
   },
   {
     "discountPercentage": 80,
@@ -4552,6 +4624,15 @@
     "slug": "stareraabyss-border-c4fe84",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "STARS ERA: ABYSS FRONTIER"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-05-20T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "stranger-of-paradise-final-fantasy-origin",
+    "startDate": "2024-05-06T15:00:00.000Z",
+    "title": "STRANGER OF PARADISE FINAL FANTASY ORIGIN"
   },
   {
     "discountPercentage": 10,
