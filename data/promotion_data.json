@@ -5949,6 +5949,15 @@
     "title": "The Magnificent Trufflepigs"
   },
   {
+    "discountPercentage": 20,
+    "endDate": "2024-04-20T14:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "the-mims-beginning-996468",
+    "startDate": "2024-04-13T15:00:00.000Z",
+    "title": "The Mims Beginning"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-06-20T15:59:00.000Z",
     "isFree": false,
