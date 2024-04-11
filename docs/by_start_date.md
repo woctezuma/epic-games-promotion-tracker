@@ -1,5 +1,6 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
+|#|revival-recolonization-8f1705|Revival: Recolonization|26,99€|20|2024-04-11 14h|2024-04-18 14h|
 |#|1001-jigsaw-castles-and-palaces-b256df|1001 Jigsaw Castles And Palaces|4,49€|50|2024-04-11 15h|2024-04-25 15h|
 |#|1001-jigsaw-home-sweet-home-1b1e16|1001 Jigsaw. Home Sweet Home|4,49€|50|2024-04-11 15h|2024-04-25 15h|
 |#|dying-light-2nd-anniversary-bundle|2nd Anniversary Bundle|65,99€|50|2024-04-11 15h|2024-04-25 15h|
