@@ -2125,6 +2125,15 @@
   },
   {
     "discountPercentage": 55,
+    "endDate": "2024-05-21T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "fire-commander-df24ad",
+    "startDate": "2024-05-14T15:00:00.000Z",
+    "title": "Fire Commander"
+  },
+  {
+    "discountPercentage": 55,
     "endDate": "2024-06-13T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1799,
