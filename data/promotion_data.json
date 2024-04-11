@@ -3294,6 +3294,15 @@
     "title": "LunarLux"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2024-05-14T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3999,
+    "slug": "my-little-pony-a-maretime-bay-adventure-6a2cce",
+    "startDate": "2024-05-07T15:00:00.000Z",
+    "title": "MY LITTLE PONY A Maretime Bay Adventure"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-05-07T15:00:00.000Z",
     "isFree": false,
@@ -4294,7 +4303,7 @@
   },
   {
     "discountPercentage": 25,
-    "endDate": "2024-06-03T06:00:00.000Z",
+    "endDate": "2024-06-10T06:00:00.000Z",
     "isFree": false,
     "originalPrice": 8999,
     "slug": "rpgunite-819421",
