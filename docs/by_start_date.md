@@ -432,6 +432,7 @@
 |#|the-inheritance-of-crimson-manor-81bc67|The Inheritance of Crimson Manor|17,99€|80|2024-05-11 14h|2024-05-26 07h|
 |#|street-fighting-simulator-40f23a|Street Fighting Simulator|0,89€|50|2024-05-11 22h|2024-05-29 22h|
 |#|steal-then-just-escape-87b7b6|Steal, Then Just Escape|3,69€|60|2024-05-13 16h|2024-05-24 16h|
+|#|fire-commander-df24ad|Fire Commander|11,99€|55|2024-05-14 15h|2024-05-21 15h|
 |#|solitaire-game-halloween-5268c1|Solitaire Game Halloween|4,49€|50|2024-05-14 15h|2024-05-21 15h|
 |#|spooky-mahjong-b9f12c|Spooky Mahjong|4,49€|60|2024-05-14 15h|2024-05-21 15h|
 |#|royal-defense-d046db|The Empress of Mahjong|4,49€|50|2024-05-14 15h|2024-05-21 15h|
