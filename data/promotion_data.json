@@ -4501,15 +4501,6 @@
   },
   {
     "discountPercentage": 20,
-    "endDate": "2024-04-18T14:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2699,
-    "slug": "revival-recolonization-8f1705",
-    "startDate": "2024-04-11T14:00:00.000Z",
-    "title": "Revival: Recolonization"
-  },
-  {
-    "discountPercentage": 20,
     "endDate": "2024-04-28T16:00:00.000Z",
     "isFree": false,
     "originalPrice": 1799,
@@ -5092,6 +5083,15 @@
     "slug": "slaycation-paradise-47a603",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Slaycation Paradise"
+  },
+  {
+    "discountPercentage": 20,
+    "endDate": "2024-04-23T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 179,
+    "slug": "slide-stories-buckys-quest-4c9f6e",
+    "startDate": "2024-04-16T15:00:00.000Z",
+    "title": "Slide Stories - Bucky's Quest"
   },
   {
     "discountPercentage": 30,
