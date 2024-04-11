@@ -499,7 +499,6 @@
 |#|retreat-to-enen-60ef78|Retreat To Enen|24,99€|50|2024-04-11 15h|2024-04-25 15h|
 |#|return-of-red-riding-hood-enhanced-edition-3598e4|Return of Red Riding Hood Enhanced Edition|2,69€|60|2024-04-30 15h|2024-05-07 15h|
 |#|revenge-of-the-ronin-faff20|Revenge Of The Ronin|8,99€|65|2024-04-11 15h|2024-04-25 15h|
-|#|revival-recolonization-8f1705|Revival: Recolonization|26,99€|20|2024-04-11 14h|2024-04-18 14h|
 |#|revive-and-prosper-267559|Revive and Prosper|17,99€|20|2024-04-21 16h|2024-04-28 16h|
 |#|rez-plz-324485|REZ PLZ|11,99€|80|2024-04-30 15h|2024-05-07 15h|
 |#|rhythm-sprout|Rhythm Sprout: Sick Beats & Bad Sweets|14,79€|70|2024-04-11 15h|2024-04-25 15h|
@@ -563,6 +562,7 @@
 |#|skotos-455463|Skotos|13,49€|30|2024-08-01 06h|2024-08-30 06h|
 |#|skotos-455463|Skotos|13,49€|30|2024-11-01 06h|2024-11-30 07h|
 |#|slaycation-paradise-47a603|Slaycation Paradise|11,99€|75|2024-04-11 15h|2024-04-25 15h|
+|#|slide-stories-buckys-quest-4c9f6e|Slide Stories - Bucky's Quest|1,79€|20|2024-04-16 15h|2024-04-23 15h|
 |#|smalland|Smalland: Survive the Wilds|34,99€|30|2024-04-23 15h|2024-04-30 15h|
 |#|solitaire-game-halloween-5268c1|Solitaire Game Halloween|4,49€|50|2024-05-14 15h|2024-05-21 15h|
 |#|song-of-farca-1eb3f2|Song of Farca|19,50€|75|2024-05-16 15h|2024-06-13 15h|

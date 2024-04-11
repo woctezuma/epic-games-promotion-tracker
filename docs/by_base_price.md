@@ -150,7 +150,6 @@
 |#|earthlock-e7d979|EARTHLOCK|26,99€|90|2024-04-11 15h|2024-04-25 15h|
 |#|marble-it-up-ultra-7b5692|Marble It Up! Ultra|26,99€|60|2024-05-01 07h|2024-05-14 07h|
 |#|pro-basketball-manager-2024-5c764f|Pro Basketball Manager 2024|26,99€|40|2024-05-16 15h|2024-06-13 15h|
-|#|revival-recolonization-8f1705|Revival: Recolonization|26,99€|20|2024-04-11 14h|2024-04-18 14h|
 |#|art-of-rally|Art of Rally|24,99€|45|2024-04-11 15h|2024-04-25 15h|
 |#|batora-lost-haven-1773c3|Batora: Lost Haven|24,99€|60|2024-05-16 15h|2024-06-13 15h|
 |#|blasphemous|Blasphemous|24,99€|75|2024-05-16 15h|2024-06-13 15h|
@@ -742,6 +741,7 @@
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|75|2024-06-05 22h|2024-06-19 22h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|75|2024-07-21 22h|2024-08-07 22h|
 |#|space-war-infinity-024a8f|SPACE WAR - INFINITY|1,79€|50|2024-04-30 15h|2024-05-07 15h|
+|#|slide-stories-buckys-quest-4c9f6e|Slide Stories - Bucky's Quest|1,79€|20|2024-04-16 15h|2024-04-23 15h|
 |#|unlock-the-cat-487fac|Unlock The Cat|1,79€|40|2024-04-30 15h|2024-05-07 15h|
 |#|he-will-shoot-46efff|He Will Shoot|1,59€|70|2024-04-25 22h|2024-05-13 22h|
 |#|he-will-shoot-46efff|He Will Shoot|1,59€|75|2024-06-14 22h|2024-06-29 22h|
