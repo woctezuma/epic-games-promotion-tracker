@@ -357,6 +357,7 @@
 |#|yuppie-psycho|Yuppie Psycho: Executive Edition|16,66€|60|2024-04-11 15h|2024-04-25 15h|
 |#|imp-of-the-sun|Imp of the Sun|19,99€|57|2024-04-11 15h|2024-04-25 15h|
 |#|bramble-the-mountain-king-c0d1c6|Bramble The Mountain King|26,99€|55|2024-04-11 15h|2024-04-25 15h|
+|#|fire-commander-df24ad|Fire Commander|11,99€|55|2024-05-14 15h|2024-05-21 15h|
 |#|firegirl-29bf39|Firegirl: Hack 'n Splash Rescue DX|17,99€|55|2024-05-16 15h|2024-06-13 15h|
 |#|king-of-retail-c3ad3e|King of Retail|24,99€|55|2024-04-11 15h|2024-04-25 15h|
 |#|lego-bricktales-7ccf9b|LEGO® Bricktales|29,99€|55|2024-05-16 15h|2024-06-13 15h|
