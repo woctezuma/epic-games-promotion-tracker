@@ -366,6 +366,7 @@
 |#|love-yuri-b962f0|Love Yuri|2,69€|30|2024-04-11 15h|2024-04-25 15h|
 |#|luckygoal-201ee6|Lucky Goal|4,99€|60|2024-04-30 15h|2024-05-07 15h|
 |#|lunarlux-41403d|LunarLux|19,99€|25|2024-04-11 15h|2024-04-25 15h|
+|#|my-little-pony-a-maretime-bay-adventure-6a2cce|MY LITTLE PONY A Maretime Bay Adventure|39,99€|60|2024-05-07 15h|2024-05-14 15h|
 |#|mable-and-the-wood-9bd697|Mable & The Wood|11,99€|80|2024-04-30 15h|2024-05-07 15h|
 |#|mahjong-royal-towers-e327ab|Mahjong Royal Towers|2,69€|50|2024-04-30 15h|2024-05-07 15h|
 |#|mahjong-valentines-day-6e1e50|Mahjong Valentine's Day|4,49€|70|2024-04-30 15h|2024-05-07 15h|
@@ -477,7 +478,7 @@
 |#|rez-plz-324485|REZ PLZ|11,99€|80|2024-04-30 15h|2024-05-07 15h|
 |#|ride-5|RIDE 5|59,99€|60|2024-05-16 15h|2024-06-13 15h|
 |#|rpgunite-819421|RPG MAKER UNITE|89,99€|10|2024-04-16 15h|2024-04-23 15h|
-|#|rpgunite-819421|RPG MAKER UNITE|89,99€|25|2024-05-27 06h|2024-06-03 06h|
+|#|rpgunite-819421|RPG MAKER UNITE|89,99€|25|2024-05-27 06h|2024-06-10 06h|
 |#|rpg-survivors-8bf58c|RPG Survivors|4,49€|30|2024-04-30 15h|2024-05-07 15h|
 |#|rainbow-pixel-color-by-number-462613|Rainbow Pixel - Color by Number|4,49€|50|2024-04-11 15h|2024-04-25 15h|
 |#|ravens-hike-c34341|Ravens Hike|3,19€|60|2024-05-07 15h|2024-05-14 15h|

@@ -2,7 +2,7 @@
 |---|---|---|---|---|---|---|
 |#|ea-star-wars-triple-bundle|EA STAR WARS™ TRIPLE BUNDLE|89,99€|90|2024-05-02 15h|2024-05-09 15h|
 |#|rpgunite-819421|RPG MAKER UNITE|89,99€|10|2024-04-16 15h|2024-04-23 15h|
-|#|rpgunite-819421|RPG MAKER UNITE|89,99€|25|2024-05-27 06h|2024-06-03 06h|
+|#|rpgunite-819421|RPG MAKER UNITE|89,99€|25|2024-05-27 06h|2024-06-10 06h|
 |#|final-fantasy-vii-remake-intergrade|FINAL FANTASY VII REMAKE INTERGRADE|79,99€|50|2024-05-06 15h|2024-05-20 15h|
 |#|forspoken|Forspoken|79,99€|60|2024-05-06 15h|2024-05-20 15h|
 |#|star-wars-jedi-survivor|STAR WARS Jedi: Survivor™|69,99€|55|2024-05-02 15h|2024-05-09 15h|
@@ -59,6 +59,7 @@
 |#|fuga-melodies-of-steel-2-a756d1|Fuga: Melodies of Steel 2|39,99€|30|2024-04-11 15h|2024-04-25 15h|
 |#|hot-wheels-unleashed|HOT WHEELS UNLEASHED™|39,99€|85|2024-04-11 15h|2024-04-25 15h|
 |#|kingdoms-of-amalur-re-reckoning|Kingdoms of Amalur: Re-Reckoning|39,99€|75|2024-05-16 15h|2024-06-13 15h|
+|#|my-little-pony-a-maretime-bay-adventure-6a2cce|MY LITTLE PONY A Maretime Bay Adventure|39,99€|60|2024-05-07 15h|2024-05-14 15h|
 |#|my-friend-peppa-pig-2de0dc|My Friend Peppa Pig|39,99€|50|2024-05-16 15h|2024-06-13 15h|
 |#|necromunda-hired-gun|Necromunda: Hired Gun|39,99€|75|2024-05-23 16h|2024-05-30 16h|
 |#|pathfinder-wrath-of-the-righteous|Pathfinder: Wrath of the Righteous - Enhanced Edition|39,99€|70|2024-05-16 15h|2024-06-13 15h|
