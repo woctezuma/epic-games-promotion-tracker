@@ -783,6 +783,15 @@
     "title": "Blood and Zombies"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "bloodshore-939cb0",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Bloodshore"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-05-07T15:00:00.000Z",
     "isFree": false,
@@ -2133,6 +2142,15 @@
     "title": "Fish"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "five-dates-60ef51",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Five Dates"
+  },
+  {
     "discountPercentage": 52,
     "endDate": "2024-06-13T15:00:00.000Z",
     "isFree": false,
@@ -2701,6 +2719,15 @@
   },
   {
     "discountPercentage": 40,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "i-saw-black-clouds-67008d",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "I Saw Black Clouds"
+  },
+  {
+    "discountPercentage": 40,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 629,
@@ -3141,6 +3168,15 @@
     "title": "Land of the Vikings"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "late-shift-8b0634",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Late Shift"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2024-06-13T15:00:00.000Z",
     "isFree": false,
@@ -3339,6 +3375,15 @@
     "title": "Mahokenshi"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "maid-of-sker-2ae24e",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Maid of Sker"
+  },
+  {
     "discountPercentage": 30,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -3445,6 +3490,15 @@
     "slug": "mediterranea-inferno-6a1352",
     "startDate": "2024-05-16T15:00:00.000Z",
     "title": "Mediterranea Inferno"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1259,
+    "slug": "mia-and-the-dragon-princess-f4e1d0",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Mia and the Dragon Princess"
   },
   {
     "discountPercentage": 75,
@@ -3760,6 +3814,15 @@
     "slug": "nibiru-ce8efd",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "Nibiru"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "night-book-77f2c7",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Night Book"
   },
   {
     "discountPercentage": 20,
@@ -5643,6 +5706,15 @@
     "title": "Tear of Time - Lost memory"
   },
   {
+    "discountPercentage": 35,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1529,
+    "slug": "ten-dates-9a188a",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Ten Dates"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": false,
@@ -5679,6 +5751,15 @@
     "title": "The Bookwalker: Thief of Tales"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "the-bunker-03b712",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "The Bunker"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2024-05-14T15:00:00.000Z",
     "isFree": false,
@@ -5695,6 +5776,15 @@
     "slug": "the-captain",
     "startDate": "2024-05-16T15:00:00.000Z",
     "title": "The Captain"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "the-complex-0ca5bb",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "The Complex"
   },
   {
     "discountPercentage": 80,
@@ -5839,6 +5929,15 @@
     "slug": "the-inheritance-of-crimson-manor-81bc67",
     "startDate": "2024-05-11T14:00:00.000Z",
     "title": "The Inheritance of Crimson Manor"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "the-isle-tide-hotel-adf588",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "The Isle Tide Hotel"
   },
   {
     "discountPercentage": 80,
@@ -6073,6 +6172,15 @@
     "slug": "the-settlers",
     "startDate": "2024-04-11T15:00:00.000Z",
     "title": "The Settlers\u00ae: New Allies"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "the-shapeshifting-detective-ef0f21",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "The Shapeshifting Detective"
   },
   {
     "discountPercentage": 75,
@@ -6793,6 +6901,15 @@
     "slug": "white-shadows-64e014",
     "startDate": "2024-05-16T15:00:00.000Z",
     "title": "White Shadows"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 999,
+    "slug": "who-pressed-mute-on-uncle-marucs-ee90a4",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Who Pressed Mute on Uncle Marcus?"
   },
   {
     "discountPercentage": 25,
