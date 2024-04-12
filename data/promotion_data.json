@@ -54,6 +54,15 @@
     "title": "7 Billion Humans"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "9-years-of-shadows-a40c92",
+    "startDate": "2024-05-27T15:00:00.000Z",
+    "title": "9 Years of Shadows"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-06-13T15:00:00.000Z",
     "isFree": false,
@@ -117,6 +126,15 @@
     "title": "Adventures of Chris"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 499,
+    "slug": "against-all-odds-409105",
+    "startDate": "2024-05-27T15:00:00.000Z",
+    "title": "Against All Odds"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-06-13T15:00:00.000Z",
     "isFree": false,
@@ -126,6 +144,15 @@
     "title": "Ageless"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2099,
+    "slug": "airborne-kingdom",
+    "startDate": "2024-05-27T15:00:00.000Z",
+    "title": "Airborne Kingdom"
+  },
+  {
     "discountPercentage": 45,
     "endDate": "2024-06-13T15:00:00.000Z",
     "isFree": false,
@@ -133,6 +160,15 @@
     "slug": "aircraft-carrier-survival-769456",
     "startDate": "2024-05-16T15:00:00.000Z",
     "title": "Aircraft Carrier Survival"
+  },
+  {
+    "discountPercentage": 34,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2699,
+    "slug": "airship-kingdoms-adrift-cc8448",
+    "startDate": "2024-05-27T15:00:00.000Z",
+    "title": "Airship Kingdoms Adrift"
   },
   {
     "discountPercentage": 75,
@@ -198,6 +234,15 @@
     "title": "Anodyne 2: Return To Dust"
   },
   {
+    "discountPercentage": 70,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "anuchard-08179d",
+    "startDate": "2024-05-27T15:00:00.000Z",
+    "title": "Anuchard"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-06-13T15:00:00.000Z",
     "isFree": false,
@@ -232,6 +277,15 @@
     "slug": "argonauts-agency-glove-of-midas-94bca3",
     "startDate": "2024-05-07T15:00:00.000Z",
     "title": "Argonauts Agency: Glove of Midas"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "arto-ff98ff",
+    "startDate": "2024-05-27T15:00:00.000Z",
+    "title": "Arto"
   },
   {
     "discountPercentage": 60,
@@ -477,6 +531,15 @@
     "title": "Blood Bowl 3\t"
   },
   {
+    "discountPercentage": 67,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "blood-and-zombies-4273b6",
+    "startDate": "2024-05-27T15:00:00.000Z",
+    "title": "Blood and Zombies"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2024-06-13T15:00:00.000Z",
     "isFree": false,
@@ -547,6 +610,15 @@
     "slug": "bratz-flaunt-your-fashion-95d529",
     "startDate": "2024-05-16T15:00:00.000Z",
     "title": "Bratz\u2122: Flaunt Your Fashion"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2499,
+    "slug": "broken-pieces-b1c349",
+    "startDate": "2024-05-27T15:00:00.000Z",
+    "title": "Broken Pieces"
   },
   {
     "discountPercentage": 50,
@@ -622,6 +694,15 @@
   },
   {
     "discountPercentage": 40,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "cat-cafe-manager-68bd0d",
+    "startDate": "2024-05-27T15:00:00.000Z",
+    "title": "Cat Cafe Manager"
+  },
+  {
+    "discountPercentage": 40,
     "endDate": "2024-04-30T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 179,
@@ -684,6 +765,24 @@
     "title": "Cities: Skylines"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "city-of-beats-08f8c2",
+    "startDate": "2024-05-27T15:00:00.000Z",
+    "title": "City of Beats"
+  },
+  {
+    "discountPercentage": 67,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "clouzy-c67f4b",
+    "startDate": "2024-05-27T15:00:00.000Z",
+    "title": "Clouzy"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-06-13T15:00:00.000Z",
     "isFree": false,
@@ -709,6 +808,15 @@
     "slug": "cooking-trip-new-challenge-collectors-edition-59c8df",
     "startDate": "2024-04-23T15:00:00.000Z",
     "title": "Cooking Trip New Challenge. Collector's Edition"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "coromon-d4ef84",
+    "startDate": "2024-05-27T15:00:00.000Z",
+    "title": "Coromon"
   },
   {
     "discountPercentage": 45,
@@ -864,6 +972,15 @@
     "title": "DRAGON QUEST\u00ae XI S: Echoes of an Elusive Age\u2122"
   },
   {
+    "discountPercentage": 75,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2199,
+    "slug": "dark-deity-0b08d1",
+    "startDate": "2024-05-27T15:00:00.000Z",
+    "title": "Dark Deity"
+  },
+  {
     "discountPercentage": 15,
     "endDate": "2024-04-30T15:00:00.000Z",
     "isFree": false,
@@ -990,6 +1107,15 @@
     "title": "Disgaea 6 Complete"
   },
   {
+    "discountPercentage": 50,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "doomed-lands-7e2565",
+    "startDate": "2024-05-27T15:00:00.000Z",
+    "title": "Doomed Lands"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-05-07T15:00:00.000Z",
     "isFree": false,
@@ -1006,6 +1132,15 @@
     "slug": "down-in-bermuda",
     "startDate": "2024-05-16T15:00:00.000Z",
     "title": "Down in Bermuda"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "dust-fleet-620614",
+    "startDate": "2024-05-27T15:00:00.000Z",
+    "title": "Dust Fleet"
   },
   {
     "discountPercentage": 50,
@@ -1105,6 +1240,15 @@
     "slug": "eigengrau-62aef0",
     "startDate": "2024-05-16T15:00:00.000Z",
     "title": "Eigengrau"
+  },
+  {
+    "discountPercentage": 10,
+    "endDate": "2024-04-29T22:59:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "eiyuden-chronicle-hundred-heroes",
+    "startDate": "2024-04-15T15:00:00.000Z",
+    "title": "Eiyuden Chronicle: Hundred Heroes"
   },
   {
     "discountPercentage": 50,
@@ -1422,6 +1566,15 @@
     "title": "Forspoken"
   },
   {
+    "discountPercentage": 67,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "funtasia-furry-road-bd0756",
+    "startDate": "2024-05-27T15:00:00.000Z",
+    "title": "Funtasia"
+  },
+  {
     "discountPercentage": 60,
     "endDate": "2024-06-13T05:00:00.000Z",
     "isFree": false,
@@ -1512,6 +1665,15 @@
     "title": "God's Trigger"
   },
   {
+    "discountPercentage": 67,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1199,
+    "slug": "godstrike-dad86e",
+    "startDate": "2024-05-27T15:00:00.000Z",
+    "title": "Godstrike"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-06-13T15:00:00.000Z",
     "isFree": false,
@@ -1546,6 +1708,15 @@
     "slug": "griddlers-victorian-picnic-fcc2ab",
     "startDate": "2024-05-07T15:00:00.000Z",
     "title": "Griddlers Victorian Picnic"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "guardians-of-hyelore-0b07d3",
+    "startDate": "2024-05-27T15:00:00.000Z",
+    "title": "Guardians of Hyelore"
   },
   {
     "discountPercentage": 60,
@@ -1593,6 +1764,15 @@
     "title": "He Will Shoot"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1499,
+    "slug": "hello-goodboy-4b2edb",
+    "startDate": "2024-05-27T15:00:00.000Z",
+    "title": "Hello Goodboy"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2024-05-09T17:00:00.000Z",
     "isFree": false,
@@ -1636,6 +1816,15 @@
     "slug": "hordecore",
     "startDate": "2024-05-16T15:00:00.000Z",
     "title": "HordeCore"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-06-13T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2450,
+    "slug": "house-flipper",
+    "startDate": "2024-05-16T16:00:00.000Z",
+    "title": "House Flipper"
   },
   {
     "discountPercentage": 50,
@@ -1915,6 +2104,24 @@
     "slug": "partisan-general-audience",
     "startDate": "2024-05-16T15:00:00.000Z",
     "title": "Knights of Honor II: Sovereign"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2024-04-23T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "koropokkur-in-love-b3611c",
+    "startDate": "2024-04-16T15:00:00.000Z",
+    "title": "Koropokkur in Love ~A Little Fairy\u2019s Tale~"
+  },
+  {
+    "discountPercentage": 65,
+    "endDate": "2024-07-10T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "koropokkur-in-love-b3611c",
+    "startDate": "2024-06-27T17:00:00.000Z",
+    "title": "Koropokkur in Love ~A Little Fairy\u2019s Tale~"
   },
   {
     "discountPercentage": 25,
@@ -2530,21 +2737,12 @@
   },
   {
     "discountPercentage": 20,
-    "endDate": "2024-04-27T12:00:00.000Z",
+    "endDate": "2024-04-23T15:00:00.000Z",
     "isFree": false,
-    "originalPrice": 809,
-    "slug": "peerless-destiny-chinese-838f90",
-    "startDate": "2024-04-20T12:00:00.000Z",
-    "title": "Peerless Destiny"
-  },
-  {
-    "discountPercentage": 20,
-    "endDate": "2024-04-28T03:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 809,
-    "slug": "eternal-supreme-a3866b",
-    "startDate": "2024-04-21T03:00:00.000Z",
-    "title": "Peerless Destiny"
+    "originalPrice": 2239,
+    "slug": "pinbot-ad038d",
+    "startDate": "2024-04-16T15:00:00.000Z",
+    "title": "Pinbot"
   },
   {
     "discountPercentage": 50,
@@ -2644,6 +2842,15 @@
     "slug": "purpose-1951-e7a88b",
     "startDate": "2024-04-30T15:00:00.000Z",
     "title": "Purpose 1951"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1799,
+    "slug": "quest-hunter-96b20d",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Quest Hunter"
   },
   {
     "discountPercentage": 50,
@@ -3121,6 +3328,15 @@
     "slug": "shadowrun-dragonfall",
     "startDate": "2024-05-16T15:00:00.000Z",
     "title": "Shadowrun: Dragonfall - Director\u2019s Cut"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-05-18T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2239,
+    "slug": "shame-legacy-ef1b66",
+    "startDate": "2024-04-30T22:00:00.000Z",
+    "title": "Shame Legacy"
   },
   {
     "discountPercentage": 80,
@@ -4267,11 +4483,11 @@
   },
   {
     "discountPercentage": 70,
-    "endDate": "2024-05-07T15:00:00.000Z",
+    "endDate": "2024-06-13T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 449,
     "slug": "underworld-defense-9a270a",
-    "startDate": "2024-04-30T15:00:00.000Z",
+    "startDate": "2024-05-16T15:00:00.000Z",
     "title": "Underworld Defense"
   },
   {
@@ -4320,15 +4536,6 @@
     "title": "Urban Tale"
   },
   {
-    "discountPercentage": 25,
-    "endDate": "2024-04-19T15:59:00.000Z",
-    "isFree": false,
-    "originalPrice": 1799,
-    "slug": "urban-warriors-90a350",
-    "startDate": "2024-04-12T16:00:00.000Z",
-    "title": "Urban Warriors"
-  },
-  {
     "discountPercentage": 65,
     "endDate": "2024-05-07T15:00:00.000Z",
     "isFree": false,
@@ -4363,6 +4570,15 @@
     "slug": "wall-world-02e132",
     "startDate": "2024-05-16T15:00:00.000Z",
     "title": "Wall World"
+  },
+  {
+    "discountPercentage": 80,
+    "endDate": "2024-05-18T22:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 3799,
+    "slug": "war-mongrels",
+    "startDate": "2024-04-27T22:00:00.000Z",
+    "title": "War Mongrels"
   },
   {
     "discountPercentage": 35,
