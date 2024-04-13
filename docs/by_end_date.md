@@ -1,12 +1,12 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|the-mims-beginning-996468|The Mims Beginning|13,49€|20|2024-04-13 15h|2024-04-20 14h|
 |#|island-cities-0a3026|Island Cities|1,79€|30|2024-04-16 15h|2024-04-23 15h|
 |#|island-of-fear-00a3a6|Island of Fear|2,69€|45|2024-04-16 15h|2024-04-23 15h|
 |#|koropokkur-in-love-b3611c|Koropokkur in Love ~A Little Fairy’s Tale~|13,49€|70|2024-04-16 15h|2024-04-23 15h|
 |#|pinbot-ad038d|Pinbot|22,39€|20|2024-04-16 15h|2024-04-23 15h|
 |#|rpgunite-819421|RPG MAKER UNITE|89,99€|10|2024-04-16 15h|2024-04-23 15h|
 |#|space-elite-force-a00006|SPACE ELITE FORCE|2,69€|50|2024-04-16 15h|2024-04-23 15h|
+|#|shadow-gangs-0ce20b|Shadow Gangs|22,39€|40|2024-04-16 15h|2024-04-23 15h|
 |#|slide-stories-buckys-quest-4c9f6e|Slide Stories - Bucky's Quest|1,79€|20|2024-04-16 15h|2024-04-23 15h|
 |#|starport-trading-company-9b3538|Spaceport Trading Company|13,49€|25|2024-04-16 15h|2024-04-23 15h|
 |#|trigon-ce1936|Trigon: Space Story|19,99€|70|2024-04-16 15h|2024-04-23 15h|
@@ -135,6 +135,7 @@
 |#|travel-cuisine-collectors-edition-f24880|Travel Cuisine Collector's Edition|4,49€|40|2024-05-07 15h|2024-05-14 15h|
 |#|undergrave-4d084b|Undergrave|7,99€|50|2024-05-07 15h|2024-05-14 15h|
 |#|upaon-a-snakes-journey-672f92|Upaon A Snakes Journey|1,99€|60|2024-05-07 15h|2024-05-14 15h|
+|#|electron-zaraftor-751dfc|ELECTRON ZARAFTOR|22,39€|92|2024-04-16 08h|2024-05-16 08h|
 |#|dark-light|Dark Light|15,29€|35|2024-05-04 23h|2024-05-17 14h|
 |#|shame-legacy-ef1b66|Shame Legacy|22,39€|80|2024-04-30 22h|2024-05-18 22h|
 |#|war-mongrels|War Mongrels|37,99€|80|2024-04-27 22h|2024-05-18 22h|
@@ -164,8 +165,9 @@
 |#|serbian-dancing-lady-94e658|Serbian Dancing Lady|0,89€|50|2024-05-07 22h|2024-05-29 22h|
 |#|street-fighting-simulator-40f23a|Street Fighting Simulator|0,89€|50|2024-05-11 22h|2024-05-29 22h|
 |#|ancient-enemy|Ancient Enemy|11,99€|75|2024-05-15 23h|2024-05-29 23h|
-|#|skotos-455463|Skotos|13,49€|30|2024-05-01 06h|2024-05-30 06h|
+|#|skotos-455463|Skotos|13,49€|18|2024-05-01 06h|2024-05-30 06h|
 |#|warhammer-40000-gladius-relics-of-war|Warhammer 40,000: Gladius - Relics of War|31,99€|100|2024-05-23 09h|2024-05-30 09h|
+|#|my-product-dd564210-c8dea6|Evil Seal|9,75€|50|2024-05-22 07h|2024-05-30 10h|
 |#|blood-bowl-3|Blood Bowl 3|29,99€|50|2024-05-23 16h|2024-05-30 16h|
 |#|necromunda-hired-gun|Necromunda: Hired Gun|39,99€|75|2024-05-23 16h|2024-05-30 16h|
 |#|boltgun-b1cb36|Warhammer 40,000: Boltgun|21,99€|35|2024-05-23 16h|2024-05-30 16h|
@@ -263,6 +265,7 @@
 |#|destroy-all-humans|Destroy All Humans!|29,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|destroy-all-humans-2-reprobed|Destroy All Humans! 2 - Reprobed|39,99€|60|2024-05-16 15h|2024-06-13 15h|
 |#|die-again-9d5045|Die Again|10,79€|17|2024-05-16 15h|2024-06-13 15h|
+|#|dojoran-1e6fb7|Dojoran|4,49€|60|2024-05-16 15h|2024-06-13 15h|
 |#|doomed-lands-7e2565|Doomed Lands|11,99€|50|2024-05-27 15h|2024-06-13 15h|
 |#|down-in-bermuda|Down in Bermuda|15,99€|90|2024-05-16 15h|2024-06-13 15h|
 |#|dust-fleet-620614|Dust Fleet|19,99€|35|2024-05-27 15h|2024-06-13 15h|
@@ -300,6 +303,7 @@
 |#|guardians-of-hyelore-0b07d3|Guardians of Hyelore|15,99€|80|2024-05-27 15h|2024-06-13 15h|
 |#|hot-wheels-unleashed-2|HOT WHEELS UNLEASHED™ 2 - Turbocharged|49,99€|60|2024-05-16 15h|2024-06-13 15h|
 |#|hammerting|Hammerting|24,99€|90|2024-05-16 15h|2024-06-13 15h|
+|#|hanoi-puzzles-solid-match-6a9e0c|Hanoi Puzzles - Solid Match|2,69€|50|2024-05-16 15h|2024-06-13 15h|
 |#|hello-goodboy-4b2edb|Hello Goodboy|14,99€|40|2024-05-27 15h|2024-06-13 15h|
 |#|homeseek-243763|Homeseek|22,39€|30|2024-05-16 15h|2024-06-13 15h|
 |#|hordecore|HordeCore|9,99€|80|2024-05-16 15h|2024-06-13 15h|
@@ -469,6 +473,7 @@
 |#|wreckfest|Wreckfest|29,99€|60|2024-05-16 15h|2024-06-13 15h|
 |#|yokus-island-express|Yoku's Island Express|19,99€|80|2024-05-16 15h|2024-06-13 15h|
 |#|yooka-laylee-and-the-impossible-lair|Yooka-Laylee and the Impossible Lair|29,99€|90|2024-05-16 15h|2024-06-13 15h|
+|#|your-computer-might-be-at-risk-c5dea9|Your Computer Might Be At Risk|10,79€|45|2024-05-16 15h|2024-06-13 15h|
 |#|next-game-c139be|Zi|8,99€|50|2024-05-16 15h|2024-06-13 15h|
 |#|while-true-learn|while True: learn()|9,99€|30|2024-05-16 15h|2024-06-13 15h|
 |#|house-flipper|House Flipper|24,50€|50|2024-05-16 16h|2024-06-13 16h|

@@ -139,10 +139,12 @@
 |#|moving-out|Moving Out|22,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|overcooked-2|Overcooked! 2|22,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|a-long-journey-to-an-uncertain-end-514c7e|A Long Journey to an Uncertain End|22,39€|50|2024-05-16 15h|2024-06-13 15h|
+|#|electron-zaraftor-751dfc|ELECTRON ZARAFTOR|22,39€|92|2024-04-16 08h|2024-05-16 08h|
 |#|fish-db1795|Fish|22,39€|40|2024-05-16 15h|2024-06-13 15h|
 |#|homeseek-243763|Homeseek|22,39€|30|2024-05-16 15h|2024-06-13 15h|
 |#|pinbot-ad038d|Pinbot|22,39€|20|2024-04-16 15h|2024-04-23 15h|
 |#|roboquest-9ad17a|Roboquest|22,39€|25|2024-06-27 07h|2024-07-12 07h|
+|#|shadow-gangs-0ce20b|Shadow Gangs|22,39€|40|2024-04-16 15h|2024-04-23 15h|
 |#|shame-legacy-ef1b66|Shame Legacy|22,39€|80|2024-04-30 22h|2024-05-18 22h|
 |#|the-lord-of-the-rings-return-to-moria-f01344|The Lord of The Rings Return to Moria|22,39€|30|2024-05-16 15h|2024-06-13 15h|
 |#|timberborn|Timberborn|22,39€|20|2024-05-16 15h|2024-06-13 15h|
@@ -294,11 +296,10 @@
 |#|orten-was-the-case-d108fb|Orten Was The Case|13,49€|25|2024-08-05 08h|2024-08-09 22h|
 |#|planet-cube-edge-aac6d5|Planet Cube - Edge|13,49€|60|2024-05-23 15h|2024-06-06 22h|
 |#|rising-mist-36ba97|Rising Mist|13,49€|45|2024-05-16 15h|2024-06-13 15h|
-|#|skotos-455463|Skotos|13,49€|30|2024-05-01 06h|2024-05-30 06h|
+|#|skotos-455463|Skotos|13,49€|18|2024-05-01 06h|2024-05-30 06h|
 |#|skotos-455463|Skotos|13,49€|30|2024-08-01 06h|2024-08-30 06h|
 |#|skotos-455463|Skotos|13,49€|30|2024-11-01 06h|2024-11-30 07h|
 |#|starport-trading-company-9b3538|Spaceport Trading Company|13,49€|25|2024-04-16 15h|2024-04-23 15h|
-|#|the-mims-beginning-996468|The Mims Beginning|13,49€|20|2024-04-13 15h|2024-04-20 14h|
 |#|timothy-vs-the-aliens-2f5b36|Timothy vs the Aliens|13,49€|80|2024-05-16 15h|2024-06-13 15h|
 |#|train-valley-2-3606da|Train Valley 2|13,49€|65|2024-05-16 15h|2024-06-13 15h|
 |#|turnip-boy-robs-a-bank-3fae0e|Turnip Boy Robs a Bank|13,49€|25|2024-04-30 15h|2024-05-07 15h|
@@ -342,6 +343,7 @@
 |#|contraption-maker-66e1ec|Contraption Maker|10,79€|40|2024-04-30 15h|2024-05-07 15h|
 |#|devils-island-03e902|Devil's Island|10,79€|80|2024-05-27 13h|2024-06-03 13h|
 |#|die-again-9d5045|Die Again|10,79€|17|2024-05-16 15h|2024-06-13 15h|
+|#|your-computer-might-be-at-risk-c5dea9|Your Computer Might Be At Risk|10,79€|45|2024-05-16 15h|2024-06-13 15h|
 |#|bloodshore-939cb0|Bloodshore|9,99€|40|2024-05-16 15h|2024-06-13 15h|
 |#|five-dates-60ef51|Five Dates|9,99€|40|2024-05-16 15h|2024-06-13 15h|
 |#|flat-heroes-fec628|Flat Heroes|9,99€|52|2024-05-16 15h|2024-06-13 15h|
@@ -359,6 +361,7 @@
 |#|frogue-c91fc5|FROGUE|9,89€|20|2024-05-07 15h|2024-05-14 15h|
 |#|miniland-adventure-ee81ff|Miniland Adventure|9,89€|45|2024-05-16 15h|2024-06-13 15h|
 |#|saboteur-sio-123236|Saboteur SiO|9,89€|10|2024-04-20 23h|2024-05-19 23h|
+|#|my-product-dd564210-c8dea6|Evil Seal|9,75€|50|2024-05-22 07h|2024-05-30 10h|
 |#|berzerk-recharged-c35563|Berzerk Recharged|8,99€|40|2024-05-16 15h|2024-06-13 15h|
 |#|bob-a-thousand-lives-802452|Bob A thousand lives - Enhanced Edition|8,99€|80|2024-05-16 15h|2024-06-13 15h|
 |#|eigengrau-62aef0|Eigengrau|8,99€|50|2024-05-16 15h|2024-06-13 15h|
@@ -418,6 +421,7 @@
 |#|crown-of-the-empire-86cf18|Crown Of The Empire Collectors Edition|4,49€|50|2024-04-30 15h|2024-05-07 15h|
 |#|crown-of-the-empire-2-around-the-world-699782|Crown of the Empire 2: Around the World Collectors Edition|4,49€|50|2024-04-30 15h|2024-05-07 15h|
 |#|cyvenge-55b56b|CyVenge|4,49€|80|2024-04-29 22h|2024-05-10 23h|
+|#|dojoran-1e6fb7|Dojoran|4,49€|60|2024-05-16 15h|2024-06-13 15h|
 |#|emergency-crew-1-04340a|Emergency Crew 2 Global Warming|4,49€|70|2024-05-07 15h|2024-05-14 15h|
 |#|garden-city-c73d37|Garden City|4,49€|40|2024-05-07 15h|2024-05-14 15h|
 |#|gems-of-the-aztecs-c88b67|Gems of the Aztecs|4,49€|60|2024-04-30 15h|2024-05-07 15h|
@@ -465,6 +469,7 @@
 |#|ravens-hike-c34341|Ravens Hike|3,19€|60|2024-05-07 15h|2024-05-14 15h|
 |#|road-defense-outsiders-22e4ba|Road Defense: Outsiders|2,99€|20|2024-05-07 15h|2024-05-14 15h|
 |#|aya-and-naya-b7791e|Aya & Naya|2,69€|80|2024-04-14 22h|2024-04-30 22h|
+|#|hanoi-puzzles-solid-match-6a9e0c|Hanoi Puzzles - Solid Match|2,69€|50|2024-05-16 15h|2024-06-13 15h|
 |#|island-of-fear-00a3a6|Island of Fear|2,69€|45|2024-04-16 15h|2024-04-23 15h|
 |#|mahjong-royal-towers-e327ab|Mahjong Royal Towers|2,69€|50|2024-04-30 15h|2024-05-07 15h|
 |#|projectelement-a1ec94|Project Element|2,69€|20|2024-04-30 15h|2024-05-07 15h|

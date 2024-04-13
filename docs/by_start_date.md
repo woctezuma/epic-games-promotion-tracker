@@ -1,6 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|the-mims-beginning-996468|The Mims Beginning|13,49€|20|2024-04-13 15h|2024-04-20 14h|
 |#|tamara-in-the-forsaken-dungeon-81aa5c|Tamara In The Forsaken Dungeon|2,69€|80|2024-04-13 22h|2024-04-30 22h|
 |#|hidden-shapes-lovely-cats-6bfb39|Hidden Shapes Lovely Cats|0,89€|15|2024-04-14 17h|2024-04-25 17h|
 |#|life-changer-64fc81|Life Changer|12,63€|22|2024-04-14 17h|2024-05-05 17h|
@@ -10,12 +9,14 @@
 |#|it-follows-you-b11f3e|It follows you|1,59€|75|2024-04-15 22h|2024-05-03 22h|
 |#|overtop-ed5e49|Overtop|4,49€|90|2024-04-15 22h|2024-05-03 22h|
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2024-04-15 22h|2024-05-03 22h|
+|#|electron-zaraftor-751dfc|ELECTRON ZARAFTOR|22,39€|92|2024-04-16 08h|2024-05-16 08h|
 |#|island-cities-0a3026|Island Cities|1,79€|30|2024-04-16 15h|2024-04-23 15h|
 |#|island-of-fear-00a3a6|Island of Fear|2,69€|45|2024-04-16 15h|2024-04-23 15h|
 |#|koropokkur-in-love-b3611c|Koropokkur in Love ~A Little Fairy’s Tale~|13,49€|70|2024-04-16 15h|2024-04-23 15h|
 |#|pinbot-ad038d|Pinbot|22,39€|20|2024-04-16 15h|2024-04-23 15h|
 |#|rpgunite-819421|RPG MAKER UNITE|89,99€|10|2024-04-16 15h|2024-04-23 15h|
 |#|space-elite-force-a00006|SPACE ELITE FORCE|2,69€|50|2024-04-16 15h|2024-04-23 15h|
+|#|shadow-gangs-0ce20b|Shadow Gangs|22,39€|40|2024-04-16 15h|2024-04-23 15h|
 |#|slide-stories-buckys-quest-4c9f6e|Slide Stories - Bucky's Quest|1,79€|20|2024-04-16 15h|2024-04-23 15h|
 |#|starport-trading-company-9b3538|Spaceport Trading Company|13,49€|25|2024-04-16 15h|2024-04-23 15h|
 |#|trigon-ce1936|Trigon: Space Story|19,99€|70|2024-04-16 15h|2024-04-23 15h|
@@ -111,7 +112,7 @@
 |#|virtual-rides-3-2add3b|Virtual Rides 3|22,39€|65|2024-04-30 15h|2024-05-07 15h|
 |#|jusant|Jusant|24,99€|30|2024-04-30 17h|2024-05-06 17h|
 |#|shame-legacy-ef1b66|Shame Legacy|22,39€|80|2024-04-30 22h|2024-05-18 22h|
-|#|skotos-455463|Skotos|13,49€|30|2024-05-01 06h|2024-05-30 06h|
+|#|skotos-455463|Skotos|13,49€|18|2024-05-01 06h|2024-05-30 06h|
 |#|get-slapped-d1aea8|Get Slapped!|8,99€|20|2024-05-01 07h|2024-05-08 07h|
 |#|marble-it-up-ultra-7b5692|Marble It Up! Ultra|26,99€|60|2024-05-01 07h|2024-05-14 07h|
 |#|ea-star-wars-triple-bundle|EA STAR WARS™ TRIPLE BUNDLE|89,99€|90|2024-05-02 15h|2024-05-09 15h|
@@ -227,6 +228,7 @@
 |#|destroy-all-humans|Destroy All Humans!|29,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|destroy-all-humans-2-reprobed|Destroy All Humans! 2 - Reprobed|39,99€|60|2024-05-16 15h|2024-06-13 15h|
 |#|die-again-9d5045|Die Again|10,79€|17|2024-05-16 15h|2024-06-13 15h|
+|#|dojoran-1e6fb7|Dojoran|4,49€|60|2024-05-16 15h|2024-06-13 15h|
 |#|down-in-bermuda|Down in Bermuda|15,99€|90|2024-05-16 15h|2024-06-13 15h|
 |#|dying-light-2-stay-human|Dying Light 2 Stay Human - Reloaded Edition|59,99€|50|2024-05-16 15h|2024-06-13 15h|
 |#|dying-light|Dying Light Enhanced Edition|29,99€|70|2024-05-16 15h|2024-06-13 15h|
@@ -259,6 +261,7 @@
 |#|greak-memories-of-azur-e05a8d|Greak: Memories of Azur|17,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|hot-wheels-unleashed-2|HOT WHEELS UNLEASHED™ 2 - Turbocharged|49,99€|60|2024-05-16 15h|2024-06-13 15h|
 |#|hammerting|Hammerting|24,99€|90|2024-05-16 15h|2024-06-13 15h|
+|#|hanoi-puzzles-solid-match-6a9e0c|Hanoi Puzzles - Solid Match|2,69€|50|2024-05-16 15h|2024-06-13 15h|
 |#|homeseek-243763|Homeseek|22,39€|30|2024-05-16 15h|2024-06-13 15h|
 |#|hordecore|HordeCore|9,99€|80|2024-05-16 15h|2024-06-13 15h|
 |#|house-party-ae8b27|House Party|24,99€|50|2024-05-16 15h|2024-06-13 15h|
@@ -427,6 +430,7 @@
 |#|wreckfest|Wreckfest|29,99€|60|2024-05-16 15h|2024-06-13 15h|
 |#|yokus-island-express|Yoku's Island Express|19,99€|80|2024-05-16 15h|2024-06-13 15h|
 |#|yooka-laylee-and-the-impossible-lair|Yooka-Laylee and the Impossible Lair|29,99€|90|2024-05-16 15h|2024-06-13 15h|
+|#|your-computer-might-be-at-risk-c5dea9|Your Computer Might Be At Risk|10,79€|45|2024-05-16 15h|2024-06-13 15h|
 |#|next-game-c139be|Zi|8,99€|50|2024-05-16 15h|2024-06-13 15h|
 |#|while-true-learn|while True: learn()|9,99€|30|2024-05-16 15h|2024-06-13 15h|
 |#|house-flipper|House Flipper|24,50€|50|2024-05-16 16h|2024-06-13 16h|
@@ -436,6 +440,7 @@
 |#|backrooms-eight-levels-c7ea4c|Backrooms: Eight Levels|0,89€|50|2024-05-19 22h|2024-06-03 22h|
 |#|the-meme-hunter-bf7086|THE MEME HUNTER|0,89€|50|2024-05-19 22h|2024-06-04 22h|
 |#|eyes-of-memes-d8864a|Eyes Of Memes|0,89€|50|2024-05-20 03h|2024-06-04 03h|
+|#|my-product-dd564210-c8dea6|Evil Seal|9,75€|50|2024-05-22 07h|2024-05-30 10h|
 |#|warhammer-40000-gladius-relics-of-war|Warhammer 40,000: Gladius - Relics of War|31,99€|100|2024-05-23 09h|2024-05-30 09h|
 |#|falling-out-cb0814|Falling Out|13,49€|67|2024-05-23 15h|2024-06-06 22h|
 |#|planet-cube-edge-aac6d5|Planet Cube - Edge|13,49€|60|2024-05-23 15h|2024-06-06 22h|
