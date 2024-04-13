@@ -1107,6 +1107,15 @@
     "title": "Disgaea 6 Complete"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "dojoran-1e6fb7",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Dojoran"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-06-13T15:00:00.000Z",
     "isFree": false,
@@ -1168,6 +1177,15 @@
     "slug": "ea-star-wars-triple-bundle",
     "startDate": "2024-05-02T15:00:00.000Z",
     "title": "EA STAR WARS\u2122 TRIPLE BUNDLE"
+  },
+  {
+    "discountPercentage": 92,
+    "endDate": "2024-05-16T08:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2239,
+    "slug": "electron-zaraftor-751dfc",
+    "startDate": "2024-04-16T08:00:00.000Z",
+    "title": "ELECTRON ZARAFTOR"
   },
   {
     "discountPercentage": 40,
@@ -1294,6 +1312,15 @@
     "slug": "everlasting-guilt-213534",
     "startDate": "2024-05-16T15:00:00.000Z",
     "title": "Everlasting Guilt"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-05-30T10:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 975,
+    "slug": "my-product-dd564210-c8dea6",
+    "startDate": "2024-05-22T07:00:00.000Z",
+    "title": "Evil Seal"
   },
   {
     "discountPercentage": 50,
@@ -1744,6 +1771,15 @@
     "slug": "hammerting",
     "startDate": "2024-05-16T15:00:00.000Z",
     "title": "Hammerting"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 269,
+    "slug": "hanoi-puzzles-solid-match-6a9e0c",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Hanoi Puzzles - Solid Match"
   },
   {
     "discountPercentage": 70,
@@ -3294,6 +3330,15 @@
     "title": "Shadow Gambit: The Cursed Crew"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-04-23T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2239,
+    "slug": "shadow-gangs-0ce20b",
+    "startDate": "2024-04-16T15:00:00.000Z",
+    "title": "Shadow Gangs"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-06-13T15:00:00.000Z",
     "isFree": false,
@@ -3375,7 +3420,7 @@
     "title": "Sir Whoopass - Immortal Death"
   },
   {
-    "discountPercentage": 30,
+    "discountPercentage": 18,
     "endDate": "2024-05-30T06:00:00.000Z",
     "isFree": false,
     "originalPrice": 1349,
@@ -4095,15 +4140,6 @@
     "title": "The Lord of The Rings Return to Moria"
   },
   {
-    "discountPercentage": 20,
-    "endDate": "2024-04-20T14:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1349,
-    "slug": "the-mims-beginning-996468",
-    "startDate": "2024-04-13T15:00:00.000Z",
-    "title": "The Mims Beginning"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2024-06-20T15:59:00.000Z",
     "isFree": false,
@@ -4732,6 +4768,15 @@
     "slug": "yooka-laylee-and-the-impossible-lair",
     "startDate": "2024-05-16T15:00:00.000Z",
     "title": "Yooka-Laylee and the Impossible Lair"
+  },
+  {
+    "discountPercentage": 45,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1079,
+    "slug": "your-computer-might-be-at-risk-c5dea9",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Your Computer Might Be At Risk"
   },
   {
     "discountPercentage": 40,
