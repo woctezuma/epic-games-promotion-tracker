@@ -35,7 +35,6 @@
 |#|ageless|Ageless|14,99€|80|2024-05-16 15h|2024-06-13 15h|
 |#|alien-isolation|Alien: Isolation|39,99€|80|2024-04-23 15h|2024-04-30 15h|
 |#|automachef|Automachef|14,99€|80|2024-05-16 15h|2024-06-13 15h|
-|#|aya-and-naya-b7791e|Aya & Naya|2,69€|80|2024-04-14 22h|2024-04-30 22h|
 |#|bite-the-bullet-22fa1f|Bite the Bullet|11,99€|80|2024-04-30 15h|2024-05-07 15h|
 |#|bob-a-thousand-lives-802452|Bob A thousand lives - Enhanced Edition|8,99€|80|2024-05-16 15h|2024-06-13 15h|
 |#|cyvenge-55b56b|CyVenge|4,49€|80|2024-04-29 22h|2024-05-10 23h|
@@ -50,10 +49,13 @@
 |#|joggernauts-a7767f|Joggernauts|11,99€|80|2024-04-30 15h|2024-05-07 15h|
 |#|kitaria-fables|Kitaria Fables|19,99€|80|2024-05-16 15h|2024-06-13 15h|
 |#|lego-brawls|LEGO® Brawls|8,99€|80|2024-05-16 15h|2024-06-13 15h|
+|#|liberated-f13008|Liberated|15,99€|80|2024-05-16 15h|2024-06-13 15h|
 |#|lilas-sky-ark-610f75|Lila's Sky Ark|11,99€|80|2024-04-30 15h|2024-05-07 15h|
 |#|mable-and-the-wood-9bd697|Mable & The Wood|11,99€|80|2024-04-30 15h|2024-05-07 15h|
 |#|narita-boy|Narita Boy|24,99€|80|2024-05-16 15h|2024-06-13 15h|
+|#|necroworm-5784e5|NecroWorm|3,99€|80|2024-05-16 15h|2024-06-13 15h|
 |#|nira-02f6ee|Nira|7,99€|80|2024-04-30 15h|2024-05-07 15h|
+|#|paradise-lost|Paradise Lost|12,49€|80|2024-05-16 15h|2024-06-13 15h|
 |#|psychiatrist-simulator-bfbcc4|Psychiatrist Simulator|4,49€|80|2024-04-28 23h|2024-05-12 23h|
 |#|rez-plz-324485|REZ PLZ|11,99€|80|2024-04-30 15h|2024-05-07 15h|
 |#|restless-soul-d5baed|Restless Soul|11,99€|80|2024-04-30 15h|2024-05-07 15h|
@@ -62,7 +64,6 @@
 |#|stellar-interface-d14cc4|Stellar Interface|11,69€|80|2024-05-16 15h|2024-06-13 15h|
 |#|stick-it-to-the-man|Stick It To The Man!|5,99€|80|2024-05-16 15h|2024-06-13 15h|
 |#|tales-of-the-tiny-planet-ab9e11|Tales of the Tiny Planet|8,99€|80|2024-04-30 15h|2024-05-07 15h|
-|#|tamara-in-the-forsaken-dungeon-81aa5c|Tamara In The Forsaken Dungeon|2,69€|80|2024-04-13 22h|2024-04-30 22h|
 |#|the-inheritance-of-crimson-manor-81bc67|The Inheritance of Crimson Manor|17,99€|80|2024-05-11 14h|2024-05-26 07h|
 |#|the-kings-bird-a5b589|The King's Bird|15,99€|80|2024-04-30 15h|2024-05-07 15h|
 |#|the-mystery-of-the-moon-7f3e48|The Mystery Of The Moon|53,99€|80|2024-06-06 16h|2024-06-20 15h|
@@ -76,6 +77,7 @@
 |#|warhammer-age-of-sigmar-realms-of-ruin|Warhammer Age of Sigmar: Realms of Ruin|59,99€|80|2024-05-23 16h|2024-05-30 16h|
 |#|warhammer-age-of-sigmar-storm-ground|Warhammer Age of Sigmar: Storm Ground|19,99€|80|2024-05-23 16h|2024-05-30 16h|
 |#|yokus-island-express|Yoku's Island Express|19,99€|80|2024-05-16 15h|2024-06-13 15h|
+|#|zoological-era-ii-0869e0|Zoological Era II|13,49€|80|2024-05-16 15h|2024-06-13 15h|
 |#|gone-home|Gone Home|11,99€|76|2024-05-16 15h|2024-06-13 15h|
 |#|alan-wake|Alan Wake|12,49€|75|2024-05-16 15h|2024-06-13 15h|
 |#|alan-wake-american-nightmare|Alan Wake’s American Nightmare|6,99€|75|2024-05-16 15h|2024-06-13 15h|
@@ -151,6 +153,7 @@
 |#|turnip-boy-commits-tax-evasion-fb2084|Turnip Boy Commits Tax Evasion|11,99€|75|2024-04-30 15h|2024-05-07 15h|
 |#|tyranny|Tyranny - Gold Edition|49,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|wheels-of-aurelia|Wheels of Aurelia|14,99€|75|2024-05-16 15h|2024-06-13 15h|
+|#|anime-vs-evil-apocalypse-4c8f91|Anime vs Evil: Apocalypse|17,99€|70|2024-05-14 20h|2024-05-28 20h|
 |#|anuchard-08179d|Anuchard|14,99€|70|2024-05-27 15h|2024-06-13 15h|
 |#|argonauts-agency-glove-of-midas-94bca3|Argonauts Agency: Glove of Midas|4,49€|70|2024-05-07 15h|2024-05-14 15h|
 |#|biped|Biped|12,49€|70|2024-05-16 15h|2024-06-13 15h|
@@ -161,6 +164,7 @@
 |#|dying-light|Dying Light Enhanced Edition|29,99€|70|2024-05-16 15h|2024-06-13 15h|
 |#|emergency-crew-1-04340a|Emergency Crew 2 Global Warming|4,49€|70|2024-05-07 15h|2024-05-14 15h|
 |#|europa-universalis-iv|Europa Universalis IV|39,99€|70|2024-05-16 15h|2024-06-13 15h|
+|#|gray-dawn-a0cc44|Gray Dawn|13,49€|70|2024-05-14 15h|2024-05-21 15h|
 |#|griddlers-victorian-picnic-fcc2ab|Griddlers Victorian Picnic|4,49€|70|2024-05-07 15h|2024-05-14 15h|
 |#|he-will-shoot-46efff|He Will Shoot|1,59€|70|2024-04-25 22h|2024-05-13 22h|
 |#|im-in-love-with-your-dead-grandmother-15e7d4|I'm in Love With Your Dead Grandmother|4,49€|70|2024-05-16 15h|2024-06-13 15h|
@@ -304,7 +308,10 @@
 |#|elderand-09e6bc|Elderand|15,99€|50|2024-04-30 15h|2024-05-07 15h|
 |#|escape-academy-bfc2bf|Escape Academy|15,99€|50|2024-04-18 16h|2024-04-26 16h|
 |#|everlasting-guilt-213534|Everlasting Guilt|8,99€|50|2024-05-16 15h|2024-06-13 15h|
-|#|my-product-dd564210-c8dea6|Evil Seal|9,75€|50|2024-05-22 07h|2024-05-30 10h|
+|#|my-product-dd564210-c8dea6|Evil Seal|9,75€|50|2024-06-02 16h|2024-06-09 16h|
+|#|my-product-dd564210-c8dea6|Evil Seal|9,75€|50|2024-07-10 16h|2024-07-18 16h|
+|#|my-product-dd564210-c8dea6|Evil Seal|9,75€|50|2024-08-17 16h|2024-08-25 16h|
+|#|my-product-dd564210-c8dea6|Evil Seal|9,75€|50|2024-09-25 16h|2024-10-03 16h|
 |#|exit-left-or-right-bfedd2|Exit: Left or Right|0,89€|50|2024-04-23 22h|2024-05-07 22h|
 |#|exit-left-or-right-bfedd2|Exit: Left or Right|0,89€|50|2024-06-09 22h|2024-06-23 22h|
 |#|eyes-of-memes-d8864a|Eyes Of Memes|0,89€|50|2024-05-20 03h|2024-06-04 03h|
@@ -316,7 +323,6 @@
 |#|house-flipper|House Flipper|24,50€|50|2024-05-16 16h|2024-06-13 16h|
 |#|house-party-ae8b27|House Party|24,99€|50|2024-05-16 15h|2024-06-13 15h|
 |#|human-resource-machine|Human Resource Machine|11,99€|50|2024-05-16 15h|2024-06-13 15h|
-|#|in-the-gym-db2771|In The Gym|0,89€|50|2024-04-14 22h|2024-04-29 22h|
 |#|in-the-gym-db2771|In The Gym|0,89€|50|2024-06-01 05h|2024-06-16 05h|
 |#|indoorlands-3b2356|Indoorlands|17,09€|50|2024-04-30 15h|2024-05-07 15h|
 |#|partisan-general-audience|Knights of Honor II: Sovereign|44,99€|50|2024-05-16 15h|2024-06-13 15h|
@@ -442,7 +448,6 @@
 |#|ten-dates-9a188a|Ten Dates|15,29€|35|2024-05-16 15h|2024-06-13 15h|
 |#|the-isle-tide-hotel-adf588|The Isle Tide Hotel|17,99€|35|2024-05-16 15h|2024-06-13 15h|
 |#|boltgun-b1cb36|Warhammer 40,000: Boltgun|21,99€|35|2024-05-23 16h|2024-05-30 16h|
-|#|warhammer-40000-rogue-trader|Warhammer 40,000: Rogue Trader|49,99€|35|2024-05-23 16h|2024-05-30 16h|
 |#|airship-kingdoms-adrift-cc8448|Airship Kingdoms Adrift|26,99€|34|2024-05-27 15h|2024-06-13 15h|
 |#|trine-5|Trine 5: A Clockwork Conspiracy|29,99€|34|2024-05-16 15h|2024-06-13 15h|
 |#|brok-the-investigator-fb0513|BROK the InvestiGator|17,99€|33|2024-05-16 15h|2024-06-13 15h|
@@ -465,6 +470,7 @@
 |#|mallofmayhem-15344c|Mall of Mayhem|7,19€|30|2024-10-01 06h|2024-10-30 22h|
 |#|medieval-knight-2e8f8b|Medieval Knight|2,19€|30|2024-05-16 15h|2024-06-13 15h|
 |#|mortal-online-2-d7bb78|Mortal Online 2|35,99€|30|2024-05-16 15h|2024-06-13 15h|
+|#|paw-paw-destiny-843848|Paw Paw Destiny|11,79€|30|2024-05-14 15h|2024-05-21 15h|
 |#|rpg-survivors-8bf58c|RPG Survivors|4,49€|30|2024-04-30 15h|2024-05-07 15h|
 |#|sailingera-450a80|Sailing Era|19,99€|30|2024-05-16 15h|2024-06-13 15h|
 |#|sakura-day-mahjong-007b44|Sakura Day Mahjong|4,49€|30|2024-05-07 15h|2024-05-14 15h|
@@ -497,7 +503,6 @@
 |#|the-legend-of-heroes-trails-from-zero|The Legend of Heroes: Trails from Zero|39,99€|25|2024-04-27 15h|2024-05-06 14h|
 |#|turnip-boy-robs-a-bank-3fae0e|Turnip Boy Robs a Bank|13,49€|25|2024-04-30 15h|2024-05-07 15h|
 |#|worker-simulator-db704e|Worker Simulator|17,99€|25|2024-05-14 15h|2024-05-21 15h|
-|#|life-changer-64fc81|Life Changer|12,63€|22|2024-04-14 17h|2024-05-05 17h|
 |#|below-the-stone-2be6fa|Below the Stone|17,99€|20|2024-05-16 15h|2024-06-13 15h|
 |#|brain-show-89d0fd|Brain Show: Party Quiz|13,49€|20|2024-04-29 13h|2024-05-13 13h|
 |#|cepheus-protocol-388fe9|Cepheus Protocol|17,99€|20|2024-05-16 15h|2024-06-13 15h|
@@ -527,7 +532,6 @@
 |#|die-again-9d5045|Die Again|10,79€|17|2024-05-16 15h|2024-06-13 15h|
 |#|dark-journey-the-fate-of-the-demon-king-4bf628|Dark Journey:The Fate of the Demon King|6,29€|15|2024-04-23 15h|2024-04-30 15h|
 |#|hidden-shapes-animals-0fca0f|Hidden Shapes Animals|0,89€|15|2024-04-18 17h|2024-04-25 17h|
-|#|hidden-shapes-lovely-cats-6bfb39|Hidden Shapes Lovely Cats|0,89€|15|2024-04-14 17h|2024-04-25 17h|
 |#|linghehanjianwuyu-cf98a0|Reiwa outliers|3,59€|12|2024-04-30 15h|2024-05-07 15h|
 |#|eiyuden-chronicle-hundred-heroes|Eiyuden Chronicle: Hundred Heroes|49,99€|10|2024-04-15 15h|2024-04-29 22h|
 |#|gardenia-630482|Gardenia|8,99€|10|2024-04-20 23h|2024-05-19 23h|
