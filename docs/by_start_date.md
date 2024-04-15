@@ -1,6 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|eiyuden-chronicle-hundred-heroes|Eiyuden Chronicle: Hundred Heroes|49,99€|10|2024-04-15 15h|2024-04-29 22h|
 |#|it-follows-you-b11f3e|It follows you|1,59€|75|2024-04-15 22h|2024-05-03 22h|
 |#|overtop-ed5e49|Overtop|4,49€|90|2024-04-15 22h|2024-05-03 22h|
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2024-04-15 22h|2024-05-03 22h|
@@ -9,12 +8,12 @@
 |#|island-of-fear-00a3a6|Island of Fear|2,69€|45|2024-04-16 15h|2024-04-23 15h|
 |#|koropokkur-in-love-b3611c|Koropokkur in Love ~A Little Fairy’s Tale~|13,49€|70|2024-04-16 15h|2024-04-23 15h|
 |#|pinbot-ad038d|Pinbot|22,39€|20|2024-04-16 15h|2024-04-23 15h|
-|#|rpgunite-819421|RPG MAKER UNITE|89,99€|10|2024-04-16 15h|2024-04-23 15h|
 |#|space-elite-force-a00006|SPACE ELITE FORCE|2,69€|50|2024-04-16 15h|2024-04-23 15h|
 |#|shadow-gangs-0ce20b|Shadow Gangs|22,39€|40|2024-04-16 15h|2024-04-23 15h|
 |#|slide-stories-buckys-quest-4c9f6e|Slide Stories - Bucky's Quest|1,79€|20|2024-04-16 15h|2024-04-23 15h|
 |#|starport-trading-company-9b3538|Spaceport Trading Company|13,49€|25|2024-04-16 15h|2024-04-23 15h|
 |#|trigon-ce1936|Trigon: Space Story|19,99€|70|2024-04-16 15h|2024-04-23 15h|
+|#|emulated-opsrunner-636fc3|EMULATED: OpsRunner|10,79€|17|2024-04-16 22h|2024-04-22 10h|
 |#|island-paradise-6a6d26|Island Paradise|17,09€|25|2024-04-17 13h|2024-04-24 05h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|55|2024-04-17 21h|2024-04-24 21h|
 |#|the-big-con|The Big Con|12,49€|100|2024-04-18 15h|2024-04-25 15h|
@@ -149,8 +148,10 @@
 |#|travel-cuisine-collectors-edition-f24880|Travel Cuisine Collector's Edition|4,49€|40|2024-05-07 15h|2024-05-14 15h|
 |#|undergrave-4d084b|Undergrave|7,99€|50|2024-05-07 15h|2024-05-14 15h|
 |#|upaon-a-snakes-journey-672f92|Upaon A Snakes Journey|1,99€|60|2024-05-07 15h|2024-05-14 15h|
+|#|world-of-contraptions-6dbc07|World of Contraptions|8,99€|70|2024-05-07 15h|2024-05-14 15h|
 |#|serbian-dancing-lady-94e658|Serbian Dancing Lady|0,89€|50|2024-05-07 22h|2024-05-29 22h|
 |#|anonymous-hunting-simulator-5eac14|ANONYMOUS HUNTING SIMULATOR|0,89€|50|2024-05-09 22h|2024-05-24 22h|
+|#|last-hope-bunker-zombie-survival-92a49d|Last Hope Bunker: Zombie Survival|6,29€|60|2024-05-10 09h|2024-05-30 21h|
 |#|the-inheritance-of-crimson-manor-81bc67|The Inheritance of Crimson Manor|17,99€|80|2024-05-11 14h|2024-05-26 07h|
 |#|street-fighting-simulator-40f23a|Street Fighting Simulator|0,89€|50|2024-05-11 22h|2024-05-29 22h|
 |#|steal-then-just-escape-87b7b6|Steal, Then Just Escape|3,69€|60|2024-05-13 16h|2024-05-24 16h|
@@ -442,6 +443,7 @@
 |#|backrooms-eight-levels-c7ea4c|Backrooms: Eight Levels|0,89€|50|2024-05-19 22h|2024-06-03 22h|
 |#|the-meme-hunter-bf7086|THE MEME HUNTER|0,89€|50|2024-05-19 22h|2024-06-04 22h|
 |#|eyes-of-memes-d8864a|Eyes Of Memes|0,89€|50|2024-05-20 03h|2024-06-04 03h|
+|#|the-mims-beginning-996468|The Mims Beginning|13,49€|40|2024-05-21 15h|2024-05-28 15h|
 |#|warhammer-40000-gladius-relics-of-war|Warhammer 40,000: Gladius - Relics of War|31,99€|100|2024-05-23 09h|2024-05-30 09h|
 |#|falling-out-cb0814|Falling Out|13,49€|67|2024-05-23 15h|2024-06-06 22h|
 |#|planet-cube-edge-aac6d5|Planet Cube - Edge|13,49€|60|2024-05-23 15h|2024-06-06 22h|
@@ -449,6 +451,7 @@
 |#|necromunda-hired-gun|Necromunda: Hired Gun|39,99€|75|2024-05-23 16h|2024-05-30 16h|
 |#|boltgun-b1cb36|Warhammer 40,000: Boltgun|21,99€|35|2024-05-23 16h|2024-05-30 16h|
 |#|warhammer-40000-chaos-gate-daemonhunters|Warhammer 40,000: Chaos Gate - Daemonhunters|44,99€|70|2024-05-23 16h|2024-05-30 16h|
+|#|warhammer-40000-rogue-trader|Warhammer 40,000: Rogue Trader|49,99€|30|2024-05-23 16h|2024-05-30 16h|
 |#|warhammer-age-of-sigmar-realms-of-ruin|Warhammer Age of Sigmar: Realms of Ruin|59,99€|80|2024-05-23 16h|2024-05-30 16h|
 |#|warhammer-age-of-sigmar-storm-ground|Warhammer Age of Sigmar: Storm Ground|19,99€|80|2024-05-23 16h|2024-05-30 16h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|60|2024-05-24 21h|2024-05-31 21h|
@@ -457,7 +460,6 @@
 |#|lines-guarder-174742|Line's Guarder|8,99€|40|2024-05-25 16h|2024-06-24 16h|
 |#|nextbots-in-the-backrooms-b5677b|Nextbots In The Backrooms|0,89€|50|2024-05-25 22h|2024-06-11 22h|
 |#|trex-dinosaur-game-d30355|T-Rex Dinosaur Game|0,89€|50|2024-05-25 22h|2024-06-13 22h|
-|#|rpgunite-819421|RPG MAKER UNITE|89,99€|25|2024-05-27 06h|2024-06-10 06h|
 |#|devils-island-03e902|Devil's Island|10,79€|80|2024-05-27 13h|2024-06-03 13h|
 |#|9-years-of-shadows-a40c92|9 Years of Shadows|19,99€|40|2024-05-27 15h|2024-06-13 15h|
 |#|against-all-odds-409105|Against All Odds|4,99€|40|2024-05-27 15h|2024-06-13 15h|

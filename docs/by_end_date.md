@@ -1,10 +1,10 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
+|#|emulated-opsrunner-636fc3|EMULATED: OpsRunner|10,79€|17|2024-04-16 22h|2024-04-22 10h|
 |#|island-cities-0a3026|Island Cities|1,79€|30|2024-04-16 15h|2024-04-23 15h|
 |#|island-of-fear-00a3a6|Island of Fear|2,69€|45|2024-04-16 15h|2024-04-23 15h|
 |#|koropokkur-in-love-b3611c|Koropokkur in Love ~A Little Fairy’s Tale~|13,49€|70|2024-04-16 15h|2024-04-23 15h|
 |#|pinbot-ad038d|Pinbot|22,39€|20|2024-04-16 15h|2024-04-23 15h|
-|#|rpgunite-819421|RPG MAKER UNITE|89,99€|10|2024-04-16 15h|2024-04-23 15h|
 |#|space-elite-force-a00006|SPACE ELITE FORCE|2,69€|50|2024-04-16 15h|2024-04-23 15h|
 |#|shadow-gangs-0ce20b|Shadow Gangs|22,39€|40|2024-04-16 15h|2024-04-23 15h|
 |#|slide-stories-buckys-quest-4c9f6e|Slide Stories - Bucky's Quest|1,79€|20|2024-04-16 15h|2024-04-23 15h|
@@ -18,7 +18,6 @@
 |#|escape-academy-bfc2bf|Escape Academy|15,99€|50|2024-04-18 16h|2024-04-26 16h|
 |#|fur-squadron-0042b8|FUR Squadron|6,29€|50|2024-04-20 23h|2024-04-27 23h|
 |#|revive-and-prosper-267559|Revive and Prosper|17,99€|20|2024-04-21 16h|2024-04-28 16h|
-|#|eiyuden-chronicle-hundred-heroes|Eiyuden Chronicle: Hundred Heroes|49,99€|10|2024-04-15 15h|2024-04-29 22h|
 |#|1001-jigsaw-earth-chronicles-7b25fc|1001 Jigsaw. Earth Chronicles|4,49€|50|2024-04-23 15h|2024-04-30 15h|
 |#|alien-isolation|Alien: Isolation|39,99€|80|2024-04-23 15h|2024-04-30 15h|
 |#|asian-riddles-223489|Asian Riddles|4,49€|60|2024-04-23 15h|2024-04-30 15h|
@@ -130,6 +129,7 @@
 |#|travel-cuisine-collectors-edition-f24880|Travel Cuisine Collector's Edition|4,49€|40|2024-05-07 15h|2024-05-14 15h|
 |#|undergrave-4d084b|Undergrave|7,99€|50|2024-05-07 15h|2024-05-14 15h|
 |#|upaon-a-snakes-journey-672f92|Upaon A Snakes Journey|1,99€|60|2024-05-07 15h|2024-05-14 15h|
+|#|world-of-contraptions-6dbc07|World of Contraptions|8,99€|70|2024-05-07 15h|2024-05-14 15h|
 |#|electron-zaraftor-751dfc|ELECTRON ZARAFTOR|22,39€|92|2024-04-16 08h|2024-05-16 08h|
 |#|dark-light|Dark Light|15,29€|35|2024-05-04 23h|2024-05-17 14h|
 |#|shame-legacy-ef1b66|Shame Legacy|22,39€|80|2024-04-30 22h|2024-05-18 22h|
@@ -159,6 +159,7 @@
 |#|steal-then-just-escape-87b7b6|Steal, Then Just Escape|3,69€|60|2024-05-13 16h|2024-05-24 16h|
 |#|anonymous-hunting-simulator-5eac14|ANONYMOUS HUNTING SIMULATOR|0,89€|50|2024-05-09 22h|2024-05-24 22h|
 |#|the-inheritance-of-crimson-manor-81bc67|The Inheritance of Crimson Manor|17,99€|80|2024-05-11 14h|2024-05-26 07h|
+|#|the-mims-beginning-996468|The Mims Beginning|13,49€|40|2024-05-21 15h|2024-05-28 15h|
 |#|anime-vs-evil-apocalypse-4c8f91|Anime vs Evil: Apocalypse|17,99€|70|2024-05-14 20h|2024-05-28 20h|
 |#|serbian-dancing-lady-94e658|Serbian Dancing Lady|0,89€|50|2024-05-07 22h|2024-05-29 22h|
 |#|street-fighting-simulator-40f23a|Street Fighting Simulator|0,89€|50|2024-05-11 22h|2024-05-29 22h|
@@ -169,8 +170,10 @@
 |#|necromunda-hired-gun|Necromunda: Hired Gun|39,99€|75|2024-05-23 16h|2024-05-30 16h|
 |#|boltgun-b1cb36|Warhammer 40,000: Boltgun|21,99€|35|2024-05-23 16h|2024-05-30 16h|
 |#|warhammer-40000-chaos-gate-daemonhunters|Warhammer 40,000: Chaos Gate - Daemonhunters|44,99€|70|2024-05-23 16h|2024-05-30 16h|
+|#|warhammer-40000-rogue-trader|Warhammer 40,000: Rogue Trader|49,99€|30|2024-05-23 16h|2024-05-30 16h|
 |#|warhammer-age-of-sigmar-realms-of-ruin|Warhammer Age of Sigmar: Realms of Ruin|59,99€|80|2024-05-23 16h|2024-05-30 16h|
 |#|warhammer-age-of-sigmar-storm-ground|Warhammer Age of Sigmar: Storm Ground|19,99€|80|2024-05-23 16h|2024-05-30 16h|
+|#|last-hope-bunker-zombie-survival-92a49d|Last Hope Bunker: Zombie Survival|6,29€|60|2024-05-10 09h|2024-05-30 21h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|60|2024-05-24 21h|2024-05-31 21h|
 |#|true-hate-007027|True Hate|5,99€|90|2024-05-17 22h|2024-06-01 22h|
 |#|devils-island-03e902|Devil's Island|10,79€|80|2024-05-27 13h|2024-06-03 13h|
@@ -183,7 +186,6 @@
 |#|life-after-death-b4e964|Life After Death|4,49€|40|2024-05-17 00h|2024-06-07 00h|
 |#|choochoo-charles-0eece5|Choo-Choo Charles|17,99€|20|2024-05-31 08h|2024-06-08 08h|
 |#|my-product-dd564210-c8dea6|Evil Seal|9,75€|50|2024-06-02 16h|2024-06-09 16h|
-|#|rpgunite-819421|RPG MAKER UNITE|89,99€|25|2024-05-27 06h|2024-06-10 06h|
 |#|nextbots-in-the-backrooms-b5677b|Nextbots In The Backrooms|0,89€|50|2024-05-25 22h|2024-06-11 22h|
 |#|gamedec|Gamedec - Definitive Edition|29,99€|60|2024-05-16 05h|2024-06-13 05h|
 |#|liberte-96a5e5|Liberte|17,99€|60|2024-05-16 05h|2024-06-13 05h|

@@ -1,8 +1,6 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
 |#|ea-star-wars-triple-bundle|EA STAR WARS™ TRIPLE BUNDLE|89,99€|90|2024-05-02 15h|2024-05-09 15h|
-|#|rpgunite-819421|RPG MAKER UNITE|89,99€|10|2024-04-16 15h|2024-04-23 15h|
-|#|rpgunite-819421|RPG MAKER UNITE|89,99€|25|2024-05-27 06h|2024-06-10 06h|
 |#|final-fantasy-vii-remake-intergrade|FINAL FANTASY VII REMAKE INTERGRADE|79,99€|50|2024-05-06 15h|2024-05-20 15h|
 |#|forspoken|Forspoken|79,99€|60|2024-05-06 15h|2024-05-20 15h|
 |#|star-wars-jedi-survivor|STAR WARS Jedi: Survivor™|69,99€|55|2024-05-02 15h|2024-05-09 15h|
@@ -27,7 +25,6 @@
 |#|the-mystery-of-the-moon-7f3e48|The Mystery Of The Moon|53,99€|80|2024-11-14 16h|2024-11-19 15h|
 |#|the-mystery-of-the-moon-7f3e48|The Mystery Of The Moon|53,99€|80|2024-12-19 16h|2025-01-04 16h|
 |#|elex-ii|ELEX II|49,99€|60|2024-05-16 15h|2024-06-13 15h|
-|#|eiyuden-chronicle-hundred-heroes|Eiyuden Chronicle: Hundred Heroes|49,99€|10|2024-04-15 15h|2024-04-29 22h|
 |#|hot-wheels-unleashed-2|HOT WHEELS UNLEASHED™ 2 - Turbocharged|49,99€|60|2024-05-16 15h|2024-06-13 15h|
 |#|humankind|HUMANKIND™ Standard Edition|49,99€|75|2024-05-30 14h|2024-06-13 14h|
 |#|kingdom-hearts-hd-1-5-2-5-remix|KINGDOM HEARTS HD 1.5+2.5 ReMIX|49,99€|60|2024-05-06 15h|2024-05-20 15h|
@@ -35,6 +32,7 @@
 |#|saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited|Saviors of Sapphire Wings & Strangers of Sword City Revisited|49,99€|60|2024-04-27 15h|2024-05-06 14h|
 |#|star-trek-prodigy-supernova-cdb770|Star Trek Prodigy: Supernova|49,99€|70|2024-05-16 15h|2024-06-13 15h|
 |#|tyranny|Tyranny - Gold Edition|49,99€|75|2024-05-16 15h|2024-06-13 15h|
+|#|warhammer-40000-rogue-trader|Warhammer 40,000: Rogue Trader|49,99€|30|2024-05-23 16h|2024-05-30 16h|
 |#|expeditions-rome|Expeditions: Rome|44,99€|60|2024-05-16 15h|2024-06-13 15h|
 |#|partisan-general-audience|Knights of Honor II: Sovereign|44,99€|50|2024-05-16 15h|2024-06-13 15h|
 |#|warhammer-40000-chaos-gate-daemonhunters|Warhammer 40,000: Chaos Gate - Daemonhunters|44,99€|70|2024-05-23 16h|2024-05-30 16h|
@@ -302,6 +300,7 @@
 |#|skotos-455463|Skotos|13,49€|30|2024-08-01 06h|2024-08-30 06h|
 |#|skotos-455463|Skotos|13,49€|30|2024-11-01 06h|2024-11-30 07h|
 |#|starport-trading-company-9b3538|Spaceport Trading Company|13,49€|25|2024-04-16 15h|2024-04-23 15h|
+|#|the-mims-beginning-996468|The Mims Beginning|13,49€|40|2024-05-21 15h|2024-05-28 15h|
 |#|timothy-vs-the-aliens-2f5b36|Timothy vs the Aliens|13,49€|80|2024-05-16 15h|2024-06-13 15h|
 |#|train-valley-2-3606da|Train Valley 2|13,49€|65|2024-05-16 15h|2024-06-13 15h|
 |#|turnip-boy-robs-a-bank-3fae0e|Turnip Boy Robs a Bank|13,49€|25|2024-04-30 15h|2024-05-07 15h|
@@ -347,6 +346,7 @@
 |#|contraption-maker-66e1ec|Contraption Maker|10,79€|40|2024-04-30 15h|2024-05-07 15h|
 |#|devils-island-03e902|Devil's Island|10,79€|80|2024-05-27 13h|2024-06-03 13h|
 |#|die-again-9d5045|Die Again|10,79€|17|2024-05-16 15h|2024-06-13 15h|
+|#|emulated-opsrunner-636fc3|EMULATED: OpsRunner|10,79€|17|2024-04-16 22h|2024-04-22 10h|
 |#|your-computer-might-be-at-risk-c5dea9|Your Computer Might Be At Risk|10,79€|45|2024-05-16 15h|2024-06-13 15h|
 |#|bloodshore-939cb0|Bloodshore|9,99€|40|2024-05-16 15h|2024-06-13 15h|
 |#|five-dates-60ef51|Five Dates|9,99€|40|2024-05-16 15h|2024-06-13 15h|
@@ -386,6 +386,7 @@
 |#|forest-quartet-5d03e3|The Forest Quartet|8,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|the-saviors-gang-959fd2|The Savior's Gang|8,99€|20|2024-05-16 15h|2024-06-13 15h|
 |#|they-always-run-965bb3|They Always Run|8,99€|65|2024-05-16 15h|2024-06-13 15h|
+|#|world-of-contraptions-6dbc07|World of Contraptions|8,99€|70|2024-05-07 15h|2024-05-14 15h|
 |#|next-game-c139be|Zi|8,99€|50|2024-05-16 15h|2024-06-13 15h|
 |#|switchball-hd-6d3802|Switchball HD|8,09€|50|2024-05-16 15h|2024-06-13 15h|
 |#|nira-02f6ee|Nira|7,99€|80|2024-04-30 15h|2024-05-07 15h|
@@ -407,6 +408,7 @@
 |#|cyber-drift-6ac51b|Cyber Drift|6,29€|50|2024-05-25 16h|2024-06-24 16h|
 |#|dark-journey-the-fate-of-the-demon-king-4bf628|Dark Journey:The Fate of the Demon King|6,29€|15|2024-04-23 15h|2024-04-30 15h|
 |#|fur-squadron-0042b8|FUR Squadron|6,29€|50|2024-04-20 23h|2024-04-27 23h|
+|#|last-hope-bunker-zombie-survival-92a49d|Last Hope Bunker: Zombie Survival|6,29€|60|2024-05-10 09h|2024-05-30 21h|
 |#|red-ronin-d2678c|Red Ronin|5,99€|60|2024-05-07 15h|2024-05-14 15h|
 |#|stick-it-to-the-man|Stick It To The Man!|5,99€|80|2024-05-16 15h|2024-06-13 15h|
 |#|true-hate-007027|True Hate|5,99€|90|2024-05-17 22h|2024-06-01 22h|
