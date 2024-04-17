@@ -131,6 +131,8 @@
 |#|blue-fire-9c1dac|Blue Fire|15,99€|75|2024-04-30 15h|2024-05-07 15h|
 |#|chronos-before-the-ashes|Chronos: Before the Ashes|29,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|comanche|Comanche|19,99€|75|2024-05-16 15h|2024-06-13 15h|
+|#|cook-serve-delicious-2-6db46c|Cook Serve Delicious 2|9,99€|75|2024-05-16 15h|2024-06-13 15h|
+|#|cook-serve-delicious-3-fb9aae|Cook, Serve, Delicious! 3?!|15,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|dark-deity-0b08d1|Dark Deity|21,99€|75|2024-05-27 15h|2024-06-13 15h|
 |#|darksiders-genesis|Darksiders Genesis|29,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|darksiders2|Darksiders II Deathinitive Edition|29,99€|75|2024-05-16 15h|2024-06-13 15h|

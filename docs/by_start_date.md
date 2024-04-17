@@ -216,6 +216,8 @@
 |#|comanche|Comanche|19,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|company-of-crime-a5af43|Company of Crime|19,99€|85|2024-05-16 15h|2024-06-13 15h|
 |#|conglomerate-451-6570f5|Conglomerate 451|19,99€|85|2024-05-16 15h|2024-06-13 15h|
+|#|cook-serve-delicious-2-6db46c|Cook Serve Delicious 2|9,99€|75|2024-05-16 15h|2024-06-13 15h|
+|#|cook-serve-delicious-3-fb9aae|Cook, Serve, Delicious! 3?!|15,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|covid-carl-7dd371|Covid Carl|3,59€|45|2024-05-16 15h|2024-06-13 15h|
 |#|cris-tales|Cris Tales|39,99€|90|2024-05-16 15h|2024-06-13 15h|
 |#|crosshair-x-5d70eb|Crosshair X|7,19€|20|2024-05-16 15h|2024-06-13 15h|
