@@ -1611,6 +1611,15 @@
     "title": "Falling Out"
   },
   {
+    "discountPercentage": 85,
+    "endDate": "2024-05-19T00:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "family-man-bbc679",
+    "startDate": "2024-04-19T00:00:00.000Z",
+    "title": "Family Man"
+  },
+  {
     "discountPercentage": 80,
     "endDate": "2024-06-13T15:00:00.000Z",
     "isFree": false,
@@ -1627,6 +1636,15 @@
     "slug": "farwest-colony-aaa81c",
     "startDate": "2024-05-16T15:00:00.000Z",
     "title": "FarWest Colony"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-05-19T00:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "fashion-police-squad",
+    "startDate": "2024-04-19T00:00:00.000Z",
+    "title": "Fashion Police Squad"
   },
   {
     "discountPercentage": 75,
@@ -2142,6 +2160,15 @@
     "title": "Human Resource Machine"
   },
   {
+    "discountPercentage": 60,
+    "endDate": "2024-05-19T00:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1679,
+    "slug": "hypnospace-outlaw",
+    "startDate": "2024-04-19T00:00:00.000Z",
+    "title": "Hypnospace Outlaw"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2024-06-13T15:00:00.000Z",
     "isFree": false,
@@ -2250,15 +2277,6 @@
     "title": "Island Idle RPG"
   },
   {
-    "discountPercentage": 25,
-    "endDate": "2024-04-24T05:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1709,
-    "slug": "island-paradise-6a6d26",
-    "startDate": "2024-04-17T13:00:00.000Z",
-    "title": "Island Paradise"
-  },
-  {
     "discountPercentage": 45,
     "endDate": "2024-06-04T15:00:00.000Z",
     "isFree": false,
@@ -2275,6 +2293,15 @@
     "slug": "it-follows-you-b11f3e",
     "startDate": "2024-06-05T22:00:00.000Z",
     "title": "It follows you"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2024-05-03T10:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "jack-holmes-master-of-puppets-a76571",
+    "startDate": "2024-04-26T10:00:00.000Z",
+    "title": "Jack Holmes: Master of Puppets"
   },
   {
     "discountPercentage": 80,
@@ -2365,6 +2392,15 @@
     "slug": "kine",
     "startDate": "2024-05-16T15:00:00.000Z",
     "title": "Kine"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 4999,
+    "slug": "kings-bounty-ii-dukes-edition-8df41c",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "King's Bounty II - Duke's Edition"
   },
   {
     "discountPercentage": 85,
@@ -2563,6 +2599,15 @@
     "slug": "lets-build-a-zoo",
     "startDate": "2024-04-18T00:00:00.000Z",
     "title": "Let's Build A Zoo"
+  },
+  {
+    "discountPercentage": 25,
+    "endDate": "2024-05-02T23:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 359,
+    "slug": "letters-and-legends-2a2c80",
+    "startDate": "2024-04-25T23:00:00.000Z",
+    "title": "Letters & Legends"
   },
   {
     "discountPercentage": 80,
@@ -3076,6 +3121,24 @@
     "slug": "nira-02f6ee",
     "startDate": "2024-04-30T15:00:00.000Z",
     "title": "Nira"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-05-19T00:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "not-tonight-2",
+    "startDate": "2024-04-19T00:00:00.000Z",
+    "title": "Not Tonight 2"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-05-19T00:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1999,
+    "slug": "nowhere-prophet-4790db",
+    "startDate": "2024-04-19T00:00:00.000Z",
+    "title": "Nowhere Prophet"
   },
   {
     "discountPercentage": 50,
@@ -3949,6 +4012,15 @@
     "slug": "smalland",
     "startDate": "2024-04-23T15:00:00.000Z",
     "title": "Smalland: Survive the Wilds"
+  },
+  {
+    "discountPercentage": 60,
+    "endDate": "2024-05-19T00:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1599,
+    "slug": "soccer-story-c2fe73",
+    "startDate": "2024-04-19T00:00:00.000Z",
+    "title": "Soccer Story"
   },
   {
     "discountPercentage": 50,
@@ -4905,6 +4977,33 @@
     "title": "Tormented Souls"
   },
   {
+    "discountPercentage": 63,
+    "endDate": "2024-05-30T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "total-war-warhammer",
+    "startDate": "2024-05-23T17:00:00.000Z",
+    "title": "Total War: WARHAMMER"
+  },
+  {
+    "discountPercentage": 75,
+    "endDate": "2024-05-30T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "total-war-warhammer-ii",
+    "startDate": "2024-05-23T17:00:00.000Z",
+    "title": "Total War: WARHAMMER II"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-05-30T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 5999,
+    "slug": "total-war-warhammer-3",
+    "startDate": "2024-05-23T17:00:00.000Z",
+    "title": "Total War: WARHAMMER III"
+  },
+  {
     "discountPercentage": 100,
     "endDate": "2024-04-25T15:00:00.000Z",
     "isFree": true,
@@ -5317,6 +5416,15 @@
     "slug": "wreckfest",
     "startDate": "2024-05-16T15:00:00.000Z",
     "title": "Wreckfest"
+  },
+  {
+    "discountPercentage": 65,
+    "endDate": "2024-05-19T00:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1679,
+    "slug": "yes-your-grace",
+    "startDate": "2024-04-19T00:00:00.000Z",
+    "title": "Yes, Your Grace"
   },
   {
     "discountPercentage": 80,
