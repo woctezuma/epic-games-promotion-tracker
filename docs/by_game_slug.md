@@ -137,6 +137,7 @@
 |#|diluvian-ultra-a5ad8c|Diluvian Ultra|9,99€|30|2024-05-16 15h|2024-06-13 15h|
 |#|disaster-report-4-summer-memories|Disaster Report 4: Summer Memories|59,99€|67|2024-04-27 15h|2024-05-06 14h|
 |#|disgaea-6-complete|Disgaea 6 Complete|59,99€|35|2024-04-27 15h|2024-05-06 14h|
+|#|dizzy-fight-7bbfe7|Dizzy Fight|7,19€|70|2024-05-28 15h|2024-06-04 15h|
 |#|dojoran-1e6fb7|Dojoran|4,49€|60|2024-05-16 15h|2024-06-13 15h|
 |#|doomed-lands-7e2565|Doomed Lands|11,99€|50|2024-05-27 15h|2024-06-13 15h|
 |#|double-cross-08a736|Double Cross|15,99€|80|2024-04-30 15h|2024-05-07 15h|
@@ -227,6 +228,7 @@
 |#|haimrik-5f59a7|Haimrik|9,99€|90|2024-05-16 15h|2024-06-13 15h|
 |#|hammerting|Hammerting|24,99€|90|2024-05-16 15h|2024-06-13 15h|
 |#|hands-of-necromancy-7d8e28|Hands of Necromancy|4,99€|50|2024-05-16 15h|2024-06-13 15h|
+|#|hanoi-puzzles-solid-match-6a9e0c|Hanoi Puzzles - Solid Match|2,69€|50|2024-05-16 15h|2024-06-13 15h|
 |#|he-will-shoot-46efff|He Will Shoot|1,59€|70|2024-04-25 22h|2024-05-13 22h|
 |#|he-will-shoot-46efff|He Will Shoot|1,59€|75|2024-06-14 22h|2024-06-29 22h|
 |#|hello-goodboy-4b2edb|Hello Goodboy|14,99€|40|2024-05-27 15h|2024-06-13 15h|
@@ -327,6 +329,7 @@
 |#|monster-jam-steel-titans-2|Monster Jam Steel Titans 2|29,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|moons-of-ardan-d4f9a3|Moons of Ardan|19,99€|25|2024-05-16 15h|2024-06-13 15h|
 |#|morels-ed7501|Morels: The Hunt|17,99€|75|2024-05-16 15h|2024-06-13 15h|
+|#|mortal-online-2-d7bb78|Mortal Online 2|35,99€|30|2024-05-16 15h|2024-06-13 15h|
 |#|mosaics-galore-4fbedf|Mosaics Galore|4,49€|50|2024-04-30 15h|2024-05-07 15h|
 |#|mosaics-galore-challenging-journey-3ee83b|Mosaics Galore. Challenging journey|4,49€|50|2024-04-23 15h|2024-04-30 15h|
 |#|moving-out|Moving Out|22,99€|75|2024-05-16 15h|2024-06-13 15h|
@@ -587,6 +590,7 @@
 |#|war-mongrels|War Mongrels|37,99€|80|2024-04-27 22h|2024-05-18 22h|
 |#|warhammer-40000-chaos-gate-daemonhunters|Warhammer 40,000: Chaos Gate - Daemonhunters|44,99€|70|2024-05-23 16h|2024-05-30 16h|
 |#|warhammer-40000-gladius-relics-of-war|Warhammer 40,000: Gladius - Relics of War|31,99€|100|2024-05-23 09h|2024-05-30 09h|
+|#|warhammer-40000-rogue-trader|Warhammer 40,000: Rogue Trader|49,99€|30|2024-05-23 16h|2024-05-30 16h|
 |#|warhammer-age-of-sigmar-realms-of-ruin|Warhammer Age of Sigmar: Realms of Ruin|59,99€|80|2024-05-23 16h|2024-05-30 16h|
 |#|warhammer-age-of-sigmar-storm-ground|Warhammer Age of Sigmar: Storm Ground|19,99€|80|2024-05-23 16h|2024-05-30 16h|
 |#|warmsnow-7e3180|WarmSnow|13,99€|30|2024-05-16 15h|2024-06-13 15h|

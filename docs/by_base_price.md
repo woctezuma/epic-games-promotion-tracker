@@ -37,6 +37,7 @@
 |#|saviors-of-sapphire-wings-and-strangers-of-sword-city-revisited|Saviors of Sapphire Wings & Strangers of Sword City Revisited|49,99€|60|2024-04-27 15h|2024-05-06 14h|
 |#|star-trek-prodigy-supernova-cdb770|Star Trek Prodigy: Supernova|49,99€|70|2024-05-16 15h|2024-06-13 15h|
 |#|tyranny|Tyranny - Gold Edition|49,99€|75|2024-05-16 15h|2024-06-13 15h|
+|#|warhammer-40000-rogue-trader|Warhammer 40,000: Rogue Trader|49,99€|30|2024-05-23 16h|2024-05-30 16h|
 |#|expeditions-rome|Expeditions: Rome|44,99€|60|2024-05-16 15h|2024-06-13 15h|
 |#|partisan-general-audience|Knights of Honor II: Sovereign|44,99€|50|2024-05-16 15h|2024-06-13 15h|
 |#|warhammer-40000-chaos-gate-daemonhunters|Warhammer 40,000: Chaos Gate - Daemonhunters|44,99€|70|2024-05-23 16h|2024-05-30 16h|
@@ -70,6 +71,7 @@
 |#|the-sinking-city|The Sinking City|39,99€|75|2024-04-23 15h|2024-04-30 15h|
 |#|way-of-the-hunter|Way of the Hunter|39,99€|50|2024-05-16 15h|2024-06-13 15h|
 |#|war-mongrels|War Mongrels|37,99€|80|2024-04-27 22h|2024-05-18 22h|
+|#|mortal-online-2-d7bb78|Mortal Online 2|35,99€|30|2024-05-16 15h|2024-06-13 15h|
 |#|in-sound-mind|In Sound Mind|34,99€|90|2024-05-16 15h|2024-06-13 15h|
 |#|smalland|Smalland: Survive the Wilds|34,99€|30|2024-04-23 15h|2024-04-30 15h|
 |#|just-cause-4|Just Cause 4 Reloaded|32,99€|85|2024-05-16 15h|2024-06-13 15h|
@@ -452,6 +454,7 @@
 |#|angelo-and-deemon-one-hell-of-a-quest-94d7e2|Angelo and Deemon: One Hell of a Quest|7,19€|60|2024-05-16 15h|2024-06-13 15h|
 |#|crosshair-x-5d70eb|Crosshair X|7,19€|20|2024-05-16 15h|2024-06-13 15h|
 |#|destructure-among-debris-b4aaf8|DESTRUCTURE: Among Debris|7,19€|60|2024-05-16 15h|2024-06-13 15h|
+|#|dizzy-fight-7bbfe7|Dizzy Fight|7,19€|70|2024-05-28 15h|2024-06-04 15h|
 |#|mallofmayhem-15344c|Mall of Mayhem|7,19€|30|2024-07-01 06h|2024-07-30 22h|
 |#|mallofmayhem-15344c|Mall of Mayhem|7,19€|30|2024-10-01 06h|2024-10-30 22h|
 |#|saboteur-ii-avenging-angel-33e83c|Saboteur II Avenging Angel|7,19€|10|2024-04-20 23h|2024-05-19 23h|
@@ -552,6 +555,7 @@
 |#|ravens-hike-c34341|Ravens Hike|3,19€|60|2024-05-07 15h|2024-05-14 15h|
 |#|desert-law-81b321|Desert Law|2,99€|80|2024-05-16 15h|2024-06-13 15h|
 |#|road-defense-outsiders-22e4ba|Road Defense: Outsiders|2,99€|20|2024-05-07 15h|2024-05-14 15h|
+|#|hanoi-puzzles-solid-match-6a9e0c|Hanoi Puzzles - Solid Match|2,69€|50|2024-05-16 15h|2024-06-13 15h|
 |#|island-of-fear-00a3a6|Island of Fear|2,69€|45|2024-05-28 15h|2024-06-04 15h|
 |#|mahjong-royal-towers-e327ab|Mahjong Royal Towers|2,69€|50|2024-04-30 15h|2024-05-07 15h|
 |#|projectelement-a1ec94|Project Element|2,69€|20|2024-04-30 15h|2024-05-07 15h|
