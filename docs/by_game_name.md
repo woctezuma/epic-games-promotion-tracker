@@ -179,8 +179,10 @@
 |#|fallen-legion-revenants-a2c944|Fallen Legion Revenants|39,99€|35|2024-04-27 15h|2024-05-06 14h|
 |#|fallen-legion-rise-to-glory-0ea64a|Fallen Legion: Rise to Glory|29,99€|35|2024-04-27 15h|2024-05-06 14h|
 |#|falling-out-cb0814|Falling Out|13,49€|67|2024-05-23 15h|2024-06-06 22h|
+|#|family-man-bbc679|Family Man|15,99€|85|2024-04-19 00h|2024-05-19 00h|
 |#|fantasy-wars-ec9601|Fantasy Wars|4,99€|80|2024-05-16 15h|2024-06-13 15h|
 |#|farwest-colony-aaa81c|FarWest Colony|15,29€|50|2024-05-16 15h|2024-06-13 15h|
+|#|fashion-police-squad|Fashion Police Squad|15,99€|50|2024-04-19 00h|2024-05-19 00h|
 |#|fell-seal-arbiters-mark|Fell Seal: Arbiter's Mark|29,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|figment|Figment|19,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|figment2-creed-valley|Figment 2: Creed Valley|24,99€|65|2024-05-16 15h|2024-06-13 15h|
@@ -238,6 +240,7 @@
 |#|house-flipper|House Flipper|24,50€|50|2024-05-16 16h|2024-06-13 16h|
 |#|house-party-ae8b27|House Party|24,99€|50|2024-05-16 15h|2024-06-13 15h|
 |#|human-resource-machine|Human Resource Machine|11,99€|50|2024-05-16 15h|2024-06-13 15h|
+|#|hypnospace-outlaw|Hypnospace Outlaw|16,79€|60|2024-04-19 00h|2024-05-19 00h|
 |#|i-saw-black-clouds-67008d|I Saw Black Clouds|9,99€|40|2024-05-16 15h|2024-06-13 15h|
 |#|im-in-love-with-your-dead-grandmother-15e7d4|I'm in Love With Your Dead Grandmother|4,49€|70|2024-05-16 15h|2024-06-13 15h|
 |#|im-looking-for-3024-people-1cdae4|I'm looking for 3024 people|3,99€|50|2024-05-16 15h|2024-06-13 15h|
@@ -250,9 +253,9 @@
 |#|ironcast|Ironcast|12,99€|80|2024-05-16 15h|2024-06-13 15h|
 |#|island-farmer-ce8ee6|Island Farmer|1,79€|30|2024-05-16 15h|2024-06-13 15h|
 |#|island-idle-rpg-350c2e|Island Idle RPG|4,49€|30|2024-05-07 15h|2024-05-14 15h|
-|#|island-paradise-6a6d26|Island Paradise|17,09€|25|2024-04-17 13h|2024-04-24 05h|
 |#|island-of-fear-00a3a6|Island of Fear|2,69€|45|2024-05-28 15h|2024-06-04 15h|
 |#|it-follows-you-b11f3e|It follows you|1,59€|75|2024-06-05 22h|2024-06-19 22h|
+|#|jack-holmes-master-of-puppets-a76571|Jack Holmes: Master of Puppets|19,99€|25|2024-04-26 10h|2024-05-03 10h|
 |#|joggernauts-a7767f|Joggernauts|11,99€|80|2024-04-30 15h|2024-05-07 15h|
 |#|jotun|Jotun: Valhalla Edition|14,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|jusant|Jusant|24,99€|30|2024-04-30 17h|2024-05-06 17h|
@@ -263,6 +266,7 @@
 |#|kingdom-hearts-melody-of-memory|KINGDOM HEARTS Melody of Memory|59,99€|60|2024-05-06 15h|2024-05-20 15h|
 |#|kapital-sparks-of-revolution-70f07b|Kapital: Sparks of Revolution|19,99€|80|2024-05-16 15h|2024-06-13 15h|
 |#|kine|Kine|11,99€|70|2024-05-16 15h|2024-06-13 15h|
+|#|kings-bounty-ii-dukes-edition-8df41c|King's Bounty II - Duke's Edition|49,99€|50|2024-05-16 15h|2024-06-13 15h|
 |#|kings-bounty-armored-princess-2fbc57|King's Bounty: Armored Princess|9,99€|85|2024-05-16 15h|2024-06-13 15h|
 |#|kings-bounty-crossworlds-da093a|King's Bounty: Crossworlds|14,99€|85|2024-05-16 15h|2024-06-13 15h|
 |#|kings-bounty-dark-side-c3066f|King's Bounty: Dark Side|12,99€|85|2024-05-16 15h|2024-06-13 15h|
@@ -285,6 +289,7 @@
 |#|legend-of-grimrock|Legend of Grimrock|11,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|legend-of-grimrock-2|Legend of Grimrock 2|23,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|lets-build-a-zoo|Let's Build A Zoo|15,99€|50|2024-04-18 00h|2024-05-18 00h|
+|#|letters-and-legends-2a2c80|Letters & Legends|3,59€|25|2024-04-25 23h|2024-05-02 23h|
 |#|liberated-f13008|Liberated|15,99€|80|2024-05-16 15h|2024-06-13 15h|
 |#|liberte-96a5e5|Liberte|17,99€|60|2024-05-16 05h|2024-06-13 05h|
 |#|life-after-death-b4e964|Life After Death|4,49€|40|2024-05-17 00h|2024-06-07 00h|
@@ -342,6 +347,8 @@
 |#|nextbots-in-the-backrooms-b5677b|Nextbots In The Backrooms|0,89€|50|2024-07-14 22h|2024-07-30 22h|
 |#|night-book-77f2c7|Night Book|9,99€|40|2024-05-16 15h|2024-06-13 15h|
 |#|nira-02f6ee|Nira|7,99€|80|2024-04-30 15h|2024-05-07 15h|
+|#|not-tonight-2|Not Tonight 2|15,99€|60|2024-04-19 00h|2024-05-19 00h|
+|#|nowhere-prophet-4790db|Nowhere Prophet|19,99€|60|2024-04-19 00h|2024-05-19 00h|
 |#|outriders|OUTRIDERS|19,99€|50|2024-05-16 15h|2024-06-13 15h|
 |#|oirbo-c063b7|Oirbo|13,49€|25|2024-05-16 15h|2024-06-13 15h|
 |#|one-military-camp-8db1f6|One Military Camp|24,99€|40|2024-05-16 15h|2024-06-13 15h|
@@ -439,6 +446,7 @@
 |#|skotos-455463|Skotos|13,49€|30|2024-08-01 06h|2024-08-30 06h|
 |#|skotos-455463|Skotos|13,49€|30|2024-11-01 06h|2024-11-30 07h|
 |#|smalland|Smalland: Survive the Wilds|34,99€|30|2024-04-23 15h|2024-04-30 15h|
+|#|soccer-story-c2fe73|Soccer Story|15,99€|60|2024-04-19 00h|2024-05-19 00h|
 |#|solitaire-game-halloween-5268c1|Solitaire Game Halloween|4,49€|50|2024-05-14 15h|2024-05-21 15h|
 |#|song-of-farca-1eb3f2|Song of Farca|19,50€|75|2024-05-16 15h|2024-06-13 15h|
 |#|soulstice|Soulstice|39,99€|60|2024-05-16 15h|2024-06-13 15h|
@@ -545,6 +553,9 @@
 |#|titan-quest|Titan Quest Anniversary Edition|19,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|togges-17f696|Togges|19,99€|60|2024-05-16 15h|2024-06-13 15h|
 |#|tormented-souls|Tormented Souls|19,99€|65|2024-05-16 15h|2024-06-13 15h|
+|#|total-war-warhammer|Total War: WARHAMMER|59,99€|63|2024-05-23 17h|2024-05-30 17h|
+|#|total-war-warhammer-ii|Total War: WARHAMMER II|59,99€|75|2024-05-23 17h|2024-05-30 17h|
+|#|total-war-warhammer-3|Total War: WARHAMMER III|59,99€|50|2024-05-23 17h|2024-05-30 17h|
 |#|town-of-salem-2-ab6497|Town of Salem 2|0,00€|100|2024-04-18 15h|2024-04-25 15h|
 |#|trail-of-ayash-31a1d4|Trail Of Ayash|17,99€|45|2024-05-16 15h|2024-06-13 15h|
 |#|train-valley-ead642|Train Valley|7,99€|85|2024-05-16 15h|2024-06-13 15h|
@@ -591,6 +602,7 @@
 |#|worms-rumble|Worms Rumble|14,99€|90|2024-05-16 15h|2024-06-13 15h|
 |#|wrath-aeon-of-ruin|Wrath: Aeon of Ruin|24,99€|25|2024-05-16 15h|2024-06-13 15h|
 |#|wreckfest|Wreckfest|29,99€|60|2024-05-16 15h|2024-06-13 15h|
+|#|yes-your-grace|Yes, Your Grace|16,79€|65|2024-04-19 00h|2024-05-19 00h|
 |#|yokus-island-express|Yoku's Island Express|19,99€|80|2024-05-16 15h|2024-06-13 15h|
 |#|yooka-laylee-and-the-impossible-lair|Yooka-Laylee and the Impossible Lair|29,99€|90|2024-05-16 15h|2024-06-13 15h|
 |#|your-computer-might-be-at-risk-c5dea9|Your Computer Might Be At Risk|10,79€|45|2024-05-16 15h|2024-06-13 15h|
