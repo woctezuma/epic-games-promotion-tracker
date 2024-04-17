@@ -1,6 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|55|2024-04-17 21h|2024-04-24 21h|
 |#|lets-build-a-zoo|Let's Build A Zoo|15,99€|50|2024-04-18 00h|2024-05-18 00h|
 |#|the-big-con|The Big Con|12,49€|100|2024-04-18 15h|2024-04-25 15h|
 |#|town-of-salem-2-ab6497|Town of Salem 2|0,00€|100|2024-04-18 15h|2024-04-25 15h|
