@@ -2052,15 +2052,6 @@
     "title": "Hands of Necromancy"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2024-06-13T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 269,
-    "slug": "hanoi-puzzles-solid-match-6a9e0c",
-    "startDate": "2024-05-16T15:00:00.000Z",
-    "title": "Hanoi Puzzles - Solid Match"
-  },
-  {
     "discountPercentage": 70,
     "endDate": "2024-05-13T22:00:00.000Z",
     "isFree": false,
@@ -2203,6 +2194,15 @@
     "slug": "il2-sturmovik-1946-4afaf1",
     "startDate": "2024-05-16T15:00:00.000Z",
     "title": "IL-2 Sturmovik: 1946"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2024-05-02T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1999,
+    "slug": "industria",
+    "startDate": "2024-04-25T15:00:00.000Z",
+    "title": "INDUSTRIA"
   },
   {
     "discountPercentage": 30,
@@ -2941,15 +2941,6 @@
     "slug": "morels-ed7501",
     "startDate": "2024-05-16T15:00:00.000Z",
     "title": "Morels: The Hunt"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2024-06-13T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 3599,
-    "slug": "mortal-online-2-d7bb78",
-    "startDate": "2024-05-16T15:00:00.000Z",
-    "title": "Mortal Online 2"
   },
   {
     "discountPercentage": 50,
@@ -5290,15 +5281,6 @@
     "slug": "warhammer-40000-gladius-relics-of-war",
     "startDate": "2024-05-23T09:00:00.000Z",
     "title": "Warhammer 40,000: Gladius - Relics of War"
-  },
-  {
-    "discountPercentage": 30,
-    "endDate": "2024-05-30T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 4999,
-    "slug": "warhammer-40000-rogue-trader",
-    "startDate": "2024-05-23T16:00:00.000Z",
-    "title": "Warhammer 40,000: Rogue Trader"
   },
   {
     "discountPercentage": 80,
