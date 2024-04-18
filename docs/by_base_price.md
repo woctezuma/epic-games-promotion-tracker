@@ -160,6 +160,7 @@
 |#|crying-suns|Crying Suns|21,99€|70|2024-05-16 15h|2024-06-13 15h|
 |#|dark-deity-0b08d1|Dark Deity|21,99€|75|2024-05-27 15h|2024-06-13 15h|
 |#|boltgun-b1cb36|Warhammer 40,000: Boltgun|21,99€|35|2024-05-23 16h|2024-05-30 16h|
+|#|alaskan-road-truckers-d31463|Alaskan Road Truckers|21,50€|30|2024-04-18 15h|2024-04-25 15h|
 |#|airborne-kingdom|Airborne Kingdom|20,99€|50|2024-05-27 15h|2024-06-13 15h|
 |#|1428-shadows-over-silesia-266e5f|1428: Shadows over Silesia|19,99€|60|2024-05-07 15h|2024-05-14 15h|
 |#|9-years-of-shadows-a40c92|9 Years of Shadows|19,99€|40|2024-05-27 15h|2024-06-13 15h|
@@ -444,6 +445,7 @@
 |#|virus-infinite-b9ed68|Virus Infinite|8,99€|51|2024-05-07 15h|2024-05-14 15h|
 |#|world-of-contraptions-6dbc07|World of Contraptions|8,99€|70|2024-05-07 15h|2024-05-14 15h|
 |#|next-game-c139be|Zi|8,99€|50|2024-05-16 15h|2024-06-13 15h|
+|#|dream-of-tiny-snow-36f018|Dream of Tiny Snow|8,09€|15|2024-04-26 11h|2024-05-12 03h|
 |#|switchball-hd-6d3802|Switchball HD|8,09€|50|2024-05-16 15h|2024-06-13 15h|
 |#|men-of-war-condemned-heroes-5947be|Men of War Condemned Heroes|7,99€|80|2024-05-16 15h|2024-06-13 15h|
 |#|nira-02f6ee|Nira|7,99€|80|2024-04-30 15h|2024-05-07 15h|
@@ -580,6 +582,7 @@
 |#|he-will-shoot-46efff|He Will Shoot|1,59€|70|2024-04-25 22h|2024-05-13 22h|
 |#|he-will-shoot-46efff|He Will Shoot|1,59€|75|2024-06-14 22h|2024-06-29 22h|
 |#|it-follows-you-b11f3e|It follows you|1,59€|75|2024-06-05 22h|2024-06-19 22h|
+|#|3d-chess-online-615201|3D Chess Online|0,89€|40|2024-04-20 17h|2024-04-29 17h|
 |#|anonymous-hunting-simulator-5eac14|ANONYMOUS HUNTING SIMULATOR|0,89€|50|2024-05-09 22h|2024-05-24 22h|
 |#|anonymous-hunting-simulator-5eac14|ANONYMOUS HUNTING SIMULATOR|0,89€|50|2024-06-25 22h|2024-07-11 22h|
 |#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2024-05-27 22h|2024-06-13 22h|
@@ -590,15 +593,22 @@
 |#|birch-simulator-21969e|Birch Simulator|0,89€|50|2024-05-04 22h|2024-05-19 22h|
 |#|birch-simulator-21969e|Birch Simulator|0,89€|50|2024-06-21 22h|2024-07-07 22h|
 |#|birch-simulator-21969e|Birch Simulator|0,89€|50|2024-08-09 22h|2024-08-23 22h|
+|#|bus-simulator-car-driving-40dbef|Bus Simulator Car Driving|0,89€|40|2024-04-20 17h|2024-04-29 17h|
 |#|car-mechanic-city-driving-4996c5|Car Mechanic - City Driving|0,89€|50|2024-06-03 22h|2024-06-19 22h|
 |#|car-mechanic-city-driving-4996c5|Car Mechanic - City Driving|0,89€|50|2024-07-24 22h|2024-08-13 22h|
+|#|cargo-truck-simulator-2023-ff83fb|Cargo Truck Simulator 2023|0,89€|40|2024-04-20 17h|2024-04-29 17h|
+|#|city-ambulance-car-driving-1d3872|City Ambulance Car Driving|0,89€|40|2024-04-20 17h|2024-04-29 17h|
+|#|e30-drift-car-simulator-2d2977|E30 Drift Car Simulator|0,89€|40|2024-04-20 17h|2024-04-29 17h|
 |#|exit-left-or-right-bfedd2|Exit: Left or Right|0,89€|50|2024-04-23 22h|2024-05-07 22h|
 |#|exit-left-or-right-bfedd2|Exit: Left or Right|0,89€|50|2024-06-09 22h|2024-06-23 22h|
+|#|extreme-car-drift-simulator-cbd3c8|Extreme Car Drift Simulator|0,89€|40|2024-04-20 17h|2024-04-29 17h|
 |#|eyes-of-memes-d8864a|Eyes Of Memes|0,89€|50|2024-05-20 03h|2024-06-04 03h|
+|#|gangster-city-mafia-car-driving-88434c|Gangster City Mafia Car Driving|0,89€|40|2024-04-20 17h|2024-04-29 17h|
 |#|hidden-shapes-animals-0fca0f|Hidden Shapes Animals|0,89€|15|2024-04-18 17h|2024-04-25 17h|
 |#|in-the-gym-db2771|In The Gym|0,89€|50|2024-06-01 05h|2024-06-16 05h|
 |#|nextbots-in-the-backrooms-b5677b|Nextbots In The Backrooms|0,89€|50|2024-05-25 22h|2024-06-11 22h|
 |#|nextbots-in-the-backrooms-b5677b|Nextbots In The Backrooms|0,89€|50|2024-07-14 22h|2024-07-30 22h|
+|#|offroad-jeep-4x4-car-driving-simulator-2a3e3d|Offroad Jeep 4x4 Car Driving Simulator|0,89€|40|2024-04-20 17h|2024-04-29 17h|
 |#|serbian-dancing-lady-94e658|Serbian Dancing Lady|0,89€|50|2024-05-07 22h|2024-05-29 22h|
 |#|serbian-dancing-lady-94e658|Serbian Dancing Lady|0,89€|50|2024-06-30 22h|2024-07-15 22h|
 |#|street-fighting-simulator-40f23a|Street Fighting Simulator|0,89€|50|2024-05-11 22h|2024-05-29 22h|

@@ -1,5 +1,6 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
+|#|alaskan-road-truckers-d31463|Alaskan Road Truckers|21,50€|30|2024-04-18 15h|2024-04-25 15h|
 |#|the-big-con|The Big Con|12,49€|100|2024-04-18 15h|2024-04-25 15h|
 |#|town-of-salem-2-ab6497|Town of Salem 2|0,00€|100|2024-04-18 15h|2024-04-25 15h|
 |#|escape-academy-bfc2bf|Escape Academy|15,99€|50|2024-04-18 16h|2024-04-26 16h|
@@ -12,6 +13,14 @@
 |#|soccer-story-c2fe73|Soccer Story|15,99€|60|2024-04-19 00h|2024-05-19 00h|
 |#|yes-your-grace|Yes, Your Grace|16,79€|65|2024-04-19 00h|2024-05-19 00h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|75|2024-04-19 22h|2024-05-04 22h|
+|#|3d-chess-online-615201|3D Chess Online|0,89€|40|2024-04-20 17h|2024-04-29 17h|
+|#|bus-simulator-car-driving-40dbef|Bus Simulator Car Driving|0,89€|40|2024-04-20 17h|2024-04-29 17h|
+|#|cargo-truck-simulator-2023-ff83fb|Cargo Truck Simulator 2023|0,89€|40|2024-04-20 17h|2024-04-29 17h|
+|#|city-ambulance-car-driving-1d3872|City Ambulance Car Driving|0,89€|40|2024-04-20 17h|2024-04-29 17h|
+|#|e30-drift-car-simulator-2d2977|E30 Drift Car Simulator|0,89€|40|2024-04-20 17h|2024-04-29 17h|
+|#|extreme-car-drift-simulator-cbd3c8|Extreme Car Drift Simulator|0,89€|40|2024-04-20 17h|2024-04-29 17h|
+|#|gangster-city-mafia-car-driving-88434c|Gangster City Mafia Car Driving|0,89€|40|2024-04-20 17h|2024-04-29 17h|
+|#|offroad-jeep-4x4-car-driving-simulator-2a3e3d|Offroad Jeep 4x4 Car Driving Simulator|0,89€|40|2024-04-20 17h|2024-04-29 17h|
 |#|fur-squadron-0042b8|FUR Squadron|6,29€|50|2024-04-20 23h|2024-04-27 23h|
 |#|gardenia-630482|Gardenia|8,99€|10|2024-04-20 23h|2024-05-19 23h|
 |#|saboteur-ii-avenging-angel-33e83c|Saboteur II Avenging Angel|7,19€|10|2024-04-20 23h|2024-05-19 23h|
@@ -37,6 +46,7 @@
 |#|he-will-shoot-46efff|He Will Shoot|1,59€|70|2024-04-25 22h|2024-05-13 22h|
 |#|letters-and-legends-2a2c80|Letters & Legends|3,59€|25|2024-04-25 23h|2024-05-02 23h|
 |#|jack-holmes-master-of-puppets-a76571|Jack Holmes: Master of Puppets|19,99€|25|2024-04-26 10h|2024-05-03 10h|
+|#|dream-of-tiny-snow-36f018|Dream of Tiny Snow|8,09€|15|2024-04-26 11h|2024-05-12 03h|
 |#|manor-lords-ef795f|Manor Lords|39,99€|25|2024-04-26 13h|2024-05-03 13h|
 |#|disaster-report-4-summer-memories|Disaster Report 4: Summer Memories|59,99€|67|2024-04-27 15h|2024-05-06 14h|
 |#|disgaea-6-complete|Disgaea 6 Complete|59,99€|35|2024-04-27 15h|2024-05-06 14h|

@@ -462,20 +462,27 @@
 |#|trail-of-ayash-31a1d4|Trail Of Ayash|17,99€|45|2024-05-16 15h|2024-06-13 15h|
 |#|urban-tale-75b4f0|Urban Tale|12,59€|45|2024-05-16 15h|2024-06-13 15h|
 |#|your-computer-might-be-at-risk-c5dea9|Your Computer Might Be At Risk|10,79€|45|2024-05-16 15h|2024-06-13 15h|
+|#|3d-chess-online-615201|3D Chess Online|0,89€|40|2024-04-20 17h|2024-04-29 17h|
 |#|9-years-of-shadows-a40c92|9 Years of Shadows|19,99€|40|2024-05-27 15h|2024-06-13 15h|
 |#|against-all-odds-409105|Against All Odds|4,99€|40|2024-05-27 15h|2024-06-13 15h|
 |#|berzerk-recharged-c35563|Berzerk Recharged|8,99€|40|2024-05-16 15h|2024-06-13 15h|
 |#|blasphemous-2|Blasphemous 2|29,99€|40|2024-05-16 15h|2024-06-13 15h|
 |#|bloodshore-939cb0|Bloodshore|9,99€|40|2024-05-16 15h|2024-06-13 15h|
+|#|bus-simulator-car-driving-40dbef|Bus Simulator Car Driving|0,89€|40|2024-04-20 17h|2024-04-29 17h|
+|#|cargo-truck-simulator-2023-ff83fb|Cargo Truck Simulator 2023|0,89€|40|2024-04-20 17h|2024-04-29 17h|
 |#|cat-cafe-manager-68bd0d|Cat Cafe Manager|19,99€|40|2024-05-27 15h|2024-06-13 15h|
 |#|cat-slide-tiles-93b9d4|Cat Slide Tiles|1,79€|40|2024-04-23 15h|2024-04-30 15h|
+|#|city-ambulance-car-driving-1d3872|City Ambulance Car Driving|0,89€|40|2024-04-20 17h|2024-04-29 17h|
 |#|contraption-maker-66e1ec|Contraption Maker|10,79€|40|2024-04-30 15h|2024-05-07 15h|
 |#|cursed-castilla-maldita-castilla-ex-adaa43|Cursed Castilla (Maldita Castilla EX)|11,99€|40|2024-05-16 15h|2024-06-13 15h|
 |#|dragon-quest-xi-s-echoes-of-an-elusive-age|DRAGON QUEST® XI S: Echoes of an Elusive Age™|39,99€|40|2024-05-06 15h|2024-05-20 15h|
+|#|e30-drift-car-simulator-2d2977|E30 Drift Car Simulator|0,89€|40|2024-04-20 17h|2024-04-29 17h|
 |#|elegies-aya-17c3f1|ELEGIES Aya|16,19€|40|2024-05-07 15h|2024-05-14 15h|
+|#|extreme-car-drift-simulator-cbd3c8|Extreme Car Drift Simulator|0,89€|40|2024-04-20 17h|2024-04-29 17h|
 |#|fish-db1795|Fish|22,39€|40|2024-05-16 15h|2024-06-13 15h|
 |#|five-dates-60ef51|Five Dates|9,99€|40|2024-05-16 15h|2024-06-13 15h|
 |#|fly-corp-398021|Fly Corp|10,79€|40|2024-05-16 15h|2024-06-13 15h|
+|#|gangster-city-mafia-car-driving-88434c|Gangster City Mafia Car Driving|0,89€|40|2024-04-20 17h|2024-04-29 17h|
 |#|garden-city-c73d37|Garden City|4,49€|40|2024-05-07 15h|2024-05-14 15h|
 |#|hello-goodboy-4b2edb|Hello Goodboy|14,99€|40|2024-05-27 15h|2024-06-13 15h|
 |#|i-saw-black-clouds-67008d|I Saw Black Clouds|9,99€|40|2024-05-16 15h|2024-06-13 15h|
@@ -483,6 +490,7 @@
 |#|lines-guarder-174742|Line's Guarder|8,99€|40|2024-05-25 16h|2024-06-24 16h|
 |#|lysfanga-9608f2|Lysfanga: The Time Shift Warrior|24,99€|40|2024-05-16 15h|2024-06-13 15h|
 |#|night-book-77f2c7|Night Book|9,99€|40|2024-05-16 15h|2024-06-13 15h|
+|#|offroad-jeep-4x4-car-driving-simulator-2a3e3d|Offroad Jeep 4x4 Car Driving Simulator|0,89€|40|2024-04-20 17h|2024-04-29 17h|
 |#|one-military-camp-8db1f6|One Military Camp|24,99€|40|2024-05-16 15h|2024-06-13 15h|
 |#|pro-basketball-manager-2024-5c764f|Pro Basketball Manager 2024|26,99€|40|2024-05-16 15h|2024-06-13 15h|
 |#|secret-doctrine-342083|Secret Doctrine|8,99€|40|2024-05-16 15h|2024-06-13 15h|
@@ -523,6 +531,7 @@
 |#|brok-the-investigator-fb0513|BROK the InvestiGator|17,99€|33|2024-05-16 15h|2024-06-13 15h|
 |#|potion-permit|Potion Permit|15,99€|33|2024-05-16 15h|2024-06-13 15h|
 |#|universe-sandbox|Universe Sandbox|23,99€|33|2024-05-16 15h|2024-06-13 15h|
+|#|alaskan-road-truckers-d31463|Alaskan Road Truckers|21,50€|30|2024-04-18 15h|2024-04-25 15h|
 |#|boltbreak-c2bf02|BoltBreak|13,49€|30|2024-12-01 07h|2024-12-30 07h|
 |#|bratz-flaunt-your-fashion-95d529|Bratz™: Flaunt Your Fashion|29,99€|30|2024-05-16 15h|2024-06-13 15h|
 |#|diluvian-ultra-a5ad8c|Diluvian Ultra|9,99€|30|2024-05-16 15h|2024-06-13 15h|
@@ -607,6 +616,7 @@
 |#|boltbreak-c2bf02|BoltBreak|13,49€|17|2024-09-01 06h|2024-09-30 22h|
 |#|die-again-9d5045|Die Again|10,79€|17|2024-05-16 15h|2024-06-13 15h|
 |#|dark-journey-the-fate-of-the-demon-king-4bf628|Dark Journey:The Fate of the Demon King|6,29€|15|2024-04-23 15h|2024-04-30 15h|
+|#|dream-of-tiny-snow-36f018|Dream of Tiny Snow|8,09€|15|2024-04-26 11h|2024-05-12 03h|
 |#|hidden-shapes-animals-0fca0f|Hidden Shapes Animals|0,89€|15|2024-04-18 17h|2024-04-25 17h|
 |#|linghehanjianwuyu-cf98a0|Reiwa outliers|3,59€|12|2024-04-30 15h|2024-05-07 15h|
 |#|gardenia-630482|Gardenia|8,99€|10|2024-04-20 23h|2024-05-19 23h|
