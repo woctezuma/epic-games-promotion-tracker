@@ -168,7 +168,6 @@
 |#|elex-ii|ELEX II|49,99€|60|2024-05-16 15h|2024-06-13 15h|
 |#|emergency-crew-1-04340a|Emergency Crew 2 Global Warming|4,49€|70|2024-05-07 15h|2024-05-14 15h|
 |#|endlessdungeonnewgene|ENDLESS™ Dungeon|29,99€|50|2024-05-30 14h|2024-06-13 14h|
-|#|escape-academy-bfc2bf|Escape Academy|15,99€|50|2024-04-18 16h|2024-04-26 16h|
 |#|europa-universalis-iv|Europa Universalis IV|39,99€|70|2024-05-16 15h|2024-06-13 15h|
 |#|everlasting-guilt-213534|Everlasting Guilt|8,99€|50|2024-05-16 15h|2024-06-13 15h|
 |#|evil-seal-c8dea6|Evil Seal|9,75€|50|2024-06-02 16h|2024-06-09 16h|
@@ -564,7 +563,6 @@
 |#|titan-quest|Titan Quest Anniversary Edition|19,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|togges-17f696|Togges|19,99€|60|2024-05-16 15h|2024-06-13 15h|
 |#|tormented-souls|Tormented Souls|19,99€|65|2024-05-16 15h|2024-06-13 15h|
-|#|total-war-warhammer|Total War: WARHAMMER|59,99€|63|2024-05-23 17h|2024-05-30 17h|
 |#|total-war-warhammer-3|Total War: WARHAMMER III|59,99€|50|2024-05-23 17h|2024-05-30 17h|
 |#|total-war-warhammer-ii|Total War: WARHAMMER II|59,99€|75|2024-05-23 17h|2024-05-30 17h|
 |#|trail-of-ayash-31a1d4|Trail Of Ayash|17,99€|45|2024-05-16 15h|2024-06-13 15h|
