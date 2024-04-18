@@ -1,8 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|alaskan-road-truckers-d31463|Alaskan Road Truckers|21,50€|30|2024-04-18 15h|2024-04-25 15h|
-|#|the-big-con|The Big Con|12,49€|100|2024-04-18 15h|2024-04-25 15h|
-|#|town-of-salem-2-ab6497|Town of Salem 2|0,00€|100|2024-04-18 15h|2024-04-25 15h|
 |#|escape-academy-bfc2bf|Escape Academy|15,99€|50|2024-04-18 16h|2024-04-26 16h|
 |#|hidden-shapes-animals-0fca0f|Hidden Shapes Animals|0,89€|15|2024-04-18 17h|2024-04-25 17h|
 |#|family-man-bbc679|Family Man|15,99€|85|2024-04-19 00h|2024-05-19 00h|
@@ -43,6 +40,7 @@
 |#|the-sinking-city|The Sinking City|39,99€|75|2024-04-23 15h|2024-04-30 15h|
 |#|exit-left-or-right-bfedd2|Exit: Left or Right|0,89€|50|2024-04-23 22h|2024-05-07 22h|
 |#|industria|INDUSTRIA|19,99€|100|2024-04-25 15h|2024-05-02 15h|
+|#|lisa-the-definitive-edition|LISA: The Definitive Edition|0,00€|100|2024-04-25 15h|2024-05-02 15h|
 |#|he-will-shoot-46efff|He Will Shoot|1,59€|70|2024-04-25 22h|2024-05-13 22h|
 |#|letters-and-legends-2a2c80|Letters & Legends|3,59€|25|2024-04-25 23h|2024-05-02 23h|
 |#|jack-holmes-master-of-puppets-a76571|Jack Holmes: Master of Puppets|19,99€|25|2024-04-26 10h|2024-05-03 10h|

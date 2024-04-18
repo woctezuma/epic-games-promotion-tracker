@@ -1,8 +1,7 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
 |#|industria|INDUSTRIA|19,99€|100|2024-04-25 15h|2024-05-02 15h|
-|#|the-big-con|The Big Con|12,49€|100|2024-04-18 15h|2024-04-25 15h|
-|#|town-of-salem-2-ab6497|Town of Salem 2|0,00€|100|2024-04-18 15h|2024-04-25 15h|
+|#|lisa-the-definitive-edition|LISA: The Definitive Edition|0,00€|100|2024-04-25 15h|2024-05-02 15h|
 |#|warhammer-40000-gladius-relics-of-war|Warhammer 40,000: Gladius - Relics of War|31,99€|100|2024-05-23 09h|2024-05-30 09h|
 |#|star-wars-squadrons|STAR WARS™: Squadrons|39,99€|95|2024-05-02 15h|2024-05-09 15h|
 |#|aven-colony|Aven Colony|29,99€|90|2024-05-16 15h|2024-06-13 15h|
@@ -532,7 +531,6 @@
 |#|brok-the-investigator-fb0513|BROK the InvestiGator|17,99€|33|2024-05-16 15h|2024-06-13 15h|
 |#|potion-permit|Potion Permit|15,99€|33|2024-05-16 15h|2024-06-13 15h|
 |#|universe-sandbox|Universe Sandbox|23,99€|33|2024-05-16 15h|2024-06-13 15h|
-|#|alaskan-road-truckers-d31463|Alaskan Road Truckers|21,50€|30|2024-04-18 15h|2024-04-25 15h|
 |#|boltbreak-c2bf02|BoltBreak|13,49€|30|2024-12-01 07h|2024-12-30 07h|
 |#|bratz-flaunt-your-fashion-95d529|Bratz™: Flaunt Your Fashion|29,99€|30|2024-05-16 15h|2024-06-13 15h|
 |#|diluvian-ultra-a5ad8c|Diluvian Ultra|9,99€|30|2024-05-16 15h|2024-06-13 15h|
