@@ -567,6 +567,8 @@
 |#|endlessdungeonnewgene|ENDLESS™ Dungeon|29,99€|50|2024-05-30 14h|2024-06-13 14h|
 |#|humankind|HUMANKIND™ Standard Edition|49,99€|75|2024-05-30 14h|2024-06-13 14h|
 |#|choochoo-charles-0eece5|Choo-Choo Charles|17,99€|20|2024-05-31 08h|2024-06-08 08h|
+|#|backrooms-1995-the-lost-footage-4a3d81|BackRooms 1995 The Lost Footage Chapter 1|7,19€|25|2024-05-31 11h|2024-06-30 11h|
+|#|thenightmareofarrivalchapter1-374431|The Nightmare Of Arrival Chapter1|8,99€|15|2024-05-31 11h|2024-06-30 11h|
 |#|floppa-the-dark-forest-518460|Floppa: The Dark Forest|1,79€|75|2024-05-31 22h|2024-06-15 22h|
 |#|in-the-gym-db2771|In The Gym|0,89€|50|2024-06-01 05h|2024-06-16 05h|
 |#|boltbreak-c2bf02|BoltBreak|13,49€|18|2024-06-01 06h|2024-06-30 22h|

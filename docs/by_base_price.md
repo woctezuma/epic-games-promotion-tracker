@@ -441,6 +441,7 @@
 |#|super-alloy-ranger-4252cc|Super Alloy Ranger|8,99€|30|2024-05-16 15h|2024-06-13 15h|
 |#|tales-of-the-tiny-planet-ab9e11|Tales of the Tiny Planet|8,99€|80|2024-04-30 15h|2024-05-07 15h|
 |#|forest-quartet-5d03e3|The Forest Quartet|8,99€|75|2024-05-16 15h|2024-06-13 15h|
+|#|thenightmareofarrivalchapter1-374431|The Nightmare Of Arrival Chapter1|8,99€|15|2024-05-31 11h|2024-06-30 11h|
 |#|the-saviors-gang-959fd2|The Savior's Gang|8,99€|20|2024-05-16 15h|2024-06-13 15h|
 |#|they-always-run-965bb3|They Always Run|8,99€|65|2024-05-16 15h|2024-06-13 15h|
 |#|virus-infinite-b9ed68|Virus Infinite|8,99€|51|2024-05-07 15h|2024-05-14 15h|
@@ -456,6 +457,7 @@
 |#|undergrave-4d084b|Undergrave|7,99€|50|2024-05-07 15h|2024-05-14 15h|
 |#|adventures-of-astronaut-max-d84ce0|Adventures of Astronaut Max|7,19€|50|2024-05-16 15h|2024-06-13 15h|
 |#|angelo-and-deemon-one-hell-of-a-quest-94d7e2|Angelo and Deemon: One Hell of a Quest|7,19€|60|2024-05-16 15h|2024-06-13 15h|
+|#|backrooms-1995-the-lost-footage-4a3d81|BackRooms 1995 The Lost Footage Chapter 1|7,19€|25|2024-05-31 11h|2024-06-30 11h|
 |#|crosshair-x-5d70eb|Crosshair X|7,19€|20|2024-05-16 15h|2024-06-13 15h|
 |#|destructure-among-debris-b4aaf8|DESTRUCTURE: Among Debris|7,19€|60|2024-05-16 15h|2024-06-13 15h|
 |#|dizzy-fight-7bbfe7|Dizzy Fight|7,19€|70|2024-05-28 15h|2024-06-04 15h|

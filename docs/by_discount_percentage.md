@@ -569,6 +569,7 @@
 |#|while-true-learn|while True: learn()|9,99€|30|2024-05-16 15h|2024-06-13 15h|
 |#|arcrunner-61fee6|ArcRunner|19,99€|25|2024-05-16 15h|2024-06-13 15h|
 |#|back-then-2072ca|Back Then|11,69€|25|2024-05-16 15h|2024-06-13 15h|
+|#|backrooms-1995-the-lost-footage-4a3d81|BackRooms 1995 The Lost Footage Chapter 1|7,19€|25|2024-05-31 11h|2024-06-30 11h|
 |#|backrooms-realm-of-shadows-1ca413|Backrooms: Realm of Shadows|6,29€|25|2024-05-16 15h|2024-06-13 15h|
 |#|graven|GRAVEN|24,99€|25|2024-05-16 15h|2024-06-13 15h|
 |#|hidden-shapes-cat-realm-3fed96|Hidden Shapes - Cat Realm|1,79€|25|2024-05-02 17h|2024-05-09 17h|
@@ -619,6 +620,7 @@
 |#|dark-journey-the-fate-of-the-demon-king-4bf628|Dark Journey:The Fate of the Demon King|6,29€|15|2024-04-23 15h|2024-04-30 15h|
 |#|dream-of-tiny-snow-36f018|Dream of Tiny Snow|8,09€|15|2024-04-26 11h|2024-05-12 03h|
 |#|hidden-shapes-animals-0fca0f|Hidden Shapes Animals|0,89€|15|2024-04-18 17h|2024-04-25 17h|
+|#|thenightmareofarrivalchapter1-374431|The Nightmare Of Arrival Chapter1|8,99€|15|2024-05-31 11h|2024-06-30 11h|
 |#|linghehanjianwuyu-cf98a0|Reiwa outliers|3,59€|12|2024-04-30 15h|2024-05-07 15h|
 |#|gardenia-630482|Gardenia|8,99€|10|2024-04-20 23h|2024-05-19 23h|
 |#|saboteur-ii-avenging-angel-33e83c|Saboteur II Avenging Angel|7,19€|10|2024-04-20 23h|2024-05-19 23h|

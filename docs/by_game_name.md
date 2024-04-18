@@ -44,6 +44,7 @@
 |#|brok-the-investigator-fb0513|BROK the InvestiGator|17,99€|33|2024-05-16 15h|2024-06-13 15h|
 |#|baby-storm-426245|Baby Storm|16,19€|75|2024-05-28 15h|2024-06-04 15h|
 |#|back-then-2072ca|Back Then|11,69€|25|2024-05-16 15h|2024-06-13 15h|
+|#|backrooms-1995-the-lost-footage-4a3d81|BackRooms 1995 The Lost Footage Chapter 1|7,19€|25|2024-05-31 11h|2024-06-30 11h|
 |#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2024-05-27 22h|2024-06-13 22h|
 |#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2024-07-15 22h|2024-07-30 22h|
 |#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2024-08-31 22h|2024-09-15 22h|
@@ -542,6 +543,7 @@
 |#|the-mystery-of-the-moon-7f3e48|The Mystery Of The Moon|53,99€|80|2024-09-29 16h|2024-10-15 15h|
 |#|the-mystery-of-the-moon-7f3e48|The Mystery Of The Moon|53,99€|80|2024-11-14 16h|2024-11-19 15h|
 |#|the-mystery-of-the-moon-7f3e48|The Mystery Of The Moon|53,99€|80|2024-12-19 16h|2025-01-04 16h|
+|#|thenightmareofarrivalchapter1-374431|The Nightmare Of Arrival Chapter1|8,99€|15|2024-05-31 11h|2024-06-30 11h|
 |#|the-pegasus-expedition-224279|The Pegasus Expedition|19,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|the-plane-effect|The Plane Effect|14,99€|85|2024-05-16 15h|2024-06-13 15h|
 |#|the-red-exile-67804a|The Red Exile: Survival Horror|4,49€|30|2024-05-25 15h|2024-06-24 15h|
