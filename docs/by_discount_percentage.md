@@ -394,7 +394,6 @@
 |#|kings-bounty-ii-dukes-edition-8df41c|King's Bounty II - Duke's Edition|49,99€|50|2024-05-16 15h|2024-06-13 15h|
 |#|partisan-general-audience|Knights of Honor II: Sovereign|44,99€|50|2024-05-16 15h|2024-06-13 15h|
 |#|late-shift-8b0634|Late Shift|9,99€|50|2024-05-16 15h|2024-06-13 15h|
-|#|lets-build-a-zoo|Let's Build A Zoo|15,99€|50|2024-04-18 00h|2024-05-18 00h|
 |#|little-inferno|Little Inferno|11,99€|50|2024-05-16 15h|2024-06-13 15h|
 |#|mahjong-royal-towers-e327ab|Mahjong Royal Towers|2,69€|50|2024-04-30 15h|2024-05-07 15h|
 |#|match-village-5f41dd|Match Village|3,59€|50|2024-04-23 15h|2024-04-30 15h|
