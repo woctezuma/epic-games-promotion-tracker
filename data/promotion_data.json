@@ -396,6 +396,15 @@
     "title": "Back Then"
   },
   {
+    "discountPercentage": 25,
+    "endDate": "2024-06-30T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 719,
+    "slug": "backrooms-1995-the-lost-footage-4a3d81",
+    "startDate": "2024-05-31T11:00:00.000Z",
+    "title": "BackRooms 1995 The Lost Footage Chapter 1"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-06-13T22:00:00.000Z",
     "isFree": false,
@@ -4876,6 +4885,15 @@
     "slug": "the-mystery-of-the-moon-7f3e48",
     "startDate": "2024-12-19T16:00:00.000Z",
     "title": "The Mystery Of The Moon"
+  },
+  {
+    "discountPercentage": 15,
+    "endDate": "2024-06-30T11:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 899,
+    "slug": "thenightmareofarrivalchapter1-374431",
+    "startDate": "2024-05-31T11:00:00.000Z",
+    "title": "The Nightmare Of Arrival Chapter1"
   },
   {
     "discountPercentage": 75,
