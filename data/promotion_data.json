@@ -2628,15 +2628,6 @@
     "title": "Legend of Grimrock 2"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2024-05-18T00:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1599,
-    "slug": "lets-build-a-zoo",
-    "startDate": "2024-04-18T00:00:00.000Z",
-    "title": "Let's Build A Zoo"
-  },
-  {
     "discountPercentage": 25,
     "endDate": "2024-05-02T23:00:00.000Z",
     "isFree": false,
