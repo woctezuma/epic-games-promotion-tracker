@@ -579,6 +579,8 @@
 |#|cyber-drift-6ac51b|Cyber Drift|6,29€|50|2024-05-25 16h|2024-06-24 16h|
 |#|lines-guarder-174742|Line's Guarder|8,99€|40|2024-05-25 16h|2024-06-24 16h|
 |#|he-will-shoot-46efff|He Will Shoot|1,59€|75|2024-06-14 22h|2024-06-29 22h|
+|#|backrooms-1995-the-lost-footage-4a3d81|BackRooms 1995 The Lost Footage Chapter 1|7,19€|25|2024-05-31 11h|2024-06-30 11h|
+|#|thenightmareofarrivalchapter1-374431|The Nightmare Of Arrival Chapter1|8,99€|15|2024-05-31 11h|2024-06-30 11h|
 |#|boltbreak-c2bf02|BoltBreak|13,49€|18|2024-06-01 06h|2024-06-30 22h|
 |#|tear-of-time-lost-memory-add761|Tear of Time - Lost memory|3,59€|60|2024-06-30 21h|2024-07-07 21h|
 |#|birch-simulator-21969e|Birch Simulator|0,89€|50|2024-06-21 22h|2024-07-07 22h|

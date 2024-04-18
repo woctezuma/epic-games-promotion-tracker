@@ -42,6 +42,7 @@
 |#|aven-colony|Aven Colony|29,99€|90|2024-05-16 15h|2024-06-13 15h|
 |#|baby-storm-426245|Baby Storm|16,19€|75|2024-05-28 15h|2024-06-04 15h|
 |#|back-then-2072ca|Back Then|11,69€|25|2024-05-16 15h|2024-06-13 15h|
+|#|backrooms-1995-the-lost-footage-4a3d81|BackRooms 1995 The Lost Footage Chapter 1|7,19€|25|2024-05-31 11h|2024-06-30 11h|
 |#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2024-05-27 22h|2024-06-13 22h|
 |#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2024-07-15 22h|2024-07-30 22h|
 |#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2024-08-31 22h|2024-09-15 22h|
@@ -552,6 +553,7 @@
 |#|the-uncertain-light-at-the-end|The Uncertain: Light at the End|7,99€|85|2024-05-16 15h|2024-06-13 15h|
 |#|the-valiant|The Valiant|24,99€|50|2024-05-16 15h|2024-06-13 15h|
 |#|the-wolf-among-us|The Wolf Among Us|14,99€|60|2024-05-16 15h|2024-06-13 15h|
+|#|thenightmareofarrivalchapter1-374431|The Nightmare Of Arrival Chapter1|8,99€|15|2024-05-31 11h|2024-06-30 11h|
 |#|they-always-run-965bb3|They Always Run|8,99€|65|2024-05-16 15h|2024-06-13 15h|
 |#|this-is-the-police|This Is The Police|14,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|this-is-the-police-2|This Is The Police 2|14,99€|75|2024-05-16 15h|2024-06-13 15h|
