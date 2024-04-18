@@ -216,15 +216,6 @@
     "title": "Alan Wake\u2019s American Nightmare"
   },
   {
-    "discountPercentage": 30,
-    "endDate": "2024-04-25T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2150,
-    "slug": "alaskan-road-truckers-d31463",
-    "startDate": "2024-04-18T15:00:00.000Z",
-    "title": "Alaskan Road Truckers"
-  },
-  {
     "discountPercentage": 50,
     "endDate": "2024-06-13T15:00:00.000Z",
     "isFree": false,
@@ -2673,6 +2664,15 @@
     "title": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2024-05-02T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 0,
+    "slug": "lisa-the-definitive-edition",
+    "startDate": "2024-04-25T15:00:00.000Z",
+    "title": "LISA: The Definitive Edition"
+  },
+  {
     "discountPercentage": 20,
     "endDate": "2024-04-30T15:00:00.000Z",
     "isFree": false,
@@ -4608,15 +4608,6 @@
     "title": "The Alien Cube"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2024-04-25T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 1249,
-    "slug": "the-big-con",
-    "startDate": "2024-04-18T15:00:00.000Z",
-    "title": "The Big Con"
-  },
-  {
     "discountPercentage": 40,
     "endDate": "2024-06-13T15:00:00.000Z",
     "isFree": false,
@@ -5137,15 +5128,6 @@
     "slug": "total-war-warhammer-3",
     "startDate": "2024-05-23T17:00:00.000Z",
     "title": "Total War: WARHAMMER III"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2024-04-25T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 0,
-    "slug": "town-of-salem-2-ab6497",
-    "startDate": "2024-04-18T15:00:00.000Z",
-    "title": "Town of Salem 2"
   },
   {
     "discountPercentage": 45,
