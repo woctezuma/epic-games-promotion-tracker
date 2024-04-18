@@ -1503,15 +1503,6 @@
     "title": "Emergency Crew 2 Global Warming"
   },
   {
-    "discountPercentage": 50,
-    "endDate": "2024-04-26T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1599,
-    "slug": "escape-academy-bfc2bf",
-    "startDate": "2024-04-18T16:00:00.000Z",
-    "title": "Escape Academy"
-  },
-  {
     "discountPercentage": 70,
     "endDate": "2024-06-13T15:00:00.000Z",
     "isFree": false,
@@ -5101,15 +5092,6 @@
     "slug": "tormented-souls",
     "startDate": "2024-05-16T15:00:00.000Z",
     "title": "Tormented Souls"
-  },
-  {
-    "discountPercentage": 63,
-    "endDate": "2024-05-30T17:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 5999,
-    "slug": "total-war-warhammer",
-    "startDate": "2024-05-23T17:00:00.000Z",
-    "title": "Total War: WARHAMMER"
   },
   {
     "discountPercentage": 75,
