@@ -45,6 +45,15 @@
     "title": "1428: Shadows over Silesia"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-04-29T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "3d-chess-online-615201",
+    "startDate": "2024-04-20T17:00:00.000Z",
+    "title": "3D Chess Online"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2024-06-13T15:00:00.000Z",
     "isFree": false,
@@ -205,6 +214,15 @@
     "slug": "alan-wake-american-nightmare",
     "startDate": "2024-05-16T15:00:00.000Z",
     "title": "Alan Wake\u2019s American Nightmare"
+  },
+  {
+    "discountPercentage": 30,
+    "endDate": "2024-04-25T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2150,
+    "slug": "alaskan-road-truckers-d31463",
+    "startDate": "2024-04-18T15:00:00.000Z",
+    "title": "Alaskan Road Truckers"
   },
   {
     "discountPercentage": 50,
@@ -648,6 +666,15 @@
     "title": "Bus Driver Simulator"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-04-29T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "bus-simulator-car-driving-40dbef",
+    "startDate": "2024-04-20T17:00:00.000Z",
+    "title": "Bus Simulator Car Driving"
+  },
+  {
     "discountPercentage": 70,
     "endDate": "2024-06-13T15:00:00.000Z",
     "isFree": false,
@@ -709,6 +736,15 @@
     "slug": "car-tuning-simulator-38ddaf",
     "startDate": "2024-07-07T22:00:00.000Z",
     "title": "Car Tuning Simulator"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-04-29T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "cargo-truck-simulator-2023-ff83fb",
+    "startDate": "2024-04-20T17:00:00.000Z",
+    "title": "Cargo Truck Simulator 2023"
   },
   {
     "discountPercentage": 60,
@@ -799,6 +835,15 @@
     "slug": "cities-skylines",
     "startDate": "2024-05-16T15:00:00.000Z",
     "title": "Cities: Skylines"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-04-29T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "city-ambulance-car-driving-1d3872",
+    "startDate": "2024-04-20T17:00:00.000Z",
+    "title": "City Ambulance Car Driving"
   },
   {
     "discountPercentage": 50,
@@ -1305,6 +1350,15 @@
     "title": "Dread Templar"
   },
   {
+    "discountPercentage": 15,
+    "endDate": "2024-05-12T03:59:00.000Z",
+    "isFree": false,
+    "originalPrice": 809,
+    "slug": "dream-of-tiny-snow-36f018",
+    "startDate": "2024-04-26T11:00:00.000Z",
+    "title": "Dream of Tiny Snow"
+  },
+  {
     "discountPercentage": 35,
     "endDate": "2024-06-13T15:00:00.000Z",
     "isFree": false,
@@ -1330,6 +1384,15 @@
     "slug": "dying-light",
     "startDate": "2024-05-16T15:00:00.000Z",
     "title": "Dying Light Enhanced Edition"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-04-29T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "e30-drift-car-simulator-2d2977",
+    "startDate": "2024-04-20T17:00:00.000Z",
+    "title": "E30 Drift Car Simulator"
   },
   {
     "discountPercentage": 90,
@@ -1537,6 +1600,15 @@
     "slug": "expeditions-viking",
     "startDate": "2024-05-16T15:00:00.000Z",
     "title": "Expeditions: Viking"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-04-29T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "extreme-car-drift-simulator-cbd3c8",
+    "startDate": "2024-04-20T17:00:00.000Z",
+    "title": "Extreme Car Drift Simulator"
   },
   {
     "discountPercentage": 50,
@@ -1870,6 +1942,15 @@
     "slug": "gamedec",
     "startDate": "2024-05-16T05:00:00.000Z",
     "title": "Gamedec - Definitive Edition"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-04-29T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "gangster-city-mafia-car-driving-88434c",
+    "startDate": "2024-04-20T17:00:00.000Z",
+    "title": "Gangster City Mafia Car Driving"
   },
   {
     "discountPercentage": 40,
@@ -3175,6 +3256,15 @@
     "slug": "outriders",
     "startDate": "2024-05-16T15:00:00.000Z",
     "title": "OUTRIDERS"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-04-29T17:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 89,
+    "slug": "offroad-jeep-4x4-car-driving-simulator-2a3e3d",
+    "startDate": "2024-04-20T17:00:00.000Z",
+    "title": "Offroad Jeep 4x4 Car Driving Simulator"
   },
   {
     "discountPercentage": 25,
