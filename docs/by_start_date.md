@@ -561,6 +561,7 @@
 |#|guardians-of-hyelore-0b07d3|Guardians of Hyelore|15,99€|80|2024-05-27 15h|2024-06-13 15h|
 |#|hello-goodboy-4b2edb|Hello Goodboy|14,99€|40|2024-05-27 15h|2024-06-13 15h|
 |#|backrooms-doors-248a0f|Backrooms Doors|0,89€|50|2024-05-27 22h|2024-06-13 22h|
+|#|baby-storm-426245|Baby Storm|16,19€|75|2024-05-28 15h|2024-06-04 15h|
 |#|dizzy-fight-7bbfe7|Dizzy Fight|7,19€|70|2024-05-28 15h|2024-06-04 15h|
 |#|island-of-fear-00a3a6|Island of Fear|2,69€|45|2024-05-28 15h|2024-06-04 15h|
 |#|endlessdungeonnewgene|ENDLESS™ Dungeon|29,99€|50|2024-05-30 14h|2024-06-13 14h|
