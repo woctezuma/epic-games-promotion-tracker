@@ -125,6 +125,7 @@
 |#|alan-wake-american-nightmare|Alan Wake’s American Nightmare|6,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|ancient-enemy|Ancient Enemy|11,99€|75|2024-05-15 23h|2024-05-29 23h|
 |#|aquanox-deep-descent|Aquanox Deep Descent|29,99€|75|2024-05-16 15h|2024-06-13 15h|
+|#|baby-storm-426245|Baby Storm|16,19€|75|2024-05-28 15h|2024-06-04 15h|
 |#|battle-chasers-nightwar|Battle Chasers: Nightwar|29,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|before-we-leave|Before We Leave|17,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|blasphemous|Blasphemous|24,99€|75|2024-05-16 15h|2024-06-13 15h|

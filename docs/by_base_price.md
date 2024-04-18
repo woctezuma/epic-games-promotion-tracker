@@ -267,6 +267,7 @@
 |#|effie-f06e3c|Effie|16,79€|75|2024-05-16 15h|2024-06-13 15h|
 |#|hypnospace-outlaw|Hypnospace Outlaw|16,79€|60|2024-04-19 00h|2024-05-19 00h|
 |#|yes-your-grace|Yes, Your Grace|16,79€|65|2024-04-19 00h|2024-05-19 00h|
+|#|baby-storm-426245|Baby Storm|16,19€|75|2024-05-28 15h|2024-06-04 15h|
 |#|beholder-3-d23253|Beholder 3|16,19€|65|2024-05-16 15h|2024-06-13 15h|
 |#|elegies-aya-17c3f1|ELEGIES Aya|16,19€|40|2024-05-07 15h|2024-05-14 15h|
 |#|eastern-exorcist-d49923|Eastern Exorcist|16,19€|30|2024-05-16 15h|2024-06-13 15h|
