@@ -183,7 +183,6 @@
 |#|prison-architect|Prison Architect|29,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|rebel-cops|Rebel Cops|9,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|risen-e8e55e|Risen|14,99€|75|2024-05-16 15h|2024-06-13 15h|
-|#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|75|2024-04-19 22h|2024-05-04 22h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|75|2024-06-05 22h|2024-06-19 22h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|75|2024-07-21 22h|2024-08-07 22h|
 |#|star-wars-battlefront|STAR WARS™ Battlefront™ Ultimate Edition|19,99€|75|2024-05-02 15h|2024-05-09 15h|
@@ -509,8 +508,10 @@
 |#|contraption-maker-66e1ec|Contraption Maker|10,79€|40|2024-04-30 15h|2024-05-07 15h|
 |#|cursed-castilla-maldita-castilla-ex-adaa43|Cursed Castilla (Maldita Castilla EX)|11,99€|40|2024-05-16 15h|2024-06-13 15h|
 |#|dragon-quest-xi-s-echoes-of-an-elusive-age|DRAGON QUEST® XI S: Echoes of an Elusive Age™|39,99€|40|2024-05-06 15h|2024-05-20 15h|
+|#|dungeon-escape-71b2bc|Dungeon Escape|4,49€|40|2024-05-06 15h|2024-05-13 15h|
 |#|e30-drift-car-simulator-2d2977|E30 Drift Car Simulator|0,89€|40|2024-04-20 17h|2024-04-29 17h|
 |#|elegies-aya-17c3f1|ELEGIES Aya|16,19€|40|2024-05-07 15h|2024-05-14 15h|
+|#|electro-magnate-6ac0b7|Electro Magnate|3,59€|40|2024-05-16 15h|2024-06-13 15h|
 |#|extreme-car-drift-simulator-cbd3c8|Extreme Car Drift Simulator|0,89€|40|2024-04-20 17h|2024-04-29 17h|
 |#|fish-db1795|Fish|22,39€|40|2024-05-16 15h|2024-06-13 15h|
 |#|five-dates-60ef51|Five Dates|9,99€|40|2024-05-16 15h|2024-06-13 15h|
@@ -557,6 +558,7 @@
 |#|forest-fire-b4bb7e|Forest Fire|5,39€|35|2024-08-01 07h|2024-08-14 07h|
 |#|forest-fire-b4bb7e|Forest Fire|5,39€|35|2024-10-01 07h|2024-10-14 07h|
 |#|forest-fire-b4bb7e|Forest Fire|5,39€|35|2024-12-15 07h|2024-12-30 07h|
+|#|galactic-empire-f23125|Galactic Empire|13,49€|35|2024-04-21 10h|2024-05-06 23h|
 |#|geometric-sniper-z-ef97ef|Geometric Sniper - Z|4,49€|35|2024-05-16 15h|2024-06-13 15h|
 |#|mia-and-the-dragon-princess-f4e1d0|Mia and the Dragon Princess|12,59€|35|2024-05-16 15h|2024-06-13 15h|
 |#|planet-of-lana-a9febe|Planet of Lana|19,99€|35|2024-05-16 15h|2024-06-13 15h|
@@ -589,6 +591,7 @@
 |#|mallofmayhem-15344c|Mall of Mayhem|7,19€|30|2024-10-01 06h|2024-10-30 22h|
 |#|medieval-knight-2e8f8b|Medieval Knight|2,19€|30|2024-05-16 15h|2024-06-13 15h|
 |#|mortal-online-2-d7bb78|Mortal Online 2|35,99€|30|2024-05-16 15h|2024-06-13 15h|
+|#|outcore-desktop-adventure-eb3aff|Outcore - Desktop Adventure|8,99€|30|2024-05-16 15h|2024-06-13 15h|
 |#|paw-paw-destiny-843848|Paw Paw Destiny|11,79€|30|2024-05-14 15h|2024-05-21 15h|
 |#|recall-113630|RECALL|15,99€|30|2024-05-16 15h|2024-06-13 15h|
 |#|rpg-survivors-8bf58c|RPG Survivors|4,49€|30|2024-04-30 15h|2024-05-07 15h|
@@ -644,7 +647,6 @@
 |#|language-learning-simulator-alphabet-00beee|Language Learning Simulator : Alphabet|8,99€|20|2024-04-23 15h|2024-04-30 15h|
 |#|orten-was-the-case-d108fb|Orten Was The Case|13,49€|20|2024-05-16 15h|2024-06-13 15h|
 |#|outbreak-the-fedora-files-what-lydia-knows-6069a4|Outbreak The Fedora Files: What Lydia Knows|17,99€|20|2024-05-03 13h|2024-05-10 13h|
-|#|outcore-desktop-adventure-eb3aff|Outcore - Desktop Adventure|8,99€|20|2024-05-16 15h|2024-06-13 15h|
 |#|pacific-drive|Pacific Drive|29,99€|20|2024-05-16 15h|2024-06-13 15h|
 |#|projectelement-a1ec94|Project Element|2,69€|20|2024-04-30 15h|2024-05-07 15h|
 |#|purpose-1951-e7a88b|Purpose 1951|2,69€|20|2024-04-30 15h|2024-05-07 15h|
@@ -665,6 +667,7 @@
 |#|die-again-9d5045|Die Again|10,79€|17|2024-05-16 15h|2024-06-13 15h|
 |#|dark-journey-the-fate-of-the-demon-king-4bf628|Dark Journey:The Fate of the Demon King|6,29€|15|2024-04-23 15h|2024-04-30 15h|
 |#|dream-of-tiny-snow-36f018|Dream of Tiny Snow|8,09€|15|2024-04-26 11h|2024-05-12 03h|
+|#|man-in-the-dark-5c468e|Man in the Dark|7,19€|15|2024-04-27 06h|2024-05-04 06h|
 |#|thenightmareofarrivalchapter1-374431|The Nightmare Of Arrival Chapter1|8,99€|15|2024-05-31 11h|2024-06-30 11h|
 |#|linghehanjianwuyu-cf98a0|Reiwa outliers|3,59€|12|2024-04-30 15h|2024-05-07 15h|
 |#|gardenia-630482|Gardenia|8,99€|10|2024-04-20 23h|2024-05-19 23h|

@@ -350,6 +350,7 @@
 |#|brain-show-89d0fd|Brain Show: Party Quiz|13,49€|20|2024-04-29 13h|2024-05-13 13h|
 |#|deadwater-saloon-391b9d|Deadwater Saloon|13,49€|70|2024-05-16 15h|2024-06-13 15h|
 |#|falling-out-cb0814|Falling Out|13,49€|67|2024-05-23 15h|2024-06-06 22h|
+|#|galactic-empire-f23125|Galactic Empire|13,49€|35|2024-04-21 10h|2024-05-06 23h|
 |#|gray-dawn-a0cc44|Gray Dawn|13,49€|70|2024-05-14 15h|2024-05-21 15h|
 |#|koropokkur-in-love-b3611c|Koropokkur in Love ~A Little Fairy’s Tale~|13,49€|65|2024-06-27 17h|2024-07-10 17h|
 |#|learning-factory-4d2213|Learning Factory|13,49€|30|2024-05-16 15h|2024-06-13 15h|
@@ -469,7 +470,7 @@
 |#|language-learning-simulator-alphabet-00beee|Language Learning Simulator : Alphabet|8,99€|20|2024-04-23 15h|2024-04-30 15h|
 |#|lines-guarder-174742|Line's Guarder|8,99€|40|2024-05-25 16h|2024-06-24 16h|
 |#|men-of-war-vietnam-a61b4f|Men of War: Vietnam - Special edition|8,99€|80|2024-05-16 15h|2024-06-13 15h|
-|#|outcore-desktop-adventure-eb3aff|Outcore - Desktop Adventure|8,99€|20|2024-05-16 15h|2024-06-13 15h|
+|#|outcore-desktop-adventure-eb3aff|Outcore - Desktop Adventure|8,99€|30|2024-05-16 15h|2024-06-13 15h|
 |#|palladium-adventure-in-greece-f1ee1b|Palladium: Adventure in Greece|8,99€|70|2024-05-07 15h|2024-05-14 15h|
 |#|secret-doctrine-342083|Secret Doctrine|8,99€|40|2024-05-16 15h|2024-06-13 15h|
 |#|super-alloy-ranger-4252cc|Super Alloy Ranger|8,99€|30|2024-05-16 15h|2024-06-13 15h|
@@ -506,6 +507,7 @@
 |#|dizzy-fight-7bbfe7|Dizzy Fight|7,19€|70|2024-05-28 15h|2024-06-04 15h|
 |#|mallofmayhem-15344c|Mall of Mayhem|7,19€|30|2024-07-01 06h|2024-07-30 22h|
 |#|mallofmayhem-15344c|Mall of Mayhem|7,19€|30|2024-10-01 06h|2024-10-30 22h|
+|#|man-in-the-dark-5c468e|Man in the Dark|7,19€|15|2024-04-27 06h|2024-05-04 06h|
 |#|saboteur-ii-avenging-angel-33e83c|Saboteur II Avenging Angel|7,19€|10|2024-04-20 23h|2024-05-19 23h|
 |#|saboteur-f3d01d|Saboteur!|7,19€|10|2024-04-20 23h|2024-05-19 23h|
 |#|alan-wake-american-nightmare|Alan Wake’s American Nightmare|6,99€|75|2024-05-16 15h|2024-06-13 15h|
@@ -553,6 +555,7 @@
 |#|dark-deception-monsters-and-mortals-e81e50|Dark Deception - Monsters & Mortals|4,49€|60|2024-04-23 15h|2024-04-30 15h|
 |#|my-product-b51a19|Definitely Sneaky But Not Sneaky|4,49€|75|2024-04-30 15h|2024-05-07 15h|
 |#|dojoran-1e6fb7|Dojoran|4,49€|60|2024-05-16 15h|2024-06-13 15h|
+|#|dungeon-escape-71b2bc|Dungeon Escape|4,49€|40|2024-05-06 15h|2024-05-13 15h|
 |#|emergency-crew-1-04340a|Emergency Crew 2 Global Warming|4,49€|70|2024-05-07 15h|2024-05-14 15h|
 |#|garden-city-c73d37|Garden City|4,49€|40|2024-05-07 15h|2024-05-14 15h|
 |#|gems-of-the-aztecs-c88b67|Gems of the Aztecs|4,49€|60|2024-04-30 15h|2024-05-07 15h|
@@ -596,6 +599,7 @@
 |#|steal-then-just-escape-87b7b6|Steal, Then Just Escape|3,69€|70|2024-10-27 16h|2024-11-20 16h|
 |#|covid-carl-7dd371|Covid Carl|3,59€|45|2024-05-16 15h|2024-06-13 15h|
 |#|criticalorb-282b62|CriticalOrb|3,59€|20|2024-04-30 15h|2024-05-07 15h|
+|#|electro-magnate-6ac0b7|Electro Magnate|3,59€|40|2024-05-16 15h|2024-06-13 15h|
 |#|letters-and-legends-2a2c80|Letters & Legends|3,59€|25|2024-04-25 23h|2024-05-02 23h|
 |#|match-village-5f41dd|Match Village|3,59€|50|2024-04-23 15h|2024-04-30 15h|
 |#|linghehanjianwuyu-cf98a0|Reiwa outliers|3,59€|12|2024-04-30 15h|2024-05-07 15h|
@@ -622,7 +626,6 @@
 |#|geometric-sniper-82e0e0|Geometric Sniper|1,79€|30|2024-05-16 15h|2024-06-13 15h|
 |#|hidden-shapes-cat-realm-3fed96|Hidden Shapes - Cat Realm|1,79€|25|2024-05-02 17h|2024-05-09 17h|
 |#|island-farmer-ce8ee6|Island Farmer|1,79€|30|2024-05-16 15h|2024-06-13 15h|
-|#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|75|2024-04-19 22h|2024-05-04 22h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|75|2024-06-05 22h|2024-06-19 22h|
 |#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|75|2024-07-21 22h|2024-08-07 22h|
 |#|space-war-infinity-024a8f|SPACE WAR - INFINITY|1,79€|50|2024-04-30 15h|2024-05-07 15h|

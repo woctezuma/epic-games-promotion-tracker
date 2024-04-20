@@ -33,7 +33,7 @@
 |#|jack-holmes-master-of-puppets-a76571|Jack Holmes: Master of Puppets|19,99€|25|2024-04-26 10h|2024-05-03 10h|
 |#|manor-lords-ef795f|Manor Lords|39,99€|25|2024-04-26 13h|2024-05-03 13h|
 |#|snakebird-complete-e6f0ae|Snakebird Complete|13,49€|20|2024-04-26 07h|2024-05-04 05h|
-|#|scary-and-dot-86b1ff|SCARY AND DOT|1,79€|75|2024-04-19 22h|2024-05-04 22h|
+|#|man-in-the-dark-5c468e|Man in the Dark|7,19€|15|2024-04-27 06h|2024-05-04 06h|
 |#|front-mission-1st-remake-124a24|FRONT MISSION 1st: Remake|31,39€|50|2024-04-30 13h|2024-05-06 13h|
 |#|disaster-report-4-summer-memories|Disaster Report 4: Summer Memories|59,99€|67|2024-04-27 15h|2024-05-06 14h|
 |#|disgaea-6-complete|Disgaea 6 Complete|59,99€|35|2024-04-27 15h|2024-05-06 14h|
@@ -49,6 +49,7 @@
 |#|the-legend-of-nayuta-boundless-trails|The Legend of Nayuta: Boundless Trails|39,99€|20|2024-04-27 15h|2024-05-06 14h|
 |#|ys-ix-monstrum-nox|Ys IX: Monstrum Nox|59,99€|40|2024-04-27 15h|2024-05-06 14h|
 |#|jusant|Jusant|24,99€|30|2024-04-30 17h|2024-05-06 17h|
+|#|galactic-empire-f23125|Galactic Empire|13,49€|35|2024-04-21 10h|2024-05-06 23h|
 |#|1001-jigsaw-world-tour-london-06dba1|1001 Jigsaw. World Tour: London|4,49€|50|2024-04-30 15h|2024-05-07 15h|
 |#|adventures-of-chris-64c13b|Adventures of Chris|11,99€|80|2024-04-30 15h|2024-05-07 15h|
 |#|argonauts-agency-captive-of-circe-547604|Argonauts Agency 5: Captive of Circe|4,49€|50|2024-04-30 15h|2024-05-07 15h|
@@ -115,6 +116,7 @@
 |#|mordhau|MORDHAU|26,99€|66|2024-04-28 23h|2024-05-12 23h|
 |#|psychiatrist-simulator-bfbcc4|Psychiatrist Simulator|4,49€|80|2024-04-28 23h|2024-05-12 23h|
 |#|brain-show-89d0fd|Brain Show: Party Quiz|13,49€|20|2024-04-29 13h|2024-05-13 13h|
+|#|dungeon-escape-71b2bc|Dungeon Escape|4,49€|40|2024-05-06 15h|2024-05-13 15h|
 |#|gas-station-simulator-ee93c7|Gas Station Simulator|17,99€|30|2024-04-29 19h|2024-05-13 19h|
 |#|he-will-shoot-46efff|He Will Shoot|1,59€|70|2024-04-25 22h|2024-05-13 22h|
 |#|marble-it-up-ultra-7b5692|Marble It Up! Ultra|26,99€|60|2024-05-01 07h|2024-05-14 07h|
@@ -334,6 +336,7 @@
 |#|ebenezer-and-the-invisible-world-9241e7|Ebenezer and the Invisible World|19,99€|20|2024-05-16 15h|2024-06-13 15h|
 |#|effie-f06e3c|Effie|16,79€|75|2024-05-16 15h|2024-06-13 15h|
 |#|eigengrau-62aef0|Eigengrau|8,99€|50|2024-05-16 15h|2024-06-13 15h|
+|#|electro-magnate-6ac0b7|Electro Magnate|3,59€|40|2024-05-16 15h|2024-06-13 15h|
 |#|europa-universalis-iv|Europa Universalis IV|39,99€|70|2024-05-16 15h|2024-06-13 15h|
 |#|evans-remains|Evan's Remains|5,99€|50|2024-05-16 15h|2024-06-13 15h|
 |#|everlasting-guilt-213534|Everlasting Guilt|8,99€|50|2024-05-16 15h|2024-06-13 15h|
@@ -453,7 +456,7 @@
 |#|one-military-camp-8db1f6|One Military Camp|24,99€|40|2024-05-16 15h|2024-06-13 15h|
 |#|onsen-master-9e1323|Onsen Master|11,99€|40|2024-05-16 15h|2024-06-13 15h|
 |#|orten-was-the-case-d108fb|Orten Was The Case|13,49€|20|2024-05-16 15h|2024-06-13 15h|
-|#|outcore-desktop-adventure-eb3aff|Outcore - Desktop Adventure|8,99€|20|2024-05-16 15h|2024-06-13 15h|
+|#|outcore-desktop-adventure-eb3aff|Outcore - Desktop Adventure|8,99€|30|2024-05-16 15h|2024-06-13 15h|
 |#|overcooked-2|Overcooked! 2|22,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|override-2-super-mech-league|Override 2: Super Mech League|29,99€|90|2024-05-16 15h|2024-06-13 15h|
 |#|oxide-room-104-4c1249|Oxide Room 104|17,99€|75|2024-05-16 15h|2024-06-13 15h|
