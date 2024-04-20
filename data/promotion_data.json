@@ -1476,6 +1476,15 @@
     "title": "Dream of Tiny Snow"
   },
   {
+    "discountPercentage": 40,
+    "endDate": "2024-05-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 449,
+    "slug": "dungeon-escape-71b2bc",
+    "startDate": "2024-05-06T15:00:00.000Z",
+    "title": "Dungeon Escape"
+  },
+  {
     "discountPercentage": 35,
     "endDate": "2024-06-13T15:00:00.000Z",
     "isFree": false,
@@ -1609,6 +1618,15 @@
     "slug": "elderand-09e6bc",
     "startDate": "2024-04-30T15:00:00.000Z",
     "title": "Elderand"
+  },
+  {
+    "discountPercentage": 40,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 359,
+    "slug": "electro-magnate-6ac0b7",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Electro Magnate"
   },
   {
     "discountPercentage": 70,
@@ -2068,6 +2086,15 @@
     "slug": "grime",
     "startDate": "2024-05-07T15:00:00.000Z",
     "title": "GRIME"
+  },
+  {
+    "discountPercentage": 35,
+    "endDate": "2024-05-06T23:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "galactic-empire-f23125",
+    "startDate": "2024-04-21T10:00:00.000Z",
+    "title": "Galactic Empire"
   },
   {
     "discountPercentage": 60,
@@ -3141,6 +3168,15 @@
     "title": "Mall of Mayhem"
   },
   {
+    "discountPercentage": 15,
+    "endDate": "2024-05-04T06:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 719,
+    "slug": "man-in-the-dark-5c468e",
+    "startDate": "2024-04-27T06:00:00.000Z",
+    "title": "Man in the Dark"
+  },
+  {
     "discountPercentage": 25,
     "endDate": "2024-05-03T13:00:00.000Z",
     "isFree": false,
@@ -3591,7 +3627,7 @@
     "title": "Outbreak The Fedora Files: What Lydia Knows"
   },
   {
-    "discountPercentage": 20,
+    "discountPercentage": 30,
     "endDate": "2024-06-13T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 899,
@@ -4084,15 +4120,6 @@
     "slug": "royal-defense-invisible-threat-b39335",
     "startDate": "2024-04-30T15:00:00.000Z",
     "title": "Royal Defense - Invisible Threat"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2024-05-04T22:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 179,
-    "slug": "scary-and-dot-86b1ff",
-    "startDate": "2024-04-19T22:00:00.000Z",
-    "title": "SCARY AND DOT"
   },
   {
     "discountPercentage": 75,
