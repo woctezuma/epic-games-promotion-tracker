@@ -95,6 +95,7 @@
 |#|paradise-lost|Paradise Lost|12,49€|80|2024-05-16 15h|2024-06-13 15h|
 |#|perimeter-ad2e5b|Perimeter|3,99€|80|2024-05-16 15h|2024-06-13 15h|
 |#|perimeter-emperors-testament-af1efc|Perimeter: Emperor's Testament|3,99€|80|2024-05-16 15h|2024-06-13 15h|
+|#|play-with-me-escape-room-586cc4|Play with Me - Escape Room|2,69€|80|2024-05-14 13h|2024-06-08 13h|
 |#|psychiatrist-simulator-bfbcc4|Psychiatrist Simulator|4,49€|80|2024-04-28 23h|2024-05-12 23h|
 |#|rez-plz-324485|REZ PLZ|11,99€|80|2024-04-30 15h|2024-05-07 15h|
 |#|realpolitiks-2|Realpolitiks II|24,99€|80|2024-05-16 15h|2024-06-13 15h|
@@ -105,9 +106,11 @@
 |#|secret-government|Secret Government|19,99€|80|2024-05-16 15h|2024-06-13 15h|
 |#|shame-legacy-ef1b66|Shame Legacy|22,39€|80|2024-04-30 22h|2024-05-18 22h|
 |#|sheltered|Sheltered|14,99€|80|2024-05-16 15h|2024-06-13 15h|
+|#|shop-tycoon-prepare-your-wallet-e705ba|Shop Tycoon - Prepare Your Wallet|5,39€|80|2024-05-14 13h|2024-06-08 13h|
 |#|stellar-interface-d14cc4|Stellar Interface|11,69€|80|2024-05-16 15h|2024-06-13 15h|
 |#|stick-it-to-the-man|Stick It To The Man!|5,99€|80|2024-05-16 15h|2024-06-13 15h|
 |#|stygian-reign-of-the-old-ones-56e1d7|Stygian: Reign of the Old Ones|19,99€|80|2024-05-16 15h|2024-06-13 15h|
+|#|the-impossible-fcebf7|THE IMPOSSIBLE|4,49€|80|2024-05-26 13h|2024-06-15 13h|
 |#|tales-of-the-tiny-planet-ab9e11|Tales of the Tiny Planet|8,99€|80|2024-04-30 15h|2024-05-07 15h|
 |#|terrain-of-magical-expertise|Terrain of Magical Expertise|19,99€|80|2024-05-16 15h|2024-06-13 15h|
 |#|the-inheritance-of-crimson-manor-81bc67|The Inheritance of Crimson Manor|17,99€|80|2024-05-11 14h|2024-05-26 07h|
@@ -230,7 +233,6 @@
 |#|europa-universalis-iv|Europa Universalis IV|39,99€|70|2024-05-16 15h|2024-06-13 15h|
 |#|gray-dawn-a0cc44|Gray Dawn|13,49€|70|2024-05-14 15h|2024-05-21 15h|
 |#|griddlers-victorian-picnic-fcc2ab|Griddlers Victorian Picnic|4,49€|70|2024-05-07 15h|2024-05-14 15h|
-|#|horror-tales-the-wine-3ab2b2|HORROR TALES The Wine|11,99€|70|2024-04-21 02h|2024-04-24 22h|
 |#|horror-tales-the-wine-3ab2b2|HORROR TALES The Wine|11,99€|70|2024-07-04 22h|2024-07-22 22h|
 |#|horror-tales-the-wine-3ab2b2|HORROR TALES The Wine|11,99€|70|2024-08-27 13h|2024-09-12 00h|
 |#|he-will-shoot-46efff|He Will Shoot|1,59€|70|2024-04-25 22h|2024-05-13 22h|
@@ -378,6 +380,7 @@
 |#|birch-simulator-21969e|Birch Simulator|0,89€|50|2024-06-21 22h|2024-07-07 22h|
 |#|birch-simulator-21969e|Birch Simulator|0,89€|50|2024-08-09 22h|2024-08-23 22h|
 |#|blood-bowl-3|Blood Bowl 3|29,99€|50|2024-05-23 16h|2024-05-30 16h|
+|#|cataire-6ce6b7|CATAIRE|0,89€|50|2024-05-14 13h|2024-06-08 13h|
 |#|cafe-owner-simulator-749e0f|Cafe Owner Simulator|17,09€|50|2024-05-16 15h|2024-06-13 15h|
 |#|calico|Calico|9,99€|50|2024-05-16 15h|2024-06-13 15h|
 |#|car-mechanic-city-driving-4996c5|Car Mechanic - City Driving|0,89€|50|2024-06-03 22h|2024-06-19 22h|
@@ -406,7 +409,6 @@
 |#|eyes-of-memes-d8864a|Eyes Of Memes|0,89€|50|2024-05-20 03h|2024-06-04 03h|
 |#|final-fantasy-vii-remake-intergrade|FINAL FANTASY VII REMAKE INTERGRADE|79,99€|50|2024-05-06 15h|2024-05-20 15h|
 |#|front-mission-1st-remake-124a24|FRONT MISSION 1st: Remake|31,39€|50|2024-04-30 13h|2024-05-06 13h|
-|#|fur-squadron-0042b8|FUR Squadron|6,29€|50|2024-04-20 23h|2024-04-27 23h|
 |#|farwest-colony-aaa81c|FarWest Colony|15,29€|50|2024-05-16 15h|2024-06-13 15h|
 |#|forgive-me-father-133635|Forgive Me Father|19,99€|50|2024-05-16 15h|2024-06-13 15h|
 |#|ghostbusters-spirits-unleashed |Ghostbusters: Spirits Unleashed|17,99€|50|2024-05-16 15h|2024-06-13 15h|
@@ -448,6 +450,7 @@
 |#|sea-of-dreams-32035a|Sea of Dreams|2,69€|50|2024-05-16 15h|2024-06-13 15h|
 |#|serbian-dancing-lady-94e658|Serbian Dancing Lady|0,89€|50|2024-05-07 22h|2024-05-29 22h|
 |#|serbian-dancing-lady-94e658|Serbian Dancing Lady|0,89€|50|2024-06-30 22h|2024-07-15 22h|
+|#|shinogi-chess-club-995dd7|Shinogi Chess Club|13,49€|50|2024-05-16 15h|2024-06-13 15h|
 |#|solitaire-game-halloween-5268c1|Solitaire Game Halloween|4,49€|50|2024-05-14 15h|2024-05-21 15h|
 |#|spongebob-squarepants-the-cosmic-shake|SpongeBob SquarePants: The Cosmic Shake|39,99€|50|2024-05-16 15h|2024-06-13 15h|
 |#|steal-then-just-escape-87b7b6|Steal, Then Just Escape|3,69€|50|2024-06-27 16h|2024-07-11 16h|
@@ -492,7 +495,6 @@
 |#|trail-of-ayash-31a1d4|Trail Of Ayash|17,99€|45|2024-05-16 15h|2024-06-13 15h|
 |#|urban-tale-75b4f0|Urban Tale|12,59€|45|2024-05-16 15h|2024-06-13 15h|
 |#|your-computer-might-be-at-risk-c5dea9|Your Computer Might Be At Risk|10,79€|45|2024-05-16 15h|2024-06-13 15h|
-|#|3d-chess-online-615201|3D Chess Online|0,89€|40|2024-04-20 17h|2024-04-29 17h|
 |#|9-years-of-shadows-a40c92|9 Years of Shadows|19,99€|40|2024-05-27 15h|2024-06-13 15h|
 |#|apico-f6e18b|APICO|15,99€|40|2024-05-16 15h|2024-06-13 15h|
 |#|against-all-odds-409105|Against All Odds|4,99€|40|2024-05-27 15h|2024-06-13 15h|
@@ -500,25 +502,19 @@
 |#|berzerk-recharged-c35563|Berzerk Recharged|8,99€|40|2024-05-16 15h|2024-06-13 15h|
 |#|blasphemous-2|Blasphemous 2|29,99€|40|2024-05-16 15h|2024-06-13 15h|
 |#|bloodshore-939cb0|Bloodshore|9,99€|40|2024-05-16 15h|2024-06-13 15h|
-|#|bus-simulator-car-driving-40dbef|Bus Simulator Car Driving|0,89€|40|2024-04-20 17h|2024-04-29 17h|
-|#|cargo-truck-simulator-2023-ff83fb|Cargo Truck Simulator 2023|0,89€|40|2024-04-20 17h|2024-04-29 17h|
 |#|cat-cafe-manager-68bd0d|Cat Cafe Manager|19,99€|40|2024-05-27 15h|2024-06-13 15h|
 |#|cat-slide-tiles-93b9d4|Cat Slide Tiles|1,79€|40|2024-04-23 15h|2024-04-30 15h|
-|#|city-ambulance-car-driving-1d3872|City Ambulance Car Driving|0,89€|40|2024-04-20 17h|2024-04-29 17h|
 |#|contraption-maker-66e1ec|Contraption Maker|10,79€|40|2024-04-30 15h|2024-05-07 15h|
 |#|cursed-castilla-maldita-castilla-ex-adaa43|Cursed Castilla (Maldita Castilla EX)|11,99€|40|2024-05-16 15h|2024-06-13 15h|
 |#|dragon-quest-xi-s-echoes-of-an-elusive-age|DRAGON QUEST® XI S: Echoes of an Elusive Age™|39,99€|40|2024-05-06 15h|2024-05-20 15h|
 |#|dungeon-escape-71b2bc|Dungeon Escape|4,49€|40|2024-05-06 15h|2024-05-13 15h|
-|#|e30-drift-car-simulator-2d2977|E30 Drift Car Simulator|0,89€|40|2024-04-20 17h|2024-04-29 17h|
 |#|elegies-aya-17c3f1|ELEGIES Aya|16,19€|40|2024-05-07 15h|2024-05-14 15h|
 |#|electro-magnate-6ac0b7|Electro Magnate|3,59€|40|2024-05-16 15h|2024-06-13 15h|
-|#|extreme-car-drift-simulator-cbd3c8|Extreme Car Drift Simulator|0,89€|40|2024-04-20 17h|2024-04-29 17h|
 |#|fish-db1795|Fish|22,39€|40|2024-05-16 15h|2024-06-13 15h|
 |#|five-dates-60ef51|Five Dates|9,99€|40|2024-05-16 15h|2024-06-13 15h|
 |#|fly-corp-398021|Fly Corp|10,79€|40|2024-05-16 15h|2024-06-13 15h|
 |#|football-manager-2024|Football Manager 2024|59,99€|40|2024-05-16 14h|2024-05-23 14h|
 |#|grime|GRIME|19,99€|40|2024-05-07 15h|2024-05-14 15h|
-|#|gangster-city-mafia-car-driving-88434c|Gangster City Mafia Car Driving|0,89€|40|2024-04-20 17h|2024-04-29 17h|
 |#|garden-city-c73d37|Garden City|4,49€|40|2024-05-07 15h|2024-05-14 15h|
 |#|hello-goodboy-4b2edb|Hello Goodboy|14,99€|40|2024-05-27 15h|2024-06-13 15h|
 |#|i-saw-black-clouds-67008d|I Saw Black Clouds|9,99€|40|2024-05-16 15h|2024-06-13 15h|
@@ -526,7 +522,6 @@
 |#|lines-guarder-174742|Line's Guarder|8,99€|40|2024-05-25 16h|2024-06-24 16h|
 |#|lysfanga-9608f2|Lysfanga: The Time Shift Warrior|24,99€|40|2024-05-16 15h|2024-06-13 15h|
 |#|night-book-77f2c7|Night Book|9,99€|40|2024-05-16 15h|2024-06-13 15h|
-|#|offroad-jeep-4x4-car-driving-simulator-2a3e3d|Offroad Jeep 4x4 Car Driving Simulator|0,89€|40|2024-04-20 17h|2024-04-29 17h|
 |#|one-military-camp-8db1f6|One Military Camp|24,99€|40|2024-05-16 15h|2024-06-13 15h|
 |#|onsen-master-9e1323|Onsen Master|11,99€|40|2024-05-16 15h|2024-06-13 15h|
 |#|pro-basketball-manager-2024-5c764f|Pro Basketball Manager 2024|26,99€|40|2024-05-16 15h|2024-06-13 15h|
@@ -558,7 +553,6 @@
 |#|forest-fire-b4bb7e|Forest Fire|5,39€|35|2024-08-01 07h|2024-08-14 07h|
 |#|forest-fire-b4bb7e|Forest Fire|5,39€|35|2024-10-01 07h|2024-10-14 07h|
 |#|forest-fire-b4bb7e|Forest Fire|5,39€|35|2024-12-15 07h|2024-12-30 07h|
-|#|galactic-empire-f23125|Galactic Empire|13,49€|35|2024-04-21 10h|2024-05-06 23h|
 |#|geometric-sniper-z-ef97ef|Geometric Sniper - Z|4,49€|35|2024-05-16 15h|2024-06-13 15h|
 |#|mia-and-the-dragon-princess-f4e1d0|Mia and the Dragon Princess|12,59€|35|2024-05-16 15h|2024-06-13 15h|
 |#|planet-of-lana-a9febe|Planet of Lana|19,99€|35|2024-05-16 15h|2024-06-13 15h|
@@ -650,7 +644,6 @@
 |#|pacific-drive|Pacific Drive|29,99€|20|2024-05-16 15h|2024-06-13 15h|
 |#|projectelement-a1ec94|Project Element|2,69€|20|2024-04-30 15h|2024-05-07 15h|
 |#|purpose-1951-e7a88b|Purpose 1951|2,69€|20|2024-04-30 15h|2024-05-07 15h|
-|#|revive-and-prosper-267559|Revive and Prosper|17,99€|20|2024-04-21 16h|2024-04-28 16h|
 |#|road-defense-outsiders-22e4ba|Road Defense: Outsiders|2,99€|20|2024-05-07 15h|2024-05-14 15h|
 |#|snakebird-complete-e6f0ae|Snakebird Complete|13,49€|20|2024-04-26 07h|2024-05-04 05h|
 |#|the-forest-cathedral-54f32c|The Forest Cathedral|13,49€|20|2024-05-16 15h|2024-06-13 15h|
@@ -670,7 +663,3 @@
 |#|man-in-the-dark-5c468e|Man in the Dark|7,19€|15|2024-04-27 06h|2024-05-04 06h|
 |#|thenightmareofarrivalchapter1-374431|The Nightmare Of Arrival Chapter1|8,99€|15|2024-05-31 11h|2024-06-30 11h|
 |#|linghehanjianwuyu-cf98a0|Reiwa outliers|3,59€|12|2024-04-30 15h|2024-05-07 15h|
-|#|gardenia-630482|Gardenia|8,99€|10|2024-04-20 23h|2024-05-19 23h|
-|#|saboteur-ii-avenging-angel-33e83c|Saboteur II Avenging Angel|7,19€|10|2024-04-20 23h|2024-05-19 23h|
-|#|saboteur-sio-123236|Saboteur SiO|9,89€|10|2024-04-20 23h|2024-05-19 23h|
-|#|saboteur-f3d01d|Saboteur!|7,19€|10|2024-04-20 23h|2024-05-19 23h|
