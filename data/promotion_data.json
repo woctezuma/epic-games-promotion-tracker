@@ -5823,6 +5823,15 @@
     "title": "SuperPower 3"
   },
   {
+    "discountPercentage": 10,
+    "endDate": "2024-05-09T12:59:00.000Z",
+    "isFree": false,
+    "originalPrice": 1479,
+    "slug": "surmount-d33e62",
+    "startDate": "2024-05-02T13:00:00.000Z",
+    "title": "Surmount"
+  },
+  {
     "discountPercentage": 75,
     "endDate": "2024-06-13T15:00:00.000Z",
     "isFree": false,
