@@ -317,7 +317,7 @@
 |#|star-wars-battlefront|STAR WARS™ Battlefront™ Ultimate Edition|19,99€|75|2024-05-02 15h|2024-05-09 15h|
 |#|sailingera-450a80|Sailing Era|19,99€|30|2024-05-16 15h|2024-06-13 15h|
 |#|saturnalia|Saturnalia|19,99€|55|2024-05-16 15h|2024-06-13 15h|
-|#|seaorama-world-of-shipping-ff5abb|SeaOrama: World of Shipping|19,99€|25|2024-05-16 15h|2024-06-13 15h|
+|#|9d16be083b4f47659e323b50780f8470|SeaOrama: World of Shipping|19,99€|25|2024-05-16 15h|2024-06-13 15h|
 |#|secret-government|Secret Government|19,99€|80|2024-05-16 15h|2024-06-13 15h|
 |#|shadowrun-hong-kong|Shadowrun Hong Kong - Extended Edition|19,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#| skabma-snowfall|Skábma - Snowfall|19,99€|70|2024-05-16 15h|2024-06-13 15h|
