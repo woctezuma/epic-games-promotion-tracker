@@ -10,6 +10,7 @@
 |#|7-billion-humans|7 Billion Humans|11,99€|50|2024-05-16 15h|2024-06-13 15h|
 |#|762-high-calibre-762-hard-life-93f60a|7,62 High Calibre|4,99€|85|2024-05-16 15h|2024-06-13 15h|
 |#|9-years-of-shadows-a40c92|9 Years of Shadows|19,99€|40|2024-05-27 15h|2024-06-13 15h|
+|#|9d16be083b4f47659e323b50780f8470|SeaOrama: World of Shipping|19,99€|25|2024-05-16 15h|2024-06-13 15h|
 |#|a-game-of-thrones-5858a3|A Game Of Thrones: The Board Game Digital Edition|19,99€|50|2024-05-16 15h|2024-06-13 15h|
 |#|a-heros-rest-67f117|A Hero's Rest: An RPG Town Simulator|24,50€|35|2024-05-16 15h|2024-06-13 15h|
 |#|a-long-journey-to-an-uncertain-end-514c7e|A Long Journey to an Uncertain End|22,39€|50|2024-05-16 15h|2024-06-13 15h|
@@ -586,7 +587,6 @@
 |#|scourgebringer|Scourgebringer|16,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|scrapnaut|Scrapnaut|11,59€|50|2024-05-16 15h|2024-06-13 15h|
 |#|sea-of-dreams-32035a|Sea of Dreams|2,69€|50|2024-05-16 15h|2024-06-13 15h|
-|#|seaorama-world-of-shipping-ff5abb|SeaOrama: World of Shipping|19,99€|25|2024-05-16 15h|2024-06-13 15h|
 |#|secret-doctrine-342083|Secret Doctrine|8,99€|40|2024-05-16 15h|2024-06-13 15h|
 |#|secret-government|Secret Government|19,99€|80|2024-05-16 15h|2024-06-13 15h|
 |#|sephonie-6ab6f7|Sephonie|15,99€|60|2024-05-16 15h|2024-06-13 15h|
