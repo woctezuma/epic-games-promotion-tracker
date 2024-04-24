@@ -647,6 +647,7 @@
 |#|super-alloy-ranger-4252cc|Super Alloy Ranger|8,99€|30|2024-05-16 15h|2024-06-13 15h|
 |#|super-hydorah-56d575|Super Hydorah|19,99€|40|2024-05-16 15h|2024-06-13 15h|
 |#|superpower-3|SuperPower 3|29,99€|50|2024-05-16 15h|2024-06-13 15h|
+|#|surmount-d33e62|Surmount|14,79€|10|2024-05-02 13h|2024-05-09 12h|
 |#|surviving-mars|Surviving Mars|29,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|switchball-hd-6d3802|Switchball HD|8,09€|50|2024-05-16 15h|2024-06-13 15h|
 |#|swordship-b6c7f4|Swordship|19,99€|60|2024-05-16 15h|2024-06-13 15h|
