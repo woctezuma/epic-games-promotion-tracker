@@ -99,6 +99,7 @@
 |#|boltbreak-c2bf02|BoltBreak|13,49€|17|2024-09-01 06h|2024-09-30 22h|
 |#|boltbreak-c2bf02|BoltBreak|13,49€|30|2024-12-01 07h|2024-12-30 07h|
 |#|boltgun-b1cb36|Warhammer 40,000: Boltgun|21,99€|35|2024-05-23 16h|2024-05-30 16h|
+|#|booze-masters-freezing-moonshine-f0449d|Booze Masters: Freezing Moonshine|13,49€|30|2024-05-16 15h|2024-06-13 15h|
 |#|borderlands-3|Borderlands 3|59,99€|85|2024-05-16 15h|2024-06-13 15h|
 |#|borderlands-the-handsome-collection|Borderlands: The Handsome Collection|59,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|born-of-bread-008e66|Born of Bread|24,99€|30|2024-05-16 15h|2024-06-13 15h|
@@ -215,10 +216,10 @@
 |#|ea-star-wars-triple-bundle|EA STAR WARS™ TRIPLE BUNDLE|89,99€|90|2024-05-02 15h|2024-05-09 15h|
 |#|eastern-exorcist-d49923|Eastern Exorcist|16,19€|30|2024-05-16 15h|2024-06-13 15h|
 |#|ebenezer-and-the-invisible-world-9241e7|Ebenezer and the Invisible World|19,99€|20|2024-05-16 15h|2024-06-13 15h|
-|#|edge-of-eternity|Edge Of Eternity|29,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|effie-f06e3c|Effie|16,79€|75|2024-05-16 15h|2024-06-13 15h|
 |#|eigengrau-62aef0|Eigengrau|8,99€|50|2024-05-16 15h|2024-06-13 15h|
 |#|elderand-09e6bc|Elderand|15,99€|50|2024-04-30 15h|2024-05-07 15h|
+|#|electrician-simulator-164e9f|Electrician Simulator|16,19€|50|2024-05-16 15h|2024-06-13 15h|
 |#|electro-magnate-6ac0b7|Electro Magnate|3,59€|40|2024-05-16 15h|2024-06-13 15h|
 |#|elegies-aya-17c3f1|ELEGIES Aya|16,19€|40|2024-05-07 15h|2024-05-14 15h|
 |#|elex|ELEX|29,99€|75|2024-05-16 15h|2024-06-13 15h|

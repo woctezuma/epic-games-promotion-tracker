@@ -203,7 +203,6 @@
 |#|dread-templar-d8e8fa|Dread Templar|19,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|dungeons-3|Dungeons 3|29,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|elex|ELEX|29,99€|75|2024-05-16 15h|2024-06-13 15h|
-|#|edge-of-eternity|Edge Of Eternity|29,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|effie-f06e3c|Effie|16,79€|75|2024-05-16 15h|2024-06-13 15h|
 |#|etherborn-00f378|Etherborn|13,99€|75|2024-05-07 15h|2024-05-14 15h|
 |#|expeditions-conquistador|Expeditions: Conquistador|19,99€|75|2024-05-16 15h|2024-06-13 15h|
@@ -533,6 +532,7 @@
 |#|endlessdungeonnewgene|ENDLESS™ Dungeon|29,99€|50|2024-05-30 14h|2024-06-13 14h|
 |#|eigengrau-62aef0|Eigengrau|8,99€|50|2024-05-16 15h|2024-06-13 15h|
 |#|elderand-09e6bc|Elderand|15,99€|50|2024-04-30 15h|2024-05-07 15h|
+|#|electrician-simulator-164e9f|Electrician Simulator|16,19€|50|2024-05-16 15h|2024-06-13 15h|
 |#|elven-rivers-the-forgotten-lands-collectors-edition-13f068|Elven Rivers. The Forgotten Lands Collector's Edition|11,69€|50|2024-05-14 15h|2024-05-21 15h|
 |#|evans-remains|Evan's Remains|5,99€|50|2024-05-16 15h|2024-06-13 15h|
 |#|everlasting-guilt-213534|Everlasting Guilt|8,99€|50|2024-05-16 15h|2024-06-13 15h|
@@ -752,6 +752,7 @@
 |#|universe-sandbox|Universe Sandbox|23,99€|33|2024-05-16 15h|2024-06-13 15h|
 |#|absolute-tactics-ca91e4|Absolute Tactics|19,99€|30|2024-05-07 15h|2024-05-14 15h|
 |#|boltbreak-c2bf02|BoltBreak|13,49€|30|2024-12-01 07h|2024-12-30 07h|
+|#|booze-masters-freezing-moonshine-f0449d|Booze Masters: Freezing Moonshine|13,49€|30|2024-05-16 15h|2024-06-13 15h|
 |#|born-of-bread-008e66|Born of Bread|24,99€|30|2024-05-16 15h|2024-06-13 15h|
 |#|bratz-flaunt-your-fashion-95d529|Bratz™: Flaunt Your Fashion|29,99€|30|2024-05-16 15h|2024-06-13 15h|
 |#|diluvian-ultra-a5ad8c|Diluvian Ultra|9,99€|30|2024-05-16 15h|2024-06-13 15h|
