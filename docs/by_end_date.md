@@ -300,6 +300,7 @@
 |#|blood-and-zombies-4273b6|Blood and Zombies|14,99€|67|2024-05-27 15h|2024-06-13 15h|
 |#|bloodshore-939cb0|Bloodshore|9,99€|40|2024-05-16 15h|2024-06-13 15h|
 |#|bob-a-thousand-lives-802452|Bob A thousand lives - Enhanced Edition|8,99€|80|2024-05-16 15h|2024-06-13 15h|
+|#|booze-masters-freezing-moonshine-f0449d|Booze Masters: Freezing Moonshine|13,49€|30|2024-05-16 15h|2024-06-13 15h|
 |#|borderlands-3|Borderlands 3|59,99€|85|2024-05-16 15h|2024-06-13 15h|
 |#|borderlands-the-handsome-collection|Borderlands: The Handsome Collection|59,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|born-of-bread-008e66|Born of Bread|24,99€|30|2024-05-16 15h|2024-06-13 15h|
@@ -386,9 +387,9 @@
 |#|elex-ii|ELEX II|49,99€|60|2024-05-16 15h|2024-06-13 15h|
 |#|eastern-exorcist-d49923|Eastern Exorcist|16,19€|30|2024-05-16 15h|2024-06-13 15h|
 |#|ebenezer-and-the-invisible-world-9241e7|Ebenezer and the Invisible World|19,99€|20|2024-05-16 15h|2024-06-13 15h|
-|#|edge-of-eternity|Edge Of Eternity|29,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|effie-f06e3c|Effie|16,79€|75|2024-05-16 15h|2024-06-13 15h|
 |#|eigengrau-62aef0|Eigengrau|8,99€|50|2024-05-16 15h|2024-06-13 15h|
+|#|electrician-simulator-164e9f|Electrician Simulator|16,19€|50|2024-05-16 15h|2024-06-13 15h|
 |#|electro-magnate-6ac0b7|Electro Magnate|3,59€|40|2024-05-16 15h|2024-06-13 15h|
 |#|elypse-b177a8|Elypse|9,99€|35|2024-05-16 15h|2024-06-13 15h|
 |#|empires-of-the-undergrowth|Empires of the Undergrowth|29,99€|35|2024-05-16 15h|2024-06-13 15h|

@@ -96,6 +96,7 @@
 |#|boltbreak-c2bf02|BoltBreak|13,49€|18|2024-06-01 06h|2024-06-30 22h|
 |#|boltbreak-c2bf02|BoltBreak|13,49€|17|2024-09-01 06h|2024-09-30 22h|
 |#|boltbreak-c2bf02|BoltBreak|13,49€|30|2024-12-01 07h|2024-12-30 07h|
+|#|booze-masters-freezing-moonshine-f0449d|Booze Masters: Freezing Moonshine|13,49€|30|2024-05-16 15h|2024-06-13 15h|
 |#|borderlands-3|Borderlands 3|59,99€|85|2024-05-16 15h|2024-06-13 15h|
 |#|borderlands-the-handsome-collection|Borderlands: The Handsome Collection|59,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|born-of-bread-008e66|Born of Bread|24,99€|30|2024-05-16 15h|2024-06-13 15h|
@@ -218,10 +219,10 @@
 |#|endlessdungeonnewgene|ENDLESS™ Dungeon|29,99€|50|2024-05-30 14h|2024-06-13 14h|
 |#|eastern-exorcist-d49923|Eastern Exorcist|16,19€|30|2024-05-16 15h|2024-06-13 15h|
 |#|ebenezer-and-the-invisible-world-9241e7|Ebenezer and the Invisible World|19,99€|20|2024-05-16 15h|2024-06-13 15h|
-|#|edge-of-eternity|Edge Of Eternity|29,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|effie-f06e3c|Effie|16,79€|75|2024-05-16 15h|2024-06-13 15h|
 |#|eigengrau-62aef0|Eigengrau|8,99€|50|2024-05-16 15h|2024-06-13 15h|
 |#|elderand-09e6bc|Elderand|15,99€|50|2024-04-30 15h|2024-05-07 15h|
+|#|electrician-simulator-164e9f|Electrician Simulator|16,19€|50|2024-05-16 15h|2024-06-13 15h|
 |#|electro-magnate-6ac0b7|Electro Magnate|3,59€|40|2024-05-16 15h|2024-06-13 15h|
 |#|elven-rivers-the-forgotten-lands-collectors-edition-13f068|Elven Rivers. The Forgotten Lands Collector's Edition|11,69€|50|2024-05-14 15h|2024-05-21 15h|
 |#|elypse-b177a8|Elypse|9,99€|35|2024-05-16 15h|2024-06-13 15h|

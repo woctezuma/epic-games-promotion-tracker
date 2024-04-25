@@ -155,7 +155,6 @@
 |#|dying-light|Dying Light Enhanced Edition|29,99€|70|2024-05-16 15h|2024-06-13 15h|
 |#|elex|ELEX|29,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|endlessdungeonnewgene|ENDLESS™ Dungeon|29,99€|50|2024-05-30 14h|2024-06-13 14h|
-|#|edge-of-eternity|Edge Of Eternity|29,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|empires-of-the-undergrowth|Empires of the Undergrowth|29,99€|35|2024-05-16 15h|2024-06-13 15h|
 |#|encased|Encased|29,99€|90|2024-05-16 15h|2024-06-13 15h|
 |#|expeditions-viking|Expeditions: Viking|29,99€|75|2024-05-16 15h|2024-06-13 15h|
@@ -446,6 +445,7 @@
 |#|beholder-3-d23253|Beholder 3|16,19€|65|2024-05-16 15h|2024-06-13 15h|
 |#|elegies-aya-17c3f1|ELEGIES Aya|16,19€|40|2024-05-07 15h|2024-05-14 15h|
 |#|eastern-exorcist-d49923|Eastern Exorcist|16,19€|30|2024-05-16 15h|2024-06-13 15h|
+|#|electrician-simulator-164e9f|Electrician Simulator|16,19€|50|2024-05-16 15h|2024-06-13 15h|
 |#|metal-mind-84cb32|Metal Mind|16,19€|15|2024-05-16 15h|2024-06-13 15h|
 |#|spirit-of-the-island|Spirit of the Island|16,19€|65|2024-05-16 15h|2024-06-13 15h|
 |#|the-fabulous-fear-machine-8e7c6b|The Fabulous Fear Machine|16,19€|40|2024-05-16 15h|2024-06-13 15h|
@@ -521,6 +521,7 @@
 |#|boltbreak-c2bf02|BoltBreak|13,49€|18|2024-06-01 06h|2024-06-30 22h|
 |#|boltbreak-c2bf02|BoltBreak|13,49€|17|2024-09-01 06h|2024-09-30 22h|
 |#|boltbreak-c2bf02|BoltBreak|13,49€|30|2024-12-01 07h|2024-12-30 07h|
+|#|booze-masters-freezing-moonshine-f0449d|Booze Masters: Freezing Moonshine|13,49€|30|2024-05-16 15h|2024-06-13 15h|
 |#|brain-show-89d0fd|Brain Show: Party Quiz|13,49€|20|2024-04-29 13h|2024-05-13 13h|
 |#|deadwater-saloon-391b9d|Deadwater Saloon|13,49€|70|2024-05-16 15h|2024-06-13 15h|
 |#|falling-out-cb0814|Falling Out|13,49€|67|2024-05-23 15h|2024-06-06 22h|
