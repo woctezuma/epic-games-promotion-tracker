@@ -864,6 +864,15 @@
     "title": "BoltBreak"
   },
   {
+    "discountPercentage": 30,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "booze-masters-freezing-moonshine-f0449d",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Booze Masters: Freezing Moonshine"
+  },
+  {
     "discountPercentage": 85,
     "endDate": "2024-06-13T15:00:00.000Z",
     "isFree": false,
@@ -1965,15 +1974,6 @@
     "discountPercentage": 75,
     "endDate": "2024-06-13T15:00:00.000Z",
     "isFree": false,
-    "originalPrice": 2999,
-    "slug": "edge-of-eternity",
-    "startDate": "2024-05-16T15:00:00.000Z",
-    "title": "Edge Of Eternity"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2024-06-13T15:00:00.000Z",
-    "isFree": false,
     "originalPrice": 1679,
     "slug": "effie-f06e3c",
     "startDate": "2024-05-16T15:00:00.000Z",
@@ -1996,6 +1996,15 @@
     "slug": "elderand-09e6bc",
     "startDate": "2024-04-30T15:00:00.000Z",
     "title": "Elderand"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2024-06-13T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1619,
+    "slug": "electrician-simulator-164e9f",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Electrician Simulator"
   },
   {
     "discountPercentage": 40,
