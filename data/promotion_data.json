@@ -2277,15 +2277,6 @@
     "title": "Falling Out"
   },
   {
-    "discountPercentage": 40,
-    "endDate": "2024-05-02T14:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1999,
-    "slug": "fallout-4",
-    "startDate": "2024-04-25T14:00:00.000Z",
-    "title": "Fallout 4"
-  },
-  {
     "discountPercentage": 80,
     "endDate": "2024-06-13T15:00:00.000Z",
     "isFree": false,
