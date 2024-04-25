@@ -244,6 +244,7 @@
 |#|fallen-legion-revenants-a2c944|Fallen Legion Revenants|39,99€|35|2024-04-27 15h|2024-05-06 14h|
 |#|fallen-legion-rise-to-glory-0ea64a|Fallen Legion: Rise to Glory|29,99€|35|2024-04-27 15h|2024-05-06 14h|
 |#|falling-out-cb0814|Falling Out|13,49€|67|2024-05-23 15h|2024-06-06 22h|
+|#|fallout-4|Fallout 4|19,99€|40|2024-04-25 14h|2024-05-02 14h|
 |#|fantasy-wars-ec9601|Fantasy Wars|4,99€|80|2024-05-16 15h|2024-06-13 15h|
 |#|farwest-colony-aaa81c|FarWest Colony|15,29€|65|2024-05-16 15h|2024-06-13 15h|
 |#|fell-seal-arbiters-mark|Fell Seal: Arbiter's Mark|29,99€|75|2024-05-16 15h|2024-06-13 15h|
