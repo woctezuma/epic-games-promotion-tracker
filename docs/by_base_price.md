@@ -207,6 +207,7 @@
 |#|cartel-tycoon|Cartel Tycoon|26,99€|60|2024-05-16 15h|2024-06-13 15h|
 |#|mordhau|MORDHAU|26,99€|66|2024-04-28 23h|2024-05-12 23h|
 |#|marble-it-up-ultra-7b5692|Marble It Up! Ultra|26,99€|60|2024-05-01 07h|2024-05-14 07h|
+|#|combo-a7e03a|Orcs Must Die! 3|26,99€|100|2024-05-02 15h|2024-05-09 15h|
 |#|pro-basketball-manager-2024-5c764f|Pro Basketball Manager 2024|26,99€|40|2024-05-16 15h|2024-06-13 15h|
 |#|under-the-waves-submarine-c88c1e|Under The Waves|26,99€|50|2024-05-16 15h|2024-06-13 15h|
 |#|road-96-full-journey|Road 96: Mile 0 – Full Journey Bundle|26,96€|73|2024-05-16 15h|2024-06-13 15h|
@@ -320,7 +321,6 @@
 |#|hercule-poirot-the-first-cases-584238|Hercule Poirot - The First Cases|19,99€|75|2024-05-16 15h|2024-06-13 15h|
 |#|hob|Hob|19,99€|80|2024-05-16 15h|2024-06-13 15h|
 |#|horror-story-hallowseed|Horror Story: Hallowseed|19,99€|80|2024-05-16 15h|2024-06-13 15h|
-|#|industria|INDUSTRIA|19,99€|100|2024-04-25 15h|2024-05-02 15h|
 |#|kapital-sparks-of-revolution-70f07b|Kapital: Sparks of Revolution|19,99€|80|2024-05-16 15h|2024-06-13 15h|
 |#|kitaria-fables|Kitaria Fables|19,99€|80|2024-05-16 15h|2024-06-13 15h|
 |#|knight-vs-giant-the-broken-excalibur-230c5c|Knight vs Giant: The Broken Excalibur|19,99€|30|2024-05-16 15h|2024-06-13 15h|
@@ -879,4 +879,3 @@
 |#|tv-head-eight-pages-85b4f3|TV Head: Eight Pages|0,89€|50|2024-09-09 22h|2024-09-23 22h|
 |#|car-tuning-simulator-38ddaf|Car Tuning Simulator|0,79€|50|2024-05-17 22h|2024-06-05 22h|
 |#|car-tuning-simulator-38ddaf|Car Tuning Simulator|0,79€|50|2024-07-07 22h|2024-07-21 22h|
-|#|lisa-the-definitive-edition|LISA: The Definitive Edition|0,00€|100|2024-04-25 15h|2024-05-02 15h|

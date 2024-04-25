@@ -136,6 +136,7 @@
 |#|clid-the-snail|Clid The Snail|19,99€|85|2024-05-16 15h|2024-06-13 15h|
 |#|clouzy-c67f4b|Clouzy|11,99€|67|2024-05-27 15h|2024-06-13 15h|
 |#|comanche|Comanche|19,99€|75|2024-05-16 15h|2024-06-13 15h|
+|#|combo-a7e03a|Orcs Must Die! 3|26,99€|100|2024-05-02 15h|2024-05-09 15h|
 |#|commandos-3-ba41db|Commandos 3 - HD Remaster|19,99€|25|2024-05-16 15h|2024-06-13 15h|
 |#|company-of-crime-a5af43|Company of Crime|19,99€|85|2024-05-16 15h|2024-06-13 15h|
 |#|conan-exiles|Conan Exiles|39,99€|60|2024-05-07 15h|2024-05-14 15h|
@@ -349,7 +350,6 @@
 |#|in-sound-mind|In Sound Mind|34,99€|90|2024-05-16 15h|2024-06-13 15h|
 |#|in-the-gym-db2771|In The Gym|0,89€|50|2024-06-01 05h|2024-06-16 05h|
 |#|indoorlands-3b2356|Indoorlands|17,09€|50|2024-04-30 15h|2024-05-07 15h|
-|#|industria|INDUSTRIA|19,99€|100|2024-04-25 15h|2024-05-02 15h|
 |#|inertial-drift|Inertial Drift|15,99€|85|2024-05-16 15h|2024-06-13 15h|
 |#|inside-soccer-2bf632|Inside Soccer|4,49€|50|2024-04-30 15h|2024-05-07 15h|
 |#|inspector-gadget-mad-time-party-1dc812|Inspector Gadget - Mad Time Party|29,99€|45|2024-05-16 15h|2024-06-13 15h|
@@ -423,7 +423,6 @@
 |#|lilas-sky-ark-610f75|Lila's Sky Ark|11,99€|80|2024-04-30 15h|2024-05-07 15h|
 |#|lines-guarder-174742|Line's Guarder|8,99€|40|2024-05-25 16h|2024-06-24 16h|
 |#|linghehanjianwuyu-cf98a0|Reiwa outliers|3,59€|12|2024-04-30 15h|2024-05-07 15h|
-|#|lisa-the-definitive-edition|LISA: The Definitive Edition|0,00€|100|2024-04-25 15h|2024-05-02 15h|
 |#|little-inferno|Little Inferno|11,99€|50|2024-05-16 15h|2024-06-13 15h|
 |#|lords-and-villeins-746931|Lords and Villeins|24,99€|66|2024-05-16 15h|2024-06-13 15h|
 |#|lost-abroad-cafe-a-language-learning-management-sim-bfc28c|Lost Abroad Cafe - A Language Learning Management|4,49€|20|2024-05-16 15h|2024-06-13 15h|

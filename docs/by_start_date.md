@@ -1,7 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|industria|INDUSTRIA|19,99€|100|2024-04-25 15h|2024-05-02 15h|
-|#|lisa-the-definitive-edition|LISA: The Definitive Edition|0,00€|100|2024-04-25 15h|2024-05-02 15h|
 |#|he-will-shoot-46efff|He Will Shoot|1,59€|70|2024-04-25 22h|2024-05-13 22h|
 |#|letters-and-legends-2a2c80|Letters & Legends|3,59€|25|2024-04-25 23h|2024-05-02 23h|
 |#|snakebird-complete-e6f0ae|Snakebird Complete|13,49€|20|2024-04-26 07h|2024-05-04 05h|
@@ -91,6 +89,7 @@
 |#|surmount-d33e62|Surmount|14,79€|10|2024-05-02 13h|2024-05-09 12h|
 |#|ea-star-wars-triple-bundle|EA STAR WARS™ TRIPLE BUNDLE|89,99€|90|2024-05-02 15h|2024-05-09 15h|
 |#|lego-star-wars-the-skywalker-saga|LEGO® Star Wars™: The Skywalker Saga|49,99€|75|2024-05-02 15h|2024-05-09 15h|
+|#|combo-a7e03a|Orcs Must Die! 3|26,99€|100|2024-05-02 15h|2024-05-09 15h|
 |#|star-wars-jedi-fallen-order|STAR WARS Jedi: Fallen Order Standard Edition|39,99€|90|2024-05-02 15h|2024-05-09 15h|
 |#|star-wars-jedi-survivor|STAR WARS Jedi: Survivor™|69,99€|55|2024-05-02 15h|2024-05-09 15h|
 |#|star-wars-battlefront-2|STAR WARS™ Battlefront™ II: Celebration Edition|39,99€|88|2024-05-02 15h|2024-05-09 15h|
