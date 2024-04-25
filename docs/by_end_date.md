@@ -1,6 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|fallout-4|Fallout 4|19,99€|40|2024-04-25 14h|2024-05-02 14h|
 |#|industria|INDUSTRIA|19,99€|100|2024-04-25 15h|2024-05-02 15h|
 |#|lisa-the-definitive-edition|LISA: The Definitive Edition|0,00€|100|2024-04-25 15h|2024-05-02 15h|
 |#|letters-and-legends-2a2c80|Letters & Legends|3,59€|25|2024-04-25 23h|2024-05-02 23h|
