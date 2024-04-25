@@ -3078,15 +3078,6 @@
     "title": "IL-2 Sturmovik: 1946"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2024-05-02T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 1999,
-    "slug": "industria",
-    "startDate": "2024-04-25T15:00:00.000Z",
-    "title": "INDUSTRIA"
-  },
-  {
     "discountPercentage": 30,
     "endDate": "2024-06-13T15:00:00.000Z",
     "isFree": false,
@@ -3580,15 +3571,6 @@
     "slug": "lego-star-wars-the-skywalker-saga",
     "startDate": "2024-05-02T15:00:00.000Z",
     "title": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2024-05-02T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 0,
-    "slug": "lisa-the-definitive-edition",
-    "startDate": "2024-04-25T15:00:00.000Z",
-    "title": "LISA: The Definitive Edition"
   },
   {
     "discountPercentage": 50,
@@ -4471,6 +4453,15 @@
     "slug": "operation-wolf-returns-first-mission-vr-446fba",
     "startDate": "2024-05-16T15:00:00.000Z",
     "title": "Operation Wolf Returns: First Mission VR"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2024-05-09T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 2699,
+    "slug": "combo-a7e03a",
+    "startDate": "2024-05-02T15:00:00.000Z",
+    "title": "Orcs Must Die! 3"
   },
   {
     "discountPercentage": 20,
