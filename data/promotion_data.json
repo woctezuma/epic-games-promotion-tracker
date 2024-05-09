@@ -7,5 +7,14 @@
     "slug": "circus-electrique",
     "startDate": "2024-05-09T15:00:00.000Z",
     "title": "Circus Electrique"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2024-05-23T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 0,
+    "slug": "mystery-game-01",
+    "startDate": "2024-05-16T15:00:00.000Z",
+    "title": "Mystery Game 1"
   }
 ]
