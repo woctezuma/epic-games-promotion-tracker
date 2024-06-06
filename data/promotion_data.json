@@ -10,15 +10,6 @@
   },
   {
     "discountPercentage": 100,
-    "endDate": "2024-06-13T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 0,
-    "slug": "marvels-midnight-suns",
-    "startDate": "2024-06-06T15:00:00.000Z",
-    "title": "Marvel's Midnight Suns"
-  },
-  {
-    "discountPercentage": 100,
     "endDate": "2024-06-20T15:00:00.000Z",
     "isFree": true,
     "originalPrice": 1999,
