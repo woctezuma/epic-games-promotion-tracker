@@ -1,5 +1,3 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|redout-2|Redout 2|19,99€|100|2024-06-13 15h|2024-06-20 15h|
 |#|lego-builders-journey|LEGO® Builder's Journey|16,99€|100|2024-06-20 15h|2024-06-27 15h|
-|#|idle-champions-of-the-forgotten-realms|Idle Champions of the Forgotten Realms|0,00€|100|2024-06-13 15h|2024-06-20 15h|
