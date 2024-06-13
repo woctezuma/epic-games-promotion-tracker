@@ -1,29 +1,11 @@
 [
   {
     "discountPercentage": 100,
-    "endDate": "2024-06-20T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 0,
-    "slug": "idle-champions-of-the-forgotten-realms",
-    "startDate": "2024-06-13T15:00:00.000Z",
-    "title": "Idle Champions of the Forgotten Realms"
-  },
-  {
-    "discountPercentage": 100,
     "endDate": "2024-06-27T15:00:00.000Z",
     "isFree": true,
     "originalPrice": 1699,
     "slug": "lego-builders-journey",
     "startDate": "2024-06-20T15:00:00.000Z",
     "title": "LEGO\u00ae Builder's Journey"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2024-06-20T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 1999,
-    "slug": "redout-2",
-    "startDate": "2024-06-13T15:00:00.000Z",
-    "title": "Redout 2"
   }
 ]
