@@ -10,6 +10,15 @@
   },
   {
     "discountPercentage": 100,
+    "endDate": "2024-06-27T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1699,
+    "slug": "lego-builders-journey",
+    "startDate": "2024-06-20T15:00:00.000Z",
+    "title": "LEGO\u00ae Builder's Journey"
+  },
+  {
+    "discountPercentage": 100,
     "endDate": "2024-06-20T15:00:00.000Z",
     "isFree": true,
     "originalPrice": 1999,
