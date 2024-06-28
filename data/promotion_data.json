@@ -1,12 +1,21 @@
 [
   {
-    "discountPercentage": 30,
+    "discountPercentage": 40,
     "endDate": "2024-08-19T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 2419,
     "slug": "lisa-the-definitive-edition",
     "startDate": "2024-08-05T15:00:00.000Z",
     "title": "LISA: The Definitive Edition"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2024-08-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1679,
+    "slug": "model-builder-f9b456",
+    "startDate": "2024-07-18T15:00:00.000Z",
+    "title": "Model Builder: Complete Edition"
   },
   {
     "discountPercentage": 100,
