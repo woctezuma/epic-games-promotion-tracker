@@ -1,5 +1,14 @@
 [
   {
+    "discountPercentage": 80,
+    "endDate": "2024-08-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1349,
+    "slug": "cat-quest-ii-9dbefc",
+    "startDate": "2024-07-18T15:00:00.000Z",
+    "title": "Cat Quest II"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2024-08-19T15:00:00.000Z",
     "isFree": false,
@@ -13,7 +22,7 @@
     "endDate": "2024-08-01T15:00:00.000Z",
     "isFree": false,
     "originalPrice": 1679,
-    "slug": "model-builder-f9b456",
+    "slug": "model-builder-complete-edition-f9b456",
     "startDate": "2024-07-18T15:00:00.000Z",
     "title": "Model Builder: Complete Edition"
   },
