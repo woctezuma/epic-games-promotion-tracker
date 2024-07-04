@@ -9,6 +9,15 @@
     "title": "Cat Quest II"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2024-07-18T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1799,
+    "slug": "floppy-knights-6a735a",
+    "startDate": "2024-07-11T15:00:00.000Z",
+    "title": "Floppy Knights"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2024-08-19T15:00:00.000Z",
     "isFree": false,
