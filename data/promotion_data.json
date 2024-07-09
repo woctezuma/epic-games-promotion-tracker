@@ -9,6 +9,15 @@
     "title": "Cat Quest II"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2024-07-18T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1799,
+    "slug": "floppy-knights-6a735a",
+    "startDate": "2024-07-11T15:00:00.000Z",
+    "title": "Floppy Knights"
+  },
+  {
     "discountPercentage": 40,
     "endDate": "2024-08-19T15:00:00.000Z",
     "isFree": false,
@@ -16,5 +25,14 @@
     "slug": "lisa-the-definitive-edition",
     "startDate": "2024-08-05T15:00:00.000Z",
     "title": "LISA: The Definitive Edition"
+  },
+  {
+    "discountPercentage": 70,
+    "endDate": "2024-08-01T15:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 1679,
+    "slug": "model-builder-complete-edition-f9b456",
+    "startDate": "2024-07-18T15:00:00.000Z",
+    "title": "Model Builder: Complete Edition"
   }
 ]
