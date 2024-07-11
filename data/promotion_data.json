@@ -18,15 +18,6 @@
     "title": "Cat Quest II"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2024-07-18T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 1799,
-    "slug": "floppy-knights-6a735a",
-    "startDate": "2024-07-11T15:00:00.000Z",
-    "title": "Floppy Knights"
-  },
-  {
     "discountPercentage": 40,
     "endDate": "2024-08-19T15:00:00.000Z",
     "isFree": false,
@@ -34,6 +25,15 @@
     "slug": "lisa-the-definitive-edition",
     "startDate": "2024-08-05T15:00:00.000Z",
     "title": "LISA: The Definitive Edition"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2024-07-25T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 2239,
+    "slug": "maid-of-sker-2ae24e",
+    "startDate": "2024-07-18T15:00:00.000Z",
+    "title": "Maid of Sker"
   },
   {
     "discountPercentage": 70,
