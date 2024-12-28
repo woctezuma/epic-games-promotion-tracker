@@ -1,47 +1,11 @@
 [
   {
     "discountPercentage": 100,
-    "endDate": "2024-07-25T15:00:00.000Z",
+    "endDate": "2024-12-29T16:00:00.000Z",
     "isFree": true,
-    "originalPrice": 1999,
-    "slug": "arcade-paradise",
-    "startDate": "2024-07-18T15:00:00.000Z",
-    "title": "Arcade Paradise"
-  },
-  {
-    "discountPercentage": 80,
-    "endDate": "2024-08-01T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1349,
-    "slug": "cat-quest-ii-9dbefc",
-    "startDate": "2024-07-18T15:00:00.000Z",
-    "title": "Cat Quest II"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2024-08-19T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 2419,
-    "slug": "lisa-the-definitive-edition",
-    "startDate": "2024-08-05T15:00:00.000Z",
-    "title": "LISA: The Definitive Edition"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2024-07-25T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 2239,
-    "slug": "maid-of-sker-2ae24e",
-    "startDate": "2024-07-18T15:00:00.000Z",
-    "title": "Maid of Sker"
-  },
-  {
-    "discountPercentage": 70,
-    "endDate": "2024-08-01T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1679,
-    "slug": "model-builder-complete-edition-f9b456",
-    "startDate": "2024-07-18T15:00:00.000Z",
-    "title": "Model Builder: Complete Edition"
+    "originalPrice": 0,
+    "slug": "mysterygame11",
+    "startDate": "2024-12-28T16:00:00.000Z",
+    "title": "Mystery Game 11"
   }
 ]
