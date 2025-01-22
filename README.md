@@ -4,6 +4,11 @@ This repository contains Python code to track upcoming promotions on the Epic Ga
 
 ![Illustration cover][img-cover]
 
+## Disclaimer
+
+> [!Note]
+> As of April 26, 2024, the leak is plugged: upcoming promotions (aside from giveaways) cannot be fetched from Epic Games anymore.
+
 ## Requirements
 
 -   Install the latest version of [Python 3.X][python-download-url].
