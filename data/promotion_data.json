@@ -1,47 +1,29 @@
 [
   {
-    "discountPercentage": 40,
-    "endDate": "2025-02-24T16:00:00.000Z",
+    "discountPercentage": 35,
+    "endDate": "2025-06-12T15:00:00.000Z",
     "isFree": false,
-    "originalPrice": 1079,
-    "slug": "behind-the-frame-the-finest-scenery",
-    "startDate": "2025-02-10T16:00:00.000Z",
-    "title": "Behind the Frame: The Finest Scenery"
-  },
-  {
-    "discountPercentage": 40,
-    "endDate": "2025-04-09T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1079,
-    "slug": "behind-the-frame-the-finest-scenery",
-    "startDate": "2025-03-26T16:00:00.000Z",
-    "title": "Behind the Frame: The Finest Scenery"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2025-02-24T16:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1349,
-    "slug": "cat-quest-ii-9dbefc",
-    "startDate": "2025-02-10T16:00:00.000Z",
-    "title": "Cat Quest II"
-  },
-  {
-    "discountPercentage": 75,
-    "endDate": "2025-04-09T15:00:00.000Z",
-    "isFree": false,
-    "originalPrice": 1349,
-    "slug": "cat-quest-ii-9dbefc",
-    "startDate": "2025-03-26T16:00:00.000Z",
-    "title": "Cat Quest II"
+    "originalPrice": 2419,
+    "slug": "lisa-the-definitive-edition",
+    "startDate": "2025-05-15T15:00:00.000Z",
+    "title": "LISA: The Definitive Edition"
   },
   {
     "discountPercentage": 100,
-    "endDate": "2025-02-06T16:00:00.000Z",
+    "endDate": "2025-04-03T15:00:00.000Z",
     "isFree": true,
-    "originalPrice": 1679,
-    "slug": "undying",
-    "startDate": "2025-01-30T16:00:00.000Z",
-    "title": "Undying"
+    "originalPrice": 0,
+    "slug": "mystery-game-0317",
+    "startDate": "2025-03-27T15:00:00.000Z",
+    "title": "Mystery Game 1"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2025-04-03T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 0,
+    "slug": "mystery-game-03172",
+    "startDate": "2025-03-27T15:00:00.000Z",
+    "title": "Mystery Game 2"
   }
 ]
