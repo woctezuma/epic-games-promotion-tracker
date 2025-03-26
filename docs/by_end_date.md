@@ -1,7 +1,5 @@
 |#|Game Slug|Game Name|Base Price|Discount (%)|Starts|Ends|
 |---|---|---|---|---|---|---|
-|#|undying|Undying|16,79€|100|2025-01-30 16h|2025-02-06 16h|
-|#|behind-the-frame-the-finest-scenery|Behind the Frame: The Finest Scenery|10,79€|40|2025-02-10 16h|2025-02-24 16h|
-|#|cat-quest-ii-9dbefc|Cat Quest II|13,49€|75|2025-02-10 16h|2025-02-24 16h|
-|#|behind-the-frame-the-finest-scenery|Behind the Frame: The Finest Scenery|10,79€|40|2025-03-26 16h|2025-04-09 15h|
-|#|cat-quest-ii-9dbefc|Cat Quest II|13,49€|75|2025-03-26 16h|2025-04-09 15h|
+|#|mystery-game-0317|Mystery Game 1|0,00€|100|2025-03-27 15h|2025-04-03 15h|
+|#|mystery-game-03172|Mystery Game 2|0,00€|100|2025-03-27 15h|2025-04-03 15h|
+|#|lisa-the-definitive-edition|LISA: The Definitive Edition|24,19€|35|2025-05-15 15h|2025-06-12 15h|
