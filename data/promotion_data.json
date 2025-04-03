@@ -1,15 +1,6 @@
 [
   {
     "discountPercentage": 100,
-    "endDate": "2025-04-10T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 0,
-    "slug": "cat-quest-ii-9dbefc",
-    "startDate": "2025-04-03T15:00:00.000Z",
-    "title": "Cat Quest II"
-  },
-  {
-    "discountPercentage": 100,
     "endDate": "2025-04-17T15:00:00.000Z",
     "isFree": true,
     "originalPrice": 0,
