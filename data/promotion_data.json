@@ -3,6 +3,15 @@
     "discountPercentage": 100,
     "endDate": "2025-04-24T15:00:00.000Z",
     "isFree": true,
+    "originalPrice": 1499,
+    "slug": "botanicula-50043d",
+    "startDate": "2025-04-17T15:00:00.000Z",
+    "title": "Botanicula"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2025-04-24T15:00:00.000Z",
+    "isFree": true,
     "originalPrice": 0,
     "slug": "firestone-online-idle-rpg-bfd04b",
     "startDate": "2025-04-17T15:00:00.000Z",
