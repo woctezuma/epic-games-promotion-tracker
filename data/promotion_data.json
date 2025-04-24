@@ -16,5 +16,14 @@
     "slug": "lisa-the-definitive-edition",
     "startDate": "2025-05-15T15:00:00.000Z",
     "title": "LISA: The Definitive Edition"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2025-05-08T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1349,
+    "slug": "super-space-club-20adbe",
+    "startDate": "2025-05-01T15:00:00.000Z",
+    "title": "Super Space Club"
   }
 ]
