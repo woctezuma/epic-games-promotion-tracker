@@ -1,7 +1,7 @@
 import cloudscraper
 import requests
 
-GRAPHQL_API_URL = "https://store.epicgames.com/graphql"
+GRAPHQL_API_URL = "https://graphql.epicgames.com/ue/graphql"
 
 
 def send_post_request_to_api(json_data, verbose=True):
