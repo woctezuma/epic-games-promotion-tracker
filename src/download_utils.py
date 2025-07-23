@@ -4,7 +4,7 @@ from src.parse_store_data import get_store_elements, get_total_num_store_element
 from src.parse_store_element import extract_upcoming_promos_from_several_elements
 from src.query_store_data import to_store_data
 
-MAX_STEP_SIZE = 1000
+MAX_STEP_SIZE = 40
 
 
 def download_store_elements(include_dlc=False, save_store_data_to_disk=True):
