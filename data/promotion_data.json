@@ -1,20 +1,20 @@
 [
   {
     "discountPercentage": 100,
-    "endDate": "2025-08-07T15:00:00.000Z",
+    "endDate": "2025-08-14T15:00:00.000Z",
     "isFree": true,
-    "originalPrice": 1799,
-    "slug": "keylocker-622bcc",
-    "startDate": "2025-07-31T15:00:00.000Z",
-    "title": "Keylocker | Turn Based Cyberpunk Action"
+    "originalPrice": 2239,
+    "slug": "112-operator-f34b0b",
+    "startDate": "2025-08-07T15:00:00.000Z",
+    "title": "112 Operator"
   },
   {
     "discountPercentage": 100,
-    "endDate": "2025-08-07T15:00:00.000Z",
+    "endDate": "2025-08-14T15:00:00.000Z",
     "isFree": true,
-    "originalPrice": 699,
-    "slug": "pilgrims-6d250f",
-    "startDate": "2025-07-31T15:00:00.000Z",
-    "title": "Pilgrims"
+    "originalPrice": 1999,
+    "slug": "road-redemption-ce16fb",
+    "startDate": "2025-08-07T15:00:00.000Z",
+    "title": "Road Redemption"
   }
 ]
