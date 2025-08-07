@@ -16,5 +16,14 @@
     "slug": "road-redemption-ce16fb",
     "startDate": "2025-08-07T15:00:00.000Z",
     "title": "Road Redemption"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2025-08-21T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1499,
+    "slug": "totally-reliable-delivery-service",
+    "startDate": "2025-08-14T15:00:00.000Z",
+    "title": "Totally Reliable Delivery Service Standard Edition"
   }
 ]
