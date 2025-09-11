@@ -10,24 +10,6 @@
   },
   {
     "discountPercentage": 100,
-    "endDate": "2025-09-18T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 3999,
-    "slug": "ghostrunner-2",
-    "startDate": "2025-09-11T15:00:00.000Z",
-    "title": "Ghostrunner 2"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2025-09-18T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 699,
-    "slug": "monument-valley-2-addd02",
-    "startDate": "2025-09-11T15:00:00.000Z",
-    "title": "Monument Valley 2"
-  },
-  {
-    "discountPercentage": 100,
     "endDate": "2025-09-25T15:00:00.000Z",
     "isFree": true,
     "originalPrice": 899,
@@ -43,14 +25,5 @@
     "slug": "samorost-2-1b9bb1",
     "startDate": "2025-09-18T15:00:00.000Z",
     "title": "Samorost 2"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2025-09-18T15:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 1349,
-    "slug": "the-battle-of-polytopia-12fed6",
-    "startDate": "2025-09-11T15:00:00.000Z",
-    "title": "The Battle of Polytopia"
   }
 ]
