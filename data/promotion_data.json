@@ -10,6 +10,24 @@
   },
   {
     "discountPercentage": 100,
+    "endDate": "2025-10-02T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1619,
+    "slug": "eastern-exorcist-d49923",
+    "startDate": "2025-09-25T15:00:00.000Z",
+    "title": "Eastern Exorcist"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2025-10-02T15:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1349,
+    "slug": "jorels-brother-and-the-most-important-game-of-the-galaxy-47435f",
+    "startDate": "2025-09-25T15:00:00.000Z",
+    "title": "Jorel\u2019s Brother and The Most Important Game of the Galaxy"
+  },
+  {
+    "discountPercentage": 100,
     "endDate": "2025-09-25T15:00:00.000Z",
     "isFree": true,
     "originalPrice": 899,
