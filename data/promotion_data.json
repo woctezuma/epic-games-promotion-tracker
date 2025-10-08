@@ -16,5 +16,14 @@
     "slug": "lisa-the-definitive-edition",
     "startDate": "2025-10-26T16:00:00.000Z",
     "title": "LISA: The Definitive Edition"
+  },
+  {
+    "discountPercentage": 50,
+    "endDate": "2026-01-08T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 2419,
+    "slug": "lisa-the-definitive-edition",
+    "startDate": "2025-12-11T16:00:00.000Z",
+    "title": "LISA: The Definitive Edition"
   }
 ]
