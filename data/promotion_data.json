@@ -43,5 +43,14 @@
     "slug": "lisa-the-definitive-edition",
     "startDate": "2025-12-11T16:00:00.000Z",
     "title": "LISA: The Definitive Edition"
+  },
+  {
+    "discountPercentage": 65,
+    "endDate": "2025-11-04T16:00:00.000Z",
+    "isFree": false,
+    "originalPrice": 699,
+    "slug": "monument-valley-1d99d3",
+    "startDate": "2025-10-28T15:00:00.000Z",
+    "title": "Monument Valley"
   }
 ]
