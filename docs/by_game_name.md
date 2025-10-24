@@ -5,3 +5,4 @@
 |#|ghostrunner-2|Ghostrunner 2|39,99€|80|2025-12-11 16h|2026-01-08 16h|
 |#|lisa-the-definitive-edition|LISA: The Definitive Edition|24,19€|40|2025-10-26 16h|2025-11-09 17h|
 |#|lisa-the-definitive-edition|LISA: The Definitive Edition|24,19€|50|2025-12-11 16h|2026-01-08 16h|
+|#|monument-valley-1d99d3|Monument Valley|6,99€|65|2025-10-28 15h|2025-11-04 16h|
