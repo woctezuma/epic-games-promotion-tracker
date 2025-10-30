@@ -36,6 +36,15 @@
     "title": "Ghostrunner 2"
   },
   {
+    "discountPercentage": 100,
+    "endDate": "2025-11-13T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 0,
+    "slug": "idle-champions-of-the-forgotten-realms",
+    "startDate": "2025-11-06T16:00:00.000Z",
+    "title": "Idle Champions of the Forgotten Realms"
+  },
+  {
     "discountPercentage": 50,
     "endDate": "2026-01-08T16:00:00.000Z",
     "isFree": false,
