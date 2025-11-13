@@ -45,33 +45,6 @@
     "title": "Monument Valley"
   },
   {
-    "discountPercentage": 100,
-    "endDate": "2025-11-20T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 1699,
-    "slug": "scourgebringer",
-    "startDate": "2025-11-13T16:00:00.000Z",
-    "title": "Scourgebringer"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2025-11-20T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 2999,
-    "slug": "songs-of-silence-778d86",
-    "startDate": "2025-11-13T16:00:00.000Z",
-    "title": "Songs of Silence"
-  },
-  {
-    "discountPercentage": 100,
-    "endDate": "2025-11-20T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 899,
-    "slug": "zero-hour-8449a0",
-    "startDate": "2025-11-13T16:00:00.000Z",
-    "title": "Zero Hour"
-  },
-  {
     "discountPercentage": 35,
     "endDate": "2025-12-02T16:00:00.000Z",
     "isFree": false,
