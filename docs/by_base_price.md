@@ -2,5 +2,7 @@
 |---|---|---|---|---|---|---|
 |#|ghostrunner-2|Ghostrunner 2|39,99€|80|2025-12-11 16h|2026-01-08 16h|
 |#|lisa-the-definitive-edition|LISA: The Definitive Edition|24,19€|50|2025-12-11 16h|2026-01-08 16h|
+|#|jackbox-party-pack-4|The Jackbox Party Pack 4|22,99€|100|2025-12-04 16h|2025-12-11 16h|
+|#|the-darkside-detective-02fd5a|The Darkside Detective|13,49€|100|2025-12-04 16h|2025-12-11 16h|
 |#|universe-for-sale-05c53e|Universe for Sale|13,49€|100|2025-11-27 16h|2025-12-04 16h|
 |#|monument-valley-1d99d3|Monument Valley|6,99€|65|2025-12-11 16h|2026-01-08 16h|
