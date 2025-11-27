@@ -28,6 +28,24 @@
   },
   {
     "discountPercentage": 100,
+    "endDate": "2025-12-11T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1349,
+    "slug": "the-darkside-detective-02fd5a",
+    "startDate": "2025-12-04T16:00:00.000Z",
+    "title": "The Darkside Detective"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2025-12-11T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 2299,
+    "slug": "jackbox-party-pack-4",
+    "startDate": "2025-12-04T16:00:00.000Z",
+    "title": "The Jackbox Party Pack 4"
+  },
+  {
+    "discountPercentage": 100,
     "endDate": "2025-12-04T16:00:00.000Z",
     "isFree": true,
     "originalPrice": 1349,
