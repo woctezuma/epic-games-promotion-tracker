@@ -1,15 +1,6 @@
 [
   {
     "discountPercentage": 100,
-    "endDate": "2025-12-20T16:00:00.000Z",
-    "isFree": true,
-    "originalPrice": 0,
-    "slug": "eternights-c2fbca",
-    "startDate": "2025-12-19T16:00:00.000Z",
-    "title": "Eternights"
-  },
-  {
-    "discountPercentage": 100,
     "endDate": "2025-12-21T16:00:00.000Z",
     "isFree": true,
     "originalPrice": 0,
