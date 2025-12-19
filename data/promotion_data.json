@@ -4,8 +4,17 @@
     "endDate": "2025-12-20T16:00:00.000Z",
     "isFree": true,
     "originalPrice": 0,
-    "slug": "mysterygame2025-3",
+    "slug": "eternights-c2fbca",
     "startDate": "2025-12-19T16:00:00.000Z",
-    "title": "Mystery Game 3"
+    "title": "Eternights"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2025-12-21T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 0,
+    "slug": "mysterygame2025-4",
+    "startDate": "2025-12-20T16:00:00.000Z",
+    "title": "Mystery Game 4"
   }
 ]
