@@ -4,8 +4,17 @@
     "endDate": "2025-12-21T16:00:00.000Z",
     "isFree": true,
     "originalPrice": 0,
-    "slug": "mysterygame2025-4",
+    "slug": "blood-west-8f6ffd",
     "startDate": "2025-12-20T16:00:00.000Z",
-    "title": "Mystery Game 4"
+    "title": "Blood West"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2025-12-22T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 0,
+    "slug": "mysterygame2025-5",
+    "startDate": "2025-12-21T16:00:00.000Z",
+    "title": "Mystery Game 5"
   }
 ]
