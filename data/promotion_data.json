@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "discountPercentage": 100,
+    "endDate": "2026-01-22T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1799,
+    "slug": "styx-master-of-shadows-4d9ab3",
+    "startDate": "2026-01-15T16:00:00.000Z",
+    "title": "Styx: Master of Shadows"
+  },
+  {
+    "discountPercentage": 100,
+    "endDate": "2026-01-22T16:00:00.000Z",
+    "isFree": true,
+    "originalPrice": 1799,
+    "slug": "styx-shards-of-darkness-77c030",
+    "startDate": "2026-01-15T16:00:00.000Z",
+    "title": "Styx: Shards of Darkness"
+  }
+]
